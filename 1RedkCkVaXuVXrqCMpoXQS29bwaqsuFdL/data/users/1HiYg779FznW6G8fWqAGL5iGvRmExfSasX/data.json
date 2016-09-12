@@ -1,0 +1,31 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 2,
+	"next_follow_id": 1,
+	"avatar": "png",
+	"user_name": "Kuroto",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471077101,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 2,
+			"body": "日本語書き込みテスト",
+			"date_added": 1471234869
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Zerro: いますよ。こんにちは！",
+			"post_uri": "1HiYg779FznW6G8fWqAGL5iGvRmExfSasX_2",
+			"date_added": 1473079956
+		}
+	],
+	"follow": []
+}

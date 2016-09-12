@@ -1,0 +1,39 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 3,
+	"next_follow_id": 3,
+	"avatar": "jpg",
+	"user_name": "rw",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Our actions are the recursive product of our older actions and of our passivity. Therefore every human is worth the same and everyone deserves to be happy.\n\nI don't want to bring my ideas here, but it makes me think that capitalism is built on a lie.\n\nI hope you're happy.",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471797499,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 2,
+			"body": "Does it support _markdown_?",
+			"date_added": 1471798408
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "In the _answers_ too? (No, apparently.)",
+			"post_uri": "1NbaJh8RrnVZU4VDBxoyUUkDcWHTM6SH7h_2",
+			"date_added": 1471798432
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1471815213
+		}
+	]
+}

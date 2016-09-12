@@ -1,0 +1,41 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 2,
+	"next_follow_id": 3,
+	"avatar": "generate",
+	"user_name": "Ericksoares3",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Hello from Brazil",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1470964932,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Sirenyc:  Tamo aparecendo. :)",
+			"post_uri": "19a377ARxUgjzrFjWAN2JPDEEnEZzDShSK_1",
+			"date_added": 1471127815
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1D7uESYtAKV36MVPGJZXuE7LUKbLwfo4dX",
+			"user_name": "Pyschopomp",
+			"date_added": 1470965046
+		},
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ",
+			"user_name": "Sirenyc",
+			"date_added": 1473532684
+		}
+	]
+}

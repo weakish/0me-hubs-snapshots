@@ -1,0 +1,21 @@
+{
+ "address": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+ "cert_auth_type": "web",
+ "cert_sign": "Gzkz4WiINx9mw1l2pM75bBOQjb1DSAj7G6WVEmGVYRwcU4GhFI6pf1dn9MzwPLAjxukJc5qAamPeFvPvl/btJy8=",
+ "cert_user_id": "arsenelupin@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "7b4a759ad7255c76c49f7da803100892841e6caaac62ee1e7d8b6c4f69a40f9a",
+   "size": 1636
+  },
+  "data.json": {
+   "sha512": "d810a04e9196bfa2ec1115a102a24e06f9ff78e5973110b9913168d516dc9d27",
+   "size": 6603
+  }
+ },
+ "inner_path": "data/users/137PNA5gLgCTLZTBtzUqCmMoZ752NQGQSJ/content.json",
+ "modified": 1473515311.579166,
+ "signs": {
+  "137PNA5gLgCTLZTBtzUqCmMoZ752NQGQSJ": "HGYfJrn+wQWzfiWfWxwNSLWLI5TZkEUe/Dx3YhLAlcs4aoENNY+DK2ZQ7Q70ykqV71muqDjdyx2FpPIP91bGZcM="
+ }
+}

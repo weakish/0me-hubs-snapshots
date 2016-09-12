@@ -1,0 +1,39 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 2,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Crispr",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471130722,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 2,
+			"body": "Is there a way to stream through this service? (like Popcorn Time)\nThat would be a great feature",
+			"date_added": 1471134241
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Dxtjgxz: Well, there is a noticeable comfortability in just clicking on movie name and get it started (while P2P is working in the background) right from your browser. There's even WebTorrent that demonstrate this capability (https://webtorrent.io/). ",
+			"post_uri": "1BRXpoix7UUd4hcoWse5MiCsXc3L1sTqDa_2",
+			"date_added": 1471135007
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1BRXpoix7UUd4hcoWse5MiCsXc3L1sTqDa",
+			"user_name": "Crispr",
+			"date_added": 1471136952
+		}
+	]
+}

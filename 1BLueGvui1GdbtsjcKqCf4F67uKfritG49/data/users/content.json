@@ -1,0 +1,32 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "files": {},
+ "ignore": ".*",
+ "inner_path": "data/users/content.json",
+ "modified": 1472730718.958,
+ "signs": {
+  "1BLueGvui1GdbtsjcKqCf4F67uKfritG49": "GzOYTmul9De8wmXKRPKlutOtllsyZrKLyZj4qfSQ3oNicam6k7A/X28Fh4S/wgTsjcpk/TgH5fPB+COQ/9qJBBQ="
+ },
+ "user_contents": {
+  "cert_signers": {
+   "zeroid.bit": [ "1iD5ZQJMNXu43w1qLB8sfdHVKppVMduGz" ]
+  },
+  "permission_rules": {
+   ".*": {
+    "files_allowed": "(data.json|avatar.jpg|avatar.png)",
+    "max_size": 50000
+   },
+   "bitid/.*@zeroid.bit": { "max_size": 60000 },
+   "bitmsg/.*@zeroid.bit": { "max_size": 60000 }
+  },
+  "permissions": {
+   "banexample@zeroid.bit": false,
+   "gimli@zeroid.bit": { "max_size": 100000 },
+   "jayofthezero@zeroid.bit": { "max_size": 100000 },
+   "ks@zeroid.bit": { "max_size": 100000 },
+   "pizdetz@zeroid.bit": { "max_size": 100000 },
+   "renegadepatriot@zeroid.bit": { "max_size": 100000 },
+   "tkarita@zeroid.bit": { "max_size": 75000 }
+  }
+ }
+}

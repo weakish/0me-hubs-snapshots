@@ -1,0 +1,21 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "HHSVYmE8CWb8DVqr40jwaxpILyOWmK/pYGk56KdgbvDhP4h9CjwzeT9ddvIRtpKqWbx2CkVHqngmFgYQzzR0nHk=",
+ "cert_user_id": "kekleberg@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "63d35fd56fdda717087d59f2a3d654c6faaffaad23cd7770f3e5a3dfbc0bd164",
+   "size": 112
+  },
+  "data.json": {
+   "sha512": "b35564f8ad5530b8ed580394333ee58a7da2c6a522edaf7286b6495eae2ae2b6",
+   "size": 4156
+  }
+ },
+ "inner_path": "data/users/1GHWYCSrEsH8KPKwRCXoM36yHMmDqjwB5J/content.json",
+ "modified": 1473236551.404242,
+ "signs": {
+  "1GHWYCSrEsH8KPKwRCXoM36yHMmDqjwB5J": "G6fH66C5fdkfO4faArUY7MPRh2zC5pcLTklKE323vA/WkElzGE+GXiFrx5zDFcfqucZfAqYWWhUHVOA7MIm+yOU="
+ }
+}

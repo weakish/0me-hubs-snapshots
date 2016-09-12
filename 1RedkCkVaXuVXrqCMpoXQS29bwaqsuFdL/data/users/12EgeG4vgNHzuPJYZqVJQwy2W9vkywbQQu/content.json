@@ -1,0 +1,21 @@
+{
+ "address": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+ "cert_auth_type": "web",
+ "cert_sign": "HCLbVvQNYzsXZWDZSqDPAKBLA2SQDJpqq1NTEo9LUAVLPE9HnI17sGPFW/jE9cUltZ+2el2C0QhOr94/ithkHfY=",
+ "cert_user_id": "paintninja@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "b714c85aa0b4ece2a4e0af923ea01137f76f37296c417921000b0a8c96b8f8d1",
+   "size": 400
+  },
+  "data.json": {
+   "sha512": "1f233af305d470080c8abd3c7f1c649f2a9507cdc87dac64df37bf713e41ca10",
+   "size": 30332
+  }
+ },
+ "inner_path": "data/users/12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu/content.json",
+ "modified": 1473363475.909,
+ "signs": {
+  "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu": "G434CpvaIYvTVSVTeMbODj+wZrIf5o8npMEz5DDpPGniTvkrcM8XbkT6JCJVZlKIBxv3xBMLjFiV8qKOB9bD5x4="
+ }
+}

@@ -1,0 +1,90 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 9,
+	"next_follow_id": 4,
+	"avatar": "generate",
+	"user_name": "Execin",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471042619,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Kaffie: a dedicated OS crafted just for ZeroNet browsing would be great",
+			"post_uri": "1EZG8eDkCFvNkYxpHmr2WbGWcSxAsRfqTT_6",
+			"date_added": 1471560394
+		},
+		{
+			"comment_id": 2,
+			"body": "find a better website that uses an html5 player",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_43",
+			"date_added": 1471576061
+		},
+		{
+			"comment_id": 3,
+			"body": "Why have you not added an avatar yet?",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_61",
+			"date_added": 1471701189
+		},
+		{
+			"comment_id": 4,
+			"body": "elinks? just use cat",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_89",
+			"date_added": 1471822837
+		},
+		{
+			"comment_id": 5,
+			"body": "since cli browsers do not really support js your best bet is something like:\ncat data/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/data/users/1EizNCr1TBaytrcEFBPrk8yk6eUFgNCC5r/data.json",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_89",
+			"date_added": 1471986442
+		},
+		{
+			"comment_id": 6,
+			"body": "I think you got that a bit wrong. That means its time to feed the cat.",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1472151813",
+			"date_added": 1472151919
+		},
+		{
+			"comment_id": 7,
+			"body": "You could host a proxy only for yourself.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473431870",
+			"date_added": 1473449191
+		},
+		{
+			"comment_id": 8,
+			"body": "@Talnicrom: Honestly, the simplest way is hosting a proxy for yourself. You could have your home PC act as one. You need to forward the port so that requests from the outside (on that particular port) will reach the computer running the ZeroNet node. Also you have to bind ZeroNet to your gateway (or to just 0.0.0.0 if you want to bind it to all gateways). Setting a password (which ZeroNet client already supports) or some other kind of authentication is also a good idea.  \n  \n  \n(you could probably do the same with equivalent IPv6 addresses)",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473431870",
+			"date_added": 1473472076
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EizNCr1TBaytrcEFBPrk8yk6eUFgNCC5r",
+			"user_name": "Execin",
+			"date_added": 1471044036
+		},
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1471044996
+		},
+		{
+			"follow_id": 3,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1471045071
+		}
+	]
+}

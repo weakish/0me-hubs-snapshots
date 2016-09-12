@@ -1,0 +1,46 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 4,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Emilesonneveld",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471180346,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Hello indeed",
+			"post_uri": "19PP4ZZ889bpVAhsRVwNQWNDBRqZMNvugW_1",
+			"date_added": 1471180354
+		},
+		{
+			"comment_id": 2,
+			"body": "Da werkt inderdaad mega smooth!",
+			"post_uri": "1N6TN6XtCEaveGM6ZcY9XkAme3CGfJgYjB_2",
+			"date_added": 1471180380
+		},
+		{
+			"comment_id": 3,
+			"body": "Waar is de chat app?",
+			"post_uri": "1N6TN6XtCEaveGM6ZcY9XkAme3CGfJgYjB_2",
+			"date_added": 1471180421
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1N6TN6XtCEaveGM6ZcY9XkAme3CGfJgYjB",
+			"user_name": "Pietervdvn",
+			"date_added": 1471180363
+		}
+	]
+}

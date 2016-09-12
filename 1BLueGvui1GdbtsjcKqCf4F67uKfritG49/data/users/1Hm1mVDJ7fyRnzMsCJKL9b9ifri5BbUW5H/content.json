@@ -1,0 +1,21 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "G87R0/OKqMN/5t4lN0OKtFQ+zAJVmpJazHjFwL4xv8C0G4y4EnpR78cQsd/9w2QrjfIVcD+mvu1OUPhTHMA92VI=",
+ "cert_user_id": "gonzafirewall@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "47defc2efe28b03db6287e33319fa92025810aa569649b2081f29a3673943984",
+   "size": 1822
+  },
+  "data.json": {
+   "sha512": "601b2d7c7e329f5d5da5ab0a22bb4b7e441634fc70014963cecc538879b1f802",
+   "size": 341
+  }
+ },
+ "inner_path": "data/users/1Hm1mVDJ7fyRnzMsCJKL9b9ifri5BbUW5H/content.json",
+ "modified": 1472063970.440753,
+ "signs": {
+  "1Hm1mVDJ7fyRnzMsCJKL9b9ifri5BbUW5H": "HHiK0vrTUsQ6rlKTsEYjknc2gVL3nbB9J/e1Emxi36yfblia+456OZyqVCNZnZbv5rkOohizTSIsv9us5ecqo8s="
+ }
+}

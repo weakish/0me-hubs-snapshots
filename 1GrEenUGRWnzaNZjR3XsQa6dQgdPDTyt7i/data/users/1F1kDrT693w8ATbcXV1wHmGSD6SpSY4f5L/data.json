@@ -1,0 +1,596 @@
+{
+	"next_post_id": 57,
+	"next_comment_id": 47,
+	"next_follow_id": 18,
+	"avatar": "jpg",
+	"user_name": "Alex",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "##Bwoi Music // **18/09/16**##\n----\n- Gamedev (C#/C++) \n- Webdev\n- ~~14~~ 15 y/o from britlands\n- Stalk me:\n    @Fanobii_ on Twitter\n    @LetsRaceBwoi on GitHub\n    Bwoi on BM\n    @SovietWomble on Instagram\n- Wrench?\n---",
+	"post": [
+		{
+			"post_id": 2,
+			"body": "This seems sweet! Really dig the layout.",
+			"date_added": 1471355243
+		},
+		{
+			"post_id": 3,
+			"body": "No character limit... eh?  There should really be a 200-300 char limit to save space for peers, surely?\n",
+			"date_added": 1471363166
+		},
+		{
+			"post_id": 4,
+			"body": "Atleast you can't scrape the user tables unlike ZeroMail\n\n...right!?",
+			"date_added": 1471363280
+		},
+		{
+			"post_id": 5,
+			"body": "There are some real big features missing on this site actually...  Won't give them away just in case my ideas are stolen ;o",
+			"date_added": 1471363338
+		},
+		{
+			"post_id": 6,
+			"body": "I'll probably end up making some sort of stats scraper at some point for ZMe...",
+			"date_added": 1471363432
+		},
+		{
+			"post_id": 7,
+			"body": "Yep, you can really scrape everyone's information from ZeroMe, even easier than ZeroMail! Good job everyone",
+			"date_added": 1471364145
+		},
+		{
+			"post_id": 8,
+			"body": "Found out how to keep track of how many followers someone's got.  Will probably make a scraper in Python later :)",
+			"date_added": 1471364240
+		},
+		{
+			"post_id": 9,
+			"body": "json_id seems to specify the user's ID.  I should probably scrape this too ;)",
+			"date_added": 1471365142
+		},
+		{
+			"post_id": 10,
+			"body": "@Kaffie how the fuck did you get 13 followers so quickly? Nofish only has 15 :o",
+			"date_added": 1471366275
+		},
+		{
+			"post_id": 11,
+			"body": "Hoping to shut down Bwoi on Saturday and bring up something new & original, hopefully this works (fingers crossed!)",
+			"date_added": 1471420092
+		},
+		{
+			"post_id": 12,
+			"body": "Forking from Bwoi seems to be my only option at this point.  It's provided a good base for quite a few prototype projects, and I think it might come in quite useful since using databases is much more difficult than I thought it would be and JSON is much more lightweight.  I just have to work out caching, and then I can finally launch said project.  Hopefully this should all go well and uploading should work nicely.",
+			"date_added": 1471513052
+		},
+		{
+			"post_id": 13,
+			"body": "Wait, there are literally no image sharing services apart from ZeroChan? How do I link to an image that isn't on clearnet :(",
+			"date_added": 1471513247
+		},
+		{
+			"post_id": 14,
+			"body": "TIL that \"<hsv=[time()*1000]>[string]\" in Meta Construct gives everyone seizures",
+			"date_added": 1471513316
+		},
+		{
+			"post_id": 18,
+			"body": "Hey guys.  Quick PSA on the status of Bwoi and myself, will try to keep this short and not too much of a rant but chances are I won't hold back.\n\nBwoi is intentionally dying at the moment, and I urge you all to find alternate solutions if you're still using it.  As of right now it's abandoned and I won't be updating it again -- which means that the index will quickly grow to become outdated as ZeroNet develops.  The site won't be taken down due to historic purposes (since I have backups of it floating around from early development) and it's nice to see how far it's come, but I feel that it has really seen the end of its days.  I was originally going to shut down the site a while back (August at some point?) but I grew ill shortly before and life got in the way a bit.  I'm fine now, of course, otherwise I wouldn't be typing this, but whatever.\n\nI won't be working on any more projects since I've basically given up.  Everything I've tried to do so far (Bwoi, ZeroTweet, BwoiVideo) has quickly been fucked over by someone else with the same/a similar idea meaning that I've just done weeks worth of work with little gain, since another service has been launched shortly before the release of a project, which is why I've moved on -- permanently -- to do something different.  I originally decided to move on to gamedev, and I'm not sure whether my mind will change, but I hope (fingers crossed) that everything goes well.\n\nWhich is why I'm moving on.  ZeroNet isn't really safe for someone like me at the moment, and it's quite difficult to develop anything of use without being overrun with \"LOL U SUCK FUCKING GET UR OWN IDEAS\" every 10 minutes as if I wanted to copy someone, for whatever reason.  Good job, you came up with a great original comment that totally hasn't been sent to me before.\n\nAnyways, might not be back for a bit, I just came up with some genuinely good ideas that hopefully won't be stolen 5 seconds before I post the URL.  ",
+			"date_added": 1472757761
+		},
+		{
+			"post_id": 1472758314,
+			"body": "Eh at least Paragon is good",
+			"date_added": 1472758295
+		},
+		{
+			"post_id": 1472766375,
+			"body": "I CAME UP WITH AN IDEA THAT HASN'T BEEN DONE THIS IS GREAT",
+			"date_added": 1472766355
+		},
+		{
+			"post_id": 1472813788,
+			"body": "project_theme_hint_01:https://www.youtube.com/watch?v=i-6SPTbSh44\nproject_theme_hint_02:https://www.youtube.com/watch?v=EF_p2U_mlYo\n\n\nbob_ross",
+			"date_added": 1472813767
+		},
+		{
+			"post_id": 1472814540,
+			"body": "Just to be clear: the new project will keep bwoi.bit.  It isn't going anywhere, but the search engine will be drastically different ;)",
+			"date_added": 1472814518
+		},
+		{
+			"post_id": 1472826662,
+			"body": "Sometimes you're told there's nothing beyond the horizon, but to know for sure you must travel there yourself.",
+			"date_added": 1472826639
+		},
+		{
+			"post_id": 1472828679,
+			"body": "Someone seed this? Need to test something quickly.\n\nEDITED: [DONE FOR NOW]",
+			"date_added": 1472828655
+		},
+		{
+			"post_id": 1472828795,
+			"body": "Well it works, so I may as well announce something soon :^)",
+			"date_added": 1472828770
+		},
+		{
+			"post_id": 1472831460,
+			"body": "Project proof-of-concept nearly ready :^)",
+			"date_added": 1472831432
+		},
+		{
+			"post_id": 1472832331,
+			"body": "works https://ipfs.pics/ipfs/QmddoeqpjCtypBB8mHQvS9fEUHZ5oSKrTmsqMf3b5Z1NS8",
+			"date_added": 1472832302
+		},
+		{
+			"post_id": 1472833512,
+			"body": "Can confirm will be seeding \"Tales from 4Chan: Chippo Man\" and the whole \"Tales from 4Chan: Anon works IT\" series on ZeroTube",
+			"date_added": 1472833482
+		},
+		{
+			"post_id": 1472843610,
+			"body": "Anyone know if there's a way of using databases without using CoffeeScript? I hate trying to use it because it never seems to work for me, any suggestions?",
+			"date_added": 1472843578
+		},
+		{
+			"post_id": 1472843915,
+			"body": "This song is so chill tho \nhttp://127.0.0.1:43110/1f7FYxZWSZ5YG7Nd8sGsHcWEQgvdnVvQF/track.html?id=44c07419250f169ad6bcbadd3e199d43de443a5a",
+			"date_added": 1472843882
+		},
+		{
+			"post_id": 1472893054,
+			"body": "This should loop:\nhttp://127.0.0.1:43110/1f7FYxZWSZ5YG7Nd8sGsHcWEQgvdnVvQF/track.html?id=fead9c4b40062b28630569750e03d8af6d6cbd5d&loop=1\n\nThis should not loop:\nhttp://127.0.0.1:43110/1f7FYxZWSZ5YG7Nd8sGsHcWEQgvdnVvQF/track.html?id=fead9c4b40062b28630569750e03d8af6d6cbd5d\n\nThis should be a different track:\nhttp://127.0.0.1:43110/1f7FYxZWSZ5YG7Nd8sGsHcWEQgvdnVvQF/track.html?id=11987a04613230437e983d2ea21e1d18f39d152e\n\nThis should be the entire Half-Life 2 OST:\nhttp://127.0.0.1:43110/1f7FYxZWSZ5YG7Nd8sGsHcWEQgvdnVvQF/track.html?id=d2b4912eb2a4da1f6496f887b082c78f56e8918b \n\nThis should not work at all:\nhttp://127.0.0.1:43110/1f7FYxZWSZ5YG7Nd8sGsHcWEQgvdnVvQF/track.html?id=pizza1869693869386938693458634683496349\n\n\nAlso fixed files appearing before buffered allowing you to click \"play\" which would crash the browser (Google, pls fix)",
+			"date_added": 1472893016
+		},
+		{
+			"post_id": 1472897483,
+			"body": "Throwback to when I was a wee modder: https://github.com/Connor4898/ModPE-Scripts",
+			"date_added": 1472897443
+		},
+		{
+			"post_id": 1472926294,
+			"body": "Proxy dump (checked as of 03/09/16 19:10GMT from list of 76: 15 working, 61 dead; these have all been working since 01/09/16)\n221.126.237.206:8080\n47.88.104.219:80\n45.62.246.212:8080\n103.227.243.154:8080\n220.225.245.109:8000\n194.105.136.230:8080\n177.55.253.68:8080\n103.250.58.52:3128\n82.209.67.31:8080\n181.48.229.106:8080\n109.74.68.242:8080\n41.190.95.80:80\n91.243.112.240:8080\n85.195.85.124:8080\n187.108.32.75:3128",
+			"date_added": 1472926253
+		},
+		{
+			"post_id": 1473091085,
+			"body": "Just updated index page, don't know if any other special changes got pushed too ;) ;)\n\nhttp://127.0.0.1:43110/1f7FYxZWSZ5YG7Nd8sGsHcWEQgvdnVvQF",
+			"date_added": 1473091043
+		},
+		{
+			"post_id": 1473097247,
+			"body": "Pushed fix for Firefox, didn't realize that some things (gradients, bg positioning) were different.  Should look like Chrome now apart from fonts (which are handled differently AFAIK)",
+			"date_added": 1473097204
+		},
+		{
+			"post_id": 1473098428,
+			"body": "Pushed another change.  See if you notice it! :) \n\nhttp://127.0.0.1:43110/1f7FYxZWSZ5YG7Nd8sGsHcWEQgvdnVvQF",
+			"date_added": 1473098384
+		},
+		{
+			"post_id": 1473182887,
+			"body": "@Kaffie I'm worried about you",
+			"date_added": 1473182842
+		},
+		{
+			"post_id": 1473183214,
+			"body": "Planning on embedding the track player into the page, a bit like SoundCloud or Spotify.  Probably won't and will end up redesigning the track page instead, but whatever.",
+			"date_added": 1473183168
+		},
+		{
+			"post_id": 1473183374,
+			"body": "Uploading will come very soon.  I promise.",
+			"date_added": 1473183327
+		},
+		{
+			"post_id": 1473185271,
+			"body": "TESTING UPLOADS! Should work neatly, still stuff to be done though\nhttp://127.0.0.1:43110/1f7FYxZWSZ5YG7Nd8sGsHcWEQgvdnVvQF/upload.html",
+			"date_added": 1473185223
+		},
+		{
+			"post_id": 1473285675,
+			"body": "Improved basically everything, enjoy :)",
+			"date_added": 1473285626
+		},
+		{
+			"post_id": 1473287396,
+			"body": "http://127.0.0.1:43110/bwoi.bit/track.html?id=23522b0f906b91f532508c270b85caf7493f78c5\n\n:)",
+			"date_added": 1473287346
+		},
+		{
+			"post_id": 1473356635,
+			"body": "http://127.0.0.1:43110/1f7FYxZWSZ5YG7Nd8sGsHcWEQgvdnVvQF\nUpdate 1.3.0:\n- New update\n- Doggos (you'll see what I mean tomorrow :D)\n- Beginning migration to DB\n- New home screen (unfinished)\n- Changed upload code to allow for multiple files",
+			"date_added": 1473356584
+		},
+		{
+			"post_id": 1473365670,
+			"body": "Planning on also adding some sort of video sync feature, so that you have some nice visuals to go with music (like what is seen in [this video](https://www.youtube.com/watch?v=7dZJ0Z_WZAE)).  You'll be able to disable it if you want to reduce bandwidth, but it will likely use @waterrabbit's clever MP4 multiplexer.",
+			"date_added": 1473365618
+		},
+		{
+			"post_id": 1473365832,
+			"body": "A little side note that most videos will be in atleast 4K (8K where possible) with an option to use 1080p to minimize bandwidth.  That way you can choose between quality and performance.",
+			"date_added": 1473365779
+		},
+		{
+			"post_id": 1473440808,
+			"body": "GUESS WHAT DAY IT IS :D",
+			"date_added": 1473440754
+		},
+		{
+			"post_id": 1473503109,
+			"body": "Sorry for the lack of activity yesterday.  Doggo.js should have automatically disabled itself and everything on Bwoi Music should be back to normal :)",
+			"date_added": 1473503054
+		},
+		{
+			"post_id": 1473579656,
+			"body": "More work is being done on the homepage for Bwoi Music.  Stay tuned.",
+			"date_added": 1473579600
+		}
+	],
+	"post_like": {
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_6": 1471364043,
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_18": 1472758237
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Nofish: Ahh, I see.  I'm guessing the local database only has the first few follows by default or something like that?",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_10",
+			"date_added": 1471367553
+		},
+		{
+			"comment_id": 2,
+			"body": "Hm.  It only outputs 15 even when I run it using the JS too... is that deliberate? @Nofish",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_10",
+			"date_added": 1471367631
+		},
+		{
+			"comment_id": 3,
+			"body": "@Arne Bolen: I'm working on a stats page for ZeroMe so that you can see details such as followers, following, liked posts, interactions etc. ",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_10",
+			"date_added": 1471367696
+		},
+		{
+			"comment_id": 5,
+			"body": "@Nofish: They did?",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_10",
+			"date_added": 1471367799
+		},
+		{
+			"comment_id": 6,
+			"body": "@Nofish: Why can't you retrieve the real number? Surely the hubs are all interconnected somewhat, and how come you got the \"real\" number? o_O",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_10",
+			"date_added": 1471367825
+		},
+		{
+			"comment_id": 7,
+			"body": "@Jayofthezero: Spam, user farming etc... Imagine you had all the usernames on ZeroMail at your disposal.  You could spam them with advertisements, phishing would be seriously easy... you get the picture.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_4",
+			"date_added": 1471367967
+		},
+		{
+			"comment_id": 8,
+			"body": "@Nofish: Ah, I think I get how it works now, thanks for the heads up haha",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_10",
+			"date_added": 1471368052
+		},
+		{
+			"comment_id": 9,
+			"body": "@Kaffie: A/S/L isn't as common here in the UK, never seen it used either in conversation or on a chatroom anywhere, only in Omegle which as far as I know is an American site?",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_10",
+			"date_added": 1471419514
+		},
+		{
+			"comment_id": 10,
+			"body": "@Jayofthezero: Yes, but if you have a list of all the users on ZeroNet you'll notice that it's pretty damn big, even for something like ZeroNet that is always gaining popularity.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_4",
+			"date_added": 1471419691
+		},
+		{
+			"comment_id": 11,
+			"body": "@Axu: Meta Construct is a GMod server",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_14",
+			"date_added": 1471515609
+		},
+		{
+			"comment_id": 12,
+			"body": "@Jayofthezero: Thanks.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_18",
+			"date_added": 1472758235
+		},
+		{
+			"comment_id": 13,
+			"body": "@Jayofthezero: it's original I can tell you that",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472766375",
+			"date_added": 1472766553
+		},
+		{
+			"comment_id": 14,
+			"body": "@Shellbound: ayy thanks :)",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472766375",
+			"date_added": 1472768080
+		},
+		{
+			"comment_id": 15,
+			"body": "@Bot: mfw the first thing I made on ZeroNet was Bwoi",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_18",
+			"date_added": 1472808437
+		},
+		{
+			"comment_id": 16,
+			"body": "I agree with the collaboration idea though.  Would be nice if people collaborated instead of going against each other.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_18",
+			"date_added": 1472808495
+		},
+		{
+			"comment_id": 17,
+			"body": "@PaintNinja: That's what I'm trying to work out right now.  It works when using instant.io, but not on ZeroNet, which is probably a side-effect of not using videostream/mediasource due to no Node.js support.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472828679",
+			"date_added": 1472831341
+		},
+		{
+			"comment_id": 18,
+			"body": "@PaintNinja: MP3s can be streamed, I think the issue lies with webtorrent.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472828679",
+			"date_added": 1472834689
+		},
+		{
+			"comment_id": 19,
+			"body": "@Zanity: That probably wouldn't be very practical for uploading though, as the end-user would need to modify each file that they want to upload to have certain flags which wouldn't be very good for users that aren't tech savvy :P",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472828679",
+			"date_added": 1472843021
+		},
+		{
+			"comment_id": 20,
+			"body": "@Zanity: Could be.  Would have to look in to it and implement some way of changing flags on-the-fly if necessary.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472828679",
+			"date_added": 1472843542
+		},
+		{
+			"comment_id": 21,
+			"body": "@Execin: Hahaha :P",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472766375",
+			"date_added": 1472843657
+		},
+		{
+			"comment_id": 23,
+			"body": "Seems legit, wasn't seeding it at that point lol",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472843915",
+			"date_added": 1472891475
+		},
+		{
+			"comment_id": 24,
+			"body": "@PaintNinja: Nice! Seems very similar, yes.  Right now all that is happening is that it's merging the ID with a magnet link (magnet:?xt=urn:btih:[ID GOES HERE]&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=wss%3A%2F%2Ftracker.btorrent.xyz&tr=wss%3A%2F%2Ftracker.fastcast.nz&tr=wss%3A%2F%2Ftracker.openwebtorrent.com&tr=wss%3A%2F%2Ftracker.webtorrent.io) and streaming, seeding when finished (to keep ratio above 1).  I'd be pretty happy to collaborate but all that needs doing is databases (and I literally can't figure out how to do those in JS), so if you're willing to :)",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472893054",
+			"date_added": 1472901972
+		},
+		{
+			"comment_id": 25,
+			"body": "@PaintNinja: Are you using ID3 extraction?  I was going to work on playlists as soon as I had databases figured out, but I guess if you've got that code we could combine resources since I'm working on getting audio to stream while downloading right now",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472893054",
+			"date_added": 1472902507
+		},
+		{
+			"comment_id": 26,
+			"body": "@PaintNinja: The problem is that since JS is client-side, there would be HUGE performance hits and it would take forever to search for something.  I'll see if I can get something working in C# to automatically create track data based on ID3 extraction if you want, just give me a sample of the file you're using and I should be able to do it pretty quickly ;)",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472893054",
+			"date_added": 1472903017
+		},
+		{
+			"comment_id": 27,
+			"body": "@PaintNinja: Isn't M4A supposed to be some sort of lossless codec?",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472893054",
+			"date_added": 1472903127
+		},
+		{
+			"comment_id": 29,
+			"body": "@PaintNinja: I meant an application that would automatically create the text files removing the need to go through manually doing it, allowing for album art / etc to be displayed pretty easily, and then place the .txt (or .info) files next to the M4A to keep the library organised, which would allow for quicker trackname / artist checking.\n\nM4A looks like it supports ID3 like most other containers, so it shouldn't be that difficult.  Apparently it looks like it might be replacing MP3 at some point which will be nice :)",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472893054",
+			"date_added": 1472905871
+		},
+		{
+			"comment_id": 30,
+			"body": "@PaintNinja: Ohh nice, saves me some time at least :D Will shoot you a message in a moment, very interested and willing to help :)",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472893054",
+			"date_added": 1472908382
+		},
+		{
+			"comment_id": 31,
+			"body": "@weakish: How would I go about executing DB queries using JS though? I've tried multiple methods and failed, is there an 'official' way?",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472843610",
+			"date_added": 1472916502
+		},
+		{
+			"comment_id": 32,
+			"body": "@Sirenyc: That's normal, nobody was seeding the file at the time :P",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472893054",
+			"date_added": 1472925196
+		},
+		{
+			"comment_id": 33,
+			"body": "@Sirenyc: If you want, I can seed the files at some point, just not now because my internet is a little busy (downloading updates via Steam)",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472893054",
+			"date_added": 1472926985
+		},
+		{
+			"comment_id": 34,
+			"body": "@Sirenyc: Couple of days.  Caught up in school atm unfortunately so it might take a while, sorry.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472893054",
+			"date_added": 1473089558
+		},
+		{
+			"comment_id": 35,
+			"body": "@Sirenyc: What browser are you using? Could you upload a screenshot to ipfs.pics?",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1473091085",
+			"date_added": 1473095610
+		},
+		{
+			"comment_id": 36,
+			"body": "@Sirenyc: That should be fixed.  Try manually updating the site if it didn't automatically update for you.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1473091085",
+			"date_added": 1473100440
+		},
+		{
+			"comment_id": 37,
+			"body": "@PaintNinja: I'm not sure as of yet.  Will probably merge into the database somewhat.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1473091085",
+			"date_added": 1473100480
+		},
+		{
+			"comment_id": 38,
+			"body": "@Sirenyc: Thanks :)",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1473098428",
+			"date_added": 1473104285
+		},
+		{
+			"comment_id": 39,
+			"body": "@Sirenyc: Fixed, thanks",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1473098428",
+			"date_added": 1473105192
+		},
+		{
+			"comment_id": 40,
+			"body": "@Wakelain: Here's a clip on pronouncing LetsRaceBwoi (my original username before it was shortened to Bwoi): http://127.0.0.1:43110/1f7FYxZWSZ5YG7Nd8sGsHcWEQgvdnVvQF/track.html?id=2db240edce4bef8729481aaee313aca2d3793733",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1473098428",
+			"date_added": 1473183206
+		},
+		{
+			"comment_id": 41,
+			"body": "@Cryptix: I had to remove one of the trackers already.  At this rate there won't even be any :lol:",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1473287396",
+			"date_added": 1473358281
+		},
+		{
+			"comment_id": 42,
+			"body": "@Sirenyc: I had planned to make it so that songs you've uploaded would be seeded by you regardless of whether you were on the upload page or not, yes",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1473356635",
+			"date_added": 1473365445
+		},
+		{
+			"comment_id": 44,
+			"body": "@cryp7ix: Streaming visuals would make it a lot friendlier, and for some songs would match the mood (i.e. calm videos for chillstep) and help get people to match the mood of the music.  Sort of like music videos, but computer generated.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1473365670",
+			"date_added": 1473503149
+		},
+		{
+			"comment_id": 45,
+			"body": "@Gnuru Wanabi: Doggo.js was just a temporary thing for my birthday because I like doggos and pranks",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1473503109",
+			"date_added": 1473537408
+		},
+		{
+			"comment_id": 46,
+			"body": "@Hanktank: Nothing.  There are no search options as of yet, though.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1473503109",
+			"date_added": 1473579363
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 3,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "16hBfwen4vQfa7NFkKPFCwWy4XViRA5DYq",
+			"user_name": "Kaffie",
+			"date_added": 1471363177
+		},
+		{
+			"follow_id": 4,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1471363185
+		},
+		{
+			"follow_id": 5,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb",
+			"user_name": "Bot",
+			"date_added": 1471363590
+		},
+		{
+			"follow_id": 6,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1471368242
+		},
+		{
+			"follow_id": 7,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "17q71BLdnEJTJeAcpm18fqHQAzFVnoeDxq",
+			"user_name": "Mono",
+			"date_added": 1471368260
+		},
+		{
+			"follow_id": 8,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N",
+			"user_name": "Quadrangle",
+			"date_added": 1471368272
+		},
+		{
+			"follow_id": 9,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L",
+			"user_name": "Alex (Bwoi)",
+			"date_added": 1471419945
+		},
+		{
+			"follow_id": 10,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9",
+			"user_name": "Shellbound",
+			"date_added": 1472766250
+		},
+		{
+			"follow_id": 11,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne",
+			"user_name": "Jayofthezero",
+			"date_added": 1472766582
+		},
+		{
+			"follow_id": 12,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1CdUfLyUi4y8ahTaEUPSdVkSsR4FbUZGiV",
+			"user_name": "Zerofx",
+			"date_added": 1472807927
+		},
+		{
+			"follow_id": 13,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1889tLMuZze7YMshhe8u5h4NT4SSiA4PVB",
+			"user_name": "Zanity",
+			"date_added": 1472844013
+		},
+		{
+			"follow_id": 14,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u",
+			"user_name": "Lola",
+			"date_added": 1472844149
+		},
+		{
+			"follow_id": 15,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ",
+			"user_name": "Sirenyc",
+			"date_added": 1472844161
+		},
+		{
+			"follow_id": 16,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "15Rb2eSb6TdwzLNBcu2vV71Df83emcKpGh",
+			"user_name": "Letitfly",
+			"date_added": 1472901818
+		},
+		{
+			"follow_id": 17,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1472901984
+		}
+	]
+}

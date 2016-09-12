@@ -1,0 +1,21 @@
+{
+ "address": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+ "cert_auth_type": "web",
+ "cert_sign": "G2sTfJMROAGt1LfRz6AsrZncOElNTdoq6MADbbovdcoFZUNUplin8aYiiZf9Ie6TMeQlAdl+Geyclf3FlPzsirM=",
+ "cert_user_id": "sanglier@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "c9706145294767239626f9fb7de2736a381e3116683541021f483a519b4c52f3",
+   "size": 1447
+  },
+  "data.json": {
+   "sha512": "59ad1f2f4dc6e67dc7f8d9ec0e9f9bd2c17f7b05593ffe625028c8fb908e3d82",
+   "size": 2031
+  }
+ },
+ "inner_path": "data/users/1CNsPUYAxXBHU9m6ujHrGacanzqYiaVt32/content.json",
+ "modified": 1472746070.788296,
+ "signs": {
+  "1CNsPUYAxXBHU9m6ujHrGacanzqYiaVt32": "HDRiee5YakCvUuHm8gyiqdWVj6nF0PlUDWH0YMdbqdoAj77IJAWcaHCaxwQEo3d+gjS2RStiVPdjUN6f76aENIk="
+ }
+}

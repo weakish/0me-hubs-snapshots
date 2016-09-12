@@ -1,0 +1,53 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 5,
+	"avatar": "generate",
+	"user_name": "Reginababy",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1472210729,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1472210778,
+			"body": "有意思",
+			"date_added": 1472210776
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1FLjf6fP5wwxNVV7jET4wRvRaY72EeYRHV",
+			"user_name": "Sunclx",
+			"date_added": 1472210742
+		},
+		{
+			"follow_id": 2,
+			"hub": "149fpM31r6YUc7WZ1m28Lq6Ef3zwdBFKBq",
+			"auth_address": "1BMckDnbHyrC7Nptr2jBRxwEHe4oYQtWqY",
+			"user_name": "5e2su6",
+			"date_added": 1472210746
+		},
+		{
+			"follow_id": 3,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1FkhsZBNVFnXGp3qtdPfAVv6HLJ49EjVwW",
+			"user_name": "Danielvartan",
+			"date_added": 1472210747
+		},
+		{
+			"follow_id": 4,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1CU8N7SEhsMTT5Bzo8J8xPza6q54ZNMZUa",
+			"user_name": "Xaiver233",
+			"date_added": 1472210748
+		}
+	]
+}

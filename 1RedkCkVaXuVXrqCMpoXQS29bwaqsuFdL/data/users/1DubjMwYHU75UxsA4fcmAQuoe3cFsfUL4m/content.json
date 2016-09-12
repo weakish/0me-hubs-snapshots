@@ -1,0 +1,21 @@
+{
+ "address": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+ "cert_auth_type": "web",
+ "cert_sign": "HCB5cNM5iYIBpJKfe5IzNn12UJO9XTQUcSF7BLn5osrXe3gsXKSYxAbJ0bLSMthJE4ncOlLnhH86QCQYf/e9lX8=",
+ "cert_user_id": "danskeren@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "39506ed39cbb783a9016c3c25d7ace9b18b85aa09a33f70d0bee6c0a284b6c34",
+   "size": 304
+  },
+  "data.json": {
+   "sha512": "f9b64582ab2e2a0991df4fbcb0296cad8158452fbd2561ab2e477789334a7d5d",
+   "size": 709
+  }
+ },
+ "inner_path": "data/users/1DubjMwYHU75UxsA4fcmAQuoe3cFsfUL4m/content.json",
+ "modified": 1471263363.509089,
+ "signs": {
+  "1DubjMwYHU75UxsA4fcmAQuoe3cFsfUL4m": "HL5IIJ9ii0TW0Cz9ymkM1/hBAbHmbFZxEP+w4/7Xt9nP3qN5p48YkzdmOUcbS90Bah0qKViDl8nJd4FMWh8rXt4="
+ }
+}

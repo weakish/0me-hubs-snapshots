@@ -1,0 +1,120 @@
+{
+	"next_comment_id": 18,
+	"user_name": "Erneraude",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"post_like": {
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_3": 1470871379,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_2": 1470871420,
+		"16YxtnaTrCSbvCXSYxrnvobmYnqtidxG23_1": 1470871134,
+		"17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp_5": 1470871493,
+		"1N1AZUiwisp1bgMoH3WSTsPSPD6DXWFpJ9_2": 1470871715,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_3": 1470897839,
+		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_2": 1470901312,
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_7": 1470907740,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_4": 1470916236,
+		"1FtUiy2KtVRiLTjs2QrvDJUSx2wMzeeavX_4": 1470923541,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_6": 1470947575,
+		"1CFhytwoGGPNqmueehPqotaf2iG9uxD98e_4": 1471358127,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1472462658": 1472467321,
+		"1CFhytwoGGPNqmueehPqotaf2iG9uxD98e_1472785018": 1472903731,
+		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1472682350": 1473510296
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Actually it's not the default text, but the last you used.",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_3",
+			"date_added": 1470872150
+		},
+		{
+			"comment_id": 2,
+			"body": "TypeError: data.comment[comment_index] is undefined\nall.js:3703:11",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_3",
+			"date_added": 1470872209
+		},
+		{
+			"comment_id": 3,
+			"body": "I got this error when I try to edit a comment (but it works well on editing posts).",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_3",
+			"date_added": 1470872292
+		},
+		{
+			"comment_id": 4,
+			"body": "Works well now... Strange",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_3",
+			"date_added": 1470897837
+		},
+		{
+			"comment_id": 5,
+			"body": "It seems to work correctly for comments on my own posts, but not when i try to edit my comments to someone else posts.",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_3",
+			"date_added": 1470897927
+		},
+		{
+			"comment_id": 6,
+			"body": "I do not use Facebook. What was the Stalker-box ?",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_7",
+			"date_added": 1470901402
+		},
+		{
+			"comment_id": 7,
+			"body": "I'm waiting for it too.",
+			"post_uri": "1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv_5",
+			"date_added": 1470902848
+		},
+		{
+			"comment_id": 8,
+			"body": "Same issue",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_4",
+			"date_added": 1470918319
+		},
+		{
+			"comment_id": 9,
+			"body": "It seems to work only for comments on your own posts.",
+			"post_uri": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib_4",
+			"date_added": 1470923718
+		},
+		{
+			"comment_id": 10,
+			"body": "I reported this bug this morning: https://github.com/HelloZeroNet/ZeroMe/issues/2",
+			"post_uri": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib_4",
+			"date_added": 1470923732
+		},
+		{
+			"comment_id": 12,
+			"body": "It appears to be fixed. It occured when the comment was on another hub.",
+			"post_uri": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib_4",
+			"date_added": 1470942492
+		},
+		{
+			"comment_id": 13,
+			"body": "Having a page filled with all the users registered may be heavy in the future. Is pagination planned ?",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_6",
+			"date_added": 1470947652
+		},
+		{
+			"comment_id": 14,
+			"body": "I'm using two terms: terminology (the best term I know), and guake (a drop-down terminal) with tmux and byobu for screen splitting.",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1472328192",
+			"date_added": 1472328617
+		},
+		{
+			"comment_id": 15,
+			"body": "I used several music players in the past:\n- VLC, very stable and complete, the web interface is awesome for managing your playlist in remote.\n- Rhythmbox, a complete player I used a few years ago, and now I'm reusing it since a few months.\n- Rage, an unknown litghtweight player similar to mplayer, but with lack of some options, especially for video.\n- Mpg123, a console/ncurses player. Fun to see a soft like this, but some bugs are presents.\nI also tried an emacs-mode that play audio files. Fun too, but pretty useless.",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1472329014",
+			"date_added": 1472329404
+		},
+		{
+			"comment_id": 16,
+			"body": "Really cool improvements :)",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1472462658",
+			"date_added": 1472467328
+		},
+		{
+			"comment_id": 17,
+			"body": "I had the problem of the touchpad/touchscreen once. I just forgot to install the drivers. After installing them, everything worked well.",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1472683247",
+			"date_added": 1472685361
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "HFhzAUzSA3iosZZknvwWjqF8LGoWE6fJETgzibTtKi3VM1erVAybPM92iO2spTsTzCI1v9OkOx76G4dFRPC20fo=",
+ "cert_user_id": "dungy@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "eb13d13e5db9666e95a9dcf8ff72f515989b186e4b6accb1fe4df22c93c83c34",
+   "size": 1613
+  },
+  "data.json": {
+   "sha512": "27adea630e72ed1c1c84ea3e0e0138acda54fdc5d832f52aaaef1d755cfa2e1b",
+   "size": 2476
+  }
+ },
+ "inner_path": "data/users/1GJ8peUcYvMy6CYXRnJJmCfAD5qcwh2PaS/content.json",
+ "modified": 1471433945.438,
+ "signs": {
+  "1GJ8peUcYvMy6CYXRnJJmCfAD5qcwh2PaS": "GwJY2jDWiF8PO2YO4vXV5UmmoHyRyUIeVV8rCjyV30PktWyY+O1h+tJg56Vd4Kcoge0xCA1+lpwFefjs+05XTbc="
+ }
+}

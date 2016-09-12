@@ -1,0 +1,37 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 3,
+	"next_follow_id": 1,
+	"avatar": "jpg",
+	"user_name": "Xiaoxin",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1472510049,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {
+		"12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1472505175": 1472510084,
+		"1GwPEhVbTW2BQF7rqUgmDm6tmdLEZ6iYVb_1472568665": 1472572947,
+		"1JoKQwXPzK8uyvMCRcwvMSAJPD5S4aH5Vt_1472715049": 1472752859,
+		"17gEFavobc7RsKNGbSzZwoSZ6jNB7hT2KN_1472745017": 1472753164
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "I just watched this yesterday--never heard of the show but the interview with Kocsis drew me in, turned out to be really cool though. And the site they advertise in the giveaway, purse.io, is pretty neat, and at least relevant to people interested in bitcoin-based services like ZeroNet.",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1472511134",
+			"date_added": 1472512086
+		},
+		{
+			"comment_id": 2,
+			"body": "I've never seen this site before, but this is right up my alley--I study forestry and resource conservation/management, and the part 2 was right on the money with what virtually all conservationists have been saying here. I used to live in Ohio, one of the many states that is used as a massive dump of tax dollars for subsidized corn farming, and the damage caused by soil erosion due to the farming of exclusively shallow-rooting crops is astounding, in the worst ways. IMO there's very little in the way of a logical argument that can be made in the case of livestock agriculture of the scale on which it exists today, in the developed world. ",
+			"post_uri": "1JoKQwXPzK8uyvMCRcwvMSAJPD5S4aH5Vt_1472715049",
+			"date_added": 1472753083
+		}
+	],
+	"follow": []
+}

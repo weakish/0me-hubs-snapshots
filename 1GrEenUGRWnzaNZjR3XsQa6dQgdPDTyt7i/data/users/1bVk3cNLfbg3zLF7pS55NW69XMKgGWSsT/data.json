@@ -1,0 +1,44 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 2,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Xalaxis",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1472210876,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1472210935,
+			"body": "Like this post if you think that the design of ZeroNet is amazing!",
+			"date_added": 1472210933
+		}
+	],
+	"post_like": {
+		"1AJSKJ9Nac7gKqLjyCJyhsfKmJ3mESuGF3_1": 1472210898,
+		"1Pg3bGXNVV9uB2HnirHFU2vaJLvmK77Dox_1": 1472210904,
+		"1H5VKNWtkBA7RpJWyYuFw5bqjwbgjXoqKp_1472187863": 1472210953,
+		"1DMBWEfQdEaRtsWEwZLY98b9t1ZcoG2ECM_1472248656": 1472210971
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "It is a bit spammy but it does help with finding new users",
+			"post_uri": "1DMBWEfQdEaRtsWEwZLY98b9t1ZcoG2ECM_1472248656",
+			"date_added": 1472210992
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1DMBWEfQdEaRtsWEwZLY98b9t1ZcoG2ECM",
+			"user_name": "Spaghettidev",
+			"date_added": 1472210978
+		}
+	]
+}

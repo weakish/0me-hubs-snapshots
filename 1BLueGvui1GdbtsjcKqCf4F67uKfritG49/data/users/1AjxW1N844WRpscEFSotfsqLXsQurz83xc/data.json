@@ -1,0 +1,42 @@
+{
+	"next_comment_id": 6,
+	"user_name": "Arne Bolen",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"post_like": {
+		"1BTK7LKA1LrvCjNqVrPmBtySWhSaHnG97Q_9": 1471384830,
+		"1BTK7LKA1LrvCjNqVrPmBtySWhSaHnG97Q_10": 1471385954,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_9": 1471456646
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Your ZeroWiki is really looking good. Impressive work! :-)",
+			"post_uri": "1BTK7LKA1LrvCjNqVrPmBtySWhSaHnG97Q_9",
+			"date_added": 1471385053
+		},
+		{
+			"comment_id": 2,
+			"body": "That list is only a small portion of all users. You need to browse 2 lists in order to see all ZeroID users:\nhttp://127.0.0.1:43110/zeroid.bit/data/users.json  (2,674 users)\nhttp://127.0.0.1:43110/zeroid.bit/data/users_archive.json  (19,505 users)",
+			"post_uri": "1JEmH2pfXkpMMdzsJ256jzq2GTSxEacS2B_3",
+			"date_added": 1471729306
+		},
+		{
+			"comment_id": 3,
+			"body": "Your database might have some problems. I suggest you do the following:\n\n1. Copy your address book to a text file.\n\n2. Shut down your Bitmessage client.\n\n3. Move (do not delete) the following file to another folder:\n/.config/PyBitmessage/messages.dat\n\n4. Start your Bitmessage client.\n\n5. Send a message to someone.\n\nPlease note that all messages you have sent/received and your address book are stored in the messages.dat database.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_23",
+			"date_added": 1471894357
+		},
+		{
+			"comment_id": 4,
+			"body": "@ks: When you start your Bitmessage client it may take some time before it has processed all messages. I suggest you wait until it has finished before sending a message.\n\nI'm running the latest version 0.6.1through Tor and it works like a charm.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_23",
+			"date_added": 1471895219
+		},
+		{
+			"comment_id": 5,
+			"body": "Did Erkan explain why he stopped using ZeroNet?",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472678549",
+			"date_added": 1472747576
+		}
+	]
+}

@@ -1,0 +1,142 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 5,
+	"next_follow_id": 15,
+	"avatar": "jpg",
+	"user_name": "Arsene Lupin",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"intro": "Gentleman thief",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471209027,
+			"body": ";)"
+		},
+		{
+			"post_id": 2,
+			"body": "ZeroNet is revealing itself not only a great piece of software (thanks @nofish) but it is also gathering a very nice community.\n\nI speak now to people like me, who is not a developer to the level of nofish, but who can hack a script together to get things done.\n\nI wonder if we can, in ZeroNet lingo, build and maintain zites in a decentralized fashion, as a community, instead of each one of us trying to create the 'next best site ever'.\n\nThis intro is to say that I'm really keen to create an ebooks zite. :)\nNot yet another ebook site. Something cool and for the long term, like libgen.io\n\nHere are some things I see on this site:\n\n- All the ebooks should be served through ipfs  (behind vpns of course) and the site/DB lives on ipfs and ZeroNet.\n- Volunteers would be able to 'adopt' whole group of ebooks (which is their commitment to donating space and bandwidth to keep the files seeded on ipfs). Just like what happens on MVGroup\n- The ebook submission would be something like providing the book ISBN (or equivalent) and the IPFS address to the file. Then one of the site 'workers' (automated scripts) would download the file, check, pull metadata for the book, etc and insert into the zite as a new page\n- Each ebook would have a page with description, rating, comments, etc (much like goodreads) - being the static content editable in a wiki style\n- Users would be able to have their 'shelves' and add ebooks into it - just like goodreads\n- Being the zite local to every node we could implement cool things like: goodreads shelves importer - you provide the csv file you export from your goodreads account and all ebooks found are automatically matched and added to your zite 'shelves'\n\nThe key values the zite would provide:\n\n- Ebook files always available through 3+ seeds (mostly via ipfs, a bonus would be to make it available via torrent as well - it's harder to seed 1000's of torrents than to seed 1000's of files on ipfs)\n- Big catalog: if we manage to work in it as a team we can have people dedicated to hoarding ebooks from around the web and scripts would automatically add the files to the zite\n- Convenience of an ebook manager: By being offline, the zite can work as a personal ebooks manager where users can organize their ebooks in shelves etc, and at the same time they have all the ebooks files. Think of a 'Calibre ebooks manager' where you can download the ebooks files from it. \n- Shared administration: I phantom the day when ZeroNet will allow different private keys to manage different parts of a zite (maybe it can already?). So multiple people could manage the zite without the possibility of one person being able to take the whole thing down. Also, all site files should be in a git repo (or the zeronet equivalent) so people can contribute.\n\nWhat are your thoughts about this? Can we pull this together?",
+			"date_added": 1471468082
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 2,
+			"body": "@Kaffie: That's nice! Is the clone yours? ",
+			"post_uri": "1A7Jhb42rcCE86shNxvzbi6uQ7Agemspdd_5",
+			"date_added": 1471465295
+		},
+		{
+			"comment_id": 3,
+			"body": "@Mynameislegion: The magnet link will only work if someone is seeding the file in a torrent client. And to seed 1000+ torrents one needs a powerful machine. AFAIK IPFS will use less resources to seed the same amount of files.\n\n@Tkarita: yeah, I saw all of them.\n",
+			"post_uri": "137PNA5gLgCTLZTBtzUqCmMoZ752NQGQSJ_2",
+			"date_added": 1471498960
+		},
+		{
+			"comment_id": 4,
+			"body": "@Habit: I've emailed you.",
+			"post_uri": "137PNA5gLgCTLZTBtzUqCmMoZ752NQGQSJ_2",
+			"date_added": 1473515310
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1KSgrKLRS1Y47h77wAqs2NwoQbNuX6ttrJ",
+			"user_name": "Zsociety",
+			"date_added": 1471209051
+		},
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1471209067
+		},
+		{
+			"follow_id": 3,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1471209071
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ",
+			"user_name": "Sirenyc",
+			"date_added": 1471209074
+		},
+		{
+			"follow_id": 5,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LkRBTdWeynXXmUhb5DXxesygs2aKaUnXx",
+			"user_name": "Mak",
+			"date_added": 1471209088
+		},
+		{
+			"follow_id": 6,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t",
+			"user_name": "tkarita",
+			"date_added": 1471209095
+		},
+		{
+			"follow_id": 7,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1JF3eQjW4voiKdcvCkMXvUx5bLmZAiVdyi",
+			"user_name": "Edantes",
+			"date_added": 1471209099
+		},
+		{
+			"follow_id": 8,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1A7Jhb42rcCE86shNxvzbi6uQ7Agemspdd",
+			"user_name": "Rebel",
+			"date_added": 1471210277
+		},
+		{
+			"follow_id": 9,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV",
+			"user_name": "Mynameislegion",
+			"date_added": 1471210345
+		},
+		{
+			"follow_id": 10,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R",
+			"user_name": "Scrub",
+			"date_added": 1471210366
+		},
+		{
+			"follow_id": 11,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1CFhytwoGGPNqmueehPqotaf2iG9uxD98e",
+			"user_name": "Method-X",
+			"date_added": 1471468925
+		},
+		{
+			"follow_id": 12,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR",
+			"user_name": "weakish",
+			"date_added": 1471544064
+		},
+		{
+			"follow_id": 13,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib",
+			"user_name": "megfault",
+			"date_added": 1471679320
+		},
+		{
+			"follow_id": 14,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1DQAexBYLLtqRurHpCnmqUsGAxsXzhZWxP",
+			"user_name": "Habit",
+			"date_added": 1473281770
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "G9mgKDDU5dEaPVuz2T1JHZpVSt5btphh6y+JdQX489NdlJeLe/y5B9E4AqeWpW9g6OriKNCczamc18ZYKeN9llY=",
+ "cert_user_id": "stephenstarkie@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "6ee0087015129a623af173095ab7f02336beaafa6b52aeb5e582befbbf2c36be",
+   "size": 1381
+  },
+  "data.json": {
+   "sha512": "61728610c3fb7a743867165eed6e01e65841853a4d7678558cff5b691ff07ae2",
+   "size": 705
+  }
+ },
+ "inner_path": "data/users/16ScAEZDt1u39wfVWZETfogqze3pq8ABMg/content.json",
+ "modified": 1473432410.602,
+ "signs": {
+  "16ScAEZDt1u39wfVWZETfogqze3pq8ABMg": "GzizlgdIAKG/DV2J8pEihaFnT8cZ4u/9hsUd8NN3UQPreSz102xfp8QfkmTcGp/IhvUHw1sw689yOci6s29dhOk="
+ }
+}

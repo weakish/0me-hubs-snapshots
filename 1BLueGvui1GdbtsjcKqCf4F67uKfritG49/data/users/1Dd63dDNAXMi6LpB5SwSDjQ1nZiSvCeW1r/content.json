@@ -1,0 +1,17 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "HKmZkI4xPVpM6yUvpdaCjwuIzZAOrqU05L+q059Mdndy21hntOFXiXaQTLHkz00B+S+leI6rk0U7FWhFloT8ixA=",
+ "cert_user_id": "futball@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a438c3f9534abf50d24b8c380dc1ab584f3b8dbc03335f8881a87fe45385efdc",
+   "size": 256
+  }
+ },
+ "inner_path": "data/users/1Dd63dDNAXMi6LpB5SwSDjQ1nZiSvCeW1r/content.json",
+ "modified": 1472911773.88,
+ "signs": {
+  "1Dd63dDNAXMi6LpB5SwSDjQ1nZiSvCeW1r": "HDyQdxEwNpukN2z6vqSPLnosAvJ8ajKzV65ZBq+vqAFcVWE82Mcu+Y1n+nfXBu+Qn75l48z05Px+UEgrpRJWor8="
+ }
+}

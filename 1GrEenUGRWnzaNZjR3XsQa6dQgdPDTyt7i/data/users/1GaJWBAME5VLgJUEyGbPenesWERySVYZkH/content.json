@@ -1,0 +1,21 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "G4YbNuBX04XO9pjfI/wvkAdBwAwDQNnFJOeaVmSsVdl02M1XFXACFQwG4JFFnjjzw0ExKZPw9nDaLWTFkVPM2kg=",
+ "cert_user_id": "marcusdaly@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "036c4be0b48204311cec567c3e84b4abc4245b30e1eff00fa5e989f21ed6eb63",
+   "size": 1468
+  },
+  "data.json": {
+   "sha512": "480708858187146e817822cf99ccb8b652fc7326069629b96d42e0458bce6db5",
+   "size": 346
+  }
+ },
+ "inner_path": "data/users/1GaJWBAME5VLgJUEyGbPenesWERySVYZkH/content.json",
+ "modified": 1471457915.627,
+ "signs": {
+  "1GaJWBAME5VLgJUEyGbPenesWERySVYZkH": "G3KgsBIh/Lo8exkdQnlEo3VjQHAm6vf2oGtNBGaudYaUBstUiSDnHnNBEjHjMkQ7RN7mOIYjhFqxaYRkqyNV6m0="
+ }
+}

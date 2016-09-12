@@ -1,0 +1,86 @@
+{
+	"next_comment_id": 15,
+	"user_name": "Andrewm",
+	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 2,
+			"body": "Transfer your zeronet/data/users.json file to the new machine and it should work.",
+			"post_uri": "17gEFavobc7RsKNGbSzZwoSZ6jNB7hT2KN_2",
+			"date_added": 1471519229
+		},
+		{
+			"comment_id": 3,
+			"body": "Not ZeroNet but https://ipfs.pics might be the closest thing.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_13",
+			"date_added": 1471519299
+		},
+		{
+			"comment_id": 4,
+			"body": "Try to pull from a Zeronet domain? It'll 404 if it's not running on their system.",
+			"post_uri": "1BBCbDdZtZ5ZJGhF2WcMRcn3FEKQ7PaoMS_4",
+			"date_added": 1471537889
+		},
+		{
+			"comment_id": 5,
+			"body": "@狗蛋: BTSync is proprietary, try Syncthinghttp://syncthing.net/. Though I agree having one Zeronet server and connecting through that one the other machine is a more elegant solution.",
+			"post_uri": "1PoiRFseXaeGhnj2mpwS3xiXVrUd8noRLW_4",
+			"date_added": 1471537975
+		},
+		{
+			"comment_id": 6,
+			"body": "@Dios: Yeah, the hubs are hosted by hundreds of peers, how exactly are they going down any time soon?",
+			"post_uri": "17gEFavobc7RsKNGbSzZwoSZ6jNB7hT2KN_4",
+			"date_added": 1471539867
+		},
+		{
+			"comment_id": 7,
+			"body": "@Drymer: It's a good skill to learn ;)",
+			"post_uri": "1BBCbDdZtZ5ZJGhF2WcMRcn3FEKQ7PaoMS_4",
+			"date_added": 1471540087
+		},
+		{
+			"comment_id": 8,
+			"body": "Damn, sounds like a good deal if you can post a one-line \"article\" and a link and get ~$7.",
+			"post_uri": "17gEFavobc7RsKNGbSzZwoSZ6jNB7hT2KN_5",
+			"date_added": 1471540236
+		},
+		{
+			"comment_id": 9,
+			"body": "@Fav: Heh, I guess you're right.",
+			"post_uri": "17gEFavobc7RsKNGbSzZwoSZ6jNB7hT2KN_5",
+			"date_added": 1471540551
+		},
+		{
+			"comment_id": 10,
+			"body": "Sup!",
+			"post_uri": "1GoqcX6nr3x1DHM9L1Hmd9fona9ds5XuGo_1",
+			"date_added": 1471550292
+		},
+		{
+			"comment_id": 11,
+			"body": "@Fav: Signal is nice.",
+			"post_uri": "17gEFavobc7RsKNGbSzZwoSZ6jNB7hT2KN_8",
+			"date_added": 1471602394
+		},
+		{
+			"comment_id": 12,
+			"body": "It uses your phone number as a username, so as long as you can do one time SMS based authentication then you can sign up. Using any burner app for mobile phones or VOIP service works. Ultimately it's still a centralized system and isn't perfect in it's requirements to run (Google Apps...) but it's user friendly and easy to suggest to others. Wire is another solution though not very well known at the moment, as is matrix. And Tox/Antox is fully decentralized, p2p and e2e encrypted, though uses quite a bit of battery since the phone is both a client and a server (one reason while zeronet on mobile might be tricky).",
+			"post_uri": "17gEFavobc7RsKNGbSzZwoSZ6jNB7hT2KN_8",
+			"date_added": 1471602902
+		},
+		{
+			"comment_id": 13,
+			"body": "\"No proxy for\" should work. Don't use quotes, and try localhost as well.\n\nhttp://i.imgur.com/WC1wdra.png",
+			"post_uri": "18EjLHTadBR6ci3XRWyMfsGeWVtXTR8xx_5",
+			"date_added": 1471661176
+		},
+		{
+			"comment_id": 14,
+			"body": "Yes",
+			"post_uri": "16ZZkSdMvXdwZAWRgbVwKf9TqABLmgvauN_1",
+			"date_added": 1471832439
+		}
+	]
+}

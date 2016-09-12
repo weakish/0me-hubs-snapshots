@@ -1,0 +1,21 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "G6Df6QmWs2q0OZly+ANOomwG0+qDYHjdXCxs5sMnhVzIGSQ9pZb6O0mYoT/0gUx/sfMpMZueYTgnKucWnxK7dHo=",
+ "cert_user_id": "edantes@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "b03ac8303366b45ce7d1b2ea212e4918826d2c83db6ba752780600495e668c71",
+   "size": 1573
+  },
+  "data.json": {
+   "sha512": "08f8e6aba156a1f17e012fbda59ccfc840a1b671759f7e112a0249633560ca0e",
+   "size": 8672
+  }
+ },
+ "inner_path": "data/users/1JF3eQjW4voiKdcvCkMXvUx5bLmZAiVdyi/content.json",
+ "modified": 1471899694.41,
+ "signs": {
+  "1JF3eQjW4voiKdcvCkMXvUx5bLmZAiVdyi": "HIwF/W/bilGiFA97VR5L+Li8QPHEnnPGUYH0EbZYj0FSnKD4uK9XGMnhLIhlrMrSd733GHKcjpYs4mH2SVa5fDY="
+ }
+}

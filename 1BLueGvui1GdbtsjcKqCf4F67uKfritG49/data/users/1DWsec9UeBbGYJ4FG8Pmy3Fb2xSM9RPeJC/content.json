@@ -1,0 +1,21 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "G2oZJ8qUNk+KXMM1tbYn5ZksLFD5PSde/6GXdOlkOb0z/2lH6aTAcmMzirw8qFR3IQXQuZ8j/wSit5dwyjBiNhU=",
+ "cert_user_id": "benjaminnelan@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "0ccca3be9f8c067ccf59752011d8d5cd05d279c09d94aff4d479c02642df3bcd",
+   "size": 1785
+  },
+  "data.json": {
+   "sha512": "9ba0a31ddc3039961bf5d5796a42f233883c2d1032a3526632f11aea9a8786f3",
+   "size": 3506
+  }
+ },
+ "inner_path": "data/users/1DWsec9UeBbGYJ4FG8Pmy3Fb2xSM9RPeJC/content.json",
+ "modified": 1471100410.177,
+ "signs": {
+  "1DWsec9UeBbGYJ4FG8Pmy3Fb2xSM9RPeJC": "G9ZFpoSHwoA36QMmdNUeG9cwU68qy8g4cUS2xml85f+DcgwWy9B9QzF6gQ6cxaxoMTI5llgI3PBArfCXMDlADxk="
+ }
+}

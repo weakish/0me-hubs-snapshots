@@ -1,0 +1,52 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 3,
+	"next_follow_id": 3,
+	"avatar": "generate",
+	"user_name": "Harambe",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Your Lord and Savior.",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1473208306,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1473208348,
+			"body": "Dicks out for me.",
+			"date_added": 1473208346
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Fwfwfwf: Then you're just not that cool.",
+			"post_uri": "1Eh6wce61kpPvGrFcS5WRfzJsxoVnyBMKF_1473208348",
+			"date_added": 1473208850
+		},
+		{
+			"comment_id": 2,
+			"body": "You sure told them!",
+			"post_uri": "1L86puoE7mTzfDzqdvVW8XTd5ReFEA2dty_1473208507",
+			"date_added": 1473208862
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1Eh6wce61kpPvGrFcS5WRfzJsxoVnyBMKF",
+			"user_name": "Harambe",
+			"date_added": 1473208326
+		},
+		{
+			"follow_id": 2,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u",
+			"user_name": "Lola",
+			"date_added": 1473210398
+		}
+	]
+}

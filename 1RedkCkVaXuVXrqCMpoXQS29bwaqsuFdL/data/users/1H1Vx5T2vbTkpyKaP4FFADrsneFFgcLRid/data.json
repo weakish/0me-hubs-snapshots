@@ -1,0 +1,33 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 2,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "Blacksquad",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471902743,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 2,
+			"body": "5465",
+			"date_added": 1471902748
+		}
+	],
+	"post_like": {
+		"1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_13": 1471904865
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "port seems to be hardcoded",
+			"post_uri": "1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_13",
+			"date_added": 1471904862
+		}
+	],
+	"follow": []
+}

@@ -1,0 +1,49 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 3,
+	"next_follow_id": 3,
+	"avatar": "jpg",
+	"user_name": "Cube",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"intro": "Not a Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471208571,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {
+		"1KrJgpJqJij8zdhJ4gFZg7gscskgtCgNmX_1": 1471211963
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@The IO monad: whats up",
+			"post_uri": "17nmKCAYoscay59Um4FKXe6KVyEEdB16V3_1",
+			"date_added": 1471210550
+		},
+		{
+			"comment_id": 2,
+			"body": "yo The IO Monad",
+			"post_uri": "18YDBsfhNGBjoPNVnHoetUdFZBcH5pR8xj_1",
+			"date_added": 1471210713
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7",
+			"user_name": "Shift",
+			"date_added": 1471210678
+		},
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "18YDBsfhNGBjoPNVnHoetUdFZBcH5pR8xj",
+			"user_name": "The IO monad",
+			"date_added": 1471210687
+		}
+	]
+}

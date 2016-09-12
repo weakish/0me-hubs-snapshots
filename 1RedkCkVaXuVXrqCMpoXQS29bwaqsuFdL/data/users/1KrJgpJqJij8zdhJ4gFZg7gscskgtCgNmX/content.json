@@ -1,0 +1,21 @@
+{
+ "address": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+ "cert_auth_type": "web",
+ "cert_sign": "HLdAjiDaP2/gqlDg0G2eYfX2PcYokHSvnWrn0B/uxh16yQvOwQlOOkruIlhsVLmxCzFccR9OMaw9TBrSEBMvGeU=",
+ "cert_user_id": "rambotito@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "3f442e3d951a7a436fb077e12aede8a05fc015bf181f3b3138ce83a998a0eb14",
+   "size": 1646
+  },
+  "data.json": {
+   "sha512": "c35733f3a61dcbf2ab8e293fa4739f4f9e2a34bd4db8c5f0437433f9d99bb59a",
+   "size": 2969
+  }
+ },
+ "inner_path": "data/users/1KrJgpJqJij8zdhJ4gFZg7gscskgtCgNmX/content.json",
+ "modified": 1471214944.011795,
+ "signs": {
+  "1KrJgpJqJij8zdhJ4gFZg7gscskgtCgNmX": "GwVaFnTxgAf+7YlaM9ox2WqW0kq4Bx4GWz865XuQmLjM5UV7hSQknoclB6jLvrE3MDMrTXCuuwsLfCvltBun+SI="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "GwBFfKGCOMvvNiRIJeiiPxit43m6sFvLiHP57MW+bE34dFoK//Qn8apErk4yn57RF1RgrWpfhqKND59GeR6v24k=",
+ "cert_user_id": "blackbox@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "fe666ef44f2a82b49f451892e11a79ee8bff78713247fc501adbcca85827e78c",
+   "size": 340
+  }
+ },
+ "inner_path": "data/users/17sbmzKaqeeHcxuTbsXEWgVDx3B2VBrWLa/content.json",
+ "modified": 1471870454.291,
+ "signs": {
+  "17sbmzKaqeeHcxuTbsXEWgVDx3B2VBrWLa": "HF13UObK+WGCw81RqmjOJFYVzXw15EDMyiAbCxQAek3Uu8n7rsqgKpaWYTSB9SP1IrHA4s2OE192PXXOYdGU1Pw="
+ }
+}

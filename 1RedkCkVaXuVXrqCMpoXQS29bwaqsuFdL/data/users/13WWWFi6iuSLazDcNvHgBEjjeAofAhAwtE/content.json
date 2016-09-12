@@ -1,0 +1,21 @@
+{
+ "address": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+ "cert_auth_type": "web",
+ "cert_sign": "HCipAkErTFJNSXmYngeFBTSaid/Gz5pFr2aYDwwsOE070ZHdCFrfMFvwWSjDN69eLKlH3U3uaXgYjLXdBpAkjqI=",
+ "cert_user_id": "spartanshield@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "8774c15fced0c9cbdb482808a67b2beeecadd067b5d320c36ecb1e39405565f4",
+   "size": 1618
+  },
+  "data.json": {
+   "sha512": "3c7f9893a6a4d0a8bf269eb2b2834cac9b7672cf060ef8992910252eb33ceadb",
+   "size": 1409
+  }
+ },
+ "inner_path": "data/users/13WWWFi6iuSLazDcNvHgBEjjeAofAhAwtE/content.json",
+ "modified": 1471126194.517,
+ "signs": {
+  "13WWWFi6iuSLazDcNvHgBEjjeAofAhAwtE": "HN2VOEwwfnW1l9a7u+TDcf2CF4wl277YDxsgdmE4aJ19pF11ViKS19YsFgSgzAT/s7qiazEF9IELwRs3D7dUhPU="
+ }
+}

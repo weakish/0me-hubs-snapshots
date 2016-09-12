@@ -1,0 +1,21 @@
+{
+ "address": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+ "cert_auth_type": "web",
+ "cert_sign": "HHMEd32zgBTPWwQe4Ph3T7en5H0fpmbgXijTZ2muloacq2OApC8T43QF5V0jsII+m5d3Y2Uji4riu54b8QmBAMU=",
+ "cert_user_id": "kingrat@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "7028a48f2924578e5d7b5e3dc640592a28da63e8f626c6802f07b09c14dcd51f",
+   "size": 1395
+  },
+  "data.json": {
+   "sha512": "6fef791e18226ca9c152515aba0ad2495bf9f1ef49715df996c6a8591a4393e5",
+   "size": 644
+  }
+ },
+ "inner_path": "data/users/14dWJrtWbw6sQKHgfeukbzBDJvBSnfRnTw/content.json",
+ "modified": 1471154226.404,
+ "signs": {
+  "14dWJrtWbw6sQKHgfeukbzBDJvBSnfRnTw": "HA8ZVnxFVVMjSenEao0urCpRxKP5HMSkrNiUFM5rBmkTjFKA0jEJzInxD0VIcSjuPTuVJYct9mf95cB5sT7QER4="
+ }
+}

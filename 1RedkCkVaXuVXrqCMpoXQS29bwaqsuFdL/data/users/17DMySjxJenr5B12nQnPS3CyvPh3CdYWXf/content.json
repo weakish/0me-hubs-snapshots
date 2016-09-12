@@ -1,0 +1,21 @@
+{
+ "address": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+ "cert_auth_type": "web",
+ "cert_sign": "HI762Yk9hDybdB/H6IruznjPlQcStEZOXJp5zOoTdY9IUAIrzjtpr0Ucf8vPur2nsD6oCyu3V5EFWFizSGKmAuQ=",
+ "cert_user_id": "pericles@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "5951d1935f93bd2c64eb4d3d05a135f9ef2387bd7126d436f5eaeacd24294bc4",
+   "size": 1651
+  },
+  "data.json": {
+   "sha512": "16c3a18a3f830eabbf849f63820fd95a512c5e5c688275f20fe74a60fd627960",
+   "size": 857
+  }
+ },
+ "inner_path": "data/users/17DMySjxJenr5B12nQnPS3CyvPh3CdYWXf/content.json",
+ "modified": 1471649982.239686,
+ "signs": {
+  "17DMySjxJenr5B12nQnPS3CyvPh3CdYWXf": "HEudwSr4S50ANu+rIsGAgpMG6k28eqN6SjdgtPJ30XFkCSgwMzRQknsLvsVLWIhMOm5OXg1naCslb1pjutJrQI8="
+ }
+}

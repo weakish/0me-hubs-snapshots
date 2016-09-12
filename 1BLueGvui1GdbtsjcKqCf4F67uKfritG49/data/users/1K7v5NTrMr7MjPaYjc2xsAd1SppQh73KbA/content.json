@@ -1,0 +1,21 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "HPQkDVuHOARTKNoGRKIMrmd2YeY2ZXDe5ltUtvzx2JHRn98+S2gWYVHyerUGnJTB3sDsxiBx0KBrWskFdFN5f5U=",
+ "cert_user_id": "dadi@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "bba05abb58a4d195a871b0ad93c2612cb04466e138c9f382aeabad0437616129",
+   "size": 1619
+  },
+  "data.json": {
+   "sha512": "e677ee568fd21c30b5a92eb2d3bcbb73bb3982c4e1754f764e55eb3b945e2293",
+   "size": 521
+  }
+ },
+ "inner_path": "data/users/1K7v5NTrMr7MjPaYjc2xsAd1SppQh73KbA/content.json",
+ "modified": 1472828653.737,
+ "signs": {
+  "1K7v5NTrMr7MjPaYjc2xsAd1SppQh73KbA": "HM5BTAlQv10got5afODVrCTDBuG4CygYe7GVwPnNopFeTFtxqQbt171+PRf6xlFyxctxlJIdWmdCmzWGqqVVebc="
+ }
+}

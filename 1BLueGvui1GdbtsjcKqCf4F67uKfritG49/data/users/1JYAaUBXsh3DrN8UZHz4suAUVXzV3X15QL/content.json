@@ -1,0 +1,21 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "G9z6GyRzJcQFoq0VQlUhICOJOVScqDJOYb1XsVZRB/jO6J9ktrqJDxCKIumrigVEstryjjgT7IWRXCb0C3xGgsM=",
+ "cert_user_id": "morpheus@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "e50edfe64bc90497d919c44c9cea59a97a373498439193b5b3667db3f9726ac6",
+   "size": 1419
+  },
+  "data.json": {
+   "sha512": "4d273b148fdb6c28a85b0d08a306b4a812a564b25ad171ad67bf49ef153f7c85",
+   "size": 1692
+  }
+ },
+ "inner_path": "data/users/1JYAaUBXsh3DrN8UZHz4suAUVXzV3X15QL/content.json",
+ "modified": 1471168337.064,
+ "signs": {
+  "1JYAaUBXsh3DrN8UZHz4suAUVXzV3X15QL": "HMkg3QWYyu/JieUgKU3l9TmbFZhUPf+a08GZnrj1DnBiLoss/1fEbdVWZtqT4dmP/wyT+B+C4zzw4/tqmteDwlA="
+ }
+}

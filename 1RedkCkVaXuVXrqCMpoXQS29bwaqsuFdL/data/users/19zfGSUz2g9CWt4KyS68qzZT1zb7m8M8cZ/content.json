@@ -1,0 +1,21 @@
+{
+ "address": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+ "cert_auth_type": "web",
+ "cert_sign": "HHTrRKBWzLXf6fW5wUFLKPw+kw4YBsvuoMZmMdEHvA83WLucN4eGL6hmvK2DbXVgb/crt0v0dAwNK57pZLzMvSk=",
+ "cert_user_id": "demonslayer666@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "7201071545152dbccb23edb9ea59bff7a06f131d30475dc816a8fb0182f544e7",
+   "size": 1599
+  },
+  "data.json": {
+   "sha512": "e104453c8796a42bf7806124dd94dcdd92441cff52e4bc8342a4732329c95c6e",
+   "size": 525
+  }
+ },
+ "inner_path": "data/users/19zfGSUz2g9CWt4KyS68qzZT1zb7m8M8cZ/content.json",
+ "modified": 1471163807.378195,
+ "signs": {
+  "19zfGSUz2g9CWt4KyS68qzZT1zb7m8M8cZ": "HJPrJ2GWlsNSZHTN1E0kgpCIPDVEKt669PtmA/yKzZA467qlTffr4Ht4JbYTDodZaq2HefvtjEXtwzvA5N2PZQw="
+ }
+}

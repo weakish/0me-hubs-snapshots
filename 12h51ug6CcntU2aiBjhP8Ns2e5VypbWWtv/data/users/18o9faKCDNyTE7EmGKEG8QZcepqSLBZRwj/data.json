@@ -1,0 +1,62 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 1,
+	"next_follow_id": 7,
+	"avatar": "generate",
+	"user_name": "Superkitty",
+	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471718918,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "18o9faKCDNyTE7EmGKEG8QZcepqSLBZRwj",
+			"user_name": "Superkitty",
+			"date_added": 1471726971
+		},
+		{
+			"follow_id": 2,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "18o9faKCDNyTE7EmGKEG8QZcepqSLBZRwj",
+			"user_name": "Superkitty",
+			"date_added": 1471727215
+		},
+		{
+			"follow_id": 3,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "13Wb4Pr6nDfaixL38Zmh2Gfi1iNASDC2Nc",
+			"user_name": "Superkitty",
+			"date_added": 1471727280
+		},
+		{
+			"follow_id": 4,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "18o9faKCDNyTE7EmGKEG8QZcepqSLBZRwj",
+			"user_name": "Superkitty",
+			"date_added": 1471727356
+		},
+		{
+			"follow_id": 5,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "18o9faKCDNyTE7EmGKEG8QZcepqSLBZRwj",
+			"user_name": "Superkitty",
+			"date_added": 1471727384
+		},
+		{
+			"follow_id": 6,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "13Wb4Pr6nDfaixL38Zmh2Gfi1iNASDC2Nc",
+			"user_name": "Superkitty",
+			"date_added": 1471727399
+		}
+	]
+}

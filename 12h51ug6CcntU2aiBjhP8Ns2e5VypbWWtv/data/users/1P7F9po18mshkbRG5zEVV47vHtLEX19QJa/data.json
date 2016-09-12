@@ -1,0 +1,179 @@
+{
+	"next_post_id": 18,
+	"next_comment_id": 9,
+	"next_follow_id": 5,
+	"avatar": "generate",
+	"user_name": "Bashrc",
+	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471076970,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 2,
+			"body": "Well, installing golang via chroot is proving difficult",
+			"date_added": 1471192279
+		},
+		{
+			"post_id": 1471966109,
+			"body": "Doing more mesh testing and I've been able to get videoconferencing working. It still a bit haphazard and there are some rough edges in the user experience which could be improved.",
+			"date_added": 1471966106
+		},
+		{
+			"post_id": 1471972830,
+			"body": "Currently I'm in a \"winding down\" phase. My current job is pretty much over and I'm in the process of moving out of Manchester to somewhere that's cheaper to exist in. It has been nice living here. Probably in a month or so I'll be experiencing the joys of the DWP.",
+			"date_added": 1471972826
+		},
+		{
+			"post_id": 1472662384,
+			"body": "Reading \"The state in capitalist society\" by Ralph Miliband. It's one of those books which has been in the backlog for ages.",
+			"date_added": 1472662379
+		},
+		{
+			"post_id": 1472664737,
+			"body": "Building more mesh images. If these test out ok then I think they'll be the ones which I use for demo. It would be nice to get ZeroNet working, but that's more speculative because I don't know how ZeroNet identities would be handled.",
+			"date_added": 1472664731
+		},
+		{
+			"post_id": 1472666227,
+			"body": "ZeroTube looks interesting. I've never actually watched an episode of Mr Robot, although I've seen clips on the Other Tube. Apparently it's one of the first fictions to portray hacker culture somewhat accurately. In the past fictional depictions of hackers were comically inaccurate.",
+			"date_added": 1472666220
+		},
+		{
+			"post_id": 1472670143,
+			"body": "Mesh router tests out ok. Now to roll out the image to other nodes.",
+			"date_added": 1472670135
+		},
+		{
+			"post_id": 1472675882,
+			"body": "Uploading new mesh images. This is going to be a slow process.",
+			"date_added": 1472675873
+		},
+		{
+			"post_id": 1472721490,
+			"body": "On \"climbing the ladder\" in the Corbynite rhetoric of aspiration. This always seemed like a strange idea to me. I never wanted to follow some pre-conceived idea of what The Good Life should be. I just wanted to be myself.\n\nIt is quite possible for people to aspire to being working class, and not some bourgeois socialist endlessly flipping houses, attending posh universities and gambling on the stock market.",
+			"date_added": 1472721480
+		},
+		{
+			"post_id": 1473329221,
+			"body": "     “As a man who has devoted his whole life to the most clearheaded science, to the study of matter, I can tell you as a result of my research about the atoms this much: There is no matter as such! All matter originates and exists only by virtue of a force which brings the particles of an atom to vibration and holds this most minute solar system of the atom together. . . . We must assume behind this force the existence of a conscious and intelligent Mind. This Mind is the matrix of all matter.”\n\n-- Max Planck",
+			"date_added": 1473329210
+		},
+		{
+			"post_id": 1473329369,
+			"body": "IPFS is now working on the Freedombone mesh, so file sharing is now quite simple. Just drag files into the \"Public folder\" and they will be visible to other users. To access the public folder of another user just select their username or Tox ID.",
+			"date_added": 1473329357
+		},
+		{
+			"post_id": 1473452571,
+			"body": "Improving the mesh documentation",
+			"date_added": 1473452558
+		},
+		{
+			"post_id": 1473502588,
+			"body": "Ooh, dark ZeroMe!",
+			"date_added": 1473502574
+		},
+		{
+			"post_id": 1473502692,
+			"body": "So unless anyone knows better, on the mesh you have to ensure that your own date and time is correct. There is no NTP or tlsdate.",
+			"date_added": 1473502677
+		},
+		{
+			"post_id": 1473544207,
+			"body": "So I've added horst for mesh network signal diagnostics. Apparently this is the tool used by Freifunk, so I guess it's the gold standard. It should be useful for antenna tweaking and such. The user just clicks a wifi icon and enters a password and then they get to the monitoring mode.",
+			"date_added": 1473544191
+		},
+		{
+			"post_id": 1473582322,
+			"body": "43 years ago today: the overthrow of Salvador Allende by a US backed fascist coup and the end of the Cybersyn project. No other comparable project has been attempted since.",
+			"date_added": 1473582305
+		}
+	],
+	"post_like": {
+		"1EizNCr1TBaytrcEFBPrk8yk6eUFgNCC5r_1472729158": 1472731766
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "I don't have an active ZeroNet blog, but that's on the list of things to do (sync between my clearnet blog and zeronet)",
+			"post_uri": "1P7F9po18mshkbRG5zEVV47vHtLEX19QJa_1472670143",
+			"date_added": 1472675794
+		},
+		{
+			"comment_id": 2,
+			"body": "A mesh network is a type of network architecture in which all systems are peers and behave as both clients and servers.",
+			"post_uri": "1P7F9po18mshkbRG5zEVV47vHtLEX19QJa_1472675882",
+			"date_added": 1472678453
+		},
+		{
+			"comment_id": 3,
+			"body": "I'm building debian images which use batman adv. Other routing protocols are available, but batman seems ok and there's evidence that it scales well.",
+			"post_uri": "1P7F9po18mshkbRG5zEVV47vHtLEX19QJa_1472675882",
+			"date_added": 1472717987
+		},
+		{
+			"comment_id": 4,
+			"body": "The Purism thing is sadmaking. They started off saying they were building something to pass the Respects Your Freedom standard, but ended up shipping something with Intel ME and now not even meeting the original spec.",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1472575755",
+			"date_added": 1472718268
+		},
+		{
+			"comment_id": 5,
+			"body": "Well this is a thing. You can view life as being a relentless trudge towards sure destruction and that it has no intrinsic meaning. As a first approximation that would be true. There are lots of things going on to get annoyed or depressed about. But life itself is rare and from a thermodynamics perspective it's defined as a struggle against kippleization. How quickly you attenuate to noise is the test of your being - individually and collectively.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472888474",
+			"date_added": 1473237242
+		},
+		{
+			"comment_id": 6,
+			"body": "https://freedombone.net/mesh.html",
+			"post_uri": "1P7F9po18mshkbRG5zEVV47vHtLEX19QJa_1473329369",
+			"date_added": 1473339135
+		},
+		{
+			"comment_id": 7,
+			"body": "This isn't much like FireChat, because it doesn't use mobile phones and is Free Software.",
+			"post_uri": "1P7F9po18mshkbRG5zEVV47vHtLEX19QJa_1473329369",
+			"date_added": 1473355595
+		},
+		{
+			"comment_id": 8,
+			"body": "On this system there is no One True Server. The date and time on any peer could be just as valid as on any other.",
+			"post_uri": "1P7F9po18mshkbRG5zEVV47vHtLEX19QJa_1473502692",
+			"date_added": 1473520016
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f",
+			"user_name": "KaffieID Demo",
+			"date_added": 1471177742
+		},
+		{
+			"follow_id": 2,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u",
+			"user_name": "Lola",
+			"date_added": 1472665689
+		},
+		{
+			"follow_id": 3,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx",
+			"user_name": "ks",
+			"date_added": 1472676312
+		},
+		{
+			"follow_id": 4,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1Exd7U88RdmPk4yfpTjkMQuSo5Jvys3ScJ",
+			"user_name": "Nishita",
+			"date_added": 1473543902
+		}
+	]
+}

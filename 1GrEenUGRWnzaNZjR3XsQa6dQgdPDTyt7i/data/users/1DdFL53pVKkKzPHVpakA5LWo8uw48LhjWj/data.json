@@ -1,0 +1,62 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 1,
+	"next_follow_id": 9,
+	"avatar": "generate",
+	"user_name": "Gudulf",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Un utilisateur de zéronet qui aime tout et rien !",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1472760938,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1G4nMD7txaYAvdpDeroZ9f67K3gtHsGn8H",
+			"user_name": "Gerardmensoif",
+			"date_added": 1472944984
+		},
+		{
+			"follow_id": 4,
+			"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
+			"auth_address": "18XDV3MuaGGQFAdeBNgcDUkviz2p28RsKB",
+			"user_name": "Chez Sick",
+			"date_added": 1472945063
+		},
+		{
+			"follow_id": 5,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1472945146
+		},
+		{
+			"follow_id": 6,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ",
+			"user_name": "Musickiller",
+			"date_added": 1472945435
+		},
+		{
+			"follow_id": 7,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS",
+			"user_name": "ZAlex",
+			"date_added": 1472945695
+		},
+		{
+			"follow_id": 8,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx",
+			"user_name": "Kindlyfire",
+			"date_added": 1472945925
+		}
+	]
+}

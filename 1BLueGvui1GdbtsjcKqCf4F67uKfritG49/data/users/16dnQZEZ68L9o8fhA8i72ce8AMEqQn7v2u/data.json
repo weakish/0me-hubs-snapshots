@@ -1,0 +1,32 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 3,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "Fun",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1473599576,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "期待",
+			"post_uri": "1BvbtVtk6L9DV9fPdLpHkX3H3Vb7M91rgF_1473406148",
+			"date_added": 1473599627
+		},
+		{
+			"comment_id": 2,
+			"body": "me too",
+			"post_uri": "17eoYnQBtLpEofRDadJEjiirNeT6LCA2nD_1473409517",
+			"date_added": 1473599635
+		}
+	],
+	"follow": []
+}

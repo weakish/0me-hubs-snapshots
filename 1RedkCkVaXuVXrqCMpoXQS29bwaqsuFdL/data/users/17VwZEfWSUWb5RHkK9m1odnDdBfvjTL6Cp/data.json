@@ -1,0 +1,314 @@
+{
+	"next_post_id": 9,
+	"next_comment_id": 23,
+	"next_follow_id": 22,
+	"avatar": "jpg",
+	"user_name": "Testset",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"intro": "A pseudorandom ZeroNet user",
+	"post": [
+		{
+			"post_id": 4,
+			"body": "Markdown link test: [When have you first visited ZeroNet?](http://127.0.0.1:43110/ZeroPolls.bit/?Poll:1-17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp) ",
+			"date_added": 1470865425
+		},
+		{
+			"post_id": 5,
+			"body": "# [MarkDown](http://127.0.0.1:43110/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP/?Page:markdown) Test:\n\nSub-heading (2nd level)\n---\n\n### Sub-sub-heading (3rd level, alternative notation)\n\n_italic1_ *italic2* \n__bold1__ **bold2** \n___both1___ ***both2***\n\na list\n- item 1 \n- item 2\n- item 3\n\n`code`\n\n---\n1. numbered\n2. lists\n3. ?",
+			"date_added": 1470867298
+		},
+		{
+			"post_id": 6,
+			"body": "What is the chance of this random post will get interesting comments? ",
+			"date_added": 1471886210
+		},
+		{
+			"post_id": 1471981529,
+			"body": "Let me use ZeroMe to advertise my ZeroPolls: \nWhen have you first visited ZeroNet? \nYou can vote [here](http://127.0.0.1:43110/ZeroPolls.bit/?Poll:1-17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp).",
+			"date_added": 1471981522
+		},
+		{
+			"post_id": 1472764788,
+			"body": "The [demand DRM-Free files](https://ipfs.pics/QmVFnUPr8M49AHqprnK5ca5LdE2tJFmStJ1id9BBxHdAof) xkcd comic is in the top 20 on ipfs.pics.",
+			"date_added": 1472764780
+		}
+	],
+	"post_like": {
+		"1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN_6": 1470864640,
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_3": 1470864785,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_2": 1470869032,
+		"1BePwsiwFD8BjtYfB8tQegiKXDLnHWW1Um_2": 1470912251,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_4": 1470938070,
+		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_2": 1470938132,
+		"1CwyP7JyaXpKVNXHKZfvRozBkCSk7hFAWe_1": 1470938420,
+		"1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib_5": 1470939840,
+		"1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib_7": 1470948337,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_6": 1470948386,
+		"14J8mC3K7k5Ygx22uu9LUzGWnBoDAQdyDo_2": 1470953414,
+		"14J8mC3K7k5Ygx22uu9LUzGWnBoDAQdyDo_3": 1470954502,
+		"1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_4": 1471012398,
+		"15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT_2": 1471971671,
+		"1CFhytwoGGPNqmueehPqotaf2iG9uxD98e_14": 1471971835,
+		"1CFhytwoGGPNqmueehPqotaf2iG9uxD98e_10": 1471972408,
+		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1472619116": 1472660813,
+		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1472665872": 1472668731,
+		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1472702186": 1472758493,
+		"1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib_1472845398": 1472849168
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "I did the same by reflex. I just like reflexive relations =)",
+			"post_uri": "1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN_6",
+			"date_added": 1470864764
+		},
+		{
+			"comment_id": 2,
+			"body": "I see no (non trivial) change when I follow/unfollow my self...",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_3",
+			"date_added": 1470865919
+		},
+		{
+			"comment_id": 3,
+			"body": "I see no (non trivial) change when I follow/unfollow my self...",
+			"post_uri": "1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN_6",
+			"date_added": 1470865931
+		},
+		{
+			"comment_id": 4,
+			"body": "_Yes_, it **does**",
+			"post_uri": "17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp_4",
+			"date_added": 1470866898
+		},
+		{
+			"comment_id": 5,
+			"body": "How about a [link](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:10_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb/ZeroMe) in a comment?",
+			"post_uri": "17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp_4",
+			"date_added": 1470869145
+		},
+		{
+			"comment_id": 6,
+			"body": "No :-(",
+			"post_uri": "17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp_4",
+			"date_added": 1470869166
+		},
+		{
+			"comment_id": 8,
+			"body": "the Future is Now!",
+			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_2",
+			"date_added": 1470948847
+		},
+		{
+			"comment_id": 9,
+			"body": "\n",
+			"post_uri": "14J8mC3K7k5Ygx22uu9LUzGWnBoDAQdyDo_3",
+			"date_added": 1470954555
+		},
+		{
+			"comment_id": 10,
+			"body": "It's difficult to choose. The ZeroNet version has a nicer design, but it is way easier to get the point from the clearnet site.   ",
+			"post_uri": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_4",
+			"date_added": 1471012758
+		},
+		{
+			"comment_id": 11,
+			"body": "What I miss most from both places is the explanation of the folding and cutting. (With a little effort it can be figured out from the animation, but still...)\nI think this is the most important thing to \"sell\" at first. If people can fold the empty booklet, they will become more interested in the software.",
+			"post_uri": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_4",
+			"date_added": 1471013218
+		},
+		{
+			"comment_id": 12,
+			"body": "@ZAlex: Thanks for the link. I'm looking forward to the software but the folding is useful even in itself.",
+			"post_uri": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_4",
+			"date_added": 1471558497
+		},
+		{
+			"comment_id": 13,
+			"body": "Even if you cannot be a 100% Free man it worth trying to converge towards that. ",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_82",
+			"date_added": 1471806956
+		},
+		{
+			"comment_id": 14,
+			"body": "Wow, I have been underestimated the general activity on ZeroMe. I was expecting exactly 0 comments on this post...",
+			"post_uri": "17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp_6",
+			"date_added": 1471971401
+		},
+		{
+			"comment_id": 15,
+			"body": "@Method-X That's a nice list of sci-fi movies. Have you seen / do you like the [Black Mirror](http://www.imdb.com/title/tt2085059/?ref_=fn_al_tt_1) series? The magnet links are on [ZeroTorrent](http://127.0.0.1:43110/ZeroTorrent.bit/).",
+			"post_uri": "1CFhytwoGGPNqmueehPqotaf2iG9uxD98e_14",
+			"date_added": 1471972344
+		},
+		{
+			"comment_id": 16,
+			"body": "@Method-X: That episode is a really wonderful critic to our society. Recently the episode \"The Waldo Moment\" started haunting me... especially looking the ongoing presidential campaign of the 'Rich Barbarians' oversea.",
+			"post_uri": "1CFhytwoGGPNqmueehPqotaf2iG9uxD98e_14",
+			"date_added": 1472026149
+		},
+		{
+			"comment_id": 17,
+			"body": "Why I see only 972? :-(",
+			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1472619116",
+			"date_added": 1472664474
+		},
+		{
+			"comment_id": 18,
+			"body": "@Sirenyc: Yes, not long ago but yes...",
+			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1472619116",
+			"date_added": 1472664925
+		},
+		{
+			"comment_id": 19,
+			"body": "How to do that? Should we just click on \"Whatch it\"?",
+			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1472665872",
+			"date_added": 1472668728
+		},
+		{
+			"comment_id": 20,
+			"body": "Wow, downloading it via the magnet link is way faster... (I'm still interested if watching also helps seeding the video.)",
+			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1472665872",
+			"date_added": 1472669561
+		},
+		{
+			"comment_id": 21,
+			"body": "It is quite slow. It is buffering basically after every sentence...  ",
+			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1472702186",
+			"date_added": 1472763949
+		},
+		{
+			"comment_id": 22,
+			"body": "The magnet link version does not even starts downloading... ",
+			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1472702186",
+			"date_added": 1472764051
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1470864548
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN",
+			"user_name": "Testingzeronet12",
+			"date_added": 1470864586
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1470864596
+		},
+		{
+			"follow_id": 6,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp",
+			"user_name": "Testset",
+			"date_added": 1470865762
+		},
+		{
+			"follow_id": 7,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1CwyP7JyaXpKVNXHKZfvRozBkCSk7hFAWe",
+			"user_name": "Wigy",
+			"date_added": 1470938269
+		},
+		{
+			"follow_id": 8,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib",
+			"user_name": "megfault",
+			"date_added": 1470939851
+		},
+		{
+			"follow_id": 10,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "14J8mC3K7k5Ygx22uu9LUzGWnBoDAQdyDo",
+			"user_name": "ImUrX",
+			"date_added": 1470953346
+		},
+		{
+			"follow_id": 11,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS",
+			"user_name": "ZAlex",
+			"date_added": 1471013321
+		},
+		{
+			"follow_id": 12,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1471235080
+		},
+		{
+			"follow_id": 13,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t",
+			"user_name": "tkarita",
+			"date_added": 1471236201
+		},
+		{
+			"follow_id": 14,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1JEmH2pfXkpMMdzsJ256jzq2GTSxEacS2B",
+			"user_name": "PedoBlocker",
+			"date_added": 1471805412
+		},
+		{
+			"follow_id": 15,
+			"hub": "185yXNL48LTZyKfNo6WgyKshtMgcV3mecL",
+			"auth_address": "1JARuoKjvXanUeKyPTXU9cus2jRzi4DZU5",
+			"user_name": "Icf20",
+			"date_added": 1471807711
+		},
+		{
+			"follow_id": 16,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT",
+			"user_name": "Klaus Jónsson Zimmermann",
+			"date_added": 1471971638
+		},
+		{
+			"follow_id": 17,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb",
+			"user_name": "Bot",
+			"date_added": 1471971773
+		},
+		{
+			"follow_id": 18,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1CFhytwoGGPNqmueehPqotaf2iG9uxD98e",
+			"user_name": "Method-X",
+			"date_added": 1471972472
+		},
+		{
+			"follow_id": 19,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9",
+			"user_name": "Shellbound",
+			"date_added": 1472151656
+		},
+		{
+			"follow_id": 20,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1CSc14JKdGAQJfQsfCLrduhB6zU4oEMwBf",
+			"user_name": "Zeroexef",
+			"date_added": 1472664759
+		},
+		{
+			"follow_id": 21,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ",
+			"user_name": "Sirenyc",
+			"date_added": 1472668423
+		}
+	]
+}

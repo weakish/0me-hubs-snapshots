@@ -1,0 +1,60 @@
+{
+	"next_post_id": 4,
+	"next_comment_id": 5,
+	"next_follow_id": 4,
+	"avatar": "jpg",
+	"user_name": "Spaghettidev",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Someone who enjoys privacy, tech, and software. Previously known as t3mm13n37, I lost my old users.json file to a faulty usb stick.",
+	"post": [
+		{
+			"post_id": 1472248656,
+			"body": "I honestly find the automatic \"Hello ZeroMe!\" message really annoying and, frankly useless. It just uses up unnecessary space, and spams the 'Everyone' dash whenever a bunch of people join near the same time.",
+			"date_added": 1472248654
+		},
+		{
+			"post_id": 1472404861,
+			"body": "I created a quick website I called GitZero which is a quick and dirty copy of ZeroWiki setup to be used for code.\nCheck it out here: http://127.0.0.1:43110/1DiruqWp7K4NijW6L6Ng87uWS5FsNsmsbL/",
+			"date_added": 1472404858
+		}
+	],
+	"post_like": {
+		"1GgXbWMo4NkVQNKbLJFvEephA9rPLp9j2P_1472214640": 1472314350
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "You could always create a wiki style site customized for code if you just want something quick and dirty.",
+			"post_uri": "1GgXbWMo4NkVQNKbLJFvEephA9rPLp9j2P_1472214640",
+			"date_added": 1472314462
+		},
+		{
+			"comment_id": 2,
+			"body": "-No exceptions",
+			"post_uri": "1H8MjRHSxjAabarbPXBtphVh5XYRP1zvf2_1472311353",
+			"date_added": 1472405232
+		},
+		{
+			"comment_id": 3,
+			"body": "@Anonymous6354: You just go onto mail and in the to box type in their username.",
+			"post_uri": "1DMBWEfQdEaRtsWEwZLY98b9t1ZcoG2ECM_1472248656",
+			"date_added": 1472411636
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1472315331
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1472405202
+		}
+	]
+}

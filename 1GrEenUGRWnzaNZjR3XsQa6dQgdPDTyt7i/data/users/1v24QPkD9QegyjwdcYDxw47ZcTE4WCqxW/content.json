@@ -1,0 +1,17 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "G9Cwy/mMSPqxwv17zGiFfYD45TJhMpaEej8YLjnLMbi4dFOG8nKVemQY7uNsqUAX0bONmowwVp3DAsrVH26k1hM=",
+ "cert_user_id": "frikandel@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5dd3bc59aa7d8aa0473d3dbe1143c19837e1adb2d3fc9eca7fd778754716223f",
+   "size": 341
+  }
+ },
+ "inner_path": "data/users/1v24QPkD9QegyjwdcYDxw47ZcTE4WCqxW/content.json",
+ "modified": 1471897883.315,
+ "signs": {
+  "1v24QPkD9QegyjwdcYDxw47ZcTE4WCqxW": "G8vIMnS2Mq5qKCapkMMheIrpty+cPDOlIeG90g47BoiY9VJ3WOITyz2gC9+2PTUqqfEq/U9+5cIgU9Jf0kMqX+4="
+ }
+}

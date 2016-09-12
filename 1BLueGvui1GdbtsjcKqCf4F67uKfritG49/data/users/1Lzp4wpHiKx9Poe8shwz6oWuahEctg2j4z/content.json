@@ -1,0 +1,17 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "G9bEbBGHocwFwwj4LoiSaWg6ZQJgpX1c5yGwvblohggP9hyGaIiBrhvTVoMQXntcXJA/6RzVeNYGN+DNKquQjqU=",
+ "cert_user_id": "backdoor@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "7ce7d3007afcd2ad2987759e480b0c168456510f75554f6771af85d12a6a45ea",
+   "size": 1395
+  }
+ },
+ "inner_path": "data/users/1Lzp4wpHiKx9Poe8shwz6oWuahEctg2j4z/content.json",
+ "modified": 1472256605.288,
+ "signs": {
+  "1Lzp4wpHiKx9Poe8shwz6oWuahEctg2j4z": "G7Oqj9JVF5e+kErybxprpvW3Qxavfa4aqlrWhORXzIS+Ri5a42I8YsusOKKGiERWsUTwcAP8myB2glRarNeX0lY="
+ }
+}

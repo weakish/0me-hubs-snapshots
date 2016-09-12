@@ -1,0 +1,51 @@
+{
+	"next_post_id": 4,
+	"next_comment_id": 1,
+	"next_follow_id": 6,
+	"avatar": "generate",
+	"user_name": "Ceritium",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471115400,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 2,
+			"body": "se supone que esto es como un twitter?",
+			"date_added": 1471115435
+		},
+		{
+			"post_id": 3,
+			"body": "http://es.ocasion.top ",
+			"date_added": 1471115642
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EZG8eDkCFvNkYxpHmr2WbGWcSxAsRfqTT",
+			"user_name": "Riotpulv",
+			"date_added": 1471115516
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1HcK5Hw1rPZeYdgTmqJGrVG2tSyR9Ke2Gt",
+			"user_name": "Mama21mama",
+			"date_added": 1471115572
+		},
+		{
+			"follow_id": 5,
+			"hub": "12rTbtzcEZH7RiVfShBB3qhoe3rfwbpm8S",
+			"auth_address": "13U9mRgV3bdkXiNXjMZeBWTcSHZjgNmk2z",
+			"user_name": "Dios",
+			"date_added": 1471115587
+		}
+	]
+}

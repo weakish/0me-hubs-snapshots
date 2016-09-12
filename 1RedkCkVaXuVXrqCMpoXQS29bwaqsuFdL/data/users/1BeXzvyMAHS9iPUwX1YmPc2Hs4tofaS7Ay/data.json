@@ -1,0 +1,28 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 2,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "Dubs",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1473531425,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {
+		"1GNdkBSxTw6SpRdGHxDCyfANXnwi7FG7rJ_1473513203": 1473532032
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Cool Just checked it out looks like a ton of fun.",
+			"post_uri": "1GNdkBSxTw6SpRdGHxDCyfANXnwi7FG7rJ_1473513203",
+			"date_added": 1473532037
+		}
+	],
+	"follow": []
+}

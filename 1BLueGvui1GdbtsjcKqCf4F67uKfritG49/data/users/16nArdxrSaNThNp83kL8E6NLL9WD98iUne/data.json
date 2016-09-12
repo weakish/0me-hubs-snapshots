@@ -1,0 +1,851 @@
+{
+	"next_post_id": 25,
+	"next_comment_id": 89,
+	"next_follow_id": 37,
+	"avatar": "png",
+	"user_name": "Jayofthezero",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "User from the Void.\n\n--------\n\n- [Dark ZeroMe](http://127.0.0.1:43110/1HmJ7GadjdiQUPevaK7QXVrK4nhyCp1fSj/) - If you hate white, come join us on the dark side.\n- [Blog](http://127.0.0.1:43110/19Bb6RMYZGTDZJduj5q5Zz8uaBgNtHnCeH/)\n- [Contact Me](http://127.0.0.1:43110/Mail.ZeroNetwork.bit/?to=jayofthezero)",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1470967198,
+			"body": "Welcome to the Zero. I am Jay of the Zero. Pleased to meet you."
+		},
+		{
+			"post_id": 2,
+			"body": "Still confused about how exactly the Hubs work. Can you switch between them or what? I think I'm on Blue hub...",
+			"date_added": 1470967813
+		},
+		{
+			"post_id": 3,
+			"body": "How do you clone ZeroMe? I'm interested in creating a Dark themed version, but got tripped up out of the gate :(",
+			"date_added": 1471055742
+		},
+		{
+			"post_id": 4,
+			"body": "Ok. So my ZeroMe clone is semi-functional. Things like Activity Feed and Following are busted, and I can't figure out why. They simply don't show up. \n\nI've deleted ZeroMe.db so that it could be regenerated, but the newly generated file is still 100KB smaller than the original ZeroMe.db. This suggests that it's missing something, though I haven't been able to check what exactly. But the real question is why is it missing data?\n\nZeroMe itself is still perfectly functional, so that shows that the Hubs themselves are fine. So that means that the problem is with my clone, but I just can't find the reason. I only changed a total of three files:\n\n* all.css - modified\n* content.json - newly made\n* ZeroMe.db - deleted and regenerated\n\nDid I miss something?",
+			"date_added": 1471062962
+		},
+		{
+			"post_id": 5,
+			"body": "AAUUGGGHHH!!\n(ノಠ益ಠ)ノ Why?\n\nWhy are my ZeroMe clones screwed up!? Now the Activity feed is even showing up in the Profile page? Why!? I literally copy&pasted it without changing anything except *content.json* and *all.css*.\n\nЩ(º̩̩́Дº̩̩̀щ)\n\nAnd on top of that they think my hub is Red hub for some reason. I even checked all of the hub data using @Kaffie's guide and everything properly points to my Blue hub profile. So why does it think I'm Red?\n\nI want to cry ( ╥_╥)",
+			"date_added": 1471091818
+		},
+		{
+			"post_id": 6,
+			"body": "So I'm still having issues with my ZeroMe clones. Here's an image to better show my issues:\n\nhttps://gateway.ipfs.io/ipns/QmcpgDW1BPEqBwbzq2JmySkFmcmAE9k1aV5kDeV5S5XxMk/2016-08-13%2009_11_45-ZeroMe%20Clone.png\n\nI've straight up copy&pasted ZeroMe several times now, but the same issues keep appearing. Original ZeroMe works fine though. I'm honestly lost at this point.",
+			"date_added": 1471096454
+		},
+		{
+			"post_id": 7,
+			"body": "Ok, seeing as I'm having issues with my own account I want to at least confirm my ZeroMe clone is working.\n\n##So I now present \"Dark ZeroMe\"\n\nhttp://127.0.0.1:43110/1HmJ7GadjdiQUPevaK7QXVrK4nhyCp1fSj\n\nPlease give it a whirl :)\n\nAfter it asks to merge, simply select your username and wait a bit as it loads. All your ZeroMe data should load and it should operate just as ZeroMe would.\n\nI created this as the white theme of ZeroMe is quite glaring at night, and doesn't look so good when using *f.lux*. After hearing how ZeroMe is pretty much just a front-end for the hubs that hold all of the actual data, I realized that means anybody can create/modify their own ZeroMe \"client\". And thus *Dark ZeroMe* was born!",
+			"date_added": 1471098959
+		},
+		{
+			"post_id": 8,
+			"body": "Ok, I was able to fix my login in a ZeroMe clone by copying the ZeroMe.db file from a working ZeroMe to the non-working one. Of course this doesn't help people having the issue that don't already have a working ZeroMe. Still need to track down what exactly is missing before we have a solid fix. Though @Nofish will probably just fix the root cause before then.",
+			"date_added": 1471116691
+		},
+		{
+			"post_id": 10,
+			"body": "Ok, just pushed out the latest tweaks to  [Dark ZeroMe](http://127.0.0.1:43110/1HmJ7GadjdiQUPevaK7QXVrK4nhyCp1fSj/).\n\nI realized that I hadn't accounted for code markdown thanks to @Kaffie's post so I threw that in last minute.\n\nI'm still looking for impressions on Dark ZeroMe's theme and functionality. Any comments would be apreciated.\n\nI noticed @Scrub's comment about a Markdown tooltip in the posting box, and I'm looking into it for Dark ZeroMe, but it probably won't be coming in a hurry. I need to design how it'll fit into the page, and then figure out how to cram it into *all.js*, neither of which will be easy for me.",
+			"date_added": 1471139592
+		},
+		{
+			"post_id": 11,
+			"body": "Anybody know how to exempt localhost from UI_password? With Proxy DNS resolving on URLs I get asked for a password every time I visit a site. It's getting annoying and dampens the convenience of the shortened URLs.",
+			"date_added": 1471191153
+		},
+		{
+			"post_id": 12,
+			"body": "Fun Fact: I'm currently seeding 87 Zites, with a total disk usage of 376MB. \n\nIf you average that out that's about 4.3MB per zite. Pretty good cost ratio there. With today's storage prices I could easily host several thousand zites for around $10, which is the cost of a 32GB sdcard that I could leave plugged into my laptop. Sure in the future zites will get bigger, but that's still easily a few thousand. Can't wait for there to be more interesting zites to seed.",
+			"date_added": 1471310628
+		},
+		{
+			"post_id": 13,
+			"body": "Sorry for the delay Dark ZeroMe users. I just pushed the latest update using the latest ZeroMe code. This includes the new Follow mentions/comments feature. Just take note that you shouldn't follow both ZeroMe and Dark ZeroMe, otherwise you'll get duplicate updates from both sites. If you've followed ZeroMe and not Dark ZeroMe, those updates will link you to ZeroMe. So just be aware that clicking on those updates in Hello Zeronet will take you to the bright white theme of ZeroMe. \n\nAgain sorry for the delay. I had finished merging the code last night, but then I passed out, slept through my alarm, and woke up at noon. So the yard work I was planning on doing in the cool morning had to be done in the hot sun :P So I didn't have a chance to publish the update until just now.",
+			"date_added": 1471466748
+		},
+		{
+			"post_id": 14,
+			"body": "Cool, I got Zeronet proxied to my phone. :)\n\nI already had an SSH server on my home network, so I just connected to it using ConnectBot and made a port forward from local port 43110 to my machine running Zeronet. Now I can easily access Zeronet through http://localhost:43110 with any browser on my phone. This also means most Zeronet links work as well. :D\n\nPS: No root needed ;)",
+			"date_added": 1471542733
+		},
+		{
+			"post_id": 15,
+			"body": "Pushed latest merge for Dark ZeroMe. The new ZeroMe \"Follow New Followers\" option should now appear.",
+			"date_added": 1471584549
+		},
+		{
+			"post_id": 16,
+			"body": "#SOS:\nMy ZeroHello feed is missing after I updated ZeroNet. It's just blank. I still have my list of sites and the buttons in the top left, but none of the menus work and the feed is just white space.\n\nhttp://pastebin.com/yLb1vVFY\n\nEDIT: For some reason Zeronet is also ignoring --ui_ip *\n\nhttp://pastebin.com/e7WmMgh8",
+			"date_added": 1471643630
+		},
+		{
+			"post_id": 17,
+			"body": "Great... Now Firefox won't load any Zeronet pages for some reason. I get the background of ZeroHello and that's pretty much it. Pages load fine in Chrome, so I have no idea what's causing the issue in Firefox so suddenly.",
+			"date_added": 1471732572
+		},
+		{
+			"post_id": 18,
+			"body": "It's moments like now when the posting rate is nearly non-existent that makes me realize we still have a lot of work to do :)",
+			"date_added": 1471757019
+		},
+		{
+			"post_id": 20,
+			"body": "Merged latest ZeroMe changes into Dark ZeroMe. Accidentally broke some of my CSS while merging, which I think I managed to fix afterwards, but if you notice anything wonky please let me know.\n\nIn the future I plan on modularizing my CSS from the normal ZeroMe CSS in order to ease future merges, but I need to find time in order to to extract my theming from the current code. The current direct edit method caused by my laziness coming back to bite me :P",
+			"date_added": 1471822640
+		},
+		{
+			"post_id": 1472055194,
+			"body": "@Nofish: Where's the ZeroHello Newsfeed follow data stored? I somehow got myself stuck with something in my feed that no longer exists. :\\",
+			"date_added": 1472055172
+		},
+		{
+			"post_id": 1472505142,
+			"body": "That moment when you realize your site hasn't been working for five frustrating hours because you mixed up Javascript and Python comment methods :P\n\nAnyway, I'm pushing the ZeroMe updates to Dark ZeroMe right now. Let me know of any issues.",
+			"date_added": 1472505119
+		},
+		{
+			"post_id": 1472516408,
+			"body": "Anybody else having issues with ZeroMail? I checked it today and noticed I had a message, but when I tried to reply the submit button was greyed out. Tab+Enter would let me finally press the button, but the message never actually gets sent. Also I can't view my sent messages either.\n\nI've tried wiping browser cache, using a different browser, and even deleting and re-downloading ZeroMail, but I still get the same issue.",
+			"date_added": 1472516384
+		}
+	],
+	"post_like": {
+		"1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_5": 1470969615,
+		"1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_6": 1470969712,
+		"1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_9": 1471052170,
+		"1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_7": 1471052503,
+		"164W1rFVD9Bm7poGJWvjVUjvkbhhFC5nnt_5": 1471053547,
+		"1JF3eQjW4voiKdcvCkMXvUx5bLmZAiVdyi_3": 1471088559,
+		"1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_7": 1471099267,
+		"1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_12": 1471453800,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_9": 1471467831,
+		"17Cs2auSHSVjKaYMXqbNMApRQrgXcwJUpL_12": 1471484912,
+		"1DjUq8hd2jYZgc5uNhQEtWUVZjMHkMQkpU_29": 1471541447,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_21": 1471788552,
+		"1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u_1472145214": 1472163768,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472678549": 1472692179,
+		"16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_1472758469": 1472758687,
+		"1NLKyC1Eq7gZeRKZ6oPN45wMWorx9yFWUW_1473273738": 1473279790,
+		"1NLKyC1Eq7gZeRKZ6oPN45wMWorx9yFWUW_1473273722": 1473279795
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Quadrangle - Wazzup",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1",
+			"date_added": 1470968007
+		},
+		{
+			"comment_id": 2,
+			"body": "@Quadrangle - Does the content we post in one hub show up in the others? If not, how do we choose which to post in?",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_2",
+			"date_added": 1470968970
+		},
+		{
+			"comment_id": 3,
+			"body": "That does kinda make separate hubs pointless. I was more envisioning something closer to subreddits when I first heard about the feature.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_2",
+			"date_added": 1470969244
+		},
+		{
+			"comment_id": 4,
+			"body": "Oh well. At least it's possible to create separate accounts so you can for example have your \"AdminOfAwesomeSite\" account, along with your personal one. All I need is a notification system now...",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_2",
+			"date_added": 1470969548
+		},
+		{
+			"comment_id": 5,
+			"body": "Sounds like fun. Wish the original concept of BTLive panned out as it would've been useful with such a site. Is there any alternative decentralized streaming app?",
+			"post_uri": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_6",
+			"date_added": 1470969849
+		},
+		{
+			"comment_id": 6,
+			"body": "@Kaffie - I eagerly await such a decentralized Reddit. Facebook clone is nice and all, but I want to gather with people with similar interests in a place we can have discussions about said interest.",
+			"post_uri": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_5",
+			"date_added": 1470969993
+		},
+		{
+			"comment_id": 8,
+			"body": "F*** your retarded username",
+			"post_uri": "1bnmc9XsY2kyqwqjKmpWyBDbwyniqRzy1_3",
+			"date_added": 1470974539
+		},
+		{
+			"comment_id": 9,
+			"body": "@Renegadepatriot: At least she doesn't make stuff up at her convenience. Though honestly it's the choosing between the lesser of two evils this year. And voting for a third-party is pointless.",
+			"post_uri": "141rgY3vEHwwaQ5VwZcqoiFvxPqp7Sgc52_2",
+			"date_added": 1471052734
+		},
+		{
+			"comment_id": 10,
+			"body": "Yep",
+			"post_uri": "1DWsec9UeBbGYJ4FG8Pmy3Fb2xSM9RPeJC_4",
+			"date_added": 1471053401
+		},
+		{
+			"comment_id": 11,
+			"body": "How exactly does SAFE compare to efforts like Tor, Zeronet, and IPFS? ",
+			"post_uri": "1D242AyQghFqqQTwo1f1csP5kRQe588BUm_2",
+			"date_added": 1471054166
+		},
+		{
+			"comment_id": 12,
+			"body": "@Kaffie: -Okay, got everything modified. And it's sortof working, but I can't sign-in to my ZeroMe account. I get faced with the Create Profile page and trying to \"join\" the Blue hub again results in an error saying that I already exist on that hub. This leaves me without any way to login to my account, though messages from other users do show in \"Visitor mode\". Help?-",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_3",
+			"date_added": 1471060524
+		},
+		{
+			"comment_id": 13,
+			"body": "@Kaffie: You're right after I replied it started working. Though it seems to be really slow in propagating the content. Some posts and users still haven't appeared, and my Follows still aren't listed.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_3",
+			"date_added": 1471060928
+		},
+		{
+			"comment_id": 14,
+			"body": "Hmmm. It's really inconsistent with what shows up. A lot of stuff is missing for some reason and I can't figure out why.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_3",
+			"date_added": 1471061195
+		},
+		{
+			"comment_id": 15,
+			"body": "@Kaffie: If by double hubbing you mean joining more than one hub, then I don't think I am. This really doesn't make sense why my clone isn't working. Maybe I'll try making it from scratch again.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_4",
+			"date_added": 1471088099
+		},
+		{
+			"comment_id": 16,
+			"body": "Definitely would be interesting to see a Torrent site built with hubs. Just like ZeroMe, the Torrent site itself would just be a frontend, so people could basically design their own Torrent site and have it access the same databases. The hub design also means that people could \"subscribe\" to the content they want. So if people don't want to see NSFW stuff they just don't have to add that hub.",
+			"post_uri": "1JF3eQjW4voiKdcvCkMXvUx5bLmZAiVdyi_3",
+			"date_added": 1471088808
+		},
+		{
+			"comment_id": 17,
+			"body": "@Kaffie: Shameless self promotion XD",
+			"post_uri": "1FVgXvt6d7AciuXYYeHwFcPfUyRqRDhZxV_4",
+			"date_added": 1471089139
+		},
+		{
+			"comment_id": 18,
+			"body": "@Kaffie: Strange how it doesn't effect normal ZeroMe for me though. Unless that's because things are cached in ZeroMe.db... That might explain why only my clones seem effected.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_6",
+			"date_added": 1471097112
+		},
+		{
+			"comment_id": 19,
+			"body": "@ZAlex: Sorry about that. Please try again. I made sure to use a proxy to check if it was working this time.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_7",
+			"date_added": 1471100535
+		},
+		{
+			"comment_id": 20,
+			"body": "Weird, Blue hub is only 528kB for me.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_8",
+			"date_added": 1471100939
+		},
+		{
+			"comment_id": 22,
+			"body": "@tkarita: Anything interesting in your log?",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_8",
+			"date_added": 1471101731
+		},
+		{
+			"comment_id": 23,
+			"body": "@Nofish:  Whoops, my bad. Should be fixed and published.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_8",
+			"date_added": 1471105661
+		},
+		{
+			"comment_id": 24,
+			"body": "@Compumatrix: There seems to currently be a bug in ZeroMe. Try closing Zeronet and then copying \"\\data\\1MeFqFfFFGQfa1J3gJyYYUvb5Lksczq7nH\\merged-ZeroMe\\ZeroMe.db\" to \"\\data\\1HmJ7GadjdiQUPevaK7QXVrK4nhyCp1fSj\\merged-ZeroMe\\ZeroMe.db\" and see if that fixes the issue.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_7",
+			"date_added": 1471116466
+		},
+		{
+			"comment_id": 25,
+			"body": "@Nofish: Hopefully it's good now.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_8",
+			"date_added": 1471119351
+		},
+		{
+			"comment_id": 26,
+			"body": "@Nofish: That just breaks my login and leaves me like this:\nhttps://gateway.ipfs.io/ipns/QmcpgDW1BPEqBwbzq2JmySkFmcmAE9k1aV5kDeV5S5XxMk/2016-08-13%2009_11_45-ZeroMe%20Clone.png",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_8",
+			"date_added": 1471121285
+		},
+		{
+			"comment_id": 27,
+			"body": "As things are now, Ads are basically impossible on Zeronet as it currently is, unless someone invents a new way to do them. Who knows how we'll monetize Zites.",
+			"post_uri": "1BTK7LKA1LrvCjNqVrPmBtySWhSaHnG97Q_5",
+			"date_added": 1471124046
+		},
+		{
+			"comment_id": 28,
+			"body": "Well, I'm seeding it for you on the clearnet now so people without Tor should be able to see it.",
+			"post_uri": "1FVgXvt6d7AciuXYYeHwFcPfUyRqRDhZxV_6",
+			"date_added": 1471124139
+		},
+		{
+			"comment_id": 29,
+			"body": "@Nofish: I did, doesn't seem to help.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_8",
+			"date_added": 1471124541
+		},
+		{
+			"comment_id": 30,
+			"body": "@Nofish: ( -_-) *sigh* \nNow it magically starts working and I can't figure out why. Sorry about wasting your time.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_8",
+			"date_added": 1471129686
+		},
+		{
+			"comment_id": 31,
+			"body": "@Scrub: I'm taking suggestions. What exactly do you find hard to read?",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_7",
+			"date_added": 1471132077
+		},
+		{
+			"comment_id": 32,
+			"body": "@Scrub: Well the text in the text box was already white, so all I can do is make the background even darker.\n\nUsernames are going to take a lot more work unfortunately. ZeroMe generates those colors randomly inside the JS, so it's not something I can tweak real quick in the CSS. I'll have to look into changing the JS the generates the colors, and I don't have time for that today. Though I can tweak the usernames inside Following and Activity feed. I'll try making those a bit brighter.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_7",
+			"date_added": 1471133378
+		},
+		{
+			"comment_id": 34,
+			"body": "@Mynameislegion: I can appreciate that, though I prefer a bit more contrast and Teal/Beige isn't my preferred color scheme. Darker blues are my personal favorites, despite what DZM's current theme might suggest, but I scrapped blue because it has a tendency to disappear when using screen tinters like \"f.lux\". The original purpose of DZM was, as it's name suggests, to provide a Dark mode for people in dim environments, or for nighttime viewing. Sadly, your suggested color scheme doesn't fit with those requirements.\n\nThough I suppose I could create a separate T/B themed ZeroMe, but it isn't a priority at the moment.\n\nAs for going material theme, that's even more work, but sounds interesting. However, again, not a priority for me right now.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_10",
+			"date_added": 1471141024
+		},
+		{
+			"comment_id": 35,
+			"body": "@Mynameislegion: Yeah I get it, we all have our own preferences :)",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_10",
+			"date_added": 1471141389
+		},
+		{
+			"comment_id": 36,
+			"body": "@Scrub: It would be nice, but would require a lot of JS work(Not my strong suit). \n\nThe complicated part of ZeroMe is that most of the site is generated dynamically from \"all.js\". I can't just change things around in there all willynilly as it would make it harder to merge upstream changes in ZeroMe. So I have to look at and understand how and why \"all.js\" does things before I can start making major changes.\n\nMy goal isn't to make a new ZeroMe front-end, I sadly don't have the time to support that. What I can do is tweak the current ZeroMe front-end, and keep it up-to-date with the latest changes in ZeroMe. You'll have to ask someone else, or figure it out on your own, if you want anything more complicated done.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_10",
+			"date_added": 1471141794
+		},
+		{
+			"comment_id": 37,
+			"body": "@Kaffie: Explains why it seemed harder than usual...",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_10",
+			"date_added": 1471150958
+		},
+		{
+			"comment_id": 38,
+			"body": "Questions?",
+			"post_uri": "17LazTPTvBhMti81LvdjxQugkVGF1zVwxP_2",
+			"date_added": 1471193642
+		},
+		{
+			"comment_id": 39,
+			"body": "@Nofish: Thanks, that seems to work. Was a bit buggy at first but seems to have sorted itself out after I restarted Zeronet a second time, and it's working smoothly now.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_11",
+			"date_added": 1471196795
+		},
+		{
+			"comment_id": 40,
+			"body": "If I unplug, how am I supposed to use Zeronet?",
+			"post_uri": "164W1rFVD9Bm7poGJWvjVUjvkbhhFC5nnt_7",
+			"date_added": 1471221185
+		},
+		{
+			"comment_id": 41,
+			"body": "Go somewhere else to commit your stupid doxxing.",
+			"post_uri": "1APbko6uK9fwwZoqB5LKgFeqWdF3SDLw4k_4",
+			"date_added": 1471226847
+		},
+		{
+			"comment_id": 44,
+			"body": "Everything! XD",
+			"post_uri": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_10",
+			"date_added": 1471280889
+		},
+		{
+			"comment_id": 45,
+			"body": "Camrips suck in general, and the movie hasn't had a retail release yet so there's no way for people to get a good copy yet.",
+			"post_uri": "1DjUq8hd2jYZgc5uNhQEtWUVZjMHkMQkpU_21",
+			"date_added": 1471281001
+		},
+		{
+			"comment_id": 46,
+			"body": "ZeroWiki: http://127.0.0.1:43110/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP/",
+			"post_uri": "1BTK7LKA1LrvCjNqVrPmBtySWhSaHnG97Q_6",
+			"date_added": 1471291249
+		},
+		{
+			"comment_id": 47,
+			"body": "Also, Zeronet Search Egine: http://127.0.0.1:43110/kaffiene.bit",
+			"post_uri": "1BTK7LKA1LrvCjNqVrPmBtySWhSaHnG97Q_6",
+			"date_added": 1471291475
+		},
+		{
+			"comment_id": 48,
+			"body": "@HrnekBezucha: Decentralizing the bandwidth alone would be beneficial.",
+			"post_uri": "1BTK7LKA1LrvCjNqVrPmBtySWhSaHnG97Q_3",
+			"date_added": 1471291694
+		},
+		{
+			"comment_id": 49,
+			"body": "I also don't play, but sharing is caring so you get my seed.\n\n(In retrospect, that sounds way worse than I intended) XP",
+			"post_uri": "1BTK7LKA1LrvCjNqVrPmBtySWhSaHnG97Q_8",
+			"date_added": 1471309584
+		},
+		{
+			"comment_id": 50,
+			"body": "@Method-X: For me the ultimate torrent site would use hubs in order to store each category of torrents. That way anybody can make their own torrent site front-end, but share the same database of torrents. Somebody uploads a torrent on one site, and it shows up on all the others.",
+			"post_uri": "17Cs2auSHSVjKaYMXqbNMApRQrgXcwJUpL_4",
+			"date_added": 1471326062
+		},
+		{
+			"comment_id": 51,
+			"body": "@Nofishes:  Isn't that what most of us do? Though sometimes I do charitable seeding. Sharing is caring.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_12",
+			"date_added": 1471326463
+		},
+		{
+			"comment_id": 52,
+			"body": "@Shellbound: Interesting. I don't use ZeroMail much so I guess it hasn't become much of a space hog. It's currently using 9.5MB for me.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_12",
+			"date_added": 1471466098
+		},
+		{
+			"comment_id": 53,
+			"body": "@Fav: Yes, if you have a DZM page open, it should notify you to refresh the page when the update finishes downloading in the background. Though you can force the update by clicking the \"Update\" button in the Zeronet slide-out menu, or by clicking the 3-dot button next to \"Dark ZeroMe\" on Hello Zeronet and clicking Update from there.\n\nThough it might take a bit to receive the update as it has to spread through all the peers.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_13",
+			"date_added": 1471466975
+		},
+		{
+			"comment_id": 54,
+			"body": "It's the web, but instead of the sites being stored on a server they're shared by all the users.",
+			"post_uri": "17Cs2auSHSVjKaYMXqbNMApRQrgXcwJUpL_11",
+			"date_added": 1471467939
+		},
+		{
+			"comment_id": 56,
+			"body": "So far everything is made by you and stored in \"\\data\\1ApGGv8DWpuHvzhCqRBvqG4dq5Xb5CV74i\\data\\users\\1BTK7LKA1LrvCjNqVrPmBtySWhSaHnG97Q\\data.json\"\n\nTo change a page name, try changing everything using: \"slug\": \"[NAME OF PAGE]\"\nTo: \"slug\": \"[NEW NAME OF PAGE]\"\n\nAlso, Red links in the Index are generated whenever you create a link to a non-existent wiki page inside another page. So if you rename a page, make sure to change any links to that page, otherwise you'll end up with a Zombie red link in the Index.",
+			"post_uri": "1BTK7LKA1LrvCjNqVrPmBtySWhSaHnG97Q_12",
+			"date_added": 1471470403
+		},
+		{
+			"comment_id": 57,
+			"body": "Thanks for the compliment :)",
+			"post_uri": "17Cs2auSHSVjKaYMXqbNMApRQrgXcwJUpL_12",
+			"date_added": 1471484931
+		},
+		{
+			"comment_id": 58,
+			"body": "@Andrewm: Ah yeah. @Nofish just added that and I forgot to merge the CSS when I merged the JS.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_13",
+			"date_added": 1471532909
+		},
+		{
+			"comment_id": 59,
+			"body": "@Andrewm: There, should be working now. I might tweak the colors a bit more later, as I'm not sure I'm quite satisfied with what I threw together real quick. Let me know what you think.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_13",
+			"date_added": 1471534126
+		},
+		{
+			"comment_id": 60,
+			"body": "@Kaffie: Yeah, Flash storage has been getting really cheap lately. I was able to upgrade my laptop to a 1TB SSD for around $260 earlier this year, which was a bargain at the time, now the same SSD is only $230.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_12",
+			"date_added": 1471582603
+		},
+		{
+			"comment_id": 61,
+			"body": "@Icf20: Because eventually I plan on tweaking more than just CSS.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_15",
+			"date_added": 1471638574
+		},
+		{
+			"comment_id": 62,
+			"body": "@Dxtjgxz: Thanks. I forgot to use that.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_16",
+			"date_added": 1471644067
+		},
+		{
+			"comment_id": 63,
+			"body": "@ɃǾȾ: First paste is browser console for ZeroHello, Second paste is Zeronet console.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_16",
+			"date_added": 1471644274
+		},
+		{
+			"comment_id": 65,
+			"body": "@ɃǾȾ: --I deleted Infinity Hub to force it to update, but my ZeroHello is still screwed up.--\n\nEDIT: Nevermind, after waiting a bit and refreshing it works now, but Zeronet is still ignoring `--ui_ip *`, which breaks me using Zeronet on other computers in my network.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_16",
+			"date_added": 1471646021
+		},
+		{
+			"comment_id": 66,
+			"body": "Finally, got everything working again.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_16",
+			"date_added": 1471652538
+		},
+		{
+			"comment_id": 67,
+			"body": "Okay, after restarting Firefox in safe mode I've confirmed that it's something I've done, somehow, but I'm not sure what. Only things I've done is installed @Kaffie: \"zero://\" provider and an addon called YesScript. I'm guessing it's the latter, but if it's the former I have no idea how to undo it, can't find an entry in the settings or anywhere for providers.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_17",
+			"date_added": 1471733323
+		},
+		{
+			"comment_id": 69,
+			"body": "Yep, it was YesScript, which sucks. :(",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_17",
+			"date_added": 1471733524
+		},
+		{
+			"comment_id": 70,
+			"body": "talk about lazy devs...\n\nI even properly implement -h/--help in my Bash scripts...",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_21",
+			"date_added": 1471788573
+		},
+		{
+			"comment_id": 71,
+			"body": "Is there a mirror, because Ghostbin is dead currently :\\\n\nBut from what I gather from the Twitter posts, this sounds pretty stupid.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_20",
+			"date_added": 1471789168
+		},
+		{
+			"comment_id": 72,
+			"body": "@ks:  Thanks :)",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_20",
+			"date_added": 1471789749
+		},
+		{
+			"comment_id": 73,
+			"body": "Well, there's also alternatives like KaffieID, though it works differently so it might have its own issues.",
+			"post_uri": "17TX2JoDCPtqsYPN1KMk2LRLRzny31HetJ_6",
+			"date_added": 1471798818
+		},
+		{
+			"comment_id": 74,
+			"body": "If you've never used Linux before, I'd recommend dual-booting something like Linux Mint. Plenty of guides out there to help.",
+			"post_uri": "16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_10",
+			"date_added": 1471897401
+		},
+		{
+			"comment_id": 75,
+			"body": "Soemthing...",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1472054909",
+			"date_added": 1472054918
+		},
+		{
+			"comment_id": 76,
+			"body": "@Nofish: I was trying out the new \"Follow in newsfeed\" for posts. I created  a post with \"Test\" as its body, followed it, and then commented to see if the comments appeared in the news feed. They did, so having no need for the post anymore I deleted it. However the notice about the comments remains in the newsfeed, but with a link that goes nowhere now.\n\nSince I'm lucky enough that I own the comments for that post, theoretically if I delete them manually from my .json then the notice should disappear. But that doesn't solve the issue if I didn't own the comments.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1472055194",
+			"date_added": 1472080298
+		},
+		{
+			"comment_id": 77,
+			"body": "@Nofish:  Thanks. Guess I still need to delete that comment though.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1472055194",
+			"date_added": 1472154963
+		},
+		{
+			"comment_id": 78,
+			"body": "Never heard of it either. Too bad I don't have time to read that right now :(",
+			"post_uri": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u_1472145214",
+			"date_added": 1472163784
+		},
+		{
+			"comment_id": 79,
+			"body": "@Nofish: I think if a user's old comments are archived, signed by them, and marked optional downloads, that's good enough. Though how'd you easily let others gain access to a user's archives in the first place would be a question.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472135886",
+			"date_added": 1472164052
+		},
+		{
+			"comment_id": 80,
+			"body": "Well Google has its new side-project called Fuchsia that they're working on. Nowhere near being a functional OS yet, but it boots.",
+			"post_uri": "16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_1472164264",
+			"date_added": 1472188856
+		},
+		{
+			"comment_id": 81,
+			"body": "@Kaffie: Woah, ReactOS is an interesting concept, though the speed of development leaves much to be desired. Even so I'm definitely going to install it in a VM today to give it a whirl.",
+			"post_uri": "16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_1472164264",
+			"date_added": 1472223722
+		},
+		{
+			"comment_id": 83,
+			"body": "They are just the \"hubs\" where your data is stored. It doesn't really matter which hub you're on, as inevitably people will eventually have all of them downloaded anyway, just by browsing ZeroMe.\n\n\nBasically the Hubs act as separate databases where the user data is stored separately from ZeroMe. This helps provide a solution to the issue where users could run out of allowed space on a site, like ZeroTorrents, and not be allowed to post anything more because of it. The separation of the hubs on sites like ZeroMe means that even if you run out of space on one hub, you can move to a new hub and continue posting. Your posts and comments will still be tied to your account, just stored in a different hub, and they'll all appear in ZeroMe as long as you have the hubs downloaded.\n\n\nAnother benefit of the separation of the hubs from the site itself is that the original site isn't the only one that can use the hubs. This basically means that sites like ZeroMe are basically front-ends to the hubs, which also means that you can use different front-ends and still access the same data. Think of it like third-party Twitter clients on your phone. They each function differently, with different UIs and features, but they all connect to the same Twitter APIs and databases. So basically people can create their own modified ZeroMe sites, but still talk to people using the original ZeroMe.",
+			"post_uri": "13NJuU9nw3cFSVoETCkN6BCv5s5v5V2ngA_1472495399",
+			"date_added": 1472506094
+		},
+		{
+			"comment_id": 84,
+			"body": "@Lola: Link in my profile\n\nEDIT: [Dark ZeroMe\t](http://127.0.0.1:43110/1HmJ7GadjdiQUPevaK7QXVrK4nhyCp1fSj/)",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1472505142",
+			"date_added": 1472506180
+		},
+		{
+			"comment_id": 85,
+			"body": "@Kaffie: Already tried. No effect sadly.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1472516408",
+			"date_added": 1472521040
+		},
+		{
+			"comment_id": 86,
+			"body": "The Void. Welcome to Oblivion.",
+			"post_uri": "1HzHCyJSoSgyMEQCzxmGSXRTUEYuEhQv8v_1473251080",
+			"date_added": 1473258076
+		},
+		{
+			"comment_id": 87,
+			"body": "ZeroMe uses **Markdown** not *HTML*\n\nZeroMe uses `**Markdown**` not `*HTML*`\n\n[\\[Markdown Cheatsheet\\]](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)",
+			"post_uri": "14UupgrdnT7Y8vMES7aqUFgD1fC5RYNrh8_1473247523",
+			"date_added": 1473258366
+		},
+		{
+			"comment_id": 88,
+			"body": "The article on TorrentFreak did the same thing. Kind of annoying.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1473258675",
+			"date_added": 1473280321
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1470967402
+		},
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ",
+			"user_name": "Sirenyc",
+			"date_added": 1470967426
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1470967441
+		},
+		{
+			"follow_id": 4,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1BDapygZHNG8GxEuSsEpK9Xipm9mFfW1F2",
+			"user_name": "isolinks",
+			"date_added": 1470967447
+		},
+		{
+			"follow_id": 5,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N",
+			"user_name": "Quadrangle",
+			"date_added": 1470967762
+		},
+		{
+			"follow_id": 6,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R",
+			"user_name": "Scrub",
+			"date_added": 1470970048
+		},
+		{
+			"follow_id": 7,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1470970067
+		},
+		{
+			"follow_id": 8,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "17eKk6mdR7bth2Fi8f74P5JV8AfHsERT4F",
+			"user_name": "Zerro",
+			"date_added": 1470970171
+		},
+		{
+			"follow_id": 9,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1470978651
+		},
+		{
+			"follow_id": 10,
+			"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
+			"auth_address": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb",
+			"user_name": "ɃǾȾ",
+			"date_added": 1471009518
+		},
+		{
+			"follow_id": 11,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1DWsec9UeBbGYJ4FG8Pmy3Fb2xSM9RPeJC",
+			"user_name": "Benjaminnelan",
+			"date_added": 1471009830
+		},
+		{
+			"follow_id": 12,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ",
+			"user_name": "Musickiller",
+			"date_added": 1471010295
+		},
+		{
+			"follow_id": 13,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne",
+			"user_name": "Jayofthezero",
+			"date_added": 1471052529
+		},
+		{
+			"follow_id": 14,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1D242AyQghFqqQTwo1f1csP5kRQe588BUm",
+			"user_name": "Francis Brunelle",
+			"date_added": 1471054171
+		},
+		{
+			"follow_id": 16,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1JF3eQjW4voiKdcvCkMXvUx5bLmZAiVdyi",
+			"user_name": "Edantes",
+			"date_added": 1471088572
+		},
+		{
+			"follow_id": 17,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f",
+			"user_name": "Kaffie",
+			"date_added": 1471098077
+		},
+		{
+			"follow_id": 18,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t",
+			"user_name": "tkarita",
+			"date_added": 1471101699
+		},
+		{
+			"follow_id": 19,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx",
+			"user_name": "Kindlyfire",
+			"date_added": 1471105894
+		},
+		{
+			"follow_id": 20,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1471119639
+		},
+		{
+			"follow_id": 21,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT",
+			"user_name": "Klaus Jónsson Zimmermann",
+			"date_added": 1471125055
+		},
+		{
+			"follow_id": 22,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS",
+			"user_name": "ZAlex",
+			"date_added": 1471178313
+		},
+		{
+			"follow_id": 23,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1BTK7LKA1LrvCjNqVrPmBtySWhSaHnG97Q",
+			"user_name": "HrnekBezucha",
+			"date_added": 1471291632
+		},
+		{
+			"follow_id": 24,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1CFhytwoGGPNqmueehPqotaf2iG9uxD98e",
+			"user_name": "Method-X",
+			"date_added": 1471326490
+		},
+		{
+			"follow_id": 25,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV",
+			"user_name": "Mynameislegion",
+			"date_added": 1471406722
+		},
+		{
+			"follow_id": 26,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1JbbLwRjvoa3WnK9dp8DJuiLG4ywkeuuLx",
+			"user_name": "Uptown",
+			"date_added": 1471467655
+		},
+		{
+			"follow_id": 27,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331",
+			"user_name": "Andrewm",
+			"date_added": 1471534217
+		},
+		{
+			"follow_id": 28,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1JbpzmuMPCg5tQEW8kstHhAtZbckwgXVnR",
+			"user_name": "Jamiek",
+			"date_added": 1471639744
+		},
+		{
+			"follow_id": 29,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9",
+			"user_name": "Shellbound",
+			"date_added": 1471675164
+		},
+		{
+			"follow_id": 30,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR",
+			"user_name": "weakish",
+			"date_added": 1471709136
+		},
+		{
+			"follow_id": 31,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1H5VKNWtkBA7RpJWyYuFw5bqjwbgjXoqKp",
+			"user_name": "Unanimous",
+			"date_added": 1471821501
+		},
+		{
+			"follow_id": 32,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "17TX2JoDCPtqsYPN1KMk2LRLRzny31HetJ",
+			"user_name": "CronianIce",
+			"date_added": 1471821524
+		},
+		{
+			"follow_id": 33,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u",
+			"user_name": "Lola",
+			"date_added": 1472563971
+		},
+		{
+			"follow_id": 34,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN",
+			"user_name": "Cyborg Warrior",
+			"date_added": 1472757980
+		},
+		{
+			"follow_id": 35,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1FE7qxxvZDhoyhpadqWNCgT9X96hEQKEYM",
+			"user_name": "Aarocka",
+			"date_added": 1472759143
+		}
+	]
+}

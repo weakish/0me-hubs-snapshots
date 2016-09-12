@@ -1,0 +1,397 @@
+{
+	"next_post_id": 17,
+	"next_comment_id": 25,
+	"next_follow_id": 27,
+	"avatar": "jpg",
+	"user_name": "Andrewm",
+	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+	"intro": "Interested in security, privacy and anonymity.\n\n[Personal Zite](http://127.0.0.1:43110/1PHyzwGqDQKYFWbJBDX1JqYrp8jyLrzsRL/)\n\nTox ID: A159F3328E43C0766FE3CECA051049699E6AA4B3037FC84B643A00E975DA3559F6D9887D5A17",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471163467,
+			"body": "Hello ZeroMe! Need seeders for my [site](http://127.0.0.1:43110/1PHyzwGqDQKYFWbJBDX1JqYrp8jyLrzsRL/)!"
+		},
+		{
+			"post_id": 2,
+			"body": "If anyone wants a free invite key to [Keybase.io](https://keybase.io) email (zmail?) me at andrewm@zeroid.bit. I've got 21 left!",
+			"date_added": 1471165004
+		},
+		{
+			"post_id": 3,
+			"body": "Heads up [Zeronet KAT](http://127.0.0.1:43110/1LBr1dHoXvJAMjDgW8Wcg5kbCoKyJnzo6p) works with torrent browsing, searching and uploading! Git repo [here](https://gitlab.com/kickasstorrents/KAT/).",
+			"date_added": 1471181150
+		},
+		{
+			"post_id": 4,
+			"body": "Getting some updating issues on Red/Blue/Infinity hubs, they show updating continuously and never download any new files. I am on Tor: always mode.",
+			"date_added": 1471181271
+		},
+		{
+			"post_id": 5,
+			"body": " ",
+			"date_added": 1471226314
+		},
+		{
+			"post_id": 6,
+			"body": "Are people seeing two posts here or just one? http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Post/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/14J8mC3K7k5Ygx22uu9LUzGWnBoDAQdyDo/3 I seem to see two copies of the same post at different points in time. http://i.imgur.com/4dfWUDo.png",
+			"date_added": 1471235359
+		},
+		{
+			"post_id": 7,
+			"body": "Zeronet zites still has a single point of failure I think. If the signer's private key were to be compromised an attacker could delete or plagiarize a zite and push it to the rest of the network, completely erasing the original content. I don't think anyone keeps backup's of the zites the seed... Perhaps we need a [Wayback Machine](https://archive.org/web/) like service for Zeronet, where it would index all the zites it is seeding every hour or something. What do you think?",
+			"date_added": 1471383224
+		},
+		{
+			"post_id": 8,
+			"body": "You can now follow your username mentions and comments on your posts on ZeroMe! Thanks @Nofish!\n\nhttp://i.imgur.com/0CLKN1R.png",
+			"date_added": 1471383402
+		},
+		{
+			"post_id": 9,
+			"body": "Anyone else keep getting this error? I'm not using a proxy, rather the latest Zeronet (v1422) locally from my package manager: https://ipfs.pics/ipfs/QmbSoeMETDKHyyeY3pUcCKCZ8fLVikbH63ZD7nGQ6nix4C",
+			"date_added": 1471418116
+		},
+		{
+			"post_id": 10,
+			"body": "Alright this is odd, running Zeronet locally and navigating to 127.0.0.1:43110/<etc> I'm getting a message telling me I'm running through a proxy?\n\nhttps://ipfs.pics/ipfs/QmNg87HY8aSmCv5aKsfcwxQyUYH1uoBgP4QvvYyg1ofQQb\n\nI am using Tor always.",
+			"date_added": 1471419718
+		},
+		{
+			"post_id": 11,
+			"body": "That ending in today's Mr. Robot episode...",
+			"date_added": 1471506244
+		},
+		{
+			"post_id": 12,
+			"body": "I'm trying to create a zite in accordance to [this tutortial on Zeroblog](http://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:43:ZeroNet+site+development+tutorial+1) but it seems upon page load all.js is never created or loaded. I have coffee-script installed via npm and am running on Arch Linux. \n\nAny ideas?",
+			"date_added": 1471506749
+		},
+		{
+			"post_id": 13,
+			"body": "Anyone know how to get PHP working on ZeroNet sites?",
+			"date_added": 1471661017
+		},
+		{
+			"post_id": 14,
+			"body": "Awesome video about the advantages of technology feat. Snowden. https://www.youtube.com/watch?v=ysCQfx-UEpA",
+			"date_added": 1471665004
+		},
+		{
+			"post_id": 1472804395,
+			"body": "Trying out [ZeroTube](http://127.0.0.1:43110/1FUQPLXHimgCvYHH7v3bJXspJ7bMBUXcEb/) for the first time in a while. Seems to work seamlessly now. Seed MLP and Mr. Robot!",
+			"date_added": 1472804380
+		},
+		{
+			"post_id": 1472807073,
+			"body": "Does WebTorrent crash frequently for anyone else? Seems like I get a crash whenever I finish downloading a file on both stable and -git versions...",
+			"date_added": 1472807057
+		}
+	],
+	"post_like": {
+		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_2": 1471539668,
+		"1FtUiy2KtVRiLTjs2QrvDJUSx2wMzeeavX_2": 1471552272
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Sleek! Can a user be signed in on both ZeroID and Kaffie/xyz-ID at the same time? ",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_18",
+			"date_added": 1471164372
+		},
+		{
+			"comment_id": 2,
+			"body": "Now have an email on both Zeromail versions. Seems they're incompatible with each other. Try resending if you couldn't find me earlier!",
+			"post_uri": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331_2",
+			"date_added": 1471175394
+		},
+		{
+			"comment_id": 3,
+			"body": "@<tkarita/>: Added, thanks.",
+			"post_uri": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331_1",
+			"date_added": 1471177577
+		},
+		{
+			"comment_id": 4,
+			"body": "@GomZik: There's always the problem with space, as hosting git repos has shown us. I don't imagine you'd want to sync the revisions across all peers, but perhaps a simple \"Save Revisions\" option in the little dropdown on NewZeroHello could save them locally in your data folder. A \"Time Machine\"-like view for the different revisions would be cool too.",
+			"post_uri": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331_7",
+			"date_added": 1471384447
+		},
+		{
+			"comment_id": 5,
+			"body": "@Quadrangle:  Doesn't seem like any of the zites archived there currently work, but it's a step in the right direction. Ideally there would be a metadata file one would download that would detail information about every archived zite, and then each archived site would be presented as an optional download. You would probably need some way of compressing/decompressing the archives or otherwise I can imagine things getting very large very quickly. Users could also choose to seed every zite/revision similar to 0chan where there's a simple toggle in the sidebar, though a warning should be displayed to users of the space requirements required.",
+			"post_uri": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331_7",
+			"date_added": 1471385497
+		},
+		{
+			"comment_id": 6,
+			"body": "Turns out it's the Multiuser plugin. Disable it if you don't want the limitations of running through Zeroproxy.",
+			"post_uri": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331_10",
+			"date_added": 1471420213
+		},
+		{
+			"comment_id": 7,
+			"body": "Turns out it's the Multiuser plugin. Disable it if you don't want the limitations of running through Zeroproxy.",
+			"post_uri": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331_9",
+			"date_added": 1471423410
+		},
+		{
+			"comment_id": 8,
+			"body": "@Kaffie: Yup, is that the reason?\n\nEdit: I'm getting a 404 on all.js, but I am receiving all.js?rev=1422. I'm currently at the point in the tutorial where I should be receiving a siteInfo response however the page remains blank. https://ipfs.pics/ipfs/QmaeKhcJQWUVhgnctnxSAgpctCAVkwkyigjZbrCC2TeBsN",
+			"post_uri": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331_12",
+			"date_added": 1471507771
+		},
+		{
+			"comment_id": 9,
+			"body": "@Shellbound: Zeronet is running under root user, so it should have access to everything, and be able to modify anything. Files are owned by my user account, but root should still be able to rwx. It just generates a 404 on all.js: https://ipfs.pics/ipfs/QmQ3dJ2t1J9RjeybCQCrZJq1Ko1ubuYZwAUTjp9r51Aimb",
+			"post_uri": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331_12",
+			"date_added": 1471508855
+		},
+		{
+			"comment_id": 10,
+			"body": "@Shellbound: You are right and I assumed it was so as it was running under systemd's system directory, but upon further inspection of the zeronet.service file it is indeed running under the zeronet user. I've adjusted the files accordingly but I don't seem to see any change. The oddest thing I do see though is the site requesting the same file twice (once in html format, and another in js?) and only finding it once? https://ipfs.pics/ipfs/QmW4bTXhJsB7mct7trZYsVWWKapApxJL9XoagcCfcrr2WN",
+			"post_uri": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331_12",
+			"date_added": 1471510114
+		},
+		{
+			"comment_id": 11,
+			"body": "I'm convinced the issue is that it's unable to access the all.js file, though I can't understand why that would be the case.",
+			"post_uri": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331_12",
+			"date_added": 1471510467
+		},
+		{
+			"comment_id": 12,
+			"body": "Alright, I've disabled Tor always mode and now request don't time out anymore, just a straight 404 error on all.js. Does coffee-script have a log anywhere I could check?",
+			"post_uri": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331_12",
+			"date_added": 1471510735
+		},
+		{
+			"comment_id": 13,
+			"body": "Progress: Compiling the coffeescript manually works, Zeronet doesn't want to do it automatically. Is that an option that needs to be switched on? --debug mode is on.",
+			"post_uri": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331_12",
+			"date_added": 1471511016
+		},
+		{
+			"comment_id": 14,
+			"body": "I've posted on an existing issue on the ZeroNet Github page. Hopefully it gets resolved.",
+			"post_uri": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331_12",
+			"date_added": 1471512108
+		},
+		{
+			"comment_id": 15,
+			"body": "@Shellbound: Turns out it was a combination of a bug in Zeronet and an AUR package maintainer's decisions :) https://github.com/HelloZeroNet/ZeroNet/issues/478",
+			"post_uri": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331_12",
+			"date_added": 1471518438
+		},
+		{
+			"comment_id": 16,
+			"body": "nope :)",
+			"post_uri": "1EizNCr1TBaytrcEFBPrk8yk6eUFgNCC5r_3",
+			"date_added": 1471547988
+		},
+		{
+			"comment_id": 17,
+			"body": "@Execin: i̛̝̰̠̰̥̹͕̺̻̺̥͔͖͖̙̲̮̻̎ͥ̉͂̓̀͜t̢̯̦͔͍̟̤̬̄ͭͫ̈́ͩ̓̅͑̀̂ͮ͆̏̇͋ͫ͢͡ͅ ̐̓ͭͫ͊͑ͧͮ͋ͫ̋̐̔͗̚͟҉҉̙͇͙̝̪̪̼̭̮͉͓̮͔͖̠͚͚ͅw̸̢̛͖̤̹͖̰̖̥̩̳̱ͬ̃̄̊̒̇̎͑̀̓̓̋͟͞ō̲̞̝̱̦͈̄ͣ̑ͤ͂͛́ͬͬ̏̾͗͗̕͞r̴̞͍̩̭̣͇̼͋̂̏ͬ͒͛ͪ̊̑̍͐ͧ̆̇́̽ͥḵ̸͖͚͎̼͎̯̠͚̟͕͚̱ͬ́̄͊̈́ͯ̅̔̓̉̀̇ͤ̌̆͒̋̚s̸̷̰̙̪̙̹̟̪͎̝͉̥͔̀ͦ̈̈́͗̈́͛̏̃̎̓̒̿ͤͮ̀͂̃ͭ͟͝ͅͅ!ͦ̍͑̈́̂ͩ̔̽͌͆̎ͦ͒͌҉̵̸̡͚̺̱̜̠̙͙̼͎̭̫̹̥̪͓ͅ 🔴҈҈҈҈̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚҉̚",
+			"post_uri": "1EizNCr1TBaytrcEFBPrk8yk6eUFgNCC5r_5",
+			"date_added": 1471548973
+		},
+		{
+			"comment_id": 18,
+			"body": "@Execin: I have some of those emojis installed.",
+			"post_uri": "1EizNCr1TBaytrcEFBPrk8yk6eUFgNCC5r_5",
+			"date_added": 1471549383
+		},
+		{
+			"comment_id": 19,
+			"body": "we had a good run",
+			"post_uri": "1EizNCr1TBaytrcEFBPrk8yk6eUFgNCC5r_5",
+			"date_added": 1471552470
+		},
+		{
+			"comment_id": 20,
+			"body": "Updating to ZeroNet rev1422 worked for me.",
+			"post_uri": "1FtUiy2KtVRiLTjs2QrvDJUSx2wMzeeavX_3",
+			"date_added": 1471615504
+		},
+		{
+			"comment_id": 21,
+			"body": "@Method-X: Alright, thanks. I was wondering if there was a way to compile it on the fly like ZeroNet does with coffee-script.",
+			"post_uri": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331_13",
+			"date_added": 1471661574
+		},
+		{
+			"comment_id": 22,
+			"body": "@Kaffie: @Method-X: Thanks for the clarification guys, guess I'll be doing all functionality in JS!",
+			"post_uri": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331_13",
+			"date_added": 1471671146
+		},
+		{
+			"comment_id": 23,
+			"body": "@Dios: Can one 'stream' ipfs content? Or does it not support sequential downloading?",
+			"post_uri": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331_1472804395",
+			"date_added": 1472806571
+		},
+		{
+			"comment_id": 24,
+			"body": "Turns out it's [a known issue](https://github.com/feross/webtorrent-desktop/issues/854).",
+			"post_uri": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331_1472807073",
+			"date_added": 1472808132
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ",
+			"user_name": "Sirenyc",
+			"date_added": 1471166020
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1471166165
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS",
+			"user_name": "ZAlex",
+			"date_added": 1471178323
+		},
+		{
+			"follow_id": 5,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6",
+			"user_name": "Emeraude",
+			"date_added": 1471179933
+		},
+		{
+			"follow_id": 6,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t",
+			"user_name": "tkarita",
+			"date_added": 1471179949
+		},
+		{
+			"follow_id": 7,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib",
+			"user_name": "megfault",
+			"date_added": 1471180223
+		},
+		{
+			"follow_id": 8,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1D6Pn4487L8QyFtVSU14nxxtnfEgEs2Ny1",
+			"user_name": "Kickasstorrents",
+			"date_added": 1471180224
+		},
+		{
+			"follow_id": 9,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1471180255
+		},
+		{
+			"follow_id": 10,
+			"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
+			"auth_address": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb",
+			"user_name": "ɃǾȾ",
+			"date_added": 1471181513
+		},
+		{
+			"follow_id": 11,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R",
+			"user_name": "Scrub",
+			"date_added": 1471182375
+		},
+		{
+			"follow_id": 12,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "14J8mC3K7k5Ygx22uu9LUzGWnBoDAQdyDo",
+			"user_name": "ImUrX",
+			"date_added": 1471182387
+		},
+		{
+			"follow_id": 13,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1471240244
+		},
+		{
+			"follow_id": 14,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1471240277
+		},
+		{
+			"follow_id": 15,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331",
+			"user_name": "Andrewm",
+			"date_added": 1471240482
+		},
+		{
+			"follow_id": 16,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne",
+			"user_name": "Jayofthezero",
+			"date_added": 1471241558
+		},
+		{
+			"follow_id": 17,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT",
+			"user_name": "Klaus Jónsson Zimmermann",
+			"date_added": 1471384005
+		},
+		{
+			"follow_id": 18,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1JQL1YaQTjuWFU77QeCJyspYhfsqntMBrg",
+			"user_name": "Pizdets",
+			"date_added": 1471385359
+		},
+		{
+			"follow_id": 19,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N",
+			"user_name": "Quadrangle",
+			"date_added": 1471396492
+		},
+		{
+			"follow_id": 20,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u",
+			"user_name": "Lola",
+			"date_added": 1471519178
+		},
+		{
+			"follow_id": 22,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1EizNCr1TBaytrcEFBPrk8yk6eUFgNCC5r",
+			"user_name": "Execin",
+			"date_added": 1471549392
+		},
+		{
+			"follow_id": 25,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9",
+			"user_name": "Shellbound",
+			"date_added": 1471659182
+		},
+		{
+			"follow_id": 26,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ",
+			"user_name": "Musickiller",
+			"date_added": 1471682392
+		}
+	]
+}

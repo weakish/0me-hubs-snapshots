@@ -1,0 +1,227 @@
+{
+	"next_post_id": 5,
+	"next_comment_id": 23,
+	"next_follow_id": 9,
+	"avatar": "png",
+	"user_name": "Drymer",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Me gustan las cosas. La replica de mi web está en http://127.0.0.1:43110/1M8FhYZe1j1wWGgCAf8X13eEtQxeyWmgL5/",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471463609,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 2,
+			"body": "Hola humanos, que desí.",
+			"date_added": 1471463628
+		},
+		{
+			"post_id": 3,
+			"body": "Does anybody know what makes a site appear as your own site? I mean when clicking and drag the round right corner icon and appears the map and other stuff, the last section is \"This is my site\".",
+			"date_added": 1471485279
+		},
+		{
+			"post_id": 4,
+			"body": "Is there an easy way to display a message only to zeronet users on a website? \nI though about something like making a simple request to the api and if ther's an answer, display the message, but I'm not sure if it's the best option.",
+			"date_added": 1471537247
+		}
+	],
+	"post_like": {
+		"1BxuLKAJ4MLrDLMoRgFA5n5kZjoDDNjfHm_3": 1471543679,
+		"1GNUSJaJc3sCUPYaGSEGYuMyFPp3GWYugB_1": 1471561676
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Zorriko: No sé, alguno habrá.",
+			"post_uri": "1BBCbDdZtZ5ZJGhF2WcMRcn3FEKQ7PaoMS_2",
+			"date_added": 1471463811
+		},
+		{
+			"comment_id": 2,
+			"body": "@Thekiller66: Si te lo propones, evolucionarás.",
+			"post_uri": "1BBCbDdZtZ5ZJGhF2WcMRcn3FEKQ7PaoMS_2",
+			"date_added": 1471464067
+		},
+		{
+			"comment_id": 3,
+			"body": "@Jayofthezero: I see, thanks.",
+			"post_uri": "1BBCbDdZtZ5ZJGhF2WcMRcn3FEKQ7PaoMS_3",
+			"date_added": 1471512020
+		},
+		{
+			"comment_id": 4,
+			"body": "@Andrewm: More or less as I thought. I'll have to learn some javascript, I guess.",
+			"post_uri": "1BBCbDdZtZ5ZJGhF2WcMRcn3FEKQ7PaoMS_4",
+			"date_added": 1471538148
+		},
+		{
+			"comment_id": 5,
+			"body": "@Andrewm: Well, I don't want to learn a lot, I actually don't like webdev, so I only want the least amount I could.",
+			"post_uri": "1BBCbDdZtZ5ZJGhF2WcMRcn3FEKQ7PaoMS_4",
+			"date_added": 1471543572
+		},
+		{
+			"comment_id": 6,
+			"body": "@Johnhamelink: I'll take a look, thanks.",
+			"post_uri": "1BBCbDdZtZ5ZJGhF2WcMRcn3FEKQ7PaoMS_4",
+			"date_added": 1471543589
+		},
+		{
+			"comment_id": 7,
+			"body": "@Andrewm: I went with a simple \"On Connect to Web Socket\" and it works! I modified a little bit the js script on the site development tutorial (http://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:43:ZeroNet+site+development+tutorial+1). I guess it could be smaller, but I don't know enought js. I only need to made the warning prettier. ",
+			"post_uri": "1BBCbDdZtZ5ZJGhF2WcMRcn3FEKQ7PaoMS_4",
+			"date_added": 1471574103
+		},
+		{
+			"comment_id": 8,
+			"body": "@Dergatt: It does not use signal encryption, it uses OMEMO or otr.",
+			"post_uri": "17gEFavobc7RsKNGbSzZwoSZ6jNB7hT2KN_8",
+			"date_added": 1471613334
+		},
+		{
+			"comment_id": 9,
+			"body": "En thepiratebay.org.",
+			"post_uri": "14x4EC7s5TqvtShMQy22xpj8ouVSmSNZY8_3",
+			"date_added": 1471629586
+		},
+		{
+			"comment_id": 10,
+			"body": "@Dergatt: I see, my bad.",
+			"post_uri": "17gEFavobc7RsKNGbSzZwoSZ6jNB7hT2KN_8",
+			"date_added": 1471631107
+		},
+		{
+			"comment_id": 11,
+			"body": "Facilitaria mucho el tema poder automatizar la creación de los torrents. Donde se puede ver cómo crearlos?",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1472201677",
+			"date_added": 1472219264
+		},
+		{
+			"comment_id": 12,
+			"body": "@Rapapobre: Donde se crean? Igual se puede apañar algo.",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1472201677",
+			"date_added": 1472219783
+		},
+		{
+			"comment_id": 13,
+			"body": "There's actually git-torrent for something similar, that would cover the p2p part. For the interface, there's a lot, sure is at least one only written on js. Maybe gitweb or gitlist.",
+			"post_uri": "1GgXbWMo4NkVQNKbLJFvEephA9rPLp9j2P_1472214640",
+			"date_added": 1472219994
+		},
+		{
+			"comment_id": 14,
+			"body": "@Rapapobre: Algunas cosas de zeronet no me van con el navegador que uso, y parece que lo de añadir torrent es una de ellas. Me podrias indicar un ejemplo de .torrent para descargar?",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1472201677",
+			"date_added": 1472220168
+		},
+		{
+			"comment_id": 15,
+			"body": "@Rapapobre: Ah, pero los torrents no funcionan por zeronet? Entonces no le termino de ver la gracia.",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1472201677",
+			"date_added": 1472220433
+		},
+		{
+			"comment_id": 16,
+			"body": "@Rapapobre: El tema es, hay trackers en zeronet? Por que crear un torrent o magnet de manera automatica no tendrá mucho misterio, el tema es ese, que luego funcione. Cuales son los trackers de zeronet?",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1472201677",
+			"date_added": 1472220571
+		},
+		{
+			"comment_id": 17,
+			"body": "@RiotPulv: Cierto, no hacen falta trackers, pero bueno. Tampoco funciona con DHT en zeronet. Si que mola que hayan webs con torrents, pero espero que el fin sea hacer que los torrents vayan por zeronet, como se hace en i2p o freenet.",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1472201677",
+			"date_added": 1472380982
+		},
+		{
+			"comment_id": 18,
+			"body": "@Thekiller66: Decir que \"hay que subir material interesante\" no tiene sentido, es totalmente una cuestión de gustos. @RiotPulv @Userzero",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1472201677",
+			"date_added": 1472381083
+		},
+		{
+			"comment_id": 19,
+			"body": "Yo tengo la web que pongo en la clearnet aqui en zeronet. No se puede comentar, pero bueno, ahí está. Creo que no cuesta nada poner una replica en un lado u otro.",
+			"post_uri": "18EjLHTadBR6ci3XRWyMfsGeWVtXTR8xx_1472355743",
+			"date_added": 1472381165
+		},
+		{
+			"comment_id": 20,
+			"body": "@Userzero: Teneis que tener en cuenta que esto es una alpha. Puede pasar y seguirá pasando. @rapapobre",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1472222376",
+			"date_added": 1472384068
+		},
+		{
+			"comment_id": 21,
+			"body": "@Userzero: Que ha pasado exactamente? Seria raro que no tuviese arreglo.",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1472222376",
+			"date_added": 1472384089
+		},
+		{
+			"comment_id": 22,
+			"body": "Si usas tor con el puerto de control activo, no hace falta tocar el router. Es menos lio.",
+			"post_uri": "18EjLHTadBR6ci3XRWyMfsGeWVtXTR8xx_1472591537",
+			"date_added": 1472840069
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1BxuLKAJ4MLrDLMoRgFA5n5kZjoDDNjfHm",
+			"user_name": "Zorriko",
+			"date_added": 1471463658
+		},
+		{
+			"follow_id": 2,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1P7F9po18mshkbRG5zEVV47vHtLEX19QJa",
+			"user_name": "Bashrc",
+			"date_added": 1471463690
+		},
+		{
+			"follow_id": 3,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "18EjLHTadBR6ci3XRWyMfsGeWVtXTR8xx",
+			"user_name": "Thekiller66",
+			"date_added": 1471481642
+		},
+		{
+			"follow_id": 4,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1GNUSJaJc3sCUPYaGSEGYuMyFPp3GWYugB",
+			"user_name": "Puppetmaster",
+			"date_added": 1471643876
+		},
+		{
+			"follow_id": 5,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1471657009
+		},
+		{
+			"follow_id": 6,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk",
+			"user_name": "Userzero",
+			"date_added": 1472152695
+		},
+		{
+			"follow_id": 7,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "163sF1Kdsd5LdpjAXDKBshdEBNJH6PUqvg",
+			"user_name": "Zeronauta",
+			"date_added": 1472152701
+		},
+		{
+			"follow_id": 8,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "13KzmLtPveSqxZKRzqs9nZXGLFcC2JLUKj",
+			"user_name": "Gnuru Wanabi",
+			"date_added": 1472383742
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+ "address": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+ "cert_auth_type": "web",
+ "cert_sign": "G6onJNGENbtT2/7YVM1dybV6xRZw1y78wcN1mTL9Z5gv5wigxx4jvVxvDIl+pG2oK4UtO/79xF4s5fXSJNOXLtc=",
+ "cert_user_id": "prexxett@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "e829c7b98bd11222b4a21d24f0c3dab6b98542b64b587baa1901b3c577f4a938",
+   "size": 1858
+  },
+  "data.json": {
+   "sha512": "6ea6142cc6ca8e2da695f2963544e6225b8ecdf02956fc74eba95a72f7ef6bd2",
+   "size": 2444
+  }
+ },
+ "inner_path": "data/users/1QAKp4SUFSkGdqsgEH47rWRJkAMLf5YH4b/content.json",
+ "modified": 1471254495.415,
+ "signs": {
+  "1QAKp4SUFSkGdqsgEH47rWRJkAMLf5YH4b": "HEaOR38dF3vM9hWZF8bDjCtSkFjHD6q6xaiHMkvGxAiu5+VZQZmx9zamNeQtDGGaMEaVrhJB5PcZFsirj+RdW90="
+ }
+}

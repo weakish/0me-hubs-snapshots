@@ -1,0 +1,68 @@
+{
+	"next_comment_id": 10,
+	"user_name": "Talnicrom",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"post_like": {
+		"15tCjXFHLNtBi9fb799hjd9VcUfTybimE4_2": 1471482758,
+		"1H5VKNWtkBA7RpJWyYuFw5bqjwbgjXoqKp_7": 1471799443,
+		"1bVk3cNLfbg3zLF7pS55NW69XMKgGWSsT_1472210935": 1472220635,
+		"1DRGcXbDWjecjtj7cgLUqiyPDTiepVYn8k_1472233858": 1472239967,
+		"1LioorsH1XNAMTpN1VbMpmpjJWUoUHLqni_1473457191": 1473460353
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Gandleblix is my alter ego.",
+			"post_uri": "1QFkQRk1ziRkRhmp6UZTSAqF1DkfAVLK3T_1",
+			"date_added": 1471462598
+		},
+		{
+			"comment_id": 2,
+			"body": "By the way, hello @uptown",
+			"post_uri": "1QFkQRk1ziRkRhmp6UZTSAqF1DkfAVLK3T_1",
+			"date_added": 1471462844
+		},
+		{
+			"comment_id": 3,
+			"body": "Really you just need to get a few people to visit your site and seed it.  If the set of people who seed your site and are online is essentially always nonempty then you don't have to worry about people being able to access it.  FWIW, I have been spamming my own little project quite a bit lately!",
+			"post_uri": "1PoiRFseXaeGhnj2mpwS3xiXVrUd8noRLW_3",
+			"date_added": 1471464981
+		},
+		{
+			"comment_id": 4,
+			"body": "@Icf20: This kind of thing is something the community has yet to explore, as far as I know.  In the wikipedia use case, the merger sites feature makes it possible to organize data by topic and then seed each topic in its own hub.",
+			"post_uri": "1JARuoKjvXanUeKyPTXU9cus2jRzi4DZU5_1",
+			"date_added": 1471799432
+		},
+		{
+			"comment_id": 5,
+			"body": "@Icf20:  No, only two levels are needed.  Each hub contains data which has a certain property like \"relevant to Gardening\".  Then one builds a merger site that provides an interface for the whole package.  The first time you visit a page in the Gardening section, you will download (and seed) the Gardening hub.  Whoever runs the interface would decide which hubs will be supported and how to display their data.",
+			"post_uri": "1JARuoKjvXanUeKyPTXU9cus2jRzi4DZU5_1",
+			"date_added": 1471801936
+		},
+		{
+			"comment_id": 6,
+			"body": "@Icf20: Oh, okay, gotcha!  In your terminology Me.ZeroNetwork.bit (this site) would be an example of a super hub.  It seems I was using 'merger site' to mean the same thing.",
+			"post_uri": "1JARuoKjvXanUeKyPTXU9cus2jRzi4DZU5_1",
+			"date_added": 1471802716
+		},
+		{
+			"comment_id": 7,
+			"body": "@Icf20: I think that cloning would not play such a big role in the wikipedia use case.  Presumably, the creation of new topic hubs would become rare after a brief while.  ",
+			"post_uri": "1JARuoKjvXanUeKyPTXU9cus2jRzi4DZU5_1",
+			"date_added": 1471802835
+		},
+		{
+			"comment_id": 8,
+			"body": "@Icf20: Each article probably wouldn't be its own page.  Rather the discussion about a given page would be stored as data on the same hub where the page is stored.  To clarify further, a page would be made by the merger site from some data stored on the appropriate topic hub.",
+			"post_uri": "1JARuoKjvXanUeKyPTXU9cus2jRzi4DZU5_1",
+			"date_added": 1471803341
+		},
+		{
+			"comment_id": 9,
+			"body": "@Jayofthezero: Remember when people used to respond with \"Hi!\" or \"Welcome!\"?  Those were the days...",
+			"post_uri": "1FS2NkaN4g8HvYZkkRCVY1iWmV71tJU6n2_1",
+			"date_added": 1472059814
+		}
+	]
+}

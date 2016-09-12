@@ -1,0 +1,195 @@
+{
+	"next_post_id": 14,
+	"next_comment_id": 11,
+	"next_follow_id": 15,
+	"avatar": "png",
+	"user_name": "Emeraude",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": " `I catch segfaults.`",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1470870576,
+			"body": "ZeroMe sound great !\nBut it doesn't work well with zeroverse :/"
+		},
+		{
+			"post_id": 3,
+			"body": "Ahah I'm following myself :)",
+			"date_added": 1470871390
+		},
+		{
+			"post_id": 4,
+			"body": "I really love the way you can expand the writing textarea.\nIt goes behind the rest of the site :)\n\nhttps://i.imgur.com/3SCEoa6.png",
+			"date_added": 1470872055
+		},
+		{
+			"post_id": 6,
+			"body": "Strange bug on ZeroHello seems to be fixed, great :)\nDuring the afternoon, feeds were not displayed",
+			"date_added": 1470932218
+		},
+		{
+			"post_id": 7,
+			"body": "```sh\nfor i in $(echo {1..1080}); do xdotool mousemove $i $i; done```",
+			"date_added": 1471336605
+		},
+		{
+			"post_id": 8,
+			"body": "```sh\nfor i in $( ls ); do tar -xvzf $i ; done\nfor i in $( ls *_*.tgz ); do rm $i ; done\n```\nBest shell script I ever seen.",
+			"date_added": 1471340039
+		},
+		{
+			"post_id": 9,
+			"body": "Mardown does not work in comments :(",
+			"date_added": 1471340128
+		},
+		{
+			"post_id": 1472029837,
+			"body": "https://encrypted.google.com/search?q=site:github.com%20inurl:ssh/id_rsa",
+			"date_added": 1472029827
+		},
+		{
+			"post_id": 1472108563,
+			"body": "It's fun to see I have more followers on ZeroMe than on Twitter",
+			"date_added": 1472108552
+		},
+		{
+			"post_id": 1472116229,
+			"body": "I just canceled my contract with EDF (the major electricity provider in France),  their website is incredibly... Waouh.\nI started with a password reset. You can simply reset it using a \"security question\". You know, a question that looks like \"where are you born ?\". Yes. **I can cancel electricity to anyone by knowing its email adress and its bornplace.**\nThen, I get a password reset link by email. But there were two links: _\"reset password using a computer or a tablet\"_ and _\"reset password using a smartphone\"_. I guess they never heard about responsive design.\nAfter that, I had to reset my password. I tried _QBDojuq06RSAB0aibAZy_. But it was just a \"correct password\". Because, for \"security reason\", I must add a special character. Yes, they are talking about security but I can steal the account of anyone I want, and I can't have a password longer than 20 chars.\n\nI make a small aside, but... Why some website restrict password length? Ok, forbid small passwords can be cool to avoid bruteforce, but what about long passwords ? Anyway, it is hashed so it has a fixed size in database. So the **only** difference between a 20 chars password and a 128 chars password is that the 128 one is more secure.\n\nThis form was also awful. It violates about 4 rules explained [here (clearnet link)](https://uxdesign.cc/design-better-forms-96fadca0f49c), even if it contains only 2 inputs.\n\nSo, when I finally get into my account, I clicked the relocation link and then I... had to signin again.\n\nWell, it's impressive to see how an enterprise that have a great impact on the life of its customers can do such mistakes",
+			"date_added": 1472116217
+		},
+		{
+			"post_id": 1472676561,
+			"date_added": 1472676548
+		}
+	],
+	"post_like": {
+		"1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_2": 1470871571,
+		"1JYAaUBXsh3DrN8UZHz4suAUVXzV3X15QL_3": 1470899341,
+		"1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_2": 1470907785,
+		"1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_11": 1471338479,
+		"1No62fGfLxbBjQg5GZeYkDyYbJPmLgsvBc_1472330789": 1472331354,
+		"1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1472676561": 1472677108
+	},
+	"comment": [
+		{
+			"comment_id": 3,
+			"body": "@ks: I could have used `seq`, indeed",
+			"post_uri": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_7",
+			"date_added": 1471339929
+		},
+		{
+			"comment_id": 4,
+			"body": "Because `tar -xvzf * && rm *_*.tgz` was too easy.",
+			"post_uri": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_8",
+			"date_added": 1471340081
+		},
+		{
+			"comment_id": 5,
+			"body": "@ks: Indeed, I didn't think about it.",
+			"post_uri": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_7",
+			"date_added": 1471341450
+		},
+		{
+			"comment_id": 6,
+			"body": "@ks: The whole code I posted is shit. I didn't write it by myself. (And the whole code could be written without loops, just using globbing)",
+			"post_uri": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_8",
+			"date_added": 1471341687
+		},
+		{
+			"comment_id": 7,
+			"body": "I wrote a lot of C code a few years ago. It's not especially difficult, but its paradigm is very different from java one. The pointers can be hard at the beginning, but since it looks like references, it should not be too difficult for you.",
+			"post_uri": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_12",
+			"date_added": 1471419180
+		},
+		{
+			"comment_id": 8,
+			"body": "@Nutomic: Storing password in plaintext is illegal in Europe. And I'm pretty sure sending a lot of data is not the better way to DDoS au website. Making a lot of requests to an heavy page should be more efficient.",
+			"post_uri": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1472116229",
+			"date_added": 1472125894
+		},
+		{
+			"comment_id": 9,
+			"body": "Ok, it's possible to create an empty post :)",
+			"post_uri": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1472676561",
+			"date_added": 1472676569
+		},
+		{
+			"comment_id": 10,
+			"body": "@Emeraude: And to like it.",
+			"post_uri": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1472676561",
+			"date_added": 1472677114
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6",
+			"user_name": "Emeraude",
+			"date_added": 1470870750
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1470870765
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "16YxtnaTrCSbvCXSYxrnvobmYnqtidxG23",
+			"user_name": "Hellozeronetwork",
+			"date_added": 1470871136
+		},
+		{
+			"follow_id": 5,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N",
+			"user_name": "Quadrangle",
+			"date_added": 1470871572
+		},
+		{
+			"follow_id": 6,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1D6Pn4487L8QyFtVSU14nxxtnfEgEs2Ny1",
+			"user_name": "Kickasstorrents",
+			"date_added": 1470901319
+		},
+		{
+			"follow_id": 7,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t",
+			"user_name": "tKarita",
+			"date_added": 1470907786
+		},
+		{
+			"follow_id": 8,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib",
+			"user_name": "megfault",
+			"date_added": 1470924121
+		},
+		{
+			"follow_id": 9,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ",
+			"user_name": "Musickiller",
+			"date_added": 1472328678
+		},
+		{
+			"follow_id": 13,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1472330366
+		},
+		{
+			"follow_id": 14,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR",
+			"user_name": "weakish",
+			"date_added": 1472562371
+		}
+	]
+}

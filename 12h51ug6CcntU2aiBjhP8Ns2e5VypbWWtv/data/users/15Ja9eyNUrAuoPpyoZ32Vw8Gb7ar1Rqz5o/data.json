@@ -1,0 +1,62 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 7,
+	"avatar": "png",
+	"user_name": "Zeroalchemist",
+	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+	"intro": "ZeroNet Newb",
+	"post": [
+		{
+			"post_id": 2,
+			"body": "Hi Everyone. As a non-technical user, I have been trying to find ways to publish content here on zeronet. There are the already available default zeronet sites that we can clone but there are still other software out there that may also help and give us a variety. Here are a few sites I have been researching a few things that may be a good fit for non-technical users to help them create sites.\n\n 1. MDwiki - http://dynalon.github.io/mdwiki/\n\t - This wiki is made using .md files you can manually edit on your local machine using ordinary text editors. Extremely easy for users to start and begin publishing with this. \n 2. TiddlyWiki - http://tiddlywiki.com/\n\t - A good single page wiki. It is a good piece of software but may need a bit of getting used to and a bit of reading to get fully acquainted with its full capabilities. The community is small but very much alive and helpful. \n 3. ZeroWiki - http://127.0.0.1:43110/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP/\n\t - Just found this browsing various zeronet sites. It is very easy to clone and create your own wiki. ",
+			"date_added": 1471527411
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1471161801
+		},
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1471161948
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1471163050
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ",
+			"user_name": "Sirenyc",
+			"date_added": 1471527830
+		},
+		{
+			"follow_id": 5,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L",
+			"user_name": "Alex (Bwoi)",
+			"date_added": 1471554332
+		},
+		{
+			"follow_id": 6,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1471554337
+		}
+	]
+}

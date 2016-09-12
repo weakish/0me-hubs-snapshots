@@ -1,0 +1,42 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 3,
+	"next_follow_id": 2,
+	"avatar": "jpg",
+	"user_name": "Raf",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Professional Luigi\nCheck out my zite [ZeroNet is Awesome](http://127.0.0.1:43110/13br6T9s6mSfXfcqx36PZ2L7GRMaG4okuf/)",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1473124698,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1473285675": 1473285906
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Some KAT feeds already exist http://127.0.0.1:43110/kaffiene.bit/?q=kick&i=",
+			"post_uri": "1DNC8tWPKTQGT822tP8Cqc7ANZeEfwTxs6_1473192603",
+			"date_added": 1473193081
+		},
+		{
+			"comment_id": 2,
+			"body": "@Akdlsfjlajskdfj: yes, much like with Tor and their .onion adresses",
+			"post_uri": "16WyypMAkEv4S6UkQ1QiJQSpi5r2CHd6VK_1473196225",
+			"date_added": 1473198396
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1KdaKQMVaPrWyBYE7a6Cf6bdENRWrUrmNq",
+			"user_name": "Raf",
+			"date_added": 1473125006
+		}
+	]
+}

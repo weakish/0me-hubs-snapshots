@@ -1,0 +1,38 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "background-color": "white",
+ "cloneable": true,
+ "description": "Welcome to ZeroMe! Runner: Nofish",
+ "files": {
+  "data-default/users/content.json-default": {
+   "sha512": "4e37699bd5336b9c33ce86a3eb73b82e87460535793401874a653afeddefee59",
+   "size": 735
+  },
+  "index.html": {
+   "sha512": "087c6ae46aacc5661f7da99ce10dacc0428dbd48aa7bbdc1df9c2da6e81b1d93",
+   "size": 466
+  }
+ },
+ "ignore": "((js|css)/(?!all.(js|css))|data/.*db|data/users/.*/.*)",
+ "includes": {
+  "data/users/content.json": {
+   "signers": [],
+   "signers_required": 1
+  }
+ },
+ "inner_path": "content.json",
+ "merged_type": "ZeroMe",
+ "modified": 1471217919.348,
+ "postmessage_nonce_security": true,
+ "sign": [
+  30135278827070428637530086328718846671666227276187504985348909725344191546397,
+  5785171360398940273423632220374344634880760782147233874520271618417436159662
+ ],
+ "signers_sign": "HDdeLdSwB+sZyGDNE86pci5XwYDIhZ84/H3UPXAukHSSay0Mmz68k+n/zOK5E87qBSpv7YYlw6idvzGgff0tBk8=",
+ "signs": {
+  "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i": "HAgEc0XE5kHFpIs31hj9UqjQMC8xoFF5or7vbQ1lMTEs267H0krE7TLJNVKkqyU+vU+t+Hk0JhhD4bFas3kvXD4="
+ },
+ "signs_required": 1,
+ "title": "GreenHub",
+ "zeronet_version": "0.4.0"
+}

@@ -1,0 +1,28 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 2,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Zer0sum",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "I miss BBSs too!",
+			"post_uri": "1JoKQwXPzK8uyvMCRcwvMSAJPD5S4aH5Vt_4",
+			"date_added": 1471884058
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "17Cs2auSHSVjKaYMXqbNMApRQrgXcwJUpL",
+			"user_name": "Zer0sum",
+			"date_added": 1471320287
+		}
+	]
+}

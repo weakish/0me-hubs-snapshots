@@ -1,0 +1,221 @@
+{
+	"next_post_id": 12,
+	"next_comment_id": 23,
+	"next_follow_id": 4,
+	"avatar": "generate",
+	"user_name": "KaffieID Demo",
+	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+	"intro": "This is a demo profile to test KaffieID authentication. Please follow [my actual profile](/Me.ZeroNetwork.bit/?Profile/12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv/1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh/null) if you're interested in future developments.",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471094899,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 2,
+			"body": "Testing..",
+			"date_added": 1471096687
+		},
+		{
+			"post_id": 3,
+			"body": "Sweet. The first test of KaffieID is a success! I was able to register kaffie@kaffie.bit on a local zite (unpublished) with no actual backend and then create an account on a local ZeroMe (obviously on the Kaffie Hub) that is then synced with the *actual* ZeroMe! There's no restriction on username sharing for KaffieID, because there's no way to lock out users from just modding the site.\n\nI'll be putting up KaffieID during a huge branding overhaul I plan to do soon. So stay tuned!",
+			"date_added": 1471097337
+		},
+		{
+			"post_id": 4,
+			"body": "Fixed? Changed one line in the all.js file and my login issues for my @kaffie.bit account have been resolved. Yay.",
+			"date_added": 1471132963
+		},
+		{
+			"post_id": 5,
+			"body": "Update on the login issue for KaffieID. The login code detects your cert name, which is the little `name@zeroid.bit` and then compares it to the one in your `content.json` file. If they match, it sets that as your user. If not, then it doesn't. So username switching systems, or people with matching names/providers (such as nanasi/kaffie that don't guarantee name uniqueness) you get login issues. And switching an id (even with the same auth keys and such) makes a login issue, despite signing working correctly anyway.\n\nApparently the only think you need to change is the content.json in your home hub, to fix this. just change `\"cert_user_id\": \"name@provider.bit\",` to whatever it is that is in the top right (your cert name). If this field is missing, there'll be issues. And if it doesn't match, there'll be issues.\n\nThe fix I posted below (changing the detection in all.js) to be based on auth_address) works as well, and lets you log in regardless (so if your signing is good, you're all set). Though amusingly, the little `name@provider.bit` that appears everywhere *is* based on that field in the content.json. Interesting...",
+			"date_added": 1471135420
+		},
+		{
+			"post_id": 6,
+			"body": "Sure enough. ZeroMe's login breaks as soon as there's someone [with the same cert_user_id](/Me.ZeroNetwork.bit/?Profile/12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv/16hBfwen4vQfa7NFkKPFCwWy4XViRA5DYq/kaffie@kaffie.bit). Fortunately, login breaking is the only thing that happens. I was worried it'd mix user content and act as if they're a single user. The fix, obviously, is to follow my suggestions and change the detection to auth_address. Hell, I even wrote the code to fix it. @nofish, there's no excuse.",
+			"date_added": 1471140554
+		},
+		{
+			"post_id": 7,
+			"body": "Doing another test to ensure that things are working fine. Some users have reported a content publish failed.",
+			"date_added": 1471815742
+		},
+		{
+			"post_id": 9,
+			"body": "Hmm...",
+			"date_added": 1471861965
+		},
+		{
+			"post_id": 10,
+			"body": "Did I finally fix everything?",
+			"date_added": 1471869317
+		},
+		{
+			"post_id": 11,
+			"body": "New test.",
+			"date_added": 1471931973
+		}
+	],
+	"post_like": {
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_14": 1471097567,
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_15": 1471134665,
+		"1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f_4": 1471134852,
+		"1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f_5": 1471135432,
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_16": 1471137438,
+		"1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f_7": 1471815751,
+		"1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f_10": 1471869525
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Testing..",
+			"post_uri": "1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f_1",
+			"date_added": 1471095915
+		},
+		{
+			"comment_id": 2,
+			"body": "I *finally* fixed my publishing errors. Yay!",
+			"post_uri": "1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f_3",
+			"date_added": 1471097357
+		},
+		{
+			"comment_id": 3,
+			"body": "on line 4842 (in the 'checkuser' function) there's an SQL query. I changed it *from*\n\n ` \"SELECT * FROM json WHERE cert_user_id = :cert_user_id AND user_name IS NOT NULL AND file_name = 'data.json'\"` \n\nand changed it *to* \n\n`\"SELECT * FROM json WHERE directory='data/users/\"+this.site_info.auth_address+\"' AND user_name IS NOT NULL AND file_name = 'data.json'\"`\n\nThe issue was that it wasn't ever picking up my kaffieid account, because there was some cert_user_id problems. I changed it to instead point to the directory entry to determine user login. Since that's how it assumes it works anyway. Basing it on a mystical cert_user_id (essentially your cert username) is a bad idea, since it might not always be in the database (like mine wasn't).",
+			"post_uri": "1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f_4",
+			"date_added": 1471133167
+		},
+		{
+			"comment_id": 4,
+			"body": "Now we just need to get this to @nofish:'s attention, so that a proper fix can be pushed out. Having it based on the cert name is a *bad* idea, especially since stuff like Nanasi and KaffieID don't do anything to guarantee name uniqueness. Meaning that if someone else made a kaffie@kaffie.bit, then it'd run immediately into login issues, making one person login as someone else. Bad. Basing it on the auth_address is much better, because it's unlikely people will share a public key.",
+			"post_uri": "1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f_4",
+			"date_added": 1471133642
+		},
+		{
+			"comment_id": 5,
+			"body": "Test post. Please ignore.",
+			"post_uri": "1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f_2",
+			"date_added": 1471134281
+		},
+		{
+			"comment_id": 6,
+			"body": "Test post 2. Please ignore.",
+			"post_uri": "1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f_2",
+			"date_added": 1471134388
+		},
+		{
+			"comment_id": 7,
+			"body": "Test 3. Ignore.",
+			"post_uri": "1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f_2",
+			"date_added": 1471136518
+		},
+		{
+			"comment_id": 8,
+			"body": "Test 4.",
+			"post_uri": "1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f_2",
+			"date_added": 1471136572
+		},
+		{
+			"comment_id": 10,
+			"body": "Not yet. I've been testing it thoroughly to ensure that I'm right about what the issue is, and what the proper fix is. I don't want to do something half-ass.",
+			"post_uri": "1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f_6",
+			"date_added": 1471140788
+		},
+		{
+			"comment_id": 11,
+			"body": "Alright. Went ahead and modified the coffeescript and submitted a pull request.",
+			"post_uri": "1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f_6",
+			"date_added": 1471144156
+		},
+		{
+			"comment_id": 12,
+			"body": "Can you see this comment? The publishing works fine for me. I've gotten content publish failed errors quite often though. On both ZeroID and KaffieID. However, my posts still go through.",
+			"post_uri": "1Ab7t6js2jJS3edzqo5jpcEerJJBPFGtH4_2",
+			"date_added": 1471815825
+		},
+		{
+			"comment_id": 13,
+			"body": "@Another: I cannot. Can you link to the KaffieID profile page? I'll also look into explicitly allowing KaffieIDs on KaffieHub. Not sure if it'll help though.",
+			"post_uri": "1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f_7",
+			"date_added": 1471816382
+		},
+		{
+			"comment_id": 14,
+			"body": "@Another: Yea... I can't see it at all. Hmm... I just went ahead and added KaffieID to the data/users/content.json in KaffieHub. So try now.",
+			"post_uri": "1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f_7",
+			"date_added": 1471816730
+		},
+		{
+			"comment_id": 15,
+			"body": "@Another:  Nope. Still not there. Could you try manually signing and publishing the /data/users/[youraddress]/content.json? You can do it by going into the kaffie hub site, opening the sidebar and hit 'I own this site' and then change the content.json field to the above, and then sign and it'll prompt you for your private key. If all goes well it should pop up.",
+			"post_uri": "1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f_7",
+			"date_added": 1471817395
+		},
+		{
+			"comment_id": 16,
+			"body": "I seem to have found the issue. Try deleting the  \"cert_auth_type\": and \"cert_sign\":  fields from the content.json. For some reason those seem to mess up the signing authentication.",
+			"post_uri": "1Ab7t6js2jJS3edzqo5jpcEerJJBPFGtH4_2",
+			"date_added": 1471818524
+		},
+		{
+			"comment_id": 17,
+			"body": "Time to possibly break more stuff :\\",
+			"post_uri": "1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f_10",
+			"date_added": 1471869614
+		},
+		{
+			"comment_id": 18,
+			"body": "Good to go?",
+			"post_uri": "1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f_10",
+			"date_added": 1471869927
+		},
+		{
+			"comment_id": 19,
+			"body": "I'm just so confused at why My kaffie@kaffie.bit works just fine, but I can't seem to make a new kaffieID without getting publishing errors.",
+			"post_uri": "1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f_10",
+			"date_added": 1471872476
+		},
+		{
+			"comment_id": 20,
+			"body": "@Lain: There's not really a clear gain at the moment over ZeroID. This is mainly due to ZeroID being the only thing that works on most offficial ZeroNet sites (ZeroVerse also had this problem).\n\nKaffieIDs differ from the rest in a few ways. The first is that they don't have unique names. This is a first for an ID service. ZeroID checks things on the backend when you register. As does ZeroVerse. Nanasi doesn't check anything, but bases it on your auth_address, meaning it's going to be unique anyway (in most cases). KaffieID lets you choose any name and doesn't do any checking.\n\nGiven that there's no checking, like Nanasi, this means KaffieIDs can be registered while completely offline, and no personal information is sent anywhere. No server know the names you've registered. There's no master list of users. Etc.\n\nCombining those two features we get the first anonymous/private ID service that lets you choose your name, and even change it (though this bit seems to be buggy, and might be removed).\n\nLastly, it's part of a push to decentralize things. ZeroVerse originally popped up for this purpose, but died once the dev stopped supporting it. KaffieID works even without me, and is freely cloneable to make similar ID services. So you can always register an account, and the things that support KaffieID *should* continue supporting alternative ID systems.\n\nBut yea, at the moment there's no real benefit to using one, as if you relied on it exclusively, you would not be able to use ZeroTalk, ZeroMail, etc. I'm hoping there's a shift to have an option for any ID site to be able to work to login. ZeroMe seems to do this, but the alternative IDs (zeroverse, nanasi, kaffieID) seem to have issues. I'm still unsure of why my kaffieID works for me and not others. But once we can resolve the issue, hopefully more sites will start accepting any ID, rather than just ZeroID ones.",
+			"post_uri": "1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f_10",
+			"date_added": 1471902797
+		},
+		{
+			"comment_id": 21,
+			"body": "Test.",
+			"post_uri": "1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f_11",
+			"date_added": 1471936124
+		},
+		{
+			"comment_id": 22,
+			"body": "Test...",
+			"post_uri": "1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f_11",
+			"date_added": 1472084157
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1471133849
+		},
+		{
+			"follow_id": 2,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f",
+			"user_name": "Kaffie",
+			"date_added": 1471133855
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1471133945
+		}
+	]
+}

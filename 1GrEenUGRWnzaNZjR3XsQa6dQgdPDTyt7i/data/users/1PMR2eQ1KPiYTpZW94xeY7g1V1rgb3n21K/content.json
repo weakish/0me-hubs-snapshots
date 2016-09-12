@@ -1,0 +1,21 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "G4tmOsbVZpQZ/ML/5HqLJZHnZkZfPoX/XwpAShOvC/b+rgBYXY9dos9+Oaw7rocHbRkbik9l/MP7r0cBBn1y3gw=",
+ "cert_user_id": "haelium@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "24904d3f4d85f5505ff708e01ac8714514dee3c08576c7e1b91a74dfecb67b26",
+   "size": 1590
+  },
+  "data.json": {
+   "sha512": "58dba7cb3242bf4060805b89faccb74db33780e3268f7ea396044fd073b8426a",
+   "size": 422
+  }
+ },
+ "inner_path": "data/users/1PMR2eQ1KPiYTpZW94xeY7g1V1rgb3n21K/content.json",
+ "modified": 1471636682.573259,
+ "signs": {
+  "1PMR2eQ1KPiYTpZW94xeY7g1V1rgb3n21K": "HG27W29Qmc/y0UnWXMBr95sdUnnrwtK6fMvSWiPkM+wg3P/0H3AsLp/2vvjEZe6xXVKGJJ3Aw4W1C52hNu3CGDc="
+ }
+}

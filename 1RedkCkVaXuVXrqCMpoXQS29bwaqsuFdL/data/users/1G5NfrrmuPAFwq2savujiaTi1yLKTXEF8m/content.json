@@ -1,0 +1,21 @@
+{
+ "address": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+ "cert_auth_type": "web",
+ "cert_sign": "HHoYlMEAwTSIi4czeMa29i3f62s8fahv3YbPATyoORZ/NRdRMXhfHGjmOA5KNn8HIsAvthfrY18jxxZ9wGWCN0c=",
+ "cert_user_id": "amcolex@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "9e26e876cea5f8d586f1f30fe62a0004436ad8f0706feab296b9180d38b57e5e",
+   "size": 1295
+  },
+  "data.json": {
+   "sha512": "708d497697c60b1449a36598b1f814bd5b3bd0d640a6bcdd06fb19434da5416d",
+   "size": 731
+  }
+ },
+ "inner_path": "data/users/1G5NfrrmuPAFwq2savujiaTi1yLKTXEF8m/content.json",
+ "modified": 1470925723.731,
+ "signs": {
+  "1G5NfrrmuPAFwq2savujiaTi1yLKTXEF8m": "GzFcvc08L9yPk+CFIZ2QKT7gPVhqkv9/I4y9vRhANP8W6kA4y+e+12YMcNYULJ/qPgF45aVS2dfjjvdjgRPNSWo="
+ }
+}

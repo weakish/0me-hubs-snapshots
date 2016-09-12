@@ -1,0 +1,60 @@
+{
+	"next_post_id": 4,
+	"next_comment_id": 6,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "Inkertus",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "New hopeful ZeroNet User",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1473192490,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1473192603,
+			"body": "The interface can use work on a lot of these, but so far a great idea.  Curious to see where it goes from here.  Maybe a TPB on here at some point?  KAT?",
+			"date_added": 1473192601
+		},
+		{
+			"post_id": 1473298325,
+			"body": "Anyone own a Nexus 6P?  What's it like?",
+			"date_added": 1473298322
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@tkarita: I saw the page for it, though the interface is pretty off when you start to poke at it.  The search function for example runs the results into a (currently) poorly formatted chunk at the bottom.  Confusing to read and surprising to see if you're used to the original.  Again, curious to see how it evolves though, so my expectations are \"it will get there\".",
+			"post_uri": "1DNC8tWPKTQGT822tP8Cqc7ANZeEfwTxs6_1473192603",
+			"date_added": 1473193947
+		},
+		{
+			"comment_id": 2,
+			"body": "Gotta love the autopost from joining up.",
+			"post_uri": "1Pb3osbwEdUmCqj7LPMzWFutYFZW4F6yne_1473187324",
+			"date_added": 1473196216
+		},
+		{
+			"comment_id": 3,
+			"body": "You mean this chat or the whole of ZeroNet?",
+			"post_uri": "16WyypMAkEv4S6UkQ1QiJQSpi5r2CHd6VK_1473196225",
+			"date_added": 1473196546
+		},
+		{
+			"comment_id": 4,
+			"body": "What would that entail or be like?  I'm curious.",
+			"post_uri": "1NhDPqhia3TEmpsa2n6qa7rDv4XLvohRv3_1473301666",
+			"date_added": 1473302744
+		},
+		{
+			"comment_id": 5,
+			"body": "@Rebelb0y11: If you're aiming for 4Chan, sounds like a entropy-based mess.  Though I figure that would be simpler to implement than Reddit.  I'll have to have a look when it comes out.",
+			"post_uri": "1NhDPqhia3TEmpsa2n6qa7rDv4XLvohRv3_1473301666",
+			"date_added": 1473304454
+		}
+	],
+	"follow": []
+}

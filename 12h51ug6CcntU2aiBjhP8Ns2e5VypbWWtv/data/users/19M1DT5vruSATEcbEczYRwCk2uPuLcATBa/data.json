@@ -1,0 +1,79 @@
+{
+	"next_comment_id": 12,
+	"user_name": "Talnicrom",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"post_like": {
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_18": 1471159744,
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_20": 1471486474,
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_29": 1471825195,
+		"15znkmFgxeY8XM7nXD7JHUxJyR19AX1VKa_1472203584": 1472220307
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Bot: Hope it works!  What is the site address?  I am hoping to have a bot ready soon which plugs into ZeroMe.  (I'll make it easy to plug into Twitter too.  I didn't want to bother setting up a throwaway email to sign up for a Twitter account, etc.)  To make it interesting, I am going to allow users to create rules (which expire in a minute or two) to control the bot!",
+			"post_uri": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_2",
+			"date_added": 1471251261
+		},
+		{
+			"comment_id": 2,
+			"body": "@Bot: ZeroMe includes merged-.* as part of the ignore string.  The database should not be included with the site's signed (and thus seeded) files, right?  It is managed by the ZeroNet process rather than seeded.",
+			"post_uri": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_2",
+			"date_added": 1471251656
+		},
+		{
+			"comment_id": 3,
+			"body": "@Bot: Regarding lines 250 and 251 in MergerSitePlugin.py -- \n\n1. merged_to_merger is a global dictionary which keeps track of the hubs that go with a wrapper (like ZeroMe or my mention tracker) -- it looks like merged_to_merger[ my_hub ] = [ site_1 using my data, site_2 using my data, etc. ]\n\n2. the fileDone method updates a list of problem files, keeps track of when content.json's are downloaded, and then posts an event to the ZeroNet wrappers so they can respond appropriately.\n\n3. 250-251 essentially extends the functionality to notify any hubs that a site has that its own files have changed.\n\nUnsolicited opinion: your site (infinity) should not list itself as a hub.  Since it does, it triggers a loop where it infinitely notifies itself of any events.  I have patched my own MergerSitePlugin.py to forbid merging with self.",
+			"post_uri": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_2",
+			"date_added": 1471280199
+		},
+		{
+			"comment_id": 4,
+			"body": "Totally.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_20",
+			"date_added": 1471486511
+		},
+		{
+			"comment_id": 5,
+			"body": "@Kaffie: This is quite interesting.  Why isn't my ZeroNet process rejecting your content.json as invalid since it is missing its cert_sign field?  After all the site rules specify that a certificate from zeroid.bit is required.   Line 719 in ContentManager.py (method 'verifyFile') seems to check for a valid certificate when one is required.  It is called from Site.py line 133 when new files are downloaded.  This seems like a bug.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_29",
+			"date_added": 1471827034
+		},
+		{
+			"comment_id": 6,
+			"body": "@Kaffie: You probably already thought of this, but you can always sign useraddress#authtype/useraddress.  The signersite is implicit because you need to know the public key of the signer anyway in order to check the certificate.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_29",
+			"date_added": 1471827201
+		},
+		{
+			"comment_id": 7,
+			"body": "@Kaffie: The return true is if \"cert_signers\" is missing in the root content.json, not if cert_sign is missing from your own content.json.   Right?  Also, 'name' is the part of cert_user_id that comes before the @ and you can set it to whatever you want as in auth_address@kaffie.bit .  \n\nAs far as I understand it, certificates are how ZeroNet makes pseudonyms convenient.  It has nothing to do with signing the user data.  The bug you found (props!) needs to be fixed, but certificates do play a useful role IMO.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_29",
+			"date_added": 1471831142
+		},
+		{
+			"comment_id": 8,
+			"body": "@Nofish: What was the problem?",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_29",
+			"date_added": 1471831417
+		},
+		{
+			"comment_id": 9,
+			"body": "We need more press.",
+			"post_uri": "164W1rFVD9Bm7poGJWvjVUjvkbhhFC5nnt_2",
+			"date_added": 1471889178
+		},
+		{
+			"comment_id": 10,
+			"body": "It gives you more options, but you can't use them if you don't have the private key for the site.",
+			"post_uri": "1K7pivtg6E1qRnih7nmnnPrCnRRSxSCMQQ_2",
+			"date_added": 1471892079
+		},
+		{
+			"comment_id": 11,
+			"body": "Welcome back Kaffie!",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472425756",
+			"date_added": 1472426999
+		}
+	]
+}

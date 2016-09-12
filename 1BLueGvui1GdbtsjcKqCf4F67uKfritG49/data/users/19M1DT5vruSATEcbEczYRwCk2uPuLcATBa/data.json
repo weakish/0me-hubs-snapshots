@@ -1,0 +1,119 @@
+{
+	"next_comment_id": 18,
+	"user_name": "Talnicrom",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"post_like": {
+		"1BTK7LKA1LrvCjNqVrPmBtySWhSaHnG97Q_2": 1471131301,
+		"1APbko6uK9fwwZoqB5LKgFeqWdF3SDLw4k_2": 1471237779,
+		"1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_21": 1471716965,
+		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_15": 1471785594,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1471961979": 1471965456,
+		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1472668793": 1472670885,
+		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1472669658": 1472670890,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1473440930": 1473441777
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Great idea!  Would each topic would have one or more hubs dedicated to it?",
+			"post_uri": "1L1RLoEsVMEa18PKD22bthXAPGDFwYeq4v_4",
+			"date_added": 1470926965
+		},
+		{
+			"comment_id": 2,
+			"body": "The MultiUser plugin offers this functionality.  To enable it, rename ZeroNet/plugins/disabled-Multiuser to ZeroNet/plugins/Multiuser then restart ZeroNet",
+			"post_uri": "164W1rFVD9Bm7poGJWvjVUjvkbhhFC5nnt_4",
+			"date_added": 1470935809
+		},
+		{
+			"comment_id": 3,
+			"body": "Me too.  Multiple hubs per topic are likely to emerge in situations where there is a desire for moderation.  So a topic like politics would probably have many hubs serving it whereas one PHP hub would likely be stable.  ",
+			"post_uri": "1L1RLoEsVMEa18PKD22bthXAPGDFwYeq4v_4",
+			"date_added": 1470946846
+		},
+		{
+			"comment_id": 4,
+			"body": "Are you seeing the bot comments?",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_14",
+			"date_added": 1471657351
+		},
+		{
+			"comment_id": 5,
+			"body": "@tkarita: My clock settings might be funky. @hamlet",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_19",
+			"date_added": 1471710388
+		},
+		{
+			"comment_id": 6,
+			"body": "@CherHorowitz",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_22",
+			"date_added": 1471717722
+		},
+		{
+			"comment_id": 7,
+			"body": "@tkarita: I turned them off and put them up on jacks to do some work!",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_23",
+			"date_added": 1471718259
+		},
+		{
+			"comment_id": 8,
+			"body": "@tkarita: Okay, they're back on.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_23",
+			"date_added": 1471718374
+		},
+		{
+			"comment_id": 9,
+			"body": "Thanks for testing!  I'm rather hoping that other people get the bot pack running and make some fun ones of their own =)",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_24",
+			"date_added": 1471718498
+		},
+		{
+			"comment_id": 10,
+			"body": "@tkarita: This is a good point.  We have figure out how to handle this kind of thing.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_24",
+			"date_added": 1471718650
+		},
+		{
+			"comment_id": 11,
+			"body": "@CronianIce: If you run ZeroNet in TorBrowser, your request to the clearnet will go through tor.  In most situations this will hide your IP address.  The request is made via https, which does hide the message exchange unless there is an active attack.",
+			"post_uri": "17TX2JoDCPtqsYPN1KMk2LRLRzny31HetJ_6",
+			"date_added": 1471799205
+		},
+		{
+			"comment_id": 12,
+			"body": "@Kaffie: How does KaffieID create the certificate locally?  The only algorithm I know to sign a string needs your private key as input.",
+			"post_uri": "17TX2JoDCPtqsYPN1KMk2LRLRzny31HetJ_6",
+			"date_added": 1471830614
+		},
+		{
+			"comment_id": 13,
+			"body": "@CronianIce: What do you have in mind?",
+			"post_uri": "17TX2JoDCPtqsYPN1KMk2LRLRzny31HetJ_6",
+			"date_added": 1471830908
+		},
+		{
+			"comment_id": 14,
+			"body": "You can just paste the key string itself or you can add the node \"privatekey\": your_key to your site in the sites node in your users.json file.",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_4",
+			"date_added": 1471891290
+		},
+		{
+			"comment_id": 15,
+			"body": "@Dergatt: Hm.  I don't know what key-rsa.pem does.  If you don't have your site key saved somewhere and you are being prompted for the key, you might be out of luck.  @nofish",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_4",
+			"date_added": 1471895488
+		},
+		{
+			"comment_id": 16,
+			"body": "Yikes.",
+			"post_uri": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1472029837",
+			"date_added": 1472045677
+		},
+		{
+			"comment_id": 17,
+			"body": "And without Mark Zuckerberg et. al. fucking it up.",
+			"post_uri": "1M29UgKTUcDsSHafheTS2W8Ec9RZiNMvRk_1473443056",
+			"date_added": 1473445160
+		}
+	]
+}

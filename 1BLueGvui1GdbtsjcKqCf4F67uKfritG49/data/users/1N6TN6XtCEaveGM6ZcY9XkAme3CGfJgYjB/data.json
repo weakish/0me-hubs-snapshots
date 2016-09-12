@@ -1,0 +1,92 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 7,
+	"next_follow_id": 5,
+	"avatar": "generate",
+	"user_name": "Pietervdvn",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471178989,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 2,
+			"body": "Hello World!",
+			"date_added": 1471179046
+		}
+	],
+	"post_like": {
+		"1N6TN6XtCEaveGM6ZcY9XkAme3CGfJgYjB_2": 1471180781
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Hello Emile",
+			"post_uri": "19PP4ZZ889bpVAhsRVwNQWNDBRqZMNvugW_1",
+			"date_added": 1471180376
+		},
+		{
+			"comment_id": 2,
+			"body": "Jep, idd",
+			"post_uri": "1N6TN6XtCEaveGM6ZcY9XkAme3CGfJgYjB_2",
+			"date_added": 1471180413
+		},
+		{
+			"comment_id": 3,
+			"body": "Talk.ZeroNetwork.bit?",
+			"post_uri": "1N6TN6XtCEaveGM6ZcY9XkAme3CGfJgYjB_2",
+			"date_added": 1471180434
+		},
+		{
+			"comment_id": 4,
+			"body": "Zie de hallo pagina",
+			"post_uri": "1N6TN6XtCEaveGM6ZcY9XkAme3CGfJgYjB_2",
+			"date_added": 1471180438
+		},
+		{
+			"comment_id": 5,
+			"body": "De mail lijkt niet echt te werken",
+			"post_uri": "1N6TN6XtCEaveGM6ZcY9XkAme3CGfJgYjB_2",
+			"date_added": 1471181279
+		},
+		{
+			"comment_id": 6,
+			"body": "Hoelang zou het duren voor we Iasoon contributor kunnen maken?",
+			"post_uri": "1N6TN6XtCEaveGM6ZcY9XkAme3CGfJgYjB_2",
+			"date_added": 1471181296
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1A7Jhb42rcCE86shNxvzbi6uQ7Agemspdd",
+			"user_name": "Rebel",
+			"date_added": 1471180070
+		},
+		{
+			"follow_id": 2,
+			"hub": null,
+			"auth_address": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb",
+			"user_name": null,
+			"date_added": 1471180283
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1BuwkFDcaH3sX5JYHke8Xs4xgMZvTnue1y",
+			"user_name": "Joshu",
+			"date_added": 1471180291
+		},
+		{
+			"follow_id": 4,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "19PP4ZZ889bpVAhsRVwNQWNDBRqZMNvugW",
+			"user_name": "Emilesonneveld",
+			"date_added": 1471180367
+		}
+	]
+}

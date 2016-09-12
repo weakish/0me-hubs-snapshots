@@ -1,0 +1,55 @@
+{
+	"next_comment_id": 8,
+	"user_name": "Nofish",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"post_like": {
+		"16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331_8": 1471390760,
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472425756": 1472426804,
+		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1472557676": 1472561395,
+		"1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9_1473095371": 1473100232
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "sorry, no more fun 🚑",
+			"post_uri": "1EizNCr1TBaytrcEFBPrk8yk6eUFgNCC5r_5",
+			"date_added": 1471550419
+		},
+		{
+			"comment_id": 2,
+			"body": "Thanks for the reveal, fixed in Rev1425",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_29",
+			"date_added": 1471830651
+		},
+		{
+			"comment_id": 3,
+			"body": "It's not added yet, maybe on startup it should check if you missing any site from sites.json or users.json",
+			"post_uri": "15znkmFgxeY8XM7nXD7JHUxJyR19AX1VKa_1472203584",
+			"date_added": 1472207029
+		},
+		{
+			"comment_id": 4,
+			"body": "If there is demand for it it could be possible to enable it on comments",
+			"post_uri": "1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9_1472251188",
+			"date_added": 1472253436
+		},
+		{
+			"comment_id": 5,
+			"body": "My results:\n```\nOriginal    Compress\t1874.51KB\tDecompress\nZlib    \t0.071s  \t558.68KB\t0.010s\nGzip    \t0.131s  \t547.09KB\t0.012s\nDeflate \t0.129s  \t547.04KB\t0.010s\nBz2     \t0.299s  \t482.88KB\t0.108s\nLzma    \t1.343s  \t455.77KB\t0.058s\nBro/1   \t0.031s  \t506.78KB\t0.011s\nBro/3   \t0.049s  \t502.25KB\t0.011s\nBro/10  \t8.307s  \t438.01KB\t0.013s\nZstd/1  \t0.017s  \t502.58KB\t0.010s\nZstd/3  \t0.058s  \t521.81KB\t0.024s\nZstd/19 \t2.939s  \t465.31KB\t0.121s\n```",
+			"post_uri": "1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9_1473095371",
+			"date_added": 1473099855
+		},
+		{
+			"comment_id": 6,
+			"body": "@Shellbound: it's a standard content.json with 12 000 files (so lots of hashes), another results using my current data.json file on ZeroTalk:\n```\nOriginal\tCompress\t280.69KB\tDecompress\nZlib    \t0.016s  \t96.69KB\t\t0.002s\nGzip    \t0.020s  \t95.90KB\t\t0.002s\nDeflate \t0.019s  \t95.86KB\t\t0.002s\nBz2     \t0.039s  \t75.80KB\t\t0.014s\nLzma    \t0.170s  \t78.83KB\t\t0.007s\nBro/1   \t0.006s  \t94.29KB\t\t0.002s\nBro/3   \t0.008s  \t92.20KB\t\t0.002s\nBro/10  \t0.973s  \t75.32KB\t\t0.002s\nZstd/1  \t0.005s  \t100.94KB\t   0.004s\nZstd/3  \t0.012s  \t92.07KB\t\t0.007s\nZstd/19 \t0.350s  \t81.64KB\t\t0.034s\nZstd/21 \t0.476s  \t81.60KB\t\t0.038s\n```",
+			"post_uri": "1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9_1473095371",
+			"date_added": 1473102345
+		},
+		{
+			"comment_id": 7,
+			"body": "@Zanity: There is no compression currently",
+			"post_uri": "1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9_1473095371",
+			"date_added": 1473111412
+		}
+	]
+}

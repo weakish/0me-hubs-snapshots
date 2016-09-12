@@ -1,0 +1,218 @@
+{
+	"next_comment_id": 36,
+	"user_name": "Nofish",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"post_like": {
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1471961979": 1471962108,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1473010008": 1473011095,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1473094411": 1473094609,
+		"1BBH8wSFw4NF7sjvSBA8SsSvZA6cQYxUBq_1473105474": 1473108373,
+		"1BBH8wSFw4NF7sjvSBA8SsSvZA6cQYxUBq_1473104167": 1473108383
+	},
+	"comment": [
+		{
+			"comment_id": 2,
+			"body": "- User's activity feed on profile page just added recently. (using it you can see user's latest comments)\n- I think i just fixed the hub detection, please update the all.js from the original site (make sure you clean the js cache by opening js console - F12 - and check disable cache on network tab)",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_5",
+			"date_added": 1471092336
+		},
+		{
+			"comment_id": 3,
+			"body": "If you clone a site the prive key is saved to data/users.json file, it's not associated with zeroid.",
+			"post_uri": "1DWsec9UeBbGYJ4FG8Pmy3Fb2xSM9RPeJC_5",
+			"date_added": 1471092394
+		},
+		{
+			"comment_id": 4,
+			"body": "@Benjaminnelan: auth_privatekey used for signing user content (comments, upvotes, etc.), privatekey used for signing site content (new blog post)",
+			"post_uri": "1DWsec9UeBbGYJ4FG8Pmy3Fb2xSM9RPeJC_5",
+			"date_added": 1471093606
+		},
+		{
+			"comment_id": 5,
+			"body": "I was unable to reproduce the problem, but pushed an another modification, plz try again",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_6",
+			"date_added": 1471100170
+		},
+		{
+			"comment_id": 6,
+			"body": "@tkarita: Need to add \"ignore\": \"(merged-.*|(js|css)/(?!all.(js|css)))\" to content.json to solve that error",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_8",
+			"date_added": 1471104087
+		},
+		{
+			"comment_id": 7,
+			"body": "@tkarita: 1HmJ7GadjdiQUPevaK7QXVrK4nhyCp1fSj/content.json contains: ignore: \"\"",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_8",
+			"date_added": 1471104517
+		},
+		{
+			"comment_id": 8,
+			"body": "@Jayofthezero: It's still bad, you should use the same ignore as the original site",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_8",
+			"date_added": 1471114377
+		},
+		{
+			"comment_id": 9,
+			"body": "There is a db rebuild button at the sidebar, you can use it anytime to generate a new ZeroMe.db from the json data files.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_8",
+			"date_added": 1471120302
+		},
+		{
+			"comment_id": 10,
+			"body": "@Jayofthezero: It was fixed earlier today, you should update your all.js file.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_8",
+			"date_added": 1471122933
+		},
+		{
+			"comment_id": 11,
+			"body": "@Jayofthezero: Added some more debug messages, please update and paste the js console messages (F12) into a pastebin or mail: hello@zeronet.io",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_8",
+			"date_added": 1471126332
+		},
+		{
+			"comment_id": 12,
+			"body": "@Jayofthezero: Probably browser caching issue. If you modify css/js always open the js console, check disable caching and press F5",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_8",
+			"date_added": 1471130245
+		},
+		{
+			"comment_id": 13,
+			"body": "@Jayofthezero: To change the username colors search for \"saturation = 30\" and change it for example to 70 and also bump to lightness = 70",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_7",
+			"date_added": 1471134692
+		},
+		{
+			"comment_id": 14,
+			"body": "no option for this yet, but you can modify the plugin by changing https://github.com/HelloZeroNet/ZeroNet/blob/master/plugins/disabled-UiPassword/UiPasswordPlugin.py#L28\nto\nif session_id not in self.sessions and self.env['REMOTE_ADDR'] not in ['127.0.0.1']:",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_11",
+			"date_added": 1471194324
+		},
+		{
+			"comment_id": 15,
+			"body": "Can't reproduce, do you have infinity hub running? It's causing problems since they want to be merger site and hub at once which in not a good idea.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_11",
+			"date_added": 1471289125
+		},
+		{
+			"comment_id": 16,
+			"body": "There is a development tutorial at zeroblog, thats the best way to understad how does  it works",
+			"post_uri": "1DjUq8hd2jYZgc5uNhQEtWUVZjMHkMQkpU_24",
+			"date_added": 1471360347
+		},
+		{
+			"comment_id": 17,
+			"body": "Multiple reasons: \n- ZeroNet does not support files larger than 1MB, \n- Tor network is not suitable to distribute large files. (half of the users connected that way)\n- Also I don't think most of the most of the ppl generate any video content that worth sharing, but it's planned later.",
+			"post_uri": "1wFmwTMU9TPYuVqsFZSyutRN3PhWue3GM_5",
+			"date_added": 1471425358
+		},
+		{
+			"comment_id": 18,
+			"body": "Images/file sharing planned later, but it needs some improvements on optional files feature to make it work better.",
+			"post_uri": "1GNDhMXNnxfghKQXhRv9CZgfye6Q2Dzh9G_3",
+			"date_added": 1471544182
+		},
+		{
+			"comment_id": 19,
+			"body": "I think it should be fine now.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_16",
+			"date_added": 1471645102
+		},
+		{
+			"comment_id": 20,
+			"body": "@tkarita: There is \"no peers it expects to publish to\", every content is published to everyone",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_19",
+			"date_added": 1471713432
+		},
+		{
+			"comment_id": 21,
+			"body": "@tkarita: Totally random",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_19",
+			"date_added": 1471714182
+		},
+		{
+			"comment_id": 22,
+			"body": "@tkarita: Currently everything between @ and : is considered as username.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_25",
+			"date_added": 1471725678
+		},
+		{
+			"comment_id": 23,
+			"body": "@Dergatt: key-rsa.pem is not important (new generated after startup), user.json is the only important file, it contains your keys.",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_4",
+			"date_added": 1471896051
+		},
+		{
+			"comment_id": 24,
+			"body": "The entries come directly from site's database, so it's not stored anywhere. Can you explain the problem?",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1472055194",
+			"date_added": 1472072958
+		},
+		{
+			"comment_id": 25,
+			"body": "Increased the limit, auto-delete older posts/comments feature planned later",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472135886",
+			"date_added": 1472138027
+		},
+		{
+			"comment_id": 26,
+			"body": "It's happening because the query is looking for the comments and not for the post. Just added auto unfollow on post delete feature to avoid this.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1472055194",
+			"date_added": 1472138479
+		},
+		{
+			"comment_id": 27,
+			"body": "It won't be \"delete without any notify\", but it will display a message: \"You are running out of your allowed space on RedHub (38/50kb) do you want to remove your posts and comments older than 1 month?\"\nIt could be possible to add older posts/messages as optional files (need some work: who will host these files?, what the limit on that?, etc.) but I think on a social sites really about the latest content, so it's not a problem to remove older content.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472135886",
+			"date_added": 1472157254
+		},
+		{
+			"comment_id": 28,
+			"body": "@P2P: The optional files also has drawbacks: it needs more connections and data transfer, because it's no longer \"everyone has everything\", so the peers constantly has to communicate between each \"what files do you have?\" and if someone wants to find a rare optional file, then he has to ask many peers for it. And also archiving it won't make possible to archive comments, because you don't know what files you have to ask for. \nSo i'm not sure if it's worth making it more complicated, but if someone wants to run an archiving node, then it's possible by simply adding the data directory to a git repository, so you can reverse it to any state.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472135886",
+			"date_added": 1472202940
+		},
+		{
+			"comment_id": 29,
+			"body": "@tkarita: don't think so, but if you start commenting before the site is synced correctly, then it could",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_1472286311",
+			"date_added": 1472294214
+		},
+		{
+			"comment_id": 30,
+			"body": "@P2P: Normally it should not happen: if your file is in sync, then it will wait for it. Sometimes the hub not able to sync 100% percent, so locking it until full downloaded will not work.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_1472286311",
+			"date_added": 1472295246
+		},
+		{
+			"comment_id": 31,
+			"body": "@P2P: Just made some modifications on ZeroMe to prevent the profile lost and in API fileWrite command (needs more testing before publish)",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_1472286311",
+			"date_added": 1472297684
+		},
+		{
+			"comment_id": 32,
+			"body": "Thanks for reporting, its fixed now",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_1472515390",
+			"date_added": 1472554624
+		},
+		{
+			"comment_id": 33,
+			"body": "yeah, i have the private key",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472826862",
+			"date_added": 1472925773
+		},
+		{
+			"comment_id": 34,
+			"body": "Yeah it's planned, but not implemented yet.",
+			"post_uri": "1889tLMuZze7YMshhe8u5h4NT4SSiA4PVB_1472841938",
+			"date_added": 1472926034
+		},
+		{
+			"comment_id": 35,
+			"body": "@weakish: This is works: `\"this is my code: {code}\".format(**locals())` and from Python 3.6 this will also work: `f'this is my code: {code}'`",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1473010008",
+			"date_added": 1473252356
+		}
+	]
+}

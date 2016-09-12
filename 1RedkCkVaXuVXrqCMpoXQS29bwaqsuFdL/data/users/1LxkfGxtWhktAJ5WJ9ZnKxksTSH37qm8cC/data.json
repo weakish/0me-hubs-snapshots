@@ -1,0 +1,101 @@
+{
+	"next_post_id": 8,
+	"next_comment_id": 2,
+	"next_follow_id": 8,
+	"avatar": "generate",
+	"user_name": "Firebox",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"intro": "I reserved the \"Firefox\" zeroid for you.",
+	"post": [
+		{
+			"post_id": 1472390574,
+			"body": "I created a site to test my experimental script of downloading big files (currently 5MB). Could anyone have a look and test it out? http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/",
+			"date_added": 1472390572
+		},
+		{
+			"post_id": 1472541788,
+			"body": "http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/\nI added some videos and posters to my **ZeroBlog Lab** site for testing big file streaming.\n\nCurrently, ZeroNet saves all files into the `data` folder, which is why people don't like big sites. `:(`\n\nIf we can move the big file to a place rich in space while still keeping ZeroNet seeding it, we will be more pleased to stream big files from the ZeroNet. `:)` @nofish",
+			"date_added": 1472541785
+		},
+		{
+			"post_id": 1472727411,
+			"body": "http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/\nFirefox users can now play the video when it is still being downloaded.\nThe player will show up when the first 1/5 of the progress bar has been filled.\n\n[1] Please click on the links labelled **Stream** if you would like to test this feature. I was not realized that the first two videos are not streaming friendly.\n\n[2] Firefox is recommended :)",
+			"date_added": 1472727407
+		},
+		{
+			"post_id": 1473565143,
+			"body": "While I am optimizing the MP4 fragmenting program, I rearranged `ui.js` and published the rearranged version [on my site](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/js/ui.js). Hopefully people who would like to read my code can understand it more easily.",
+			"date_added": 1473565138
+		},
+		{
+			"post_id": 1473567674,
+			"body": "Big sites take so long to sign...\n\nPerhaps I can:\n- Use separate `content.json` files.\n- Be patient.",
+			"date_added": 1473567668
+		},
+		{
+			"post_id": 1473590552,
+			"body": "http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V\nNow the big file streaming script is checking the hash of the big, reassembled file in a Web Worker.\n\nI tested it against a 200MB file. When the hash of the big file was being checked, the web page still responded to scrolling and video seeking.\n\nThough it is not necessary to check the hash of the reassembled file, I worked out a way to use Web Workers in ZeroNet's `iframe` without running into any cross origin errors.\n\nIf a cross origin error causes `new Worker(\"async-hash.js\");` and `importScripts('asmcrypto.js');` to fail, putting the content of the script into a `blob:` URL can bypass this error.",
+			"date_added": 1473590545
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Nofish: I agree. Using `_top` works best in most browsers.",
+			"post_uri": "1CFhytwoGGPNqmueehPqotaf2iG9uxD98e_1472785018",
+			"date_added": 1473001531
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1472390698
+		},
+		{
+			"follow_id": 2,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "16hBfwen4vQfa7NFkKPFCwWy4XViRA5DYq",
+			"user_name": "Kaffie",
+			"date_added": 1472390734
+		},
+		{
+			"follow_id": 3,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1472535237
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1473126927
+		},
+		{
+			"follow_id": 5,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u",
+			"user_name": "Lola",
+			"date_added": 1473298419
+		},
+		{
+			"follow_id": 6,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L",
+			"user_name": "Alex",
+			"date_added": 1473305526
+		},
+		{
+			"follow_id": 7,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t",
+			"user_name": "tkarita",
+			"date_added": 1473305584
+		}
+	]
+}

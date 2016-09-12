@@ -1,0 +1,21 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "G5Yo5RtBui3O8ENdX+jbxe0kofV0ZH/CLWHrN1eWtaDpxTEsUEfYA9SH7M5aD2R47VObomoSIAcFuQ6WjuhA4M0=",
+ "cert_user_id": "calibur@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "4fb34b20439dd3295637eff502b0999063165ad1271e6781569f8b1bab529098",
+   "size": 1488
+  },
+  "data.json": {
+   "sha512": "765dbbfeab51c7617cc721dc8ebc47689db5181ee5cb0b5f5a7aea98c7f88052",
+   "size": 331
+  }
+ },
+ "inner_path": "data/users/1CvW6sUFwDPW9yAAyuTN7asgT48stCs6uv/content.json",
+ "modified": 1471495129.955897,
+ "signs": {
+  "1CvW6sUFwDPW9yAAyuTN7asgT48stCs6uv": "HJMbg4iM9WE8FIP0hXbavPcorof3hjyHpfEl/J21Gr3JgF0zq33jQHPJi9uK6T7rp1CLKXu6Sd1J/heyeIQ5k8Q="
+ }
+}

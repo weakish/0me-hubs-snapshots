@@ -1,0 +1,378 @@
+{
+	"next_post_id": 5,
+	"next_comment_id": 23,
+	"next_follow_id": 30,
+	"avatar": "jpg",
+	"user_name": "Bot",
+	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+	"intro": "Hub mechanic.\n\nhttps://github.com/kustomzone/InfinityHub\n\nhttps://github.com/kustomzone/InfinityNet",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1470981530,
+			"body": "Hello Green!"
+		},
+		{
+			"post_id": 2,
+			"body": "Some people asked why i have two accounts. (Bot & ɃǾȾ) I notice that each has about 15 followers, but content is different, so that is a bit confusing..\n\nThe 'plan' is to eventually have Bot post helpful info in an automated 'bot-like' fashion, like linking to the FAQs when someone asks a known FAQ, but yeah, that's just the plan. It would take some skill and a lot of time to set up.\n\nMeanwhile ɃǾȾ is my main user account. (mystery solved ;)",
+			"date_added": 1471216092
+		},
+		{
+			"post_id": 3,
+			"body": "What's the max length for a @zeroid.bit name?",
+			"date_added": 1471306832
+		},
+		{
+			"post_id": 4,
+			"body": "New to python.. but yeah, believe it's the better way forward.\n\nhttps://github.com/kustomzone/InfinityHub\nhttps://github.com/kustomzone/InfinityNet",
+			"date_added": 1471400265
+		}
+	],
+	"post_like": {
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_3": 1470994664,
+		"13k6itGVhzLTZUZKiqWWJ5KdvVUEMqDWDv_1": 1470998177,
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1": 1471056351,
+		"1P7F9po18mshkbRG5zEVV47vHtLEX19QJa_1": 1471077050,
+		"1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f_1": 1471092993,
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_16": 1471135870,
+		"1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f_5": 1471137566,
+		"16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331_3": 1471185607,
+		"17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr_1": 1471400492,
+		"12yaKkoqVKBUi66uB5pYXamWguKFaWdDnx_8": 1471471987,
+		"12yaKkoqVKBUi66uB5pYXamWguKFaWdDnx_7": 1471479232,
+		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1472557676": 1472564169,
+		"1P7F9po18mshkbRG5zEVV47vHtLEX19QJa_1473502588": 1473505212
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Sounds good! If you need any help let me know. (slight warning: the html in all.js is some very kookie system that nofish is using ;)",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_3",
+			"date_added": 1470994624
+		},
+		{
+			"comment_id": 2,
+			"body": "I edited this but it saved over my original \"Hello ZeroMe\".  (unswitched hub)",
+			"post_uri": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_1",
+			"date_added": 1471055126
+		},
+		{
+			"comment_id": 3,
+			"body": "And these comments of cors..",
+			"post_uri": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_1",
+			"date_added": 1471055185
+		},
+		{
+			"comment_id": 4,
+			"body": "I've fiqured out what one issue is. When i posted on your hub the post's json-id is set to \"1\" (first post) ..but when i return to my hub i find any post with the same id is overwriting automatically. It's a conflict of the json-ids. If could switch to unique identifier (not the post id, but wholly unique) then that would allow safe cross-hub posting.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1",
+			"date_added": 1471055925
+		},
+		{
+			"comment_id": 5,
+			"body": "\nAnd my comments *here* are also on your first post. ",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1",
+			"date_added": 1471056295
+		},
+		{
+			"comment_id": 6,
+			"body": "It happens quite a bit. One user folder was missing a data.json so i replaced it. Not sure how it happens yet. ",
+			"post_uri": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331_4",
+			"date_added": 1471184692
+		},
+		{
+			"comment_id": 7,
+			"body": "@P2P Thanks for all feedback! Yeah, there's 2nd profile \"Bot\" on Kaffie's hub. I joined while on my ZeroMe and it cross linked in some places.",
+			"post_uri": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_2",
+			"date_added": 1471248662
+		},
+		{
+			"comment_id": 8,
+			"body": "Just adding @Talnicrom's mention code, so some files might not be signed correctly. This will take some time. I'm doing it on live site which is also not recommended practice. ;)",
+			"post_uri": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_2",
+			"date_added": 1471249228
+		},
+		{
+			"comment_id": 9,
+			"body": "For some reason they all are. Look in ZeroMe, and others. I think it's just how they update.",
+			"post_uri": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_2",
+			"date_added": 1471251475
+		},
+		{
+			"comment_id": 10,
+			"body": "@Talnicrom  It's the hub site:  127.0.0.1:43110/1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
+			"post_uri": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_2",
+			"date_added": 1471251610
+		},
+		{
+			"comment_id": 11,
+			"body": "@Talnicrom: Yep, i think you're both right. Maybe ZeroMe is set up like that just as an example. I'll try unsigning it. Do you have any idea what line's 250 & 251 do in MergerSite / MergerSitePlugin.py do?",
+			"post_uri": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_2",
+			"date_added": 1471252549
+		},
+		{
+			"comment_id": 12,
+			"body": "Done. But if that merged-.* worked we shouldn't see Zerome's db or DarkZeroMe's either.. but we do.\n\nhttp://127.0.0.1:43110/1HmJ7GadjdiQUPevaK7QXVrK4nhyCp1fSj\n\n@Talnicrom\n\nLikewise, your own.. \"ignore\": \"merged-ZeroMe/ZeroMe.db\",  still publishes your db copy.",
+			"post_uri": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_2",
+			"date_added": 1471253413
+		},
+		{
+			"comment_id": 13,
+			"body": "@P2P You're right, i understood that with the old /Data/ZeroChat.db because the .json files are 1-to-1 with the db, but hubs have a subset of json content compared to what's stored in the db, and so they are peered to each other to fill out the rest of the conent that is not stored locally. It gets confusing when we talk about seeds of a hub having the entire db. So what transport protocol is Zeronet actually using to take from one db to share it around the many peers who seed a hub?",
+			"post_uri": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_2",
+			"date_added": 1471257453
+		},
+		{
+			"comment_id": 14,
+			"body": "@P2P yes, i know. But on *ZeroMe* the db **content** is shared, not json files. So there's content coming out of the db (maybe in json format, i haven't looked) and getting shared between hubs. The database is not directly populated by json files because each hub has different profiles and so on..",
+			"post_uri": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_2",
+			"date_added": 1471258864
+		},
+		{
+			"comment_id": 15,
+			"body": "@P2P i'll look into it. I don't want to disturb nofish. He doesn't follow me. The point i'm making is that my hub only has 100kb of json files, and the db is currently 1.7MB. (i made an SQL editor so i'm not completely new to how zeronet works, see below). I am not convinced that ZeroNet uses json format in it's transport. There are far better (more highly compressed) methods of transport than padded text.\n\nhttp://127.0.0.1:43110/1SQEEKkYzZuwo7X37EcET5wP6B3yAJZYo\n",
+			"post_uri": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_2",
+			"date_added": 1471260019
+		},
+		{
+			"comment_id": 16,
+			"body": "@P2P Thanks for the warning!",
+			"post_uri": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_2",
+			"date_added": 1471311363
+		},
+		{
+			"comment_id": 17,
+			"body": "@Talnicrom: That's really cool info!! It seems the hub name was highly appropriate then! :D\n\nHonestly, i'm still getting my head around this. It's exciting stuff~!!!1",
+			"post_uri": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_2",
+			"date_added": 1471312748
+		},
+		{
+			"comment_id": 18,
+			"body": "Thanks!",
+			"post_uri": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_3",
+			"date_added": 1471312928
+		},
+		{
+			"comment_id": 19,
+			"body": "// truncated dickwad's name so followers can be seen now. :)",
+			"post_uri": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_3",
+			"date_added": 1471313564
+		},
+		{
+			"comment_id": 20,
+			"body": "@P2P: I hope to allow them to co-exist in a fork of ZeroNet.",
+			"post_uri": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_4",
+			"date_added": 1471405501
+		},
+		{
+			"comment_id": 21,
+			"body": "Things needed to be light-weight 20 years ago. Flash 4 was a few megs. Flash 10 was 10x that size. I think we are at the stage of making powerful interfaces using some of the computing power that's becoming available. ZeroMe is \"fairly\" light-weight because it's minimally functional. But it too is already using animation packages. (all.js is 5k lines) G+ would easy use 10x or 20x that amount, and speed is generally not an issue, except rendering 10MB+ gifs, and that's more a browser/gif issue. I'm not sure that having ZeroMe separate improves it's own auditing. The only issue i see is seeder bandwidth, and that is fully voluntary. On the other hand i see many benefits of having the combined zite as one package.",
+			"post_uri": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_4",
+			"date_added": 1471418476
+		},
+		{
+			"comment_id": 22,
+			"body": "@P2P:  My bad, you said viewer so i took it literally. I see what you mean.\n\nIt's a lot to explain, but this a new paradigm, and nofish is already talking about removing old posts to conserve size (bandwidth), so are they archived or just removed? If i don't agree what he decide i have to fork anyway, so when to start?\n\nThe design of having user folders and json could be more efficient, older json could be gzipped, if it's in the database, why have json? Why use ZeroFrame API if sql.js exists? How do i let people edit their own zite? If we're storing images and other files, where do they go? In the database, in folders, on the zite, or on the hub in json? What about cross-zite sharing? Is that a stable feature or an unpatched bug? Where are the blockchains and how big will they be? Where will they be stored? There's tons of thing like this that i'm considering. And each developer will have his or her own preference, and his or her preferred language, and these are all factors in adoption. And these need to be discussed, as we are doing. I couldn't do it on ZeroTalk because of the ridiculous quota (40kb) and so here i am discussing it on default ZeroME with it's white screen cos my hub/viewer was disabled less than 1 week after launch.\n\nI deeply respect nofish and his skill, and have done everything to be helpful and considerate, and making ZeroNet better, but he has made his decision to go this one way, just as with choosing coffeescript cos he prefers that. But other's may not, so at least we can fork his project, and for that i'm very thankful for that.\n\nMaybe i'm rambling, but these things should be discussed in-depth. (without quota)",
+			"post_uri": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_4",
+			"date_added": 1471435550
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LdKEmaHiYjG9wEMw88qeqgroq31eLhXKa",
+			"user_name": "Mustakrakish",
+			"date_added": 1471181135
+		},
+		{
+			"follow_id": 2,
+			"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
+			"auth_address": "1LUP6SN7WrXAH7e5bUFxdmrVsFr2m43XB4",
+			"user_name": "Kensan",
+			"date_added": 1471183389
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LkRBTdWeynXXmUhb5DXxesygs2aKaUnXx",
+			"user_name": "Mak",
+			"date_added": 1471215482
+		},
+		{
+			"follow_id": 5,
+			"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
+			"auth_address": "1834NDcgfPTvMJiFVuwkv1YqmtYggBnzKg",
+			"user_name": "Mediagiant",
+			"date_added": 1471219416
+		},
+		{
+			"follow_id": 6,
+			"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
+			"auth_address": "1834NDcgfPTvMJiFVuwkv1YqmtYggBnzKg",
+			"user_name": "Mediagiant",
+			"date_added": 1471219495
+		},
+		{
+			"follow_id": 7,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1K7pivtg6E1qRnih7nmnnPrCnRRSxSCMQQ",
+			"user_name": "Wakelain",
+			"date_added": 1471225582
+		},
+		{
+			"follow_id": 8,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1471237947
+		},
+		{
+			"follow_id": 9,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1471239667
+		},
+		{
+			"follow_id": 10,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1471239826
+		},
+		{
+			"follow_id": 11,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1471241044
+		},
+		{
+			"follow_id": 12,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1471241177
+		},
+		{
+			"follow_id": 13,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1471241355
+		},
+		{
+			"follow_id": 14,
+			"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
+			"auth_address": "1834NDcgfPTvMJiFVuwkv1YqmtYggBnzKg",
+			"user_name": "Mediagiant",
+			"date_added": 1471246132
+		},
+		{
+			"follow_id": 15,
+			"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
+			"auth_address": "1834NDcgfPTvMJiFVuwkv1YqmtYggBnzKg",
+			"user_name": "Mediagiant",
+			"date_added": 1471246305
+		},
+		{
+			"follow_id": 16,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1471265038
+		},
+		{
+			"follow_id": 17,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1KPxCgbWC5MjLttpYc4i6QVDBpdwcoasGW",
+			"user_name": "Botkek001",
+			"date_added": 1471307462
+		},
+		{
+			"follow_id": 18,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L",
+			"user_name": "Alex (Bwoi)",
+			"date_added": 1471368276
+		},
+		{
+			"follow_id": 19,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT",
+			"user_name": "Klaus Jónsson Zimmermann",
+			"date_added": 1471370597
+		},
+		{
+			"follow_id": 20,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1CFhytwoGGPNqmueehPqotaf2iG9uxD98e",
+			"user_name": "Method-X",
+			"date_added": 1471370992
+		},
+		{
+			"follow_id": 21,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "164W1rFVD9Bm7poGJWvjVUjvkbhhFC5nnt",
+			"user_name": "Truth",
+			"date_added": 1471375280
+		},
+		{
+			"follow_id": 22,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1JF3eQjW4voiKdcvCkMXvUx5bLmZAiVdyi",
+			"user_name": "Edantes",
+			"date_added": 1471375347
+		},
+		{
+			"follow_id": 23,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr",
+			"user_name": "Muja",
+			"date_added": 1471400485
+		},
+		{
+			"follow_id": 24,
+			"hub": "18FheQ1v3bz4iv5yx8hr9hg5W5BJ8WNJ8d",
+			"auth_address": "1HUrhTUZFB2KKsXLUv1vugPH358iB6zsiY",
+			"user_name": "19",
+			"date_added": 1471479544
+		},
+		{
+			"follow_id": 25,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "15tCjXFHLNtBi9fb799hjd9VcUfTybimE4",
+			"user_name": "Mcgoo",
+			"date_added": 1471483111
+		},
+		{
+			"follow_id": 26,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ",
+			"user_name": "ulrichard",
+			"date_added": 1471596605
+		},
+		{
+			"follow_id": 27,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1M7F3K3cwhV4msaFFYUtM7VYBQPhX5RVVm",
+			"user_name": "Zerohack",
+			"date_added": 1472108275
+		},
+		{
+			"follow_id": 28,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1CdUfLyUi4y8ahTaEUPSdVkSsR4FbUZGiV",
+			"user_name": "Zerofx",
+			"date_added": 1472809289
+		},
+		{
+			"follow_id": 29,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L",
+			"user_name": "Alex",
+			"date_added": 1472950376
+		}
+	]
+}

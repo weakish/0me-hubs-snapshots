@@ -1,0 +1,41 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 1,
+	"next_follow_id": 4,
+	"avatar": "jpg",
+	"user_name": "Trickster",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Just Gettin' Started...",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471464447,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1Mah3j7GCVjBe6Hro4oJtkSdWBx1QJTMZa",
+			"user_name": "Trickster",
+			"date_added": 1471464734
+		},
+		{
+			"follow_id": 2,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "12KxLrDBMbVwy27PYyNHjoD5hHCSM1jK3S",
+			"user_name": "Mrehqe",
+			"date_added": 1471464787
+		},
+		{
+			"follow_id": 3,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1DsU5DsyCEyJrhn8MhrgmujYoVsvxe7G2y",
+			"user_name": "Kcnickerson",
+			"date_added": 1471464821
+		}
+	]
+}

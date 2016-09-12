@@ -1,0 +1,56 @@
+{
+	"next_post_id": 4,
+	"next_comment_id": 4,
+	"next_follow_id": 2,
+	"avatar": "jpg",
+	"user_name": "PedoBlocker",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "[Collaborative Blocklists](../wiki.pedoblocker.bit)",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471561678,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 2,
+			"body": "Check out the new collaborative blocklists at [wiki.pedoblocker.bit](../wiki.pedoblocker.bit)!",
+			"date_added": 1471604125
+		},
+		{
+			"post_id": 3,
+			"body": "An always up to date [list of all ZeroID users](../zeroid.bit/data/users.json) (right click, copy link and open it in a new window). Might come in handy if you want to block someone using the [ublock origin firefox add-on](https://addons.mozilla.org/firefox/addon/ublock-origin/). ",
+			"date_added": 1471700176
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Just in case the wiki gets vandalized: edits by the user pedoblocker@zeroid.bit are always trustworthy. ",
+			"post_uri": "1JEmH2pfXkpMMdzsJ256jzq2GTSxEacS2B_2",
+			"date_added": 1471698754
+		},
+		{
+			"comment_id": 2,
+			"body": "Just in case you are wondering: being able to access this is list is no security flaw or 'hack'. Every visitor of the ZeroID site has this list stored on his machine. It doesn't contain any sensitive data. ",
+			"post_uri": "1JEmH2pfXkpMMdzsJ256jzq2GTSxEacS2B_3",
+			"date_added": 1471700423
+		},
+		{
+			"comment_id": 3,
+			"body": "@Arne Bolen: Oh, interesting! I must have overlooked this file. ",
+			"post_uri": "1JEmH2pfXkpMMdzsJ256jzq2GTSxEacS2B_3",
+			"date_added": 1471733734
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1471604225
+		}
+	]
+}

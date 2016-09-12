@@ -1,0 +1,42 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 2,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Chako",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471913732,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 2,
+			"body": "I am the eggman\n",
+			"date_added": 1471913819
+		}
+	],
+	"post_like": {
+		"16JwVcFLeBayztkCTVQNCX8GS9PHqWfPeK_2": 1471913822,
+		"16JwVcFLeBayztkCTVQNCX8GS9PHqWfPeK_1": 1471913824
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Nope",
+			"post_uri": "1AeoDwzudke45NR3b6LfU4LsmPFs8AXUvi_7",
+			"date_added": 1471913910
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC",
+			"user_name": "Meidan",
+			"date_added": 1471914146
+		}
+	]
+}

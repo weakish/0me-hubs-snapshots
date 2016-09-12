@@ -1,0 +1,142 @@
+{
+	"next_post_id": 5,
+	"next_comment_id": 9,
+	"next_follow_id": 9,
+	"avatar": "jpg",
+	"user_name": "Bashrc",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"intro": "Developer on the Freedombone project: a system to help you run your own internet and mesh network services",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471037285,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 2,
+			"body": "Is this thing on?",
+			"date_added": 1471038236
+		},
+		{
+			"post_id": 3,
+			"body": "This weekend I am mainly working on IPFS integration for the mesh version of Freedombone. The Freedombone project doesn't yet have a zeronet site, but it's surely only a matter of time. qTox is already working well on my test mesh, and is brain-dead simple to use.",
+			"date_added": 1471038705
+		},
+		{
+			"post_id": 4,
+			"body": "I think ZeroMe looks quite promising. It would be nice to have a mesh version of this, but as far as I know the ZeroID system is centralised and so can't work without the internet.",
+			"date_added": 1471077326
+		}
+	],
+	"post_like": {
+		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1472647090": 1472665662
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Gallium: blimey. I didn't know that zeronet had a socnet",
+			"post_uri": "1P7F9po18mshkbRG5zEVV47vHtLEX19QJa_2",
+			"date_added": 1471038489
+		},
+		{
+			"comment_id": 2,
+			"body": "Trackers I can get around, because I can just install one on every peer, and I'm pretty sure that works. It's the not being able to set an ID which doesn't.",
+			"post_uri": "1P7F9po18mshkbRG5zEVV47vHtLEX19QJa_4",
+			"date_added": 1471078023
+		},
+		{
+			"comment_id": 3,
+			"body": "In the current system I'm using tox IDs for identity. If I could find a way to substitute that for zeroID that would be better.",
+			"post_uri": "1P7F9po18mshkbRG5zEVV47vHtLEX19QJa_4",
+			"date_added": 1471079279
+		},
+		{
+			"comment_id": 4,
+			"body": "@ks: I'm not sure that anything based upon proof of work world be a good idea. Keep in mind that mesh networks may be deployed quickly in emergency situations using any available laptops. Conserving battery power matters. There can also be solar powered off-grid installations. Proof of work just wastes electrical power.",
+			"post_uri": "1P7F9po18mshkbRG5zEVV47vHtLEX19QJa_4",
+			"date_added": 1471084757
+		},
+		{
+			"comment_id": 5,
+			"body": "Probably to get zeronet working on a mesh I'll need to study the code and see what it's doing then add an extra command option to enable or disable the relevant stuff.",
+			"post_uri": "1P7F9po18mshkbRG5zEVV47vHtLEX19QJa_4",
+			"date_added": 1471085006
+		},
+		{
+			"comment_id": 6,
+			"body": "But zeronet is a pretty good user experience, so it's probably worth the effort.",
+			"post_uri": "1P7F9po18mshkbRG5zEVV47vHtLEX19QJa_4",
+			"date_added": 1471085065
+		},
+		{
+			"comment_id": 7,
+			"body": "Not sure how that's supposed to work. I get a tiny popup in the middle of the screen which does nothing.",
+			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1473516628",
+			"date_added": 1473519823
+		},
+		{
+			"comment_id": 8,
+			"body": "\"Remote XUL: This page uses an unsupported technology that is no longer available by default\"",
+			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1473516628",
+			"date_added": 1473519889
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1471038308
+		},
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib",
+			"user_name": "megfault",
+			"date_added": 1471038944
+		},
+		{
+			"follow_id": 3,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1D242AyQghFqqQTwo1f1csP5kRQe588BUm",
+			"user_name": "Francis Brunelle",
+			"date_added": 1471039346
+		},
+		{
+			"follow_id": 4,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N",
+			"user_name": "Quadrangle",
+			"date_added": 1471075396
+		},
+		{
+			"follow_id": 5,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1471077238
+		},
+		{
+			"follow_id": 6,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1471106619
+		},
+		{
+			"follow_id": 7,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1DjuXLVkQi8fZFTxogDxrXpUn3Pd63Ss8X",
+			"user_name": "v1p3r",
+			"date_added": 1471106661
+		},
+		{
+			"follow_id": 8,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib",
+			"user_name": "megfault",
+			"date_added": 1471106701
+		}
+	]
+}

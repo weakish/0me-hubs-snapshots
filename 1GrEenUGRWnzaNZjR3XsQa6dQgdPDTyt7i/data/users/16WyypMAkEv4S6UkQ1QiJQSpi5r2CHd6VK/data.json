@@ -1,0 +1,31 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 2,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "Akdlsfjlajskdfj",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1473196210,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1473196225,
+			"body": "What does this all mean?",
+			"date_added": 1473196223
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Inkertus: I mean Zeronet naming, is it necessary to get a .bit address?",
+			"post_uri": "16WyypMAkEv4S6UkQ1QiJQSpi5r2CHd6VK_1473196225",
+			"date_added": 1473196643
+		}
+	],
+	"follow": []
+}

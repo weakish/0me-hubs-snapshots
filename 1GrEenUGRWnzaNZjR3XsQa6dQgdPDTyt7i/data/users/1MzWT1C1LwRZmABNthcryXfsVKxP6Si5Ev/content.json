@@ -1,0 +1,21 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "GzYhSNKJhIdH4UQqY8gLJHXmryhfjwV9dX016/ZQPuzE7M8G7IN99Rp90XLSTwSpvvMqYi3qrVWuSK3hjNktres=",
+ "cert_user_id": "dobrosketch@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "cbeef9233ffe0070acbcf908351caba4edde8b07cfca6aa6453ddd78345b9837",
+   "size": 1416
+  },
+  "data.json": {
+   "sha512": "4e399571ce3380f5861eba734c4ee9ced2ad656a38cac85ae634f778e4ef09ed",
+   "size": 3152
+  }
+ },
+ "inner_path": "data/users/1MzWT1C1LwRZmABNthcryXfsVKxP6Si5Ev/content.json",
+ "modified": 1472304332.078846,
+ "signs": {
+  "1MzWT1C1LwRZmABNthcryXfsVKxP6Si5Ev": "HGSwGBOTGMXuMmazBqRCB7Ibxt0n8+dOgrKqycSugFId1cRzsCvxIedvevRQIkM9W49t5e/MqfOxWX6fY8zdZUo="
+ }
+}

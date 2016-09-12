@@ -1,0 +1,39 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 2,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Agentsmith",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1473149806,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1473149884,
+			"body": "Hi, Learning ZeroNet\nAwesome...",
+			"date_added": 1473149882
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Hi",
+			"post_uri": "138cjtJ51LCzB9Jb5NMqMgx28frt7D7xqQ_1",
+			"date_added": 1473149828
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1FJSDBYWbhK1HbyqA3oyazsDHWzivUCRPJ",
+			"user_name": "Agentsmith",
+			"date_added": 1473149859
+		}
+	]
+}

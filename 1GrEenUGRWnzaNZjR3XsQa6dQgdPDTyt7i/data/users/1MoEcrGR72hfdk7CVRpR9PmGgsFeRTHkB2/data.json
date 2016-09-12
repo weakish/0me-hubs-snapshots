@@ -1,0 +1,58 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 1,
+	"next_follow_id": 6,
+	"avatar": "generate",
+	"user_name": "Kennedy",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471661795,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {
+		"1MoEcrGR72hfdk7CVRpR9PmGgsFeRTHkB2_1": 1471661919,
+		"15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_2": 1471661922
+	},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp",
+			"user_name": "Helloarch",
+			"date_added": 1471661813
+		},
+		{
+			"follow_id": 2,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "17L4r1jRaBbFNoMGNxru9mqnBpGeP883yt",
+			"user_name": "V8k8",
+			"date_added": 1471661816
+		},
+		{
+			"follow_id": 3,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1CLDFqEmmkmHd4Ei4pn6UDG5Fr9iME51zj",
+			"user_name": "Deioncube",
+			"date_added": 1471661821
+		},
+		{
+			"follow_id": 4,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "18Bh4CUNYKa2M3gABy1KVZf5yrr89qy6Yx",
+			"user_name": "Panoptes",
+			"date_added": 1471661824
+		},
+		{
+			"follow_id": 5,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1MoEcrGR72hfdk7CVRpR9PmGgsFeRTHkB2",
+			"user_name": "Kennedy",
+			"date_added": 1471661929
+		}
+	]
+}

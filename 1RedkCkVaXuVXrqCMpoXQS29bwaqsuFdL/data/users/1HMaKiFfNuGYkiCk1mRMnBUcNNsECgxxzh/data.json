@@ -1,0 +1,36 @@
+{
+	"next_post_id": 4,
+	"next_comment_id": 2,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "Monstoor",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1470974934,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1472507234,
+			"body": "Has anyone played the demo of Butcher? Looking forward to the full release coming out soon.",
+			"date_added": 1472507232
+		},
+		{
+			"post_id": 1472859345,
+			"body": "Just finished my first play-through of The Cave on my OpenSUSE system. Good fun with some excellent animation and voiceovers.\nNot sure I would go for a second play-through with different characters, though...",
+			"date_added": 1472859342
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@ZAlex: I couldn't use another distro as I'd miss the Packman repository too much :-)",
+			"post_uri": "1HMaKiFfNuGYkiCk1mRMnBUcNNsECgxxzh_1472859345",
+			"date_added": 1473374920
+		}
+	],
+	"follow": []
+}

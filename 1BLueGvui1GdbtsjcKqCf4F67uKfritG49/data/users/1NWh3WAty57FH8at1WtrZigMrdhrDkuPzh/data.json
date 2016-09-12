@@ -1,0 +1,307 @@
+{
+	"next_comment_id": 48,
+	"user_name": "Kaffie",
+	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+	"post_like": {
+		"1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH_1": 1470957815,
+		"1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_6": 1470971959,
+		"1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_9": 1471050000,
+		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_9": 1471164928,
+		"1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_11": 1471312236,
+		"16nArdxrSaNThNp83kL8E6NLL9WD98iUne_12": 1471317855,
+		"1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_13": 1471470761,
+		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_14": 1471597219,
+		"1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_19": 1471651770,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_19": 1471773317,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_22": 1471816087,
+		"16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_7": 1471833084,
+		"1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u_1472511554": 1472512434,
+		"16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_1472561132": 1472591346,
+		"1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u_1472640814": 1472702242,
+		"1M29UgKTUcDsSHafheTS2W8Ec9RZiNMvRk_1473443056": 1473461573
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Comment test.",
+			"post_uri": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_4",
+			"date_added": 1470956137
+		},
+		{
+			"comment_id": 2,
+			"body": "I just deleted the blue hub data.json and resigned/published it. Fixed commenting. Yay.",
+			"post_uri": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_4",
+			"date_added": 1470956179
+		},
+		{
+			"comment_id": 3,
+			"body": "I've always liked playing True Crime, which is kinda like the opposite of GTA. You be a cop instead. I also ran across an interesting game called APB. It's like an online/mmo gta/true crime mix. Was pretty fun in the beta, but it's since been changed a lot, switched owners, and died out.",
+			"post_uri": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_4",
+			"date_added": 1470954592
+		},
+		{
+			"comment_id": 4,
+			"body": "It might happen. You never know where my clumsiness will strike next! bwahahaha",
+			"post_uri": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_4",
+			"date_added": 1470956639
+		},
+		{
+			"comment_id": 5,
+			"body": "Reddit may be down, but ZeroTalk and ZeroMe are always up.",
+			"post_uri": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_5",
+			"date_added": 1470956757
+		},
+		{
+			"comment_id": 6,
+			"body": "Yea. I think with the new merger sites, we can get a proper reddit clone going (with each hub as a subreddit) and get reddit users to migrate over.\n\nBut there certainly needs to be more to do here. It's mostly just chatting. I was thinking of making something like a plug.dj clone that uses webtorrent to share music (that you both listen to at the same time). Not really sure how involved that'd be though.",
+			"post_uri": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_5",
+			"date_added": 1470957221
+		},
+		{
+			"comment_id": 7,
+			"body": "I feel like a lot of ZeroNet users have similar interests. Lots of tech/alt-currency kinda people here. Most people seem to support a small/no government, or one governed by merit/science/rationality. Perhaps that's just due to the type of people who'd be interested in decentralization?",
+			"post_uri": "1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH_1",
+			"date_added": 1470957960
+		},
+		{
+			"comment_id": 8,
+			"body": "I'm just trying to think of stuff that people would actually use, that's not too similar to existing zeronet sites. I /want/ to make a youtube kinda thing, and messed around with it before, but there doesn't seem to be a clean way of guaranteeing videos are up. You either use webtorrent and risk no seeds, or ipfs, and require either clearnet or external software (as well as videos possibly going down due to not being cached/pinned by enough users).\n\nAny ideas of what a lot of people would come to zeronet for?",
+			"post_uri": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_5",
+			"date_added": 1470958446
+		},
+		{
+			"comment_id": 9,
+			"body": "I'm actually a mix of all three. 1&2 are the big reasons I'm here. I really like decentralized tech. It's just awesome. But piracy/filesharing is also nice, especially since both KAT and torrentz went down recently.",
+			"post_uri": "1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH_1",
+			"date_added": 1470959312
+		},
+		{
+			"comment_id": 10,
+			"body": "@tkarita, yea, I've seen some attempts at hosting 1 vid per site. It's very clunky, and ZeroNet doesn't lend itself to distributing large files very well.\n\n@quadrangle, now that we have merger sites, we can pretty much reproduce reddit. Each hub would be a subreddit, and then the merger site would be like the main reddit page.\n\nTorrents are pretty much done. I think people are waiting on the KAT clone now and we're all good to go. And yea, a community is definitely needed. Which is why I think ZeroMe has been such a success.",
+			"post_uri": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_5",
+			"date_added": 1470959620
+		},
+		{
+			"comment_id": 11,
+			"body": "Oh, right. The meteor shower is tonight. I should've told everyone before they went to sleep, lol. Maybe tomorrow then.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_5",
+			"date_added": 1470991361
+		},
+		{
+			"comment_id": 12,
+			"body": "Someone made their name really long (like wikipedia article long) and since there's no cap it just spills out over onto everything else.",
+			"post_uri": "1DjUq8hd2jYZgc5uNhQEtWUVZjMHkMQkpU_18",
+			"date_added": 1470991416
+		},
+		{
+			"comment_id": 13,
+			"body": "You can change viewers, but not hubs. I have a guide on how to change hubs in a hacky way that leaves some residue and glitches though. Hopefully nofish adds in a clean way of switching hubs soon.",
+			"post_uri": "1DWsec9UeBbGYJ4FG8Pmy3Fb2xSM9RPeJC_3",
+			"date_added": 1471005353
+		},
+		{
+			"comment_id": 14,
+			"body": "Hubs are intended to be merged. That's the whole point of the ZeroMe demo. ZeroMe is a viewer that merges content from ZeroMe hubs. The hubs themselves just hold different users/data/etc. You can pick and choose which hubs you want to view/follow/download/seed. So you could, say, only view Blue Hub posts and never bother to download any other hub. Perhaps someone makes a 'tech hub' and  people just post tech stuff in that hub.\n\nBut as of now, all the subs are near identical, just with users randomly thrown about. Since this is just a tech demo.",
+			"post_uri": "1DWsec9UeBbGYJ4FG8Pmy3Fb2xSM9RPeJC_3",
+			"date_added": 1471006588
+		},
+		{
+			"comment_id": 15,
+			"body": "ZeroNet already supports this through 'optional files'. It'd just be a matter of implementing it into ZeroMe.",
+			"post_uri": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_8",
+			"date_added": 1471049559
+		},
+		{
+			"comment_id": 16,
+			"body": "Just make a new site, and copy+paste the stuff in the ZeroMe folder. ZeroMe itself doesn't have a data folder, so you don't need to do anything else. You maybe want to delete the 'merged-zerome' folder though. And obviously change the content.json to refer to your own stuff.\n\nAlternatively you could try to just modify the zerome content.json to have 'cloneable: true' and then clone it as usual.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_3",
+			"date_added": 1471056760
+		},
+		{
+			"comment_id": 17,
+			"body": "You shouldn't need to join a hub. Since it'd just share the same data as ZeroMe. Just login, and stuff should pop up as usual. If you give me the link, I'll see if it's working.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_3",
+			"date_added": 1471060791
+		},
+		{
+			"comment_id": 18,
+			"body": "Use Kaffiene to search through ZeroNet sites. It can also quickly search through the ZeroName directory: http://127.0.0.1:43110/kaffiene.bit/",
+			"post_uri": "1FVgXvt6d7AciuXYYeHwFcPfUyRqRDhZxV_4",
+			"date_added": 1471068778
+		},
+		{
+			"comment_id": 19,
+			"body": "@nofish is the developer: http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Profile/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj/null",
+			"post_uri": "1FVgXvt6d7AciuXYYeHwFcPfUyRqRDhZxV_3",
+			"date_added": 1471068818
+		},
+		{
+			"comment_id": 20,
+			"body": "For the sake of being able to help, I just made a quick zerome clone. I'm posting from it now, and following/activity feed work just fine. Posting works, and this is my comment test. The ZeroMe.db is indeed 100kb smaller, which is kinda suspicious, but I haven't noticed anything missing.\n\nAll I did to clone was copy+paste files, and edit the content.json to correctly point to the right site. I also made small tweaks like a css tweak (changed the background to be green), and adding Kaffie hub as a default. I didn't delete the db at all.\n\nIf your following/activity feed are busted, make sure you aren't double hubbing, since those are the most noticeable things to go haywire.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_4",
+			"date_added": 1471070258
+		},
+		{
+			"comment_id": 21,
+			"body": "What we need is a torrent site that uses the hubs/merger feature. So that anyone reaching a cap can just use their own hub, or a hub with a huge limit. Hubs will also allow us to organize content, so that users only ever need to download categories/genres/etc. they're interested in.",
+			"post_uri": "1JF3eQjW4voiKdcvCkMXvUx5bLmZAiVdyi_3",
+			"date_added": 1471079636
+		},
+		{
+			"comment_id": 22,
+			"body": "@<tkarita/>: See my old posts. Hover over my user name on each post on my profile. You can see that after it gets old enough, red hub posts start to show.\n\nAs it stands, the backend works fine. There's no issues with this, and it'd work fine if repurposed for a torrent site. The problems occur due to the ZeroMe merger site not merging things properly. A properly made merger site wouldn't have any issues.",
+			"post_uri": "1JF3eQjW4voiKdcvCkMXvUx5bLmZAiVdyi_3",
+			"date_added": 1471087978
+		},
+		{
+			"comment_id": 23,
+			"body": "@Jayofthezero: Yea, all I did was literally just copy and paste the files to a new site and changed the 'address' bit in the content.json. Worked right out of the box.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_4",
+			"date_added": 1471088285
+		},
+		{
+			"comment_id": 24,
+			"body": "@Jayofthezero: Do you know a better search engine? I made kaffiene and promote it because I want there to be a good well-known search engine for ZeroNet. If there's a better alternative, I'm happy to hear it.",
+			"post_uri": "1FVgXvt6d7AciuXYYeHwFcPfUyRqRDhZxV_4",
+			"date_added": 1471090349
+		},
+		{
+			"comment_id": 25,
+			"body": "I'm having the same issues on the actual ZeroMe site. It's not just you. Those errors happen when you're logged into a different hub/profile. But with the new 'fix', you get these weird mixed logins, where some stuff works and some doesn't.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_6",
+			"date_added": 1471096946
+		},
+		{
+			"comment_id": 26,
+			"body": "It's definitely something to do with the zerome.db file. I think the order that the hub info is added is what causes the glitch. Since to fix the login issues, all I did was delete every hub but my home hub, then rebuild the db, and download the other hubs again. I'll try it to see if it fixes these new issues.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_6",
+			"date_added": 1471097486
+		},
+		{
+			"comment_id": 27,
+			"body": "Sounds like the mixed login error. It's because you're logging in on a different hub/profile. But these new errors are due to the 'fix' that was applied.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_7",
+			"date_added": 1471097539
+		},
+		{
+			"comment_id": 28,
+			"body": "@Jayofthezero: As an FYI, 'all.js' is a file generated by compiling the various .coffee files which make up ZeroMe's source code. It's not JS though, so if you're not familiar with coffeescript, it might make it harder to develop. If you look at the all.js, you can see comments of the .coffee file boundaries (where the files start/end). It might make it easier to develop your tweaks if you just fork the project on github and then pull the various official updates into your branch.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_10",
+			"date_added": 1471149502
+		},
+		{
+			"comment_id": 29,
+			"body": "That's basically how ZeroNet works.",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_9",
+			"date_added": 1471164920
+		},
+		{
+			"comment_id": 30,
+			"body": "Same. My ZeroNet usage is at about 300mb or so. Most of that is official ZeroNet stuff, a couple torrent sites, and gifs.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_12",
+			"date_added": 1471317975
+		},
+		{
+			"comment_id": 31,
+			"body": "I'd like to see ZeroMail switch to be a merger site. So that people can use their own mail hosts and clients but still be able to mail each other.",
+			"post_uri": "17Cs2auSHSVjKaYMXqbNMApRQrgXcwJUpL_6",
+			"date_added": 1471322758
+		},
+		{
+			"comment_id": 32,
+			"body": "Shouldn't it, you know, actually work solidly before putting the bells and whistles on it?",
+			"post_uri": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u_2",
+			"date_added": 1471471079
+		},
+		{
+			"comment_id": 33,
+			"body": "It's not for mac... I use transmission.",
+			"post_uri": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_17",
+			"date_added": 1471559990
+		},
+		{
+			"comment_id": 34,
+			"body": "@Dxtjgxz: I picked up a 32gb microSD for $20. I'm always surprised when I buy storage these days, since I'm so used to the $1=1GB metric.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_12",
+			"date_added": 1471560148
+		},
+		{
+			"comment_id": 35,
+			"body": "Hmm... I did digging on tixati... It doesn't really look that great. Closed source, not multiplat, not on the what.cd whitelist. 'super seeding' is a feature on several clients, and really only helps with initial seeding. Any worthwhile torrent client doesn't have adware and is entirely stable. As for control... what do you really need in a client?",
+			"post_uri": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_17",
+			"date_added": 1471562031
+		},
+		{
+			"comment_id": 36,
+			"body": "@Quadrangle: I'm confused. My mac runs everything. I'm saying there's not a mac build. I could easily run it through wine or recompile it (I actually can't, because it's shit software that refuses to be open source for some reason) and then be good to go. There doesn't seem to be any gain from using it. No open source means it's prone to vulnerabilities and malware. Banned from popular private trackers means it's functionally useless. And not running on mac just demonstrates a failure at programming. No reason to not have it on mac if it's on linux. They're near identical.\n\nI'm confused at why you'd support proprietary software if open-source versions (that are better to boot) are available. My reasons for using mac are mostly hardware based. I'd run linux, but there's no reason to limit the software I use when I think OSX is fine. It's like releasing a close-source linux that's blacklisted from linux forums. There's no reason for it.",
+			"post_uri": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_17",
+			"date_added": 1471563555
+		},
+		{
+			"comment_id": 37,
+			"body": "@Talnicrom: I can't see any bot comments, but I can see their posts in the 'everyone' section.\n\nEdit: I see them in their activity feed if I go to the profile page.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_14",
+			"date_added": 1471657805
+		},
+		{
+			"comment_id": 38,
+			"body": "Yup. But at the very least, we've gotten to the point where there's activity every hour of the day. I haven't really seen a lack of activity for a several hour stretch.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_18",
+			"date_added": 1471760544
+		},
+		{
+			"comment_id": 39,
+			"body": "@CronianIce: KaffieID uses an all-local solution. There's never a clearnet request or any info sent to anyone else. It's all done on your own machine. The downside is that names are not unique. The upside is that you can freely change your name and generating a cert is totally anonymous and private.",
+			"post_uri": "17TX2JoDCPtqsYPN1KMk2LRLRzny31HetJ_6",
+			"date_added": 1471816214
+		},
+		{
+			"comment_id": 40,
+			"body": "Purge everything. Switch to linux. Be happy :P",
+			"post_uri": "16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_7",
+			"date_added": 1471833103
+		},
+		{
+			"comment_id": 41,
+			"body": "There's Haiku, which is based on BeOS: https://www.haiku-os.org/\n\nThere's also React OS, which is an open source Windows 95 clone: https://www.reactos.org/",
+			"post_uri": "16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_1472164264",
+			"date_added": 1472202694
+		},
+		{
+			"comment_id": 42,
+			"body": "@Mynameislegion: That's clearly an IPFS link, which he mentioned it was. Obviously you wouldn't be able to view it with just ZeroNet.",
+			"post_uri": "16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_1472346140",
+			"date_added": 1472354779
+		},
+		{
+			"comment_id": 43,
+			"body": "Profile page works when I access through the link under my user name. But I can't access it through a hard url, nor when clicking on my (or others) name on the videos. The search also doesn't let you search by user name, so it's impossible to find all the videos by a particular user.\n\nThe search also doesn't search through the description, meaning that if the title sucks, you won't be able to find the video.",
+			"post_uri": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u_2",
+			"date_added": 1472448337
+		},
+		{
+			"comment_id": 44,
+			"body": "Figured here would be the best way to contact you. I hit the cap for ZeroTube. 9kb is way too low. I only could cram in about 13 videos or so.",
+			"post_uri": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u_2",
+			"date_added": 1472464561
+		},
+		{
+			"comment_id": 45,
+			"body": "ZeroMail works fine for me at the moment. But I definitely had that problem earlier. I forget what I did to fix it... Did you try logging out and logging back in? Try deleting your user folder?",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1472516408",
+			"date_added": 1472516498
+		},
+		{
+			"comment_id": 46,
+			"body": "I feel the same way. I'd really like to start or join a mesh network, but there's not really any other tech people where I live.",
+			"post_uri": "16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_1472561132",
+			"date_added": 1472591344
+		},
+		{
+			"comment_id": 47,
+			"body": ">Nobody skims from the list on bit.no's ZeroHello either.\n\nI've used the ZeroHello pages of proxies to scan for content for Kaffiene. Haven't done that in a while though.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_1472779562",
+			"date_added": 1472856003
+		}
+	]
+}

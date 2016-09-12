@@ -1,0 +1,53 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 5,
+	"avatar": "generate",
+	"user_name": "Dumi",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1473186555,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1473186565,
+			"body": "HI BRO ! \n",
+			"date_added": 1473186563
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "14jDYQEDwSAeKNsi7Hg9dGhPdtNV7qzCvG",
+			"user_name": "Dumi",
+			"date_added": 1473186645
+		},
+		{
+			"follow_id": 2,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1AVCQ9S8ozHU9yyMV12notJo5UpDLx8V3J",
+			"user_name": "Akrilex",
+			"date_added": 1473186646
+		},
+		{
+			"follow_id": 3,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1Dpdm8aWMUbVUrbsXoGF8eyXg2iUJrg4c4",
+			"user_name": "Wowjinxy",
+			"date_added": 1473186646
+		},
+		{
+			"follow_id": 4,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1PNFQ7sRZVTBBNY9BSfBc4zfEL1EdFr8FG",
+			"user_name": "GameReaper",
+			"date_added": 1473186647
+		}
+	]
+}

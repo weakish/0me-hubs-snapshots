@@ -1,0 +1,47 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 3,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "3net",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471600587,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 2,
+			"body": "#Hashtest Of hith\n",
+			"date_added": 1471600640
+		}
+	],
+	"post_like": {
+		"13JZUmEgFASuKS5BacJKgJpBMK9vUhYEJ9_2": 1471600671
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Dios: Greetings",
+			"post_uri": "13JZUmEgFASuKS5BacJKgJpBMK9vUhYEJ9_2",
+			"date_added": 1471600664
+		},
+		{
+			"comment_id": 2,
+			"body": "No hashtags yet?",
+			"post_uri": "13JZUmEgFASuKS5BacJKgJpBMK9vUhYEJ9_2",
+			"date_added": 1471600702
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "13U9mRgV3bdkXiNXjMZeBWTcSHZjgNmk2z",
+			"user_name": "Dios",
+			"date_added": 1471600756
+		}
+	]
+}

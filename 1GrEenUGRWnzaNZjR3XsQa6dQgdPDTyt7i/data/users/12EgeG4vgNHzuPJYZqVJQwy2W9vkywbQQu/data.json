@@ -1,0 +1,121 @@
+{
+	"next_comment_id": 19,
+	"user_name": "PaintNinja",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"post_like": {
+		"1DRGcXbDWjecjtj7cgLUqiyPDTiepVYn8k_1472233858": 1472235040,
+		"1EmKu3AxsUduZzr99SryZbfcPrihsZV9mg_1473098041": 1473099120,
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1473098428": 1473102737,
+		"1KkA3C1iVDfieotYpuPUCpUtKzdFcfHMRy_1473377095": 1473589263
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Some people use this for their blog posts and long info posts, so I disagree with that limit. When someone writes too much, there's simply a \"view more\" or whatever so space isn't an issue",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_3",
+			"date_added": 1471376248
+		},
+		{
+			"comment_id": 2,
+			"body": "Works, but doesn't seem to stream - it only plays once the entire thing has downloaded. Does MP3 support streaming?",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472828679",
+			"date_added": 1472829821
+		},
+		{
+			"comment_id": 3,
+			"body": "@Alex: For me I tested the magnet link using instant.io and it didn't stream - it waited until the whole thing finished downloading before it let me play it. Correct me if I'm wrong, but I don't think MP3s can be streamed... I know Opus and AAC/M4A/MP4 audio can though",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472828679",
+			"date_added": 1472834271
+		},
+		{
+			"comment_id": 4,
+			"body": "Also not working for me in Firefox & Chrome at the moment, same issue as Zanity's having :/",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472843915",
+			"date_added": 1472844700
+		},
+		{
+			"comment_id": 5,
+			"body": "I think the file isn't being seeded or there's a typo in the link, the magnet id doesn't seem to work in instant.io either...",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472843915",
+			"date_added": 1472845198
+		},
+		{
+			"comment_id": 6,
+			"body": "Nice work! It seems quite similar to [an experiment I did about a month ago](http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Post/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu/4)... would you like to collaborate on it together?",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472893054",
+			"date_added": 1472901828
+		},
+		{
+			"comment_id": 7,
+			"body": "@Alex: Yep, I saw your code ;) I'm working on an update to my streaming experiment with support for album art, albums rather than just single tracks, and support outside of WebTorrent so it will work with the NinjaBeats listing. As you may have seen on my profile, I already have the listing code ready but everything's manually entered in - I just need to finish off manually entering everything and doing some more code such as the streamer, downloader and album lists",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472893054",
+			"date_added": 1472902173
+		},
+		{
+			"comment_id": 8,
+			"body": "@Alex: I have to admit I'm pretty new to Javascript so while I've tried to do ID tag extraction I don't have the knowledge to do so yet. If that could be done then that would be perfect as I hate the thought of going through 8-10k worth of songs and making text files with data for each >.<\n\nThe database code works perfectly and is based on Kafiene, just be aware though that it's artist-oriented by design, meaning the results show up as the music artist first before the actual song entry. This is intentional.\n\nAs for music streaming during download, I've got that working. The main issue with that is browser support really, as Chrome does not yet support streaming some formats with WebTorrent (not sure which though). I've heard wav works in some browsers while not in others, mp3 the same. m4a is the only one that seems to have the best browser support for streaming at the moment",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472893054",
+			"date_added": 1472902798
+		},
+		{
+			"comment_id": 9,
+			"body": "@Alex: It wouldn't be possible to query the files directly as there would be roughly 300GB of stuff that would need to be downloaded first, I just need ID tag extraction for the currently streamed tracks or for a set range of tracks (e.g. an album). The entire NinjaBeats library is perfectly organised and is predictable, so all I really need is some code that asks for a path to a track or folder containing tracks and it would save the extracted ID tag data as variables.\n\nM4A is the MP4 audio container. It can contain AAC/AAC+ or lossless AAC, although it is most commonly used by Apple for lossy AAC @ 256kbps (the start of noticeable distortion is at 128kbps, so Apple doubles it to make sure it doesn't sound bad. However, I intentionally do it at the highest VBR offered by dbpoweramp so that it doesn't clash with Apple's music - long story short I don't want my transcodes to get mixed up with genuine Apple ones). M4As at the moment are the only lossy codec files that hasn't been polluted with crappy transcodes by people putting it at low quality or getting the ID tags wrong, so I tend to use it for searching up music online so I can get the right ID tags for music I own, as any redistributions are just left as is and are straight from the iTunes store. I do not recommend transcoding something to m4a unless you know what you're doing for this very reason.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472893054",
+			"date_added": 1472903457
+		},
+		{
+			"comment_id": 10,
+			"body": "@Alex: While I appreciate your offer I've just finished doing the database a few days ago and it contains every song, album and genre associated with an artist via the ID tags of the FLACs.\nThe main things I need to work on and help with now are all JS stuff really... While I am making progress it's very slow and if you could work on the project with me that would be fantastic! If you're interested, feel free to [email me](http://127.0.0.1:43110/Mail.ZeroNetwork.bit/?to=paintninja) and I'll show you the listing so far and what's on the todo list. Some of it's fairly simple things I just don't yet know how to do. ;)",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472893054",
+			"date_added": 1472907074
+		},
+		{
+			"comment_id": 11,
+			"body": "@Sirenyc: You already can using https://instant.io or ideally, the WebTorrent for desktop client ;) Both in my implementations (v1 and [v2](http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Post/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu/1473012327)) and Bwoi Music",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472893054",
+			"date_added": 1472935314
+		},
+		{
+			"comment_id": 12,
+			"body": "@Sirenyc: On my Firefox it all works perfectly... :/",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1473091085",
+			"date_added": 1473099765
+		},
+		{
+			"comment_id": 13,
+			"body": "@Alex: How would Bwoi Analytics work on a decentralised network?",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1473091085",
+			"date_added": 1473099834
+		},
+		{
+			"comment_id": 14,
+			"body": "Sounds like what I did a couple of days ago :P",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1473183214",
+			"date_added": 1473186913
+		},
+		{
+			"comment_id": 15,
+			"body": "@RiotPulv: Wow! That's a pretty good setup there",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1473183214",
+			"date_added": 1473262823
+		},
+		{
+			"comment_id": 16,
+			"body": "@Sirenyc: @Johnhamelink: I can also confirm that it just says \"Awaiting torrent\" here... :(",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1473287396",
+			"date_added": 1473351807
+		},
+		{
+			"comment_id": 17,
+			"body": "I haven't heard of either of those and couldn't find them on Kaffiene Search, so I'm guessing you're asking who's making a music service on ZeroNet? If so, I am with NinjaBeats (see my profile) and Bwoi is making something similar with Bwoi Music",
+			"post_uri": "1KkA3C1iVDfieotYpuPUCpUtKzdFcfHMRy_1473357773",
+			"date_added": 1473363585
+		},
+		{
+			"comment_id": 18,
+			"body": "@cryp7ix: We at NinjaBeats hope that labels will react positively to the next generation of music distribution and will try everything reasonable within our power to help make that happen.\nPersonal collection management can indeed be tricky - especially if you use multiple music sources, which is why everything we'll distribute will follow a sensible, standardised folder structure and strict quality control both in organisation and the actual files and ID tags.",
+			"post_uri": "1KkA3C1iVDfieotYpuPUCpUtKzdFcfHMRy_1473357773",
+			"date_added": 1473365463
+		}
+	]
+}

@@ -1,0 +1,94 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 3,
+	"next_follow_id": 12,
+	"avatar": "jpg",
+	"user_name": "Francis Brunelle",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "SAFE Network enthusiast",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1470859402,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 2,
+			"body": "SAFE Network Alpha Release! https://safenetforum.org/t/safe-network-alpha-release/10687",
+			"date_added": 1471016576
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Testingzeronet12: Anonymity is not currently provided (because it hasn't been implemented yet). I would recommend reading this blog post – https://blog.maidsafe.net/2016/06/23/introduction-technical-overview-of-safe-consensus/ – and also this one – https://metaquestions.me/2016/07/20/data-chains-what-why-how/ – to get a better understanding of SAFE.\n\nNow that the alpha is released, the core team is going to focus on implementing disjoint groups and data chains. See this post for more details: https://safenetforum.org/t/safe-network-alpha-release/10687/19 ",
+			"post_uri": "1D242AyQghFqqQTwo1f1csP5kRQe588BUm_2",
+			"date_added": 1471068764
+		},
+		{
+			"comment_id": 2,
+			"body": "@Jayofthezero: SAFE currently lacks a few important features such as data chains – https://github.com/dirvine/data_chain/blob/master/docs/0029-data-chains.md – so I would say that it's a bit too early to compare it to other projects such as Tor, ZeroNet and IPFS.\n\nAs a starting point, I would recommend reading this blog post to get an idea of what makes SAFE different: https://blog.maidsafe.net/2016/06/23/introduction-technical-overview-of-safe-consensus/",
+			"post_uri": "1D242AyQghFqqQTwo1f1csP5kRQe588BUm_2",
+			"date_added": 1471069357
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1470859487
+		},
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "16YxtnaTrCSbvCXSYxrnvobmYnqtidxG23",
+			"user_name": "Hellozeronetwork",
+			"date_added": 1470859537
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1CwyP7JyaXpKVNXHKZfvRozBkCSk7hFAWe",
+			"user_name": "Wigy",
+			"date_added": 1470928603
+		},
+		{
+			"follow_id": 4,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1BLPKyrF2D4ertte6JnAa6oWAMYzZGwKQz",
+			"user_name": "Vincent Olivier",
+			"date_added": 1470928608
+		},
+		{
+			"follow_id": 5,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1FJf2hQWT6YY9oxXozkx1ZvBHyAJVYmb76",
+			"user_name": "Gorgamin",
+			"date_added": 1470928697
+		},
+		{
+			"follow_id": 6,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN",
+			"user_name": "Cyborg Warrior",
+			"date_added": 1471068779
+		},
+		{
+			"follow_id": 7,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1HQFucU7voutGuUsYknGcDpJg19CBC6gpY",
+			"user_name": "Fergish",
+			"date_added": 1471123977
+		},
+		{
+			"follow_id": 11,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1471741695
+		}
+	]
+}

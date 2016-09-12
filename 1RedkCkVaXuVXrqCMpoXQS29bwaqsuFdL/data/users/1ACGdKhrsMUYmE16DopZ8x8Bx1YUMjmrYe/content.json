@@ -1,0 +1,21 @@
+{
+ "address": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+ "cert_auth_type": "web",
+ "cert_sign": "GwRwJtghkWZjtjPylKBfTXD9CAXr/on5Q40zmKsdvUOe63oErIS2joH9g6NgI38BwK7rI/VuEcRKLruT/BS5qQs=",
+ "cert_user_id": "danskernesparti@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "61af057c2b99d877d07c36ed7ffa9267bf1c62d47699e29e7f11817d737c2878",
+   "size": 2098
+  },
+  "data.json": {
+   "sha512": "943e284199889bcda2d875fd6a96dcb146629691464b587aa76b9eb131a20f86",
+   "size": 677
+  }
+ },
+ "inner_path": "data/users/1ACGdKhrsMUYmE16DopZ8x8Bx1YUMjmrYe/content.json",
+ "modified": 1471171206.036819,
+ "signs": {
+  "1ACGdKhrsMUYmE16DopZ8x8Bx1YUMjmrYe": "HAyvgSzr1IbZeAz3qSmcGBurJBj+W+3eSa2LmHtTNCjdo0g6a1WHb7ByzRBMzG29ip1R12gY2Tyf67WOdF0ZxTc="
+ }
+}

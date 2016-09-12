@@ -1,0 +1,35 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Oneshot",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1473176929,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1473176981,
+			"body": "Great to be part of something Big. :-)",
+			"date_added": 1473176979
+		}
+	],
+	"post_like": {
+		"178CMpc4zCrxp1MPqXcoyDJCDsFSWeFAnf_1473176981": 1473177029,
+		"1E685Xk8ewNowfe7Dr5PRWKpUQBRS1waZY_1473177033": 1473177043
+	},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1ukzSFTK4ANMSKGsz8reyDAfxJx15VWVx",
+			"user_name": "Prox98",
+			"date_added": 1473177018
+		}
+	]
+}

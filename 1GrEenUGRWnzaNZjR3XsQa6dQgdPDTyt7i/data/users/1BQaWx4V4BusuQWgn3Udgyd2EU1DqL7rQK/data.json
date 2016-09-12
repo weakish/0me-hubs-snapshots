@@ -1,0 +1,39 @@
+{
+	"next_post_id": 4,
+	"next_comment_id": 1,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Dworf",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1472331862,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1472331925,
+			"body": "hi to everyone -",
+			"date_added": 1472331923
+		},
+		{
+			"post_id": 1472331967,
+			"body": "any Germans here?",
+			"date_added": 1472331964
+		}
+	],
+	"post_like": {
+		"1BQaWx4V4BusuQWgn3Udgyd2EU1DqL7rQK_1472331925": 1472331928
+	},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "18j9agkWyFjhMFeUN5szY17wKiUQn95RfL",
+			"user_name": "Lodda",
+			"date_added": 1472331990
+		}
+	]
+}

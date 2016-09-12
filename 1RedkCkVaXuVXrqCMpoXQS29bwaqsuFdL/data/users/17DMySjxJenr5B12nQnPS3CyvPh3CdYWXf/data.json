@@ -1,0 +1,41 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 2,
+	"next_follow_id": 3,
+	"avatar": "jpg",
+	"user_name": "Pericles",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"intro": "self catering",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471637850,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Alek: It seems to work! :)",
+			"post_uri": "17DMySjxJenr5B12nQnPS3CyvPh3CdYWXf_1",
+			"date_added": 1471649426
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1GCQUnedXg92ZLxrzDukGWeSiSAaudQ1F5",
+			"user_name": "Derpepe",
+			"date_added": 1471649442
+		},
+		{
+			"follow_id": 2,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1DjUq8hd2jYZgc5uNhQEtWUVZjMHkMQkpU",
+			"user_name": "Alek",
+			"date_added": 1471649840
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "G766eZ6ZhWcOq/WpfpYJdwav8Ia+RrJeC1KuoogSjgnZeiahU9X+LXXj7i7mVfykGvaKj2cyoTI/68kivPmKz40=",
+ "cert_user_id": "gimli@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "cc8de042738e95afe97d90eefee3eced163d60ac37de4e56674dd6c8e39e0ea3",
+   "size": 1541
+  },
+  "data.json": {
+   "sha512": "5b7b715b535eda403e8e5e2603bb9ffbe1bb384eb4f5fd5be2383b5d6c884bb2",
+   "size": 32453
+  }
+ },
+ "inner_path": "data/users/1L1RLoEsVMEa18PKD22bthXAPGDFwYeq4v/content.json",
+ "modified": 1471115476.432165,
+ "signs": {
+  "1L1RLoEsVMEa18PKD22bthXAPGDFwYeq4v": "G9sl1IRuN4zKQmpBjGyulacjbkLsUIr1l5wx4wzAmCfyfdVADd4+XwAnq+ieyCNN5SSoyl37pYJpWq/9DFT5OMQ="
+ }
+}

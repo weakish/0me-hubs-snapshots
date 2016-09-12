@@ -1,0 +1,44 @@
+{
+	"next_post_id": 6,
+	"next_comment_id": 2,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "xombi",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Not just random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1473148234,
+			"body": "Follow the white rabbit...",
+			"date_added": 1473148231
+		},
+		{
+			"post_id": 1473148387,
+			"body": "I started following my self? Ha!",
+			"date_added": 1473148383
+		},
+		{
+			"post_id": 1473148734,
+			"body": "Guys, I can't create a new site. Python spits some error message:\n\nTraceback (most recent call last):\n  File \"zeronet.py\", line 16, in main\n    main.start()\n  File \"src\\main.py\", line 419, in start\n    actions.call(config.action, action_kwargs)\n  File \"src\\main.py\", line 118, in call\n    func(**kwargs)\n  File \"src\\main.py\", line 166, in siteCreate\n    site.saveSettings()\n  File \"src\\Site\\Site.py\", line 104, in saveSettings\n    SiteManager.site_manager.save()\n  File \"plugins\\MergerSite\\MergerSitePlugin.py\", line 305, in save\n    super(SiteManagerPlugin, self).save(*args, **kwags)\n  File \"src\\Site\\SiteManager.py\", line 64, in save\n    site.settings[\"size\"] = site.content_manager.getTotalSize()  # Update site size\n  File \"src\\Content\\ContentManager.py\", line 244, in getTotalSize\n    size = self.contents.db.getTotalSize(self.site.address, ignore)\n  File \"src\\Content\\ContentDb.py\", line 95, in getTotalSize\n    params = {\"site_id\": self.site_ids[site_address]}",
+			"date_added": 1473148729
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@علي محمد: Thanks! Why didn't I think of that? Successfully created http://127.0.0.1:43110/1gSDC4UJnLdtFsHdyYkk9nyYVDcSm6dKW/",
+			"post_uri": "15md8JJWmJKMjebyr9a9qZKg5s66RR3xHv_1473148734",
+			"date_added": 1473260087
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "15md8JJWmJKMjebyr9a9qZKg5s66RR3xHv",
+			"user_name": "xombi",
+			"date_added": 1473148355
+		}
+	]
+}

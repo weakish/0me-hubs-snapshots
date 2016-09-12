@@ -1,0 +1,17 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "HCzeZItdY9M5QzXH1z+9aat4ugsE90e1WHy6/leXHSd0LI7c3dPTLh4I8QI3P2zuNn91ZCKCdvIxT8zw/Igyi/c=",
+ "cert_user_id": "dailynews@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "d7fe38a661dc59d603b33bfad881b58083110489649506ce643fb9b21d697b37",
+   "size": 341
+  }
+ },
+ "inner_path": "data/users/1CLS5jfUov9aBL2wxgZikwGmB6VTmHoKEc/content.json",
+ "modified": 1471095630.293882,
+ "signs": {
+  "1CLS5jfUov9aBL2wxgZikwGmB6VTmHoKEc": "HEiqrRSZkFw7A3DCtYdEiPFdPXtXPZvI6M9runAYxMsKcqGfokGSAkE7WD45d3gjZnAN5stFg8IRTrrsay7r+2U="
+ }
+}

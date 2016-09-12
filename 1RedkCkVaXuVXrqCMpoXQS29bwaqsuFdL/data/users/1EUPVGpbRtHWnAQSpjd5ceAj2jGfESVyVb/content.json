@@ -1,0 +1,21 @@
+{
+ "address": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+ "cert_auth_type": "web",
+ "cert_sign": "Gz3YlobsT+ulUjkb14dQXDxhPFFRHbqm7yRVuZfGHyH4A5OhzMMaWsigRCnKIcxGi1sUrrKfwjvON7nUnWDEusQ=",
+ "cert_user_id": "adamthevictini@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "0061fdc045b0a177b78de87437db3221c1f6da1188881dfdf00fe7f55c1582d8",
+   "size": 1522
+  },
+  "data.json": {
+   "sha512": "e7288d7f413c51603734e588778fed5e26228bc121bd5436d61a3d18c3c5fa61",
+   "size": 1495
+  }
+ },
+ "inner_path": "data/users/1EUPVGpbRtHWnAQSpjd5ceAj2jGfESVyVb/content.json",
+ "modified": 1471457556.027,
+ "signs": {
+  "1EUPVGpbRtHWnAQSpjd5ceAj2jGfESVyVb": "HGj24y4NwGihy0Zvd8lp3TOZyZYPYExufiKDhKEfKrSL7tvqwdLiefEQ+z4vwRiDLGoKtDVtxX2jKWA9VHJcg1Y="
+ }
+}

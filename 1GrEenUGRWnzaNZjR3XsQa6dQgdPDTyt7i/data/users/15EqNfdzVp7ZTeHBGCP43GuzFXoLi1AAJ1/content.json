@@ -1,0 +1,17 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "G5WJS4d9Jl0durHnjIzRtIfpo6zyp7y4TmHwfRQzg3qkoeepvgRJVeaNbJC8+v0tzSjAb4WUXzrPnm2bq7pFIqI=",
+ "cert_user_id": "flowman@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a6749350a85cf72f765186a827cfb02617112c543608f74ece0c298d32d430f2",
+   "size": 339
+  }
+ },
+ "inner_path": "data/users/15EqNfdzVp7ZTeHBGCP43GuzFXoLi1AAJ1/content.json",
+ "modified": 1473174637.812,
+ "signs": {
+  "15EqNfdzVp7ZTeHBGCP43GuzFXoLi1AAJ1": "GxBuZBViYbU48+DDB/bCEPsLY/9kFnOqdEH/mKK/UgdC0kz3mhXSx+RS3bIljkEIxy17W4LnlzrC3MRrFbSEl4U="
+ }
+}

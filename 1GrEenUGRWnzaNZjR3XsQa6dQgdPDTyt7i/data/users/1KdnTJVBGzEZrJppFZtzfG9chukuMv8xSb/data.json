@@ -1,0 +1,50 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 5,
+	"next_follow_id": 1,
+	"avatar": "jpg",
+	"user_name": "Bot",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Hub mechanic",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471258273,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {
+		"15tCjXFHLNtBi9fb799hjd9VcUfTybimE4_2": 1471483094,
+		"1FWT8c7KEsKn6UDeFLSN7RSuTXZoUY2uy7_2": 1471597012,
+		"17uX92w4VUjxjS9Quq2Es5JdXEMehvzs6g_1472273518": 1472284640,
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_18": 1472779966,
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472766375": 1472783410
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "I made a 'followers' button on Infinity, i just haven't done the panel list yet. (i'm trying to add image posting)",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_10",
+			"date_added": 1471368519
+		},
+		{
+			"comment_id": 2,
+			"body": "Vincent (@up4) made a working prototype, but nofish thought it should be plugin than core feature, with suggestion of a future 'app-store' type feature (similar to Sandstorm.io by the sounds of it) allowing users to easily plug in additional features, thus keeping ZN's core stable/small)\n\n  https://github.com/HelloZeroNet/ZeroNet/pull/521\n",
+			"post_uri": "13pAK1jj4Qwt56ytnn5BorrMfHA7J3Nc8C_1471967886",
+			"date_added": 1472028905
+		},
+		{
+			"comment_id": 3,
+			"body": "yep, broadcasting loud 'n' clear!",
+			"post_uri": "115P86wFikGndN32MSyjh4svy8Tq6PuKyK_1472303220",
+			"date_added": 1472303975
+		},
+		{
+			"comment_id": 4,
+			"body": "The first things we make take a lot of time and effort with small reward. I cloned Flappy Bird and took a week to upgrade it. Then a week to clone Nullpaste and add an editor. Then perhaps a month making a more modular app frontend. But the new frontend let's me take github content and launch it with add-on features in a few days. Starting with existing open source and building from there reduces dev time enormously. Provide the original sources and people can see what you've added. As @Shellbound says, the next step is collaboration on ZN apps to speed the process even more.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_18",
+			"date_added": 1472780846
+		}
+	],
+	"follow": []
+}

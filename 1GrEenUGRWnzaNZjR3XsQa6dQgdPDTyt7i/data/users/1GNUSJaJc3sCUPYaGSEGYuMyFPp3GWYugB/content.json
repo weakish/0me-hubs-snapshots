@@ -1,0 +1,17 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "Gxe9wEibXdrIykgQbQyrl2VsUmPmKow3/MLeqgKG7QFBU2plOcgJMmWNv727L1YAJJshHR7AdvRSj696MLKso9k=",
+ "cert_user_id": "puppetmaster@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "92f709294b9dc47fe615194d3f5f29c827d0032e5438c13392d9c7e3ab736563",
+   "size": 1848
+  }
+ },
+ "inner_path": "data/users/1GNUSJaJc3sCUPYaGSEGYuMyFPp3GWYugB/content.json",
+ "modified": 1471560719.370201,
+ "signs": {
+  "1GNUSJaJc3sCUPYaGSEGYuMyFPp3GWYugB": "GxljOnfDYpXFG/Ph+c3FlChTB6sYCDqrPACm90UJvWxUT285Th87hwju1aJ3/XYgFnLYQZ+B5CdcHkWTL3lquLM="
+ }
+}

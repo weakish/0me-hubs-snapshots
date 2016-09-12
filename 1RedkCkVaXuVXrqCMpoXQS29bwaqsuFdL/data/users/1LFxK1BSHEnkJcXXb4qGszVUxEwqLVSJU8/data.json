@@ -1,0 +1,58 @@
+{
+	"next_post_id": 4,
+	"next_comment_id": 1,
+	"next_follow_id": 6,
+	"avatar": "jpg",
+	"user_name": "Hermes32",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"intro": "_Jo mei, i red bayrisch_",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1470958794,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 2,
+			"body": "Hi Kollegas, i bn a bayer :)",
+			"date_added": 1471206086
+		},
+		{
+			"post_id": 3,
+			"body": "humor  http://127.0.0.1:43110/14feUXtxkukdA9qutsHtKrAdXcYm5nnViu/test/dogs.html",
+			"date_added": 1471257810
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1471637673
+		},
+		{
+			"follow_id": 3,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L",
+			"user_name": "Alex (Bwoi)",
+			"date_added": 1471740594
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1DisZQvG1Yt4MSd67hcRZ8sTosrYUqYhoe",
+			"user_name": "Hyperion",
+			"date_added": 1471765549
+		},
+		{
+			"follow_id": 5,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1471803953
+		}
+	]
+}

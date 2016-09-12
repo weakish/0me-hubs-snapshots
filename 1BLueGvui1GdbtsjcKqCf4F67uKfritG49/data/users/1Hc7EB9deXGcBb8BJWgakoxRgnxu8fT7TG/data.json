@@ -1,0 +1,39 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 3,
+	"avatar": "jpg",
+	"user_name": "Hexion",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "UN RANDOMSITO MAS AL RANDOMSITO INTERNETE",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1472229263,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1472229288,
+			"body": "FIFA EL FEIS BUQ",
+			"date_added": 1472229286
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1Hc7EB9deXGcBb8BJWgakoxRgnxu8fT7TG",
+			"user_name": "Hexion",
+			"date_added": 1472229351
+		},
+		{
+			"follow_id": 2,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "14u2rEK2mVdTrAzqvFBcH8pLuk7Mgjy1iw",
+			"user_name": "Laito",
+			"date_added": 1472229353
+		}
+	]
+}

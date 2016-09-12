@@ -1,0 +1,31 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 2,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "Homer",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Hello ZeroWorld :)",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471978601,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1471978811,
+			"body": "How can I select \"Green Hub\" now?",
+			"date_added": 1471978809
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Thank you :)\nBut I don't get the password --'",
+			"post_uri": "1DPK3APZ7uRHGYpzDbfvgQiCn4AzB1oDbQ_1471978811",
+			"date_added": 1471987162
+		}
+	],
+	"follow": []
+}

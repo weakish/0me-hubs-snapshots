@@ -1,0 +1,164 @@
+{
+	"next_post_id": 7,
+	"next_comment_id": 12,
+	"next_follow_id": 10,
+	"avatar": "jpg",
+	"user_name": "Rebel",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"intro": "Organize to liberate",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471152220,
+			"body": "Orale ZeroMe!"
+		},
+		{
+			"post_id": 2,
+			"body": "So i just set up this zeroID after loosing my old one.  Not sure why.  It was after the update but it was working immediately after.  Just reset today.  To be honest, i dont even know where the conneted site files are stored.   Any help?  Or is there any basic how to's or faq's out there?",
+			"date_added": 1471154555
+		},
+		{
+			"post_id": 3,
+			"body": "When trying to follow another user...\n \"Internal error: TypeError: actionMergerSiteAdd() takes exactly 3 arguments (2 given)\nUiWebsocket.py line 98 > UiWebsocket.py line 175\"",
+			"date_added": 1471156377
+		},
+		{
+			"post_id": 4,
+			"body": "Can anyone check this for me?\nhttp://127.0.0.1:43110/13J4xKyutC2qQuukZymgBNpZUsVbo2oouF/",
+			"date_added": 1471206470
+		},
+		{
+			"post_id": 5,
+			"body": "Do any dev folks check this:\nhttp://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj/ZeroNet+help+FAQ\nI assume its the 'official' help / faq.  Is there another?\n(Kaffie - This is the official help/faq cloned onto zeronet: http://127.0.0.1:43110/17Kom2G5qNDc6NaQwv445h1gFzxkY3ZtZe/)",
+			"date_added": 1471327402
+		},
+		{
+			"post_id": 6,
+			"body": "Can some one check my zerotalk clone (again).  /13J4xKyutC2qQuukZymgBNpZUsVbo2oouF/\nI think i got it working... I hope.",
+			"date_added": 1471502848
+		}
+	],
+	"post_like": {
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_10": 1471293787
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Bot: thanks heaps!",
+			"post_uri": "1A7Jhb42rcCE86shNxvzbi6uQ7Agemspdd_2",
+			"date_added": 1471156225
+		},
+		{
+			"comment_id": 2,
+			"body": "Its a zerotalk clone.  I can see it.  But can everyone?",
+			"post_uri": "1A7Jhb42rcCE86shNxvzbi6uQ7Agemspdd_4",
+			"date_added": 1471217489
+		},
+		{
+			"comment_id": 3,
+			"body": "huh... when i click it i see a functional zerotalk site with a couple treads i started. Any idea on why that would be?  I run lubuntu.",
+			"post_uri": "1A7Jhb42rcCE86shNxvzbi6uQ7Agemspdd_4",
+			"date_added": 1471245324
+		},
+		{
+			"comment_id": 5,
+			"body": "Any help.",
+			"post_uri": "1A7Jhb42rcCE86shNxvzbi6uQ7Agemspdd_4",
+			"date_added": 1471289553
+		},
+		{
+			"comment_id": 6,
+			"body": "arg....  my dashboard says 2 peers now (was 11 last night), and im currently viewing the site.  What can make it so im only hosting the site but not peering it?",
+			"post_uri": "1A7Jhb42rcCE86shNxvzbi6uQ7Agemspdd_4",
+			"date_added": 1471292671
+		},
+		{
+			"comment_id": 7,
+			"body": "so when i try to view through a proxy it gets stuck on\n\" Connecting...\nPeers found: 2\ncontent.json download failed\"\nalso got \"504 Gateway Time-out\"",
+			"post_uri": "1A7Jhb42rcCE86shNxvzbi6uQ7Agemspdd_4",
+			"date_added": 1471292914
+		},
+		{
+			"comment_id": 8,
+			"body": "Just a thought, does it have to do with permissions?  Or the location of my zerobundle folder?",
+			"post_uri": "1A7Jhb42rcCE86shNxvzbi6uQ7Agemspdd_4",
+			"date_added": 1471293613
+		},
+		{
+			"comment_id": 9,
+			"body": "@Kaffie: thanks!",
+			"post_uri": "1A7Jhb42rcCE86shNxvzbi6uQ7Agemspdd_5",
+			"date_added": 1471408713
+		},
+		{
+			"comment_id": 10,
+			"body": "Ok. pulled out the right sidebar and re-signed and published.  I think that did the trick.  I can now view the zite through the proxies.  It would be nice if someone could double check it thought. ",
+			"post_uri": "1A7Jhb42rcCE86shNxvzbi6uQ7Agemspdd_4",
+			"date_added": 1471501880
+		},
+		{
+			"comment_id": 11,
+			"body": "yay! thanks!",
+			"post_uri": "1A7Jhb42rcCE86shNxvzbi6uQ7Agemspdd_6",
+			"date_added": 1471560179
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1BuwkFDcaH3sX5JYHke8Xs4xgMZvTnue1y",
+			"user_name": "Joshu",
+			"date_added": 1471153652
+		},
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV",
+			"user_name": "Mynameislegion",
+			"date_added": 1471153666
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1471153925
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "16YxtnaTrCSbvCXSYxrnvobmYnqtidxG23",
+			"user_name": "Hellozeronetwork",
+			"date_added": 1471153926
+		},
+		{
+			"follow_id": 5,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1471153948
+		},
+		{
+			"follow_id": 7,
+			"hub": null,
+			"auth_address": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb",
+			"user_name": null,
+			"date_added": 1471156280
+		},
+		{
+			"follow_id": 8,
+			"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
+			"auth_address": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb",
+			"user_name": "ɃǾȾ",
+			"date_added": 1471217353
+		},
+		{
+			"follow_id": 9,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1FtUiy2KtVRiLTjs2QrvDJUSx2wMzeeavX",
+			"user_name": "Freekazoid",
+			"date_added": 1471501962
+		}
+	]
+}

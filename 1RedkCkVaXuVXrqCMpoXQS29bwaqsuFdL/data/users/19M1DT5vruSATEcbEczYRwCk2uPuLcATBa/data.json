@@ -1,0 +1,805 @@
+{
+	"next_post_id": 37,
+	"next_comment_id": 135,
+	"next_follow_id": 23,
+	"avatar": "png",
+	"user_name": "Talnicrom",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"intro": "Be free\n\n[Find mentions of any @username or #hashtag](http://127.0.0.1:43110/1JouSggdhsEZ9tWN5oiQArjdAA8wkCcxuR/)\n[ZeroNet Mods](http://127.0.0.1:43110/1JjHyLeEDidHyyN33Y8f8cQKVEzWCEPnW7/)",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1470886209,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 2,
+			"body": "This is an extremely interesting demo, but it seems very complex.  It would be nice to have some *simple* examples of how to set up merger sites.  Also, I hope to see some documentation soon.",
+			"date_added": 1470889521
+		},
+		{
+			"post_id": 3,
+			"body": "Would anyone be interested in a bot that pulls tweets from (specific users on) Twitter and posts them here?",
+			"date_added": 1470922170
+		},
+		{
+			"post_id": 4,
+			"body": "Has anyone thought about writing a plugin for working with cryptocurrencies?  I haven't come across any legit stores on ZeroNet yet.  Is it the small-ish user base, the cost of setting up a bespoke site, or something else?",
+			"date_added": 1470922322
+		},
+		{
+			"post_id": 7,
+			"body": "@nofish It looks like the live source reloading doesn't reload plugins.  Would you mind live reloading plugins as well to make it easier to mod ZeroNet?",
+			"date_added": 1471101592
+		},
+		{
+			"post_id": 8,
+			"body": "I wrote some plugins for ZeroNet.  One sets a default user instead of picking the \"first\" in single-user mode.  The other one exposes an API that has a single key and allows you to set the user/site in each call.\n\nCheck them out at [ZeroMods](http://127.0.0.1:43110/1JjHyLeEDidHyyN33Y8f8cQKVEzWCEPnW7/).  \n\n@nofish @Kaffie @Bot  (and everybody)",
+			"date_added": 1471110395
+		},
+		{
+			"post_id": 9,
+			"body": "I still want to make a bot that will copy tweets from Twitter.  Is there an easy way to get a user's posts without having to authenticate?",
+			"date_added": 1471110497
+		},
+		{
+			"post_id": 10,
+			"body": "There are way too many possibilities opening up here.  I just realized that it would not be at all hard to patch ZeroNet to give sites access to a local private data store!",
+			"date_added": 1471114000
+		},
+		{
+			"post_id": 11,
+			"body": "Ok, I wrote a LocalStorage plugin.  There is a dumb demo at [ZeroMods](http://127.0.0.1:43110/1JjHyLeEDidHyyN33Y8f8cQKVEzWCEPnW7/).",
+			"date_added": 1471127764
+		},
+		{
+			"post_id": 12,
+			"body": "@nofish: Sites only have access to an array listing the plugin names.  If people want to seriously use plugins, sites need to be able to see hashes of the plugin files or something.  \n\nFor example, if people want to use private local storage to create shared secrets or something like that, they need to be sure that their local storage plugin is not just reporting their local data to some server.  This cannot be determined from the name alone.  Yeah?",
+			"date_added": 1471128300
+		},
+		{
+			"post_id": 13,
+			"body": "It seems like the data-hub and separate UI structure could be used to unlink shoppers from the stores where they shop.   If user data is stored encrypted on a hub, then an analyst could only see that the user uses the system to shop, not at which stores.",
+			"date_added": 1471149233
+		},
+		{
+			"post_id": 14,
+			"body": "Hey guys, I made a down-and-dirty page to see your @mentions.  (You can see anybody's mentions.)  The site is available [here](http://127.0.0.1:43110/1JouSggdhsEZ9tWN5oiQArjdAA8wkCcxuR/).\n\nA word of warning:  before you visit this site, take a look at the code and make sure it is not going to do anything funny like delete your ZeroMe merger data.  If possible, it would be great if somebody like @nofish or @Kaffie would endorse the site so that people don't have to be suspicious.  ",
+			"date_added": 1471218398
+		},
+		{
+			"post_id": 15,
+			"body": "@nofish: Thinking to make sites easily clonable on ZeroNet was genius.  ",
+			"date_added": 1471221589
+		},
+		{
+			"post_id": 16,
+			"body": "Hi again!  I think I worked out the kinks of processing @mentions. If anybody wants to include mentions on their merger site, they can use the class ZeroFrameWithMentions.  It should be essentially self explanatory and provides an onMention event handler and getMentions(user=null) method for getting all mentions or just for one user.",
+			"date_added": 1471236944
+		},
+		{
+			"post_id": 17,
+			"body": "[EDIT]: Do not take this post seriously -- see @nofish's comments below.\n\nIf anybody else is having trouble with the Infinity Hub here is a patch:  Just add \n\n`if inner_path.startswith(\"merged\"):\n    return False`\n\njust below lines 245 and 254 in ZeroNet/plugins/MergerSite/MergerSitePlugin.py",
+			"date_added": 1471283517
+		},
+		{
+			"post_id": 18,
+			"body": "What is a use case where the natural pattern is three levels of sites: lowest merging to middle, middle merging to top?",
+			"date_added": 1471301047
+		},
+		{
+			"post_id": 19,
+			"body": "@bot - My site now supports watching hashtags as well as username mentions. Give it a whirl!  #ZeroMeMentions",
+			"date_added": 1471411979
+		},
+		{
+			"post_id": 20,
+			"body": "Updated [ZeroMeMentions](http://127.0.0.1:43110/1JouSggdhsEZ9tWN5oiQArjdAA8wkCcxuR/) to make @username and #hashtag mentions clickable so you can actually go look at the post on ZeroMe.  #ZeroMeMentions\n\nObviously, @nofish is adding features like these all the time.  I feel like I got some good practice and I probably won't update my site again in the near future unless people ask me to fix bugs.  #ZMMbugs",
+			"date_added": 1471450020
+		},
+		{
+			"post_id": 25,
+			"body": "Hey everyone.  Just set up some bots based on well known characters.  Try mentioning them!  ",
+			"date_added": 1471656064
+		},
+		{
+			"post_id": 26,
+			"body": "@theterminator can you learn?",
+			"date_added": 1471710254
+		},
+		{
+			"post_id": 27,
+			"body": "@vincentvega: You know what they call a quarter pounder with cheese in France?",
+			"date_added": 1471711681
+		},
+		{
+			"post_id": 28,
+			"body": "@reginageorge",
+			"date_added": 1471713102
+		},
+		{
+			"post_id": 29,
+			"body": "Now that the bots seem to be working all right, I posted an [update to their code](http://127.0.0.1:43110/1JjHyLeEDidHyyN33Y8f8cQKVEzWCEPnW7/RobotPack.0.3.tgz).  I hope it is fairly easy for others to set up.\n\nAlso you can mention them with the phrase \"source code\" and they'll reply with the address of my mods site (or at least they are supposed to do that!).\n\n`#ZeroMeBots`",
+			"date_added": 1471717054
+		},
+		{
+			"post_id": 30,
+			"body": "Request info.  I have heard people toss out several ideas for merger sites including versions of StackExchange and Wikipedia, and a torrent db.  Is anybody seriously thinking about or working on projects like these?  If so, shout out (or ZeroMail me) and let me know, please!  I would like to set up some kind of marketplace (and possibly later some kind of site for reviews loosly along the lines of Yelp).  To do it right, it  would be nice to discuss the design with people.  So please let me know if you are interested.  \n\nAlso, is anybody seriously trying to attack ZeroNet to test it?",
+			"date_added": 1471802344
+		},
+		{
+			"post_id": 31,
+			"body": "Would somebody post the content of the \"follow\" node under \"sites\": {\"1Me....\", ... in their users.json (please remove your personal info first, if necessary)?  Somehow, mine wasn't populated and I have not been getting my ZeroMe updates on ZeroHello.  Thanks! `#ZeroMeHelp`",
+			"date_added": 1471885504
+		},
+		{
+			"post_id": 32,
+			"body": "If anyone is interested in creating a ZeroNet marketplace, I set up a [discussion thread](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1_19M1DT5vruSATEcbEczYRwCk2uPuLcATBa/A+ZeroNet+marketplace) over on ZeroTalk. `#ZNMarketplace`",
+			"date_added": 1471889126
+		},
+		{
+			"post_id": 1471959669,
+			"body": "I just got some advice from @nofish and I want to publicize it.  \n\n1. If you want to download a site without displaying it in order to take a look at the code just use curl:\n`curl http://127.0.0.1:43110/{site_address}`\n\n2. If you are suspicious that the owner of a merger site might push a malicious update, you can pause the site.  Then if there is an update you can ask around about it before updating.  The point is that this will not affect user data (e.g. posts, comments, and profiles), only the interface logic.",
+			"date_added": 1471959636
+		},
+		{
+			"post_id": 1472167463,
+			"body": "If anybody cares, it looks like Monero trading is finally picking up on Bitsquare (P2P bitcoin exchange).",
+			"date_added": 1472167429
+		},
+		{
+			"post_id": 1473296960,
+			"body": "In case anyone would like to [weigh in on integrating ZeroNet and I2P](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:2_19M1DT5vruSATEcbEczYRwCk2uPuLcATBa/Is+it+a+good+idea+to+write+a+plugin+for+ZeroNet+over+I2P).",
+			"date_added": 1473296925
+		},
+		{
+			"post_id": 1473431870,
+			"body": "How can mobile users use ZeroNet?  Of course, nobody wants to send their keys to a proxy server!  [I floated an idea](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:3_19M1DT5vruSATEcbEczYRwCk2uPuLcATBa/Ideas+for+improving+the+ZeroNet+mobile+experience) on ZeroTalk if anybody wants to discuss it.  \n\n*Clarification:* I am not looking for a solution for personal use.  I would like to discuss the best way to make it possible for new nontechnical users to access ZeroNet from a (mobile) browser (or app) while retaining local control of their private keys.",
+			"date_added": 1473431834
+		}
+	],
+	"post_like": {
+		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_12": 1470921481,
+		"1FtUiy2KtVRiLTjs2QrvDJUSx2wMzeeavX_4": 1470923442,
+		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_17": 1470933540,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_6": 1470946989,
+		"15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT_2": 1471116655,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_9": 1471219372,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_10": 1471280061,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_11": 1471384316,
+		"1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib_9": 1471459973,
+		"19SbSoytV8aD6GtpJi9F6RDSnGzunYgYzo_6": 1471477560,
+		"15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT_6": 1471482763,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_12": 1471526524,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_13": 1471785201,
+		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_102": 1471889643,
+		"15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT_7": 1471899265,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1471946844": 1471961501,
+		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1471991667": 1472045290,
+		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1472394492": 1472396807,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1472462658": 1472476355,
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1473590552": 1473612549
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "The bot could even tweet at the person that they are being mirrored here so they could see their replies.  I guess they could verify their account by tweeting a token that was sent to them via some secure(-ish) channel.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_3",
+			"date_added": 1470922412
+		},
+		{
+			"comment_id": 4,
+			"body": "To clarify, both the site owner and the user can write (encrypted) messages to the site's data store.  The plugin running on each user's computer would simply watch the data for relevant messages and then carry out each step of creating the wallet.  ",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_4",
+			"date_added": 1470923258
+		},
+		{
+			"comment_id": 5,
+			"body": "Cool.  I'll see what I can do.  I'm a beginner so I'll probably get stuck and post questions here!",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_3",
+			"date_added": 1470924561
+		},
+		{
+			"comment_id": 6,
+			"body": "OK great!",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_3",
+			"date_added": 1470926441
+		},
+		{
+			"comment_id": 7,
+			"body": "I'm thinking of doing: \n1. Write a simple API for ZeroNet as a plugin to make scripting easier.\n2. Create a script that watches Red/Blue for strings of the form \"@tweeter add @twitter_user\"\n3. For each @twitter_user, create a ZeroNet user, get a ZeroID, register with ZeroMe, and then post all tweets under this account.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_3",
+			"date_added": 1470926464
+		},
+		{
+			"comment_id": 8,
+			"body": "So my first question is what is the best way to expose a local API for ZeroNet?  JSON-RPC?  Sockets?  Use an existing one that I don't know about?",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_3",
+			"date_added": 1470926682
+		},
+		{
+			"comment_id": 9,
+			"body": "\"Banned from Twitter?  Facebook removing your posts?  Then ZeroMe is for you!\"",
+			"post_uri": "1EZG8eDkCFvNkYxpHmr2WbGWcSxAsRfqTT_2",
+			"date_added": 1470935367
+		},
+		{
+			"comment_id": 10,
+			"body": "Why doesn't the else statement on line 53 of ContentManager.py execute in this situation?",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_6",
+			"date_added": 1470982528
+		},
+		{
+			"comment_id": 11,
+			"body": "@Nofish: Ok, gotcha.  ",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_7",
+			"date_added": 1471109977
+		},
+		{
+			"comment_id": 12,
+			"body": "@Nofish: Oh, too bad.  I'll make the bot if anybody wants to volunteer to hook it up to Twitter.  I was also thinking of having it look for strings like \"@ZeroTweet add @Celebrity\", creating a new user ZeroCelebrity or whatever, and copying @Celebrity's tweets here.  If anybody wants to collaborate on this, hit me up: \n\nBM-2cWU6zzEGu7eyqgJLtcq6v8GTkeg9k3Rsd",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_9",
+			"date_added": 1471111999
+		},
+		{
+			"comment_id": 13,
+			"body": "@Klaus Jónsson Zimmermann: Definitely agree.",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_8",
+			"date_added": 1471129097
+		},
+		{
+			"comment_id": 14,
+			"body": "@Nofish: I don't understand.  ZeroNet itself is based on signing hashes of the files on a site.  If you get the address right, you can be sure (under standard assumptions) you are running the code that the key holder published.  A user running zeronet can compute the sha512 hashes of their plugin files and check them against hashes published by the site operator in the same way they check the hashes of the other files bundled with a site.  If the user trusts the site, then they can trust plugins with hashes signed by the site.  ",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_12",
+			"date_added": 1471130714
+		},
+		{
+			"comment_id": 15,
+			"body": "@Nofish: Oh, I think I see what you mean.  Of course, the user can run whatever they want and lie about what they are running.  I was thinking this would be a way to help protect non-technical users from an attack by plugin spoofing.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_12",
+			"date_added": 1471131001
+		},
+		{
+			"comment_id": 16,
+			"body": "@Klaus Jónsson Zimmermann: There is a lot of interest.  I bet you won't have to wait long for features like these.",
+			"post_uri": "15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT_3",
+			"date_added": 1471131224
+		},
+		{
+			"comment_id": 17,
+			"body": "@Klaus Jónsson Zimmermann: Except all you could do with Play was click around for a few minutes (and then occasionally if you want something).  I'm having lots of fun keeping this thing open all the time!",
+			"post_uri": "1EN9Ape9Gbe2FAcP8qNWsyvg7x7z92LhA7_2",
+			"date_added": 1471131462
+		},
+		{
+			"comment_id": 18,
+			"body": "@Kaffie: Let me clarify.  The hub is not the store.  It is just an arbitrary collection of shoppers.  Calling the hub shopper_cluster_18B4 makes it sound about right.  I was thinking that Me.ZeroNetwork.bit would play the role of the store.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_13",
+			"date_added": 1471149794
+		},
+		{
+			"comment_id": 19,
+			"body": "@Kaffie:  As far as I understand, the db is created by the local ZeroNet process.  (Right?)  No address connected to me appears in any file listed in ZeroMe's content.json",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_13",
+			"date_added": 1471149952
+		},
+		{
+			"comment_id": 20,
+			"body": "@Kaffie:  Also, couldn't a hub also provide certificates to its users?  If they want to be anonymous, it could simply assign them a random string as a username.  It is already possible to link them to the hub, so this would provide no additional information.  On the other hand, I am not sold on the necessity of having a user name signed by some site in order to use a store.  ",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_13",
+			"date_added": 1471150125
+		},
+		{
+			"comment_id": 21,
+			"body": "Self-publishing has its shortcomings!",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_14",
+			"date_added": 1471219795
+		},
+		{
+			"comment_id": 22,
+			"body": "If anybody manages to get the complete site, do let me know.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_14",
+			"date_added": 1471219827
+		},
+		{
+			"comment_id": 23,
+			"body": "@Jayofthezero: I'm glad to hear that its working!  I'll add a notification to the little site above that will work until there is something more official.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_14",
+			"date_added": 1471221434
+		},
+		{
+			"comment_id": 37,
+			"body": "Please share if you have any constructive criticism of my coding.  I am not a professional.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_16",
+			"date_added": 1471237180
+		},
+		{
+			"comment_id": 38,
+			"body": "Maybe this is gratuitous but here is the link again --\nhttp://127.0.0.1:43110/1JouSggdhsEZ9tWN5oiQArjdAA8wkCcxuR",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_16",
+			"date_added": 1471241665
+		},
+		{
+			"comment_id": 39,
+			"body": "@Bot: Thanks!  I am a bit of a beginner, I don't know how to go about adding unicode support.  I'll make the site cloneable in case anybody wants to set up a copy and play around.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_14",
+			"date_added": 1471244997
+		},
+		{
+			"comment_id": 44,
+			"body": "@Jayofthezero: It is supposed to check for new mentions every minute and post them with a new style.  I'll see about saving state.  I can also have it autodetect you by making you log in with zeroid.  Stay tuned.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_16",
+			"date_added": 1471281557
+		},
+		{
+			"comment_id": 45,
+			"body": "@Nofish: Yeah, true.  Mostly, this just saves me a headache if I wind up downloading a hub configured to merge with itself.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_17",
+			"date_added": 1471285018
+		},
+		{
+			"comment_id": 56,
+			"body": "@Nofish: Okay, I'm looking forward to your updates :)",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_17",
+			"date_added": 1471292885
+		},
+		{
+			"comment_id": 57,
+			"body": "@Nofish: I really don't know what I am doing, so I probably shouldn't post my hacks!  It is really exciting to try to contribute, though.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_17",
+			"date_added": 1471293155
+		},
+		{
+			"comment_id": 70,
+			"body": "@Bot: It's totally cool!  I support your efforts to understand and build.  Anyway, it looks like I ended up causing @nofish a small headache with this post!",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_17",
+			"date_added": 1471356466
+		},
+		{
+			"comment_id": 72,
+			"body": "@Jayofthezero: You can search hashtags on my site (http://127.0.0.1:43110/1JouSggdhsEZ9tWN5oiQArjdAA8wkCcxuR/) now.  It is still quite raw (mostly built for practice) but I do hope to add links to the posts soon.",
+			"post_uri": "15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT_4",
+			"date_added": 1471412634
+		},
+		{
+			"comment_id": 79,
+			"body": "@Truth: It is not a hub.  It is a merger site.  Before you grant the site permission to merge with your hubs (i.e. import data and write to your user files), make sure that you trust the code.  After all, I could be an asshole who made a site that deletes all of your posts, comments, and likes as soon as you merge my site with your hubs!",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_20",
+			"date_added": 1471459892
+		},
+		{
+			"comment_id": 80,
+			"body": "@AdamTheVictini: Zeroworld is getting better all the time  =)",
+			"post_uri": "1EUPVGpbRtHWnAQSpjd5ceAj2jGfESVyVb_2",
+			"date_added": 1471460212
+		},
+		{
+			"comment_id": 81,
+			"body": "@Kaffie: I'd like to discuss this more.  First of all, the database is constructed by the ZeroNet process and managed at runtime.  We can ignore it completely.  To do harm, I would need to be able to write and sign `merged-ZeroMe/data/users/UserAddress/data.json`. \n\nLooking at ContentManager.py it seems that a user's own address is always added to the signers array unless the user is banned.  So ultimately, when the SiteManager requests the list of valid signers, it seems that it always gets at least the user's own address.\n\nIf I can get the user to download and run the scripts on my hypothetical malicious site then I can have the user's process make fileWrite calls and modify the above data.json file, signing the result.\n\nI think the only check that the user is signed in to (e.g. ZeroID.bit) is in the js on ZeroMe.  Confirm?",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_20",
+			"date_added": 1471474606
+		},
+		{
+			"comment_id": 82,
+			"body": "@Kaffie: Wow, thanks for the nice response!\n\n As far as I understand, calling fileWrite with inner_path = \"merged-[type]/path\" automatically performs the operation on [hubsite]/path.  Confirm?\n\nLet me regurgitate some of what you have said in my own words.  It seems that when a user selects their identity upon login, they are setting the key to use to sign content on the site.  All content in ZeroMe is signed with e.g. ZeroID, so in order to modify content a site has to request the ZeroID key used to sign the content in the first place.  As you pointed out, a malicious site has to trick the user into passing it the ZeroID key before it can do any damage.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_20",
+			"date_added": 1471476598
+		},
+		{
+			"comment_id": 83,
+			"body": "@Bot: Thanks for suggesting it!  I cleaned up the code quite a bit and it should be easy to modify and add to a new site.  If anyone has any suggestions for improvements, give me a shout out.  #ZeroMeMentions",
+			"post_uri": "15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT_4",
+			"date_added": 1471477216
+		},
+		{
+			"comment_id": 84,
+			"body": "Hang in there!",
+			"post_uri": "19SbSoytV8aD6GtpJi9F6RDSnGzunYgYzo_6",
+			"date_added": 1471477571
+		},
+		{
+			"comment_id": 89,
+			"body": "@Tkarita: Oh haha.  I made a bot hub for them: http://127.0.0.1:43110/1JUDmCT4UCSdnPsJAHBoXNkDS61Y31Ue52/  so people can opt in to the experiment.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_25",
+			"date_added": 1471656610
+		},
+		{
+			"comment_id": 90,
+			"body": "For example: http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Profile/1JUDmCT4UCSdnPsJAHBoXNkDS61Y31Ue52/1DtTF9bsZgRRsqvsZo2V88rHRDz1rutWgr/theterminator@zeroid.bit",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_25",
+			"date_added": 1471656774
+		},
+		{
+			"comment_id": 91,
+			"body": "@Kaffie: I hope so!",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_25",
+			"date_added": 1471656864
+		},
+		{
+			"comment_id": 92,
+			"body": "@Tkarita: Weird.  I wonder why!",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_25",
+			"date_added": 1471657523
+		},
+		{
+			"comment_id": 93,
+			"body": "@Tkarita: They are posting comments to the Bot Hub (see below).",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_25",
+			"date_added": 1471657739
+		},
+		{
+			"comment_id": 94,
+			"body": "@Kaffie: Okay fantastic.  Thanks!  I didn't know that.  I'll update the bots so they post to the hub which hosts the post.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_25",
+			"date_added": 1471660712
+		},
+		{
+			"comment_id": 95,
+			"body": "@scoobydoovillain",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_25",
+			"date_added": 1471704439
+		},
+		{
+			"comment_id": 96,
+			"body": "@nietzsche",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_25",
+			"date_added": 1471709763
+		},
+		{
+			"comment_id": 97,
+			"body": "@janeeyre",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_25",
+			"date_added": 1471710049
+		},
+		{
+			"comment_id": 98,
+			"body": "You might be able to automate the process by using my bots.  I am no expert, so there is probably a *ton* of room to improve the code.  If you are interested here is the pack: http://127.0.0.1:43110/1JjHyLeEDidHyyN33Y8f8cQKVEzWCEPnW7/RobotPack.0.3.tgz",
+			"post_uri": "1CFhytwoGGPNqmueehPqotaf2iG9uxD98e_13",
+			"date_added": 1471735286
+		},
+		{
+			"comment_id": 99,
+			"body": "@theterminator #ZeroMeBots",
+			"post_uri": "1CFhytwoGGPNqmueehPqotaf2iG9uxD98e_13",
+			"date_added": 1471735303
+		},
+		{
+			"comment_id": 100,
+			"body": "@Method-X: You have no idea of what I am capable!",
+			"post_uri": "1CFhytwoGGPNqmueehPqotaf2iG9uxD98e_13",
+			"date_added": 1471736002
+		},
+		{
+			"comment_id": 101,
+			"body": "@Dios: It seems to me that problems involving switching hubs has to do with the way ZeroMe is setup rather than the way merger sites are set up.  A torrent database of type merger-TorrentDB or whatever can organize itself however it wants.  For example, the interface could prompt the user to choose an appropriate hub for each submission or better yet, simply ask the user to set some flags and then put that one submission on the hub for those flags.",
+			"post_uri": "1CFhytwoGGPNqmueehPqotaf2iG9uxD98e_13",
+			"date_added": 1471749262
+		},
+		{
+			"comment_id": 102,
+			"body": "It would be useful if we could (A) filter the post/activity feeds by hashtags, (B) save filters to make it easy to check up on tagged discussions, and (C) apply all hashtags from the active filter to each new post (perhaps with little x's to clear them).  Keep up the good work!",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_13",
+			"date_added": 1471799774
+		},
+		{
+			"comment_id": 103,
+			"body": "@Nofish: Oh, okay, I didn't know that old posts are purged.  Thanks for the quick reply.",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_13",
+			"date_added": 1471801545
+		},
+		{
+			"comment_id": 104,
+			"body": "@Andrewm: Yeah, I agree.  I heard some people talking about organizing the db by running a hub for each content type.  So links to movies might be on one hub and porn on another (or there could be a hub for each pair (movie,language), etc.).  ",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_30",
+			"date_added": 1471803503
+		},
+		{
+			"comment_id": 105,
+			"body": "@Tkarita: Thanks for letting me know about these projects.  @nofish shared some thoughts on the one-item-per-site model in the merger site discussion https://github.com/HelloZeroNet/ZeroNet/issues/232#issuecomment-208942507 .  The cost/benefit analysis there largely applies in this situation as well.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_30",
+			"date_added": 1471872488
+		},
+		{
+			"comment_id": 106,
+			"body": "@Tkarita: I'm afraid I know next to nil about the networking part of ZeroNet!",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_30",
+			"date_added": 1471884953
+		},
+		{
+			"comment_id": 107,
+			"body": "I switched from Ubuntu to Arch last year.  It was not a completely smooth transition.  Now I'm a happy Arch user and I know so much more about how linux works!",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_102",
+			"date_added": 1471889413
+		},
+		{
+			"comment_id": 108,
+			"body": "@kaffie @nofish @tkarita",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_31",
+			"date_added": 1471889703
+		},
+		{
+			"comment_id": 109,
+			"body": "@Dergatt: I hear you!  I started keeping a log of the things I had to learn, so that I would not have rely so much on my poor wetware.",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_102",
+			"date_added": 1471889735
+		},
+		{
+			"comment_id": 110,
+			"body": "Me too! @scoobydoovillain",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_98",
+			"date_added": 1471889893
+		},
+		{
+			"comment_id": 111,
+			"body": "@Nofish: The follow button on my profile page?",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_31",
+			"date_added": 1471890298
+		},
+		{
+			"comment_id": 112,
+			"body": "@Method-X: Great question.  One option is to include a list of approved escrow addresses in the store data.  Then when the client constructs a cc multisig transaction they can use the escrow address as well as the seller's address.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_32",
+			"date_added": 1471890438
+		},
+		{
+			"comment_id": 113,
+			"body": "@Nofish: This is hilarious.  At my browser resolution, the 3dot menu is hidden behind the (0) menu!  I didn't see it until I looked closely upon reading your comment.  Thanks, dude!",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_31",
+			"date_added": 1471890698
+		},
+		{
+			"comment_id": 114,
+			"body": "@Musickiller: It is very important during this rite of passage to feel a little bit stressed about aic and wd.",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_98",
+			"date_added": 1471892956
+		},
+		{
+			"comment_id": 115,
+			"body": "@Method-X: Yes indeed.  That's a good point.  I am definitely not a lawyer and I don't know how far the DOJ might go to set examples if people set up ways to get around barriers to voluntary exchange that the state cannot destroy or control.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_32",
+			"date_added": 1471894850
+		},
+		{
+			"comment_id": 116,
+			"body": "@Method-X: Also, there is a key distinction between sites like Silk Road and what I am interested in creating.  I am proposing a standard for a merger-type.  It is not even a site itself, but rather a standard for storing the data that any marketplace would need.  Then whoever has the desire could set up hubs and fronts for the system by cloning or developing their own.  It is unlikely that I would run either a hub or a front although I might code up demos that could be cloned.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_32",
+			"date_added": 1471895341
+		},
+		{
+			"comment_id": 117,
+			"body": "@Edantes: As @Method-X said, in order to compromise you, the site you visit needs to be running a malicious script.  How do you know that a site you want to visit is not running a malicious script?  I think I remember @nofish hinting that in a future version of ZeroNet, you will be able to download a site and take a look at the code before running it.  Still, how do you know that a site owner won't update the code to add something malicious?  One solution to this is to extend ZeroNet to ask for confirmation before updating certain files.  Take ZeroMe for example.  This feature might ignore all updates to user content, but if one of the core site files like all.js changes, it would notify you of the new SHA512 of the file and ask if you want to update.  You could then ask around to see if the update is legit and confirm the hash before updating.\n\nConcerning implementation, a ZeroTalk clone could certainly take off if there is enough demand.  However, there are certain things like payments, feedback, organizing listings, etc. that one wants to optimize in a marketplace.  So I think it is a good idea to hold off and try to build a new app.  \n\nThe DIY swapmeet structure is what I have in mind.  I envision large hubs with many users.  Hub owners could set rules for which stores may operate on their hub.  For example, if I ran a hub I would forbid my stores from selling anything connected to violence like assassinations, child porn and sex slavery, etc.  (One property of this system would be that since I could not see what my users were buying, it would not be possible to filter them.)  Reputable hubs could even charge a small fee to stores for a certificate from the hub.  \n\nThere are economic ways to deal with scamming.  Any ZeroNet marketplace would have to have a reputation system.  There is a lot of academic research on the best ways to set up such a system.  I am thinking about whether it is workable to have sellers offer buyers a rebate if they leave feedback.  Anyway, a seller with no reputation or with a bad reputation would probably offer goods at a lower price to offset the risk.  Then as their reputation improved they could begin to charge a premium for their brand.\n\n> bitcoin multisig is a hassle for most people\nThis is another reason to set up a marketplace app instead of adapting something like ZeroTalk.  It is possible to construct a multisig wallet in JavaScript.  So when a user wants to buy something, they start by picking their escrow agent (listed by reputation/fee or something) from a list.  Then a script on the page generates a 2-of-3 wallet, gives the user their signing key, and they fund it.  (Assumption: ZeroNet marketplace users can send cryptocurrency to a cryptocurrency address.)  ",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_32",
+			"date_added": 1471957376
+		},
+		{
+			"comment_id": 118,
+			"body": "@Nofish: Okay, I see.  This idea needs to become more widely known.  Let's say you have never been to a site before.  Is there a way to download it and look over the code before you display it and execute the scripts?",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_32",
+			"date_added": 1471959038
+		},
+		{
+			"comment_id": 119,
+			"body": "@Nofish: Hell yes.  It's so easy!  Thanks man.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_32",
+			"date_added": 1471959415
+		},
+		{
+			"comment_id": 120,
+			"body": "@Antyhrabia: Seconded.",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1472125276",
+			"date_added": 1472131333
+		},
+		{
+			"comment_id": 121,
+			"body": "@Dios: Somehow I wound up deep in 1Red territory!",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1472167463",
+			"date_added": 1472220530
+		},
+		{
+			"comment_id": 122,
+			"body": "It is hard to glean from the SuperNet website what exactly it does.  Can you summarize?  Also, you might be interested in BitSquare as an example of P2P exchange software.",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1472426302",
+			"date_added": 1472430098
+		},
+		{
+			"comment_id": 123,
+			"body": "Is there any advantage to exchanging CC1 and CC2 this way rather than directly (using atomic transfers or otherwise)?",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1472472151",
+			"date_added": 1472476630
+		},
+		{
+			"comment_id": 124,
+			"body": "Ok, (1) is done.  What would you recommend for (2)? #ZeroMeMentions",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1472556744",
+			"date_added": 1472564098
+		},
+		{
+			"comment_id": 125,
+			"body": "@Musickiller: I am always wary of the so-called app-coins, since they come with a huge pump+dump moral hazard for developers and early adopters.   [Atomic transfer protocols](https://en.bitcoin.it/wiki/Atomic_cross-chain_trading) give a way for people to trustlessly trade across blockchains.  It helps if the blockchains support BTC-level scripting, but atomic transfers are possible without it.   In this particular case, it is not necessary to have a third coin so I wonder why the SuperNET people didn't work on making some form of direct, trustless coin transfer more convenient.",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1472472151",
+			"date_added": 1472565651
+		},
+		{
+			"comment_id": 126,
+			"body": "@Blids: If you want to search for #hashtags (or look at other users' @mentions) you can do so on [ZeroMeMentions](http://127.0.0.1:43110/1JouSggdhsEZ9tWN5oiQArjdAA8wkCcxuR/). People are not using hashtags much at the moment.  #ZeroMeMentions",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1472462658",
+			"date_added": 1472576264
+		},
+		{
+			"comment_id": 127,
+			"body": "@Durand: We would want a client that can publish files to the network as well as leech.  Otherwise users would not be able to interact with the network.  Users who are not interested in interacting with ZeroNet sites using a persistent identity (or one they control exclusively) can already visit one of the proxies.  I think you are on to something, although (as explained in the ZeroTalk post) I think it would be a good idea to have a  web portal (with many mirrors) for access in addition to apps.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473431870",
+			"date_added": 1473438781
+		},
+		{
+			"comment_id": 128,
+			"body": "@Durand: This is exactly what I have in mind in the app case.  Your phrase 'proxy peer' captures it perfectly!  Did you take a look at the linked thread on ZeroTalk?",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473431870",
+			"date_added": 1473444471
+		},
+		{
+			"comment_id": 129,
+			"body": "@Execin: Sure, but I would like to make it as easy as possible for average people to get to ZeroNet and check it out.  See the post linked above.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473431870",
+			"date_added": 1473449819
+		},
+		{
+			"comment_id": 130,
+			"body": "@Shellbound: No matter what key is used for signing, the problem is that either you sign data yourself (or collaborate on a signature) or you hand the key to somebody else to sign it for you.  If you send your e.g. Tablet01 key to a server, then the owner of the server could sign anything else they like.   So signing functionality has to be implemented in the client itself.  That being said, it might be good practice to use a different derived key for each client.  Then client keys could be revoked in case of a compromise.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473431870",
+			"date_added": 1473460339
+		},
+		{
+			"comment_id": 131,
+			"body": "@Shellbound: Oh, okay, gotcha.  I have a first time user in mind who hears about ZeroNet at a bar and wants to get started.  (Assume for a moment that they understand the implications of using a private key that was generated by some random server.) ",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473431870",
+			"date_added": 1473463812
+		},
+		{
+			"comment_id": 132,
+			"body": "@Execin: Please see the (second) reply to Shellbound below or the reply to ks in the ZeroTalk thread. ",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473431870",
+			"date_added": 1473476685
+		},
+		{
+			"comment_id": 133,
+			"body": "@Shellbound: It is hard to believe that a new nontechnical user would be happier to install and configure a server on his home pc in order to use ZeroNet on mobile than to simply fool around with the existing bundle.  What about the hypothetical user who wants to play with ZeroNet for 10 minutes while at a bar?  It is great if they are intrigued enough to remember it when they get home, but they might need to experience it first before they get that excited.  Maybe it is enough to experience using a throwaway account on a proxy for the first session.  Maybe the user starts running a ZeroNet peer.  Then what do they do if they want to use ZeroNet when they are out?  Only a small subset of the people who would find ZeroNet interesting enough to use would be also willing to learn how and set up one of the excellent solutions that all of my technically inclined friends here have suggested.  Everyone else is stuck using ZeroNet at home on their desktop.  Ultimately I think this is bad for ZeroNet.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473431870",
+			"date_added": 1473516989
+		},
+		{
+			"comment_id": 134,
+			"body": "@Shellbound: I'm sure what you have in mind could be made very easy to use.  However, I don't think it solves the same problem that I want to solve.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473431870",
+			"date_added": 1473528817
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1470886365
+		},
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN",
+			"user_name": "ZeroMonster",
+			"date_added": 1470886371
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ",
+			"user_name": "Musickiller",
+			"date_added": 1470921637
+		},
+		{
+			"follow_id": 4,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1L1RLoEsVMEa18PKD22bthXAPGDFwYeq4v",
+			"user_name": "Gimli",
+			"date_added": 1470923584
+		},
+		{
+			"follow_id": 5,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv",
+			"user_name": "Aizen123",
+			"date_added": 1470926715
+		},
+		{
+			"follow_id": 6,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EZG8eDkCFvNkYxpHmr2WbGWcSxAsRfqTT",
+			"user_name": "Riotpulv",
+			"date_added": 1470935416
+		},
+		{
+			"follow_id": 7,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib",
+			"user_name": "megfault",
+			"date_added": 1470974227
+		},
+		{
+			"follow_id": 8,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1470978607
+		},
+		{
+			"follow_id": 9,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1BTK7LKA1LrvCjNqVrPmBtySWhSaHnG97Q",
+			"user_name": "HrnekBezucha",
+			"date_added": 1471131403
+		},
+		{
+			"follow_id": 10,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT",
+			"user_name": "Klaus Jónsson Zimmermann",
+			"date_added": 1471131408
+		},
+		{
+			"follow_id": 11,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f",
+			"user_name": "Kaffie",
+			"date_added": 1471132900
+		},
+		{
+			"follow_id": 12,
+			"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
+			"auth_address": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb",
+			"user_name": "ɃǾȾ",
+			"date_added": 1471285522
+		},
+		{
+			"follow_id": 17,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t",
+			"user_name": "tkarita",
+			"date_added": 1471711334
+		},
+		{
+			"follow_id": 18,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne",
+			"user_name": "Jayofthezero",
+			"date_added": 1471886900
+		},
+		{
+			"follow_id": 19,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1471890237
+		},
+		{
+			"follow_id": 20,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx",
+			"user_name": "ks",
+			"date_added": 1473435728
+		},
+		{
+			"follow_id": 21,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9",
+			"user_name": "Shellbound",
+			"date_added": 1473530317
+		},
+		{
+			"follow_id": 22,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC",
+			"user_name": "Firebox",
+			"date_added": 1473629795
+		}
+	]
+}

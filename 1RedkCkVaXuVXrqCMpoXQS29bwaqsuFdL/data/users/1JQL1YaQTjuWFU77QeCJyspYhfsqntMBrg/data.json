@@ -1,0 +1,40 @@
+{
+	"next_post_id": 4,
+	"next_comment_id": 1,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Pizdets",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"intro": "Not So Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471382425,
+			"body": "What R U ZeroMe?"
+		},
+		{
+			"post_id": 2,
+			"body": "something...",
+			"date_added": 1471382507
+		},
+		{
+			"post_id": 3,
+			"body": "how can I follow myself?\n",
+			"date_added": 1471382580
+		}
+	],
+	"post_like": {
+		"1JQL1YaQTjuWFU77QeCJyspYhfsqntMBrg_2": 1471382522,
+		"1JQL1YaQTjuWFU77QeCJyspYhfsqntMBrg_1": 1471382523
+	},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1JQL1YaQTjuWFU77QeCJyspYhfsqntMBrg",
+			"user_name": "Pizdets",
+			"date_added": 1471382529
+		}
+	]
+}

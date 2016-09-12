@@ -1,0 +1,44 @@
+{
+ "address": "1HNf26SK9Hi9LES1kUKg6r36hDwhBdNBKM",
+ "address_index": 92835996,
+ "background-color": "#F2F4F6",
+ "cloneable": true,
+ "cloned_from": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+ "description": "Say hi and clone me",
+ "files": {
+  "css/all.css": {
+   "sha512": "668f57adcbc80a0b7a2a7fbbd8f95207f34afc331530e0688f1609f1731a59cb",
+   "size": 38071
+  },
+  "data-default/users/content.json-default": {
+   "sha512": "a3ebbc7980f29109494f4d55d61fead9105000fe5286a02a56fe88cd19271a7d",
+   "size": 962
+  },
+  "index.html": {
+   "sha512": "7de3ea32fdd3741a947128e78d6884a8106d0b6b3a95a0109c39a486b69f27ee",
+   "size": 3609
+  }
+ },
+ "ignore": "((js|css)/(?!all.(js|css))|data/.*db|data/users/.*/.*)",
+ "includes": {
+  "data/users/content.json": {
+   "signers": [],
+   "signers_required": 1
+  }
+ },
+ "inner_path": "content.json",
+ "merged_type": "ZeroMe",
+ "modified": 1472934656.646046,
+ "postmessage_nonce_security": true,
+ "sign": [
+  35366985345970881446157239651121925745934711415373063399715005369090202960892,
+  108345608391747085672970720505796968640895304596587622963816755855695326007030
+ ],
+ "signers_sign": "G/yme8C3Po2uVaOp6VPmaGyRCCKOJukqHYH6z7sJHZ4EVBUtYT31h78QNrNX2IlNIAsBdRnANgqo/24K0Agpa20=",
+ "signs": {
+  "1HNf26SK9Hi9LES1kUKg6r36hDwhBdNBKM": "G9m8TPfyFHtFCYbXFVE6Gepkv6mBriATOqViZqyDVy6Z84MbKzHD+hg1wggtV93qwoOQ70YXa6V1BjXviplUuOo="
+ },
+ "signs_required": 1,
+ "title": "hi/ hub",
+ "zeronet_version": "0.4.0"
+}

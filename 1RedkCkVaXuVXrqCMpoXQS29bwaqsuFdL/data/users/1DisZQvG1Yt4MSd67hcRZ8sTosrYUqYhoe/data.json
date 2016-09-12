@@ -1,0 +1,34 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 2,
+	"next_follow_id": 2,
+	"avatar": "jpg",
+	"user_name": "Hyperion",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"intro": "“Wie ein heulender Nordwind, fährt die Gegenwart über die Blüten unsers Geistes und versengt sie im Entstehen.”\n\n    Friedrich Hölderlin, Hyperion -\n\n",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471127632,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "indeed, very good",
+			"post_uri": "1EN9Ape9Gbe2FAcP8qNWsyvg7x7z92LhA7_2",
+			"date_added": 1471131323
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LFxK1BSHEnkJcXXb4qGszVUxEwqLVSJU8",
+			"user_name": "Hermes32",
+			"date_added": 1471129707
+		}
+	]
+}

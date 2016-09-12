@@ -1,0 +1,17 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "HP1jjTkX9ztZg3P1sfJ+tCWK0iDKtVIfzl9+LsiQ7k7GJ75+xjp2xnZ8DloFo/PmfG0Nr3wBo3UjD/2QN2yulvM=",
+ "cert_user_id": "nvidia@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "47eb010170696a25289f14129d829bee196ada22bc05e13daf1c88dbc3911c59",
+   "size": 338
+  }
+ },
+ "inner_path": "data/users/1N8RC8Ht41hUUk8jz1pzyr4zBRhM7qJjdv/content.json",
+ "modified": 1472297124.303661,
+ "signs": {
+  "1N8RC8Ht41hUUk8jz1pzyr4zBRhM7qJjdv": "HMLuMz58pcIOAA0F7o2XPI3XP0aFkepIwgxhfqfv9/ZnYjV0Yiy0omgvW5I6LgTxPPVQ4kG8WjJXaTgKfr5DKeY="
+ }
+}

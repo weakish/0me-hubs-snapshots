@@ -1,0 +1,44 @@
+{
+	"next_post_id": 4,
+	"next_comment_id": 1,
+	"next_follow_id": 3,
+	"avatar": "generate",
+	"user_name": "210",
+	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1472771483,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1472771499,
+			"body": "Hi? ",
+			"date_added": 1472771497
+		},
+		{
+			"post_id": 1473344988,
+			"body": "is this supposed to be kind of like a twitter?",
+			"date_added": 1473344985
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1Bf1osWYBVpnhp3WhDiLrSXKBxJmZ2vk3E",
+			"user_name": "210",
+			"date_added": 1473345020
+		},
+		{
+			"follow_id": 2,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1CKA5cKZ2nmcXGSZcWKbzHUHu1UmJrkzAT",
+			"user_name": "Lugarius",
+			"date_added": 1473345038
+		}
+	]
+}

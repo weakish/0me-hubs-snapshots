@@ -1,0 +1,145 @@
+{
+	"next_comment_id": 23,
+	"user_name": "Jayofthezero",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"post_like": {
+		"1JoKQwXPzK8uyvMCRcwvMSAJPD5S4aH5Vt_3": 1471872745,
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_18": 1472757847,
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472766375": 1472766533,
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472814540": 1472823989
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Because Kaffie is awesome!",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_10",
+			"date_added": 1471366912
+		},
+		{
+			"comment_id": 2,
+			"body": "@Arne Bolen: Probably looked at the hub files.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_10",
+			"date_added": 1471367124
+		},
+		{
+			"comment_id": 3,
+			"body": "And this is an issue why?",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_4",
+			"date_added": 1471367397
+		},
+		{
+			"comment_id": 4,
+			"body": "@Alex (Bwoi): True, though since people' usernames are displayed on most Zeronet sites anyway the risk of spam already existed.\n\nZeromail is also just a proof of concept too. If you can make a more secure messaging site I'd love to use it.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_4",
+			"date_added": 1471368790
+		},
+		{
+			"comment_id": 5,
+			"body": "You can also load your site through a few of the proxies to get them to seed your site a bit.",
+			"post_uri": "1PoiRFseXaeGhnj2mpwS3xiXVrUd8noRLW_3",
+			"date_added": 1471467117
+		},
+		{
+			"comment_id": 6,
+			"body": "Besides nodes to help discover peers, all the site's actual data is stored by the users using it. We all then constantly keep in check with each other to make sure we have the latest data and updates for a site.\n\nThough ZeroMe is a bit different in that it uses a new feature called \"Merge\" that allows it to connect to \"hubs\" that store all the user data, comments, posts, likes, etc. So basically ZeroMe is just a front-end for the hubs, and doesn't store any data beyond what's needed to display all of the hub data. This means you can clone and modify ZeroMe to make your own version, but since they still use the same hubs, the clones can still communicate with normal ZeroMe users. You can see this in action by visiting my \"Dark ZeroMe\" that you can find a link to in my profile.",
+			"post_uri": "1JbbLwRjvoa3WnK9dp8DJuiLG4ywkeuuLx_2",
+			"date_added": 1471467635
+		},
+		{
+			"comment_id": 7,
+			"body": "When you mark something as \"My Site\" it doesn't actually do anything except enable extra \"dev options\" as I'd call them. Basically allowing you to manually change files and then resign them, before publishing the changes to the network. This can be anything from manually modifying your comments stored in your ZeroMe data.json, to a whole site you created from scratch.",
+			"post_uri": "1BBCbDdZtZ5ZJGhF2WcMRcn3FEKQ7PaoMS_3",
+			"date_added": 1471485728
+		},
+		{
+			"comment_id": 8,
+			"body": "Ah, I remember that show. I found it interesting how they turned the JSDF into the bad guys. Complete opposite of the recent Gate show where it was basically glorifying JSDF and Japan. Though Outbreak Company's MC annoyed me at times.",
+			"post_uri": "13pAK1jj4Qwt56ytnn5BorrMfHA7J3Nc8C_1471962306",
+			"date_added": 1471986814
+		},
+		{
+			"comment_id": 9,
+			"body": "No offense meant, but it's at this point where you need to ask yourself if it would just be better to post something this long on a blog and then link it here.\n\nAt least until @Nofish adds post collapsing.",
+			"post_uri": "18WFCAqYM3Kdhm5qskvR1rS3REQVZGjiHe_2",
+			"date_added": 1471987038
+		},
+		{
+			"comment_id": 10,
+			"body": "It does get old after seeing the 100th+ user sign-up and say the same thing automatically :P",
+			"post_uri": "1FS2NkaN4g8HvYZkkRCVY1iWmV71tJU6n2_1",
+			"date_added": 1472055559
+		},
+		{
+			"comment_id": 11,
+			"body": "Don't know about static Wiki generators, but there is http://127.0.0.1:43110/ZeroWiki.bit that you can clone. Though I'm guessing you don't want something other people can edit so it might not be suitable for you.",
+			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1472088387",
+			"date_added": 1472088768
+		},
+		{
+			"comment_id": 12,
+			"body": "I'm doing fine. Just having Musickiller's posts clogging my feed so I missed your post, but all good XD",
+			"post_uri": "1H5VKNWtkBA7RpJWyYuFw5bqjwbgjXoqKp_1472103682",
+			"date_added": 1472163481
+		},
+		{
+			"comment_id": 13,
+			"body": "@Unanimous: The play-by-plays of his adventures trying, and seeming to fail repeatedly, to setup Arch on his PC are entertaining at least :)",
+			"post_uri": "1H5VKNWtkBA7RpJWyYuFw5bqjwbgjXoqKp_1472103682",
+			"date_added": 1472189130
+		},
+		{
+			"comment_id": 14,
+			"body": "Your \"username\" is actually a private key that is generated and stored in `ZeroNet/data/users.json`. So if you want to login on another computer you have to copy the `users.json` file over. This also means that if you loose your `users.json` file, you permanently loose access to your accounts and sites.",
+			"post_uri": "161PCrxHPg6RVU2o83863vKy1NoZi59hMq_1472744124",
+			"date_added": 1472757247
+		},
+		{
+			"comment_id": 15,
+			"body": "I'm sorry you went through that, and I wish you luck with your future projects.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_18",
+			"date_added": 1472757899
+		},
+		{
+			"comment_id": 16,
+			"body": "Welcome",
+			"post_uri": "1FE7qxxvZDhoyhpadqWNCgT9X96hEQKEYM_1",
+			"date_added": 1472758930
+		},
+		{
+			"comment_id": 17,
+			"body": "Quick, what is it? \n\n/jk\nSeriously, don't tell me. I like surprises.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472766375",
+			"date_added": 1472766530
+		},
+		{
+			"comment_id": 18,
+			"body": "@Alex: YAY! Ｏ(≧∇≦)Ｏ",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472766375",
+			"date_added": 1472766645
+		},
+		{
+			"comment_id": 19,
+			"body": "@Loadingpencils: Notifications appear in the news feed in the \"Hello ZeroNet\" homepage. You can choose what you get notified about by clicking the three-dot menu in the top-right of ZeroMe. You can also follow certain posts by hovering over the top of a post and clicking the three-dot menu that appears in the top-right.",
+			"post_uri": "12dv1wJcRnhqfDtwxuqbV7tWxCgUVNxqoG_1",
+			"date_added": 1473258282
+		},
+		{
+			"comment_id": 20,
+			"body": "@Loadingpencils: Technically, both ways actually work, though I'm not sure if that's the intended behavior or a convenient bug.",
+			"post_uri": "12dv1wJcRnhqfDtwxuqbV7tWxCgUVNxqoG_1",
+			"date_added": 1473279442
+		},
+		{
+			"comment_id": 21,
+			"body": "Think of hubs as basically databases where user data is stored. They contain all the likes, comments, and posts for users. When you first use ZeroMe the first hub you pick is the one where your main data is stored and people will have to download that hub in the future if they want to see any of your content. This helps prevent keeping all the data in one basket. And as each hub has a limit to how much storage space each user gets you can switch your main hub in the future and continue posting without having to delete your previous content. All your content is still linked to you even if it's in different hubs.",
+			"post_uri": "1E6445dsLtDSjpPuhFaSjrH3ZbBgChWbTj_1473269670",
+			"date_added": 1473280181
+		},
+		{
+			"comment_id": 22,
+			"body": "Also look into the merge sites feature of Zeronet.",
+			"post_uri": "1NhDPqhia3TEmpsa2n6qa7rDv4XLvohRv3_1473301666",
+			"date_added": 1473356334
+		}
+	]
+}

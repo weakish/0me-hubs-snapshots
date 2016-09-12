@@ -1,0 +1,143 @@
+{
+	"next_comment_id": 23,
+	"user_name": "P2P",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"post_like": {
+		"16nArdxrSaNThNp83kL8E6NLL9WD98iUne_14": 1471579663,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1471961979": 1471966501
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@ks: allowing external pics may have privacy issue IMO. ",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_4",
+			"date_added": 1471059907
+		},
+		{
+			"comment_id": 2,
+			"body": "i did not  see @Prexxett's posts in my “Followed users” timeline ",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_6",
+			"date_added": 1471257350
+		},
+		{
+			"comment_id": 3,
+			"body": "@ks: maybe because of browser's cache. try to clear it, or restart it.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_6",
+			"date_added": 1471271288
+		},
+		{
+			"comment_id": 4,
+			"body": "@ɃǾȾ: @nofish explained it in this post comment: http://127.0.0.1:53110/Me.ZeroNetwork.bit/?Post/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/19M1DT5vruSATEcbEczYRwCk2uPuLcATBa/17 , and From the next version the merger permission will be automatically revoked from merged sites.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_11",
+			"date_added": 1471308114
+		},
+		{
+			"comment_id": 5,
+			"body": "终于在这看到你了",
+			"post_uri": "18kDuSDb2D5QTtabXj6Ert7dTvnUA3FSHN_1",
+			"date_added": 1471432868
+		},
+		{
+			"comment_id": 6,
+			"body": "@Nofishes: 哈哈，还有文言文版，你自己翻译的？",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_12",
+			"date_added": 1471437944
+		},
+		{
+			"comment_id": 7,
+			"body": "你好，确切的说应该是ZeroMe上线",
+			"post_uri": "18tAJiCofTWcY41UfryJPpcpnHGgYbGWea_2",
+			"date_added": 1471443078
+		},
+		{
+			"comment_id": 8,
+			"body": "你在不停的换hub，当然引起混乱啊，不过信息应该还在的，你自己看：  http://127.0.0.1:53110/Me.ZeroNetwork.bit/?Profile/12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv/171fhZp8nPaJTLfTnov3hSQE8pweTcf6wC/xyzos@zeroid.bit \n还有这个 http://127.0.0.1:53110/Me.ZeroNetwork.bit/?Profile/1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i/171fhZp8nPaJTLfTnov3hSQE8pweTcf6wC/xyzos@zeroid.bit",
+			"post_uri": "171fhZp8nPaJTLfTnov3hSQE8pweTcf6wC_2",
+			"date_added": 1471450438
+		},
+		{
+			"comment_id": 9,
+			"body": "这个地址是新的ZeroMe用户才点的！老用户千万不要点里面的Join！！你的信息混乱丢失，就是因为乱点！乱点后就会重置一些信息！老用户换电脑登录，如果没有自动登录，可以点Select user to post new content，选择自己的ZeroID，然后千万不要点Create new profile，而应等待进度条走完，然后按F5刷新就已登录了。我亲测可行！等会儿加入论坛置顶贴。乱点的后果自负！",
+			"post_uri": "171fhZp8nPaJTLfTnov3hSQE8pweTcf6wC_3",
+			"date_added": 1471505563
+		},
+		{
+			"comment_id": 10,
+			"body": "@Xyzos: 我楼里给你的两个链接都不是蓝hub的，你点到哪去了？数据将会逐步把老贴覆盖。以后你不要乱点了，注意事项见我在你新一条帖子的回复。",
+			"post_uri": "171fhZp8nPaJTLfTnov3hSQE8pweTcf6wC_2",
+			"date_added": 1471505806
+		},
+		{
+			"comment_id": 11,
+			"body": "@ks: we really need a nice migrating hub feature. before @nofish implement that, you can write a script to do the migrating. I think the script which can gracefully migrate comments related to posts would be helpful for all we active/talky users ",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472135886",
+			"date_added": 1472137136
+		},
+		{
+			"comment_id": 12,
+			"body": "@Nofish: I think there should be an option to turn off the auto-deleting. IMO auto-archive as optional files is better, because ZeroMe is not totally like twitter, but more like facebook/G+, with no post size limit (e.g. 140 char). Users may use facebook/G+ as their blog, posting long-life, valuable articles, so does ZeroMe.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472135886",
+			"date_added": 1472145200
+		},
+		{
+			"comment_id": 13,
+			"body": "@ks: but if most users use their own hub, much more connections are needed, which is really bad for Tor always users. Tor is not for many connections in my test. A few hubs are OK, but we need a nice migrating hub feature. Maybe a user-request, new-hub-owner-then-do-the-migrating feature can deal with comments and other problems perfectly?",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472135886",
+			"date_added": 1472145742
+		},
+		{
+			"comment_id": 14,
+			"body": "@Nofish: there would be some volunteers running servers archiving them, just like running proxies, automatic seeders...",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472135886",
+			"date_added": 1472187023
+		},
+		{
+			"comment_id": 15,
+			"body": "@Nofish: another ZeroMe similar problem: could we have `Join` lock until sync is completed to prevent exiting users of ZeroMe to join another hub by clicking the `Join`? ",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_1472286311",
+			"date_added": 1472295034
+		},
+		{
+			"comment_id": 16,
+			"body": "@19: I have a snapshot of your data.json http://127.0.0.1:43110/1MgHVPCE1ve6QfKrgsqCURzRj72HrRWioz/?13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_15",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_1472286311",
+			"date_added": 1472295635
+		},
+		{
+			"comment_id": 17,
+			"body": "@Nofish: probably not the hub, but ZeroMe user registry site sync is not completed after the user transfer users.json to another newly install ZeroNet,  then clicking the `Join` before sync is a disaster.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_1472286311",
+			"date_added": 1472296007
+		},
+		{
+			"comment_id": 18,
+			"body": "@Nofish: archiving node can do snapshot of course, but without old posts hosted in same site, the links to old posts will be broken . Auto-redirect to archiving node? I'm not sure.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472135886",
+			"date_added": 1472302177
+		},
+		{
+			"comment_id": 19,
+			"body": "吼啊，期待更多原创博文",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1472606750",
+			"date_added": 1472630621
+		},
+		{
+			"comment_id": 20,
+			"body": "@ks: bad news! I guess the limited quota of ZeroTalk and nofish's ZeroBlog make him leave. He complained it several times. ",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472678549",
+			"date_added": 1472809845
+		},
+		{
+			"comment_id": 21,
+			"body": "@Cxgreat2014: 其实主要是前端，后端API基本都完善了。JS、CSS这些。不过往后作者可能用ZeroMe这种merger架构来重构zeroblog，前端和内容数据分离，可以用同一个阅读器来阅读其他zeroblog",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1472606750",
+			"date_added": 1472821402
+		},
+		{
+			"comment_id": 22,
+			"body": "作者说会有转发RT功能",
+			"post_uri": "1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP_1473133325",
+			"date_added": 1473143486
+		}
+	]
+}

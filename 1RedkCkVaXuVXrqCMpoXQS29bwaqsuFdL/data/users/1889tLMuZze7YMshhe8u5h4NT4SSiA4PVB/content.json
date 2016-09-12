@@ -1,0 +1,17 @@
+{
+ "address": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+ "cert_auth_type": "web",
+ "cert_sign": "G5pbTCslHeWyKMwIBIFbJpQdO6UvIi1tA5TzeBvwMxDiUFdcJOMr+keJ1X2ap/2Oln1t+UlCFYQzN4lmtzTdB+s=",
+ "cert_user_id": "zanity@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e8dda8c3092b1e3acde89daa8a42a53d72ccf7ec1877f7c3c393aefc2617a00e",
+   "size": 256
+  }
+ },
+ "inner_path": "data/users/1889tLMuZze7YMshhe8u5h4NT4SSiA4PVB/content.json",
+ "modified": 1473021601.443035,
+ "signs": {
+  "1889tLMuZze7YMshhe8u5h4NT4SSiA4PVB": "G1Xj2EfC1i6dKi5dsxupVblRlU1wPlR8vu+ou7NoXmtXzcCxDZ/PEMP7nSXtYuwhNobTngnktHM19Xfubz3s3Is="
+ }
+}

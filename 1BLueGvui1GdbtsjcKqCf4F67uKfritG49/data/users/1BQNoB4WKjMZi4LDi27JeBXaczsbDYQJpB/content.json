@@ -1,0 +1,17 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "HGlKCgCYiFmzmwrYJlrhPEN2ZP+NqmzgKRO/KL1nk+Q5l1xt1c4F75YrsELSwh3S+1bt4G7jPRBpqI/Af7r4xO4=",
+ "cert_user_id": "redlegion@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "bfb7cc4e4c3309086f81c28c64c38298a1efd645be44c37e2d6cecd04695c288",
+   "size": 455
+  }
+ },
+ "inner_path": "data/users/1BQNoB4WKjMZi4LDi27JeBXaczsbDYQJpB/content.json",
+ "modified": 1473291141.838,
+ "signs": {
+  "1BQNoB4WKjMZi4LDi27JeBXaczsbDYQJpB": "GzcAsd6AeOnDNdJvI4cXvsFLf3GNvw5SDnzjlwc4BhrJCqHZ8kV/uhGaDfsALtbAhIr8+VYT9ocYDVVsiW6JBwY="
+ }
+}

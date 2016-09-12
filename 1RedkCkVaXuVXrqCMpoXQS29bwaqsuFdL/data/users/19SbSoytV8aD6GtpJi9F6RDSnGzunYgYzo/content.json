@@ -1,0 +1,21 @@
+{
+ "address": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+ "cert_auth_type": "web",
+ "cert_sign": "G5HhZlbXtlf6MgRJ+P/W25VV8GVUIR1AgNvMJlJKQYsn9zMHkW7kL6YqMHkwxOxf5r88JpNm3y6SUNQ3SHMQYNI=",
+ "cert_user_id": "johnhamelink@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "fff3bf2e4a5b3b324226b59c581a759fef7c3b201d18fa0d124fae7673e8816c",
+   "size": 1362
+  },
+  "data.json": {
+   "sha512": "c208897d86a1d2383ff7a9cda3afdf719bbf16f1f317b80125d5d7b86437c731",
+   "size": 10847
+  }
+ },
+ "inner_path": "data/users/19SbSoytV8aD6GtpJi9F6RDSnGzunYgYzo/content.json",
+ "modified": 1473614684.567483,
+ "signs": {
+  "19SbSoytV8aD6GtpJi9F6RDSnGzunYgYzo": "HLQdffHNkxRU6kog3DP/ZiS47fHM7JOzHn9KlcqB/CqYYZgCYW7MbBdY3gjGzl/KEclYDGX6MXw76k25/G3pJ+0="
+ }
+}

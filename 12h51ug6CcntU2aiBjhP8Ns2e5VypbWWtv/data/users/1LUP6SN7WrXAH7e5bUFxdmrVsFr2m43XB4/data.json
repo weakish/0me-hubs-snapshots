@@ -1,0 +1,32 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 2,
+	"avatar": "png",
+	"user_name": "Kensan",
+	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+	"intro": "http://www.kensan.it",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1472846248,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1472849420,
+			"body": "Saluto Zerofx :DD",
+			"date_added": 1472849418
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1CdUfLyUi4y8ahTaEUPSdVkSsR4FbUZGiV",
+			"user_name": "Zerofx",
+			"date_added": 1472846274
+		}
+	]
+}

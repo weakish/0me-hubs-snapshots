@@ -1,0 +1,72 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 5,
+	"next_follow_id": 5,
+	"avatar": "generate",
+	"user_name": "Splitfire",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"intro": "Why so serious?",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1470901455,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 2,
+			"body": "Why so serious?",
+			"date_added": 1470901630
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "After registering, webpage dont reload, so I can write post, but there are no button to actually post. :) After page refresh everything works.",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_3",
+			"date_added": 1470901786
+		},
+		{
+			"comment_id": 2,
+			"body": "Привет!",
+			"post_uri": "16YxtnaTrCSbvCXSYxrnvobmYnqtidxG23_1",
+			"date_added": 1470901853
+		},
+		{
+			"comment_id": 3,
+			"body": "Also I have some \"1 file update fail\" for ZeroMe user registry and RedHub. Someone confirm?",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_3",
+			"date_added": 1470902034
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "16YxtnaTrCSbvCXSYxrnvobmYnqtidxG23",
+			"user_name": "Hellozeronetwork",
+			"date_added": 1470901673
+		},
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1470901678
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ",
+			"user_name": "Sirenyc",
+			"date_added": 1473485284
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1473591599
+		}
+	]
+}

@@ -1,0 +1,742 @@
+{
+	"next_post_id": 16,
+	"next_comment_id": 86,
+	"next_follow_id": 27,
+	"avatar": "png",
+	"user_name": "Nofish",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"intro": "`ZeroNet dev`",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1470838909,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 2,
+			"body": "Looking good, let's publish it!",
+			"date_added": 1470845694
+		},
+		{
+			"post_id": 3,
+			"body": "Just pushed some stability fixes for ZeroMe. If the buttons stops working for you please report javascript console for errors (F12) here!",
+			"date_added": 1470870937
+		},
+		{
+			"post_id": 4,
+			"body": "New features to ZeroMe: \n- You can list posts from all users from seeded hubs.\n- Changed default post list limit to 10 and \"Show more\" to button\n- Added domain (me.zeronetwork.bit)",
+			"date_added": 1470911275
+		},
+		{
+			"post_id": 6,
+			"body": "Changes in ZeroMe:\n- Fixed comment editing + deleting problems\n- Filter added for posts from future (users with bad computer time)\n- Added counter to users page: We just passed 150 users, wohoo!",
+			"date_added": 1470946961
+		},
+		{
+			"post_id": 7,
+			"body": "Latest ZeroMe changes:\n- Comment reply button\n- A little explanation on hubs on profile creation page (With this you choose where is your profile stored. There is no difference on content and you will able to reach all users from any hub)\n- Clickable links in comments\n- Some optimization on database requests (If you run into any problems please report)\n- Better formatting `inserted codes`\n- Activity feed entries limited to 2 lines\n- Cut long usernames/post lines",
+			"date_added": 1471012771
+		},
+		{
+			"post_id": 8,
+			"body": "Latest changes in ZeroMe:\n- Fix user's hub detection\n- Make usernames bold in comments\n- Show activity feed in user profile page, so it allows you see user's latest comments or where did you commented lately\n- Allow markdown in profile introduction",
+			"date_added": 1471093022
+		},
+		{
+			"post_id": 9,
+			"body": "ZeroMe improvements:\n - [Post linking](?Post/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj/9)\n - Massive post listing database query speed improvement (10-100x)\n - Activity feed paging",
+			"date_added": 1471188516
+		},
+		{
+			"post_id": 10,
+			"body": "Today's ZeroMe changes:\n - Everyone feed listing activity list also displays comments, likes and follows from every user\n - Activites from last 10 minutes marked with deeper color\n - Experimental scroll fixing: When you reading older posts and a new content arrives it does not affects the scrolling position.\n - New hub for new users: Green hub\n - Color not seeded user's follow button differently\n - Animation optimizations\n - Fix undetectable text fields (eg. introduction text)\n - Fix liked posts display",
+			"date_added": 1471261589
+		},
+		{
+			"post_id": 11,
+			"body": "New things on ZeroMe:\n - Follow your username mentions and comments on your posts in ZeroHello newsfeed\n - Various fixes in stability (also recommended to update ZeroNet client to Rev1422)",
+			"date_added": 1471378246
+		},
+		{
+			"post_id": 12,
+			"body": "ZeroMe update:\n - Search in ZeroMe posts and comments using ZeroHello\n - Changed the like button to image based to make it more compatible \n - Animation speed improvements\n - Break long introduction lines\n - You can follow new profile followers in the newsfeed",
+			"date_added": 1471513410
+		},
+		{
+			"post_id": 13,
+			"body": "Latest updates:\n - Suggested users based on your followed users followings\n - Don't display new followings in all user's activity feed\n - Merge multiple like/follow into one activity feed item\n - Style quotes\n - Don't scrollfix if mouse is over the right column\n - Fix back button support when clicked post from newsfeed",
+			"date_added": 1471778402
+		},
+		{
+			"post_id": 1471946844,
+			"body": "New features:\n - Follow new comments on posts where you have been commented on/liked. (Starting from now)\n - Add timestamp to post ids to avoid collision",
+			"date_added": 1471946830
+		},
+		{
+			"post_id": 1472462658,
+			"body": "Changes in ZeroMe:\n - Now you can use markdown in comments\n - Highlight usernames in posts\n - Ignore comments/users/activities registered in the future\n - Unfollow post on delete\n - Long posts/comments will be limited by \"Read more\" button\n - Avoid publish failed errors when using third-party id provider",
+			"date_added": 1472462643
+		}
+	],
+	"post_like": {
+		"1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN_2": 1470856102,
+		"1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN_8": 1470866738,
+		"12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_2": 1470914262,
+		"1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ_9": 1470914268,
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_8": 1471110982,
+		"1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_6": 1471205452,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_9": 1471248586,
+		"1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib_9": 1471363114,
+		"16YxtnaTrCSbvCXSYxrnvobmYnqtidxG23_1": 1471391194,
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_19": 1471436314,
+		"1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib_12": 1471777873,
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_32": 1471909812,
+		"17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp_1471981529": 1471997472,
+		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1472145223": 1472157583,
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1473590552": 1473620878
+	},
+	"comment": [
+		{
+			"comment_id": 4,
+			"body": "If you followed someone from other hub, then it's got added to your client.",
+			"post_uri": "1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv_4",
+			"date_added": 1470859353
+		},
+		{
+			"comment_id": 5,
+			"body": "Newuser123: What Browser/OS are you using? (I forgot to check Firefox/Safari, doing it now)",
+			"post_uri": "1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv_3",
+			"date_added": 1470859746
+		},
+		{
+			"comment_id": 6,
+			"body": "Currently only publishing to one hub, but it could be possible to add option to choose which one you want to publish to.",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_3",
+			"date_added": 1470873709
+		},
+		{
+			"comment_id": 7,
+			"body": "Lets test it. Edit: Test",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_3",
+			"date_added": 1470874920
+		},
+		{
+			"comment_id": 8,
+			"body": "Looks like works here",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_3",
+			"date_added": 1470875525
+		},
+		{
+			"comment_id": 9,
+			"body": "no official way, but you can: open javascript console (F12), choose inner-frame from dropdown, enter: Page.cmd(\"dbQuery\", \"SELECT json.user_name FROM follow LEFT JOIN json USING (json_id) WHERE follow.user_name = 'GomZik'\")",
+			"post_uri": "1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ_5",
+			"date_added": 1470913488
+		},
+		{
+			"comment_id": 10,
+			"body": "fixed!",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_4",
+			"date_added": 1470921888
+		},
+		{
+			"comment_id": 12,
+			"body": "You can try check javascript console (F12) maybe there is an error there.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_9",
+			"date_added": 1470955977
+		},
+		{
+			"comment_id": 13,
+			"body": "Double hubbing is not tested yet, but I will check it later.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_10",
+			"date_added": 1470956870
+		},
+		{
+			"comment_id": 14,
+			"body": "Test 123",
+			"post_uri": "16YxtnaTrCSbvCXSYxrnvobmYnqtidxG23_1",
+			"date_added": 1470957040
+		},
+		{
+			"comment_id": 15,
+			"body": "Security test: <script>alert('test')</script> http://any.com/other?bla=ja&ha=bla'\" &amp; &ja",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_6",
+			"date_added": 1471006268
+		},
+		{
+			"comment_id": 16,
+			"body": "@ZAlex: Thanks, done!",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_6",
+			"date_added": 1471006290
+		},
+		{
+			"comment_id": 17,
+			"body": "@Nofish: Reply test\n@Teszt: Reply2 test",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_6",
+			"date_added": 1471012065
+		},
+		{
+			"comment_id": 18,
+			"body": "@P2pwave: You dont have to update your ZeroNet client, just press F5 on the browser, then if you put your mouse cursor over any comment you will see a reply link (like in ZeroTalk)",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_7",
+			"date_added": 1471013684
+		},
+		{
+			"comment_id": 19,
+			"body": "@P2P: It's depends on browser's caching algo\n@Musickiller: Changed to 3 line, but it's a great thing about merger sites, that you can clone and modify the display logic (this site) and you will still able to access the same data.\n@Quadrangle: Added bold on usernames",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_7",
+			"date_added": 1471020657
+		},
+		{
+			"comment_id": 20,
+			"body": "@Cyborg Warrior: All you need is javascript + html + css. There is a tutorial on ZeroBlog, if you are interested you should start with that.",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_7",
+			"date_added": 1471079876
+		},
+		{
+			"comment_id": 21,
+			"body": "@Scrub: Enabled markdown on profile introduction text",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_7",
+			"date_added": 1471080293
+		},
+		{
+			"comment_id": 22,
+			"body": "@Bot: Thx, fixed",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_8",
+			"date_added": 1471093984
+		},
+		{
+			"comment_id": 23,
+			"body": "Live source reloading only works on plugins, but it needs pyfilesystem installed and its only supports windows",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_7",
+			"date_added": 1471102556
+		},
+		{
+			"comment_id": 24,
+			"body": "I think they removed the unauthenticated api. It would be good idea to create a bot that posts on ZeroMe if someone mentions it's name on twitter. Eg.: \"This is great! @ZeroMeBot\" and the bot would post it to it's ZeroMe profile.\nAnd probably also the inverse of it: If someone mentions @ZeroMeBot on ZeroMe, then it would post on Twitter.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_9",
+			"date_added": 1471111448
+		},
+		{
+			"comment_id": 25,
+			"body": "It's also easy to fake hashes, so I don't think is possible to solve this problem.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_12",
+			"date_added": 1471130680
+		},
+		{
+			"comment_id": 26,
+			"body": "You can also use --ui_restrict yourcomputerip or enable UiPassword plugin then start it --ui_password mysecretpassword",
+			"post_uri": "1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_4",
+			"date_added": 1471166497
+		},
+		{
+			"comment_id": 27,
+			"body": "@Empirezero: Thanks, fixed!",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_9",
+			"date_added": 1471261599
+		},
+		{
+			"comment_id": 28,
+			"body": "@ZAlex: Yeah, its planned",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_10",
+			"date_added": 1471262307
+		},
+		{
+			"comment_id": 29,
+			"body": "ok, whats the bug?",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_27",
+			"date_added": 1471276319
+		},
+		{
+			"comment_id": 30,
+			"body": "you will see a download button on the user's profile that you are not seeding currently\n\n+ simply visiting the hub (127.0.0.1:43110/anyhub) will also add it to zerome",
+			"post_uri": "1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ_17",
+			"date_added": 1471276621
+		},
+		{
+			"comment_id": 31,
+			"body": "@GomZik: Only the merger site need permission to access the hubs. From that point it will access all ZeroMe typed sites. (merger type is defined in content.json)",
+			"post_uri": "1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ_17",
+			"date_added": 1471277624
+		},
+		{
+			"comment_id": 32,
+			"body": "It happens when you reset your profile or register on an another hub without keeping your next_post_id",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_27",
+			"date_added": 1471280078
+		},
+		{
+			"comment_id": 33,
+			"body": "@Musickiller: Then no idea: I have checked the data files, they all commented on your 26. post, so everything looks fine from technical perspective.",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_27",
+			"date_added": 1471282620
+		},
+		{
+			"comment_id": 34,
+			"body": "Running merger site on a hub is not recommended and against the basic idea of merger sites (separate site and display logic).",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_17",
+			"date_added": 1471284787
+		},
+		{
+			"comment_id": 35,
+			"body": "@GomZik: It's defines your site's type, if you enter ZeroMe there, than all ZeroMe merger site will able to access it. If you planning to create non zerome compatible hubs, then use different type.",
+			"post_uri": "1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ_17",
+			"date_added": 1471288947
+		},
+		{
+			"comment_id": 36,
+			"body": "This does not fixes all the problems and leads other errors. From the next version the merger permission will be automatically revoked from merged sites.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_17",
+			"date_added": 1471292011
+		},
+		{
+			"comment_id": 37,
+			"body": "use zerobundle package (https://github.com/HelloZeroNet/ZeroNet#how-to-join) or python -m pip install gevent",
+			"post_uri": "1M8qdXxJVErGrnRnoQTRiuHgNScrVRL4Go_3",
+			"date_added": 1471296978
+		},
+		{
+			"comment_id": 38,
+			"body": "Please update to latest version and try with --connected_limit 5",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_9",
+			"date_added": 1471337732
+		},
+		{
+			"comment_id": 39,
+			"body": "Only one level of merging supported and i dont see any usecase that requires anymore than that",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_18",
+			"date_added": 1471344531
+		},
+		{
+			"comment_id": 40,
+			"body": "Please use https://github.com/HelloZeroNet/ZeroMe for feature requests.",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_10",
+			"date_added": 1471347113
+		},
+		{
+			"comment_id": 41,
+			"body": "Problems: Needs much more user to make it any useful, you only able to search in content you already seeding, so ZeroNet's P2P/distributed structure not really suitable for this. Maybe there could be centralized bots that constantly scanning many hubs for new content and aggregate the most popular ones into one site.",
+			"post_uri": "15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT_4",
+			"date_added": 1471377149
+		},
+		{
+			"comment_id": 42,
+			"body": "@Tkarita: Sure,but it's only search in hubs that you serving.",
+			"post_uri": "15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT_4",
+			"date_added": 1471377914
+		},
+		{
+			"comment_id": 43,
+			"body": "@Sirenyc: You should check the console for error messages if the semi-auto-update is not working for you",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_11",
+			"date_added": 1471380557
+		},
+		{
+			"comment_id": 44,
+			"body": "@Dios: If you don't own the user's private key then it's not possible to delete/modify hid/her comments.",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_11",
+			"date_added": 1471424858
+		},
+		{
+			"comment_id": 45,
+			"body": "@ZAlex: More detailed list of changes: https://github.com/HelloZeroNet/ZeroMe/commits/master",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_11",
+			"date_added": 1471440006
+		},
+		{
+			"comment_id": 46,
+			"body": "@Wakelain: Currently it's saved in browser's local storage, so eg. if you use tor browser it will purged every time you close it.",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_11",
+			"date_added": 1471512778
+		},
+		{
+			"comment_id": 47,
+			"body": "@Quadrangle: If someone starts following you you will be notified in the newsfeed",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_12",
+			"date_added": 1471513939
+		},
+		{
+			"comment_id": 48,
+			"body": "@Musickiller: Tab + Enter just works fine. I don't really like ctrl+enter or shift+enter, because in some applications it means \"send message\" in other applications it means \"don't send message, but break the line\", but tab+enter is pretty predicatable",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_50",
+			"date_added": 1471633769
+		},
+		{
+			"comment_id": 49,
+			"body": "If you edit your profile it sends to 2 sites: To your hub and the userdb site. So probably for some reasons the userdb site was failed to update. I have changed the limit there to 2kb, maybe that was the problem.",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_59",
+			"date_added": 1471681558
+		},
+		{
+			"comment_id": 50,
+			"body": "Then please check the debug.log maybe there is some error",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_59",
+			"date_added": 1471682676
+		},
+		{
+			"comment_id": 51,
+			"body": "@Shellbound: Well the closest link is the submit button. (except when commenting where you send it with simple enter)",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_50",
+			"date_added": 1471682967
+		},
+		{
+			"comment_id": 52,
+			"body": "@Musickiller: It's not related, you can try to delete the userdb site and re-add it (1UDbADib99KE9d3qZ87NqJF2QLTHmMkoV)",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_59",
+			"date_added": 1471695822
+		},
+		{
+			"comment_id": 53,
+			"body": "Sorry, no idea, you can try to re-install zeronet to see if its helps or check the logs and js console for any error",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_67",
+			"date_added": 1471700319
+		},
+		{
+			"comment_id": 54,
+			"body": "If someone sends me the last ~1000 lines of debug.log and the javascript console content to hello@zeronet.io then i can look at it",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_59",
+			"date_added": 1471707964
+		},
+		{
+			"comment_id": 55,
+			"body": "```\ncode\n```\nshould work",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_66",
+			"date_added": 1471708684
+		},
+		{
+			"comment_id": 56,
+			"body": "if you send me your debug.log and js console (F12) content, i will look at it: hello@zeronet.io",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_72",
+			"date_added": 1471717694
+		},
+		{
+			"comment_id": 57,
+			"body": "If you delete it, then it's gone. Automatic deletion is planned to be added later. I have just raised your limit.",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_75",
+			"date_added": 1471725312
+		},
+		{
+			"comment_id": 58,
+			"body": "@Musickiller: Comments are stored in user's file and you can only delete your own ones.",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_75",
+			"date_added": 1471735779
+		},
+		{
+			"comment_id": 59,
+			"body": "@Userzero: Probably that site is not ready for cloning",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_12",
+			"date_added": 1471777852
+		},
+		{
+			"comment_id": 60,
+			"body": "@Userzero: Just installed Tor browser and works here (currently sending this using it), so try reinstall it/remove all extensions/restart computer/etc.",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_13",
+			"date_added": 1471785719
+		},
+		{
+			"comment_id": 61,
+			"body": "@Talnicrom: I don't think if hashtags could be any useful with small amount of users. + The older (eg. 1 week old) posts will be constantly purged, so it's also a limitation on usability of that feature.",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_13",
+			"date_added": 1471801154
+		},
+		{
+			"comment_id": 62,
+			"body": "@Userzero: Sorry, can't help, I only own privatekey for *.zeronetwork.bit sites\n@Wakelain: It's based on what your followed users following",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_13",
+			"date_added": 1471884659
+		},
+		{
+			"comment_id": 63,
+			"body": "@Talnicrom: If you check/uncheck the follow option, then it should re-add it to your users.json",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_31",
+			"date_added": 1471890468
+		},
+		{
+			"comment_id": 64,
+			"body": "@Talnicrom: No, the \"Follow username mentions\" under the 3dot menu",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_31",
+			"date_added": 1471890601
+		},
+		{
+			"comment_id": 65,
+			"body": "@Wakelain: It's possible to create a non-javascript client (eg. in c++), but then you have to run the binary, which is much bigger security risk, than running javascript in browser sandboxing. So not really.",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_13",
+			"date_added": 1471891725
+		},
+		{
+			"comment_id": 66,
+			"body": "it's not hardcoded you can change using --fileserver_port. you can find other options via zeronet.py --help",
+			"post_uri": "1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_13",
+			"date_added": 1471906574
+		},
+		{
+			"comment_id": 67,
+			"body": "@Talnicrom: You can already do it with zerome: simply clone/pause the site, then the javascript code will remain the same, but you will still receive the profile updates, since they are on a different site",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_32",
+			"date_added": 1471957929
+		},
+		{
+			"comment_id": 68,
+			"body": "@Talnicrom: Easiest way: curl http://127.0.0.1:43110/anysite, then it will download the site to the data dir",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_32",
+			"date_added": 1471959417
+		},
+		{
+			"comment_id": 69,
+			"body": "@Musickiller: Sure, but it wont help users who has the same problem",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_59",
+			"date_added": 1471973777
+		},
+		{
+			"comment_id": 70,
+			"body": "@Bela333: yeah",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1471946844",
+			"date_added": 1471994099
+		},
+		{
+			"comment_id": 71,
+			"body": "@Cyborg Warrior: Currently there is no way to add per-site torrent tracker, but there is 8 tracker added in ZeroNet, so it's probably not the problem. Huge sites (1000s of files) can be a problem. Your root content.json should not be larger than 100kb.",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1471946844",
+			"date_added": 1472114235
+		},
+		{
+			"comment_id": 72,
+			"body": "@Sirenyc: Currently usually it's only me",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1471946844",
+			"date_added": 1472114285
+		},
+		{
+			"comment_id": 73,
+			"body": "Removed the white background on the field.",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1472125170",
+			"date_added": 1472138301
+		},
+		{
+			"comment_id": 74,
+			"body": "@Mikhailobv: According to their persentation @ Decentralized Web Summit they not really P2P and needs list of trusted database servers to work.\nhttps://www.reddit.com/r/Bitcoin/comments/4j7wjf/bigchaindb_a_prime_example_of_blockchain_bullshit/",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1471946844",
+			"date_added": 1472155984
+		},
+		{
+			"comment_id": 75,
+			"body": "@Cyborg Warrior: It's not recommended to have site with large amount of files. Instead having separate .html file for every file you should put the text content to the database and render the same parts for javascript.\n\nIf you can't do this, then you can use multiple content.json per directory (http://zeronet.readthedocs.io/en/latest/site_development/content_json/#includes), but currenty ZeroNet is focuses on dynamic websites and not ideal to mirror sites with huge ammount of files. Maybe in the future it could be able to serving resources on http directly from .zip files, so it would reduce the file number and also the site size.\n\n\"content.json download failed\" could be also caused by invalid content or signiture.",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1471946844",
+			"date_added": 1472286287
+		},
+		{
+			"comment_id": 76,
+			"body": "i need the log/debug.log file and the content of javascript console F12, my email hello@zeronet.io",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1472335441",
+			"date_added": 1472398102
+		},
+		{
+			"comment_id": 77,
+			"body": "@Musickiller: got it, can you please look at your data\\1UDbADib99KE9d3qZ87NqJF2QLTHmMkoV\\data\\userdb\\15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ\\content.json file's site? It should be around 678 bytes",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1472335441",
+			"date_added": 1472403927
+		},
+		{
+			"comment_id": 78,
+			"body": "@Musickiller: Can you please send it to me? (+ if you have other file in that directory then that one too)",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1472335441",
+			"date_added": 1472405490
+		},
+		{
+			"comment_id": 79,
+			"body": "@Musickiller: looks like the signature in this file is not valid for some reasons. Please try this from command line: `zeronet.py --debug --verbose siteSign 1UDbADib99KE9d3qZ87NqJF2QLTHmMkoV --inner_path data/userdb/15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ/content.json --publish` (it will ask your zeroid privatekey which is in user.json: auth_privatekey entry at zeroid.bit cert)",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1472335441",
+			"date_added": 1472408430
+		},
+		{
+			"comment_id": 80,
+			"body": "@Musickiller: It should work while it's running",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1472335441",
+			"date_added": 1472408896
+		},
+		{
+			"comment_id": 81,
+			"body": "Markdown test:\n123\n\nList:\n - Any\n - Thing\n\n# Head\n## Another head\n\n[link](to anything)\n\ninline `code`\n\n```\nMultiline\nCode\n```\n\n<script>alert('hello')</script>\n\n![img](hello)\n\nEmphasis, aka italics, with *asterisks* or _underscores_.\n\nStrong emphasis, aka bold, with **asterisks** or __underscores__.\n\nCombined emphasis with **asterisks and _underscores_**.\n\nStrikethrough uses two tildes. ~~Scratch this.~~\n\n> Quote anything\n> Longer than one line",
+			"post_uri": "16YxtnaTrCSbvCXSYxrnvobmYnqtidxG23_1",
+			"date_added": 1472409322
+		},
+		{
+			"comment_id": 82,
+			"body": "@Userzero: You can clone this sites if you want to add new features to them",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1472462658",
+			"date_added": 1472463697
+		},
+		{
+			"comment_id": 83,
+			"body": "@Kaffie: When you create a new/modify profile, it tries to save it to the userdb site. From now it will not do that if the cert provider is not supported by that site: https://github.com/HelloZeroNet/ZeroMe/commit/5c6734c21b9dfe95e23ba909e08b12f07767a3e3",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1472462658",
+			"date_added": 1472464969
+		},
+		{
+			"comment_id": 84,
+			"body": "Yeah, thanks for reporting, fixed!",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1472647090",
+			"date_added": 1472655449
+		},
+		{
+			"comment_id": 85,
+			"body": "Because of the sandboxed iframe enviroment target=\"_blank\" is not working for every links (eg youtube), so target=\"_top\" is recommended for every zeronet links",
+			"post_uri": "1CFhytwoGGPNqmueehPqotaf2iG9uxD98e_1472785018",
+			"date_added": 1472925663
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "16YxtnaTrCSbvCXSYxrnvobmYnqtidxG23",
+			"user_name": "Hellozeronetwork",
+			"date_added": 1470839278
+		},
+		{
+			"follow_id": 3,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1QLL6cXP25nm3SZ48At3ogR1HL3xM1CUPp",
+			"user_name": "Tortester",
+			"date_added": 1470846123
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN",
+			"user_name": "Testingzeronet12",
+			"date_added": 1470856029
+		},
+		{
+			"follow_id": 5,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "13Mt8T2256Uz4GHk9B4XvKqyz37wPgA26q",
+			"user_name": "Dadda",
+			"date_added": 1470856034
+		},
+		{
+			"follow_id": 6,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv",
+			"user_name": "Newuser123",
+			"date_added": 1470859374
+		},
+		{
+			"follow_id": 7,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1D242AyQghFqqQTwo1f1csP5kRQe588BUm",
+			"user_name": "Frabrunelle",
+			"date_added": 1470859555
+		},
+		{
+			"follow_id": 9,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1FJf2hQWT6YY9oxXozkx1ZvBHyAJVYmb76",
+			"user_name": "Gorgamin",
+			"date_added": 1470878182
+		},
+		{
+			"follow_id": 10,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ",
+			"user_name": "Sirenyc",
+			"date_added": 1470878211
+		},
+		{
+			"follow_id": 11,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1CwyP7JyaXpKVNXHKZfvRozBkCSk7hFAWe",
+			"user_name": "Wigy",
+			"date_added": 1470926697
+		},
+		{
+			"follow_id": 12,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ",
+			"user_name": "GomZik",
+			"date_added": 1470954559
+		},
+		{
+			"follow_id": 13,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1470954562
+		},
+		{
+			"follow_id": 14,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne",
+			"user_name": "Jayofthezero",
+			"date_added": 1471092430
+		},
+		{
+			"follow_id": 15,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1471130757
+		},
+		{
+			"follow_id": 16,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1P7F9po18mshkbRG5zEVV47vHtLEX19QJa",
+			"user_name": "Bashrc",
+			"date_added": 1471252523
+		},
+		{
+			"follow_id": 17,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u",
+			"user_name": "Lola",
+			"date_added": 1471517481
+		},
+		{
+			"follow_id": 18,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t",
+			"user_name": "tkarita",
+			"date_added": 1471713172
+		},
+		{
+			"follow_id": 21,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1471716896
+		},
+		{
+			"follow_id": 22,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ",
+			"user_name": "Musickiller",
+			"date_added": 1471733657
+		},
+		{
+			"follow_id": 23,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "15znkmFgxeY8XM7nXD7JHUxJyR19AX1VKa",
+			"user_name": "a girl has no name",
+			"date_added": 1472213427
+		},
+		{
+			"follow_id": 24,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx",
+			"user_name": "ks",
+			"date_added": 1473419073
+		},
+		{
+			"follow_id": 25,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331",
+			"user_name": "Andrewm",
+			"date_added": 1473419119
+		},
+		{
+			"follow_id": 26,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR",
+			"user_name": "weakish",
+			"date_added": 1473419211
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 2,
+	"next_follow_id": 2,
+	"avatar": "png",
+	"user_name": "Aoi",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Shinigami",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1472494210,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1472495399,
+			"body": "Ok, noticed I can upload an avatar, now, what is the deal with the blue and green teams?",
+			"date_added": 1472495397
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Jayofthezero: Thanks",
+			"post_uri": "13NJuU9nw3cFSVoETCkN6BCv5s5v5V2ngA_1472495399",
+			"date_added": 1472963573
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "13NJuU9nw3cFSVoETCkN6BCv5s5v5V2ngA",
+			"user_name": "Aoi",
+			"date_added": 1472494265
+		}
+	]
+}

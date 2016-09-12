@@ -1,0 +1,21 @@
+{
+ "address": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+ "cert_auth_type": "web",
+ "cert_sign": "H4bqrUiCTD4OSx/Bah7FWEL9wpYitbpqYKgY0ikDHqw5JmExKo693LEfAWTb+3ddInJ/w9yf7AQcJGsv1O1kZMQ=",
+ "cert_user_id": "agirlhasnoname@kaffie.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "1a9ffbc2b9a2d0c2eb05fbf91e33f13806f1fbf18bb8e50eb2ef4f4ea20f9a2c",
+   "size": 1346
+  },
+  "data.json": {
+   "sha512": "a4a59acdd62f1eafa878e07d28f46ffeeae5a1c606446680a47eabb7e1297b70",
+   "size": 13353
+  }
+ },
+ "inner_path": "data/users/15znkmFgxeY8XM7nXD7JHUxJyR19AX1VKa/content.json",
+ "modified": 1473444953.582097,
+ "signs": {
+  "15znkmFgxeY8XM7nXD7JHUxJyR19AX1VKa": "HCwqzQnfMGP2VTGceaon9woROE9IcSxNmYqWIHYBUSY23dDwENjX/dAUvf8f2J4ujlvQnzVUAmi3U4cIei6p4Fw="
+ }
+}

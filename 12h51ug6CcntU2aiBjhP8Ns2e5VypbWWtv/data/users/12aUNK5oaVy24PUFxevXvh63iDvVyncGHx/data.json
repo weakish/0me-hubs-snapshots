@@ -1,0 +1,56 @@
+{
+	"next_comment_id": 9,
+	"user_name": "Durand",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "I don't really see what's lost by forcing a formatting style. It definitely does improve readability - anyone who's read python code vs C code would agree.. I don't understand why auto-formatting isn't possible.",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1472908531",
+			"date_added": 1472925106
+		},
+		{
+			"comment_id": 2,
+			"body": "@<tkarita/>: I think the fact that many projects require strict formatting standards on C code points to the problem of readability in C. It is nice that code formatters are available but I would argue that they are more necessary in C, than in python. And if you're talking about code snippets in python, I think most IDEs handle that quite well. I use snippets in Vim and Atom, both don't really have a problem with Python..\n\nI don't understand why delimiters are more readable than indentation. To me, enforced indentation is a way to be certain of which scope you're in. With braces, you have to trace every brace until you find which level you're in. Seems rather inefficient.",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1472908531",
+			"date_added": 1472935892
+		},
+		{
+			"comment_id": 3,
+			"body": "@<tkarita/>: I definitely agree with that. Actually, I wonder if there's research done to calculate readability by programming language. I couldn't find much available online for some reason.",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1472908531",
+			"date_added": 1472947184
+		},
+		{
+			"comment_id": 4,
+			"body": "@weakish: So you're saying that there should be stricter standards for comments? I'm not really sure I understand what the problem is :/\n\nAs for natural languages, I think that's part of the beauty of language, that we have many variations. It makes it harder to process, sure, but it is inevitable when there are no strict rules.",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1472908531",
+			"date_added": 1473028448
+		},
+		{
+			"comment_id": 5,
+			"body": "@Shellbound: How is it a good thing that Walmart is removing high wage jobs? It makes them an even bigger leech on the American tax payer than they were before. Automation is only good for society if society reaps the benefits and in many cases, that is not happening. We need universal basic income.",
+			"post_uri": "1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9_1473016692",
+			"date_added": 1473028603
+		},
+		{
+			"comment_id": 6,
+			"body": "I think you're a bit too optimistic. Automation doesn't make UBI happen, it just makes it a necessity. We still have to fight to get UBI - it's difficult enough to raise the minimum wage..",
+			"post_uri": "1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9_1473016692",
+			"date_added": 1473057590
+		},
+		{
+			"comment_id": 7,
+			"body": "@Shellbound: Fingers crossed then!",
+			"post_uri": "1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9_1473016692",
+			"date_added": 1473127222
+		},
+		{
+			"comment_id": 8,
+			"body": "Wow, never heard of this Cybersyn project - sounds pretty amazing for its time! Shame that Milton Friedman and his thugs had to screw up Chile :/",
+			"post_uri": "1P7F9po18mshkbRG5zEVV47vHtLEX19QJa_1473582322",
+			"date_added": 1473628596
+		}
+	]
+}

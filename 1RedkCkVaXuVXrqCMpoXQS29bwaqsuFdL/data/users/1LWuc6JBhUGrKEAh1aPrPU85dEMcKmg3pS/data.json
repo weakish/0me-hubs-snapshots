@@ -1,0 +1,321 @@
+{
+	"next_post_id": 11,
+	"next_comment_id": 18,
+	"next_follow_id": 16,
+	"avatar": "jpg",
+	"user_name": "ZAlex",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"intro": "Idiot.\n\nLove Linux, KDE, Qt, OpenSource and Free (as speech) software, Python, Pirate Party, ZeroNet and other awesome technologies, ideas, projects and software that respect my rights, freedom, privacy and anonimity.\n\nLinks:\n-[ My main ZeroSite](http://127.0.0.1:43110/ZAlex.bit/)\n-[ ZeroMail](http://127.0.0.1:43110/Mail.ZeroNetwork.bit/?to=zalex@zeroid.bit)\n-[ ClearNet site](http://zausoft.ru)\n-[ E-Mail](mailto:zalex@zausoft.ru)",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1470887768,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 2,
+			"body": "![Image test](http://zausoft.ru/wp-content/uploads/2016/07/60.png)\n(Need image pasting feature)",
+			"date_added": 1470888337
+		},
+		{
+			"post_id": 4,
+			"body": "Have you seen my new [website](http://zausoft.ru) about [PocketMod](http://127.0.0.1:43110/pocketmod.bit)? It is not very informative, but I'll fix it for release.\nWhat do you think, which site is better?",
+			"date_added": 1471008047
+		},
+		{
+			"post_id": 5,
+			"body": "Just found an amazing ZeroSite - [Zatogra](http://127.0.0.1:43110/zatogra.bit/)",
+			"date_added": 1471139948
+		},
+		{
+			"post_id": 6,
+			"body": "### How to browse ZeroNet sites by URL's like `http://zalex.bit` without `127.0.0.1:43110/`?\n1. Open notepad, paste this:\n```\nfunction FindProxyForURL(url, host) {\n    if (shExpMatch(host, \"*.bit\"))\n     return \"PROXY localhost:43110\";\n    if (shExpMatch(url, \"*//zero/*\"))\n     return \"PROXY localhost:43110\";\n    \n    return \"DIRECT\";\n}\n```\nAnd save as `zeronet.pac`\n\n2. Go to system\\browser settings, and set this proxy file\n\n3. That's all! Now you can go to adresses like `http://me.zeronetwork.bit/` or `http://zero/1JChcgVVMqBy5fmN4er6afLhcoD7YzRDP6/`\n\n**Note:**\n\nYou should paste this if you're want to browse regular `.bit` sites:\n```\nfunction FindProxyForURL(url, host) {\n    if (shExpMatch(url, \"*//zero/*\"))\n     return \"PROXY localhost:43110\";\n    \n    return \"DIRECT\";\n}\n```",
+			"date_added": 1471163242
+		},
+		{
+			"post_id": 7,
+			"body": "Русскоязычные ЗероНетчики, желаете ли вы продолжения [Блокнота Шизофреника](http://127.0.0.1:43110/shiza.zalex.bit/)? Пара идей для размышлений есть, но нужно ли оно вам?",
+			"date_added": 1471518601
+		},
+		{
+			"post_id": 8,
+			"body": "[We don't need a paid Photoshop!](http://127.0.0.1:43110/blog.zalex.bit/?Post:14)",
+			"date_added": 1471526719
+		},
+		{
+			"post_id": 9,
+			"body": "@Testset: as I remember, you wanted folding instructions for [PocketMod](http://zausoft.ru).\nSo, [I'm working on it](http://127.0.0.1:43110/blog.zalex.bit/?Post:15).",
+			"date_added": 1471701873
+		},
+		{
+			"post_id": 10,
+			"body": "Just generated a *wonderful* `.onion` domain using [Shallot](https://github.com/katmagic/Shallot): `putin4madxx7h3bl6.onion`\nWell, who wants to get a \"putin mad\" TOR\\Onion domain for free? xD",
+			"date_added": 1471748903
+		}
+	],
+	"post_like": {
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_3": 1470888628,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_2": 1470888633,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1": 1470888635,
+		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_2": 1470893231,
+		"1MGs2sg69x7G9Ng1Y2w5TqCgp1FMUztXmK_1": 1470897100,
+		"1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_1": 1470900740,
+		"1BePwsiwFD8BjtYfB8tQegiKXDLnHWW1Um_2": 1470910712,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_4": 1470911797,
+		"1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ_6": 1470913636,
+		"1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ_9": 1470914196,
+		"12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_2": 1470915069,
+		"1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ_10": 1470915463,
+		"1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ_8": 1470915470,
+		"1G4nMD7txaYAvdpDeroZ9f67K3gtHsGn8H_2": 1470915488,
+		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_12": 1470916283,
+		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_15": 1470917873,
+		"1wAS6N9Q2mfgKTcziJ4GaTSGZHuTyqFqf_2": 1470921878,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_6": 1470973775,
+		"1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ_11": 1470973913,
+		"17eKk6mdR7bth2Fi8f74P5JV8AfHsERT4F_3": 1470975968,
+		"1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN_9": 1470986934,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_7": 1471052439,
+		"1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ_16": 1471052461,
+		"1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R_10": 1471052727,
+		"1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R_14": 1471060626,
+		"1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R_13": 1471060634,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_8": 1471098843,
+		"1EN9Ape9Gbe2FAcP8qNWsyvg7x7z92LhA7_2": 1471137966,
+		"1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_4": 1471138204,
+		"1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_3": 1471138244,
+		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_7": 1471141359,
+		"1HJJEDiEo7ghxbpdDzXHFVv4gtrb53cUAu_5": 1471143484,
+		"19SbSoytV8aD6GtpJi9F6RDSnGzunYgYzo_2": 1471147060,
+		"15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT_2": 1471148515,
+		"15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT_3": 1471148528,
+		"12gPJX5ofWBZBqgbTNsjm179hdsbhrKQRZ_3": 1471152221,
+		"1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_2": 1471154391,
+		"1EZG8eDkCFvNkYxpHmr2WbGWcSxAsRfqTT_2": 1471156314,
+		"1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R_17": 1471162820,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_9": 1471220804,
+		"1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_6": 1471220856,
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_14": 1471221235,
+		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_25": 1471223217,
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_15": 1471226252,
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_16": 1471240035,
+		"1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_5": 1471244436,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_10": 1471261824,
+		"12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_4": 1471264685,
+		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_14": 1471318579,
+		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_9": 1471332345,
+		"1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ_18": 1471358826,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_11": 1471412744,
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_19": 1471420122,
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_20": 1471492705,
+		"1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_8": 1471493675,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_12": 1471514419,
+		"16YxtnaTrCSbvCXSYxrnvobmYnqtidxG23_1": 1471622144,
+		"1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ_5": 1471747040,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_13": 1471782942,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1471946844": 1471948006,
+		"1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ_21": 1471948041,
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1471959669": 1471960553,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1472462658": 1472545170,
+		"1HMaKiFfNuGYkiCk1mRMnBUcNNsECgxxzh_1472859345": 1472958935,
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1473590552": 1473645100
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "What is the optimal size (width and height) of avatar?\nUpd: 50x50 px?",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_3",
+			"date_added": 1470894538
+		},
+		{
+			"comment_id": 2,
+			"body": "Check out my music too - ZAlex.bit",
+			"post_uri": "19vd2X9VjRkgY3qbtuTs6bvMcJCRZJY9Z6_4",
+			"date_added": 1470912296
+		},
+		{
+			"comment_id": 3,
+			"body": "We need a limit on the number of characters in nicknames:\nhttp://127.0.0.1:43110/Me.ZeroNetwork.bit/?Profile/1BLueGvui1GdbtsjcKqCf4F67uKfritG49/1bnmc9XsY2kyqwqjKmpWyBDbwyniqRzy1/dickwad@zeroid.bit",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_6",
+			"date_added": 1470974179
+		},
+		{
+			"comment_id": 4,
+			"body": "GPG?",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_18",
+			"date_added": 1470998872
+		},
+		{
+			"comment_id": 5,
+			"body": "Thanks for feedback!\n@Testset: I will add more information and folding guides later\nAlso, you can find instructions here - http://127.0.0.1:43110/blog.zalex.bit/?Post:4:How+to+fold+a+PocketMod",
+			"post_uri": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_4",
+			"date_added": 1471052529
+		},
+		{
+			"comment_id": 6,
+			"body": "@Scrub: Maybe, never heard of this website.",
+			"post_uri": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_5",
+			"date_added": 1471140095
+		},
+		{
+			"comment_id": 7,
+			"body": "Somebody posted a big image (?) and now Zatogra can't update for me :(\n(1 file update failed)\nUPD: Oh, this is big (4 MB) gif animation...",
+			"post_uri": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_5",
+			"date_added": 1471142908
+		},
+		{
+			"comment_id": 9,
+			"body": "Wow, ZeroHello automatically create short links without \"127.0.0.1:43110\", if you go there through http://zeronetwork.bit",
+			"post_uri": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_6",
+			"date_added": 1471163763
+		},
+		{
+			"comment_id": 10,
+			"body": "@Tkarita: No, I had problems due to slow network bandwidth.",
+			"post_uri": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_5",
+			"date_added": 1471164985
+		},
+		{
+			"comment_id": 11,
+			"body": "Can we get in future something like this [http://127.0.0.1:43110/1JouSggdhsEZ9tWN5oiQArjdAA8wkCcxuR/ ] in our ZeroHello newsfeed?",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_10",
+			"date_added": 1471262052
+		},
+		{
+			"comment_id": 12,
+			"body": "@Nofish: ZeroMe updated ~50 minuter ago, what is changed? :D",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_11",
+			"date_added": 1471439263
+		},
+		{
+			"comment_id": 13,
+			"body": "@Quadrangle: Using free alternatives you inflict more damage on the companies than using pirated software. IMHO. If once you don't have a choice (only legal software), then you have to buy the program, or painful get used to another. ",
+			"post_uri": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_8",
+			"date_added": 1471528065
+		},
+		{
+			"comment_id": 14,
+			"body": "@Quadrangle: Also, Photoshop is not available for Linux.",
+			"post_uri": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_8",
+			"date_added": 1471528130
+		},
+		{
+			"comment_id": 15,
+			"body": "@Tkarita: because someone incorrectly configured clock",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_25",
+			"date_added": 1471657147
+		},
+		{
+			"comment_id": 16,
+			"body": "In the sidebar - try to drag a circle-button with zero (0) to left.\nOr directly in content.js",
+			"post_uri": "1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_10",
+			"date_added": 1471747691
+		},
+		{
+			"comment_id": 17,
+			"body": "I'm not alone here, with my openSUSE :D",
+			"post_uri": "1HMaKiFfNuGYkiCk1mRMnBUcNNsECgxxzh_1472859345",
+			"date_added": 1472958966
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1470888543
+		},
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS",
+			"user_name": "ZAlex",
+			"date_added": 1470906269
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ",
+			"user_name": "GomZik",
+			"date_added": 1470913897
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV",
+			"user_name": "Mynameislegion",
+			"date_added": 1471138229
+		},
+		{
+			"follow_id": 5,
+			"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
+			"auth_address": "1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9",
+			"user_name": "Shellbound",
+			"date_added": 1471139731
+		},
+		{
+			"follow_id": 7,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN",
+			"user_name": "Flyman",
+			"date_added": 1471165166
+		},
+		{
+			"follow_id": 8,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1471222123
+		},
+		{
+			"follow_id": 9,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1471266747
+		},
+		{
+			"follow_id": 10,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u",
+			"user_name": "Lola",
+			"date_added": 1471518873
+		},
+		{
+			"follow_id": 11,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1471656714
+		},
+		{
+			"follow_id": 12,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9",
+			"user_name": "Shellbound",
+			"date_added": 1471656849
+		},
+		{
+			"follow_id": 13,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1HMaKiFfNuGYkiCk1mRMnBUcNNsECgxxzh",
+			"user_name": "Monstoor",
+			"date_added": 1472958976
+		},
+		{
+			"follow_id": 14,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "156HySyXH37jFXXqKCwVq8HqsrZLZzy8Qx",
+			"user_name": "rushka life feed",
+			"date_added": 1473562865
+		},
+		{
+			"follow_id": 15,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC",
+			"user_name": "Firebox",
+			"date_added": 1473645105
+		}
+	]
+}

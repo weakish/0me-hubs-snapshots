@@ -1,0 +1,21 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "G+L9NXDoO/AnYUGqkL9JanQwwtueYmh3ZdPfd+L48NDgt6DlRKF7ikLtFzWaixCFe03CVrn+S/aVi/V5rSXh6qw=",
+ "cert_user_id": "onionbunion@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "3959fc5c884cf8010390b9e87751dc97ad6405f1f418764d86770175cd4f5875",
+   "size": 1679
+  },
+  "data.json": {
+   "sha512": "0bf39f8740b15790c1cbec6f169f84eecdf5c5ea2268868a86884be63a631cd7",
+   "size": 338
+  }
+ },
+ "inner_path": "data/users/18DodkJpLHjfEfZ3CdnZuvAN4r6ATsfmo7/content.json",
+ "modified": 1471439501.842,
+ "signs": {
+  "18DodkJpLHjfEfZ3CdnZuvAN4r6ATsfmo7": "HJvMizVQxZKYYFbTtqyzUnBB5Nu6OtjLVEWJeS2wMzUo4Fu8FyAhFxhpW1M3cSV/zNSNuXiUUp5quMZy5PWNlQQ="
+ }
+}

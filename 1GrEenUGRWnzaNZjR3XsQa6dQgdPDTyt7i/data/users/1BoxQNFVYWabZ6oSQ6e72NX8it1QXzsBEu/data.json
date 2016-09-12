@@ -1,0 +1,41 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 1,
+	"next_follow_id": 4,
+	"avatar": "jpg",
+	"user_name": "Buttle",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1473609617,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1BBCbDdZtZ5ZJGhF2WcMRcn3FEKQ7PaoMS",
+			"user_name": "Drymer",
+			"date_added": 1473609801
+		},
+		{
+			"follow_id": 2,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1BxuLKAJ4MLrDLMoRgFA5n5kZjoDDNjfHm",
+			"user_name": "Zorro",
+			"date_added": 1473609895
+		},
+		{
+			"follow_id": 3,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1HcK5Hw1rPZeYdgTmqJGrVG2tSyR9Ke2Gt",
+			"user_name": "Mama21mama",
+			"date_added": 1473609948
+		}
+	]
+}

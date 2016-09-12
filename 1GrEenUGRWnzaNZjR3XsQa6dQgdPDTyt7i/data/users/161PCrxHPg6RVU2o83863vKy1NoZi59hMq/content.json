@@ -1,0 +1,21 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "GysMBLxjPuceg11iLQHLznI4CkbcNxxqcAgJufFVxkkk1O09xCHAbi6xx0xkiYskx3B2c+41NEUKcbuLXCrMkNA=",
+ "cert_user_id": "forteller@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "9715924939caa50d2e37aff955d6133a5222e93867c88d11311eaac502f592d5",
+   "size": 1419
+  },
+  "data.json": {
+   "sha512": "5ecf6aeaf0ac8ff06a63dc4cec425da40f9061c662b7650daf631521ee6f5848",
+   "size": 3906
+  }
+ },
+ "inner_path": "data/users/161PCrxHPg6RVU2o83863vKy1NoZi59hMq/content.json",
+ "modified": 1472840950.790285,
+ "signs": {
+  "161PCrxHPg6RVU2o83863vKy1NoZi59hMq": "HLOlM1doJ3bwZQAZzV1uTRNw14+JSIdWCwHrbi+VwFxS+7lcmnxDsY6sw1Rdv1xPGhTyB+TxGyI1/336xK+JQHQ="
+ }
+}

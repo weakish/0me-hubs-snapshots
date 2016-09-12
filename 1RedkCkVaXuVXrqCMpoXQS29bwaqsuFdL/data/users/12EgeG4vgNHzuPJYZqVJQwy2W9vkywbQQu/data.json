@@ -1,0 +1,409 @@
+{
+	"next_post_id": 8,
+	"next_comment_id": 49,
+	"next_follow_id": 10,
+	"avatar": "png",
+	"user_name": "PaintNinja",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"intro": "[NinjaBeats](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/)",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1470863726,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 2,
+			"body": "My ZeroMe features wishlist:\n- Ability to attach one or more images to posts\n- Reposts, #hashtags and @mentions\n- Searchbox for finding posts, comments and users easily\n- Ability to upload your own image background on your profile (currently you can just have a profile pic and a grey background like the rest of the site - it would be cool if we could upload our own custom background or at least allow us to change the colour of the background to one of a few presets)\n- Ability to write a new post from your own profile page rather than needing to go to to the home page first\n\nThanks to @Musickiller for some of the ideas",
+			"date_added": 1470914193
+		},
+		{
+			"post_id": 3,
+			"body": "I've discovered that ZeroMe supports some basic markdown... cool!",
+			"date_added": 1470923691
+		},
+		{
+			"post_id": 4,
+			"body": "I've been thinking about how it would be possible for people to share, stream and preview music on ZeroNet (and NinjaBeats) without needing to setup a zite or having to use something like ipfs or clearnet...\n\nUsing WebTorrent, I've made a tiny *experimental* webapp that'll allow you to do just that - just give it a magnet link and it'll stream and seed the music as it receives it!\n \nTry our demo [here](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/v1/audio.html?audioFile=magnet:?xt=urn:btih:68cd19c5b70845e09bfec39e739817a9e7c71258&dn=Paradise.m4a&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=wss%3A%2F%2Ftracker.btorrent.xyz&tr=wss%3A%2F%2Ftracker.fastcast.nz&tr=wss%3A%2F%2Ftracker.openwebtorrent.com&tr=wss%3A%2F%2Ftracker.webtorrent.io) - the demo streams the song Paradise by [Coldplay](http://coldplay.com)\n\n.\n_Known limitations and issues:_\n- It will stop seeding once you leave the page\n- It only streams and downloads in the web browser from seeders also in a web browser or clients using WebRTC like [WebTorrent's desktop client](https://webtorrent.io/desktop)\n- Only works with m4a and Opus files as browsers only natively support Opus, m4a and mp4 in WebRTC at the moment\n- First time use takes quite a while to load. Wait a couple of minutes and it should eventually start buffering.\n- Google Chrome has a bug causing the page to crash if you attempt to click play while the audio is still buffering. A possible workaround is to just wait for it to autoplay on its own.",
+			"date_added": 1471264310
+		},
+		{
+			"post_id": 5,
+			"body": "As you might already know, public torrents tend to be very slow because barely anyone seeds and some people seem to think it's a good idea to cap their upload speeds stupidly low... There's also times where people upload torrents claiming they're part of a group they're not - causing mislead users to get lower quality content than expected or potentially dangerous files (e.g. malware, viruses, etc...).\n\nWhen NinjaBeats launches, we're completely aware of those issues and want to ensure that everyone wanting to participate in our project, can genuinely do so. That's why we're planning on having an official listing for all of the content we publish while additionally thinking up of our own cool kinds of distribution which guarantees decent download speeds.\n\nAnyway, to the point of this post... Over the last few days I've been working on the official listing and made great progress - it's a heavily modified clone of Kaffiene search and I think it looks beautiful... :) You can type in a part of a song name, artist name, album name, genre or just about anything about the tracks you want - and they'll appear instantly. Click on the artist result and you're taken to a custom page all about the artist where you can download or stream anything by them, as well as the ability to see upcoming events and possibly chat with other fans.\n\nWhile it all works great, it's all static at the moment. I'm looking for script developers who could automate the generation of all these individual pages or better, make the listing a bit more dynamic. If anyone's interested, let me know by contacting me on [ZeroMail](http://127.0.0.1:43110/Mail.ZeroNetwork.bit/?to=paintninja).\n\nUPDATE: Screenshots added.\nHomepage: https://ipfs.pics/QmdhWyaw2tAc5Y2U3iXmP6xRP58i5wPyhL5umD7rdypTD5\nThe \"Meet the artists\" page (just a few manually entered in atm): https://ipfs.pics/QmYDZm8u7eurWHspZH3hxbMY7urcrntvH68YHyozwKWxpz\nSearching for a partial song name: https://ipfs.pics/QmSPw4DBZtajEsk5AX8b17XQTKwBQCeQWHuaBPMZLwuL2v\nArtist page (needs some dynamic code to populate the albums and events areas): https://ipfs.pics/Qmezw7xArCCoseVkM83fdtHzE7BkkGsajeVVxo9xaZsjtm",
+			"date_added": 1471710770
+		},
+		{
+			"post_id": 1472829401,
+			"body": "You can now donate to NinjaBeats [here](bitcoin:1XpfpsMhvY1gLCRNW3bxkTjj6yQJzN4kL).",
+			"date_added": 1472829395
+		},
+		{
+			"post_id": 1473012327,
+			"body": "Following the unexpected large interest from a music sharing [experiment conducted last month](http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Post/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu/4), I have decided to overhaul it and make it fully stable and powerful, compatible both embedded in a webpage (such as on the NinjaBeats listing or a fork of ZeroMe) and just stand-alone.\n\n**Introducing the NinjaBeats music streamer v2**. It works with a much broader range of music files and has lots of error catching and features compared to my last version.\n\n_Here's what's new:_\n- A complete overhaul on all fronts.\n- Supports album art which is shown beside the player\n- It now shows the name of the currently playing track - even if the ID tags are missing or incorrect, by using some simple algorithms on the track's filename.\n- Your existing links will \"just work\" on this new streamer without even needing to change the URL\n- You can now use a torrent info hash/ID like in Bwoi Music rather than needing to put the whole magnet link.\n- Much faster, more reliable and more detailed in the statistics\n- Even more stuff that I don't want to list here\n\n_Demos!_\n[Stream 7 Years by Lukas Graham (using torrent info hash)](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html?audioFileID=c180e66e0892890cc0f1aa36ec528658e547d799)\n[Stream Bad Habit by The Kooks (using magnet link)](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html?audioFile=magnet:?xt=urn:btih:060097c0fbdd735173e89f021ae2b5a9c3df9abc&dn=The+Kooks&tr=wss%3A%2F%2Ftracker.btorrent.xyz&tr=wss%3A%2F%2Ftracker.fastcast.nz&tr=wss%3A%2F%2Ftracker.openwebtorrent.com&tr=wss%3A%2F%2Ftracker.webtorrent.io)",
+			"date_added": 1473012320
+		}
+	],
+	"post_like": {
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_2": 1470863787,
+		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_12": 1470913776,
+		"1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ_6": 1470913813,
+		"1BePwsiwFD8BjtYfB8tQegiKXDLnHWW1Um_3": 1470913904,
+		"1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ_9": 1470913910,
+		"1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ_10": 1470914680,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_6": 1470948017,
+		"12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_2": 1470948023,
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_9": 1470953243,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_7": 1471018533,
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_10": 1471114438,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_10": 1471263067,
+		"12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_4": 1471264822,
+		"1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib_9": 1471362792,
+		"1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_7": 1471375182,
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1471959669": 1471960484,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1472462658": 1472473564,
+		"12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1473012327": 1473016369,
+		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1473038909": 1473352149
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Nice work with the UI, looks nice yet clean!",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_2",
+			"date_added": 1470863847
+		},
+		{
+			"comment_id": 2,
+			"body": "@Scrub I've tried putting the link on a new line but it still moves outta the div... just not as much. Looks like a bug in ZeroMe at the moment.",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1",
+			"date_added": 1470911083
+		},
+		{
+			"comment_id": 3,
+			"body": "@Aizen123 I've always been impressed by how fast ZeroNet zites are compared to clearnet ones... The local caching system and torrent-style distribution really makes a huge difference in performance :D",
+			"post_uri": "1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ_6",
+			"date_added": 1470913878
+		},
+		{
+			"comment_id": 4,
+			"body": "Agreed!",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_2",
+			"date_added": 1470914603
+		},
+		{
+			"comment_id": 5,
+			"body": "@Jayofthezero Try putting dashes (\"-------\") with one new line padding on either side, like this maybe?\n\n-----------\n\nTest",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_3",
+			"date_added": 1471009893
+		},
+		{
+			"comment_id": 6,
+			"body": "I like the ZeroNet site design much more... you just need to reduce the amount of padding so I don't have to scroll so much and it's great!",
+			"post_uri": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_4",
+			"date_added": 1471010048
+		},
+		{
+			"comment_id": 7,
+			"body": "@Jayofthezero: Sure, do something like this for a line seperator:\n\"This is the top line\n\n---------\n\nThis is the bottom line\"\n\nNotice how there's a blank line on either side of the dashes, that's the \"padding\".",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_3",
+			"date_added": 1471018755
+		},
+		{
+			"comment_id": 8,
+			"body": "@Jayofthezero: Shift+Enter does a new line on websites that would usually submit something if you do a normal enter ;)",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_3",
+			"date_added": 1471114411
+		},
+		{
+			"comment_id": 9,
+			"body": "As far as I'm aware, you do not need to seed hubs to view content from other hubs.",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_8",
+			"date_added": 1471259801
+		},
+		{
+			"comment_id": 10,
+			"body": "You're welcome :)",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_3",
+			"date_added": 1471259850
+		},
+		{
+			"comment_id": 11,
+			"body": "Tested and confirmed working in Firefox. The audio will autoplay once enough has buffered, so maybe try waiting for it to play automatically without clicking the play button manually(?)",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_4",
+			"date_added": 1471264717
+		},
+		{
+			"comment_id": 12,
+			"body": "Thanks for post linking!",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_9",
+			"date_added": 1471265074
+		},
+		{
+			"comment_id": 13,
+			"body": "@Hostfat: I'll add it to the known issues list",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_4",
+			"date_added": 1471265098
+		},
+		{
+			"comment_id": 14,
+			"body": "@Jayofthezero: According to WebTorrent's website, only their own desktop client and Vuze currently support seeding using both normal TCP/UDP torrents and WebRTC torrents. However, anyone streaming from the web browser will be seeding over WebRTC until they close the tab and the WebTorrent desktop client seems to work pretty well with seeding both (that's what I'm using for the demo)",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_4",
+			"date_added": 1471265396
+		},
+		{
+			"comment_id": 15,
+			"body": "@Tkarita: Does that use WebRTC for streaming the audio or is it a skinned music player? Skim reading the code, it just looks like a skinned music player and could be patched to work on Firefox with some code changes. My music streamer uses a WebRTC torrenting system and relies on the web browser's standards support in order to work, so maybe my streamer will magically work in the future when Google adds support for MP4 audio streaming over WebRTC ;)",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_4",
+			"date_added": 1471265644
+		},
+		{
+			"comment_id": 16,
+			"body": "@Tkarita: The player only supports formats the browser does through WebRTC. Opus works (either as .opus or contained in an .ogg) and AAC/M4A works on Edge 15 and Firefox (with Chrome adding support in a future release). I'm using M4A in the demo as it's more universally supported outside of the browser than Opus while still having decent browser support (especially in the future when Google decides to catch up with audio codec support on WebRTC).",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_4",
+			"date_added": 1471267479
+		},
+		{
+			"comment_id": 17,
+			"body": "@P2P: I gave that a go last week and it was pretty good, but it requires software to be installed on the computer and the demo file never loaded for me :/ My aim here is to have something similar to your universal_p2p but without any client software or your own ZeroNet zite required. Maybe I just need to wait a while for your software to be more stable, as it's still very early days ",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_4",
+			"date_added": 1471268013
+		},
+		{
+			"comment_id": 18,
+			"body": "@RiotPulv: WebTorrent uses WebRTC... By the way, the only data I'm aware it could leak is your public-facing IP address, which can be circumvented on ZeroNet by setting Tor mode to \"Always\". As for local-facing IP address, that can be prevented by changing a setting in your web browser",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_4",
+			"date_added": 1471276090
+		},
+		{
+			"comment_id": 19,
+			"body": "@Sirenyc: Currently only Firefox and Edge 15 (on Win10 Redstone 2 for Insiders) works with the demo. If it's not too complicated to do, I may make some polyfills to support browsers that don't have the web standards required for this player to fully work.",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_4",
+			"date_added": 1471281311
+		},
+		{
+			"comment_id": 21,
+			"body": "Thanks everyone for your support during such early stages in development, we might have just made ZeroMe's first ever post with the most comments! :P\n\n@Kaffie: Funny enough I actually found out about WebTorrent when I stumbled upon Fastcast, and was curious to see if I could make my own embeddable, lightweight webapp that did something similar but easier and without the need of your own zite or specific static pages.\n\nOnce Chrome gets support for m4a streams over WebRTC like every other browser already has (which hopefully is soon), compatibility shouldn't be a problem. Even though atm this webapp is just a prototype, it's reasonably stable on all browsers that support the standards it needs.\n\nAnd don't worry about 0 seeding peers on any streams I post, as I plan on using this as a cool feature for previewing and possibly downloading music from the upcoming NinjaBeats listing and I'll have multiple dedicated servers seeding 24/7 on both the standard BitTorrent TCP/UDP and website streamer WebRTC.\n\nAnd maybe in the far future when my programming skills get good enough and if the popularity of this streamer remains high, I'll implement some kind of optional server caching for magnet links so that streams leeched within the last x days remain seeded by a server. :)",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_4",
+			"date_added": 1471296798
+		},
+		{
+			"comment_id": 22,
+			"body": "@Sirenyc: Done!",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_4",
+			"date_added": 1471360625
+		},
+		{
+			"comment_id": 23,
+			"body": "@Tkarita: Yep, although I don't recommend it as the file size is often far too large for streaming - especially when there aren't many seeding peers. ;)",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_4",
+			"date_added": 1471375567
+		},
+		{
+			"comment_id": 24,
+			"body": "@Hoot: While that's a nice idea we're planning on distributing over 1000 unique albums in FLAC format (roughly 300GB of stuff!) on launch day, so it would be too much of a hassle to set up a separate zite for each album and it might spam people's ZeroHello page very quckly... :/\n\nOptional files on the main listing zite are under consideration, although again we're unsure about this as it'll require people to raise their storage limit for the NinjaBeats zite up to the point where some people won't have the space to increase it any further and may not know how to delete the zite to carry on getting more music.\n\nBecause of this it's a bit of a challenge to figure out the best means of distribution that won't cause either slow downloads or a confusing experience for some users. It's likely that we'll initially be using a refined version of this streaming experiment I've already got here though (with a download/save file feature of course), as it's like standard torrenting without the need for any additional software and there's no easy way for people to cap their upload speeds causing slow downloads for everyone.",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_4",
+			"date_added": 1471463432
+		},
+		{
+			"comment_id": 25,
+			"body": "Use the optional_files feature in ZeroNet so that content is only downloaded when requested rather than requiring everything to be downloaded before the zite can be viewed",
+			"post_uri": "1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_9",
+			"date_added": 1471711831
+		},
+		{
+			"comment_id": 26,
+			"body": "@Quadrangle: Assuming everything goes to plan, we should have at least a couple of servers seeding and hosting all the content with 1Gbps connections, thanks to someone who goes by the name \"Lemo\" :)",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_5",
+			"date_added": 1471806678
+		},
+		{
+			"comment_id": 27,
+			"body": "@Sirenyc: Sure! :) Please bear in mind that it's still a WIP and stuff may change - feedback is welcome.\n\nHomepage: https://ipfs.pics/QmdhWyaw2tAc5Y2U3iXmP6xRP58i5wPyhL5umD7rdypTD5\nThe \"Meet the artists\" page (just a few manually entered in atm): https://ipfs.pics/QmYDZm8u7eurWHspZH3hxbMY7urcrntvH68YHyozwKWxpz\nSearching for a partial song name: https://ipfs.pics/QmSPw4DBZtajEsk5AX8b17XQTKwBQCeQWHuaBPMZLwuL2v\nArtist page (needs some dynamic code to populate the albums and events areas): https://ipfs.pics/Qmezw7xArCCoseVkM83fdtHzE7BkkGsajeVVxo9xaZsjtm\n\nBy the way, the artist page banner has a parallax effect which isn't visible in a static screenshot.",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_5",
+			"date_added": 1471807957
+		},
+		{
+			"comment_id": 28,
+			"body": "Maybe one day if NinjaBeats is a hit at launch, I'll look into NinjaFlicks for films ;)",
+			"post_uri": "1CFhytwoGGPNqmueehPqotaf2iG9uxD98e_14",
+			"date_added": 1471881477
+		},
+		{
+			"comment_id": 29,
+			"body": "@Sirenyc: Thanks for your feedback and a list of some potential artists to add to the collection. Note that while I'll be working on gradually adding stuff from your list overtime, there's no guarantee I'll be able to obtain some of the music or make it available on launch day. :)\n\nAs for donations and ads, we're working on it and will post a status update here on ZeroMe when it's done. If we do end up adding any ads to our listing in the future, we will make sure that they are unobtrusive and that they respect your privacy. Additionally, we may give the artists a percentage of any revenue we make for legal and ethical reasons.",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_5",
+			"date_added": 1472067618
+		},
+		{
+			"comment_id": 30,
+			"body": "@Lemo3tornode: Thanks! :)",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_5",
+			"date_added": 1472067675
+		},
+		{
+			"comment_id": 31,
+			"body": "@Jayofthezero: Yes, the aim is to have NinjaBeats and the listing all built for ZeroNet.\n\nI'm honestly not sure how I would share revenue with artists to be honest... I haven't really thought it through that much yet. There could be a variety of methods I could go about it...\n- I could try officially licensing music but no guarantee we'll get anywhere considering that we want it completely DRM-free and compatible on any and every device. I might not get a response at all from some artists or labels.\n- I could setup an advertising system that splits revenue depending on popularity of the artist (e.g. an artist that's popular on NinjaBeats gets a higher percentage of ad revenue) and each artist's revenue gets stored into a separate Bitcoin wallet. The funds from the wallets could get transferred to the artists whenever a copyright claim from an artist is filed or whenever either we get in contact with the artist or the artist gets in contact with us (which we'll make sure it'll be easy to contact us).\n\nI'm going to attempt both approaches in an anonymous manner. This'll mean that even if we fail officially licensing music, we'll still at least be seen as ethical and not wanting damage to the industry by providing ad revenue to the artists wherever and whenever possible and not making a profit for ourselves out of artist's works where it's not legal to do so.",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_5",
+			"date_added": 1472233338
+		},
+		{
+			"comment_id": 32,
+			"body": "@Anonymous6354: Anonymous, unobtrusive ads",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_5",
+			"date_added": 1472311355
+		},
+		{
+			"comment_id": 33,
+			"body": "@Anonymous6354: Hopefully it'll become a success... I'm just quite concerned about the potential legal issues :/",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_5",
+			"date_added": 1472380611
+		},
+		{
+			"comment_id": 34,
+			"body": "@Sirenyc: There is no bullet-proof way of being entirely anonymous on the internet. Sure, you can make it more difficult to be tracked, but the only certain method of not being tracked online is to not be online.\n\nEven if I won't need to worry about any copyright problems, I don't want to feel as if I am damaging the music industry. I see the NinjaBeats project as a movement towards a different, less restrictive method of enjoying music and connecting the artists with their fans rather than a pirated music site which just wants to make a profit out of other people's works.",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_5",
+			"date_added": 1472474295
+		},
+		{
+			"comment_id": 35,
+			"body": "@Anonymous6354: I've used ZeroTube recently and it worked just fine with just 1 peer on a video on Firefox... Maybe you're using Chrome? At the moment, Chrome has poor support for WebRTC video and audio codecs.",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_5",
+			"date_added": 1472486577
+		},
+		{
+			"comment_id": 36,
+			"body": "@Anonymous6354: I've just done some tests on WebRTC leaking in the latest stable versions of Firefox and Chrome, with both on default settings. https://ipfs.pics/QmbBuiNr6mS5E4V8XJXwgwxHXDJFwYKWq6Xf8JHkPejGMq\n\nBy disabling WebRTC entirely, sites like ZeroTube and WebTorrent stuff won't work. I recommend checking out that Chrome extension or trying a more privacy-focused browser such as Iron Browser or Firefox.",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_5",
+			"date_added": 1472816215
+		},
+		{
+			"comment_id": 37,
+			"body": "@Sirenyc: Just finished setting up a Bitcoin wallet for accepting donations and I'm just manually going through everything in the library and adding it to the listing as I don't have sufficient dynamic code knowledge and nobody has yet to come forward to offer help in that area.",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_5",
+			"date_added": 1472829574
+		},
+		{
+			"comment_id": 38,
+			"body": "@Alex (Bwoi): No browser fully supports everything yet, each browser has its own set of features with reasonable overlap with other vendors. In my personal opinion I believe that the major browsers should be supported by developers, not just one specifically. I'm not saying we should be making workarounds for browsers that don't support stuff, but I do think we should at least test our web creations on the major browsers to make sure it at least works - even if some visual effects are missing. I just really hate it when I visit a website and it tells me I have to use something else or the links don't work because it wasn't tested in my browser (regardless of it being Firefox, Chrome, Edge, etc...) - sometimes other browsers may not be available for my system (e.g. Windows Phone, iOS to a point, etc...).\n\nIf the page requires a certain feature like WebRTC to work at all and the browser doesn't support it, then I believe it is acceptable to at least notify the user that it might not work, but allow the user to go ahead anyway and dismiss the warning or something.",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_5",
+			"date_added": 1472833522
+		},
+		{
+			"comment_id": 39,
+			"body": "@Sirenyc: Does the bitcoin address 1XpfpsMhvY1gLCRNW3bxkTjj6yQJzN4kL  not work? What's the error?",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1472829401",
+			"date_added": 1472916276
+		},
+		{
+			"comment_id": 40,
+			"body": "@Anonymous6354: Obviously a WebRTC leak test won't show any data if WebRTC is disabled. Your browser doesn't need WebRTC to work entirely, but on websites that need it like ZeroTube, those sites won't work, just like the WebRTC leak test.",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_5",
+			"date_added": 1472917543
+		},
+		{
+			"comment_id": 41,
+			"body": "@Anonymous6354: While it won't require it, some features may be unavailable without it (such as previewing tracks via streaming). You will still be able to use everything else though, including downloading FLACs directly from the browser and searching the listing. Mainly we only use WebRTC for the streaming demo at the moment for people to easily share music with each other... I'm not even sure if we'll need streaming via WebRTC it on launch day for our official library just yet.",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_5",
+			"date_added": 1472920889
+		},
+		{
+			"comment_id": 42,
+			"body": "@Sirenyc: Sure, I'll do that once I know that the bitcoin address is valid. I'm pretty new with Bitcoin and this is my first time using it",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1472829401",
+			"date_added": 1472921013
+		},
+		{
+			"comment_id": 43,
+			"body": "@Tkarita: @Sirenyc: Thanks for your help. I've been aware of being able to donate directly to zites but I couldn't figure out how to import it into my Bitcoin client (I'm using Copay), which is why I'm just providing a bitcoin address at the moment, although Sirenyc has said that there's an error with it, what's the error? Did I make a typo somewhere?",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1472829401",
+			"date_added": 1472929296
+		},
+		{
+			"comment_id": 44,
+			"body": "@Anonymous6354: No thanks, I feel like I'm okay with Photoshop already, but thanks for offering. :)",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_5",
+			"date_added": 1472938204
+		},
+		{
+			"comment_id": 45,
+			"body": "@Sirenyc: Sorry for the late reply, I didn't get a notification until now. If your browser or client doesn't support bitcoin links, you can try donating directly to the address: 1XpfpsMhvY1gLCRNW3bxkTjj6yQJzN4kL",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1472829401",
+			"date_added": 1473098508
+		},
+		{
+			"comment_id": 46,
+			"body": "@Mytest: There is a known issue on Chrome (it's on Google's side so it's out of my control sadly) that if you click play on an audio stream before it autoplays, the browser will crash. A known workaround in Chrome is to just wait until the music autoplays anyway and don't click pause/play until it starts playing automatically",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1473012327",
+			"date_added": 1473100046
+		},
+		{
+			"comment_id": 47,
+			"body": "@Sirenyc: Thanks! Now I just need to eventually add support for playlists, albums and NinjaBeats database integration (the integration being that the player detects the artist of the currently playing track and it'll add a link to the official artist page on the NinjaBeats listing) :D",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1473012327",
+			"date_added": 1473100108
+		},
+		{
+			"comment_id": 48,
+			"body": "@Mytest: I can't catch and disable the onclick event for Chrome until it autoplays because as far as I'm aware, Chrome does not fire any events which indicate that the audio has started autoplaying, although I'll try to add a notice for Chrome users in the near future - thanks for the suggestion",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1473012327",
+			"date_added": 1473186526
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1470863785
+		},
+		{
+			"follow_id": 2,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N",
+			"user_name": "Quadrangle",
+			"date_added": 1470864015
+		},
+		{
+			"follow_id": 4,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L",
+			"user_name": "Alex (Bwoi)",
+			"date_added": 1471375829
+		},
+		{
+			"follow_id": 5,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1Lye3ahX99TGQkQbuCUtZADGBqVeVpYxfr",
+			"user_name": "Lemo3tornode",
+			"date_added": 1472037163
+		},
+		{
+			"follow_id": 6,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t",
+			"user_name": "tkarita",
+			"date_added": 1472332306
+		},
+		{
+			"follow_id": 7,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "13Cqt2MSFS6eu4cbVuByZBuULrEAcZAqFG",
+			"user_name": "https://bit.no.com",
+			"date_added": 1472935800
+		},
+		{
+			"follow_id": 8,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1473186613
+		},
+		{
+			"follow_id": 9,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ",
+			"user_name": "Sirenyc",
+			"date_added": 1473363475
+		}
+	]
+}

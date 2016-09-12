@@ -1,0 +1,17 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "G/WQ0t0gsE23lq/724bqtEoYIAd/Xlk9yCZn/XArAh+ji1yqVcTsAEpmkL0BQzkgEwSFj63pVllaBxnRcn4LSg4=",
+ "cert_user_id": "danielvartan@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "deb253facc0903b99f797f1f9c18ba9f43ebea0c9ee7faededce8a17f06e8b3f",
+   "size": 344
+  }
+ },
+ "inner_path": "data/users/1FkhsZBNVFnXGp3qtdPfAVv6HLJ49EjVwW/content.json",
+ "modified": 1472202348.228,
+ "signs": {
+  "1FkhsZBNVFnXGp3qtdPfAVv6HLJ49EjVwW": "HPXf+gl0gsh2xHbWJCXT+sGNoLTtudBjRkNhwVHCsdYr9esbG4bsi8QvxJRAdMK6sP/XwjwWpPTJOitCxKGLkzU="
+ }
+}

@@ -1,0 +1,26 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 2,
+	"next_follow_id": 1,
+	"avatar": "jpg",
+	"user_name": "Dios",
+	"hub": "1HNf26SK9Hi9LES1kUKg6r36hDwhBdNBKM",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471540461,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "http://127.0.0.1:43110/1HNf26SK9Hi9LES1kUKg6r36hDwhBdNBKM works",
+			"post_uri": "13U9mRgV3bdkXiNXjMZeBWTcSHZjgNmk2z_1",
+			"date_added": 1471545326
+		}
+	],
+	"follow": []
+}

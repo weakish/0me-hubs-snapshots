@@ -1,0 +1,21 @@
+{
+ "address": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+ "cert_auth_type": "web",
+ "cert_sign": "HNt7QTL4KiPBG3IMgcoh0ArSszaUD57e99H3zSLTcsdm4ItuWHYHXNXG8Yijh6gCWa09jwe5hsKuZmBNiJmNHm8=",
+ "cert_user_id": "samaritan@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "8f46432b752b31356435e91ea9835eaebca4f07261309d1e1030908b0451d2c4",
+   "size": 1482
+  },
+  "data.json": {
+   "sha512": "5cf65ff2d2bd1bd6f9f15d20869f196c07e5b0886b94bca91c6f77f4aad96334",
+   "size": 864
+  }
+ },
+ "inner_path": "data/users/124jF4kNqqt9nufDi7fXCvrZA2KShZFr13/content.json",
+ "modified": 1471220387.1873,
+ "signs": {
+  "124jF4kNqqt9nufDi7fXCvrZA2KShZFr13": "HE4QrfsSlMaIj3ZgbKutnw3ZWoNu8Ij7iY13NqDhb7g45z0i+5Gq03st1p6BoWRGJkEtOI4CWQcA2/VwgjffYCA="
+ }
+}

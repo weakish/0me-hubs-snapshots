@@ -1,0 +1,17 @@
+{
+ "address": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+ "cert_auth_type": "web",
+ "cert_sign": "G6BSVVomKH9ndZW/mtL2sQgLZ7smkUdqn6SNnRhDhgbg6MKUE6uRa9Ny2GNQPVfYkMSCTFMmNthaVc53gEc7eX4=",
+ "cert_user_id": "davidescudita@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "c6be4538f46b31d5b2380d0632196950d74daec6f3caa94ad88d25727ed1ac7c",
+   "size": 345
+  }
+ },
+ "inner_path": "data/users/1E685Xk8ewNowfe7Dr5PRWKpUQBRS1waZY/content.json",
+ "modified": 1473177139.564,
+ "signs": {
+  "1E685Xk8ewNowfe7Dr5PRWKpUQBRS1waZY": "G+rUVLfBBYc8v0TTi28OpLDwJS4LmNlILtc7DxObIsrqmc5kgcdKJqBvsFq3k0HsZblVqNASvIn62ahAjITL/ig="
+ }
+}

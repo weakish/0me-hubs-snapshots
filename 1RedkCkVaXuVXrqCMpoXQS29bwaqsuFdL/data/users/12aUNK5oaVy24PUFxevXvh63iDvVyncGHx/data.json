@@ -1,0 +1,26 @@
+{
+	"next_comment_id": 4,
+	"user_name": "Durand",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "You could do a leech-only zeronet client for mobiles. I think that would be quick enough and light enough to run on phones without any problems. In fact, as it is written in python, it could probably already run on android with a few tweaks.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473431870",
+			"date_added": 1473437745
+		},
+		{
+			"comment_id": 2,
+			"body": "@Talnicrom: Hmm.. I think this would still be possible by using a \"proxy peer\". You publish to it and that peer takes care of forwarding it on to the rest of the network. Since the file is already signed by you, it should be secure.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473431870",
+			"date_added": 1473444183
+		},
+		{
+			"comment_id": 3,
+			"body": "Honestly, the moment you expect someone to run their own server on a computer is the moment you lose users. I consider myself to be very technically minded and I think expecting users to have a server always running is absurd. The only reason I have one is because I bought a Pi recently and zeronet works well on it but we shouldn't expect everyone to have to firstly download and app, secondly get a pi, then configure it to work on their network, and then connect to it every time they want to use zeronet. What about when someone is outside their network? They'd have to expose their server to the internet, with all the additional security risks associated. People are tending towards mobile-only solutions. Fewer and fewer people are buying laptops. Where do you expect them to host zeronet? This is not a good strategy.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473431870",
+			"date_added": 1473519294
+		}
+	]
+}

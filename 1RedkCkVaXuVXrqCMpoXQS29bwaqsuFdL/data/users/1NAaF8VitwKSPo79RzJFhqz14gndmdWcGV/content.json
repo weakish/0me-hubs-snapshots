@@ -1,0 +1,21 @@
+{
+ "address": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+ "cert_auth_type": "web",
+ "cert_sign": "GwFivpxzN3RNHXQ9DVH7byfgKXIwlHSDXG6PWH955usIm3NXwqSYfCHocYTwaxDkWa5dl7OFK9ZvYSOamqZdfwc=",
+ "cert_user_id": "mynameislegion@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "a5db658ee8413003d26b3c2fff464f7740b47427b1697ec6e42267e99bc51f06",
+   "size": 1361
+  },
+  "data.json": {
+   "sha512": "ca9988301d0a9dd43d2a9e73607ce353ea2e4cbf6a0bd3d42ffdd8a5f3f0e4aa",
+   "size": 24684
+  }
+ },
+ "inner_path": "data/users/1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV/content.json",
+ "modified": 1472488651.794942,
+ "signs": {
+  "1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV": "G9IhBXXp+x0RwsL2Dd2d2Uje5xg7AM/0vdzOs42FlPqBnrnetvqasqktSCjTPXPpwgLm4ZzifQl3ilb4qyzYQPM="
+ }
+}

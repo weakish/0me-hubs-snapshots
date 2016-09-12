@@ -1,0 +1,53 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 4,
+	"next_follow_id": 3,
+	"avatar": "jpg",
+	"user_name": "Anonymous6354",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user (really).",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1472177631,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "How can i message someone?",
+			"post_uri": "1DMBWEfQdEaRtsWEwZLY98b9t1ZcoG2ECM_1472248656",
+			"date_added": 1472252656
+		},
+		{
+			"comment_id": 2,
+			"body": "@Spaghettidev: I must be really stupid because i can't find no mail thing\nWhere is it?\nYou gotta explain to me like I was retarded and autistic",
+			"post_uri": "1DMBWEfQdEaRtsWEwZLY98b9t1ZcoG2ECM_1472248656",
+			"date_added": 1472483859
+		},
+		{
+			"comment_id": 3,
+			"body": "@ks: I activated my zeromail account 3 weeks ago. \nI thought you said that there was a built-in message system on zerome.",
+			"post_uri": "1DMBWEfQdEaRtsWEwZLY98b9t1ZcoG2ECM_1472248656",
+			"date_added": 1472742020
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1DMBWEfQdEaRtsWEwZLY98b9t1ZcoG2ECM",
+			"user_name": "Spaghettidev",
+			"date_added": 1472252628
+		},
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ",
+			"user_name": "Sirenyc",
+			"date_added": 1472483719
+		}
+	]
+}

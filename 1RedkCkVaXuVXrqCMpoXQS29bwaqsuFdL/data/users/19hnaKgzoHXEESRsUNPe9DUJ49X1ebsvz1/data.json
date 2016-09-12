@@ -1,0 +1,32 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 3,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "Gkittz4",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471153801,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "dollars??",
+			"post_uri": "14dWJrtWbw6sQKHgfeukbzBDJvBSnfRnTw_2",
+			"date_added": 1471153896
+		},
+		{
+			"comment_id": 2,
+			"body": "isn't it similar to webtorrent",
+			"post_uri": "1EZG8eDkCFvNkYxpHmr2WbGWcSxAsRfqTT_4",
+			"date_added": 1471156031
+		}
+	],
+	"follow": []
+}

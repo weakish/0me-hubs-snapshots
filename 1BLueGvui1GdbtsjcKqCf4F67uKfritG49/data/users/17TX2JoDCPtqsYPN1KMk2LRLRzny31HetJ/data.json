@@ -1,0 +1,153 @@
+{
+	"next_post_id": 10,
+	"next_comment_id": 10,
+	"next_follow_id": 7,
+	"avatar": "jpg",
+	"user_name": "CronianIce",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Not from this 🌎\nhttp://127.0.0.1:43110/1PfRWPUeBFMJyHctwFEBefig873v4TdTmv/",
+	"post": [
+		{
+			"post_id": 4,
+			"body": "Somehow, I accidentally deleted all my posts. It had a weird side effect of resetting my avatar and description too. I've fixed that bit now but still, it's quite strange. @Unanimous: If you didn't get the memo from my last (deleted) post, basically I thanked you for helping me out. 😉",
+			"date_added": 1471765105
+		},
+		{
+			"post_id": 5,
+			"body": "Follow my blog\nhttp://127.0.0.1:43110/12d6UD8y5h7cArxREKLmfDK6SkpAoJvCc3/\nif you love me 💖",
+			"date_added": 1471766730
+		},
+		{
+			"post_id": 6,
+			"body": "So, I've heard that ZeroID leaks your information to the clearnet if you don't choose the BitMessage option (which is hard to see).",
+			"date_added": 1471797257
+		},
+		{
+			"post_id": 7,
+			"body": "I'm trying to create a ZeroNet site with downloads, but the ZeroNet complains that the site is too big when I sign it. How should I serve you files? Over BitTorrent?",
+			"date_added": 1471811578
+		},
+		{
+			"post_id": 8,
+			"body": "Check out this section of my ZeroSite http://127.0.0.1:43110/1PfRWPUeBFMJyHctwFEBefig873v4TdTmv/?wrapper_nonce=36eae507245a7aa7dce08b26e9b4dc84199b1844f188fa4883ad64d2415aa518#hacks\n\nOn it I've released USPEX, a crystal structure prediction software, and a Base64-encoded symmetric stream cipher which I wrote in JavaScript. You can use it to encrypt messages with a pre-shared key. How you distribute the key is up to you, but I would recommend sharing in person or on an untapped line not connected to you.",
+			"date_added": 1471987392
+		},
+		{
+			"post_id": 9,
+			"body": "Windscribe VPN is currently offering 10GB for a limited time.",
+			"date_added": 1471988537
+		}
+	],
+	"post_like": {
+		"17TX2JoDCPtqsYPN1KMk2LRLRzny31HetJ_2": 1471758835,
+		"17TX2JoDCPtqsYPN1KMk2LRLRzny31HetJ_4": 1471765114,
+		"17TX2JoDCPtqsYPN1KMk2LRLRzny31HetJ_5": 1471766766,
+		"17TX2JoDCPtqsYPN1KMk2LRLRzny31HetJ_6": 1471798540,
+		"17TX2JoDCPtqsYPN1KMk2LRLRzny31HetJ_7": 1471811587,
+		"16nArdxrSaNThNp83kL8E6NLL9WD98iUne_18": 1471811658,
+		"17TX2JoDCPtqsYPN1KMk2LRLRzny31HetJ_8": 1471987404,
+		"16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_16": 1471988275,
+		"13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_4": 1471988458,
+		"17TX2JoDCPtqsYPN1KMk2LRLRzny31HetJ_9": 1471988544
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Unanimous: Thank you, it was driving me a little bonkers. It doesn't seem to render well in my browser, so the invisible links are off to the left.",
+			"post_uri": "17TX2JoDCPtqsYPN1KMk2LRLRzny31HetJ_3",
+			"date_added": 1471764392
+		},
+		{
+			"comment_id": 2,
+			"body": "@Unanimous: That may be because there aren't any other peers other than myself. I had to temporarily switch to a closed port network, so that could be why too.",
+			"post_uri": "17TX2JoDCPtqsYPN1KMk2LRLRzny31HetJ_4",
+			"date_added": 1471773673
+		},
+		{
+			"comment_id": 3,
+			"body": "@Nutomic: After looking through the source code, it looks like requests are being made to https://demo.zeronet.io/ZeroID/request.php when creating the ID and verifying the user is done through https://demo.zeronet.io/ZeroID/solution.php. I'll post details on my ZeroBlog later.",
+			"post_uri": "17TX2JoDCPtqsYPN1KMk2LRLRzny31HetJ_6",
+			"date_added": 1471798515
+		},
+		{
+			"comment_id": 4,
+			"body": "@Jayofthezero: Haven't heard of KaffieID, but I've tried to sign up for ZeroVerse. Bitmessage seems to take forever to get his encryption key.",
+			"post_uri": "17TX2JoDCPtqsYPN1KMk2LRLRzny31HetJ_6",
+			"date_added": 1471811034
+		},
+		{
+			"comment_id": 5,
+			"body": "@Talnicrom: Both SSL and Tor are susceptible to attacks though (which, I guess you kinda mentioned), so that's not ideal. Also, I haven't been able to get Tor to work properly with ZeroNet on OS X anyway. Not saying it's a bad idea to use SSL and Tor, but I wish ZeroNet had a better option.",
+			"post_uri": "17TX2JoDCPtqsYPN1KMk2LRLRzny31HetJ_6",
+			"date_added": 1471811283
+		},
+		{
+			"comment_id": 6,
+			"body": "@Testset: Thank you! I had no idea there was a Wiki on ZeroNet.",
+			"post_uri": "17TX2JoDCPtqsYPN1KMk2LRLRzny31HetJ_7",
+			"date_added": 1471839518
+		},
+		{
+			"comment_id": 7,
+			"body": "@Xe: Didn't go with this option, but that project looks interesting. Thanks for sharing!",
+			"post_uri": "17TX2JoDCPtqsYPN1KMk2LRLRzny31HetJ_7",
+			"date_added": 1471839543
+		},
+		{
+			"comment_id": 8,
+			"body": "I would imagine it takes some time to publish edits and deletes to some peers. Someone could go into the data directory on their local computer and view your old posts, but that's only if they've previously requested the data.",
+			"post_uri": "16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_16",
+			"date_added": 1471988243
+		},
+		{
+			"comment_id": 9,
+			"body": "Sometimes there are other errors with sites that don't show on the ZeroNet interface. If you sign through terminal then it may give more details. For example, if you put a file that's too big, it will complain that the site is too large.",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_4",
+			"date_added": 1471988456
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "17TX2JoDCPtqsYPN1KMk2LRLRzny31HetJ",
+			"user_name": "Cronianice",
+			"date_added": 1471758846
+		},
+		{
+			"follow_id": 2,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1H5VKNWtkBA7RpJWyYuFw5bqjwbgjXoqKp",
+			"user_name": "Unanimous",
+			"date_added": 1471765141
+		},
+		{
+			"follow_id": 3,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "17TX2JoDCPtqsYPN1KMk2LRLRzny31HetJ",
+			"user_name": "CronianIce",
+			"date_added": 1471766769
+		},
+		{
+			"follow_id": 4,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1H5VKNWtkBA7RpJWyYuFw5bqjwbgjXoqKp",
+			"user_name": "Unanimous",
+			"date_added": 1471798622
+		},
+		{
+			"follow_id": 5,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "17TX2JoDCPtqsYPN1KMk2LRLRzny31HetJ",
+			"user_name": "CronianIce",
+			"date_added": 1471798640
+		},
+		{
+			"follow_id": 6,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne",
+			"user_name": "Jayofthezero",
+			"date_added": 1471811649
+		}
+	]
+}

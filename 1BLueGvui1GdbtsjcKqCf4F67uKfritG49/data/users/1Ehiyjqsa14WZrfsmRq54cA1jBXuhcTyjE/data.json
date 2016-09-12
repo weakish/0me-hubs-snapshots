@@ -1,0 +1,53 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 2,
+	"next_follow_id": 4,
+	"avatar": "generate",
+	"user_name": "Chiarelli",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1472769493,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1472769857,
+			"body": "Se tiver algum brasileiro para me ajudar a usar essa nova plataforma, serei muito grato!",
+			"date_added": 1472769855
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Seja bem-vindo!",
+			"post_uri": "1PGFKCfMSL1QdudndfYCo4mGM8E8XKzMMG_1",
+			"date_added": 1472769575
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PGFKCfMSL1QdudndfYCo4mGM8E8XKzMMG",
+			"user_name": "Roberth Castaño",
+			"date_added": 1472769558
+		},
+		{
+			"follow_id": 2,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1Kz1uZrEtodpWQJEsqf7VGgaUQbcpqBh5R",
+			"user_name": "Anymus",
+			"date_added": 1472769653
+		},
+		{
+			"follow_id": 3,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1CmQtSWf8zQtufk4VRFCsonHPU3sPGuXRa",
+			"user_name": "Tudosobretodos",
+			"date_added": 1472769890
+		}
+	]
+}

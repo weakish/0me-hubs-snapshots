@@ -1,0 +1,40 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 3,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Suzouhiodjzmldh",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1470862241,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "hey there",
+			"post_uri": "12iiajZz3dGdYuEyqTR5hvGECWmGh748HL_1",
+			"date_added": 1470862556
+		},
+		{
+			"comment_id": 2,
+			"body": "some small bugs here and there but i am happy to see this progres",
+			"post_uri": "1AdcxsExVKvxffQtEd72E5tckouzZHLEYC_5",
+			"date_added": 1470862729
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L",
+			"user_name": "Alex",
+			"date_added": 1473073210
+		}
+	]
+}

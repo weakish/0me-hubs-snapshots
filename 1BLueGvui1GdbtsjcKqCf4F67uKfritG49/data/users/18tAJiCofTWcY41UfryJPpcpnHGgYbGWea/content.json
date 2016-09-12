@@ -1,0 +1,21 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "HCcSHIggJY2wpopoU3E91dw41D1q9eSKH158pCi7hEHIOy8iH/tAsLVluveyOY0O2pC7893ja2RgG7DKW8Bx4A8=",
+ "cert_user_id": "wallbroker@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "7c17ac50bccde56e0ef14a3a6c234ea842d16a4cfff18250e06c7c5d5b73f072",
+   "size": 1442
+  },
+  "data.json": {
+   "sha512": "cb1b963a9a3184cbd5f9e75ccb9ffc0ff5db41e2497df8318b4f89b664c79fda",
+   "size": 3236
+  }
+ },
+ "inner_path": "data/users/18tAJiCofTWcY41UfryJPpcpnHGgYbGWea/content.json",
+ "modified": 1471497712.778,
+ "signs": {
+  "18tAJiCofTWcY41UfryJPpcpnHGgYbGWea": "HD8UDr5CdgsAyTDtBqYOSx1TEngE1bA5j1Up4lqK3y9lQqv+c1RD+jiwKbHwY15l9jKDMxiERQQZ1povbPqg1rk="
+ }
+}

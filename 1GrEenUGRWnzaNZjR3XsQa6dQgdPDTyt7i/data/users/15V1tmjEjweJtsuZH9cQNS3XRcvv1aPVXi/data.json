@@ -1,0 +1,26 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 2,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "Zerouno",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 2,
+			"body": "Hello ZeroWorld! :D",
+			"date_added": 1471531761
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "use a raspbeerrypi as your central ZeroNet server, connect to that with different computers",
+			"post_uri": "1PoiRFseXaeGhnj2mpwS3xiXVrUd8noRLW_4",
+			"date_added": 1471531996
+		}
+	],
+	"follow": []
+}

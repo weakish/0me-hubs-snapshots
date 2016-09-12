@@ -1,0 +1,21 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "G34e/j2S2MUgSmJA0U8Zo7eJ0t9qe8Q9UFMmSiWisHv5w+eCR45ZwMLR2UYrNGrVv3F/9p3OowDCDLamVYQfHzo=",
+ "cert_user_id": "zerohack@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "e6afece24420193aebf97a25dcef04a6b10f516fa8fa52915dfa04fa5dfe84cc",
+   "size": 684
+  },
+  "data.json": {
+   "sha512": "cb59e9257d3c071868eecc319ef81433878032b889e31525f7ea816ae42db98a",
+   "size": 1324
+  }
+ },
+ "inner_path": "data/users/1M7F3K3cwhV4msaFFYUtM7VYBQPhX5RVVm/content.json",
+ "modified": 1472106454.964,
+ "signs": {
+  "1M7F3K3cwhV4msaFFYUtM7VYBQPhX5RVVm": "GxweWeQ9drPzm4QEqjsqhGknkS4OyhUh0vNYTfHv+xTrxu6fCpMOSxCqB6iKcljIoSfwhoMOaB4MLEeReRa2R0w="
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "G5sQpVAJqu+/m8GGZpcIEf1vtG/eGDls32LMaoiphkifnZGIh6hEyWY+FzNKVC35IMJ4QlTq0Vu+DzFu4AI1r28=",
+ "cert_user_id": "pimgeek@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "feac8c9598e8073b33837ae60241b285cf2a33d68aa2d339fa4ad439e7ae57f4",
+   "size": 1235
+  },
+  "data.json": {
+   "sha512": "bc23bd0f9dc2830e653a128f90fed80b78332fc6c772e954863d8e300f313d15",
+   "size": 3401
+  }
+ },
+ "inner_path": "data/users/1BvbtVtk6L9DV9fPdLpHkX3H3Vb7M91rgF/content.json",
+ "modified": 1473516733.992,
+ "signs": {
+  "1BvbtVtk6L9DV9fPdLpHkX3H3Vb7M91rgF": "HK5BeQjKjskHUYaFSKYqU9ROlqOSdgru6KGw6aduG51alMqgpN2QhlcXaqvosU/vIJBC++cpF27sbiIi16JP/24="
+ }
+}

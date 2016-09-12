@@ -1,0 +1,150 @@
+{
+	"next_comment_id": 22,
+	"user_name": "weakish",
+	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+	"post_like": {
+		"1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_7": 1471170524,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_8": 1471499349,
+		"1DjUq8hd2jYZgc5uNhQEtWUVZjMHkMQkpU_32": 1471620769,
+		"16nArdxrSaNThNp83kL8E6NLL9WD98iUne_14": 1471621280,
+		"1JEmH2pfXkpMMdzsJ256jzq2GTSxEacS2B_3": 1471704225,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_16": 1471795681,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472069174": 1472129319,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472135886": 1472269237,
+		"1MZ6f3V1cBuhNwzajMVPu8vb1wRt1p6dpt_1472195450": 1472269607,
+		"16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_1472346140": 1472474695,
+		"1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_1472515390": 1472553833,
+		"1L1RLoEsVMEa18PKD22bthXAPGDFwYeq4v_4": 1472574599,
+		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1473147425": 1473251441,
+		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1473148392": 1473251505,
+		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1473260657": 1473416767
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Anomalisa (2015, R)",
+			"post_uri": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_14",
+			"date_added": 1471513120
+		},
+		{
+			"comment_id": 2,
+			"body": "[Free .bit Domains on ZeroNet](http://127.0.0.1:43110/domains4free.bit/?Post:2:Free+.bit+Domains+for+ZeroNet+Sites)",
+			"post_uri": "17Cs2auSHSVjKaYMXqbNMApRQrgXcwJUpL_13",
+			"date_added": 1471621060
+		},
+		{
+			"comment_id": 3,
+			"body": "I got this `gcc: error: unrecognized command line option ‘-h’`",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_21",
+			"date_added": 1471794307
+		},
+		{
+			"comment_id": 4,
+			"body": "是红和蓝。没有什么意思，一是展示 merge site 特性，二是分流用户。",
+			"post_uri": "1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP_3",
+			"date_added": 1471795943
+		},
+		{
+			"comment_id": 5,
+			"body": "@ks: from `musl-gcc`, vanilla gcc reports `gcc: error: missing argument to ‘-h’`",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_21",
+			"date_added": 1471966206
+		},
+		{
+			"comment_id": 6,
+			"body": "If your blog is cloned, then you can recover your blog private key from user.json. If your blog is created manually and you have not record your key at other place, you lost write access to your blog.",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_4",
+			"date_added": 1471967005
+		},
+		{
+			"comment_id": 7,
+			"body": "It is possible to ban mac address (assuming the user does not to change/fake mac address).",
+			"post_uri": "16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_1472003505",
+			"date_added": 1472129514
+		},
+		{
+			"comment_id": 8,
+			"body": "Not open sourced yet. :-(",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472069174",
+			"date_added": 1472130037
+		},
+		{
+			"comment_id": 9,
+			"body": "@Seelion: Versioned, P2P File System. It has better support of static site than ZeroNet. (But no dynamic support.)",
+			"post_uri": "16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_1472354341",
+			"date_added": 1472380524
+		},
+		{
+			"comment_id": 10,
+			"body": "@Seelion: ipfs is a p2p file system that can be used to host web sites. ZeroNet is a full stack p2p website application. IMO, share huge video files -> BitTorrent/ed2k, share some photos -> ipfs, dynamic sites (blog with comments, forums, etc) -> ZeroNet, small static site -> ip2fs/ZeroNet, plain old static web site (works with JavaScript disabled) -> ipf.",
+			"post_uri": "16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_1472354341",
+			"date_added": 1472472171
+		},
+		{
+			"comment_id": 11,
+			"body": "I am using ipfs. ipfs is simple as a p2p file system. It is in a lower level compared to ZeroNet. ZeroNet is actually a web site market based on p2p network, and ipfs is a file system based on p2p network.",
+			"post_uri": "13KjVHdVXjiMLMcN1RMhaRPDFFXRotVzsK_1472402817",
+			"date_added": 1472472882
+		},
+		{
+			"comment_id": 12,
+			"body": "@Fido: Not blocked on my machine. Maybe its dns names are polluted by ISPs, try filter polluted DNS results.",
+			"post_uri": "1MZ6f3V1cBuhNwzajMVPu8vb1wRt1p6dpt_1472195450",
+			"date_added": 1472472959
+		},
+		{
+			"comment_id": 13,
+			"body": "@Mynameislegion: Replace `http://127.0.0.1:8080` with `https://ipfs.io` (the built-in http proxy/public gateway of ipfs network).",
+			"post_uri": "16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_1472346140",
+			"date_added": 1472474798
+		},
+		{
+			"comment_id": 14,
+			"body": "`breaks` means blank? https://github.com/HelloZeroNet/ZeroNet/issues/556",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_1472515390",
+			"date_added": 1472553874
+		},
+		{
+			"comment_id": 15,
+			"body": "Have you downloaded it? I got different sha256sums.",
+			"post_uri": "1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP_1472540715",
+			"date_added": 1472553981
+		},
+		{
+			"comment_id": 16,
+			"body": "Maybe your network is terrible at connected to hubs. Try a few hours later. If problem still exist, try upgrade ZeroNet to latest version.",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1472570437",
+			"date_added": 1472572185
+		},
+		{
+			"comment_id": 17,
+			"body": "@ks:  `a decentralized way of authenticating`. What about `displayNickname · ks@id.ks-own-domain.bit` and `displayNickname whoDoNotPreferNamecoin@14TDWFVHuTX...`.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472678549",
+			"date_added": 1472728562
+		},
+		{
+			"comment_id": 18,
+			"body": "@ks: All sites with `.bit` are listed at ZeroName. Some search engines and proxies are likely to scan it.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_1472779562",
+			"date_added": 1472905872
+		},
+		{
+			"comment_id": 19,
+			"body": "ZeroMe is used by ZeroNet to resolve `.bit` domains (unless you specify other site with `--bit_resolver`). I guess @nofish or @HelloZeroNet has the private key.  Post your suggestions at <https://github.com/HelloZeroNet/ZeroName>",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472826862",
+			"date_added": 1472906631
+		},
+		{
+			"comment_id": 20,
+			"body": "Sadly Python does not support anything like `${code}` or `#{code}` or \\`\\`code\\`\\`. `.format` is nice though.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1473010008",
+			"date_added": 1473251035
+		},
+		{
+			"comment_id": 21,
+			"body": "@Nofish: Glad to know Python 3.6+ supports `f'{code}'`!",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1473010008",
+			"date_added": 1473252827
+		}
+	]
+}

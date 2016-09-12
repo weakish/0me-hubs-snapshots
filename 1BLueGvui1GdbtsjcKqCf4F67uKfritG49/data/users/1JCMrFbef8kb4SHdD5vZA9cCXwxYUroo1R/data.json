@@ -1,0 +1,34 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 2,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Reiuji",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471759194,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Bobnoise: Make the Internet more free and safe for everyone? I just think so.",
+			"post_uri": "1JCMrFbef8kb4SHdD5vZA9cCXwxYUroo1R_1",
+			"date_added": 1471872475
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "16XhwuR6w5BURDK4bn3m3Fy9qXRmX24kDc",
+			"user_name": "Breakwa11",
+			"date_added": 1471759488
+		}
+	]
+}

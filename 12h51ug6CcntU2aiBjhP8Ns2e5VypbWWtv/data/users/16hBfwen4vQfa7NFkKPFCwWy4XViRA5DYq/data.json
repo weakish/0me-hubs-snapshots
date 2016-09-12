@@ -1,0 +1,19 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "KaffieID cert_user_id test",
+	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+	"intro": "Testing to ensure shared names do not interfere with proper functioning of zites...",
+	"post": [
+		{
+			"post_id": 2,
+			"body": "This is why you don't detect users based on the non-unique `cert_user_id`. I'm posting from a fresh boot zeronet, but with kaffie hub downloaded, and a kaffieID (non-unique names) registered to be the same as the other kaffieID. The two names are identical, so ZeroMe logs in incorrectly. It could've been easily spoofed to *any* ID, including ZeroIDs. This is why you always, always, always use auth_address for detection of users...",
+			"date_added": 1471139754
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": []
+}

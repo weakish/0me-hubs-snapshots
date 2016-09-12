@@ -1,0 +1,21 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "HCWNCudR4X9FZ7kFnZQ0DLqps2j4MypHtKoLSsbCiUsKrVLh+dafjyNo8nI97nKyHAi6C6+o5KR8axfvCXOpqQs=",
+ "cert_user_id": "trickster@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "cfc9115b537af766b749d876039262dca1a17c11b091809a7e6c4d2f5034f1b8",
+   "size": 1978
+  },
+  "data.json": {
+   "sha512": "d53350d48f7338a3a3d81f0d83699621bb51343c678859ba80348106f65217e6",
+   "size": 910
+  }
+ },
+ "inner_path": "data/users/1Mah3j7GCVjBe6Hro4oJtkSdWBx1QJTMZa/content.json",
+ "modified": 1471464821.239183,
+ "signs": {
+  "1Mah3j7GCVjBe6Hro4oJtkSdWBx1QJTMZa": "G9vEFCZnd9X5R9F+j6HYBbplvBNA5Rz7HaHNB3Qz1rXTu8ScZa/WZSLF82x92Uj/Tv2r+SzXE0/+slhpAzQtm5k="
+ }
+}

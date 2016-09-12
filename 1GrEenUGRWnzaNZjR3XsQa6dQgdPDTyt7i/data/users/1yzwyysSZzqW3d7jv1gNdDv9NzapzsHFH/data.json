@@ -1,0 +1,35 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 1,
+	"next_follow_id": 6,
+	"avatar": "jpg",
+	"user_name": "Basilum",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "16XhwuR6w5BURDK4bn3m3Fy9qXRmX24kDc",
+			"user_name": "Breakwa11",
+			"date_added": 1471852783
+		},
+		{
+			"follow_id": 4,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1yzwyysSZzqW3d7jv1gNdDv9NzapzsHFH",
+			"user_name": "Basilum",
+			"date_added": 1471852964
+		},
+		{
+			"follow_id": 5,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1yzwyysSZzqW3d7jv1gNdDv9NzapzsHFH",
+			"user_name": "Basilum",
+			"date_added": 1471854154
+		}
+	]
+}

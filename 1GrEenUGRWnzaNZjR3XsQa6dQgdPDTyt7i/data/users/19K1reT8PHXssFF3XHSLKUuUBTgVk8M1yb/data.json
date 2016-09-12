@@ -1,0 +1,64 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 5,
+	"next_follow_id": 3,
+	"avatar": "generate",
+	"user_name": "Gunhan",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1473248575,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1473249662,
+			"body": "is there anyone who is seeing this?",
+			"date_added": 1473249660
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "hello",
+			"post_uri": "19K1reT8PHXssFF3XHSLKUuUBTgVk8M1yb_1",
+			"date_added": 1473249290
+		},
+		{
+			"comment_id": 2,
+			"body": "Apperantly it's working. But looks like a desert.",
+			"post_uri": "19K1reT8PHXssFF3XHSLKUuUBTgVk8M1yb_1",
+			"date_added": 1473249781
+		},
+		{
+			"comment_id": 3,
+			"body": "https://media3.giphy.com/media/5Vy3WpDbXXMze/200_s.gif",
+			"post_uri": "19K1reT8PHXssFF3XHSLKUuUBTgVk8M1yb_1",
+			"date_added": 1473250029
+		},
+		{
+			"comment_id": 4,
+			"body": "Yea it's not working:)",
+			"post_uri": "19K1reT8PHXssFF3XHSLKUuUBTgVk8M1yb_1",
+			"date_added": 1473250053
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "19K1reT8PHXssFF3XHSLKUuUBTgVk8M1yb",
+			"user_name": "Gunhan",
+			"date_added": 1473249319
+		},
+		{
+			"follow_id": 2,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1HzHCyJSoSgyMEQCzxmGSXRTUEYuEhQv8v",
+			"user_name": "K3rgio",
+			"date_added": 1473376481
+		}
+	]
+}

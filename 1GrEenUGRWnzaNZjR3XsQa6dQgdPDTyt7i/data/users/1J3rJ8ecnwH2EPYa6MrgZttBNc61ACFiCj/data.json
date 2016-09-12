@@ -1,0 +1,86 @@
+{
+	"next_comment_id": 13,
+	"user_name": "Nofish",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"post_like": {
+		"1BVQDitWFUdEKH4izz3KgpWHJUNq8yH1zk_1": 1471248616,
+		"17gEFavobc7RsKNGbSzZwoSZ6jNB7hT2KN_4": 1471540632,
+		"1JbpzmuMPCg5tQEW8kstHhAtZbckwgXVnR_2": 1471628798,
+		"1H5VKNWtkBA7RpJWyYuFw5bqjwbgjXoqKp_5": 1471777875,
+		"17uX92w4VUjxjS9Quq2Es5JdXEMehvzs6g_1472273518": 1472290027
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "You can check it easily by entering this to javascript console: Page.cmd(\"dbQuery\", \"SELECT COUNT(*) AS num FROM follow WHERE user_name = 'Nofish'\", function(res) {console.log(res[0].num) })\n176 (164 for Kaffie)",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_10",
+			"date_added": 1471367247
+		},
+		{
+			"comment_id": 2,
+			"body": "@Alex (Bwoi): It depends on the connected hubs, there is no way to retrieve the real number.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_10",
+			"date_added": 1471367637
+		},
+		{
+			"comment_id": 3,
+			"body": "@Alex (Bwoi): Somone already did that before",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_10",
+			"date_added": 1471367682
+		},
+		{
+			"comment_id": 4,
+			"body": "@Alex (Bwoi): The hubs are not connected, mine is also not real number I only get connected to 3 hubs",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_10",
+			"date_added": 1471367885
+		},
+		{
+			"comment_id": 5,
+			"body": "@Fav: ZeroNet if full P2P, there is no need of servers for hubs. Everyone who is downloaded or interacted with a hub he/she is also hosting every profile on it. So the hub only go down if every people shut downs it's computer at same time. That's already means hundreds of computers (and the number increasing every day), so in the reality there is no real chance for any downtime.",
+			"post_uri": "17gEFavobc7RsKNGbSzZwoSZ6jNB7hT2KN_4",
+			"date_added": 1471540448
+		},
+		{
+			"comment_id": 6,
+			"body": "Thanks again, I hope you can develop something from it",
+			"post_uri": "1JbpzmuMPCg5tQEW8kstHhAtZbckwgXVnR_3",
+			"date_added": 1471639346
+		},
+		{
+			"comment_id": 7,
+			"body": "@Jayofthezero: Just added post and comment height limiting, but yeah, it's better post longer texts in a blog",
+			"post_uri": "18WFCAqYM3Kdhm5qskvR1rS3REQVZGjiHe_2",
+			"date_added": 1471997660
+		},
+		{
+			"comment_id": 8,
+			"body": "@tkarita: nope, it's bad computer time",
+			"post_uri": "1DMBWEfQdEaRtsWEwZLY98b9t1ZcoG2ECM_1472404861",
+			"date_added": 1472407136
+		},
+		{
+			"comment_id": 9,
+			"body": "No, the ZeroTube connections are handled by the browser, so ZeroNet does not have effect on that",
+			"post_uri": "17gEFavobc7RsKNGbSzZwoSZ6jNB7hT2KN_1472979910",
+			"date_added": 1472980922
+		},
+		{
+			"comment_id": 10,
+			"body": "0.4.1 is focused on startup time optimization and also reduces memory usage. I doing some more testing, then I will put the changes on ZeroBlog + update button for ZeroHello",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1473091458",
+			"date_added": 1473093980
+		},
+		{
+			"comment_id": 11,
+			"body": "Dios: Hub switching not officially supported yet",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1473091458",
+			"date_added": 1473094263
+		},
+		{
+			"comment_id": 12,
+			"body": "It was fixed yesterday, please update your zeronet using the 3dot menu on zerohello > \"Version 0.4.1...\" menuitem",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1473207573",
+			"date_added": 1473211704
+		}
+	]
+}

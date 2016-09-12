@@ -1,0 +1,41 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 4,
+	"next_follow_id": 1,
+	"avatar": "jpg",
+	"user_name": "CronianIce",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Not from 🌎",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471758751,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {
+		"1H5VKNWtkBA7RpJWyYuFw5bqjwbgjXoqKp_3": 1471765149,
+		"13pAK1jj4Qwt56ytnn5BorrMfHA7J3Nc8C_1471967886": 1471987849
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "I still use it, just not directly.",
+			"post_uri": "1H5VKNWtkBA7RpJWyYuFw5bqjwbgjXoqKp_2",
+			"date_added": 1471758917
+		},
+		{
+			"comment_id": 2,
+			"body": "@Unanimous: How anonymous you want to be all depends on your threat model. If someone or something is REALLY out to get you and they have the intelligence + resources, then they may just get you. The NSA has been known for advanced tricks like timing analysis attacks (which has worked on Tor) and SSL man-in-the-middle attacks, but lesser known tricks include TEMPEST-like side channels attacks. One example being Stylometry. They compare the style of your anonymous posts with that of your posts found elsewhere where you're clearly identified, say Facebook, and determine if your anonymous identity matches that of your known identity. Another trick is to analyze the power line with which your computer is connected. By analyzing the line and filtering, they can extract keystrokes. This is popular in hotels, because there's usually an easy to access ground connection under the sink in the bathroom. Of course, laptops running on a battery aren't safe either. You can shoot an infrared beam at it, receive and analyze the reflections, and determine the keystrokes based on the vibration signatures.",
+			"post_uri": "1H5VKNWtkBA7RpJWyYuFw5bqjwbgjXoqKp_2",
+			"date_added": 1471766401
+		},
+		{
+			"comment_id": 3,
+			"body": "You could always manually split them. Haven't had issues with bigger files since I learned about the optional files feature, but someone (I believe it was @Xe) once suggested to me that I use IPFS (https://ipfs.io).",
+			"post_uri": "13pAK1jj4Qwt56ytnn5BorrMfHA7J3Nc8C_1471967886",
+			"date_added": 1471987722
+		}
+	],
+	"follow": []
+}

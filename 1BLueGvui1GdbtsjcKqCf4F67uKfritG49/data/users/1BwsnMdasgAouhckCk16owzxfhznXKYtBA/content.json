@@ -1,0 +1,17 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "HGVy7QSmIoGBpxOZRaai8eDGt7OPvVsJAj6tCaWE0L1IGl4Hh8K83JvWWuAi7wndSDQcnnUudzM/hLS61stQmBE=",
+ "cert_user_id": "spindler@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "13b826ee2a536df32b1cd3cc9c487d692e38fc913bb710e00fd805a00c228842",
+   "size": 492
+  }
+ },
+ "inner_path": "data/users/1BwsnMdasgAouhckCk16owzxfhznXKYtBA/content.json",
+ "modified": 1471077070.112392,
+ "signs": {
+  "1BwsnMdasgAouhckCk16owzxfhznXKYtBA": "HMt8cR8vsIUPYxbaYbm/f1g8CpJ5e1uYVOen2g/v3nq6agHyFaBHpgPPuxDEEmUL8V5W/FNIRe7b8bsTaCaH68U="
+ }
+}

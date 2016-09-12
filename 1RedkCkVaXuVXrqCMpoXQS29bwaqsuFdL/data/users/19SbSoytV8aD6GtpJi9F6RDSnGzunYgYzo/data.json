@@ -1,0 +1,251 @@
+{
+	"next_post_id": 12,
+	"next_comment_id": 15,
+	"next_follow_id": 15,
+	"avatar": "jpg",
+	"user_name": "Johnhamelink",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"intro": "Finding my way.\n\n--- \n\n- [Company Site](https://findaplayer.com)\n- [Personal Blog](https://johnhamelink.com)\n- [Github](https://github.com/johnhamelink/)\n- [Keybase](https://keybase.io/johnhamelink)",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471145638,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 2,
+			"body": "Gotta say, I'm actually pleasantly surprised at how nice this is!",
+			"date_added": 1471146972
+		},
+		{
+			"post_id": 3,
+			"body": "I've just set up a server which should be running Zeronet full time. If you need help seeding a website you're working on, comment here or send me a zeromail (johnhamelink@zeroid.bit) and I'll seed you.\n\nObviously nothing morally repugnant please :) ",
+			"date_added": 1471196734
+		},
+		{
+			"post_id": 4,
+			"body": "Currently learning me some Elm: http://courses.knowthen.com/courses/elm-for-beginners/",
+			"date_added": 1471265773
+		},
+		{
+			"post_id": 5,
+			"body": "Rewriting our API's documentation using Swagger 2 (http://swagger.io) . We were using Swagger 1 before in our Ruby API by automatically building the docs from our API, but now that we have  >1 API and in different languages (Ruby and Elixir now), it makes more sense to have a manual Swagger definition which is defined in manually.\n\nWhich means I have to go through our auto-generated, then upgraded Swagger docs and make them correct.\n\nThis is going to take some time.\n\nJoys.",
+			"date_added": 1471431696
+		},
+		{
+			"post_id": 6,
+			"body": "I've had such a stressful day today. Sometimes I find it hard to keep my head above the water. But I have amazing friends that make life all worthwhile, and that's a really comforting feeling!",
+			"date_added": 1471473283
+		},
+		{
+			"post_id": 7,
+			"body": "So yesterday was super stressful - today has been pretty awesome!\n\nA friend messaged me to let me know they'd seen us on the front page of the iOS App store!\n\nhttps://ipfs.pics/Qme2JYfK61S8fwjHa99sKwCrYoYrGUHLco3fkWd7cCLzM9",
+			"date_added": 1471552587
+		},
+		{
+			"post_id": 1471969786,
+			"body": "I need to get this book - sounds amazingly interesting:\n\nhttps://www.theguardian.com/science/2016/aug/23/ancient-egypt-written-works-published-book-english-first-time",
+			"date_added": 1471969778
+		},
+		{
+			"post_id": 1471974699,
+			"body": "So the UK voted by 2% to leave the EU in June.\n\nIt's now mid-August, and the government have already confirmed that they plan to repeal the Human Rights Act.\n\nWhat's even more shocking is that **only** 78% of the UK believe the Human Rights Act should apply to us all equally.\n\nMadness.\n\nhttps://www.humanism.scot/what-we-do/humanitie/the_human_rights_act/",
+			"date_added": 1471974690
+		},
+		{
+			"post_id": 1472863796,
+			"body": "Mr Robot fans in the house?\n\nI came for the tech/computer theme, I stayed for the breathtaking intellectualism.\n\nVery interesting conversation about just that on Reddit right now: https://www.reddit.com/r/MrRobot/comments/50uacu/no_spoilersmr_robot_is_a_piece_of_art/",
+			"date_added": 1472863786
+		},
+		{
+			"post_id": 1473129641,
+			"body": "Switched my window manager from Awesome to bspwm recently. Over the last 2 days I've swapped out a bunch of different other parts:\n\n - I'm using lemonbuddy with a better fork of lemonbar for my upper bar now - I found both on the Arch User Repository.\n - I switched to stalonetray from trayer and found a fork that would work with my dual screen setup on the Arch User Repository.\n - I installed the infinality bundle which made a huge difference to font rendering.\n - I found a _really_ nice weechat config in someone else's dotfiles and merged it with my config\n - I discovered a really nice dmenu replacement called rofi. I'm planning on using it for some custom code which will hopefully emulate Dash on OSX.\n\nI'm loving the change and I really like bspwm now too! It feels much more responsive and lighter than Awesome.\n\n - [Desktop](https://u.teknik.io/q7E98.png)\n - [Weechat](https://u.teknik.io/JGxxu.png)\n - [Rofi](https://u.teknik.io/lQaz5.png)\n\nIf you're into this kinda stuff I'd recommend lurking around on Reddit's [/r/unixporn](https://reddit.com/r/unixporn) subreddit. I've found some really great ideas there!",
+			"date_added": 1473129630
+		}
+	],
+	"post_like": {
+		"13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1": 1471146771,
+		"1CFhytwoGGPNqmueehPqotaf2iG9uxD98e_12": 1471616758,
+		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1472151448": 1472163805,
+		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1472920243": 1472930656
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Bot: yeah, it's pretty amazing. I've just set up a server to host what will be my website (once I've fixed some issues with it running on Zeronet). Really hope this takes off.",
+			"post_uri": "19SbSoytV8aD6GtpJi9F6RDSnGzunYgYzo_2",
+			"date_added": 1471196462
+		},
+		{
+			"comment_id": 2,
+			"body": "Thanks folks :) Sleep also does wonders!",
+			"post_uri": "19SbSoytV8aD6GtpJi9F6RDSnGzunYgYzo_6",
+			"date_added": 1471521280
+		},
+		{
+			"comment_id": 3,
+			"body": "@Alek: great! Let me know how it goes",
+			"post_uri": "19SbSoytV8aD6GtpJi9F6RDSnGzunYgYzo_4",
+			"date_added": 1471521303
+		},
+		{
+			"comment_id": 4,
+			"body": "@Andrewm: Thanks :D",
+			"post_uri": "19SbSoytV8aD6GtpJi9F6RDSnGzunYgYzo_7",
+			"date_added": 1471553653
+		},
+		{
+			"comment_id": 5,
+			"body": "@Alek: Thank you! :D",
+			"post_uri": "19SbSoytV8aD6GtpJi9F6RDSnGzunYgYzo_7",
+			"date_added": 1471616608
+		},
+		{
+			"comment_id": 6,
+			"body": "@ks: Thanks I was just looking for it!",
+			"post_uri": "19SbSoytV8aD6GtpJi9F6RDSnGzunYgYzo_1471969786",
+			"date_added": 1471970057
+		},
+		{
+			"comment_id": 7,
+			"body": "@ks: I just preordered it :)",
+			"post_uri": "19SbSoytV8aD6GtpJi9F6RDSnGzunYgYzo_1471969786",
+			"date_added": 1471970456
+		},
+		{
+			"comment_id": 8,
+			"body": "I don't believe you! Hahaha. I've never got hibernation/suspension working on any linux machine so I just pretend it's impossible :D",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1472151448",
+			"date_added": 1472163801
+		},
+		{
+			"comment_id": 9,
+			"body": "A quote I like in particular from that thread:\n\n> Its the quintessential television show that reflects the ideas, themes, and concerns of the 21st century.\n> - MNCs and banks \"to-big-to-fail.\"\n> - The Internet, digital rights and computer fraud and abuse.\n> - Globalism, specifically a rising Chinese state whose regional power is starting to expand beyond its own borders.\n> - Concerns over conspiracy and corruption within our own government and abroad.\n> - A diverse cast of characters occupying with varied races and sexual orientations.\n> - All wrapped up in a fascinating and multilayer story that keeps you guessing.\"",
+			"post_uri": "19SbSoytV8aD6GtpJi9F6RDSnGzunYgYzo_1472863796",
+			"date_added": 1472864002
+		},
+		{
+			"comment_id": 10,
+			"body": "@Tkarita: The bathroom scene!",
+			"post_uri": "19SbSoytV8aD6GtpJi9F6RDSnGzunYgYzo_1472863796",
+			"date_added": 1472864887
+		},
+		{
+			"comment_id": 11,
+			"body": "@ks: I just followed the instructions on the wiki, I left everything stock basically:\n\nhttps://wiki.archlinux.org/index.php/Infinality\n\nThere's an important part in the wiki that probably isn't as clear as it should be - the metapackages for fonts are not supposed to be installed - they have conflicting packages inside them and are more to be grouped together so you can see what's available. I just installed `ibfonts-meta-extended`.",
+			"post_uri": "19SbSoytV8aD6GtpJi9F6RDSnGzunYgYzo_1473129641",
+			"date_added": 1473168787
+		},
+		{
+			"comment_id": 12,
+			"body": "@Shellbound: Awesome info. I will definitely check them out! I was using dmenu2 before I gave Rofi a try. I'm really enjoying it!",
+			"post_uri": "19SbSoytV8aD6GtpJi9F6RDSnGzunYgYzo_1473129641",
+			"date_added": 1473168830
+		},
+		{
+			"comment_id": 13,
+			"body": "@ks: Makes a big difference doesn't it!?",
+			"post_uri": "19SbSoytV8aD6GtpJi9F6RDSnGzunYgYzo_1473129641",
+			"date_added": 1473255231
+		},
+		{
+			"comment_id": 14,
+			"body": "@ks: That's pretty sweet!",
+			"post_uri": "19SbSoytV8aD6GtpJi9F6RDSnGzunYgYzo_1473129641",
+			"date_added": 1473255324
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1HJJEDiEo7ghxbpdDzXHFVv4gtrb53cUAu",
+			"user_name": "Maomihz",
+			"date_added": 1471145768
+		},
+		{
+			"follow_id": 2,
+			"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
+			"auth_address": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb",
+			"user_name": "ɃǾȾ",
+			"date_added": 1471145816
+		},
+		{
+			"follow_id": 3,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1471145849
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19SbSoytV8aD6GtpJi9F6RDSnGzunYgYzo",
+			"user_name": "Johnhamelink",
+			"date_added": 1471366477
+		},
+		{
+			"follow_id": 5,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1DjUq8hd2jYZgc5uNhQEtWUVZjMHkMQkpU",
+			"user_name": "Alek",
+			"date_added": 1471431520
+		},
+		{
+			"follow_id": 6,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne",
+			"user_name": "Jayofthezero",
+			"date_added": 1471473051
+		},
+		{
+			"follow_id": 8,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1471474050
+		},
+		{
+			"follow_id": 9,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L",
+			"user_name": "Alex (Bwoi)",
+			"date_added": 1471523290
+		},
+		{
+			"follow_id": 10,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "17gEFavobc7RsKNGbSzZwoSZ6jNB7hT2KN",
+			"user_name": "Fav",
+			"date_added": 1471552950
+		},
+		{
+			"follow_id": 11,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1JEmH2pfXkpMMdzsJ256jzq2GTSxEacS2B",
+			"user_name": "PedoBlocker",
+			"date_added": 1471616789
+		},
+		{
+			"follow_id": 12,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1472163705
+		},
+		{
+			"follow_id": 13,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1DBGVQKU9VwjTZcoXCs1B6ZJ84VcGyimar",
+			"user_name": "Mememagician",
+			"date_added": 1473294434
+		},
+		{
+			"follow_id": 14,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx",
+			"user_name": "ks",
+			"date_added": 1473614680
+		}
+	]
+}

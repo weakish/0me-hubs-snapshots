@@ -1,0 +1,21 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "HAeKCxuwZOHLT1s2tc4F5Kabjra9LQy10fOQ/0vHjC4WtSnus/SDq0gspc27tCSnW4kV4KavjWQHAJhz1Cs8GJE=",
+ "cert_user_id": "spaghettidev@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "6bbe8710be3f5b388ac1328010e7887f3d325acf213e94f7c27d309367fef779",
+   "size": 1339
+  },
+  "data.json": {
+   "sha512": "40792ffba693f39d13f93f203299ec565717ba51db618391c443b72a774ed019",
+   "size": 1975
+  }
+ },
+ "inner_path": "data/users/1DMBWEfQdEaRtsWEwZLY98b9t1ZcoG2ECM/content.json",
+ "modified": 1472496251.535,
+ "signs": {
+  "1DMBWEfQdEaRtsWEwZLY98b9t1ZcoG2ECM": "HL6f6Wcoy4u7CILXKanHKPhwsteY20DWVKM6h8/U0JZvpFQ6MViRZBE2Kx2BnjYRKb6qQaIHS8sEVXuaDh1owLk="
+ }
+}

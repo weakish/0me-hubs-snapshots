@@ -1,0 +1,1076 @@
+{
+	"next_post_id": 34,
+	"next_comment_id": 71,
+	"next_follow_id": 90,
+	"avatar": "jpg",
+	"user_name": "tkarita",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Share and enjoy!\n\n| [books](http://127.0.0.1:43110/192dZ1EG5tU7PnCfuwGMDEBrr2eLqvs4t3/?Category:books) | [chat](http://127.0.0.1:43110/zeromedia.bit/) | [sandbox](http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Post/1BLueGvui1GdbtsjcKqCf4F67uKfritG49/1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t/1472286311)\n|:---:|:---:|:---:|\n| [GTM 111](http://127.0.0.1:43110/111GTMxRyZBvXVZgJZrkjpPLVZDFnEU8h/) | | [land](http://127.0.0.1:43110/1Jo59uY2VygWUHjWLfkg71fCgNzX4vmZMz/) |\n| [CMS](http://127.0.0.1:43110/1KuwNEQXaF7SmAibxLs2wgJQJjGYTDMErc/) | | |\n| [ACiC](http://127.0.0.1:43110/1EmfJvSsZWtikUqWnHbhMQ9yV5ATUBEooc/) | | |\n| [CIG](http://127.0.0.1:43110/1PDFcigDTymiqMkiK5iXLgtXxDwT5ts3WC/) | | |\n| [ABHoH](http://127.0.0.1:43110/1ABHoH2K2PBKv3bBDqfyLeNxBDT2XiH63A/) | | [__amine__](http://127.0.0.1:43110/192dZ1EG5tU7PnCfuwGMDEBrr2eLqvs4t3/?Category:amine) |",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1470858642,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 2,
+			"body": "I'm following null!\n\nhttp://127.0.0.1:43110/1MeFqFfFFGQfa1J3gJyYYUvb5Lksczq7nH/?Profile/null/1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh/null",
+			"date_added": 1470879197
+		},
+		{
+			"post_id": 3,
+			"body": "I deleted Red Hub, and could only see [Kaffie's deleted post].  Trying to look at [her Red Hub post] gave me an error:\n\n> Internal error: TypeError: actionMergerSiteAdd() takes exactly 3 arguments (2 given)\n> UiWebsocket.py line 98 > UiWebsocket.py line 175",
+			"date_added": 1470892077
+		},
+		{
+			"post_id": 4,
+			"body": "Also, after deleting Red, I got this error if I tried to follow myself there:\n\n> Internal error: Exception: Merger site (ZeroMe) does not have permission for merged site: 1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL\n> UiWebsocket.py line 98 > UiWebsocket.py line 177 > MergerSitePlugin.py line 123 > MergerSitePlugin.py line 105 > MergerSitePlugin.py line 27",
+			"date_added": 1470892141
+		},
+		{
+			"post_id": 5,
+			"body": "I saw one meteor... I think the rest must be too small to be seen through the haze tonight.",
+			"date_added": 1470990872
+		},
+		{
+			"post_id": 6,
+			"body": "Closer to dawn, the sky was still hazy but I was able to see several [meteors](http://xkcd.com/1405/)!  The one I had seen earlier was reddish; these were all white.  A few were headed directly toward me, one almost reached the horizon, and two were bright enough to be visible even when Perseus wasn't.",
+			"date_added": 1471014847
+		},
+		{
+			"post_id": 7,
+			"body": "Noticing the problems Jayofthezero is having, I tried reloading and rebuilding the ZeroMe database from the sidebar.  Now the activity feed has disappeared, I have a color gradient avatar again, and my username has reset to the default.  On my profile page, I'm still following most of the same users (except at least one Kaffie) but I have links to follow them, instead of to unfollow.",
+			"date_added": 1471097461
+		},
+		{
+			"post_id": 8,
+			"body": "Blue Hub just grew to ~~10.2_13_~~16MB (and is still growing?).  Since I'm viewing the merger site, the notification to increase the size limit never appeared and I began seeing the error \"Content sign failed: invalid private key.\"  After setting the limit to 20MB, I see new Blue Hub posts again, but ZeroMe is still behaving strangely.",
+			"date_added": 1471100644
+		},
+		{
+			"post_id": 9,
+			"body": "Something is still wrong with blue hub... ZeroNet believed it had grown to 50MB despite receiving only 8.3MB.",
+			"date_added": 1471130359
+		},
+		{
+			"post_id": 10,
+			"body": "I've posted a large collection of [books related to web development](http://127.0.0.1:43110/192dZ1EG5tU7PnCfuwGMDEBrr2eLqvs4t3/?Category:books) on ZeroTorrent.  The full library was an ongoing project on KAT.  All of its torrents have PDF files with titles, authors, publish dates, ISBN, and a checksum (from some unspecified program).",
+			"date_added": 1471188848
+		},
+		{
+			"post_id": 11,
+			"body": "Pausing Red Hub gives me an error so long it falls off the left edge of the screen.\n\n\n> ! Internal error: RuntimeError: maximum recursion depth exceeded in cmp\n> UiWebsocket.py line 98 > UiWebsocket.py line 179 > UiWebsocket.py line 630 > WorkerManager.py line 300 > WorkerManager.py line 403 > Event.py line 10 > Site.py line 905 > MergerSitePlugin.py line 260 > \n> [many, many times]\n> MergerSitePlugin.py line 260 > MergerSitePlugin.py line 254 > Site.py line 944 > Site.py line 914 > UiWebsocket.py line 110 > UiWebsocket.py line 205 > User.py line 86 > User.py line 139 > User.py line 48",
+			"date_added": 1471287650
+		},
+		{
+			"post_id": 12,
+			"body": "Large sites have some distribution issues that don't seem to be handled well by ZeroNet.  Are there better ways of managing bandwidth?\n\n- The most important files (content.json and index.html) are small but may be very difficult to transfer.\n  - [The mirror of The Intercept](http://127.0.0.1:43110/1MVPxVaimxnd7aKdgfJzCnUZCwEYAd3DnD/) probably never became available.\n  - New sites might take a long time to start because downloaders see `CONTENT.JSON DOWNLOAD FAILED` while uploaders see few peers accepting content.json.\n\n- Less important (but not optional) files might be large enough to disrupt page loading.\n  - [Zatogra](http://127.0.0.1:43110/zatogra.bit/) can appear empty.  It has images from data.json right on the main page.\n  - [ZeroTalk with images](http://127.0.0.1:43110/1C2JhCunGLtvyX56nQ88tcb87WnXspjWN/) has to do similar work but loads more smoothly.\n  - [KickAssTorrents](http://127.0.0.1:43110/1LBr1dHoXvJAMjDgW8Wcg5kbCoKyJnzo6p/) and [ZeroTorrent](http://127.0.0.1:43110/ZeroTorrent.bit/) have real image files which might interfere with json loading over slower connections.  Omitting them would affect comments.\n\n- Optional files might be larger than most users are willing to download.\n  - [ZeroISR](http://127.0.0.1:43110/12oGb8xBjLYz23CGJxRQyzZ6mGybZokEKt/) has over 600MB of optional files.  Some users might prefer to host only the smaller files.\n\nA tiered file organization might help.  Instead of offering the choice to \"download and help distribute all files\" (or none), the sidebar could indicate how much space is needed for particular sets of files, with a selector for which to host.  For example, ZeroTorrent might have:\n\n1. content.json, dbschema.json, index.html (required, ...kB)\n2. css, img, js (required, ...kB)\n3. user json (`mixed`, ...GB)\n   1. zerocomments (`seeding`, ...B)\n   2. zerotorrents (`optional`, ...kB)\n   3. sirenyc (`seeding`, ...MB)\n   4. spam (`downloading`, ...GB)\n4. .torrent files (`optional`, ...MB)\n5. image files (`optional`, ...MB)\n\nGroups of files higher in the list should be downloaded first.  This would give site owners better control over how file transfers are prioritized, and everyone else would have more control over how much they host.",
+			"date_added": 1471419779
+		},
+		{
+			"post_id": 13,
+			"body": "@nofish: sometimes the activity feed gets flooded with follower messages; could they be separated?",
+			"date_added": 1471656048
+		},
+		{
+			"post_id": 14,
+			"body": "@theterminator: are you messaging from the past?",
+			"date_added": 1471657493
+		},
+		{
+			"post_id": 18,
+			"body": "@theterminator: stand on one leg",
+			"date_added": 1471707660
+		},
+		{
+			"post_id": 19,
+			"body": "@janeeyre @nietzsche @scoobydoovillain @theterminator @reginageorge\n \n@hamlet",
+			"date_added": 1471710421
+		},
+		{
+			"post_id": 21,
+			"body": "The follower mentions in the newsfeed look a little ominous.\n\n> Comment on your post\n\n> You got mentioned in a comment\n\n__Zerouser started following you__\n\n> You got mentioned in a comment\n",
+			"date_added": 1471716734
+		},
+		{
+			"post_id": 22,
+			"body": "@theterminator: source code!",
+			"date_added": 1471717381
+		},
+		{
+			"post_id": 23,
+			"body": "@CherHorowitz?",
+			"date_added": 1471718339
+		},
+		{
+			"post_id": 24,
+			"body": "@CherHorowitz @hamlet @janeeyre @nietzsche @scoobydoovillain",
+			"date_added": 1471718747
+		},
+		{
+			"post_id": 25,
+			"body": "@nofish: the styling in replies is probably being applied to too much of the comments if there are extra colons.",
+			"date_added": 1471725448
+		},
+		{
+			"post_id": 1472286311,
+			"body": "@19 and I have each started a sandbox site which anyone can change.  These are probably disasters waiting to happen, but on mine @bot has added a \"sandbox wrangler\" and a spacecraft landing game.\n\n* @19 has a Q-mixyhop (bhaeue) [sandbox](http://127.0.0.1:43110/12M8Qmixyhopbhaeue79BRcpoMKSH3SKhf/).\n  Private key: `5K3Mjse7fYYHpxsQezFuAUR87jvdMGYPM6rHRpTgan4AgY1eiyE`\n* Mine is [5andbox 4 W3bs](http://127.0.0.1:43110/15andbox4W3bS4NLnb4hNFLMnZQiMmUKYV/).  I was very lucky with `vanitygen`.\n  Private key: `5JyEpe4M4bCmFJ7edFnUrRyH3p56d8Db9fgTPb5AWKRF3jmkp4c`",
+			"date_added": 1472286285
+		},
+		{
+			"post_id": 1472477177,
+			"body": "After @sirenyc reached _another_ quota on a torrent site, there was [some](http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Post/12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv/1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh/1472440913) [discussion](http://127.0.0.1:43110/zeromedia.bit/) about how to get uploads working again.  @waterrabbit's [file-splitting script](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/) could be used for smaller large files, if there weren't too many of them.  Could a larger site be used to manage a form of torrenting entirely with ZeroNet publishing?  How many gigabytes of barely sorted optional files containing single MP3 frames would users likely be willing to host?",
+			"date_added": 1472477150
+		},
+		{
+			"post_id": 1472484920,
+			"body": "@nofish: https://bit.no.com:43110/1Jo59uY2VygWUHjWLfkg71fCgNzX4vmZMz/ displays \"-1kB\" of other files.  Locally it displays \"-14815kB\".",
+			"date_added": 1472484892
+		},
+		{
+			"post_id": 1472515390,
+			"body": "@nofish: ZeroHello breaks if one of the connected sites manages to publish a `content.json` without a `title`.  (`all.js:2698` expects to find `this.row.content.title.length`.)",
+			"date_added": 1472515361
+		},
+		{
+			"post_id": 1472779562,
+			"body": "I've had some experiments in how to get peers for sites.  I think the most effective strategy is to post on [0list](http://127.0.0.1:43110/0list.bit/) and [ZeroTalk](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/).  The number of peers decays after sites leave the first page of results.\n\n* 0list has a long window.  Sites posted there retain about 20 peers.\n* ZeroTalk has more activity, but posts are more likely to be bumped up to the top.  Sites mentioned in comments decay more quickly.\n* [New ZeroNet Sites](http://127.0.0.1:43110/1LtvsjbtQ2tY7SCtCZzC4KhErqEK3bXD4n/) has a shorter window but reliably adds about 20 peers.\n* Sites mentioned in the [chat rooms](http://127.0.0.1:43110/ZeroChatrooms.bit) get some attention from people who don't say anything.\n* I had thought [ZeroMedia](http://127.0.0.1:43110/zeromedia.bit/) might be getting extra attention after I linked to it from my ZeroMe profile.  However, my other links haven't gained any peers.\n* Nobody skims from the list on [bit.no's ZeroHello](https://bit.no.com:43110/1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D/) either.",
+			"date_added": 1472779532
+		},
+		{
+			"post_id": 1472786160,
+			"body": "#torstrike was... \n...#torstrike was today.  Has anyone noticed unusual problems with Tor?",
+			"date_added": 1472786128
+		},
+		{
+			"post_id": 1473192436,
+			"body": "The [Excel Saga](https://en.wikipedia.org/wiki/Excel_Saga) anime is an old comedy series with few good copies on the internet.  However, I was able to find healthy [480p](http://127.0.0.1:43110/ZeroTorrent.bit/?Topic:26_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t/+Exiled+Destiny+Excel+Saga+480p) and [720p](http://127.0.0.1:43110/ZeroTorrent.bit/?Topic:27_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t/Excel+Saga+720p) torrents.  The 480p MKVs include the original DVD subtitles.  Is there someone good at MKV editing who would like to try making a nice 720p jpn/eng/rus/ita torrent?",
+			"date_added": 1473192403
+		}
+	],
+	"post_like": {
+		"1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_6": 1470969849,
+		"1JF3eQjW4voiKdcvCkMXvUx5bLmZAiVdyi_3": 1471086835,
+		"1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_14": 1471463856,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_13": 1471596052,
+		"1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_19": 1471649758,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_18": 1471757725,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_20": 1471781668,
+		"1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP_5": 1471783067,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_21": 1471785054,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1471961979": 1471962238,
+		"1K9cgDWDUcaECPJvidujtdzYRFB3VTXyqV_1472393923": 1472393984,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472565075": 1472617997,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472678549": 1472681018,
+		"1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u_1473209651": 1473209721,
+		"127kAHK36cC8YUSkko6BPhTmsYJqeoa66U_1473217371": 1473218299,
+		"1NLKyC1Eq7gZeRKZ6oPN45wMWorx9yFWUW_1473226563": 1473228035,
+		"1DQAexBYLLtqRurHpCnmqUsGAxsXzhZWxP_1473263161": 1473274092,
+		"1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP_1473580247": 1473580457
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "I deleted Red Hub, and now I can only see this post.  Trying to look at the other one gives me an error:\n\n> Internal error: TypeError: actionMergerSiteAdd() takes exactly 3 arguments (2 given)\n> UiWebsocket.py line 98 > UiWebsocket.py line 175",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1",
+			"date_added": 1470878254
+		},
+		{
+			"comment_id": 2,
+			"body": "Also, after deleting Red, I get this error if I try to follow myself there:\n\n> Internal error: Exception: Merger site (ZeroMe) does not have permission for merged site: 1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL\n> UiWebsocket.py line 98 > UiWebsocket.py line 177 > MergerSitePlugin.py line 123 > MergerSitePlugin.py line 105 > MergerSitePlugin.py line 27\n",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1",
+			"date_added": 1470878907
+		},
+		{
+			"comment_id": 3,
+			"body": "Kaffie: you could make a site just to host the video.  The [Music Jplayer](http://127.0.0.1:43110/1GKFwRvtkY1gcbMxm9vuZnz3THfnUP9zz/) tries to pull its music from another site, but there's some issue in Firefox.",
+			"post_uri": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_5",
+			"date_added": 1470959232
+		},
+		{
+			"comment_id": 4,
+			"body": "http://127.0.0.1:43110/zeromedia.bit/ has a lot of activity.",
+			"post_uri": "1LfQ8dwqkqkGQNCg1kBevHPxjvTRJTQYBz_3",
+			"date_added": 1470962232
+		},
+		{
+			"comment_id": 5,
+			"body": "@Kaffie: as they are now, wouldn't there be problems if someone tried to post to multiple hubs?",
+			"post_uri": "1JF3eQjW4voiKdcvCkMXvUx5bLmZAiVdyi_3",
+			"date_added": 1471086832
+		},
+		{
+			"comment_id": 9,
+			"body": "ZeroNet has a lot of persistent data.  A merger site could play content from its hubs.  The content and player could also be stored on the same site.  The webtorrent pages of ZeroMail 2.0 and NullFolder do something more P2P, but they won't stream well and their content goes away when the uploader closes their browser window.",
+			"post_uri": "1BTK7LKA1LrvCjNqVrPmBtySWhSaHnG97Q_3",
+			"date_added": 1471092602
+		},
+		{
+			"comment_id": 10,
+			"body": "My avatar and name showed up normally when I posted...",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_7",
+			"date_added": 1471097503
+		},
+		{
+			"comment_id": 11,
+			"body": "I don't have a profile on a different hub. :/\n\nI can follow myself repeatedly; can you see that three times?",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_7",
+			"date_added": 1471097872
+		},
+		{
+			"comment_id": 12,
+			"body": "@&tkarita;: my activity feed is back!",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_7",
+			"date_added": 1471097916
+		},
+		{
+			"comment_id": 13,
+			"body": "@tkarita@zeroid.bit: sometimes the activity feed tracks username changes, sometimes not.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_7",
+			"date_added": 1471098030
+		},
+		{
+			"comment_id": 15,
+			"body": "It resets to the real size when I update, but then starts growing again.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_8",
+			"date_added": 1471101338
+		},
+		{
+			"comment_id": 16,
+			"body": "@Jayofthezero: I found this: \"merged-ZeroMe/ZeroMe.db file size does not match 1016832 <> 1123328, Hash: False\"\n",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_8",
+			"date_added": 1471102219
+		},
+		{
+			"comment_id": 17,
+			"body": "@Nofish: I have that.  For blue I have \"ignore\": \"((js|css)/(?!all.(js|css))|data/.*db|data/users/.*/.*)\".",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_8",
+			"date_added": 1471104307
+		},
+		{
+			"comment_id": 18,
+			"body": "Now the site seems back to normal.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_7",
+			"date_added": 1471106242
+		},
+		{
+			"comment_id": 19,
+			"body": "After 50 minutes, it's up to 75MB.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_9",
+			"date_added": 1471133467
+		},
+		{
+			"comment_id": 20,
+			"body": "There are links to other parts of the library here: http://pastebin.com/eMdAQ9aP",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_10",
+			"date_added": 1471191834
+		},
+		{
+			"comment_id": 21,
+			"body": "@Sirenyc: :(\n\nThe other torrent sites seem abandoned.  I think ZeroNet KAT should get the most attention.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_10",
+			"date_added": 1471207929
+		},
+		{
+			"comment_id": 22,
+			"body": "@Andrewm: some of these, like the AJAX collection, aren't seeded very well.  I'm not a web developer, so I didn't download most of these during the KAT project.  A few were uploaded to a partial copy of the library on cloud.mail.ru: http://pastebin.com/VEcskYAD",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_10",
+			"date_added": 1471239602
+		},
+		{
+			"comment_id": 23,
+			"body": "@Nofish: that's probably what happened.  At the time Tor also had connection problems, which made it very difficult to tell whether the hubs were updating normally.  Would commenting out lines 250-251 and 259-260 of MergerSitePlugin.py cause more problems?",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_11",
+			"date_added": 1471334041
+		},
+		{
+			"comment_id": 24,
+			"body": "http://127.0.0.1:43110/ZeroTorrent.bit/?Topic:18_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t/OCD+Pirate+s+Library+C\n\nI've heard C Primer Plus is good.",
+			"post_uri": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_12",
+			"date_added": 1471400473
+		},
+		{
+			"comment_id": 25,
+			"body": "@Quadrangle: around 150 books (with some duplicates).  The multilanguage collection also includes some more specific books involving C.\n\nhttp://127.0.0.1:43110/192dZ1EG5tU7PnCfuwGMDEBrr2eLqvs4t3/?Topic:11_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t/OCD+Pirate+s+Library+Multilanguage",
+			"post_uri": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_12",
+			"date_added": 1471401114
+		},
+		{
+			"comment_id": 26,
+			"body": "Ex Machina",
+			"post_uri": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_14",
+			"date_added": 1471465562
+		},
+		{
+			"comment_id": 27,
+			"body": "@ks: something is slightly wrong in ZeroHello's handling of the `merged_type` for merger sites.  If anyone tries to make a merger site that isn't part of ZeroMe, everything after the merger site list breaks.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_13",
+			"date_added": 1471596013
+		},
+		{
+			"comment_id": 28,
+			"body": "@Talnicrom: they aren't in the user list either.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_14",
+			"date_added": 1471658045
+		},
+		{
+			"comment_id": 29,
+			"body": "@talnicrom: there's a reply here, but only in the activity feed.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_18",
+			"date_added": 1471710277
+		},
+		{
+			"comment_id": 30,
+			"body": "@theterminator and @reginageorge replied, five minutes earlier.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_19",
+			"date_added": 1471710487
+		},
+		{
+			"comment_id": 31,
+			"body": "@nofish: to avoid time confusion, could ZeroNet try to find the median time from the peers it expects to publish to?",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_19",
+			"date_added": 1471711690
+		},
+		{
+			"comment_id": 32,
+			"body": "@Nofish: the publish notification usually gives a small number of peers (often 5).  How are they chosen?",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_19",
+			"date_added": 1471713691
+		},
+		{
+			"comment_id": 33,
+			"body": "@Talnicrom: I haven't seen the other bots respond.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_23",
+			"date_added": 1471718450
+		},
+		{
+			"comment_id": 34,
+			"body": "@Talnicrom: hope we don't get zalgo spam :)",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_24",
+			"date_added": 1471718905
+		},
+		{
+			"comment_id": 35,
+			"body": "@bold: @still bold: maybe bold: not bold",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_25",
+			"date_added": 1471725471
+		},
+		{
+			"comment_id": 36,
+			"body": "That could almost be suspected of being a false flag operation to expose Tor users, except the idea is too stupid.  How are the organizers going to show they degraded the Tor network, and why should anyone (especially Tor Project) believe them?  They should start their demonstration on Monday and continue all week (or indefinitely).  They would get more attention by DDOSing torproject, using Tor.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_20",
+			"date_added": 1471779635
+		},
+		{
+			"comment_id": 37,
+			"body": "I've seen some other program respond to --help that way.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_21",
+			"date_added": 1471785077
+		},
+		{
+			"comment_id": 38,
+			"body": "@avanixES: #torstrike is like \"I will kill ten kitties if you dont do what o say\"...",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_20",
+			"date_added": 1471785387
+		},
+		{
+			"comment_id": 39,
+			"body": "@Jayofthezero: http://pastebin.com/eMzJ8ZuH",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_20",
+			"date_added": 1471789243
+		},
+		{
+			"comment_id": 40,
+			"body": "Some people are starting more relays in response.  Almost everyone is very critical.  Cryptome seems vaguely supportive, and \"fORk tOR\" is very in favor, ignoring all the negative comments.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_20",
+			"date_added": 1471795515
+		},
+		{
+			"comment_id": 41,
+			"body": "There's an effort to make Bill & Ted the symbol of #torstrike: https://pbs.twimg.com/media/CqbR-O2UAAAajUX.jpg",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_20",
+			"date_added": 1471832099
+		},
+		{
+			"comment_id": 42,
+			"body": "I didn't read that closely enough... the first time, I missed the pixel between \"r\" and \"n\" and read \"in the mom\".",
+			"post_uri": "16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_1471953757",
+			"date_added": 1471956413
+		},
+		{
+			"comment_id": 43,
+			"body": "I really don't like the idea of permanently deleting old material.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472135886",
+			"date_added": 1472145425
+		},
+		{
+			"comment_id": 44,
+			"body": "Google has Chrome.  They are not good at consumer software.",
+			"post_uri": "16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_1472164264",
+			"date_added": 1472164553
+		},
+		{
+			"comment_id": 45,
+			"body": "@ɃǾȾ: I found a \"demo\" tip in the \"o\"... what is it meant to do?",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_1472286311",
+			"date_added": 1472286997
+		},
+		{
+			"comment_id": 46,
+			"body": "@19: did you delete the topic there?",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_1472286311",
+			"date_added": 1472291781
+		},
+		{
+			"comment_id": 47,
+			"body": "@19: your data.json for ZeroTalk is nearly empty. :(",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_1472286311",
+			"date_added": 1472292878
+		},
+		{
+			"comment_id": 48,
+			"body": "@19: if you have more, you should publish it before it updates.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_1472286311",
+			"date_added": 1472293240
+		},
+		{
+			"comment_id": 49,
+			"body": "@nofish: could commenting very quickly damage data.json?",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_1472286311",
+			"date_added": 1472293775
+		},
+		{
+			"comment_id": 50,
+			"body": "The textless javascript links aren't great either.  You really have to trust that the site won't be hijacked.",
+			"post_uri": "1K9cgDWDUcaECPJvidujtdzYRFB3VTXyqV_1472393923",
+			"date_added": 1472394118
+		},
+		{
+			"comment_id": 51,
+			"body": "They could probably use the ipfs.io proxy, too... doesn't seem to be loading though.",
+			"post_uri": "16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_1472396590",
+			"date_added": 1472396757
+		},
+		{
+			"comment_id": 52,
+			"body": "@PaintNinja: I was thinking of splitting each MP3 between frames (to make streaming easier) and publishing each frame along with its hash.  There could be the usual torrent problems of nobody having all the data for some file, but it should be more easily retained with ZeroNet storing redundant copies.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_1472477177",
+			"date_added": 1472478190
+		},
+		{
+			"comment_id": 53,
+			"body": "@PaintNinja: ZeroNet can't display download progress within a file, but @waterrabbit's script is able to by chopping it up and tracking each piece separately.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_1472477177",
+			"date_added": 1472479869
+		},
+		{
+			"comment_id": 54,
+			"body": "@weakish: right, the error prevents the site list and everything after it from appearing.  Have you loaded http://127.0.0.1:43110/1ARCHYFfke9k3Jbj9uVXmbeDV9XueK3hLA/?",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_1472515390",
+			"date_added": 1472554343
+		},
+		{
+			"comment_id": 55,
+			"body": ":(",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1472570437",
+			"date_added": 1472570864
+		},
+		{
+			"comment_id": 56,
+			"body": "In case torrents stop working: that book is [here](http://127.0.0.1:43110/1ABHoH2K2PBKv3bBDqfyLeNxBDT2XiH63A/).",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472565075",
+			"date_added": 1472617756
+		},
+		{
+			"comment_id": 58,
+			"body": "wow, giant text",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_1472786160",
+			"date_added": 1472786180
+		},
+		{
+			"comment_id": 59,
+			"body": "To avoid leaking your address, you should either [set a non-working proxy](http://127.0.0.1:43110/zeroblog.bit/?Post:60:protect+yourselves:+set+a+non-working+proxy) or add ZeroNet's Tor process as a SOCKS5 proxy (127.0.0.1:49050).  WebRTC can bypass those, so you should disable that (media.peerconnection.enabled in Firefox's about:config).  WebRTC is used by all the webtorrent sites (NullFolder, ZeroTube).",
+			"post_uri": "1889tLMuZze7YMshhe8u5h4NT4SSiA4PVB_1472917543",
+			"date_added": 1472919275
+		},
+		{
+			"comment_id": 60,
+			"body": "The [TorrentFreak site](http://127.0.0.1:43110/1JNqdTGVATFWRLzzYwVu19CuWYus5VmoUS) loads images from torrentfreak.com.  [Play](http://127.0.0.1:43110/1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp/) has http links to IMDB and could probably do something nefarious through any of the movie poster javascript links.",
+			"post_uri": "1889tLMuZze7YMshhe8u5h4NT4SSiA4PVB_1472918087",
+			"date_added": 1472919722
+		},
+		{
+			"comment_id": 61,
+			"body": "@PaintNinja: I was able to leak the public IP also, although I forget which site managed that.",
+			"post_uri": "1889tLMuZze7YMshhe8u5h4NT4SSiA4PVB_1472917543",
+			"date_added": 1472921887
+		},
+		{
+			"comment_id": 62,
+			"body": "I also found [8 DVDs](http://127.0.0.1:43110/ZeroTorrent.bit/?Topic:29_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t/Excel+Saga+8+DVDs+480p) from a Russian publisher.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_1473192436",
+			"date_added": 1473207389
+		},
+		{
+			"comment_id": 63,
+			"body": "@Wolfgang: there's a hidden upload link that appears if you hover over the circle on the profile page.",
+			"post_uri": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u_1473209651",
+			"date_added": 1473210313
+		},
+		{
+			"comment_id": 64,
+			"body": "D:",
+			"post_uri": "1CCviuoGsbnEbJig4gNLS8R8t6jVSNFSpk_1",
+			"date_added": 1473219966
+		},
+		{
+			"comment_id": 65,
+			"body": "Also [0rc](http://127.0.0.1:43110/1CjR14fofbRJ54oj8A7rAfWpzpLawdP5uc/) and [ZeroMedia](http://127.0.0.1:43110/zeromedia.bit/).  ZeroMedia has the highest post limit, the best features, and the most activity, but its owner left ZeroNet.  You could also chat on the [Nanasi text board](http://127.0.0.1:43110/16KzwuSAjFnivNimSHuRdPrYd1pNPhuHqN/), but nobody does.",
+			"post_uri": "1NLKyC1Eq7gZeRKZ6oPN45wMWorx9yFWUW_1473222014",
+			"date_added": 1473222426
+		},
+		{
+			"comment_id": 66,
+			"body": "@علي_محمد: the giant text is caused by starting a line with \"#\".  Using more increases the heading number.\n\n# h1\n## h2\n### h3\n#### h4\n##### h5\n###### h6\n\n...the <h#> tags don't work very well in comments.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_1472786160",
+			"date_added": 1473223412
+		},
+		{
+			"comment_id": 67,
+			"body": "@ks: there was a flood of new users yesterday after Reddit reposted that article.  Someone at V2 must follow trends on Reddit.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1473258675",
+			"date_added": 1473274017
+		},
+		{
+			"comment_id": 68,
+			"body": "It's easy to get people interested in an instant reward site like Play, especially now with the unease that another torrent site might go offline.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1473258675",
+			"date_added": 1473284326
+		},
+		{
+			"comment_id": 69,
+			"body": "Did you clone that?  The 2MB limit was too low for ZeroTorrent; @sirenyc reached that quickly.  Also with more categories the limit might be more easily reached.",
+			"post_uri": "1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP_1473580247",
+			"date_added": 1473580850
+		},
+		{
+			"comment_id": 70,
+			"body": "@Wire: there was a lot of activity on https://twitter.com/hashtag/torstrike until a few days ago.  The only real effect was an increase in Tor network capacity.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_1472786160",
+			"date_added": 1473592802
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
+			"auth_address": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb",
+			"user_name": "Bot",
+			"date_added": 1470858651
+		},
+		{
+			"follow_id": 2,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N",
+			"user_name": "Quadrangle",
+			"date_added": 1470858653
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1470858658
+		},
+		{
+			"follow_id": 4,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1L5rGDgTs4W2V7gekSvJNhKa7XaHkVwotD",
+			"user_name": "Antyhrabia",
+			"date_added": 1470858660
+		},
+		{
+			"follow_id": 5,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv",
+			"user_name": "Newuser123",
+			"date_added": 1470858732
+		},
+		{
+			"follow_id": 6,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1470858889
+		},
+		{
+			"follow_id": 7,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t",
+			"user_name": "Tkarita",
+			"date_added": 1470859115
+		},
+		{
+			"follow_id": 8,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "164W1rFVD9Bm7poGJWvjVUjvkbhhFC5nnt",
+			"user_name": "Truth",
+			"date_added": 1470862368
+		},
+		{
+			"follow_id": 9,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1D6Pn4487L8QyFtVSU14nxxtnfEgEs2Ny1",
+			"user_name": "Kickasstorrents",
+			"date_added": 1470877186
+		},
+		{
+			"follow_id": 10,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ",
+			"user_name": "Sirenyc",
+			"date_added": 1470877189
+		},
+		{
+			"follow_id": 11,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp",
+			"user_name": "Testset",
+			"date_added": 1470877335
+		},
+		{
+			"follow_id": 13,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1470878269
+		},
+		{
+			"follow_id": 14,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1wFmwTMU9TPYuVqsFZSyutRN3PhWue3GM",
+			"user_name": "Lupinsansei",
+			"date_added": 1470890683
+		},
+		{
+			"follow_id": 15,
+			"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
+			"auth_address": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN",
+			"user_name": "Flyman",
+			"date_added": 1470901149
+		},
+		{
+			"follow_id": 16,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN",
+			"user_name": "Flyman",
+			"date_added": 1470902275
+		},
+		{
+			"follow_id": 17,
+			"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
+			"auth_address": "14ng1wByxwoNXAhihYbpgyarVJbFiqs8ny",
+			"user_name": "Genericusername",
+			"date_added": 1470918457
+		},
+		{
+			"follow_id": 18,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1JF3eQjW4voiKdcvCkMXvUx5bLmZAiVdyi",
+			"user_name": "Edantes",
+			"date_added": 1470923878
+		},
+		{
+			"follow_id": 19,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1DjUq8hd2jYZgc5uNhQEtWUVZjMHkMQkpU",
+			"user_name": "Alek",
+			"date_added": 1470924727
+		},
+		{
+			"follow_id": 20,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib",
+			"user_name": "megfault",
+			"date_added": 1470924944
+		},
+		{
+			"follow_id": 21,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6",
+			"user_name": "Emeraude",
+			"date_added": 1470924972
+		},
+		{
+			"follow_id": 22,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "16YxtnaTrCSbvCXSYxrnvobmYnqtidxG23",
+			"user_name": "Hellozeronetwork",
+			"date_added": 1470924985
+		},
+		{
+			"follow_id": 23,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1BDapygZHNG8GxEuSsEpK9Xipm9mFfW1F2",
+			"user_name": "isolinks",
+			"date_added": 1470955175
+		},
+		{
+			"follow_id": 25,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1470980817
+		},
+		{
+			"follow_id": 27,
+			"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
+			"auth_address": "19wS2jp1JUVFEvQybRdDc4fcYWnozCMWyW",
+			"user_name": "0faze",
+			"date_added": 1470983050
+		},
+		{
+			"follow_id": 28,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "14Ztiu3VJBAAdbNr6EwDtKS6Xg7JTCFxtp",
+			"user_name": "Hello World",
+			"date_added": 1471027027
+		},
+		{
+			"follow_id": 29,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC",
+			"user_name": "Meidan",
+			"date_added": 1471027040
+		},
+		{
+			"follow_id": 30,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R",
+			"user_name": "Scrub",
+			"date_added": 1471062686
+		},
+		{
+			"follow_id": 32,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1BTK7LKA1LrvCjNqVrPmBtySWhSaHnG97Q",
+			"user_name": "HrnekBezucha",
+			"date_added": 1471092636
+		},
+		{
+			"follow_id": 33,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f",
+			"user_name": "Kaffie",
+			"date_added": 1471093261
+		},
+		{
+			"follow_id": 34,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1HfQNGCf3dGBXh3NFfG2UeTYduE65oAA8T",
+			"user_name": "Kozuke",
+			"date_added": 1471095150
+		},
+		{
+			"follow_id": 35,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t",
+			"user_name": "&tkarita;",
+			"date_added": 1471097676
+		},
+		{
+			"follow_id": 36,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t",
+			"user_name": "&tkarita;",
+			"date_added": 1471097765
+		},
+		{
+			"follow_id": 38,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t",
+			"user_name": "tkarita",
+			"date_added": 1471098486
+		},
+		{
+			"follow_id": 44,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1471130114
+		},
+		{
+			"follow_id": 45,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "16hBfwen4vQfa7NFkKPFCwWy4XViRA5DYq",
+			"user_name": "Kaffie",
+			"date_added": 1471139957
+		},
+		{
+			"follow_id": 46,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS",
+			"user_name": "ZAlex",
+			"date_added": 1471139986
+		},
+		{
+			"follow_id": 48,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "14dWJrtWbw6sQKHgfeukbzBDJvBSnfRnTw",
+			"user_name": "Kingrat",
+			"date_added": 1471154385
+		},
+		{
+			"follow_id": 49,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "18YDBsfhNGBjoPNVnHoetUdFZBcH5pR8xj",
+			"user_name": "The IO monad",
+			"date_added": 1471207140
+		},
+		{
+			"follow_id": 50,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LkRBTdWeynXXmUhb5DXxesygs2aKaUnXx",
+			"user_name": "Mak",
+			"date_added": 1471207620
+		},
+		{
+			"follow_id": 52,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "13dMoaWYk8PEfPECdqLEu7V3Ha7cz3gdZY",
+			"user_name": "Remusg",
+			"date_added": 1471252092
+		},
+		{
+			"follow_id": 53,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1FDMqryrE33tiy9baghB5maTwiffkfbbvg",
+			"user_name": "Monochromewolf",
+			"date_added": 1471252171
+		},
+		{
+			"follow_id": 54,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EqobvYnVFKHPsJ5rbxGu3m8Z8pAk8FqrJ",
+			"user_name": "SunSlav",
+			"date_added": 1471252226
+		},
+		{
+			"follow_id": 55,
+			"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
+			"auth_address": "1834NDcgfPTvMJiFVuwkv1YqmtYggBnzKg",
+			"user_name": "Mediagiant",
+			"date_added": 1471252233
+		},
+		{
+			"follow_id": 56,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1A17wC2HtxE2oNfTmH9kD9WASwj86RUeQH",
+			"user_name": "The4sakenmafia",
+			"date_added": 1471252264
+		},
+		{
+			"follow_id": 60,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1P7F9po18mshkbRG5zEVV47vHtLEX19QJa",
+			"user_name": "Bashrc",
+			"date_added": 1471252550
+		},
+		{
+			"follow_id": 62,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "13k6itGVhzLTZUZKiqWWJ5KdvVUEMqDWDv",
+			"user_name": "Sbeee",
+			"date_added": 1471252747
+		},
+		{
+			"follow_id": 63,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "16bxMyoL49mWYhcZKBYVBT5zEFW9SQpiao",
+			"user_name": "Thisguy1337",
+			"date_added": 1471253068
+		},
+		{
+			"follow_id": 64,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1471264427
+		},
+		{
+			"follow_id": 65,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1CFhytwoGGPNqmueehPqotaf2iG9uxD98e",
+			"user_name": "Method-X",
+			"date_added": 1471369599
+		},
+		{
+			"follow_id": 66,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1419tAMhmxurWvtjYtyQej2qro6BaPs7is",
+			"user_name": "Arr!",
+			"date_added": 1471383370
+		},
+		{
+			"follow_id": 67,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331",
+			"user_name": "Andrewm",
+			"date_added": 1471384421
+		},
+		{
+			"follow_id": 68,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "137PNA5gLgCTLZTBtzUqCmMoZ752NQGQSJ",
+			"user_name": "Arsene Lupin",
+			"date_added": 1471468493
+		},
+		{
+			"follow_id": 69,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1JbpzmuMPCg5tQEW8kstHhAtZbckwgXVnR",
+			"user_name": "Jamiek",
+			"date_added": 1471627684
+		},
+		{
+			"follow_id": 70,
+			"hub": "1JUDmCT4UCSdnPsJAHBoXNkDS61Y31Ue52",
+			"auth_address": "1DtTF9bsZgRRsqvsZo2V88rHRDz1rutWgr",
+			"user_name": "TheTerminator",
+			"date_added": 1471657115
+		},
+		{
+			"follow_id": 71,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "17gEFavobc7RsKNGbSzZwoSZ6jNB7hT2KN",
+			"user_name": "Fav",
+			"date_added": 1471719852
+		},
+		{
+			"follow_id": 72,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ",
+			"user_name": "Musickiller",
+			"date_added": 1471720932
+		},
+		{
+			"follow_id": 73,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne",
+			"user_name": "Jayofthezero",
+			"date_added": 1471760656
+		},
+		{
+			"follow_id": 74,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV",
+			"user_name": "Mynameislegion",
+			"date_added": 1471760667
+		},
+		{
+			"follow_id": 75,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1H5VKNWtkBA7RpJWyYuFw5bqjwbgjXoqKp",
+			"user_name": "Unanimous",
+			"date_added": 1471760690
+		},
+		{
+			"follow_id": 76,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "17TX2JoDCPtqsYPN1KMk2LRLRzny31HetJ",
+			"user_name": "CronianIce",
+			"date_added": 1471768815
+		},
+		{
+			"follow_id": 77,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1G5NfrrmuPAFwq2savujiaTi1yLKTXEF8m",
+			"user_name": "Amcolex",
+			"date_added": 1471768890
+		},
+		{
+			"follow_id": 78,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1Pg3bGXNVV9uB2HnirHFU2vaJLvmK77Dox",
+			"user_name": "Ekodjtal",
+			"date_added": 1472339128
+		},
+		{
+			"follow_id": 79,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1K9cgDWDUcaECPJvidujtdzYRFB3VTXyqV",
+			"user_name": "Seelion",
+			"date_added": 1472394166
+		},
+		{
+			"follow_id": 80,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX",
+			"user_name": "Deadjoker",
+			"date_added": 1472394201
+		},
+		{
+			"follow_id": 81,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC",
+			"user_name": "Waterrabbit",
+			"date_added": 1472541880
+		},
+		{
+			"follow_id": 82,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar",
+			"user_name": "world",
+			"date_added": 1472828888
+		},
+		{
+			"follow_id": 83,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u",
+			"user_name": "Lola",
+			"date_added": 1472925519
+		},
+		{
+			"follow_id": 84,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx",
+			"user_name": "ks",
+			"date_added": 1472925541
+		},
+		{
+			"follow_id": 85,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1NPSKCmjnAeBZY4suepj8HRDB1defQFSTB",
+			"user_name": "Robixxu",
+			"date_added": 1473205458
+		},
+		{
+			"follow_id": 86,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1L86puoE7mTzfDzqdvVW8XTd5ReFEA2dty",
+			"user_name": "Overlord",
+			"date_added": 1473208588
+		},
+		{
+			"follow_id": 87,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1DQAexBYLLtqRurHpCnmqUsGAxsXzhZWxP",
+			"user_name": "Habit",
+			"date_added": 1473274150
+		},
+		{
+			"follow_id": 88,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1KkA3C1iVDfieotYpuPUCpUtKzdFcfHMRy",
+			"user_name": "cryp7ix",
+			"date_added": 1473394119
+		},
+		{
+			"follow_id": 89,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "16YP1ZeHrKq3KB3DdBWHec984oQAfVPT9d",
+			"user_name": "Wire",
+			"date_added": 1473586216
+		}
+	]
+}

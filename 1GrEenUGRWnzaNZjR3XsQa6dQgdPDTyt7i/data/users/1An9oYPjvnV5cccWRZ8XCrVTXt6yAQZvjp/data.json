@@ -1,0 +1,32 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Gabrielgermano",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1472829915,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1472829936,
+			"body": "Cade os BR huehuehuehue ae\n",
+			"date_added": 1472829934
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1An9oYPjvnV5cccWRZ8XCrVTXt6yAQZvjp",
+			"user_name": "Gabrielgermano",
+			"date_added": 1472829964
+		}
+	]
+}

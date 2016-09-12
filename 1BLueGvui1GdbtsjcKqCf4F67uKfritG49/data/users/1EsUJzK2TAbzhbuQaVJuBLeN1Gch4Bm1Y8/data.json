@@ -1,0 +1,48 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 4,
+	"avatar": "generate",
+	"user_name": "K99",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Power User",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1472504904,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1472504933,
+			"body": "ola\n",
+			"date_added": 1472504931
+		}
+	],
+	"post_like": {
+		"15JuC9Nz1ua8s7M7tUemvJN1r6NZhffCVq_2": 1472951734
+	},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1A17wC2HtxE2oNfTmH9kD9WASwj86RUeQH",
+			"user_name": "The4sakenmafia",
+			"date_added": 1472951637
+		},
+		{
+			"follow_id": 2,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "15JuC9Nz1ua8s7M7tUemvJN1r6NZhffCVq",
+			"user_name": "Darkcod3",
+			"date_added": 1472951738
+		},
+		{
+			"follow_id": 3,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9",
+			"user_name": "Shellbound",
+			"date_added": 1472953142
+		}
+	]
+}

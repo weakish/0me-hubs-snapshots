@@ -1,0 +1,748 @@
+{
+	"next_post_id": 42,
+	"next_comment_id": 66,
+	"next_follow_id": 28,
+	"avatar": "jpg",
+	"user_name": "Kaffie",
+	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+	"intro": "23/F - Kaffiene Developer\n\n---\n\n[My Blog](/kaffie.bit)\n\n[Kaffiene Search](/kaffiene.bit)",
+	"post": [
+		{
+			"post_id": 1,
+			"body": "This is a post on my new hub. ~~None of you should be able to see this yet (hopefully).~~",
+			"date_added": 1470970599
+		},
+		{
+			"post_id": 2,
+			"body": "Alright, so everything seems to be in order for my new awesome hub and cleanly migrating hubs for those of you who want to switch to my hub, or the infinity one (or even Red->Blue/Blue->Red for you color traitors).\n\nFirst things first is to seed the new hub you want to switch to. You're likely already seeding Red and Blue, but you'll need to seed the [Kaffie hub](/12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv) or the infinity hub, if you want to switch to those. If you're seeing this post, you should already have the Kaffie hub.\n\nDon't bother going to the 'create profile' page. That's for suckers. It's nice to check which subs you're seeding, but the 'create profile' button just messes things up. Instead, go to your home sub (you can figure out what this is by hovering over your name and looking at the URL) and go into the /data/users/[your id]/ folder. You'll want to copy over this whole folder into the new hub's equivalent.\n\nIn the destination hub, open up content.json in a text editor (like sublime, so formatting doesn't get messed up). All you want to do is edit 'address' to point to the new hub, instead of your old one.\n\nNext, open up data.json in the destination hub. You'll see all your original hub data. Here's what we're going to do. Delete all of the entries under 'comments'. These are comments relating to the hub they're in, so you don't need them migrated. You should still keep the array though, since that's where all your new hub comments will go.\n\nChange the 'hub' to the new hub you're migrating to. Just like you did in the content.json. This is a reference to say what your 'home hub' is. We'll eventually edit this in EVERY hub you're seeding or posted in, but one step at a time.\n\nChange 'next_comment_id' to 1. Since we deleted the comments, we need to reset the counter.\n\nHere's where you get a choice. There's two options for your posts. Either you can migrate the data, which switches the name link on those posts (and hosts it in the new hub) but also unlink everyone's comments, or you can leave the posts in the old hub, and start fresh. If you start fresh, your old posts will still appear, but they'll link back to your old hub profile. So keep that in mind. I personally started fresh.\n\nTo start fresh, do the same thing to your posts as you did your comments. Delete all the entries and change the 'next_post_id' to 1.\n\nLastly, delete everything under 'post_like'. Keep the array though.\n\nThat should set up your new hub account. Now we need to repoint your data on the other hubs. For each hub you've posted in, go into that hub's folder and find your user folder, like we did before.\n\nOn each one, open the data.json and simply edit the 'hub' variable to point to your home hub. This is probably optional (as it repoints the comment links), but I went ahead and did it to reduce the amount of problems.\n\nOn your original sub, a couple more things need to be tweaked. Delete everything under 'follows'. Remove the variable entirely. Delete 'next_follow_id' as well. Change 'hub' to your new hub, as usual. And if you opted to migrate your posts, delete the entire 'posts' section along with the 'next_post_id' variable. If not, leave it. I didn't migrate, so I left the posts there.\n\nChange the intro to something to notify people to switch the profile they follow. This is technically optional, and you can just delete it if you feel like it. Delete the 'avatar' if you migrated posts (it's unneeded), but if you kept your posts there, then you'll want to keep it, as otherwise your old posts won't have an avatar (perhaps this is preferred?)\n\nFinally, we save up and go to sign/publish our changes. Visit each hub site (the actual site down at the bottom of zerohello, not zerome). Then drag the sidebar open and select 'i own this site'. Put your user content.json in the bottom box (should look something like: data/users/[yourid]/content.json) and hit sign. It'll prompt for a privatekey. Use your ZeroID private key (found at the top of your zeronet's user.json file) and then click publish. Do this for every hub you've edited.\n\n---\n\nSo now all of the changes are made and published. Everyone else should see everything just fine. But you might still be stuck logged into your old hub. So delete every hub but your destination hub. Then go into zerome and ensure you're logged in properly. Finally, redownload each hub and everything should be good to go!",
+			"date_added": 1470973771
+		},
+		{
+			"post_id": 3,
+			"body": "Configuring my hub to be wonderful. Already got a .bit at [hub.kaffie.bit](http://127.0.0.1:43110/hub.kaffie.bit/) and gave it a nice little splash page. Perhaps next I'll clone ZeroMe and blend the Kaffiene and ZeroMe styles together into a cohesive whole?",
+			"date_added": 1470989521
+		},
+		{
+			"post_id": 4,
+			"body": "[Sneak preview at the new Kaffiene UI](https://ipfs.pics/ipfs/QmSDbcCkEYv36NoJz3b25ZbBogiSJ4z1HD2mpwHnnuaHsG) coming soon. Will be posted soon (maybe tomorrow?). I need sleep first.",
+			"date_added": 1471007260
+		},
+		{
+			"post_id": 5,
+			"body": "Curious... I went ahead and looked on some proxies and there appears to be some more hubs tucked away. They didn't appear on Bot's list, nor on ZeroMe's create profile page (unless they're seeded, obviously). And they don't look like they've been posted anywhere. So here they are for those interested:\n\nBitcoin - 12rTbtzcEZH7RiVfShBB3qhoe3rfwbpm8S\n\nHub Espanol - 15mV5T1R1wxg3E1FPsvZw19bw6QzvRREfn\n\nAnarcho-Capitalism - 1CiGGh6RrTtaTJfutVKUrfURsP5J4stJDk\n\nGFW Hub - 1Gb25pK7XqrgnBYjhHLGBjEYURg2MhbJCq\n\nTrump 2016 - 16bNGdxFkGWGnCEfVue3w4CSp3Ew2hcyBB\n\nOrange is the new Black - 1ARSTRDgMSH2E81pcZCbaEq28TZ72Levxh",
+			"date_added": 1471039763
+		},
+		{
+			"post_id": 6,
+			"body": "Kaffiene just got a new UI, along with other neat changes. Go check it out! I detailed it on my blog.",
+			"date_added": 1471054399
+		},
+		{
+			"post_id": 7,
+			"body": "Testing a ZeroMe clone. Should show up properly...",
+			"date_added": 1471069289
+		},
+		{
+			"post_id": 13,
+			"body": "I just noticed that likes on my posts show up on both my redhub and kaffie hub posts, if they share a post number. So if someone liked 'kaffie hub post 1' then it'd show up as a like for both kaffie hub post 1, as well as red hub post 1. AFAIK, comments don't do this, because they were originally designed to be spread across hubs.\n\nSo I upped my kaffie hub post number, so that I should be past my redhub post count. That way the likes aren't duplicated any more. Hopefully once the multi-hub thing gets fixed, the likes will be properly displayed.",
+			"date_added": 1471071033
+		},
+		{
+			"post_id": 14,
+			"body": "KaffieID test was a success! [Check it out.](http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Profile/12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv/1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f/kaffie@kaffie.bit)",
+			"date_added": 1471090500
+		},
+		{
+			"post_id": 15,
+			"body": "Still having issues logging in... What exactly determines whether 'create profile' appears?\n\nhttps://ipfs.pics/ipfs/QmU4sb95w7ZqXPphLxomU8vynr9gtcKEkRxidmfGEhga5a",
+			"date_added": 1471128495
+		},
+		{
+			"post_id": 16,
+			"body": "Update on the login issue for KaffieID. The login code detects your cert name, which is the little `name@zeroid.bit` and then compares it to the one in your `content.json` file. If they match, it sets that as your user. If not, then it doesn't. So username switching systems, or people with matching names/providers (such as nanasi/kaffie that don't guarantee name uniqueness) you get login issues. And switching an id (even with the same auth keys and such) makes a login issue, despite signing working correctly anyway.\n\nApparently the only think you need to change is the content.json in your home hub, to fix this. just change `\"cert_user_id\": \"name@provider.bit\",` to whatever it is that is in the top right (your cert name). If this field is missing, there'll be issues. And if it doesn't match, there'll be issues.\n\nThe fix I posted below (changing the detection in all.js) to be based on auth_address) works as well, and lets you log in regardless (so if your signing is good, you're all set). Though amusingly, the little `name@provider.bit` that appears everywhere *is* based on that field in the content.json. Interesting...\n\nI'd still like the change to all.js to be made though, so that this issue doesn't occur. Having broken logins is never good.",
+			"date_added": 1471135484
+		},
+		{
+			"post_id": 17,
+			"body": "Despite me being a developer, and having actually released stuff that people use, I never actually pushed to github before. Nor have I ever done a pull request. Up until now, I've always used group repositories on SVN, and a couple group repositories on google's git thing. I gotta say, github is actually kinda cool.\n\nEither way, I just submitted a pull request for the fix I was talking about earlier. So hopefully this fix can come sooner than later.",
+			"date_added": 1471144687
+		},
+		{
+			"post_id": 18,
+			"body": "Just finished putting the last bits of polish on the KaffieID site. It's more or less ready to go. I just need to configure a subdomain for it (likely id.kaffie.bit) and then launch it with the big redesign I'm working on. Here's a sneak peek!\n\nhttps://ipfs.pics/ipfs/QmQ72gotbzLURYuapgLoJx8hRjXcdmA9D1gxubQ6nMrDFi",
+			"date_added": 1471158336
+		},
+		{
+			"post_id": 19,
+			"body": "Every time I pick up my prescription I wonder if people know what it's for, or if it's just some mystery drugs they have no idea what I'm doing with them. No one's said anything, so I dunno if it's just that they're polite, or they legit don't know.",
+			"date_added": 1471317768
+		},
+		{
+			"post_id": 20,
+			"body": "I'm being so lazy right now. I'm literally just clicking refresh on ZeroNet and Reddit, waiting for stuff to pop up. #lazy #f5",
+			"date_added": 1471485210
+		},
+		{
+			"post_id": 21,
+			"body": "Added tags [to my blog.](http://127.0.0.1:43110/kaffie.bit/?Post:27:Tagging+My+Blog) Now things can be neatly categorized.",
+			"date_added": 1471488885
+		},
+		{
+			"post_id": 22,
+			"body": ":( Night is the worst. All my dysphoria and depression comes at this time for whatever reason. You know, I'm not sure which is worse, feeling empty or feeling down. It's awful because I'm a night owl, but I'm miserable all night. Ugh. Anyone else like this? A slave to your destructive habits, and medical issues that flare up at night?\n\nTime to drown myself in a bunch of episodes of Mr Robot...",
+			"date_added": 1471507710
+		},
+		{
+			"post_id": 23,
+			"body": "As part of my rebranding/overhaul thing, I'm migrating my blog over to a subdomain, and creating a new Kaffie.bit homepage. However, I realize that there are many links back to my blog, which really point to kaffie.bit. So to resolve that, I'm having the main kaffie.bit page redirect blog post urls to the appropriate post. Here's the snippet of code that does that.\n\n```\nvar x = location.search.replace(/wrapper_nonce=.+/g,'');\nif(x != \"?\" && x != null)\n{\nwindow.top.location.replace(\"/1N6zp6jCXPBktNMPfe7UJBpQGyfCq7k2M8/\"+x);\n}\n```\n\nI might have to end up changing it if the new homepage uses get values. But that's what I'm using for the time being. Short, sweet, and to the point.",
+			"date_added": 1471598879
+		},
+		{
+			"post_id": 24,
+			"body": "Hey, I just noticed that I can submit new posts from my profile page :D",
+			"date_added": 1471643293
+		},
+		{
+			"post_id": 25,
+			"body": "Things are going along nicely. My test page for http://zero/ and zero:// protocol handling is detecting both perfectly. Results:\n\n**Firefox:**  \nWith pac proxy + custom protocol: both pass.  \nWith pac proxy only: Only http://zero/ pass.  \n\n**Chrome:**  \nWith extension: Only http://zero/ pass.\n\n**Opera:**  \nStandalone: Neither pass.  \nWith pac proxy only: Only http://zero/ pass.\n\n**Safari:**  \nStandalone: Neither pass.  \nWith pac proxy only: Only http://zero/ pass.\n\nI'm curious on how to get the other browsers working with the custom protocol. It's the cleanest way to handle urls and linking (no interfering with regular web browsing), but my current method of resolving them Results in pointing the user to a redirect page, which then navigates them to the appropriate site. Making a bit of a jarring transition, and a reliance on the redirect server. It also doesn't beautify the URL in any other case. So it's pretty much only good for linking.",
+			"date_added": 1471656036
+		},
+		{
+			"post_id": 26,
+			"body": "All sites are a go. I've signed/published the unreleased ones, and I've prepped the changes to the existing ones. Now all I have to do is configure the namecoin entry, and sign/publish the existing sites. Hopefully everything goes smoothly. There might be some messy outcomes in the next few hours, so be warned.",
+			"date_added": 1471678211
+		},
+		{
+			"post_id": 27,
+			"body": "Everything is up! Go check out [Kaffie.bit](/kaffie.bit) and the related network of sites! I did a write up over on [my blog.](/blog.kaffie.bit) Lots of new stuff released. Have at it.",
+			"date_added": 1471680003
+		},
+		{
+			"post_id": 28,
+			"body": "Does anyone know how [this feature](https://github.com/HelloZeroNet/ZeroMe/commit/f17a187dac8ebdf62a80b6332a1bd9e061bea168) works? From the sound of it, it makes shorter urls for profiles possible. But I can't get it to work.",
+			"date_added": 1471745968
+		},
+		{
+			"post_id": 29,
+			"body": "So there's been signing/publishing issues issues with KaffieID and I seem to have found out why. When there's a cert_sign in the content.json, ZeroNet attempts to create a new cert to recreate the cert_sign to verify.\n\nHere's the relevant code:\n\n```\ndef verifyCert(self, inner_path, content):\n        from Crypt import CryptBitcoin\n\n        rules = self.getRules(inner_path, content)\n        if not rules.get(\"cert_signers\"):\n            return True  # Does not need cert\n\n        name, domain = content[\"cert_user_id\"].split(\"@\")\n        cert_address = rules[\"cert_signers\"].get(domain)\n        if not cert_address:  # Cert signer not allowed\n            self.log.error(\"Invalid cert signer: %s\" % domain)\n            return False\n        return CryptBitcoin.verify(\n            \"%s#%s/%s\" % (rules[\"user_address\"], content[\"cert_auth_type\"], name), cert_address, content[\"cert_sign\"]\n)\n```\n\nThis means that only certs that have signed using `useraddress#authtype/name` are valid. Which eliminates the ability to change names but keep the same cert. This verification requiring the name is entirely useless, and you can get around the entire issue by modifying the content.json to simply not have a cert_sign.\n\nSo... what should we do? Just force everyone to use the `useraddress#authtype/name` and hope that no one pushes out a cert that uses something different? KaffieID uses `useraddress#authtype/kaffie.bit` so that names can freely change. However, that seems to mess up the python verification. The cert works, it's just unexpected due to not using the name. Should I just change KaffieID to mess up certs when you change names? Seems kind of dumb that changing a name for an ID service would mess up your cert. I mean, we already have public/private keys. Is a specialized cert_sign in a particular format that breaks if you change names necessary?\n\nAlternatively we can look a bit further on what's actually going on behind the scenes, and perhaps fix it entirely? Perhaps certs should have a 'format' for the verification to take place?\n\n@nofish: I'm interested to see what you have to say. At the moment the cert_sign appears to me as a redundant check that breaks certs that use different formatting. Why not simply change the check to `useraddress#authtype/signersite`? Is there even a way to change this now that people have been using ZeroIDs? Would the 'format' option I described work?",
+			"date_added": 1471820210
+		},
+		{
+			"post_id": 30,
+			"body": "```\nInternal error: TypeError: 'unicode' object does not support item assignment\nUiWebsocket.py line 98 > UiWebsocket.py line 177 > SidebarPlugin.py line 602 > SiteStorage.py line 121 > Db.py line 316\n```\n\nI get this error whenever I try to rebuild the ZeroMe Database. Ends up breaking everything, since some hubs aren't merged. How do I fix this?\n\n\\#bug @nofish:",
+			"date_added": 1472262008
+		},
+		{
+			"post_id": 1472384311,
+			"body": "I just got back into Kerbal Space Program. Last time I played it, there was only sandbox mode. Now there's a whole career mode. Neat. I also installed some mods that someone suggested. Haven't gotten to use them yet though. Still can't even get my damn rocket into orbit (well, I have, but I want to dispatch a satellite, rather than have a kerbal go into orbit and just come back doing nothing).\n\nI remember last time I played (on sandbox/creative) I managed to get a Kerbal stuck on the moon with me being unable to send a rescue crew :P.\n\nWith the career mode, and the realism/exploration mods I got, KSP has turned from just a fun toy into an actual game. Definitely having a blast with it.",
+			"date_added": 1472384280
+		},
+		{
+			"post_id": 1472425756,
+			"body": "Well that's a shame. Apparently my past 2-3 posts weren't visible by anyone using the new client, due to a typo in my content.json. I was completely unaware of the problem, as it signed/published just fine due to the presence of older clients accepting it (like the kindlyfire proxy).\n\nIf you messed with your content.json, now might be a good time to check it, to be sure it's in proper working order. For my issue, I had `auth_type` instead of `cert_auth_type`.",
+			"date_added": 1472425724
+		},
+		{
+			"post_id": 1472430212,
+			"body": "I wanted to share [this Kaffiene search](http://127.0.0.1:43110/kaffiene.bit/?q=15GAu5QYg34TLzD4b2WMpZSid9S2K6M54h&i=ZeroName) because I was shocked that Erkan had registered nearly 25% of all ZeroNet domain names.\n\nHowever, I realized that Kaffiene's share links didn't specify an index, which means the search would've pointed back to the Kaffiene Index and the point would've been lost. So I did a Kaffiene update to include the index in the share link, so that searches may be properly shared.\n\nThough, that makes me think: Page number isn't share either. I was told by friends/family that there's no need to share the page, but I keep thinking otherwise. Should I include it anyway? It would make it easy to keep searches going over longer periods of time, or to continue a search that you stopped looking through.",
+			"date_added": 1472430179
+		},
+		{
+			"post_id": 1472440913,
+			"body": "I really want [ZeroTube](/1FUQPLXHimgCvYHH7v3bJXspJ7bMBUXcEb) to be a success, but no one cares to seed anything... The big issue seems to be that there's no way to get the magnet link/torrent file from a video, meaning you can only ever seed it when you're on the page. And uploading is really glitchy, so if you use the direct thing, you're shit outta luck.\n\nI went ahead and mirrored some videos (Cosmos Laundromat, Fastcast vids, etc) as well as uploaded a new one of my own (Deadpool movie). For those who want to just manually upload stuff, here's my process:\n\n1. Drag/drop the movie into webtorrent. This is to start the seeding process. Don't include anything besides the mp4. Webms don't work, and I'm guessing stuff like AVIs don't work either.\n\n2. Right click on the newly seeded torrent and hit 'copy magnet link'. You'll paste this in the 'magnet' field on your data.json.\n\n3. Add a new video in your data.json. Here's the format:\n\n```\n{\n\"video_id\": \"\",\n\"title\": \"\",\n\"description\": \"\",\n\"magnet\": \"\",\n\"date_added\": \"\"\n}\n```\n\nFor 'video_id', it's expecting the bittorrent hash listed under 'bith'. It's in the magnet link near the beginning. For date_added, my new entries have the format `2016-08-29T02:12:14.588Z`. (Edit: You can use [this site](http://www.unixtimestamp.com/) to generate a timestamp. Use the 'ISO 8601' one.)\n\nHave fun. Still no way to increase the seeds besides manually sharing the magnet link and downloading through webtorrent (or staying on the page). You can grab a video's magnet link in the same manner. Alternatively you can grab the bith from the end of the watching URL, and paste that right into webtorrent desktop.\n\nAnd remember, the more support ZeroTube gets, the more webtorrents are seeded for *any* webtorrent video service. So let's work together to kickstart a solid video streaming platform for ZeroNet :D\n\nEdit: Help mirror youtube videos by pasting the url into this site http://keepvid.com/ and then hitting the 'Download MP4 - 720p' option.",
+			"date_added": 1472440879
+		},
+		{
+			"post_id": 1472455810,
+			"body": "Uploaded a quick walkthrough on how I upload videos to ZeroTube. Hopefully it helps out people who were confused about how to do it.",
+			"date_added": 1472455775
+		},
+		{
+			"post_id": 1472480321,
+			"body": "I can't lie. I'm addicted to denpa.",
+			"date_added": 1472480285
+		},
+		{
+			"post_id": 1472524500,
+			"body": "Can someone with a more reliable up-time and connection speed start hosting stuff and dl+seed existing stuff on ZeroTube? Sirenyc seems to have HDD and content, but lacks connection speed. I have a good connection speed, but awful up-time and HDD. Things are going well though, there's finally stuff to watch on there.",
+			"date_added": 1472524463
+		},
+		{
+			"post_id": 1472600640,
+			"body": "Word of warning: If you plan to clone ZeroMe+Hubs to make a new style of merger site. Be sure to copy over the userdb hub as well, with all that goes with it. Figured I didn't need it, and ran into a whole bunch of problems. Then spent the next hour or so reintegrating it.",
+			"date_added": 1472600602
+		},
+		{
+			"post_id": 1472600993,
+			"body": "Sneak Peek at what I'm working on:\nhttps://ipfs.pics/ipfs/Qmea4DMUMmkDP762xngr6tpM2HkW6LipmuBLcSTAJsSqh3\n\nhttps://ipfs.pics/ipfs/QmV5E8cPnimfLkhpZycnDFhk3yrX4K9yZ2MtYUTvmi6Qt2",
+			"date_added": 1472600954
+		},
+		{
+			"post_id": 1472698422,
+			"body": "God damn do people piss me off. And here I was thinking ZeroNet would be a place safe from idiocy.",
+			"date_added": 1472698382
+		},
+		{
+			"post_id": 1472888474,
+			"body": "I'm pretty close to saying fuck it all. Why bother? Everything's fucked. Why pretend it's not?",
+			"date_added": 1472888433
+		}
+	],
+	"post_like": {
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1": 1470971628,
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_4": 1471007289,
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_7": 1471070061,
+		"1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f_2": 1471090514,
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_14": 1471090529,
+		"1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f_4": 1471133282,
+		"16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331_6": 1471242004,
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_19": 1471318268,
+		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_4": 1471556449,
+		"164W1rFVD9Bm7poGJWvjVUjvkbhhFC5nnt_2": 1471903087,
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472430212": 1472430594,
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472600640": 1472600695,
+		"1P7F9po18mshkbRG5zEVV47vHtLEX19QJa_1472675882": 1472702109,
+		"1P7F9po18mshkbRG5zEVV47vHtLEX19QJa_1473329369": 1473373672
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "So hopefully everything worked out correctly. Please confirm. All my posts should be visible on a new  '12h' address. The profile link on this post should like to the '12h' address, but the older posts should link back to my red page. Comments everywhere should link to '12h'. Please unfollow my red page and follow my new Kaffie Hub page, if everything's going well. Thanks :)",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1",
+			"date_added": 1470971704
+		},
+		{
+			"comment_id": 2,
+			"body": "Yea, someone made a ridiculously long name. That's not me :P. But are the links all working? And the content merging correctly?",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1",
+			"date_added": 1470972059
+		},
+		{
+			"comment_id": 3,
+			"body": "Update: You may also have to edit and sign the content.json located in the 1UDbADib99KE9d3qZ87NqJF2QLTHmMkoV site in order to change your hub in the 'all users' listing.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_2",
+			"date_added": 1470976441
+		},
+		{
+			"comment_id": 4,
+			"body": "It's definitely up. Check the proxy: https://proxy1.zn.kindlyfire.me/kaffiene.bit",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_6",
+			"date_added": 1471055556
+		},
+		{
+			"comment_id": 5,
+			"body": "@Bot: On the 'post on my hub', that's because you clicked 'join hub' without migrating your user data. So you have two profiles. One of which is on my hub. Namely we need a way to easily manage the 'hub' variable, as well as use that solely for identifying which hub you're on. At the moment, it doesn't seem to work like that, and causes problems.\n\nCross-hub posting works fine, the comments are placed in the hub you're commenting in like they should. If your comments on my hub were placed in a different hub, I wouldn't be able to see them.\n\nIn reality, what we need is a profile page being determined solely by the 'hub' variable, and the posts to be fetched from a 'posted hubs' list (like a new variable listing the hubs you've posted in. This list would be fetched from the home hub.). I think that'd solve all the problems.\n\nEdit: As it is now, the URL defines which hub to load for your profile. That's a huge mistake, as going to the wrong hub would cause problems.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1",
+			"date_added": 1471060106
+		},
+		{
+			"comment_id": 6,
+			"body": "@P2P: Actually, likes are properly sorted by their hub, and correctly refer to the post_id. The issue is that the likes don't mention a hub at all, and the software ignores which hub they came from, and apply it to any post with the same post_id. Likes don't need an id, because you can't like a like. Meaning that you don't actually need to find one.\n\nComments are the same way, but since comments can be on multiple hubs (posts are only ever on your home hub), the comments are correctly placed under the appropriate hub/post_id",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_13",
+			"date_added": 1471071486
+		},
+		{
+			"comment_id": 7,
+			"body": "@P2P: The backend supports it cleanly. All the data is properly structured to make it a simple swap. I more or less migrated perfectly by hand. It's the ZeroMe frontend that causes the issues. Since it glitches with posts from multiple hubs (easy fix is to just check the hubs). And it also relies on the url to determine which hub your login/posts are in, which causes glitches (again, easy fix, just use the 'hub' variable in literally every hub data folder). That, and there's no 'migrate hub' button. Instead there's just a 'join hub', which deletes some data and such, and obviously that messes things up. It also doesn't switch the hub variable, or fix other things that could cause glitches.\n\nAfter those two things are fixed (in the ZeroMe site itself), then it should work fine. A ZeroMe clone could certainly be used for clean migrations. Amusingly, the old zerome would still support the migrated account, due to how things work. But it'd still run into the same glitches as it is now (duplicate likes, login issues, following old profiles, etc.).",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_13",
+			"date_added": 1471074702
+		},
+		{
+			"comment_id": 8,
+			"body": "@P2P: Yea, I wrote out what happens. People's comments/likes are posted in the hub they're connected to. So if you 'migrate posts', the comments no longer properly link. A proper account migration would leave the comments there, and correctly distinguish between posts made on different hubs. If you're censored on a hub, you can only migrate *your* content (comments and posts). Not anyone else's.\n\n>\"IMO, comments (posted by others) and likes should be in the sub folder of the user, which makes the user can control all of the comments and likes,\"\n\nComments and likes are posted on the appropriate hub that they refer to. I imagine that was by design, so that red hub users can see posts made on the red hub. Otherwise, you'd have to have every hub to see people's comments. Unless you meant comments posted by others going into your (OP) folder. Which is impossible, due to the way that ZeroNet authentication works. There's no way to touch another user's content. Period.\n\nAt best we keep it how it is, but correct the posts linkage issue (by relating comments/likes to same hub posts, and make a user's profile only ever link back to what's listed in the 'hub' entry).\n\n>\"All my comments posted to sub folder of an user in other hubs should be also backuped to my profile's hub and backup hubs in case of something unexpected happen.\"\n\nI wasn't even aware this was a possibility. The only issue I can see here is that other people's comments would increase your folder size and more quickly reach your cap. But it *is* a good solution for migrating comments as well.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_13",
+			"date_added": 1471079517
+		},
+		{
+			"comment_id": 9,
+			"body": "Should be working now.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_14",
+			"date_added": 1471097405
+		},
+		{
+			"comment_id": 10,
+			"body": "@Adam The Victini: Once it's working smoothly, and not having login errors, I'll open it up.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_14",
+			"date_added": 1471128452
+		},
+		{
+			"comment_id": 11,
+			"body": "On the bright side, my regular account seems to have been fixed.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_15",
+			"date_added": 1471128519
+		},
+		{
+			"comment_id": 12,
+			"body": "Copy+pasting the fix for attention:\n\non line 4842 (in the 'checkuser' function) there's an SQL query. I changed it *from*\n\n` \"SELECT * FROM json WHERE cert_user_id = :cert_user_id AND user_name IS NOT NULL AND file_name = 'data.json'\"`\n\nand changed it *to*\n\n`\"SELECT * FROM json WHERE directory='data/users/\"+this.site_info.auth_address+\"' AND user_name IS NOT NULL AND file_name = 'data.json'\"`\n\nThe issue was that it wasn't ever picking up my kaffieid account, because there was some cert_user_id problems. I changed it to instead point to the directory entry to determine user login. Since that's how it assumes it works anyway. Basing it on a mystical cert_user_id (essentially your cert username) is a bad idea, since it might not always be in the database (like mine wasn't).",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_15",
+			"date_added": 1471133241
+		},
+		{
+			"comment_id": 13,
+			"body": "KaffieID is just added to the drop down selector thing when you log in. You can easily switch between the two by clicking the 'yourname@zeroid.bit' in the top-right and then selecting which you want to use.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_18",
+			"date_added": 1471172003
+		},
+		{
+			"comment_id": 14,
+			"body": "That happens because you migrated hubs. One hub has a 'post 3', and your new hub also has a 'post 3', so when you request post 3, both come up.",
+			"post_uri": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331_6",
+			"date_added": 1471241963
+		},
+		{
+			"comment_id": 15,
+			"body": "Looks like 14 characters.",
+			"post_uri": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_3",
+			"date_added": 1471312258
+		},
+		{
+			"comment_id": 16,
+			"body": "@Gallium: Both? The people waiting around AFAIK don't know what I'm picking up though. So maybe not them. Though, I usually am the youngest person doing this kinda thing. At my doc, it's all old people. And the pharmacy usually has older people as well. CVS people didn't even bat an eye. Are they robots?",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_19",
+			"date_added": 1471318428
+		},
+		{
+			"comment_id": 17,
+			"body": "@Mcgoo: No, and at the moment, clicking 'join' on multiple hubs is buggy. ZeroMe expects your 'posts' (from data.json) to only be on one hub. When you 'join' a hub, it creates the default data in the hub you joined. There's also a 'hub' marker that points back to your home hub (the one you joined). And joining a hub makes that hub's marker point to itself, messing up some links.\n\nRefer to my guide on how to manually (and properly) change hubs: http://127.0.0.1:43110/kaffie.bit/?Post:25:How+to+change+your+ZeroMe+Hub",
+			"post_uri": "15tCjXFHLNtBi9fb799hjd9VcUfTybimE4_1",
+			"date_added": 1471484351
+		},
+		{
+			"comment_id": 18,
+			"body": "@Mcgoo: Yea, to fix, just make your data.json in the kaffie hub folder (/12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv/data/users/15tCjXFHLNtBi9fb799hjd9VcUfTybimE4/data.json) the same as the ones from other hubs you're not a part of. That should fix everything. It'll also make this post disappear.\n\nEdit: You might need to make the userdb site (1udb...blahblahblah) edited to have it point back to the right hub if it's changed.",
+			"post_uri": "15tCjXFHLNtBi9fb799hjd9VcUfTybimE4_1",
+			"date_added": 1471486557
+		},
+		{
+			"comment_id": 19,
+			"body": "@Klaus Jónsson Zimmermann: Yea, that's always a nice surprise.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_20",
+			"date_added": 1471489606
+		},
+		{
+			"comment_id": 20,
+			"body": "@Bobnoise: Not that I'm aware of, no. ZeroNet as a whole has an issue with large files.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_21",
+			"date_added": 1471493975
+		},
+		{
+			"comment_id": 21,
+			"body": "Are you starting zeronet with `--debug`?",
+			"post_uri": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331_12",
+			"date_added": 1471507222
+		},
+		{
+			"comment_id": 22,
+			"body": "@Katyab: I actually have used music in the past. Sometimes it just backfires and I just make things worse :\\. I'm feeling better now though, and hopefully with my meds instances like last night will be less of an occurance. Mr. Robot's definitely great though :D",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_22",
+			"date_added": 1471598446
+		},
+		{
+			"comment_id": 23,
+			"body": "@Method-X: Nah, I'm pretty anti-meds as it is. I don't really like stuff messing with my brain. I'm off caffiene, off alcohol, off nicotine, etc. I wouldn't touch SSRIs with a 10-foot pole. A lot of my depression in the past has just been existential. So working through it went fine. The more recent stuff I think is a combo between mood swings due to my estrogen pills, a body dysmorphia/dysphoria that comes and goes. It's just hormone stuff :\\.\n\n@megfault: I've never really been big on sports. Though what has helped me a lot in the past is getting into early-hours running.\n\nEither way, I was being a drama queen when I posted this thread :P. It's certainly not every night. Last night, for example, I was pretty okay.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_22",
+			"date_added": 1471643239
+		},
+		{
+			"comment_id": 24,
+			"body": "Hmm... It looks like you either didn't follow my switching hubs guides completely/correctly. Or you you clicked 'join hub' when you weren't supposed to. So now you have two duplicate sets of data on infinity hub and kaffie hub.\n\nTo fix this, just take either one (whichever one you don't want to be on) and then remove these fields from your data.json:\n\n\"next_post_id\": #,\n\n\"next_follow_id\": #,\n\n\"avatar\": \"generate\",\n\n\"intro\": \"description\",\n\n\"post\": [ {some posts} ]\n\n\"follow\": [ {some follows} ]\n\nAnd then change this field to match the hub you didn't remove/edit:\n\n\"hub\": \"hubaddress you want to stay on\",\n\nAfter that, just sign/publish, or make a comment/like on the hub you erased.\n\t\n\t",
+			"post_uri": "1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9_8",
+			"date_added": 1471656617
+		},
+		{
+			"comment_id": 25,
+			"body": "@ZAlex: Good to hear. I'll have to set it up on my opera browser and ensure the test works properly. It didn't pass because I obviously didn't have it set up :P.\n\n@<tkarita/>: The port is ignored during the test. It literally tests the ability to navigate to sites using the zero://siteaddress and http://zero/siteaddress methods. So if you have it configured with 53110, you have to configure your browser to handle the zero:// and http://zero/ methods to go through 53110 instead. My 1-click install for the zero:// protocol only seems to work on firefox, and indeed defaults to the 43110 port.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_25",
+			"date_added": 1471656878
+		},
+		{
+			"comment_id": 26,
+			"body": "@ZAlex: I just set my pac proxy to be system-wide (instead of just firefox). Both Safari and Opera are passing the http://zero/ test now.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_25",
+			"date_added": 1471657490
+		},
+		{
+			"comment_id": 27,
+			"body": "@Shellbound: Unfortunately that doesn't help resolve glitches. It just fixes problems on your own end. The data is still mixed up until you sign/publish everything. Did you start on Kaffie Hub and then try to migrate to infinity hub? Either way, as of the time that I wrote my previous comment, your stuff was still mixed up. I mean, nothing wrong will happen if you leave it like that, but obviously the older stuff will remain glitchy until you fix it.",
+			"post_uri": "1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9_8",
+			"date_added": 1471657744
+		},
+		{
+			"comment_id": 28,
+			"body": "Coffeescript is literally just a different syntax for javascript. Basically the same thing.\n\nPHP is technically possible to get working with a zeronet site, as ZeroBoard does this (sends requests to a server with PHP). However, the PHP backend would be entirely centralized and not technically a part of zeronet.",
+			"post_uri": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331_13",
+			"date_added": 1471667080
+		},
+		{
+			"comment_id": 29,
+			"body": "@<tkarita/>: I'm not familiar with what noscript restricts. But I went ahead and installed it. It started blocking the entire page and prompted to allow `http://zero` so I did, and the page loaded fine. The test then displayed pass for http://zero/, but fail for zero://. I can't seem to modify the script in such a way that makes http://zero/ fail with no script but pass without.\n\nCould you clarify what the problem is, exactly? The .pac should override `http://zero/[address]` and it should work fine. Are you resolving those addresses in a different manner?\n\nThe test by default displays 'fail' until it can run the two tests. The http://zero/ test involves a jquery ajax request to fetch a page from `http://zero/kaffie.bit/test.txt`. The zero:// test involves loading an iframe with the url `zero://1A83ijw3boqTtqdLz8me7AqeK1nEK8yxeu/test.html?zp&prtl=[origin]` and ZeroNet forcefully moves the iframe content to the main page (by reloading). This leads to the success of the second test.\n\nIf the first one isn't working, it sounds like either the jquery isn't being ran, or it's not grabbing the file. Perhaps check the console and let me know if there's an error?",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_27",
+			"date_added": 1471682616
+		},
+		{
+			"comment_id": 30,
+			"body": "@<tkarita/>: Alright. As for the zero:// test, noscript seems to hate it :P. Try clicking on the 'Test zero:// links' link. It should bring you to Kaffiene. If not, then it's actually broken. If it does, then it's the test that's broken with noscript.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_27",
+			"date_added": 1471683959
+		},
+		{
+			"comment_id": 31,
+			"body": "@<tkarita/>: Huh. Noscript blocks the iframe if it's pointing to a zero:// url. But if it's a http://zero/ iframe the test works as normal. I'm wondering if there's something wrong with the whitelist.\n\nThe protocol works by assigning 127.0.0.1:43110/kaffie.bit/?u=[address] as what to go to when you enter something in the zero://[address] protocol. So on everything but the initial type/click, it's being read as local host (rather than the protocol). So I'm completely baffled at why the test doesn't work.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_27",
+			"date_added": 1471684848
+		},
+		{
+			"comment_id": 32,
+			"body": "@ZAlex: Ah, I wasn't capitalizing the first letter. And I kept trying to add '@zeroid.bit' as well.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_28",
+			"date_added": 1471746320
+		},
+		{
+			"comment_id": 33,
+			"body": "Upon further thinking, the hardcoded format was likely an oversight by nofish in an attempt to keep usernames unique. Only give out certs with a unique name on the backend. And on the front end have verification that includes the name in the cert. It'd prevent people from just manually changing their ZeroID name as it'd fail to sign.\n\nSo perhaps just eliminating it is not the best way to go about things. I still personally think the format option is best. As some users may want to change their username but still retain access to their content. At the moment, this requires using a name-agnostic signer like Kaffiene, and then deleting the 'cert_sign' and 'cert_auth' fields in the content.json manually. This seems particularly non userfriendly for no real reason.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_29",
+			"date_added": 1471820560
+		},
+		{
+			"comment_id": 34,
+			"body": "Umm... Yea, the cert_sign with the name is entirely useless, given I was able to do this: http://127.0.0.1:43110/talk.zeronetwork.bit/?Topic:11_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh\n\nWhy bother with cert_sign if we can just delete it and move on without it? I was able to spoof nofish@zeroid.bit on ZeroTalk. So clearly names are guaranteed not unique. All one has to do is change the name and delete cert_sign.\n\nThis is a huge flaw for anything that expects unique usernames. Seems like a waste of time to have something that limits user-ability when you can manually work around it.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_29",
+			"date_added": 1471821848
+		},
+		{
+			"comment_id": 35,
+			"body": "@Talnicrom: Your zeronet isn't rejecting it, because I removed the cert_sign. See the code above. It just returns true if it's missing. It's definitely a bug. Either the cert_sign is needed, and the skip needs to be removed. Or it isn't and it shouldn't be there.\n\nAs for the 'useraddress#authtype/useraddress' that won't work. It explicitly has to be 'useraddress#authtype/name' otherwise zeronet will reject it. Technically I didn't have to include anything. I could've easily signed with just 'useraddress#authtype'. I simply added the singersite to make it distinguishably different from KaffieID clones.\n\nI'm unsure of which way we should proceed. Forcing users to keep the same name to ensure the cert_sign is the same is dumb. It's not required at all (signs can be verified with just authaddress and authtype). I'm still entirely unsure of the purpose of including it. Why not just remove it from the content.json?\n\nThe files won't be accepted anyway if you don't have the user's private key. So ensuring that the authtype/authaddress/name is the same seems pointless.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_29",
+			"date_added": 1471831000
+		},
+		{
+			"comment_id": 36,
+			"body": "@Talnicrom: Sorry, to clarify: The name itself is indeed useful for displaying a name of some sort. The original implementation was an attempt to keep this unique (hence ZeroID). Everything is signed according to auth_address and your private key.\n\nCertificates have a few things to distinguish them: the site it's issued from, the user's public and private key. The type of authentication. The username, and the cert_sign. The cert_sign is reconstructed on each users' machine following the formula given. And then compared to the one included in content.json (which is a copy of the one that the site provides). However, there's no guarantee the site will use said formula, and thus the publish is rejected despite having the private key correct.\n\nTo bypass this, you remove the auth_type and cert_sign provided in the content.json. Now that these are lacking, the cert_sign check is skipped and it just verifies that the private key was used and signed the stuff correctly.\n\nSo the cert_sign is entirely unneeded. It can be removed manually, and doesn't help authenticate anything. So I'm wondering why bother having it? And if it remains, why not allow a formula config, so that non-unique name services can exist?",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_29",
+			"date_added": 1471833512
+		},
+		{
+			"comment_id": 37,
+			"body": "@P2P: Not that serious of a bug, tbh. AFAIK there's no way to abuse this to compromise security. It just bypasses the unique name thing. Users are still uniquely identifiable with their auth_address. If you hover over the nofish spoof, you'll see my auth_address, which has remained the same this entire time. So you can tell who the 'real' nofish is by that. It's just a serious bug for username uniqueness since it completely bypasses the backend stuff to guarantee unique names. I can't actually edit/change/be nofish with this :P.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_29",
+			"date_added": 1471858957
+		},
+		{
+			"comment_id": 38,
+			"body": "@P2P: I've been spending the past while now trying to fix. I dun goof'd some stuff and the new update makes it difficult to change/fix. Hopefully everything should have returned to normal now.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_29",
+			"date_added": 1471868865
+		},
+		{
+			"comment_id": 39,
+			"body": "@P2P: Hmm... Could you give details on the systems that they aren't visible on? I have a feeling it's likely on zeronet revisions below v1425.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_29",
+			"date_added": 1471902915
+		},
+		{
+			"comment_id": 40,
+			"body": "@Talnicrom: :P I didn't actually go anywhere. My posts just weren't visible, haha.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472425756",
+			"date_added": 1472429429
+		},
+		{
+			"comment_id": 41,
+			"body": "@<tkarita/>: Seems like it. Though, if he's not active and not renewing them on namecoin, they should expire ~6 months after he registered them. And in the long-term 200 names isn't really that big of a deal.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472430212",
+			"date_added": 1472433721
+		},
+		{
+			"comment_id": 42,
+			"body": "@Deadjoker: I don't have a spider/crawler just yet. But if you take a peak in the Kaffiene folder you can find some python tools I use to manage the index.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472430212",
+			"date_added": 1472436003
+		},
+		{
+			"comment_id": 43,
+			"body": "@Sirenyc: I was actually thinking of making something similar, but this site beat me. I might still go ahead and make one, since the progress here seems pretty slow, and there's tons of glitches. Makes it hard to manage.\n\nI just really want there to be a popular webtorrent video streaming site.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472440913",
+			"date_added": 1472441884
+		},
+		{
+			"comment_id": 44,
+			"body": "@Sirenyc: I saw your video uploads. Pretty sweet. I'm downloading one now to try and help seed. But your upload is pretty slow (50kb/s?). My videos should all be properly seeded and watchable. I tested with the proxies and such (obviously connecting to myself, but you know :P).\n\nIt's not my site, so I can't help with bugs. As I said, I manually upload and sign/publish using the sidebar (with some tweaks to point to my user content.json).\n\n@Edantes: Yea, if the site owner doesn't fix it up, I'll definitely look into making a fork and fixing it up. Webtorrent is pretty usable, so all it really needs is a nice front end for uploading/watching.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472440913",
+			"date_added": 1472445267
+		},
+		{
+			"comment_id": 45,
+			"body": "@Sirenyc: Are you uploading them using the 'upload' page on the site? Or are you manually editing the data.json? If you're manually editing it, what I do is I drag the sidebar open, make sure I'm logged in, then copy and paste my id into the 'content.json' field so that it looks like this: data/userid/content.json. Then I sign, and it asks for the private key, at which point I enter my Id's private key. Should work.\n\nI see your vids, so you're doing something right. Though, you might've hit the quota, as I almost have. Not sure if it'd give you a private key error for that though...",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472440913",
+			"date_added": 1472445934
+		},
+		{
+			"comment_id": 46,
+			"body": "@Sirenyc: Should be in your data.json file: zeronetfolder/data/1FUQPLXHimgCvYHH7v3bJXspJ7bMBUXcEb/data/[youruserid]/data.json\n\n\n@Edantes: Yea, I'm not interested in building/maintaining a huge torrent indexer site. I just want a P2P video and music streaming site. If it can be done for video, why not music? Music's probably easier too, given the smaller file size.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472440913",
+			"date_added": 1472446753
+		},
+		{
+			"comment_id": 47,
+			"body": "@<tkarita/>: Link? The big issue with video sites is that the file sizes can be huge. Which is a no-go for embedded content. That's why IPFS and Webtorrent are used. IPFS doesn't have a zeronet-friendly solution. Which just leaves webtorrent :\\. Having a 200gb music site would be awful.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472440913",
+			"date_added": 1472447324
+		},
+		{
+			"comment_id": 48,
+			"body": "@Sirenyc: Looks like you hit your quota for the site. You either have to remove some text/links/etc. or ask @lola for a higher limit.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472440913",
+			"date_added": 1472447770
+		},
+		{
+			"comment_id": 49,
+			"body": "@狗蛋: You need to seed it using webtorrent desktop: https://webtorrent.io/desktop/ or some other webtorrent-compatible client. Simply staying on the video page should work as well, but I personally have issues with the zerotube uploader, which is why I described my manual process.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472440913",
+			"date_added": 1472449192
+		},
+		{
+			"comment_id": 50,
+			"body": "@狗蛋: Sorry about that. My webtorrent app was fritzing and shooting up to 300% cpu. Should be fixed in a moment.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472455810",
+			"date_added": 1472457771
+		},
+		{
+			"comment_id": 51,
+			"body": "I mean the music genre :P. Some samples of the genre, for those unfamiliar: [1](https://www.youtube.com/watch?v=bXk0tn0V-6k) [2](https://www.youtube.com/watch?v=gggq0Siqf2E) [3](https://www.youtube.com/watch?v=PsbDJJnxliM) [4](https://www.youtube.com/watch?v=w5EqmsygaDI) [5](https://www.youtube.com/watch?v=h2I8T_k3UQA)",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472480321",
+			"date_added": 1472507905
+		},
+		{
+			"comment_id": 52,
+			"body": "@Jayofthezero: I get that. I'm that way for a lot of music. To the point of almost having wrote of music as a thing in general. Denpa was one of the few genres to change that for me. I realized I didn't have much downloaded, so I went on a downloading spree last night, lol.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472480321",
+			"date_added": 1472508710
+		},
+		{
+			"comment_id": 53,
+			"body": "@Jayofthezero: I've known about denpa for a few years now. I just had it on the back burner as I was exploring a different genre of music. But yea, the first time I stumbled upon music I actually enjoyed, I was thrilled. Like, oh shit, this is why people like music so much.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472480321",
+			"date_added": 1472516112
+		},
+		{
+			"comment_id": 54,
+			"body": "@Sirenyc: The torrent works, but the speed I get from you is too slow to properly stream anything (50kb/s). At that speed, mr robot would take well over an hour or two to properly download and watch. Any way to get a faster upload? I have a 1gig connection, so I'm trying to help seed some of your videos. But my HDD isn't that much, and webtorrent-desktop doesn't seem to like having a lot of stuff seeding.\n\nEdit: Hmm.. After an initial wait of a few seconds (maybe 30?) I got it to start playing and have watched for about 2 minutes now with no buffer. Nice.",
+			"post_uri": "12yaKkoqVKBUi66uB5pYXamWguKFaWdDnx_1472521631",
+			"date_added": 1472523595
+		},
+		{
+			"comment_id": 55,
+			"body": "@Sirenyc: My hard drive can't take it! Lol. I have like 2gb free. And downloading the eps at a painstaking 50kb/s would take forever. Need to find a better solution than me just hosting everything from my laptop >_<",
+			"post_uri": "12yaKkoqVKBUi66uB5pYXamWguKFaWdDnx_1472521631",
+			"date_added": 1472524332
+		},
+		{
+			"comment_id": 56,
+			"body": "@P2P: Thanks. I must've missed that one. Same issue: My Kaffie@kaffie.bit had 'auth_type' instead of 'cert_auth_type'. Should be corrected now.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472425756",
+			"date_added": 1472528292
+		},
+		{
+			"comment_id": 57,
+			"body": "@Sirenyc: I'm still trying to seed the first episode :P. As I mentioned, I won't be able to seed them all, as I don't have the HDD space for it.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472524500",
+			"date_added": 1472528346
+		},
+		{
+			"comment_id": 58,
+			"body": "@Sirenyc: At this rate it'd honestly be faster for me to download the episodes myself, and then upload them and seed. Since torrents for me go up to several megabytes per second, whereas dling from you is pretty slow :\\\\. No HDD space though, so I'm not gonna be able to seed the whole season. I'll try to keep episode 1 seeded though.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472524500",
+			"date_added": 1472528880
+		},
+		{
+			"comment_id": 59,
+			"body": "@Sirenyc: Depends on how you uploaded it. If you aren't using an external client, like webtorrent-desktop, then yes, you need to keep the ZeroTube site open in order to seed the videos. If you are using the external client, then you don't need to keep the site open.\n\nEdit: See [here.](https://ipfs.pics/ipfs/QmWxSVuajmNmhZtcaMSZ4ZMWkEX7CaX91aQ43ycCkfkovL)",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472524500",
+			"date_added": 1472531658
+		},
+		{
+			"comment_id": 60,
+			"body": "@Shellbound: Shouldn't be. Try Sintel (always seeded). A lot of videos only have 1 seed, and as such may not be seeded very well. Other times the site might just have difficulties picking up the seeders. All of my videos should be seeded.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472524500",
+			"date_added": 1472535779
+		},
+		{
+			"comment_id": 61,
+			"body": "The obvious difference was that the 'users' page doesn't work. Which was expected, given that it pulls the list of users from the userdb site. What I didn't expect to break was the listing of followers. I'm still unsure of how the list is displayed, and it continued to refuse to work until I reverted everything back to having the userdb. I think there's an SQL query somewhere that's used to fetch followed users, but includes userdb directory/listings. The site functioned normally otherwise: you could still follow people (just not see the list), the activity feed still worked fine, profiles worked, etc.\n\nI didn't want to fuss around with getting it to work, since I just wanted a quick zerome clone with a video focus. All in all, you could probably have a ZeroMe clone without that centralized list. Following would have to be reworked a bit, and obviously there wouldn't be a centralized list of users. But it'd work for having separate content channels and such. Definitely something to look into. The requirement of such a list is a bit ridiculous.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472600640",
+			"date_added": 1472632465
+		},
+		{
+			"comment_id": 62,
+			"body": "@weakish: True. I just figured more niche and specialized stuff would lack it.\n\n@Beelzebub: Lol no. Reddit's going to shit, and SJWs are unbearable.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472698422",
+			"date_added": 1472768908
+		},
+		{
+			"comment_id": 63,
+			"body": "FML. The only thing keeping me going is the same bullshit lie I've been telling myself since I was 10.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472888474",
+			"date_added": 1472888526
+		},
+		{
+			"comment_id": 64,
+			"body": "@ulrichard: Everything. Everything's fucked. You can point at literally anything. The futility of fighting against physical determinism, the inevitability of watching biology do it's stupid ass shit. Watching helplessly as society unanimously shits itself without even an attempt at actually fixing problems. Trying to dig a way out of the problems only to find the digging just made more problems and didn't give any headway on the thing you started digging for. Dumb ass people who just shout random nonsensical things thinking they're right for some fucking reason, when you can easily tell they haven't even spent 5 minutes thinking about what they're saying. \n\nJust... why bother? No one even seems to care. They just run along like ants, not even paying attention to what they're doing, and upon reflection it becomes pretty fucking obvious there's no point in anything. Just fucking pain and struggling, lies about things getting better, and then death. Except you can't even take solace in that. The religious nuts are wrong, obviously, but at least they have something keeping them sane. The atheists are wrong and don't even know it. And the actual reality is that death, like fucking everything else, doesn't solve any problems. It just exists to make everything worse.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472888474",
+			"date_added": 1472890268
+		},
+		{
+			"comment_id": 65,
+			"body": "Any chance of getting ZeroNet on it?",
+			"post_uri": "1P7F9po18mshkbRG5zEVV47vHtLEX19QJa_1473329369",
+			"date_added": 1473373714
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "16YxtnaTrCSbvCXSYxrnvobmYnqtidxG23",
+			"user_name": "Hellozeronetwork",
+			"date_added": 1470858603
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1470858611
+		},
+		{
+			"follow_id": 6,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ",
+			"user_name": "Musickiller",
+			"date_added": 1470876340
+		},
+		{
+			"follow_id": 7,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t",
+			"user_name": "Tkarita",
+			"date_added": 1470879460
+		},
+		{
+			"follow_id": 8,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N",
+			"user_name": "Quadrangle",
+			"date_added": 1470885576
+		},
+		{
+			"follow_id": 9,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN",
+			"user_name": "ZeroMonster",
+			"date_added": 1470885593
+		},
+		{
+			"follow_id": 10,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ",
+			"user_name": "P2P",
+			"date_added": 1470886958
+		},
+		{
+			"follow_id": 11,
+			"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
+			"auth_address": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb",
+			"user_name": "ɃǾȾ",
+			"date_added": 1470900111
+		},
+		{
+			"follow_id": 12,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R",
+			"user_name": "Scrub",
+			"date_added": 1470901794
+		},
+		{
+			"follow_id": 14,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv",
+			"user_name": "Newuser123",
+			"date_added": 1470904143
+		},
+		{
+			"follow_id": 15,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1BePwsiwFD8BjtYfB8tQegiKXDLnHWW1Um",
+			"user_name": "Yurithejewler",
+			"date_added": 1470914983
+		},
+		{
+			"follow_id": 16,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx",
+			"user_name": "Kindlyfire",
+			"date_added": 1470915078
+		},
+		{
+			"follow_id": 17,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH",
+			"user_name": "Silverstorm",
+			"date_added": 1470957832
+		},
+		{
+			"follow_id": 18,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ",
+			"user_name": "Sirenyc",
+			"date_added": 1470965863
+		},
+		{
+			"follow_id": 19,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1470968634
+		},
+		{
+			"follow_id": 21,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne",
+			"user_name": "Jayofthezero",
+			"date_added": 1471070381
+		},
+		{
+			"follow_id": 23,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f",
+			"user_name": "Kaffie",
+			"date_added": 1471090373
+		},
+		{
+			"follow_id": 24,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L",
+			"user_name": "Alex (Bwoi)",
+			"date_added": 1471392704
+		},
+		{
+			"follow_id": 25,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1471745621
+		},
+		{
+			"follow_id": 26,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib",
+			"user_name": "megfault",
+			"date_added": 1471780189
+		},
+		{
+			"follow_id": 27,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u",
+			"user_name": "Lola",
+			"date_added": 1472448395
+		}
+	]
+}

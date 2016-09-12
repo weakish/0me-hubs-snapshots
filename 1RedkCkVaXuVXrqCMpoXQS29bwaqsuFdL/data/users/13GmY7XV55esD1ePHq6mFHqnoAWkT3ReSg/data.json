@@ -1,0 +1,68 @@
+{
+	"next_post_id": 4,
+	"next_comment_id": 2,
+	"next_follow_id": 5,
+	"avatar": "jpg",
+	"user_name": "Lambo",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"intro": "Not a random ZeroNet user. I'm @Lambo on Twitter.",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1470949060,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 2,
+			"body": "Anybody here? ;-)",
+			"date_added": 1470949361
+		},
+		{
+			"post_id": 3,
+			"body": "Good list of ZN proxies (sites that allow you to access ZN from outside) http://zero/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP/?Page:proxies",
+			"date_added": 1471811568
+		}
+	],
+	"post_like": {
+		"13GmY7XV55esD1ePHq6mFHqnoAWkT3ReSg_1": 1470949223,
+		"1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib_7": 1470949397
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Nice, thank you",
+			"post_uri": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib_7",
+			"date_added": 1470949388
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1DjuXLVkQi8fZFTxogDxrXpUn3Pd63Ss8X",
+			"user_name": "v1p3r",
+			"date_added": 1470949261
+		},
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib",
+			"user_name": "megfault",
+			"date_added": 1470949409
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1471621880
+		},
+		{
+			"follow_id": 4,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1DjUq8hd2jYZgc5uNhQEtWUVZjMHkMQkpU",
+			"user_name": "Alek",
+			"date_added": 1471622601
+		}
+	]
+}

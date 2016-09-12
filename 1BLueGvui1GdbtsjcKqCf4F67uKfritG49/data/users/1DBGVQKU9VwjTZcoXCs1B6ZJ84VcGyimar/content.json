@@ -1,0 +1,21 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "HGM4ZyeqYyB9tXSgom7RQB9EJb5Fdwd4USdHOR6SGtYdMMqCOG1QutaTPbXO93+b7hTrcF3GMU8sLNXh/9l/AeU=",
+ "cert_user_id": "mememagician@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "9e0081664b4d11df008c85c19f5c0eae060d503ae4867ef9671ae309dc958d73",
+   "size": 1922
+  },
+  "data.json": {
+   "sha512": "48dd38f68ad5bce81b821b96147f5922b3e167b1b5327bc430849aa22a8c8296",
+   "size": 718
+  }
+ },
+ "inner_path": "data/users/1DBGVQKU9VwjTZcoXCs1B6ZJ84VcGyimar/content.json",
+ "modified": 1473269300.734,
+ "signs": {
+  "1DBGVQKU9VwjTZcoXCs1B6ZJ84VcGyimar": "G5xmaKaP7hl10R3mtNuAIFXW8NsZraKHOI4yqRlAuZpg374i/EFHSRD+4wROeFr2RU9b6G4iCWubGJeyAoaNqag="
+ }
+}

@@ -1,0 +1,44 @@
+{
+	"next_post_id": 4,
+	"next_comment_id": 2,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Bitno",
+	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1472084300,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1472420381,
+			"body": "test",
+			"date_added": 1472420379
+		},
+		{
+			"post_id": 3,
+			"body": "This should work, provided no one messed it up.",
+			"date_added": 1472425436
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Continuing KaffieID tests...",
+			"post_uri": "1KzMeMLb9wBLTQ4Bvw1wiaX1ZBY5EZLVSX_3",
+			"date_added": 1472464310
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "13U9mRgV3bdkXiNXjMZeBWTcSHZjgNmk2z",
+			"user_name": "Dios",
+			"date_added": 1472745934
+		}
+	]
+}

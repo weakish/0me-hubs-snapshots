@@ -1,0 +1,34 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 2,
+	"next_follow_id": 2,
+	"avatar": "png",
+	"user_name": "Pacman",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Vamo' a calmarno' :v",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1473115661,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Rapapobre: Thanks",
+			"post_uri": "1He3kZ1aMdiVDZVKiw9sCm6DFPioM5TuCY_1",
+			"date_added": 1473125381
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1He3kZ1aMdiVDZVKiw9sCm6DFPioM5TuCY",
+			"user_name": "Pacman",
+			"date_added": 1473115751
+		}
+	]
+}

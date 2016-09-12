@@ -1,0 +1,48 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 1,
+	"next_follow_id": 5,
+	"avatar": "generate",
+	"user_name": "Figasatc",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471174717,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LdKEmaHiYjG9wEMw88qeqgroq31eLhXKa",
+			"user_name": "Mustakrakish",
+			"date_added": 1471174734
+		},
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1BGaNcH1UBqAdatPbT3YssmPRVdhepMNPW",
+			"user_name": "Avatarx",
+			"date_added": 1471174740
+		},
+		{
+			"follow_id": 3,
+			"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
+			"auth_address": "1PZga4hXmL7z7veWFvrfsdJp1MGXvxVUyi",
+			"user_name": "Gdr",
+			"date_added": 1471174744
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1ACGdKhrsMUYmE16DopZ8x8Bx1YUMjmrYe",
+			"user_name": "Danskernes Parti",
+			"date_added": 1471174747
+		}
+	]
+}

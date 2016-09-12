@@ -1,0 +1,39 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 4,
+	"avatar": "generate",
+	"user_name": "Tomasz",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471364590,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 2,
+			"body": "Witam wszystkich polsko-piśmiennych ;)",
+			"date_added": 1471364675
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 2,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1HcK5Hw1rPZeYdgTmqJGrVG2tSyR9Ke2Gt",
+			"user_name": "Mama21mama",
+			"date_added": 1471364950
+		},
+		{
+			"follow_id": 3,
+			"hub": "12rTbtzcEZH7RiVfShBB3qhoe3rfwbpm8S",
+			"auth_address": "13U9mRgV3bdkXiNXjMZeBWTcSHZjgNmk2z",
+			"user_name": "Dios",
+			"date_added": 1471364971
+		}
+	]
+}

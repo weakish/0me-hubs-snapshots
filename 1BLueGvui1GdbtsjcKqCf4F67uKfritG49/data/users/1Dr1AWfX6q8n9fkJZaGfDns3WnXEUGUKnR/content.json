@@ -1,0 +1,21 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "HFkSEfe8ncOlELFIjKmvR89kGEyOK9WpTurRD226QNq5+iS1b3OvLIBFNpnagxTW4icHKt29BffibuHjST33gw0=",
+ "cert_user_id": "cramer@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "ccfc2af5082e256e4a2a545df896c36ff116cf409b132755bbc922b2cee46d5f",
+   "size": 1503
+  },
+  "data.json": {
+   "sha512": "823ecb2e4a3f331d89a1841b9b66663f98166e9f1150962ceff6979608d7b2c4",
+   "size": 464
+  }
+ },
+ "inner_path": "data/users/1Dr1AWfX6q8n9fkJZaGfDns3WnXEUGUKnR/content.json",
+ "modified": 1473227153.205,
+ "signs": {
+  "1Dr1AWfX6q8n9fkJZaGfDns3WnXEUGUKnR": "HPBm6g3ZnMFlyK590XWET+qysqglmLIm9hFazfaDx+ySwsnHePE/8icf3mI/LcmGDhi3Qzx1tQZfyPjh0M2s4CY="
+ }
+}

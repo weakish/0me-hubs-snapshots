@@ -1,0 +1,21 @@
+{
+ "address": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+ "cert_auth_type": "web",
+ "cert_sign": "HB2l/G1MC2OYHv53ftbgMnlbMYfCNI+TRpFQMKw+MwNnhJ38uaIs6RZFSzFqpW6eXAKGZAzIytxuvdYJiQz/pCo=",
+ "cert_user_id": "lemo3tornode@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "7910d0f01657372904cb14bd567ef67da50c3abcc8a11c28beb32f6616153746",
+   "size": 1447
+  },
+  "data.json": {
+   "sha512": "4abe858b63043d503b0a51161b5128a2a31316fd88b358f7373502c664944c50",
+   "size": 1737
+  }
+ },
+ "inner_path": "data/users/1Lye3ahX99TGQkQbuCUtZADGBqVeVpYxfr/content.json",
+ "modified": 1472161495.238683,
+ "signs": {
+  "1Lye3ahX99TGQkQbuCUtZADGBqVeVpYxfr": "G3ayqZGb92b6g9q47GlwxdiYBz1Hwm0y/itiWmUruGI1IS3ny8GS4tF1QJ/HxqRJAL4ELTLwks1bCLO98RLoGgw="
+ }
+}

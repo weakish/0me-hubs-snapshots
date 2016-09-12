@@ -1,0 +1,269 @@
+{
+	"next_post_id": 9,
+	"next_comment_id": 20,
+	"next_follow_id": 16,
+	"avatar": "jpg",
+	"user_name": "Klaus Jónsson Zimmermann",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"intro": "I also post in [GNUSocial](https://quitter.se/kzimmermann)\n\nP2P aficionado, Free Software lover and Free Culture hacker roaming the free network\n\nCheck out my [ZeroBlog](http://127.0.0.1:43110/1GiJUPsfiS3LWCyZj5urW1Rt2q9WwRh4wB/) as well!\n\nIf anyone still uses this thiing, you can also try [my PGP key](https://pgp.mit.edu/pks/lookup?op=get&search=0x93E212F0770F2CC3)",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471116444,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 2,
+			"body": "So this is like a true completely decentralized social network? Neat!",
+			"date_added": 1471116655
+		},
+		{
+			"post_id": 3,
+			"body": "Is there a way to follow this zite in our home, so that we can get \"alerts\" from replies, mentions, etc? Haven't figured this out yet",
+			"date_added": 1471122778
+		},
+		{
+			"post_id": 4,
+			"body": "Is there any plan to implement a system of #tags or a similar feature? \n\nIMO the way Diaspora does it could be a great starting point since you can also follow the tags there besides the people, making it a behavior similar to groups and stuff. #justMy2cents",
+			"date_added": 1471376874
+		},
+		{
+			"post_id": 5,
+			"body": "An idea for a Random Pseudonym generator: http://127.0.0.1:43110/1GiJUPsfiS3LWCyZj5urW1Rt2q9WwRh4wB/?Post:18:Random+pseudonym+generator",
+			"date_added": 1471380121
+		},
+		{
+			"post_id": 6,
+			"body": "ZeroMe gets more intereting each day, and sometimes, each *hour*",
+			"date_added": 1471476573
+		},
+		{
+			"post_id": 7,
+			"body": "Heh, with #TorBrowser and FoxyProxy now I can access five different networks at the same time:\n\n1. ZeroNet (definitely the most interesting!)\n2. Tor\n3. I2P (great for torrenting!)\n4. IPFS (static, but good to put media or files)\n5. Clearnet\n\nVery useful and very easy to set up. I started with the instructions from [this post](http://secure.thetinhat.i2p/tutorials/darknets/i2p-browser-setup-guide.html) (I2P link) and then expanded it to include ZeroNet and IPFS as well.",
+			"date_added": 1471897474
+		},
+		{
+			"post_id": 8,
+			"body": "I'm looking for console-based music players. I've seen `cmus` (which failed to load with some `/etc/decnet.conf` error) and `moc` (music on console).\n\n`moc` seems to be a great application, since it has playlisting capabilities, built-in volume control and equalizer features, but one big turnoff is the *color scheme*. When I'm in a `tmux` session, all panes are black or manually dark-colored by me, and `moc`'s bright blue background, which seems reminiscent from midnight commander, though this one I can easily change, easily obfuscates the rest and annoys me. Does anyone know how to change this?\n\nAlso, I don't know if there are other console-based players out there, but I'm taking alternatives if anybody knows of any.",
+			"date_added": 1471901764
+		}
+	],
+	"post_like": {
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_10": 1471116732,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_8": 1471117081,
+		"1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_2": 1471124904,
+		"12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_3": 1471129587,
+		"1JkFa2sM5m6B4GRexCB3vWUcRbRZ9AYCVn_1": 1471143181,
+		"1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib_9": 1471369729,
+		"1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_7": 1471370472,
+		"1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_6": 1471371149,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_11": 1471378484,
+		"1N1AZUiwisp1bgMoH3WSTsPSPD6DXWFpJ9_3": 1471462826,
+		"137PNA5gLgCTLZTBtzUqCmMoZ752NQGQSJ_2": 1471472416,
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_19": 1471475383,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1472462658": 1472502748
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Dude, this is *by far* the coolest thing EVER done on a peer-to-peer platform. Thank you so much!",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_8",
+			"date_added": 1471117171
+		},
+		{
+			"comment_id": 2,
+			"body": "@Talnicrom: yeaaah buddy! Only here we can have no middlemen at all!",
+			"post_uri": "1EZG8eDkCFvNkYxpHmr2WbGWcSxAsRfqTT_2",
+			"date_added": 1471121113
+		},
+		{
+			"comment_id": 3,
+			"body": "Interesting proposal! We need more of these alternative protocols",
+			"post_uri": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib_2",
+			"date_added": 1471121852
+		},
+		{
+			"comment_id": 4,
+			"body": "Decentralized all the way. P2P is the only way that we can truly have no middlemen to either police (censorship) or depend on (site downtimes, government takedowns, etc). I never tried Twister (it never compiled here) but I don't see how it can be any better than ZeroNet now.",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_26",
+			"date_added": 1471122501
+		},
+		{
+			"comment_id": 5,
+			"body": "@GramsciCat: you can edit your post after it's sent ;)",
+			"post_uri": "1EZG8eDkCFvNkYxpHmr2WbGWcSxAsRfqTT_3",
+			"date_added": 1471122969
+		},
+		{
+			"comment_id": 6,
+			"body": "@Jayofthezero: agreed, I think that not even the @ mentions would trigger anything. We have to make a habit of checking for updates regularly :(",
+			"post_uri": "15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT_3",
+			"date_added": 1471128339
+		},
+		{
+			"comment_id": 7,
+			"body": "@PaintNinja: oh shit nice trick",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_3",
+			"date_added": 1471129611
+		},
+		{
+			"comment_id": 8,
+			"body": "Reminds me of when the Play zite went up first",
+			"post_uri": "1EN9Ape9Gbe2FAcP8qNWsyvg7x7z92LhA7_2",
+			"date_added": 1471131831
+		},
+		{
+			"comment_id": 9,
+			"body": "Nice! I'm sure it's going to be a great opportunity to introduce a great platform for the community!",
+			"post_uri": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib_9",
+			"date_added": 1471369869
+		},
+		{
+			"comment_id": 10,
+			"body": "hehe how long until we start saying things like \"You new ZeroNet kids have it easy! Back in my day we didn't...\" ?",
+			"post_uri": "1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_7",
+			"date_added": 1471370560
+		},
+		{
+			"comment_id": 11,
+			"body": "Tor-unfriendly domain :(",
+			"post_uri": "1CFhytwoGGPNqmueehPqotaf2iG9uxD98e_5",
+			"date_added": 1471370608
+		},
+		{
+			"comment_id": 13,
+			"body": "@Nofish: good observation! Though I don't think the user base would be a permanent problem (it grows daily, as more people discover the ZeroMe zite just like it happened to ZeroMail), the seeding/discovery issue could indeed be a hurdle. If it requires centralization for a solution, then perhaps it's better to leave it out...",
+			"post_uri": "15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT_4",
+			"date_added": 1471377916
+		},
+		{
+			"comment_id": 14,
+			"body": "> Follow your username mentions and comments on your posts in ZeroHello newsfeed\n\n:)",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_11",
+			"date_added": 1471378511
+		},
+		{
+			"comment_id": 15,
+			"body": "Wow! Very nice. And it even links back to the Dent containing the #tag\n\nGood job there!",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_19",
+			"date_added": 1471475425
+		},
+		{
+			"comment_id": 16,
+			"body": "@RiotPulv: it's an I2P link. Perhaps that's why?",
+			"post_uri": "15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT_7",
+			"date_added": 1471969928
+		},
+		{
+			"comment_id": 17,
+			"body": "Thanks, @ulrichard @Shellbound I'll look these up",
+			"post_uri": "15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT_8",
+			"date_added": 1471970633
+		},
+		{
+			"comment_id": 18,
+			"body": "> Now you can use markdown in comments\n\nCould it be? *Oh yes it could!* `:D`",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1472462658",
+			"date_added": 1472502769
+		},
+		{
+			"comment_id": 19,
+			"body": "Great concept! But we definitely need to get more people seeding stuff ",
+			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1472496397",
+			"date_added": 1472505650
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": null,
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": null,
+			"date_added": 1471116902
+		},
+		{
+			"follow_id": 2,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1471116911
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1471117068
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib",
+			"user_name": "megfault",
+			"date_added": 1471121430
+		},
+		{
+			"follow_id": 6,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx",
+			"user_name": "ks",
+			"date_added": 1471122725
+		},
+		{
+			"follow_id": 7,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne",
+			"user_name": "Jayofthezero",
+			"date_added": 1471128264
+		},
+		{
+			"follow_id": 8,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1471131869
+		},
+		{
+			"follow_id": 9,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1JkFa2sM5m6B4GRexCB3vWUcRbRZ9AYCVn",
+			"user_name": "Teslasmoustache",
+			"date_added": 1471141770
+		},
+		{
+			"follow_id": 10,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV",
+			"user_name": "Mynameislegion",
+			"date_added": 1471371164
+		},
+		{
+			"follow_id": 12,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ",
+			"user_name": "Musickiller",
+			"date_added": 1471899488
+		},
+		{
+			"follow_id": 13,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1471901425
+		},
+		{
+			"follow_id": 14,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ",
+			"user_name": "Sirenyc",
+			"date_added": 1472505737
+		},
+		{
+			"follow_id": 15,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1AjxW1N844WRpscEFSotfsqLXsQurz83xc",
+			"user_name": "Arne Bolen",
+			"date_added": 1472512711
+		}
+	]
+}

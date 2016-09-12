@@ -1,0 +1,21 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "G7y5oS5n7Lg2gJfYJD0RO9d0LrcAxozDqKjG4+qfSUQiBJ0JHazixQmmECr0OPTgKPLadFDe+wl+l04ttq3FiZE=",
+ "cert_user_id": "lugarius@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "116dfdf05f69c66734f432681f7a47d14cdf1087ce7beae8b19c11c005675526",
+   "size": 1835
+  },
+  "data.json": {
+   "sha512": "441b200cb897510cb5b6971a75969394dcbc1e6fa6c8c5eb3bbb95232e7abccd",
+   "size": 3549
+  }
+ },
+ "inner_path": "data/users/1CKA5cKZ2nmcXGSZcWKbzHUHu1UmJrkzAT/content.json",
+ "modified": 1473613623.020885,
+ "signs": {
+  "1CKA5cKZ2nmcXGSZcWKbzHUHu1UmJrkzAT": "GwIui8YQLuAlwNKXg2qj5wrz5N4+X8SpX9/uD+DVE8UJTpg7TXt9nqoEw9tszG1+IYxI6Gs12BaXVla2CtL3Gy8="
+ }
+}

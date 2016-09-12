@@ -1,0 +1,1855 @@
+{
+	"next_post_id": 45,
+	"next_comment_id": 81,
+	"next_follow_id": 181,
+	"avatar": "jpg",
+	"user_name": "ks",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Nobody can stop me from dreaming\n\n[✉](/itskas.bit/)",
+	"post": [
+		{
+			"post_id": 15,
+			"body": "entr(1): Run arbitrary commands when files change ⌘ http://entrproject.org/\n\nAlso available from [AUR](https://aur.archlinux.org/packages/entr).",
+			"date_added": 1471679605
+		},
+		{
+			"post_id": 16,
+			"body": "Shameless plug: I've put together a handful of shell and python scripts that let you easily communicate securely via the Keybase filesystem: [kbmsgr](/kappasigma.bit/?Post:38)\n\nGive it a spin and let me know what you think.",
+			"date_added": 1471712127
+		},
+		{
+			"post_id": 17,
+			"body": "Aphex Twin: 24h mix ⌘ https://archive.org/embed/AphexTwinTheMix ♫ #electronica",
+			"date_added": 1471715737
+		},
+		{
+			"post_id": 18,
+			"body": "How to change symlinks atomically (2005) ⌘ http://blog.moertel.com/posts/2005-08-22-how-to-change-symlinks-atomically.html\n",
+			"date_added": 1471757668
+		},
+		{
+			"post_id": 19,
+			"body": "What [AndroidAuthority] learned from running Fuchsia, the mysterious new OS from Google ⌘ http://www.androidauthority.com/we-compiled-fuchsia-os-710491/",
+			"date_added": 1471759771
+		},
+		{
+			"post_id": 20,
+			"body": "TL;DR: The #torstrike announcement is most likely a hoax.\n\nTor General Strike, September 1 (UTC) ⌘ https://ghostbin.com/paste/kmnzz #torstrike\n\n**Update:** Here's [#torstrike on Twitter](https://twitter.com/search?q=%23torstrike).\n\n**Update 2:** Here's an [archived version](https://archive.is/QhvXm) of the page in question.",
+			"date_added": 1471773043
+		},
+		{
+			"post_id": 21,
+			"body": "Meanwhile, on Linux…\n```\n$ musl-gcc -h\ngcc: error: unrecognized command line option ‘-h’; did you mean ‘-h’?\n```",
+			"date_added": 1471784974
+		},
+		{
+			"post_id": 22,
+			"body": "fc00::/8 network graph ⌘ https://www.fc00.org/ #hyperboria #cjdns\n\n(the graph will be coloured if you connect from [within hyperboria](http://h.fc00.org/))",
+			"date_added": 1471800228
+		},
+		{
+			"post_id": 23,
+			"body": "When I send a message in PyBitmessage it just sits in the queue and never seem to get sent. 😒\n\nWhy is that and what should I do?",
+			"date_added": 1471809991
+		},
+		{
+			"post_id": 24,
+			"body": "NXT “Lucky Node” lottery ⌘ https://nxtforum.org/general-discussion/5-million-nxt-bounty-for-nxt-ardor-forgers/msg221136/#msg221136\n\nA total of 500 NXT is distributed daily to random nodes participating in the lottery. A new node is drawn every 2 hours.",
+			"date_added": 1471855263
+		},
+		{
+			"post_id": 25,
+			"body": "NXT Peer Explorer ⌘ http://www.peerexplorer.com/",
+			"date_added": 1471855293
+		},
+		{
+			"post_id": 26,
+			"body": "Ah, ShellCheck! ⌘ https://www.shellcheck.net/",
+			"date_added": 1471936244
+		},
+		{
+			"post_id": 1471961979,
+			"body": "ZeroNet is being pimped on HN by @m-jones ⌘ https://news.ycombinator.com/item?id=12343397\n\nPlease upvote if you can.",
+			"date_added": 1471961952
+		},
+		{
+			"post_id": 1472069174,
+			"body": "AKASHA: A Next-Generation Social Media Network (still a concept), based on Ethereum and IPFS ⌘ http://akasha.world/",
+			"date_added": 1472069146
+		},
+		{
+			"post_id": 1472135886,
+			"body": "Darn, I seem to have reached a limit of 50000 on the BLue hub. Now what?",
+			"date_added": 1472135857
+		},
+		{
+			"post_id": 1472152074,
+			"body": "Ashnaia Project – Lost In Time [Full EP] ⌘ https://youtu.be/laNDdQhWmWU ♫",
+			"date_added": 1472152044
+		},
+		{
+			"post_id": 1472565075,
+			"body": "Reality is a shared hallucination ⌘ http://reactor-core.org/reality-hallucination.html",
+			"date_added": 1472565044
+		},
+		{
+			"post_id": 1472674439,
+			"body": "@Musickiller: Running KBFS requires two binaries: keybase and kbfsfuse. The ArchLinux keybase package contains only the keybase binary, so I had to take the kbfsfuse binary from the Debian keybase package.",
+			"date_added": 1472674407
+		},
+		{
+			"post_id": 1472678549,
+			"body": "I just had a minimal chat on IRC with Erkan Yılmaz, the guy behind all things ZeroVerse (e.g., ZeroVerse Mail and ID), and he told me that he is not using ZeroNet anymore. Around three months ago Erkan became very silent, but I hoped he had just gone to spend the summer in Turkey, or something. Instead it turns out he dropped out of ZeroNet. It's somewhat unfortunate, partly because some people were/are using his ZeroVerse ID+Mail services, partly because Erkan has squatted _a lot_ of zero*.bit domains, and of course also because Erkan had many good intentions for ZeroNet.\n\nWell, we can't force people how to spend their energy, so instead of moaning the fact that Erkan has left ZeroNet, let's try to be practical. I, for one, will stop seeding all of Erkan's zites and stop using ZeroVerse Mail+ID. I suggest you guys do the same. Erkan might donate his lot of .bit domains to someone, but I'm not going to hold my breath. If he doesn't (and if he doesn't choose to renew the registration) they'll expire in about 84 days and will be up for the grabs.\n\nPlease spread the word.\n\n/me hops off soapbox",
+			"date_added": 1472678516
+		},
+		{
+			"post_id": 1472749354,
+			"body": "Elephants Without Borders ⌘ http://elephantswithoutborders.org/",
+			"date_added": 1472749320
+		},
+		{
+			"post_id": 1472826862,
+			"body": "Who's running [ZeroName](/1Name2NXVi1RDPDgf5617UoW7xA6YrhM9F/)?",
+			"date_added": 1472826827
+		},
+		{
+			"post_id": 1472828776,
+			"body": "Found an Acer Chromebook C720 for just €125. It should be able to run [GalliumOS](https://galliumos.org/) with little or no modifications. Looking forward to having a cheap and small (11″) laptop that runs a decent OS.",
+			"date_added": 1472828740
+		},
+		{
+			"post_id": 1472837292,
+			"body": "`HEAD HTTP/1.1 301 0\tCOMODO SSL Checker`\n\nI guess somebody is eager to learn where some of all the dollars went…",
+			"date_added": 1472837255
+		},
+		{
+			"post_id": 1473010008,
+			"body": "PyFormat: Using % and .format() for great good! ⌘ https://pyformat.info/",
+			"date_added": 1473009970
+		},
+		{
+			"post_id": 1473094411,
+			"body": "Just installed [GalliumOS](https://galliumos.org/) on a cheap chromebook. Highly commendable!\n",
+			"date_added": 1473094372
+		},
+		{
+			"post_id": 1473258675,
+			"body": "Today [ZeroNet got mentioned](https://www.version2.dk/artikel/ny-fildelingstjeneste-naermest-umulig-at-lukke-myndighederne-931870) on the Danish IT newssite V2. Apparently V2 got their knowledge from [an article](http://fossbytes.com/play-worlds-first-torrent-website-zeronet-thats-impossible-shutdown/) on fossBytes.\nUnfortunately, the article focuses on PLAY, rather than mentioning what other kinds of sites you can find on ZeroNet.",
+			"date_added": 1473258635
+		},
+		{
+			"post_id": 1473340513,
+			"body": "I'm surprised to learn how many IPFS nodes actually run on Hyperboria/cjdns (last grep below):\n```sh\n$ ipfs swarm peers | wc -l\n109\n$ ipfs swarm peers | grep ^/ip4/ | wc -l\n72\n$ ipfs swarm peers | grep ^/ip6/ | wc -l\n57\n$ ipfs swarm peers | grep ^/ip6/fc | wc -l\n8\n```",
+			"date_added": 1473340472
+		},
+		{
+			"post_id": 1473440930,
+			"body": "Morning pages ⌘ http://qz.com/777929/writing-morning-pages-can-offer-many-of-the-same-benefits-as-meditation/",
+			"date_added": 1473440888
+		},
+		{
+			"post_id": 1473603594,
+			"body": "Deep Carbon Observatory ⌘ https://deepcarbon.net/",
+			"date_added": 1473603551
+		},
+		{
+			"post_id": 1473603612,
+			"body": "Expedition 370 ⌘ https://www.jamstec.go.jp/chikyu/e/exp370/",
+			"date_added": 1473603568
+		}
+	],
+	"post_like": {
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1": 1470864986,
+		"1L1RLoEsVMEa18PKD22bthXAPGDFwYeq4v_3": 1470921863,
+		"17Cs2auSHSVjKaYMXqbNMApRQrgXcwJUpL_6": 1471325648,
+		"17Cs2auSHSVjKaYMXqbNMApRQrgXcwJUpL_10": 1471416964,
+		"1LmxVpbqhEn3ZGVp4bfmmPogMhCqRDePpv_1": 1471426118,
+		"1GNDhMXNnxfghKQXhRv9CZgfye6Q2Dzh9G_3": 1471534148,
+		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_14": 1471597730,
+		"1DjUq8hd2jYZgc5uNhQEtWUVZjMHkMQkpU_33": 1471603380,
+		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_15": 1471788895,
+		"16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_8": 1471845245,
+		"16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_9": 1471870355,
+		"1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1472029837": 1472030653,
+		"1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1472116229": 1472116434,
+		"16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_1472561132": 1472565061,
+		"1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1472659550": 1472659724,
+		"1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1472666816": 1472674452,
+		"16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_1472758469": 1472758830,
+		"1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u_1473209651": 1473432849
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Hi guys!",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1",
+			"date_added": 1470900375
+		},
+		{
+			"comment_id": 2,
+			"body": "Ah! Thanks a lot!",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_2",
+			"date_added": 1470900677
+		},
+		{
+			"comment_id": 3,
+			"body": "It does. Cool!",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_3",
+			"date_added": 1470903511
+		},
+		{
+			"comment_id": 4,
+			"body": "Not so cool…",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_4",
+			"date_added": 1470903836
+		},
+		{
+			"comment_id": 5,
+			"body": "Inbox zero! :)",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_5",
+			"date_added": 1471084406
+		},
+		{
+			"comment_id": 6,
+			"body": "@P2P: You're right. But that concern goes for all of Zeronet, not just ZeroMe.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_4",
+			"date_added": 1471105567
+		},
+		{
+			"comment_id": 7,
+			"body": "@P2P: I still see him But when I go to his profile he is not listed as being followed by me and it doesn't help to first follow and then unfollow.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_6",
+			"date_added": 1471270351
+		},
+		{
+			"comment_id": 8,
+			"body": "@P2P: that doesn't help…",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_6",
+			"date_added": 1471274137
+		},
+		{
+			"comment_id": 9,
+			"body": "Useless use of echo and a subshell.",
+			"post_uri": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_7",
+			"date_added": 1471338787
+		},
+		{
+			"comment_id": 10,
+			"body": "Except you don't need a subshell to do that, you can just\n\nfor file in * ; do tar xvf $file ; done\n\nand for the second line of yours, just use\n\nfor file in *_*.tgz ; do …\n",
+			"post_uri": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_8",
+			"date_added": 1471341050
+		},
+		{
+			"comment_id": 11,
+			"body": "What I meant was that you can skip $() and echo entirely:\n\nfor i in {1..10} ; do echo $i ; done",
+			"post_uri": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_7",
+			"date_added": 1471341143
+		},
+		{
+			"comment_id": 12,
+			"body": "I'm sorry that this is a non-answer, but: I used to like acrylamid, but unfortunately it doesn't run on Python 3.5 (it does run on Python 3.4, though) and I just learned a few days ago that it is no longer maintained.\n\nYou may want to look at https://www.staticgen.com/ or https://staticsitegenerators.net/  for inspiration until someone here comes up with a useful suggestion.",
+			"post_uri": "17Cs2auSHSVjKaYMXqbNMApRQrgXcwJUpL_10",
+			"date_added": 1471411718
+		},
+		{
+			"comment_id": 13,
+			"body": "You could start a ZeroBlog (which allows picture links, both local and remote) and post links to that blog.",
+			"post_uri": "1GNDhMXNnxfghKQXhRv9CZgfye6Q2Dzh9G_3",
+			"date_added": 1471534007
+		},
+		{
+			"comment_id": 14,
+			"body": "@Nobite: ZeroBlog, among others, allows markdown. It should have been easy to incorporate markdown here at ZeroMe also. Perhaps local pictures will be allowed at some point, but external pictures are a privacy concern.",
+			"post_uri": "1GNDhMXNnxfghKQXhRv9CZgfye6Q2Dzh9G_3",
+			"date_added": 1471541650
+		},
+		{
+			"comment_id": 15,
+			"body": "Welcome!",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1",
+			"date_added": 1471545867
+		},
+		{
+			"comment_id": 16,
+			"body": "@Shellbound: I didn't know rtv. Thanks!",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_10",
+			"date_added": 1471549266
+		},
+		{
+			"comment_id": 17,
+			"body": "@Truth: I think the biggest problem is that we humans think that we can and should change nature for the better, because we feel that we're apart (or above) nature. Instead we should learn to keep our clammy hands to ourselves.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_12",
+			"date_added": 1471552372
+		},
+		{
+			"comment_id": 18,
+			"body": "@Shellbound: The rtv-git package from AUR is b0rked, so I installed rtv in a virtualenv instead — works like a charm (and looks good)!",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_10",
+			"date_added": 1471553727
+		},
+		{
+			"comment_id": 19,
+			"body": "People don't seem to be interested at all…",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_8",
+			"date_added": 1471553796
+		},
+		{
+			"comment_id": 20,
+			"body": "@Shellbound: AUR's rtv-git installs a wrong version of “praw” and it lacks dependency of the “mailcap-fix” package.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_10",
+			"date_added": 1471554228
+		},
+		{
+			"comment_id": 21,
+			"body": "@Shellbound: you're right, although there could also be people around who care more for the decentralization aspect than the pseudonymity.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_8",
+			"date_added": 1471585186
+		},
+		{
+			"comment_id": 22,
+			"body": "@Shellbound: I chose the rtv-git package because rtv was flagged out-of-date.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_10",
+			"date_added": 1471585270
+		},
+		{
+			"comment_id": 23,
+			"body": "Hm, it works in Firefox but not in Chromium (even with all extensions disabled).",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_13",
+			"date_added": 1471595769
+		},
+		{
+			"comment_id": 24,
+			"body": "Deleting the ∞ hub restored functionality.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_13",
+			"date_added": 1471595911
+		},
+		{
+			"comment_id": 25,
+			"body": "@tkarita: ah, thanks!!",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_13",
+			"date_added": 1471597513
+		},
+		{
+			"comment_id": 26,
+			"body": "@Andrewm: Zeronet already runs on ARM.",
+			"post_uri": "1DjUq8hd2jYZgc5uNhQEtWUVZjMHkMQkpU_33",
+			"date_added": 1471602822
+		},
+		{
+			"comment_id": 27,
+			"body": "What could be really interesting, though, is if Zeronet could run on a mesh network (say, cjdns/hyperboria) so that it doesn't even need the Internet.\n\nZeronet cannot run on cjdns as long as Zeronet doesn't support IPv6 (which should be prioritized, IMHO).\n\nWhile not a mesh network, Zeronet could run on ZeroTier (the way it runs on TOR), which would add to the diversity.\nhttps://www.zerotier.com/",
+			"post_uri": "1DjUq8hd2jYZgc5uNhQEtWUVZjMHkMQkpU_33",
+			"date_added": 1471603362
+		},
+		{
+			"comment_id": 28,
+			"body": "@Alek: I don't use Apple products. 😉",
+			"post_uri": "1DjUq8hd2jYZgc5uNhQEtWUVZjMHkMQkpU_33",
+			"date_added": 1471608521
+		},
+		{
+			"comment_id": 29,
+			"body": "@Alek: Where did you learn that “Zerotier soon to be an iOS”? And what do you actually mean by that statement?",
+			"post_uri": "1DjUq8hd2jYZgc5uNhQEtWUVZjMHkMQkpU_33",
+			"date_added": 1471610054
+		},
+		{
+			"comment_id": 30,
+			"body": "@Alek: No problem! :)",
+			"post_uri": "1DjUq8hd2jYZgc5uNhQEtWUVZjMHkMQkpU_33",
+			"date_added": 1471627962
+		},
+		{
+			"comment_id": 31,
+			"body": "@Klaus Jónsson Zimmermann: Cool!",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_14",
+			"date_added": 1471630996
+		},
+		{
+			"comment_id": 32,
+			"body": "And now that I come to think of it: With minimal changes it could be used with SSHFS or a shared Dropbox folder, or any other sharable directory. I should probably make it configurable.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_16",
+			"date_added": 1471715031
+		},
+		{
+			"comment_id": 33,
+			"body": "@Musickiller: Youre right!",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_16",
+			"date_added": 1471716994
+		},
+		{
+			"comment_id": 34,
+			"body": "Is this for real?",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_20",
+			"date_added": 1471773091
+		},
+		{
+			"comment_id": 35,
+			"body": "Has any of you seen it announced elsewhere than Ghostbin?",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_20",
+			"date_added": 1471779777
+		},
+		{
+			"comment_id": 36,
+			"body": "@tkarita: I agree.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_20",
+			"date_added": 1471780928
+		},
+		{
+			"comment_id": 37,
+			"body": "@tkarita: it's gotta be the poorest help message I've seen in ages!",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_21",
+			"date_added": 1471785374
+		},
+		{
+			"comment_id": 38,
+			"body": "@Jayofthezero: please see update 2 above.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_20",
+			"date_added": 1471789306
+		},
+		{
+			"comment_id": 39,
+			"body": "@Jayofthezero: so do I.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_21",
+			"date_added": 1471795581
+		},
+		{
+			"comment_id": 40,
+			"body": "@weakish: from musl-gcc or from vanilla gcc?",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_21",
+			"date_added": 1471795612
+		},
+		{
+			"comment_id": 41,
+			"body": "@Deadjoker: I've replied to your zeromail (my bitmessage seems to just say “queued” these days without really sending anything…).",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_22",
+			"date_added": 1471806962
+		},
+		{
+			"comment_id": 42,
+			"body": "@Andrewm: My PyBitmessage has been up for several days and has finished downloading all objects a long time ago. And some of the queued messages have waited for just as long. One of them even back from August 12.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_23",
+			"date_added": 1471815747
+		},
+		{
+			"comment_id": 43,
+			"body": "One message says “Queued”, several others say “Need to do work to send message. Work is queued.” It would be nice with a “Do work now!” button.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_23",
+			"date_added": 1471816575
+		},
+		{
+			"comment_id": 44,
+			"body": "@tkarita: 👍",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_20",
+			"date_added": 1471845176
+		},
+		{
+			"comment_id": 45,
+			"body": "On Windows?",
+			"post_uri": "16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_8",
+			"date_added": 1471845261
+		},
+		{
+			"comment_id": 46,
+			"body": "@Zer0sum: Haha, a Freudian slip!! 😉",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_24",
+			"date_added": 1471886886
+		},
+		{
+			"comment_id": 47,
+			"body": "@Arne Bolen: Thanks, I'll try that.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_23",
+			"date_added": 1471894652
+		},
+		{
+			"comment_id": 48,
+			"body": "@Arne Bolen: Thanks, mate.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_23",
+			"date_added": 1471895691
+		},
+		{
+			"comment_id": 49,
+			"body": "It seemingly helped: This morning I sent two messages and instead of just queueing them, PyBitmessage actually did some work and is now announcing that it's waiting for confirmation.\n\nThanks, guys!",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_23",
+			"date_added": 1471932743
+		},
+		{
+			"comment_id": 50,
+			"body": "@tkarita: me, too — the keming is pretty bad.",
+			"post_uri": "16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_1471953757",
+			"date_added": 1471956466
+		},
+		{
+			"comment_id": 51,
+			"body": "You're right, except that ZeroMail's quota is ridiculously low (and Erkan's gone AWOL, so there's hardly a chance that ZeroVerseMail will ever become popular).",
+			"post_uri": "16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_1471954865",
+			"date_added": 1471956638
+		},
+		{
+			"comment_id": 52,
+			"body": "@weakish: so who wrote the “did you mean ‘-h’?” part when I ran musl-gcc?",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_21",
+			"date_added": 1471966906
+		},
+		{
+			"comment_id": 53,
+			"body": "I meant the post, but if you upvote the comment I get some extra karma. ;)",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1471961979",
+			"date_added": 1471968489
+		},
+		{
+			"comment_id": 54,
+			"body": "Does anyone know if @m-jones is here on ZeroMe?",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1471961979",
+			"date_added": 1471968516
+		},
+		{
+			"comment_id": 55,
+			"body": "Urgh!",
+			"post_uri": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1472029837",
+			"date_added": 1472030651
+		},
+		{
+			"comment_id": 56,
+			"body": "@Musickiller: No, but Ethereum is a blockchain something and IPFS is a distributed filesystem, so it will be fun to see what comes out of that combination.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472069174",
+			"date_added": 1472100949
+		},
+		{
+			"comment_id": 57,
+			"body": "@Dergatt: yes, and then you have to remove one char at a time until you hit the length they expect — if you're lucky.",
+			"post_uri": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1472116229",
+			"date_added": 1472120243
+		},
+		{
+			"comment_id": 58,
+			"body": "Yay, I won 41 NXT in the lottery! :)",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_24",
+			"date_added": 1472135595
+		},
+		{
+			"comment_id": 59,
+			"body": "I deleted a bunch of older posts, but that is like peeing in the pants to keep myself warm: very soon I will be even colder than before.\nSeriously, 50'000 bytes seems like a ridiculously low quota.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472135886",
+			"date_added": 1472136271
+		},
+		{
+			"comment_id": 60,
+			"body": "@Nofish: Thanks.\n\nI wonder: Would it be better if I cloned a hub and used my own hub? It doesn't scale very well if users have to contact the hub owner in order to have their quota increased.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472135886",
+			"date_added": 1472141603
+		},
+		{
+			"comment_id": 61,
+			"body": "@P2P: This experience with overstepping the 50k limit has made me think that joining a hub is a very centralized thing (just like some of the IDs are), something that is counterintuitive to Zeronet. I mean, we've had ZeroMe for less than a month and I haven't even posted a lot and I'm already out of bytes? So if 50k can keep me going for [less than] 1 month, I will be in trouble again before the end of September.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472135886",
+			"date_added": 1472141876
+		},
+		{
+			"comment_id": 62,
+			"body": "@Musickiller seems to be on the same hub as me and he posts a lot more than I do (and it seems his quota haven't been increased manually). How come he can keep powerposting?",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472135886",
+			"date_added": 1472142079
+		},
+		{
+			"comment_id": 63,
+			"body": "@Musickiller: Right, I thought you were in the Blue Hub, but your limit isn't raised there, so I was obviously wrong. You're in the Red Hub.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472135886",
+			"date_added": 1472143310
+		},
+		{
+			"comment_id": 64,
+			"body": "The source is available, if anyone wants to check it ⌘ https://github.com/TechnitiumSoftware\n\nIt seems to be written in C# so I'm not gonna use the software (I don't want to have to install Mono).",
+			"post_uri": "16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_1472181123",
+			"date_added": 1472185100
+		},
+		{
+			"comment_id": 65,
+			"body": "What would you like to share or discuss about cjdns?",
+			"post_uri": "16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_1472561132",
+			"date_added": 1472565080
+		},
+		{
+			"comment_id": 66,
+			"body": "@Truth: That was what I meant with “Erkan might donate” (I failed to mention the secret keys for his sites, mea culpa). It is a possibility, although I believe the chances are slim. But yes, somebody could try to approach Erkan with such a suggestion.\n\nHowever, what I learn from the situation is that we shouldn't rely on services that require an operator. While ZeroVerseMail could continue to operate without Erkan, there are no longer anybody who can increase people's quota (and the increased quota is the only thing that qualifies it compared to ZeroMail, IMHO). As for ZeroVerseID, the current situation shows us clearly how vulnerable such a centralized (when it comes to an operator) service is, and I can't see the benefits of relying on such a service. We should rather find a decentralized way of authenticating that theoretically could run and work unattended forver, should its creator leave the scene like Erkan did unannounced.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472678549",
+			"date_added": 1472713063
+		},
+		{
+			"comment_id": 67,
+			"body": "@weakish: Yes, I've never understood why we can't just identify with the private key from a zite. If people are worried that spammers can just create a new zite in order to get a new private key, we could build in a hashcash generator to do PoW, or something. It would definitely be better than the current single-person dependent identification nightmare.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472678549",
+			"date_added": 1472728934
+		},
+		{
+			"comment_id": 68,
+			"body": "@Arne Bolen: No, just that he wasn't using it anymore.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472678549",
+			"date_added": 1472747969
+		},
+		{
+			"comment_id": 69,
+			"body": "That would be nice — at least in some contexts — and it would allow for easy establishment of a mesh network, even if you don't know any other peers. Perhaps it will be possible one day.\n\nA year or two ago you couldn't connect to Hyperboria unless you had some peers. And the place to find new peers were on HypeIRC [on Hyperboria], d'oh. Today at least there's a Github repository of public nodes so that anyone can join the party.",
+			"post_uri": "16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_1472758469",
+			"date_added": 1472759079
+		},
+		{
+			"comment_id": 70,
+			"body": "Interesting observations.\nI can add that merely having a .bit domain associated with your site increases the likelyhood of getting seeded (by some 5-10 peers) — even if said site hasn't been announced actively. I imagine that from time to time some users scan through all or part of the ZeroName list and visit sites with interesting names.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_1472779562",
+			"date_added": 1472796618
+		},
+		{
+			"comment_id": 71,
+			"body": "@Execin: which is kind of what Erkan did — at least to some extend. I believe the reason he left must be something else.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472678549",
+			"date_added": 1472820128
+		},
+		{
+			"comment_id": 72,
+			"body": "@ɃǾȾ: Nearly 300? What an appetite!",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472678549",
+			"date_added": 1472825396
+		},
+		{
+			"comment_id": 73,
+			"body": "Fun enough, a lot of Erkan's (and others) domains are invalid according to the naming syntax (“They must start with a letter, end with a letter or digit, and have as interior characters only letters, digits, and hyphen. Labels must be 63 characters or less.”): So ALL domains starting with ‘0’ (zero) are invalid. ZeroName ought to check the validity and only display/serve names that are valid, IMHO.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472678549",
+			"date_added": 1472826409
+		},
+		{
+			"comment_id": 74,
+			"body": "Ok, smartasses, you know that's not what I meant. Who owns the private key that is used to sign the ZeroName zite? Who should I contact if I have enhancement suggestions?",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472826862",
+			"date_added": 1472890125
+		},
+		{
+			"comment_id": 75,
+			"body": "@Nofish: thanks.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472826862",
+			"date_added": 1472985704
+		},
+		{
+			"comment_id": 76,
+			"body": "@Joczo: cool — welcome! :)",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1473258675",
+			"date_added": 1473259258
+		},
+		{
+			"comment_id": 77,
+			"body": "@Joczo: I can see your site. It's easier iuf you just clone an existing site. E.g., if you clone ZeroBlog, you will have an empty blog up and running in no time.\n\nHere's how to register a .bit domain: https://wiki.namecoin.org/index.php?title=Register_and_Configure_.bit_Domains\n\nLet me see if I can find a description of how to configure it for ZeroNet.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1473258675",
+			"date_added": 1473261630
+		},
+		{
+			"comment_id": 78,
+			"body": "@Joczo: To make your .bit domain work with ZeroNet, you have to add a JSON blob during registration. Here's the JSON for itskas.bit: https://namecha.in/name/d/itskas\n\nAn empty double-quote signifies the main domain and tells ZeroName to associate a certain address with the .bit domain. Subdomains are configured by associating only the subdomain part with an address — see e.g. https://namecha.in/name/d/zeronetwork",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1473258675",
+			"date_added": 1473262087
+		},
+		{
+			"comment_id": 79,
+			"body": "@Joczo: and yes, .bit domains are not free. But they're certainly very cheap.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1473258675",
+			"date_added": 1473262176
+		},
+		{
+			"comment_id": 80,
+			"body": "@tkarita: I agree!",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1473258675",
+			"date_added": 1473278531
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1470864494
+		},
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1BLPKyrF2D4ertte6JnAa6oWAMYzZGwKQz",
+			"user_name": "Vincent Olivier",
+			"date_added": 1470864499
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1470864694
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12iiajZz3dGdYuEyqTR5hvGECWmGh748HL",
+			"user_name": "Suzo",
+			"date_added": 1470864852
+		},
+		{
+			"follow_id": 5,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "13Mt8T2256Uz4GHk9B4XvKqyz37wPgA26q",
+			"user_name": "Dadda",
+			"date_added": 1470864856
+		},
+		{
+			"follow_id": 6,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1L1RLoEsVMEa18PKD22bthXAPGDFwYeq4v",
+			"user_name": "Gimli",
+			"date_added": 1470864857
+		},
+		{
+			"follow_id": 7,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1D242AyQghFqqQTwo1f1csP5kRQe588BUm",
+			"user_name": "Frabrunelle",
+			"date_added": 1470864861
+		},
+		{
+			"follow_id": 8,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1470864863
+		},
+		{
+			"follow_id": 9,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N",
+			"user_name": "Quadrangle",
+			"date_added": 1470864864
+		},
+		{
+			"follow_id": 10,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1FtUiy2KtVRiLTjs2QrvDJUSx2wMzeeavX",
+			"user_name": "Freekazoid",
+			"date_added": 1470864870
+		},
+		{
+			"follow_id": 11,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ",
+			"user_name": "Musickiller",
+			"date_added": 1470900152
+		},
+		{
+			"follow_id": 12,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1MZ6f3V1cBuhNwzajMVPu8vb1wRt1p6dpt",
+			"user_name": "ChinaNet",
+			"date_added": 1470900295
+		},
+		{
+			"follow_id": 13,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1AdcxsExVKvxffQtEd72E5tckouzZHLEYC",
+			"user_name": "Teszt",
+			"date_added": 1470900900
+		},
+		{
+			"follow_id": 14,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1BLPKyrF2D4ertte6JnAa6oWAMYzZGwKQz",
+			"user_name": "Vincent Olivier",
+			"date_added": 1470900917
+		},
+		{
+			"follow_id": 15,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1N1AZUiwisp1bgMoH3WSTsPSPD6DXWFpJ9",
+			"user_name": "Gendor",
+			"date_added": 1470900927
+		},
+		{
+			"follow_id": 16,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6",
+			"user_name": "Emeraude",
+			"date_added": 1470900932
+		},
+		{
+			"follow_id": 17,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1xf9XC4Nsa7YfQWFiK6xGsNDJA3AaCTUa",
+			"user_name": "Deafboy",
+			"date_added": 1470900939
+		},
+		{
+			"follow_id": 18,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R",
+			"user_name": "Scrub",
+			"date_added": 1470902415
+		},
+		{
+			"follow_id": 19,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "14gGPfCHoaUU7PizjB6PaUmM6pZ5YV5H4f",
+			"user_name": "Splitfire",
+			"date_added": 1470903109
+		},
+		{
+			"follow_id": 20,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1MQGiSmsioVacTwRW13cQjSsnHnzbCC6wF",
+			"user_name": "Skehmatics",
+			"date_added": 1470903110
+		},
+		{
+			"follow_id": 21,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1GKcuPnG7BvCPpLs7BCX9xUArhPVpj67M1",
+			"user_name": "Aliem",
+			"date_added": 1470903117
+		},
+		{
+			"follow_id": 22,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN",
+			"user_name": "ZeroMonster",
+			"date_added": 1470903134
+		},
+		{
+			"follow_id": 23,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "164W1rFVD9Bm7poGJWvjVUjvkbhhFC5nnt",
+			"user_name": "Truth",
+			"date_added": 1470903143
+		},
+		{
+			"follow_id": 24,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv",
+			"user_name": "Newuser123",
+			"date_added": 1470903144
+		},
+		{
+			"follow_id": 26,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1FJf2hQWT6YY9oxXozkx1ZvBHyAJVYmb76",
+			"user_name": "Gorgamin",
+			"date_added": 1470903211
+		},
+		{
+			"follow_id": 27,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1K8n9fLnwBnxNx5aahQnAg543tyGKcdVSr",
+			"user_name": "Adam The Chespin",
+			"date_added": 1470903217
+		},
+		{
+			"follow_id": 28,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1BMrYxwpX4TkivMHPYSAMGcBBr66soRxT4",
+			"user_name": "Evbogue",
+			"date_added": 1470903220
+		},
+		{
+			"follow_id": 29,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "16YxtnaTrCSbvCXSYxrnvobmYnqtidxG23",
+			"user_name": "Hellozeronetwork",
+			"date_added": 1470903233
+		},
+		{
+			"follow_id": 31,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u",
+			"user_name": "Lola",
+			"date_added": 1470912451
+		},
+		{
+			"follow_id": 32,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ",
+			"user_name": "GomZik",
+			"date_added": 1470913391
+		},
+		{
+			"follow_id": 33,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1BePwsiwFD8BjtYfB8tQegiKXDLnHWW1Um",
+			"user_name": "Yurithejewler",
+			"date_added": 1470913404
+		},
+		{
+			"follow_id": 34,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib",
+			"user_name": "megfault",
+			"date_added": 1470921885
+		},
+		{
+			"follow_id": 35,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "166nBYFqT3oXk8QHgn8ZEUNwQZNGumVmKQ",
+			"user_name": "Dayifu",
+			"date_added": 1470923312
+		},
+		{
+			"follow_id": 36,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1CwyP7JyaXpKVNXHKZfvRozBkCSk7hFAWe",
+			"user_name": "Wigy",
+			"date_added": 1470924113
+		},
+		{
+			"follow_id": 37,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1QFkQRk1ziRkRhmp6UZTSAqF1DkfAVLK3T",
+			"user_name": "Gandleblix",
+			"date_added": 1470924128
+		},
+		{
+			"follow_id": 38,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "163sF1Kdsd5LdpjAXDKBshdEBNJH6PUqvg",
+			"user_name": "Zeronauta",
+			"date_added": 1470924134
+		},
+		{
+			"follow_id": 39,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1GNdkBSxTw6SpRdGHxDCyfANXnwi7FG7rJ",
+			"user_name": "Teddydd",
+			"date_added": 1470933715
+		},
+		{
+			"follow_id": 40,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1NWwfuonLYmzGp4mJiXKvkLhbc3fZLzmRj",
+			"user_name": "Maroš Grego",
+			"date_added": 1470933719
+		},
+		{
+			"follow_id": 41,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1JpAsfEeBYdr8U3DtAzj8SyczL5Gx1EtQ9",
+			"user_name": "Trashish",
+			"date_added": 1470935060
+		},
+		{
+			"follow_id": 42,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1QKWDtk2V4QMVyJGh9tZYcsd1qJsAX8c4k",
+			"user_name": "Adam The Chespin",
+			"date_added": 1470949740
+		},
+		{
+			"follow_id": 43,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12CTX8Xd8LQnYYmHArhUg2LxiZ43eoLkVa",
+			"user_name": "Feeblemind",
+			"date_added": 1470949743
+		},
+		{
+			"follow_id": 44,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1DjuXLVkQi8fZFTxogDxrXpUn3Pd63Ss8X",
+			"user_name": "v1p3r",
+			"date_added": 1470949753
+		},
+		{
+			"follow_id": 45,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1LfQ8dwqkqkGQNCg1kBevHPxjvTRJTQYBz",
+			"user_name": "Astzor",
+			"date_added": 1470949758
+		},
+		{
+			"follow_id": 46,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1470985653
+		},
+		{
+			"follow_id": 47,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH",
+			"user_name": "Silverstorm",
+			"date_added": 1470986045
+		},
+		{
+			"follow_id": 48,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ",
+			"user_name": "Sirenyc",
+			"date_added": 1471027649
+		},
+		{
+			"follow_id": 49,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1AEXQppxy6Stcfipo7pZmgYjskwm73aCLi",
+			"user_name": "Akv",
+			"date_added": 1471034266
+		},
+		{
+			"follow_id": 50,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC",
+			"user_name": "Meidan",
+			"date_added": 1471034271
+		},
+		{
+			"follow_id": 51,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1DWsec9UeBbGYJ4FG8Pmy3Fb2xSM9RPeJC",
+			"user_name": "Benjaminnelan",
+			"date_added": 1471034291
+		},
+		{
+			"follow_id": 53,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1KWti1fr5Z5ZYQHpgxeV3sv8hHkKrhayqt",
+			"user_name": "Selma0de",
+			"date_added": 1471034313
+		},
+		{
+			"follow_id": 54,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1EgXzBYn2GkL1xcXBzQioyYDjCW5nLpqyR",
+			"user_name": "Samaki",
+			"date_added": 1471070586
+		},
+		{
+			"follow_id": 55,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1P7F9po18mshkbRG5zEVV47vHtLEX19QJa",
+			"user_name": "Bashrc",
+			"date_added": 1471070588
+		},
+		{
+			"follow_id": 56,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12gPJX5ofWBZBqgbTNsjm179hdsbhrKQRZ",
+			"user_name": "Yuvet",
+			"date_added": 1471070599
+		},
+		{
+			"follow_id": 57,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1EBRsDJo4qKthFXgCDGnGEXZxdwhGrtLp2",
+			"user_name": "Renegadepatriot",
+			"date_added": 1471070603
+		},
+		{
+			"follow_id": 58,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EUPVGpbRtHWnAQSpjd5ceAj2jGfESVyVb",
+			"user_name": "Adam The Victini",
+			"date_added": 1471070606
+		},
+		{
+			"follow_id": 59,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1FVgXvt6d7AciuXYYeHwFcPfUyRqRDhZxV",
+			"user_name": "Empirezero",
+			"date_added": 1471081939
+		},
+		{
+			"follow_id": 60,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV",
+			"user_name": "Mynameislegion",
+			"date_added": 1471081950
+		},
+		{
+			"follow_id": 61,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "16XR1GVbekHSMMoUZ5pTQWFpq2anbkHgrC",
+			"user_name": "Arendeiro",
+			"date_added": 1471081959
+		},
+		{
+			"follow_id": 62,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1JQCnij7UvWdvcAHnZ4eDnSA88UsQR8puQ",
+			"user_name": "timmyRS",
+			"date_added": 1471082308
+		},
+		{
+			"follow_id": 63,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1DjUq8hd2jYZgc5uNhQEtWUVZjMHkMQkpU",
+			"user_name": "Alek",
+			"date_added": 1471082319
+		},
+		{
+			"follow_id": 64,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx",
+			"user_name": "Kindlyfire",
+			"date_added": 1471084382
+		},
+		{
+			"follow_id": 65,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1HfQNGCf3dGBXh3NFfG2UeTYduE65oAA8T",
+			"user_name": "Kozuke",
+			"date_added": 1471095313
+		},
+		{
+			"follow_id": 66,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1BTK7LKA1LrvCjNqVrPmBtySWhSaHnG97Q",
+			"user_name": "HrnekBezucha",
+			"date_added": 1471095337
+		},
+		{
+			"follow_id": 67,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1471103172
+		},
+		{
+			"follow_id": 68,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EZG8eDkCFvNkYxpHmr2WbGWcSxAsRfqTT",
+			"user_name": "Riotpulv",
+			"date_added": 1471103176
+		},
+		{
+			"follow_id": 69,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx",
+			"user_name": "Kindlyfire",
+			"date_added": 1471105473
+		},
+		{
+			"follow_id": 70,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "14J8mC3K7k5Ygx22uu9LUzGWnBoDAQdyDo",
+			"user_name": "ImUrX",
+			"date_added": 1471109646
+		},
+		{
+			"follow_id": 71,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS",
+			"user_name": "ZAlex",
+			"date_added": 1471109647
+		},
+		{
+			"follow_id": 72,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx",
+			"user_name": "ks",
+			"date_added": 1471109670
+		},
+		{
+			"follow_id": 73,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t",
+			"user_name": "tkarita",
+			"date_added": 1471109888
+		},
+		{
+			"follow_id": 74,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1C1gnFcVv9J9kUjF4odDMRYcEWVPJbbqFp",
+			"user_name": "Davidnelband",
+			"date_added": 1471109894
+		},
+		{
+			"follow_id": 75,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ",
+			"user_name": "P2P",
+			"date_added": 1471110258
+		},
+		{
+			"follow_id": 76,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT",
+			"user_name": "Klaus Jónsson Zimmermann",
+			"date_added": 1471117019
+		},
+		{
+			"follow_id": 77,
+			"hub": null,
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1471117026
+		},
+		{
+			"follow_id": 78,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1K7pivtg6E1qRnih7nmnnPrCnRRSxSCMQQ",
+			"user_name": "Wakelain",
+			"date_added": 1471117090
+		},
+		{
+			"follow_id": 79,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1DubjMwYHU75UxsA4fcmAQuoe3cFsfUL4m",
+			"user_name": "Danskeren",
+			"date_added": 1471119377
+		},
+		{
+			"follow_id": 80,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne",
+			"user_name": "Jayofthezero",
+			"date_added": 1471120400
+		},
+		{
+			"follow_id": 81,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1JF3eQjW4voiKdcvCkMXvUx5bLmZAiVdyi",
+			"user_name": "Edantes",
+			"date_added": 1471120441
+		},
+		{
+			"follow_id": 82,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1A7Jhb42rcCE86shNxvzbi6uQ7Agemspdd",
+			"user_name": "Rebel",
+			"date_added": 1471183593
+		},
+		{
+			"follow_id": 83,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19SbSoytV8aD6GtpJi9F6RDSnGzunYgYzo",
+			"user_name": "Johnhamelink",
+			"date_added": 1471183595
+		},
+		{
+			"follow_id": 84,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1LJg7dt6QXpwxsZR2XAnG9u6D9N1oRNKvT",
+			"user_name": "Snektier",
+			"date_added": 1471183598
+		},
+		{
+			"follow_id": 85,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331",
+			"user_name": "Andrewm",
+			"date_added": 1471183601
+		},
+		{
+			"follow_id": 86,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1HJJEDiEo7ghxbpdDzXHFVv4gtrb53cUAu",
+			"user_name": "Maomihz",
+			"date_added": 1471183616
+		},
+		{
+			"follow_id": 88,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1wAS6N9Q2mfgKTcziJ4GaTSGZHuTyqFqf",
+			"user_name": "Techniq",
+			"date_added": 1471186918
+		},
+		{
+			"follow_id": 89,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "13qUzX6Y1vLvUCfsb7S1puU6ix4JNs9cnG",
+			"user_name": "gekko",
+			"date_added": 1471238741
+		},
+		{
+			"follow_id": 90,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "13KnmV3n2ZEpU77hx4WuLVdBrUR3kidtq7",
+			"user_name": "Nobite",
+			"date_added": 1471238749
+		},
+		{
+			"follow_id": 91,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7",
+			"user_name": "Shift",
+			"date_added": 1471238752
+		},
+		{
+			"follow_id": 92,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "124jF4kNqqt9nufDi7fXCvrZA2KShZFr13",
+			"user_name": "Samaritan",
+			"date_added": 1471238767
+		},
+		{
+			"follow_id": 93,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EqobvYnVFKHPsJ5rbxGu3m8Z8pAk8FqrJ",
+			"user_name": "SunSlav",
+			"date_added": 1471254222
+		},
+		{
+			"follow_id": 94,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1KrJgpJqJij8zdhJ4gFZg7gscskgtCgNmX",
+			"user_name": "Rambotito",
+			"date_added": 1471254235
+		},
+		{
+			"follow_id": 97,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp",
+			"user_name": "FraYoshi",
+			"date_added": 1471325582
+		},
+		{
+			"follow_id": 98,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1CNsPUYAxXBHU9m6ujHrGacanzqYiaVt32",
+			"user_name": "Sanglier",
+			"date_added": 1471325589
+		},
+		{
+			"follow_id": 99,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1FDMqryrE33tiy9baghB5maTwiffkfbbvg",
+			"user_name": "Monochromewolf",
+			"date_added": 1471325599
+		},
+		{
+			"follow_id": 100,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1M4Ab8CUu3byziHVvNXLHmPezC4Lg9hvNJ",
+			"user_name": "Zerocrat",
+			"date_added": 1471325607
+		},
+		{
+			"follow_id": 101,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "17Cs2auSHSVjKaYMXqbNMApRQrgXcwJUpL",
+			"user_name": "Zer0sum",
+			"date_added": 1471325634
+		},
+		{
+			"follow_id": 102,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1NZ4LvZqg61LxtRfEr5Y46KRhYCzWRnqck",
+			"user_name": "Gallium",
+			"date_added": 1471339020
+		},
+		{
+			"follow_id": 103,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1AjxW1N844WRpscEFSotfsqLXsQurz83xc",
+			"user_name": "Arne Bolen",
+			"date_added": 1471377990
+		},
+		{
+			"follow_id": 104,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L",
+			"user_name": "Alex (Bwoi)",
+			"date_added": 1471416974
+		},
+		{
+			"follow_id": 105,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "17q71BLdnEJTJeAcpm18fqHQAzFVnoeDxq",
+			"user_name": "Mono",
+			"date_added": 1471416985
+		},
+		{
+			"follow_id": 106,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1LmxVpbqhEn3ZGVp4bfmmPogMhCqRDePpv",
+			"user_name": "Sigsegv",
+			"date_added": 1471426087
+		},
+		{
+			"follow_id": 107,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1H6bRHd4ByGTLuic7a3g92Lo9aBYm77SPS",
+			"user_name": "Beraxos",
+			"date_added": 1471426094
+		},
+		{
+			"follow_id": 108,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1wFmwTMU9TPYuVqsFZSyutRN3PhWue3GM",
+			"user_name": "Lupinsansei",
+			"date_added": 1471427957
+		},
+		{
+			"follow_id": 109,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1PoiRFseXaeGhnj2mpwS3xiXVrUd8noRLW",
+			"user_name": "Tatooka",
+			"date_added": 1471456113
+		},
+		{
+			"follow_id": 110,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "12KxLrDBMbVwy27PYyNHjoD5hHCSM1jK3S",
+			"user_name": "Mrehqe",
+			"date_added": 1471456119
+		},
+		{
+			"follow_id": 111,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1NkWaxzbBghxi1FkoY5ybUrFsNfr3Gjzp6",
+			"user_name": "Drezrek",
+			"date_added": 1471456130
+		},
+		{
+			"follow_id": 112,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1Jdk2bzbGQCGNANVsM49hFFhU6ESqLQPh5",
+			"user_name": "Xyber",
+			"date_added": 1471456135
+		},
+		{
+			"follow_id": 113,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GNDhMXNnxfghKQXhRv9CZgfye6Q2Dzh9G",
+			"user_name": "Anomalous",
+			"date_added": 1471533922
+		},
+		{
+			"follow_id": 114,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "17gEFavobc7RsKNGbSzZwoSZ6jNB7hT2KN",
+			"user_name": "Fav",
+			"date_added": 1471540269
+		},
+		{
+			"follow_id": 115,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR",
+			"user_name": "weakish",
+			"date_added": 1471540276
+		},
+		{
+			"follow_id": 116,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "15Ja9eyNUrAuoPpyoZ32Vw8Gb7ar1Rqz5o",
+			"user_name": "Zeroalchemist",
+			"date_added": 1471540278
+		},
+		{
+			"follow_id": 117,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg",
+			"user_name": "Dergatt",
+			"date_added": 1471545764
+		},
+		{
+			"follow_id": 118,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1HTE2nRSdvSk3NopxAM7W3RwLTsTqJ1Dhw",
+			"user_name": "Fredix",
+			"date_added": 1471545775
+		},
+		{
+			"follow_id": 119,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "19TgPhgpi9U73U9jQWUSspfxy8vbPjUxVT",
+			"user_name": "Bobnoise",
+			"date_added": 1471545782
+		},
+		{
+			"follow_id": 120,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1CvW6sUFwDPW9yAAyuTN7asgT48stCs6uv",
+			"user_name": "Calibur",
+			"date_added": 1471545800
+		},
+		{
+			"follow_id": 121,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1Mah3j7GCVjBe6Hro4oJtkSdWBx1QJTMZa",
+			"user_name": "Trickster",
+			"date_added": 1471545816
+		},
+		{
+			"follow_id": 122,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1ByuEoBeryNCZXqRArMfDiAL9bFTqmM5yN",
+			"user_name": "mls",
+			"date_added": 1471545831
+		},
+		{
+			"follow_id": 123,
+			"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
+			"auth_address": "1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9",
+			"user_name": "Shellbound",
+			"date_added": 1471549277
+		},
+		{
+			"follow_id": 124,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ",
+			"user_name": "ulrichard",
+			"date_added": 1471597528
+		},
+		{
+			"follow_id": 125,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1KyG2r8M9z6BRyeQjYZbK89Y4kr6vdqS3g",
+			"user_name": "schmarty",
+			"date_added": 1471597605
+		},
+		{
+			"follow_id": 128,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "13U9mRgV3bdkXiNXjMZeBWTcSHZjgNmk2z",
+			"user_name": "Dios",
+			"date_added": 1471601122
+		},
+		{
+			"follow_id": 129,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1BBCbDdZtZ5ZJGhF2WcMRcn3FEKQ7PaoMS",
+			"user_name": "Drymer",
+			"date_added": 1471601188
+		},
+		{
+			"follow_id": 130,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1CFhytwoGGPNqmueehPqotaf2iG9uxD98e",
+			"user_name": "Method-X",
+			"date_added": 1471610538
+		},
+		{
+			"follow_id": 131,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9",
+			"user_name": "Shellbound",
+			"date_added": 1471668989
+		},
+		{
+			"follow_id": 132,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1J3VwAw3bx4GtxLVwCAztHThWHPJBXSEHz",
+			"user_name": "Nk",
+			"date_added": 1471669325
+		},
+		{
+			"follow_id": 133,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "16FGedWfBJc3mJ2eZ5u8TJUShZbs3tdjmy",
+			"user_name": "Sardaukar",
+			"date_added": 1471669328
+		},
+		{
+			"follow_id": 134,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "17DMySjxJenr5B12nQnPS3CyvPh3CdYWXf",
+			"user_name": "Pericles",
+			"date_added": 1471669337
+		},
+		{
+			"follow_id": 135,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1PMR2eQ1KPiYTpZW94xeY7g1V1rgb3n21K",
+			"user_name": "Haelium",
+			"date_added": 1471669341
+		},
+		{
+			"follow_id": 136,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "13eTQePN4cvnxL9qFurmPFgHRTXMGNNbCy",
+			"user_name": "Spukkin Faceship",
+			"date_added": 1471669348
+		},
+		{
+			"follow_id": 137,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "19JDsMSW9XKbhFcrXFyE82YKSvj2MZG5wK",
+			"user_name": "Toobee",
+			"date_added": 1471669357
+		},
+		{
+			"follow_id": 138,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1397X9v99cAUsRCtCKghaR6qesSTVpFBLg",
+			"user_name": "Denoq",
+			"date_added": 1471675315
+		},
+		{
+			"follow_id": 140,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "18iELxgQf2hpjFuBofjEJyuvVazJt2ekSp",
+			"user_name": "Wrewolf",
+			"date_added": 1471754471
+		},
+		{
+			"follow_id": 142,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "17TX2JoDCPtqsYPN1KMk2LRLRzny31HetJ",
+			"user_name": "CronianIce",
+			"date_added": 1471768915
+		},
+		{
+			"follow_id": 143,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1H5VKNWtkBA7RpJWyYuFw5bqjwbgjXoqKp",
+			"user_name": "Unanimous",
+			"date_added": 1471768946
+		},
+		{
+			"follow_id": 144,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19arYgVKguUamTqtYGu6T9FSUsr19CyEcG",
+			"user_name": "Grez",
+			"date_added": 1471785025
+		},
+		{
+			"follow_id": 145,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb",
+			"user_name": "Bot",
+			"date_added": 1471791305
+		},
+		{
+			"follow_id": 146,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1NbaJh8RrnVZU4VDBxoyUUkDcWHTM6SH7h",
+			"user_name": "rw",
+			"date_added": 1471800492
+		},
+		{
+			"follow_id": 147,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX",
+			"user_name": "Deadjoker",
+			"date_added": 1471800504
+		},
+		{
+			"follow_id": 148,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1FEikAyxCNPJcW996B69r5UFg29yfq579m",
+			"user_name": "Nutomic",
+			"date_added": 1471800526
+		},
+		{
+			"follow_id": 149,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "141n66rbJvyqV99CN73rWiXv5PLgf35Uwy",
+			"user_name": "Unp",
+			"date_added": 1471931653
+		},
+		{
+			"follow_id": 150,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "141n66rbJvyqV99CN73rWiXv5PLgf35Uwy",
+			"user_name": "Unp",
+			"date_added": 1471933046
+		},
+		{
+			"follow_id": 151,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "17TX2JoDCPtqsYPN1KMk2LRLRzny31HetJ",
+			"user_name": "CronianIce",
+			"date_added": 1471936669
+		},
+		{
+			"follow_id": 152,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1JbpzmuMPCg5tQEW8kstHhAtZbckwgXVnR",
+			"user_name": "Jamiek",
+			"date_added": 1471936682
+		},
+		{
+			"follow_id": 153,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "137PNA5gLgCTLZTBtzUqCmMoZ752NQGQSJ",
+			"user_name": "Arsene Lupin",
+			"date_added": 1471936693
+		},
+		{
+			"follow_id": 154,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "18YDBsfhNGBjoPNVnHoetUdFZBcH5pR8xj",
+			"user_name": "The IO monad",
+			"date_added": 1471936745
+		},
+		{
+			"follow_id": 155,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "121woSxfB7K9TSKEpUCaUEqx1C7Cnz4ZBX",
+			"user_name": "NooitAf",
+			"date_added": 1471962300
+		},
+		{
+			"follow_id": 156,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1P7F9po18mshkbRG5zEVV47vHtLEX19QJa",
+			"user_name": "Bashrc",
+			"date_added": 1471968385
+		},
+		{
+			"follow_id": 157,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "18kwsAoxUHVQmB3LwZfNkfpaQ2dzeWsfBV",
+			"user_name": "Syph",
+			"date_added": 1472030547
+		},
+		{
+			"follow_id": 158,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1Hm1mVDJ7fyRnzMsCJKL9b9ifri5BbUW5H",
+			"user_name": "Gonzafirewall",
+			"date_added": 1472066005
+		},
+		{
+			"follow_id": 159,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1F4DKSRBpoHN7ueQvkeM5x4AhfE65v3MN3",
+			"user_name": "Mikhailobv",
+			"date_added": 1472153821
+		},
+		{
+			"follow_id": 160,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "15znkmFgxeY8XM7nXD7JHUxJyR19AX1VKa",
+			"user_name": "a girl has no name",
+			"date_added": 1472207255
+		},
+		{
+			"follow_id": 161,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1DMBWEfQdEaRtsWEwZLY98b9t1ZcoG2ECM",
+			"user_name": "Spaghettidev",
+			"date_added": 1472209370
+		},
+		{
+			"follow_id": 162,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "13TYHUzdFf2JuFtoDD1eTKHppNGcTemkTN",
+			"user_name": "Couldbeworse",
+			"date_added": 1472214365
+		},
+		{
+			"follow_id": 163,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1bVk3cNLfbg3zLF7pS55NW69XMKgGWSsT",
+			"user_name": "Xalaxis",
+			"date_added": 1472214412
+		},
+		{
+			"follow_id": 164,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EN9Ape9Gbe2FAcP8qNWsyvg7x7z92LhA7",
+			"user_name": "Dxtjgxz",
+			"date_added": 1472328139
+		},
+		{
+			"follow_id": 165,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "17tLRGP27CwbmVTe7Hm8BKj8eTP9tXAkoA",
+			"user_name": "Compumatrix",
+			"date_added": 1472328155
+		},
+		{
+			"follow_id": 166,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1KudPGLyiYJoKVJ22wAyBQgKeyLqntkmjz",
+			"user_name": "MCharlesworth",
+			"date_added": 1472664188
+		},
+		{
+			"follow_id": 167,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1PL2Qnxxqpo8wzG6BVwD4kETn6tZHTPTw6",
+			"user_name": "Quinas",
+			"date_added": 1472664190
+		},
+		{
+			"follow_id": 168,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "15VCwBa6ZoKKbDSKjHCazfXo1qR7b7Lb6s",
+			"user_name": "Sephbrand",
+			"date_added": 1472664203
+		},
+		{
+			"follow_id": 169,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1K9cgDWDUcaECPJvidujtdzYRFB3VTXyqV",
+			"user_name": "Seelion",
+			"date_added": 1472664218
+		},
+		{
+			"follow_id": 170,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "161PCrxHPg6RVU2o83863vKy1NoZi59hMq",
+			"user_name": "Forteller",
+			"date_added": 1472796732
+		},
+		{
+			"follow_id": 171,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC",
+			"user_name": "Waterrabbit",
+			"date_added": 1472796860
+		},
+		{
+			"follow_id": 172,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1Pg3bGXNVV9uB2HnirHFU2vaJLvmK77Dox",
+			"user_name": "Ekodjtal",
+			"date_added": 1472796878
+		},
+		{
+			"follow_id": 173,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar",
+			"user_name": "world",
+			"date_added": 1472832748
+		},
+		{
+			"follow_id": 174,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "19CzFY4vCcinZjkuW3Nw4T35AnYuE3cNbP",
+			"user_name": "Montypython",
+			"date_added": 1473080797
+		},
+		{
+			"follow_id": 175,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "14UupgrdnT7Y8vMES7aqUFgD1fC5RYNrh8",
+			"user_name": "Joczo",
+			"date_added": 1473259740
+		},
+		{
+			"follow_id": 176,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1DppgGpJVQoNEtqnDpLFuQzcE9Meif34pw",
+			"user_name": "Swek",
+			"date_added": 1473259771
+		},
+		{
+			"follow_id": 177,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1Exd7U88RdmPk4yfpTjkMQuSo5Jvys3ScJ",
+			"user_name": "Nishita",
+			"date_added": 1473345371
+		},
+		{
+			"follow_id": 178,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1KkA3C1iVDfieotYpuPUCpUtKzdFcfHMRy",
+			"user_name": "cryp7ix",
+			"date_added": 1473410142
+		},
+		{
+			"follow_id": 179,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "16ScAEZDt1u39wfVWZETfogqze3pq8ABMg",
+			"user_name": "StephenStarkie",
+			"date_added": 1473536878
+		},
+		{
+			"follow_id": 180,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "16YP1ZeHrKq3KB3DdBWHec984oQAfVPT9d",
+			"user_name": "Wire",
+			"date_added": 1473604216
+		}
+	]
+}

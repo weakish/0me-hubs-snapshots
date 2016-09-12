@@ -1,0 +1,21 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "Gy/A3B5x1VGn89dRqBanzmibMRDEKVRKA0eV7BQCOtncmO41hTkCIxoUXrV9btfDoiGfz1GusDv1/JjmcWge8JA=",
+ "cert_user_id": "gugenot@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "7bc758e08b9ffb17d8145d357a4be7ccc4c95bfab7561a88529d13639200feea",
+   "size": 1440
+  },
+  "data.json": {
+   "sha512": "890ba639ebba5636c9862b881750e63e62521f49e4fae03cfc2d56d2ff108af9",
+   "size": 412
+  }
+ },
+ "inner_path": "data/users/1Mw5KWZ1jcoXpafcLV4fUgnjuY4kvVNduX/content.json",
+ "modified": 1471435863.961,
+ "signs": {
+  "1Mw5KWZ1jcoXpafcLV4fUgnjuY4kvVNduX": "HC0JsqWFyi+YEjzqfIdBj9/oJ96SkJza5M2LXBvurJ5SgebQpzS2S3yEzK+yO40OIhn/eGDBjuhzXaW3QJ3NbKg="
+ }
+}

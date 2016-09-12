@@ -1,0 +1,21 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "GxHo2LOfIxl5JP6tA/uHBtpoifI6YXBtQeDpqa3wluh7aEpGuC/mbyz8Enij4Jyd5A7DhuVTcJMUOK7XY9GncbY=",
+ "cert_user_id": "drymer@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "926bff5d46d4f516f849433679cd4b8f4800e621949833bac8a85f0ddc1cf7a4",
+   "size": 1170
+  },
+  "data.json": {
+   "sha512": "7ae81e797eacbcd279ba4a22375a2a3a17d69a30516a6867c527220d5bfef8c4",
+   "size": 8046
+  }
+ },
+ "inner_path": "data/users/1BBCbDdZtZ5ZJGhF2WcMRcn3FEKQ7PaoMS/content.json",
+ "modified": 1472840070.739868,
+ "signs": {
+  "1BBCbDdZtZ5ZJGhF2WcMRcn3FEKQ7PaoMS": "G7lBIP5AiBODGGgM0V02WVyqvIfHCLKeBznQZSiRF/V6k98t1nwigl+/6rz5GkbFjJ8AeQh4fKVSdMGYTcRyakg="
+ }
+}
