@@ -1,26 +1,17 @@
 {
-	"next_comment_id": 4,
+	"next_comment_id": 2,
 	"user_name": "ulrichard",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
-	"post_like": {},
+	"post_like": {
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473952536": 1474031562,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1473695005": 1474031613
+	},
 	"comment": [
 		{
 			"comment_id": 1,
 			"body": "I used mpc which is a frontend to mpd (music player daemon). The cool thing is that there are a ton of frontends to mpd (mobile, web, GUI, console)",
 			"post_uri": "15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT_8",
 			"date_added": 1471933684
-		},
-		{
-			"comment_id": 2,
-			"body": "I have used an aquaris for about 20 months so far. It is very pleasant to use. You get used to the web apps, aven if I would prefer native apps. The only thing that really bothers me is that syncing contacts and calendar still has to be performed at the commandline. But I read that the next update should contain a GUI for that.",
-			"post_uri": "1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_1472250516",
-			"date_added": 1472421761
-		},
-		{
-			"comment_id": 3,
-			"body": "@Mynameislegion: I don't use these services, so I don't know. What I do know is that podcasts work well wether downloaded or streamed with the podbird app. With a recent upgrade, some VPN settings were added to the configuration GUI. I don't know how easy it is to install TOR on it. If everything else fails, you can always run stuff in a chroot on the commandline.",
-			"post_uri": "1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_1472250516",
-			"date_added": 1472499969
 		}
 	]
 }

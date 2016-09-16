@@ -1,7 +1,7 @@
 {
-	"next_post_id": 37,
-	"next_comment_id": 135,
-	"next_follow_id": 23,
+	"next_post_id": 43,
+	"next_comment_id": 143,
+	"next_follow_id": 24,
 	"avatar": "png",
 	"user_name": "Talnicrom",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -156,6 +156,36 @@
 			"post_id": 1473431870,
 			"body": "How can mobile users use ZeroNet?  Of course, nobody wants to send their keys to a proxy server!  [I floated an idea](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:3_19M1DT5vruSATEcbEczYRwCk2uPuLcATBa/Ideas+for+improving+the+ZeroNet+mobile+experience) on ZeroTalk if anybody wants to discuss it.  \n\n*Clarification:* I am not looking for a solution for personal use.  I would like to discuss the best way to make it possible for new nontechnical users to access ZeroNet from a (mobile) browser (or app) while retaining local control of their private keys.",
 			"date_added": 1473431834
+		},
+		{
+			"post_id": 1473689881,
+			"body": "@nofish It would be nice if the CryptMessage plugin exposed more Python crypto, like RNG and hash functions, to the ZeroFrame.  ",
+			"date_added": 1473689844
+		},
+		{
+			"post_id": 1473814664,
+			"body": "[This](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/) is a perfect clone of ZeroMe except that 'Hello ZeroMe!' posts (and thus their comments) are not displayed.  I plan to implement hashtag support and user-curated feeds as my free time allows.  (Clone as of Sep 13, 2016.)",
+			"date_added": 1473814626
+		},
+		{
+			"post_id": 1473823013,
+			"body": "[ZeroMe Plus](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/) now has rudimentary hashtag support (as well as hiding 'Hello ZeroMe!' posts).  The Hashtags tab displays posts containing all of the given hashtags.  Posts with a comment that is tagged with a hashtag, but does not contain the hashtag itself are not currently displayed. #ZeroMePlus",
+			"date_added": 1473822974
+		},
+		{
+			"post_id": 1473872816,
+			"body": "[ZeroMe \"Plus\"](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/) now has clickable hashtags!  #ZeroMePlus #ProjectUpdate",
+			"date_added": 1473872776
+		},
+		{
+			"post_id": 1473952536,
+			"body": "[ZeroMe \"Plus\"](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/) now allows you to choose the comment ordering (new to old or old to new) via the three-dot menu in the top right.  #ZeroMePlus",
+			"date_added": 1473952495
+		},
+		{
+			"post_id": 1473992249,
+			"body": "I just had a conversation with someone who said \"I want the government to force me to be moral.\"  I deduce this sentiment from a lot of people I talk to, but I have never had anyone come out and state it before! #facepalm #politics",
+			"date_added": 1473992207
 		}
 	],
 	"post_like": {
@@ -178,7 +208,10 @@
 		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1471991667": 1472045290,
 		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1472394492": 1472396807,
 		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1472462658": 1472476355,
-		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1473590552": 1473612549
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1473590552": 1473612549,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1473695005": 1473717014,
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1473938063": 1473950862,
+		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1473960102": 1473992518
 	},
 	"comment": [
 		{
@@ -672,6 +705,54 @@
 			"body": "@Shellbound: I'm sure what you have in mind could be made very easy to use.  However, I don't think it solves the same problem that I want to solve.",
 			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473431870",
 			"date_added": 1473528817
+		},
+		{
+			"comment_id": 135,
+			"body": "@Nofish: WebCrypto is new to me.  Thanks for the heads up!",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473689881",
+			"date_added": 1473700507
+		},
+		{
+			"comment_id": 136,
+			"body": "@Durand: Thanks!  Good idea.  I made the change you requested.\n\n@nofishes: I did sign and publish the site.  However, it has few peers.  Perhaps if you try again after a bit, it will work for you.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473823013",
+			"date_added": 1473859885
+		},
+		{
+			"comment_id": 137,
+			"body": "@Torrc: If you start a line with a hashtag, markdown interprets the line as a heading.  However, it seems to ignore hashtags that come after the first character.  #markdown #hashtags #zeromeplus",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473823013",
+			"date_added": 1473864254
+		},
+		{
+			"comment_id": 138,
+			"body": "@Durand: Sure!  Check out the hashtag linking :)",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473823013",
+			"date_added": 1473872825
+		},
+		{
+			"comment_id": 139,
+			"body": "I need some help with one little detail.  I do not want the hashtag links to cause a page refresh.  ZeroMe \"Plus\" still publishes all of the coffescript source files.  In utils/Text there is a method fixHtmlLinks which should treat all links starting with ? the same way.  It adds a click handler that returns false.  However, for some reason the hashtag links wind up causing a refresh.  I would be very grateful to hear suggestions on how to fix this! @nofish #help",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473872816",
+			"date_added": 1473873052
+		},
+		{
+			"comment_id": 140,
+			"body": "@Nofish: All right.  Text.fixHtmlLinks was passing window.event to Page.handleLinkClick, so I altered it to pass event.  Now it works properly for me, although I probably broke it for some other folks!",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473872816",
+			"date_added": 1473877878
+		},
+		{
+			"comment_id": 141,
+			"body": "@Durand: Indeed, @nofish is very talented engineering all of this.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473952536",
+			"date_added": 1473992282
+		},
+		{
+			"comment_id": 142,
+			"body": "Sonny Rollins & Thelonious Monk -- \"The way you look tonight\"",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1473960102",
+			"date_added": 1473992679
 		}
 	],
 	"follow": [
@@ -800,6 +881,13 @@
 			"auth_address": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC",
 			"user_name": "Firebox",
 			"date_added": 1473629795
+		},
+		{
+			"follow_id": 23,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ",
+			"user_name": "ulrichard",
+			"date_added": 1473953193
 		}
 	]
 }

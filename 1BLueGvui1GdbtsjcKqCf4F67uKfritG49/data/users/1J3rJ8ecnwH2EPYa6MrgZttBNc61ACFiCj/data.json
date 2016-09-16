@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 36,
+	"next_comment_id": 37,
 	"user_name": "Nofish",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -213,6 +213,12 @@
 			"body": "@weakish: This is works: `\"this is my code: {code}\".format(**locals())` and from Python 3.6 this will also work: `f'this is my code: {code}'`",
 			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1473010008",
 			"date_added": 1473252356
+		},
+		{
+			"comment_id": 36,
+			"body": "Some help:\nhttp://127.0.0.1:43110/blog.zeronetwork.bit/?Post:92:New+version:+0.4.1#Comments",
+			"post_uri": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u_1473713070",
+			"date_added": 1473713406
 		}
 	]
 }

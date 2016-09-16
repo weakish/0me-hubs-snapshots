@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 9,
+	"next_comment_id": 10,
 	"user_name": "Kaffie",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -7,7 +7,8 @@
 		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_11": 1471432704,
 		"1DMBWEfQdEaRtsWEwZLY98b9t1ZcoG2ECM_1472248656": 1472208935,
 		"17gEFavobc7RsKNGbSzZwoSZ6jNB7hT2KN_1472745017": 1472772476,
-		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472766375": 1472789398
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472766375": 1472789398,
+		"1H4xoahmzZ8UNyXLNogcDu39NhNENaEyJk_1473729852": 1473737098
 	},
 	"comment": [
 		{
@@ -57,6 +58,12 @@
 			"body": "@Dxtjgxz: ZeroMe? Or ZeroTalk? I'm unaware of any ZeroMe clones besides my own, the dark theme, and infinity hub. You can find a zerotalk with images here: http://127.0.0.1:43110/1C2JhCunGLtvyX56nQ88tcb87WnXspjWN",
 			"post_uri": "1MzWT1C1LwRZmABNthcryXfsVKxP6Si5Ev_3",
 			"date_added": 1471730846
+		},
+		{
+			"comment_id": 9,
+			"body": "The big issue with zeronet at the moment is that it's *awful* for sharing larger files. IPFS, however, is designed to do just that. That's why people often pair the two. I mean, you could just as well link to imgur or something, but I think most people would agree it's best to keep everything to decentralized services.\n\nYou can technically use IPFS for sites as well, but it's not as good as ZeroNet IMO.",
+			"post_uri": "1H4xoahmzZ8UNyXLNogcDu39NhNENaEyJk_1473729852",
+			"date_added": 1473737096
 		}
 	]
 }

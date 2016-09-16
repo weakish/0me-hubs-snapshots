@@ -1,7 +1,7 @@
 {
-	"next_post_id": 18,
-	"next_comment_id": 70,
-	"next_follow_id": 57,
+	"next_post_id": 19,
+	"next_comment_id": 73,
+	"next_follow_id": 64,
 	"avatar": "jpg",
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -91,6 +91,11 @@
 			"post_id": 1473143437,
 			"body": "【紧急通知】ZeroNet的新版0.4.1已经推送，大幅修正漏洞，大幅优化，所有人应立即升级ZeroNet，[升级方法](http://127.0.0.1:43110/1Nse6WcodQ5Mj6ZwvZvuyCVvQESwuxbCUy/?Topic:10_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ)",
 			"date_added": 1473143420
+		},
+		{
+			"post_id": 1473904568,
+			"body": "好消息！[据报道](http://www.ibtimes.co.uk/zeronet-revolutionary-new-decentralised-p2p-internet-post-edward-snowden-world-1580897)，ZeroNet作者获得[Blue Systems](https://en.wikipedia.org/wiki/Blue_Systems)资助，全职开发ZeroNet。这下子ZeroNet的后续开发就有保证了，不会因为各种原因停滞。Blue Systems是个德国富二代拥有的，专门资助自由软件，是KDE的主要资助者。（天朝的富二代们怎么跟人家差距这么大？）",
+			"date_added": 1473904550
 		}
 	],
 	"post_like": {
@@ -101,7 +106,11 @@
 		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_19": 1471438571,
 		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_25": 1471664564,
 		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1471959669": 1471960109,
-		"1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib_1472845398": 1472881794
+		"1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib_1472845398": 1472881794,
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473814664": 1473872451,
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473823013": 1473872486,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1473695005": 1473872569,
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1473924561": 1473937253
 	},
 	"comment": [
 		{
@@ -517,6 +526,24 @@
 			"body": "长期盗用 INXIAN 的 IP ？什么情况",
 			"post_uri": "13bt9n8uszaJuDD3RKxYU1fJMF36G3dK1U_1473233960",
 			"date_added": 1473266714
+		},
+		{
+			"comment_id": 70,
+			"body": "Congratulations! funded by Blue Systems, you work full time for ZeroNet now?",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1473695005",
+			"date_added": 1473903718
+		},
+		{
+			"comment_id": 71,
+			"body": "现在只有完全版，作者已经表示将来在移动端考虑搞轻量版",
+			"post_uri": "14HCuNUPNauHjToiDN4fQjedc5JPoQdciY_1473771937",
+			"date_added": 1473928218
+		},
+		{
+			"comment_id": 72,
+			"body": "@R3df0x: 富二代吸毒嫖娼就不怕被警察蜀黍请客喝茶？归根到底还是素质不行",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1473904568",
+			"date_added": 1473956171
 		}
 	],
 	"follow": [
@@ -883,6 +910,55 @@
 			"auth_address": "14MrxSzhaSXiFwsAbyhwtipmU3Lh55Xcrr",
 			"user_name": "Mylifewaiting",
 			"date_added": 1473179335
+		},
+		{
+			"follow_id": 57,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS",
+			"user_name": "cnwfjsw",
+			"date_added": 1473904737
+		},
+		{
+			"follow_id": 58,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1BgqiduD5yMiySpgVzw7N9PHvojhFr3zZx",
+			"user_name": "Weirdo",
+			"date_added": 1473937179
+		},
+		{
+			"follow_id": 59,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC",
+			"user_name": "Firebox",
+			"date_added": 1473937291
+		},
+		{
+			"follow_id": 60,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "19X4kuVbyrH3kcMzk3w2hYFMbQXwqxBAiB",
+			"user_name": "Torrc",
+			"date_added": 1473941614
+		},
+		{
+			"follow_id": 61,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF",
+			"user_name": "Woodsfirezyj",
+			"date_added": 1473941631
+		},
+		{
+			"follow_id": 62,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2",
+			"user_name": "Cxgreat2014",
+			"date_added": 1473956878
+		},
+		{
+			"follow_id": 63,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1958F7oCppj78MP966AfojMQwHg2WUupzq",
+			"user_name": "Lmath",
+			"date_added": 1473990784
 		}
 	]
 }

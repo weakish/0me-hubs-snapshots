@@ -1,6 +1,6 @@
 {
 	"next_post_id": 19,
-	"next_comment_id": 27,
+	"next_comment_id": 28,
 	"next_follow_id": 17,
 	"avatar": "jpg",
 	"user_name": "Method-X",
@@ -111,7 +111,8 @@
 		"1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_1472236994": 1472240241,
 		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1472462658": 1472496518,
 		"1CFhytwoGGPNqmueehPqotaf2iG9uxD98e_1472785018": 1472837683,
-		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473296960": 1473300948
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473296960": 1473300948,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1473695005": 1473702823
 	},
 	"comment": [
 		{
@@ -263,6 +264,12 @@
 			"body": "My biggest gripe with x265 right now is Apple's lack of support for it. Apparently the A8 chip in aTV4 has hardware decoding but Apple hasn't enabled it due to licensing issues with the patent holder. I'm really hoping they enable it with a future firmware update once they start pushing 4K videos on iTunes. Fingers crossed!",
 			"post_uri": "1CFhytwoGGPNqmueehPqotaf2iG9uxD98e_1472754600",
 			"date_added": 1472785220
+		},
+		{
+			"comment_id": 27,
+			"body": "@rushka life feed: What does FSB stand for?",
+			"post_uri": "1CFhytwoGGPNqmueehPqotaf2iG9uxD98e_7",
+			"date_added": 1473702741
 		}
 	],
 	"follow": [
@@ -272,13 +279,6 @@
 			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
 			"user_name": "Nofish",
 			"date_added": 1470904268
-		},
-		{
-			"follow_id": 2,
-			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
-			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
-			"user_name": "Kaffie",
-			"date_added": 1470980616
 		},
 		{
 			"follow_id": 3,

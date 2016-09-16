@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 16,
+	"next_comment_id": 19,
 	"user_name": "ks",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {
@@ -10,7 +10,8 @@
 		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1472327766": 1472327862,
 		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1472648595": 1472653792,
 		"1P7F9po18mshkbRG5zEVV47vHtLEX19QJa_1472670143": 1472674424,
-		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1472941763": 1472984982
+		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1472941763": 1472984982,
+		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1473862504": 1473864142
 	},
 	"comment": [
 		{
@@ -102,6 +103,24 @@
 			"body": "Which mesh are you talking about?\nTheoretically an NTP server on hyperboria/cjdns should be able to broadcast time to fc00::/8's broadcast address. And I assume the same would hold for ZeroTier's “Earth” mesh.",
 			"post_uri": "1P7F9po18mshkbRG5zEVV47vHtLEX19QJa_1473502692",
 			"date_added": 1473510142
+		},
+		{
+			"comment_id": 16,
+			"body": "That's right – and it's scary. I found out that Google knows when I start which app, when my phone's screen is blanking (and unblanking). And that's on Cyanogenmod with a minimum (although obviously not minimal enough) of Google installed. 😱",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1473862504",
+			"date_added": 1473864133
+		},
+		{
+			"comment_id": 17,
+			"body": "I've always wondered how wifi-location works, do you know?",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1473862504",
+			"date_added": 1473924475
+		},
+		{
+			"comment_id": 18,
+			"body": "Ah, »The Wi-Fi hotspot database gets filled by correlating mobile device GPS location data with Wi-Fi hotspot MAC addresses.« ⌘ https://en.wikipedia.org/wiki/Wi-Fi_positioning_system",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1473862504",
+			"date_added": 1473925645
 		}
 	]
 }

@@ -1,0 +1,56 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 3,
+	"next_follow_id": 4,
+	"avatar": "generate",
+	"user_name": "Kami",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1473875641,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {
+		"15pULtc5fejthQRkqPpWxpnh5UynyCHaci_1": 1473875696
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Hello!",
+			"post_uri": "176SCacz6V9rJdaVVUzKeZMPgWdH2L6SDc_1",
+			"date_added": 1473879810
+		},
+		{
+			"comment_id": 2,
+			"body": "Hello!",
+			"post_uri": "1FJjx5zQSFrCuat7XgWjbwgewvZaRd4Dtm_1",
+			"date_added": 1473879883
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "176SCacz6V9rJdaVVUzKeZMPgWdH2L6SDc",
+			"user_name": "Soulmate",
+			"date_added": 1473879997
+		},
+		{
+			"follow_id": 2,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1FJjx5zQSFrCuat7XgWjbwgewvZaRd4Dtm",
+			"user_name": "Neokami",
+			"date_added": 1473880219
+		},
+		{
+			"follow_id": 3,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "15pULtc5fejthQRkqPpWxpnh5UynyCHaci",
+			"user_name": "Kami",
+			"date_added": 1473881701
+		}
+	]
+}

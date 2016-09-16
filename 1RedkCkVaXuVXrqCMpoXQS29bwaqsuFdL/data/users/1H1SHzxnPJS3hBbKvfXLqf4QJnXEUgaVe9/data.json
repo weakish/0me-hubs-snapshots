@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 157,
+	"next_comment_id": 158,
 	"user_name": "Shellbound",
 	"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
 	"post_like": {
@@ -63,7 +63,9 @@
 		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1473180317": 1473285220,
 		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1473443537": 1473457096,
 		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473431870": 1473457142,
-		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1473516628": 1473624855
+		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1473516628": 1473624855,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1473695005": 1473709492,
+		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1473648570": 1473709594
 	},
 	"comment": [
 		{
@@ -1001,6 +1003,12 @@
 			"body": "@Talnicrom: Yeah, perhaps.. I see the biggest obstacle right now is being able to use it on multiple devices. Being able to is something people expect. As Zeronet already pretty much is a server I thought that a way of managing keys could lower the bar... and by assigning different attributes to different keys it could be simplified. Like in the case if you drop or your phone get stolen. Would be nice if you could remotely deny access to your zeronet.",
 			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473431870",
 			"date_added": 1473544537
+		},
+		{
+			"comment_id": 157,
+			"body": "Ok... didn't think those kinda cards where still produced. Last time I saw one must have been around 2000. If it was tested on Windows and worked.. it do sound like a driver issue. Perhaps some 3rd party kernel module. One can find out what modules are enabled by `zcat /proc/config.gz|grep -i pcmcia` or `lsmod`. I am guessing they have already looked at this.",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1473369677",
+			"date_added": 1473795837
 		}
 	]
 }

@@ -1,7 +1,7 @@
 {
-	"next_post_id": 8,
-	"next_comment_id": 8,
-	"next_follow_id": 39,
+	"next_post_id": 11,
+	"next_comment_id": 9,
+	"next_follow_id": 40,
 	"avatar": "jpg",
 	"user_name": "Dergatt",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -40,6 +40,21 @@
 			"post_id": 1473367447,
 			"body": "After hours of troubleshooting why snappy makes two snapshots of my root partition and none of my home partition.\nI found mounting both snaphots subvolumes to the same backup folder isn't the best idea.\nNext time I'm messing arround with my fstab I will do it not tired. :)",
 			"date_added": 1473367440
+		},
+		{
+			"post_id": 1473696447,
+			"body": "come on Debian fix the nfs-server startup issue on rasbian. It's just so annoying.",
+			"date_added": 1473696439
+		},
+		{
+			"post_id": 1473700622,
+			"body": "We had a Blackout earlier today and now the Internet isn't working properly any more, only all the tech Sites are online non of regular internet.\nLooks like only ipv6 is working, time to do some testing.\nYea no ipv4 connectivity but ipv6 according to http://ipv6-test.com\nIt's amazing how many ipv6 checking sites don't support ipv6 lookup.",
+			"date_added": 1473700613
+		},
+		{
+			"post_id": 1473931392,
+			"body": "Still no proper free WLAN in Germany, at least no compensation must be paid.\nhttp://curia.europa.eu/jcms/upload/docs/application/pdf/2016-09/cp160099en.pdf",
+			"date_added": 1473931382
 		}
 	],
 	"post_like": {},
@@ -85,6 +100,12 @@
 			"body": "Firefox and Chromium if I need to use flash.",
 			"post_uri": "16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_1473389086",
 			"date_added": 1473444547
+		},
+		{
+			"comment_id": 8,
+			"body": "and back online, what about ipv6 support for zeronet :)",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1473700622",
+			"date_added": 1473702152
 		}
 	],
 	"follow": [
@@ -339,6 +360,13 @@
 			"auth_address": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331",
 			"user_name": "Andrewm",
 			"date_added": 1473448334
+		},
+		{
+			"follow_id": 39,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "16YP1ZeHrKq3KB3DdBWHec984oQAfVPT9d",
+			"user_name": "Wire",
+			"date_added": 1473804487
 		}
 	]
 }

@@ -1,6 +1,6 @@
 {
-	"next_post_id": 8,
-	"next_comment_id": 2,
+	"next_post_id": 11,
+	"next_comment_id": 3,
 	"next_follow_id": 8,
 	"avatar": "generate",
 	"user_name": "Firebox",
@@ -36,15 +36,38 @@
 			"post_id": 1473590552,
 			"body": "http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V\nNow the big file streaming script is checking the hash of the big, reassembled file in a Web Worker.\n\nI tested it against a 200MB file. When the hash of the big file was being checked, the web page still responded to scrolling and video seeking.\n\nThough it is not necessary to check the hash of the reassembled file, I worked out a way to use Web Workers in ZeroNet's `iframe` without running into any cross origin errors.\n\nIf a cross origin error causes `new Worker(\"async-hash.js\");` and `importScripts('asmcrypto.js');` to fail, putting the content of the script into a `blob:` URL can bypass this error.",
 			"date_added": 1473590545
+		},
+		{
+			"post_id": 1473749368,
+			"body": "Do pictures work?\n![Picture](/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/files/sora_op_mp4/poster.png)\n\n[Picture](/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/files/sora_op_mp4/poster.png)\n\n[`Click to view image`](/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/files/sora_op_mp4/poster.png)\n\nNo...... for security reasons.",
+			"date_added": 1473749360
+		},
+		{
+			"post_id": 1473924561,
+			"body": "http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V\n\nThe MP4 multiplexer, written completely in JavaScript, is finally live on my website!\n\nIf you are using Firefox, you can **play any video on that page as you are buffering it**.\n\nYou can't believe the amount of code I wrote.",
+			"date_added": 1473924552
+		},
+		{
+			"post_id": 1473938063,
+			"body": "I am going to write some docs on my JavaScript projects, the file downloading script and the MP4 multiplexer. However, they do not have very beautiful **names**. Any suggestions on how they should be called?\n\n    ZeroChunks     mp4fragment.js\n    ZeroBytes      mp4mux.js\n    ZeroBigFile    ZeroMux",
+			"date_added": 1473938053
 		}
 	],
-	"post_like": {},
+	"post_like": {
+		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1473873962": 1473903452
+	},
 	"comment": [
 		{
 			"comment_id": 1,
 			"body": "@Nofish: I agree. Using `_top` works best in most browsers.",
 			"post_uri": "1CFhytwoGGPNqmueehPqotaf2iG9uxD98e_1472785018",
 			"date_added": 1473001531
+		},
+		{
+			"comment_id": 2,
+			"body": "It works.",
+			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1473873962",
+			"date_added": 1473903516
 		}
 	],
 	"follow": [

@@ -1,0 +1,69 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 6,
+	"next_follow_id": 5,
+	"avatar": "jpg",
+	"user_name": "Yggdrasil",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Not so random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1473862850,
+			"body": "After Liking your own messages you can follow yourself"
+		}
+	],
+	"post_like": {
+		"1Cr2SgATZjCjWZDxJMza2pf9PsHmTgGs8L_1": 1473937233,
+		"15PtZD9Kp5RjNK5agQsfxA1vNmuMDxCUya_1473937508": 1473937529
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": ">ZeroMe\n:D",
+			"post_uri": "15PtZD9Kp5RjNK5agQsfxA1vNmuMDxCUya_1473937508",
+			"date_added": 1473937542
+		},
+		{
+			"comment_id": 2,
+			"body": "Yeah but not everyone on ZeroNet is on ZeroMe ;) (we are going to need a chat on ZeroMe)\n",
+			"post_uri": "15PtZD9Kp5RjNK5agQsfxA1vNmuMDxCUya_1473937508",
+			"date_added": 1473937720
+		},
+		{
+			"comment_id": 4,
+			"body": "@tkarita:  Is that a fork of zero irc ? Or just an instance?",
+			"post_uri": "15PtZD9Kp5RjNK5agQsfxA1vNmuMDxCUya_1473937508",
+			"date_added": 1473937976
+		},
+		{
+			"comment_id": 5,
+			"body": "Ici",
+			"post_uri": "15Eaist1YffBfCkpZ1iRb69v1h1C15cYgU_1473942348",
+			"date_added": 1473944159
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1473863936
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib",
+			"user_name": "megfault",
+			"date_added": 1473864323
+		},
+		{
+			"follow_id": 4,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1Cr2SgATZjCjWZDxJMza2pf9PsHmTgGs8L",
+			"user_name": "Yggdrasil",
+			"date_added": 1473864478
+		}
+	]
+}

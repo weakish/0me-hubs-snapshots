@@ -1,0 +1,32 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Vs",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1473723861,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1473724981,
+			"body": "has anyone been so far even as decided to do look more like?",
+			"date_added": 1473724979
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1GkHVtHui5kyrqNLUUisar5ka26jTBQ18J",
+			"user_name": "Vs",
+			"date_added": 1473724963
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "GxgxKfM3DQXgNyxR8BbocefhRbWt1KL1aMUQ2mvic+T6t+FUVjKJE4EYYdBNYm09jw+eCb7Zg3MTQ4cHMfnXyl8=",
+ "cert_user_id": "weirdo@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "9bacb028fc6a826335b2fb718b08a6eba0c11671a7f47a2a4c47da196a387767",
+   "size": 1112
+  },
+  "data.json": {
+   "sha512": "aa45ff062ac6589f3d5440012f989bac677aee53298532b74cdd3e95ae00f92d",
+   "size": 2541
+  }
+ },
+ "inner_path": "data/users/1BgqiduD5yMiySpgVzw7N9PHvojhFr3zZx/content.json",
+ "modified": 1473950809.3,
+ "signs": {
+  "1BgqiduD5yMiySpgVzw7N9PHvojhFr3zZx": "G+AFu/yYiMiEun3fkh/jB6wAvhGCNGqkj/8q/iPk98T5aHtsPVODi/w4VmmHHpfVSPa2k+lad2ND+ZzPCWwp5OM="
+ }
+}

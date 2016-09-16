@@ -1,7 +1,7 @@
 {
 	"next_post_id": 17,
-	"next_comment_id": 36,
-	"next_follow_id": 125,
+	"next_comment_id": 37,
+	"next_follow_id": 126,
 	"avatar": "generate",
 	"user_name": "Shellbound",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -302,6 +302,12 @@
 			"body": "@TeddyDD: I prefer using only what I need and no more.. The only difference is really the configurability. In a gui you can only use what the gui provide.. sort of limiting. It is usually also slower and takes more resources. I totally get why one would want to use OBS but for my needs it is definitively over-kill. It would be like buying sand in Sahara. ;)",
 			"post_uri": "1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9_1473145025",
 			"date_added": 1473521373
+		},
+		{
+			"comment_id": 36,
+			"body": "I mostly just stream nowadays.. I don't really listen to music much any longer. So streaming or for that matter radio covers my need plentiful. If I get time over I rather listen on a documentary or read something. If I would be in to music more I would probably go with MPD and some sort of front-end for it.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1473736063",
+			"date_added": 1473766270
 		}
 	],
 	"follow": [
@@ -1158,6 +1164,13 @@
 			"auth_address": "1GNdkBSxTw6SpRdGHxDCyfANXnwi7FG7rJ",
 			"user_name": "TeddyDD",
 			"date_added": 1473545303
+		},
+		{
+			"follow_id": 125,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u",
+			"user_name": "Lola",
+			"date_added": 1473716572
 		}
 	]
 }

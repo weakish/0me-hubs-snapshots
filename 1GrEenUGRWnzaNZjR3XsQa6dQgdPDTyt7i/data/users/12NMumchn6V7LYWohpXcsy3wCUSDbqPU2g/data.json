@@ -1,6 +1,6 @@
 {
-	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_post_id": 4,
+	"next_comment_id": 2,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "PowerOlive",
@@ -11,6 +11,16 @@
 			"post_id": 1,
 			"date_added": 1472213658,
 			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1473928575,
+			"body": "test",
+			"date_added": 1473928573
+		},
+		{
+			"post_id": 1473928584,
+			"body": "good day",
+			"date_added": 1473928581
 		}
 	],
 	"post_like": {},

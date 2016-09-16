@@ -1,6 +1,6 @@
 {
-	"next_post_id": 16,
-	"next_comment_id": 86,
+	"next_post_id": 17,
+	"next_comment_id": 92,
 	"next_follow_id": 27,
 	"avatar": "png",
 	"user_name": "Nofish",
@@ -76,6 +76,11 @@
 			"post_id": 1472462658,
 			"body": "Changes in ZeroMe:\n - Now you can use markdown in comments\n - Highlight usernames in posts\n - Ignore comments/users/activities registered in the future\n - Unfollow post on delete\n - Long posts/comments will be limited by \"Read more\" button\n - Avoid publish failed errors when using third-party id provider",
 			"date_added": 1472462643
+		},
+		{
+			"post_id": 1473695005,
+			"body": "Interview @ International Business Times:\nhttp://www.ibtimes.co.uk/zeronet-revolutionary-new-decentralised-p2p-internet-post-edward-snowden-world-1580897",
+			"date_added": 1473694989
 		}
 	],
 	"post_like": {
@@ -581,6 +586,42 @@
 			"body": "Because of the sandboxed iframe enviroment target=\"_blank\" is not working for every links (eg youtube), so target=\"_top\" is recommended for every zeronet links",
 			"post_uri": "1CFhytwoGGPNqmueehPqotaf2iG9uxD98e_1472785018",
 			"date_added": 1472925663
+		},
+		{
+			"comment_id": 86,
+			"body": "It could be possible, but webcrypto provides many features: https://github.com/diafygi/webcrypto-examples",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473689881",
+			"date_added": 1473695312
+		},
+		{
+			"comment_id": 87,
+			"body": "No cross-site linking allowed (it would allow the poster to silently force your client to download and seed a new site). Image uploading could be possible by optional files in the future.",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1473749368",
+			"date_added": 1473765130
+		},
+		{
+			"comment_id": 88,
+			"body": "@Sirenyc: Spam protection has been added to zeroboard, whats the message you want to submit and the error you got? File validating has been disabled in the latest revision. (Rev1521)",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1473695005",
+			"date_added": 1473843431
+		},
+		{
+			"comment_id": 89,
+			"body": "@Sirenyc: Sorry, unable to reproduce, please specify the message you want to submit + check you js console for errors (F12)",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1473695005",
+			"date_added": 1473874315
+		},
+		{
+			"comment_id": 90,
+			"body": "@Talnicrom: Probably there is an error happens onclick event, enable \"Preverse log\" option in the js console and try again",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473872816",
+			"date_added": 1473874429
+		},
+		{
+			"comment_id": 91,
+			"body": "@P2P: Yeah something like that",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1473695005",
+			"date_added": 1474017587
 		}
 	],
 	"follow": [

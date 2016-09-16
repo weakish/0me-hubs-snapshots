@@ -1,6 +1,6 @@
 {
-	"next_post_id": 24,
-	"next_comment_id": 33,
+	"next_post_id": 29,
+	"next_comment_id": 49,
 	"next_follow_id": 27,
 	"avatar": "png",
 	"user_name": "Userzero",
@@ -121,6 +121,31 @@
 			"post_id": 1473633668,
 			"body": "D.E.P      ZeroTorrent.bit/\n\n\"Content sign failed: invalid private key\". \n\nEl contenido nuevo parece guardarse pero por experiencia propia sé que en el siguiente reinicio va a desaparecer",
 			"date_added": 1473633645
+		},
+		{
+			"post_id": 1473866268,
+			"body": "Actualización Zeronet 0.4.1, Rev1521\n",
+			"date_added": 1473866244
+		},
+		{
+			"post_id": 1473872019,
+			"body": "A la espera de un digno sucesor mejorado de ZeroTorrents.bit, presento mi versión sin las limitaciones del anterior.\nhttp://127.0.0.1:43110/1ArzJQzPVdxdHCZcGjTfD6VAKPdSaSmiu6/?Home",
+			"date_added": 1473871994
+		},
+		{
+			"post_id": 1473963031,
+			"body": "Ya ha surgido alguna copia de UZerotorrents. Me parece perfecto, pero si quieres personalizarla a tu gusto y subir tus propios torrents, cambia las direcciones en index.html sino sale la mia : P\n\nhttp://127.0.0.1:43110/18szrC8my99LwU2Ufkcjef6nbjRymKaGJY/?Home",
+			"date_added": 1473963005
+		},
+		{
+			"post_id": 1473983861,
+			"body": " Zer0Talk en Español está próximo a morir. (¿Cómo les hicieron con un tamaño tan pequeño? No lo entiendo)\n",
+			"date_added": 1473983834
+		},
+		{
+			"post_id": 1474029173,
+			"body": "Otro sitio web de torrents que ha caido : TorrentHound\nhttp://www.omicrono.com/2016/09/cierre-de-torrenthound/",
+			"date_added": 1474029145
 		}
 	],
 	"post_like": {
@@ -318,6 +343,102 @@
 			"body": "Sólo me sale desde: \nhttp://127.0.0.1:43110/15Hiyn7U2C24K6j7xwWer8Z2TtcAxXgauR/Home\nY pone:   content.json download failed",
 			"post_uri": "18EjLHTadBR6ci3XRWyMfsGeWVtXTR8xx_1473492029",
 			"date_added": 1473524940
+		},
+		{
+			"comment_id": 33,
+			"body": "Gracias por las sugerencias, pero mis conocimientos son bastante límitados. Intenté hacer una tabla completa con un montón de información a rellenar ( tamaño, calidad, bitrate, codec, publicador, nº de páginas, autor...) y esta información no era visible despues de completarla. Otras pruebas también fallaron...\nEs un clon de Zerotorrents sin limitaciones pero básico, mi idea es incentivar su uso o clonación con mejoras por gente que sepa. Prefiero separar este tipo de torrents de los de idiomas, en el que estaré más centrado. El de Unlimited es para que suban otros usuarios yo sólo no le voy a mantener : )",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1473872019",
+			"date_added": 1473879583
+		},
+		{
+			"comment_id": 34,
+			"body": "Categoría Games añadida",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1473872019",
+			"date_added": 1473880553
+		},
+		{
+			"comment_id": 35,
+			"body": "ejjejeje Espero que otros usuarios se piquen y hagan una mejor versión. Sino de momento, para ir tirando, está bien.",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1473872019",
+			"date_added": 1473880658
+		},
+		{
+			"comment_id": 36,
+			"body": "Totalmente de acuerdo",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1473872019",
+			"date_added": 1473881443
+		},
+		{
+			"comment_id": 37,
+			"body": "Actualización Zeronet 0.4.1, Rev1523, Real fix file write confirmation",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1473866268",
+			"date_added": 1473895172
+		},
+		{
+			"comment_id": 38,
+			"body": "You can put an image in \"Torrent description\" (link). Size images take up a lot and have to be controlled. Also, I would have to research how. Regards @Sirenyc: ",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1473872019",
+			"date_added": 1473896957
+		},
+		{
+			"comment_id": 39,
+			"body": "@Sirenyc: Audio is more generic. Audio: music, audiobooks (no pdf), audio courses (no pdf), audio radio ...\nThe problem is: many categories give problems",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1473872019",
+			"date_added": 1473901377
+		},
+		{
+			"comment_id": 40,
+			"body": "Music and Others Category added",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1473872019",
+			"date_added": 1473943222
+		},
+		{
+			"comment_id": 41,
+			"body": " <option id=\"tvepisodes\" value=\"tvepisodes\">TV Episodes</option> sino lo pongo así me dá problemas...A veces parece que los cambios tardan en actualizarse.",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1473872019",
+			"date_added": 1473963689
+		},
+		{
+			"comment_id": 42,
+			"body": "@Rapapobre: Lo cambié a TV pero ahora tus capítulos de Ash vs Evil Dead no aparecen en esta categoría : (",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1473872019",
+			"date_added": 1473968576
+		},
+		{
+			"comment_id": 43,
+			"body": "Intenté cambiarlos yo pero no sé si la he \"liao\"",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1473872019",
+			"date_added": 1473969261
+		},
+		{
+			"comment_id": 44,
+			"body": "oo Creo que me lo he cargado ¿Te sale UZerotorrents?",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1473872019",
+			"date_added": 1473969901
+		},
+		{
+			"comment_id": 45,
+			"body": "Ahora va bien. Intenté probar a borrar el comentario de \"This is the future\" desde Atom y se quedaba infinitamente en Loading... (pensaba que podría borrar más facilmente ciertas cosas...)",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1473872019",
+			"date_added": 1473970266
+		},
+		{
+			"comment_id": 46,
+			"body": "@Rapapobre:  :)",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1473872019",
+			"date_added": 1473971670
+		},
+		{
+			"comment_id": 47,
+			"body": "Amigo, lee este Blog:\nhttp://127.0.0.1:43110/1JfpEppAtZJZo3rVZQGjYDpkn2gcwGTJn/?Home\ny cambia las direcciones web, sino te lleva a Uzerotorrent. Saludos",
+			"post_uri": "1FhBaNDUvHMejk1hfkEgiSTWKPZBntBnff_1473965722",
+			"date_added": 1473984009
+		},
+		{
+			"comment_id": 48,
+			"body": "Sí, a eso me refería pero tranquilos, \"morir\" en un sitio donde te puedes clonar infinitamente es irrelevante. ZERONET = CLONACIÓN @Rapapobre: ",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1473983861",
+			"date_added": 1474027778
 		}
 	],
 	"follow": [

@@ -1,8 +1,12 @@
 {
-	"next_comment_id": 4,
+	"next_comment_id": 7,
 	"user_name": "Durand",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"post_like": {},
+	"post_like": {
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473823013": 1473824500,
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473872816": 1473879375,
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473952536": 1473976017
+	},
 	"comment": [
 		{
 			"comment_id": 1,
@@ -21,6 +25,24 @@
 			"body": "Honestly, the moment you expect someone to run their own server on a computer is the moment you lose users. I consider myself to be very technically minded and I think expecting users to have a server always running is absurd. The only reason I have one is because I bought a Pi recently and zeronet works well on it but we shouldn't expect everyone to have to firstly download and app, secondly get a pi, then configure it to work on their network, and then connect to it every time they want to use zeronet. What about when someone is outside their network? They'd have to expose their server to the internet, with all the additional security risks associated. People are tending towards mobile-only solutions. Fewer and fewer people are buying laptops. Where do you expect them to host zeronet? This is not a good strategy.",
 			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473431870",
 			"date_added": 1473519294
+		},
+		{
+			"comment_id": 4,
+			"body": "This is great! Can I request a feature? :) I'd appreciate it if there was an option to default to the \"Everyone\" tab instead of \"Followed users\".",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473823013",
+			"date_added": 1473824564
+		},
+		{
+			"comment_id": 5,
+			"body": "@Talnicrom: It works! Thanks a lot!",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473823013",
+			"date_added": 1473872877
+		},
+		{
+			"comment_id": 6,
+			"body": "This database/client architecture is great. Everyone can upgrade the bits they don't like and everything still works.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473952536",
+			"date_added": 1473976048
 		}
 	]
 }

@@ -1,18 +1,12 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 4,
+	"next_comment_id": 6,
 	"next_follow_id": 2,
 	"avatar": "jpg",
 	"user_name": "Rebelb0y11",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"intro": "Hobbyist Programmer",
-	"post": [
-		{
-			"post_id": 1473301666,
-			"body": "Not that anyone cares, but I'll be working on an image board type site for ZeroNet.",
-			"date_added": 1473301664
-		}
-	],
+	"post": [],
 	"post_like": {},
 	"comment": [
 		{
@@ -32,6 +26,18 @@
 			"body": "@Execin: Hmm. I didn't find this through my various google searches. Thanks. I'll look into it.",
 			"post_uri": "1NhDPqhia3TEmpsa2n6qa7rDv4XLvohRv3_1473301666",
 			"date_added": 1473354099
+		},
+		{
+			"comment_id": 4,
+			"body": "You must not have very high expectations ;)",
+			"post_uri": "1N8Uh9enAydj5GG8nnn2ELfTLLfWCWLSDV_1473910277",
+			"date_added": 1473911839
+		},
+		{
+			"comment_id": 5,
+			"body": "@ulrichard: Hmm. Realized now that sounded wrong. Oh well.",
+			"post_uri": "1N8Uh9enAydj5GG8nnn2ELfTLLfWCWLSDV_1473910277",
+			"date_added": 1473958850
 		}
 	],
 	"follow": []

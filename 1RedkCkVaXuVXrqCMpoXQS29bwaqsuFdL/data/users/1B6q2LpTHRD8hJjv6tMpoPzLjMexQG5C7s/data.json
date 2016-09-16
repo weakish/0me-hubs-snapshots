@@ -1,0 +1,32 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Iluso",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1474005725,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1474006672,
+			"body": "Quien apago la luz?",
+			"date_added": 1474006670
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "15ySnmVuP2xGCWGxfbDdpjQxajSndfkmyL",
+			"user_name": "ku4rt4m",
+			"date_added": 1474006909
+		}
+	]
+}

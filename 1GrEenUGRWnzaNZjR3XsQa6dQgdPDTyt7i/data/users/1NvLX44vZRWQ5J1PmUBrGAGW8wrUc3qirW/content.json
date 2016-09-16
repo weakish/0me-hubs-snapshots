@@ -1,0 +1,17 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "HMmjoYhkMzDanU5/Z7lp3obLK6sNDgGGnifTpR5c9NSD24ZD+GmfzrC23XlDsWVm38q8nI6EI4fWC00JBQHo1Dk=",
+ "cert_user_id": "fateshiki@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "cb21e6f727eba514e2d9360a49dee9a04b5d8fa18c430459971fe89bf64ee1b0",
+   "size": 905
+  }
+ },
+ "inner_path": "data/users/1NvLX44vZRWQ5J1PmUBrGAGW8wrUc3qirW/content.json",
+ "modified": 1473732229.765,
+ "signs": {
+  "1NvLX44vZRWQ5J1PmUBrGAGW8wrUc3qirW": "HKhBXNZIqInCPsAXeTPhkC8wsaXvXR42wxck8YgLu1ieumtchNm8shaUinEdObSWf+UEPvqNxNoFv7IiZ1qozWQ="
+ }
+}

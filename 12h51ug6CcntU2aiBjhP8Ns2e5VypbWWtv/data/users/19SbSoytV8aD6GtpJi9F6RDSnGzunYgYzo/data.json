@@ -1,12 +1,14 @@
 {
-	"next_comment_id": 4,
+	"next_comment_id": 6,
 	"user_name": "Johnhamelink",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
 		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_17": 1471145878,
 		"16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331_2": 1471222675,
 		"1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_2": 1471230004,
-		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_22": 1471521337
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_22": 1471521337,
+		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1473685203": 1473686442,
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1473736063": 1473812001
 	},
 	"comment": [
 		{
@@ -26,6 +28,18 @@
 			"body": "I hear what you're saying. It's much easier to be happy if you are ignorant or dumb - you are neither and that's a weight as well as a gift. But its important to remember that there's no point in giving up as well! If all we are able to do is survive then we might as well, right? You're a coder - analyse your life and try to itemize what's wrong with it. Allow yourself to fail, and then try and fix things one by one. I guess that's all the advice I have :)",
 			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472888474",
 			"date_added": 1472930568
+		},
+		{
+			"comment_id": 4,
+			"body": "Preach",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1473685203",
+			"date_added": 1473686454
+		},
+		{
+			"comment_id": 5,
+			"body": "I use the following:\n - Mopidy (a python-based music player which is wire-compatible with MPD)\n - Beets (a python-based music organisation and tagging system)\n - Mopidy's spotify plugins (one for playing, one for browsing).\n - ncmpcpp\n",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1473736063",
+			"date_added": 1473812080
 		}
 	]
 }

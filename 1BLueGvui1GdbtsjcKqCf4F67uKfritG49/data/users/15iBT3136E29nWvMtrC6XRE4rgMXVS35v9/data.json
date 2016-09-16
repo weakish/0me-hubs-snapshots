@@ -1,0 +1,45 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 4,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "Stef20",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1473800474,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1473801181,
+			"body": "I test a image with the markdown code:\n\n![](https://lut.im/U0cA5kYbAe/gRnl6TjwlVkZzWGQ.jpg)",
+			"date_added": 1473801179
+		}
+	],
+	"post_like": {
+		"19dSnqd1GpiMTnuiD4n1tPasyKTDfNSFyz_1473774961": 1473800593
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "I don't like it me me too. I'm new here and I don't like the site post this message without ask before... I imagine in the future when we will have very much more users, this will look same the spam...",
+			"post_uri": "19dSnqd1GpiMTnuiD4n1tPasyKTDfNSFyz_1473774961",
+			"date_added": 1473801033
+		},
+		{
+			"comment_id": 2,
+			"body": "Look not work :-(",
+			"post_uri": "15iBT3136E29nWvMtrC6XRE4rgMXVS35v9_1473801181",
+			"date_added": 1473801200
+		},
+		{
+			"comment_id": 3,
+			"body": "Who know if it's posible post a image here? ",
+			"post_uri": "15iBT3136E29nWvMtrC6XRE4rgMXVS35v9_1473801181",
+			"date_added": 1473801334
+		}
+	],
+	"follow": []
+}

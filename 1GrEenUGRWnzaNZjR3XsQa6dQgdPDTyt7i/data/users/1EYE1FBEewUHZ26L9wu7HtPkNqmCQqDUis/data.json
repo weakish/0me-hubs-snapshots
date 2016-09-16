@@ -1,0 +1,44 @@
+{
+	"next_post_id": 4,
+	"next_comment_id": 1,
+	"next_follow_id": 3,
+	"avatar": "generate",
+	"user_name": "Cybertechpunzer",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1473819965,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1473820062,
+			"body": "![image alt](https://i.ytimg.com/vi/t9CXmEUwvgM/maxresdefault.jpg)",
+			"date_added": 1473820060
+		},
+		{
+			"post_id": 1473820085,
+			"body": "https://i.ytimg.com/vi/t9CXmEUwvgM/maxresdefault.jpg",
+			"date_added": 1473820082
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1LRYRj9kQ6s4fQPbk3hx97u8SNRujcDq86",
+			"user_name": "Momoc",
+			"date_added": 1473819976
+		},
+		{
+			"follow_id": 2,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1MWNe9Ek4KRBDdMTCbfRWMtAvrEULtFsyH",
+			"user_name": "Bittahmadman",
+			"date_added": 1473819978
+		}
+	]
+}

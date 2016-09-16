@@ -1,6 +1,6 @@
 {
-	"next_post_id": 42,
-	"next_comment_id": 66,
+	"next_post_id": 44,
+	"next_comment_id": 70,
 	"next_follow_id": 28,
 	"avatar": "jpg",
 	"user_name": "Kaffie",
@@ -186,6 +186,16 @@
 			"post_id": 1472888474,
 			"body": "I'm pretty close to saying fuck it all. Why bother? Everything's fucked. Why pretend it's not?",
 			"date_added": 1472888433
+		},
+		{
+			"post_id": 1473736063,
+			"body": "Every time I go digging into music software and databases, I always start off forgetting that they all suck, and always end up working on my python music app because I'm so frustrated with them all. No good players, no good taggers, no good dbs. It's just frustrating.\n\nCompare that to something like TV shows, which have huge databases, solid software to tag/id/play/etc, and tons of other stuff. How come music stuff has to suck so much?",
+			"date_added": 1473736021
+		},
+		{
+			"post_id": 1473940856,
+			"body": "Why does Apple consistently make iTunes *worse*? They've gone and removed all the aesthetic things that kept me using iTunes in the first place. At this rate, I'll probably switch players (if I can find one).",
+			"date_added": 1473940813
 		}
 	],
 	"post_like": {
@@ -594,6 +604,30 @@
 			"body": "Any chance of getting ZeroNet on it?",
 			"post_uri": "1P7F9po18mshkbRG5zEVV47vHtLEX19QJa_1473329369",
 			"date_added": 1473373714
+		},
+		{
+			"comment_id": 66,
+			"body": "@Sirenyc: Haven't updated the index for a while. Sorry.\n\n@Shellbound: Unfortunately most of the music I listen to isn't available for streaming on 'normal' services (spotify/google/tidal/etc). A few borderline illegal chinese services have some though :P.\n\n@TeddyDD: MusicBrainz is one of those things that I like (it's a pretty solid system/software) but it's incredibly lacking in info and has no easy way of submitting my hundreds of tagged songs that aren't in the DB.\n\n@Lain: It's already *technically* usable. It's pretty slow though, and lacks a lot of features I want to put in it. Right now it's a streamer/downloader for two popular chinese music sites: Xiami and Netease Music. Here's some screenshots:\n\n[artist page](https://ipfs.pics/ipfs/QmWDSYSh2cEzUpnyLD4cPSWHcrVbNyg398JgbySeirb72x) - Grabs all the albums available, along with last.fm and musicbrainz data. Similar artists shown at the top there.\n\n[search results](https://ipfs.pics/ipfs/QmaM7XN67F2kpzRaveyKTQ7hqGXPRySacoPGKoE5nsKGJ5) - Pretty straight forward. Shows the search results of whatever you're looking for.\n\n[Album page+playing queued songs](https://ipfs.pics/ipfs/QmaicZJuVkMJgqQEZseVJY8uVp7kjKutqeUqMiQNrtSSF4) - Shows the tracks from both services, along with a variety of play/queue/download buttons. Has options to directly download a track or to download the whole album. The app automatically tags mp3s, and sorts into `artist/album/track.mp3`. Lyrics are obtained if available.\n\nI keep feeling like I should shift it over to QT or something, rather than have it a webapp. Since managing the queue and such is getting clunky (I redirect to a new player page, with an iframe of the viewed page, and then manage URL state directly). I use flask at the moment, which is why I'm getting a bit of lag between pages switches (has to load content from two different chinese sites, then manage the data, maybe grab more content, etc.). The downloading isn't perfect yet (no downloads from netease), the merging is still a mess. And there's no easy way to manage your catalogue. No importing/uploads/whatever, as it's just a stream+download tool at the moment. I want to throw in a thing to log the data viewed into a database of some sort. Initially I thought maybe sending that to a hosted DB somewhere would work, but I want users to have access to it, and to not have the DB swarmed. I made a crawler for Xiami, but I haven't written stuff for logging just yet. I've mostly just worked on it off/on for the past while now. Xiami changed things up mid-dev, so I had to spend a lot of time fixing it. And netease seems to constantly shift their cdn stuff, which makes it keep breaking.\n\n@Icf20: Looks like that's just ripping from youtube. Won't work for my purposes.\n\n@Johnhamelink: I've seen beets, and it seems like it grabs from the usual sources :\\\\. I haven't seen the mopidy stuff though. I'll have to look into it.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1473736063",
+			"date_added": 1473831418
+		},
+		{
+			"comment_id": 67,
+			"body": "@Yggdrasil: I don't like vlc or spotify. The only other player I've remotely liked is MediaMonkey when I was back on windows. Oh well. Such is life.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1473940856",
+			"date_added": 1473943952
+		},
+		{
+			"comment_id": 68,
+			"body": "@Lain: There's no reason why you wouldn't be able to grab mp3s/track info from ZeroNet. As I said, right now it's a bit messy. I haven't standardized a 'source plugin' thing yet, so I'm just coding it by hand. Once that's done, I should be able to write a plugin for *any* music source that provides a few basic features (search, grab albums by artist, grab tracks by album, etc.) I was actually wondering if I could implement it with IPFS/ZeroNet, so that when people listen to tracks and dl info, it automatically adds it to zn/ipfs so that it's accessible even without the 3rd party sites. But as I said, I don't really have a plan yet for migrating away from these sites (and they've screwed things up in the past).",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1473736063",
+			"date_added": 1473975113
+		},
+		{
+			"comment_id": 69,
+			"body": "@Yggdrasil: Nope. I just tried it. Drives me absolutely insane. No art for 99% of the views, the artist names don't show properly and just results in garbage text, no way to properly sort genre->album or artist->album. Tracks aren't numbered. Has obnoxious list views. Most of the app is whitespace.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1473940856",
+			"date_added": 1474005707
 		}
 	],
 	"follow": [

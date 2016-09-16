@@ -1,0 +1,32 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Freechina",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1473729505,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1473729890,
+			"body": "这里似乎只能发文字内容？",
+			"date_added": 1473729888
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1BvbtVtk6L9DV9fPdLpHkX3H3Vb7M91rgF",
+			"user_name": "pimgeek",
+			"date_added": 1473729661
+		}
+	]
+}
