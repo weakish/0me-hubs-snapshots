@@ -1,7 +1,7 @@
 {
-	"next_post_id": 26,
-	"next_comment_id": 20,
-	"next_follow_id": 83,
+	"next_post_id": 28,
+	"next_comment_id": 21,
+	"next_follow_id": 89,
 	"avatar": "png",
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -131,6 +131,16 @@
 			"post_id": 1474033883,
 			"body": "There are currently 18 ZeroMe hubs (excluding empty hubs with no registered user). And I am seeding 5.  via [zerome-crawler](https://weakish.github.io/zerome-crawler/)",
 			"date_added": 1474033858
+		},
+		{
+			"post_id": 1474102085,
+			"body": "An ugly workaround of TypeScript's structural typing:\n\n```typescript\ntype Kind1P = \"1p\";\ntype Kind2P = \"2p\";\ntype KindHUStrNum = \"string | number\";\n\nfunction f(x: number) {\n    return x;\n}\nfunction g(x: number, y: number) {\n    return x + y;\n}\n\nlet no_f: (x: number, y: number, kind: Kind2P) => number;\nfunction wrap_g(x: number, y: number, kind: KInd2P = \"2p\") {\n    return g(x, y);\n}\nno_f = wrap_g;\n\nfunction higher(\n        f: (x: string | number, kind: K1P, kindH: KUStrNum) => string,\n        y: string | number\n        ) {\n\tconsole.log(`calling ${f}`);\n\treturn f(y);\n}\n\nfunction sub(x: number): string {\n\treturn `${x * x}`;\n}\n// higher will not accept `sub`!\n```",
+			"date_added": 1474102059
+		},
+		{
+			"post_id": 1474456716,
+			"body": "All my todos are on wunderlist, which is down now. And I can hardly remember what to do. If wunderlist is implemented as a ZeroSite ...",
+			"date_added": 1474456689
 		}
 	],
 	"post_like": {
@@ -263,6 +273,12 @@
 			"body": "For example,  `golang/go`, not `google/go`, but `microsoft/typescript`.",
 			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1474007802",
 			"date_added": 1474033626
+		},
+		{
+			"comment_id": 20,
+			"body": "Not a surprise. After all they are providing SSL certs, which are by no means distributed. Blockchain could deprecate centred SSL certs.",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1474453770",
+			"date_added": 1474455481
 		}
 	],
 	"follow": [
@@ -804,6 +820,48 @@
 			"auth_address": "1DjUq8hd2jYZgc5uNhQEtWUVZjMHkMQkpU",
 			"user_name": "Alek",
 			"date_added": 1474034880
+		},
+		{
+			"follow_id": 83,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1NZ4LvZqg61LxtRfEr5Y46KRhYCzWRnqck",
+			"user_name": "Gallium",
+			"date_added": 1474101000
+		},
+		{
+			"follow_id": 84,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1NZ4LvZqg61LxtRfEr5Y46KRhYCzWRnqck",
+			"user_name": "Gallium",
+			"date_added": 1474102106
+		},
+		{
+			"follow_id": 85,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA",
+			"user_name": "P2pwave",
+			"date_added": 1474102116
+		},
+		{
+			"follow_id": 86,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "13Mt8T2256Uz4GHk9B4XvKqyz37wPgA26q",
+			"user_name": "Dadda",
+			"date_added": 1474102120
+		},
+		{
+			"follow_id": 87,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1JonCWijFbp7FP2HKYDUic3CoWkBcVwmc8",
+			"user_name": "Dgsi",
+			"date_added": 1474456409
+		},
+		{
+			"follow_id": 88,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "16w7UuJAHbt8YBa8zxHS7UFk9mq8Q5DpE4",
+			"user_name": "Kopykate",
+			"date_added": 1474456701
 		}
 	]
 }

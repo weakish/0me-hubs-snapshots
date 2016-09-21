@@ -1,8 +1,8 @@
 {
-	"next_post_id": 3,
-	"next_comment_id": 7,
+	"next_post_id": 4,
+	"next_comment_id": 10,
 	"next_follow_id": 1,
-	"avatar": "generate",
+	"avatar": "png",
 	"user_name": "Joczo",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"intro": "SuperUser",
@@ -16,13 +16,23 @@
 			"post_id": 1473247523,
 			"body": "<font color = \"red\"><font size = \"7\">Will this shit work?</font>",
 			"date_added": 1473247521
+		},
+		{
+			"post_id": 1474283061,
+			"body": "Vannak itt magyar felhasználók? :D\n(just asked if there are any hungarian users here)",
+			"date_added": 1474283058
 		}
 	],
 	"post_like": {
 		"1NLKyC1Eq7gZeRKZ6oPN45wMWorx9yFWUW_1473226563": 1473247385,
 		"17nrdrMeoWYaXSMX4mgSje5i4UviaoSxUT_1473253305": 1473256499,
 		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1473258675": 1473258991,
-		"1Bm7ophv2BE85AqV1Sx9B3LMKzCioyzj25_1473259986": 1473261430
+		"1Bm7ophv2BE85AqV1Sx9B3LMKzCioyzj25_1473259986": 1473261430,
+		"15ySnmVuP2xGCWGxfbDdpjQxajSndfkmyL_1474001652": 1474283986,
+		"19dSnqd1GpiMTnuiD4n1tPasyKTDfNSFyz_1473774961": 1474284749,
+		"1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP_1473773488": 1474284823,
+		"1NLKyC1Eq7gZeRKZ6oPN45wMWorx9yFWUW_1473570700": 1474285192,
+		"1M29UgKTUcDsSHafheTS2W8Ec9RZiNMvRk_1473443056": 1474285389
 	},
 	"comment": [
 		{
@@ -60,6 +70,24 @@
 			"body": "@ks: Thanks!I like experimenting,cloning is too eazy :) But now I see that the domains aren't free here also...than it's alright as I'm just playing :D",
 			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1473258675",
 			"date_added": 1473261820
+		},
+		{
+			"comment_id": 7,
+			"body": "cool.you know what would be awesome?try to create a tracker(i mean announce) on zeronet :D",
+			"post_uri": "1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP_1473773488",
+			"date_added": 1474284890
+		},
+		{
+			"comment_id": 8,
+			"body": "you know what is amazing?in hungary I still don't have fucking ipv6 address,from 3 different isp's (@ home,@ my grandma,etc.nowhere)",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1473700622",
+			"date_added": 1474285085
+		},
+		{
+			"comment_id": 9,
+			"body": "hmm,good to know",
+			"post_uri": "1NLKyC1Eq7gZeRKZ6oPN45wMWorx9yFWUW_1473570700",
+			"date_added": 1474285199
 		}
 	],
 	"follow": []

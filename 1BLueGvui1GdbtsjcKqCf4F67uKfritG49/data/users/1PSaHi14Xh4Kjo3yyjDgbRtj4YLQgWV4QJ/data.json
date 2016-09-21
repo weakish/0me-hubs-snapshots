@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 3,
+	"next_comment_id": 5,
 	"user_name": "Ulrichard",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -20,6 +20,18 @@
 			"body": "definitely firefox, and variations of it like icecat,  abrowser on trisquel, iceweasel on debian. After the issue with the binary blob last year, I keep usage of chromium to a minimum. The only thing still missing in firefox is FIDO U2FA.",
 			"post_uri": "16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_1473389086",
 			"date_added": 1473413333
+		},
+		{
+			"comment_id": 3,
+			"body": "I'm using LUKS. Never had a problem so far. ",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1474280641",
+			"date_added": 1474281923
+		},
+		{
+			"comment_id": 4,
+			"body": "@Shellbound: From sid it's usually two weeks to testing. Lots of people run their machines with rolling testing. And lots of distros are based on debian testing.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1474385882",
+			"date_added": 1474395377
 		}
 	]
 }

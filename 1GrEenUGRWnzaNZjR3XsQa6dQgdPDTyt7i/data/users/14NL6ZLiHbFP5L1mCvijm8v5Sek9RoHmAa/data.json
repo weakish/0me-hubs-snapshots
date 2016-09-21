@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_comment_id": 4,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Burner154",
@@ -14,6 +14,25 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "It would be good to see more games release on FLOSS with a GPL2/GPL3/MIT license. The more freedom a gaming community has, the better the outcome.",
+			"post_uri": "1BnARwgVMDo7qcCx6zQvtdHd3mn9SWjXTQ_1474056254",
+			"date_added": 1474061353
+		},
+		{
+			"comment_id": 2,
+			"body": "Funding is nearly always the problem",
+			"post_uri": "1BnARwgVMDo7qcCx6zQvtdHd3mn9SWjXTQ_1474056254",
+			"date_added": 1474066184
+		},
+		{
+			"comment_id": 3,
+			"body": "There are certainly games like that, but the amount of time people can put into games when they still have to work for their living is extremely limited, and quite often they lose focus/drive or the technology with which they're working becomes obsolete. Crowd sourced games are difficult for that reason, but there are a few examples of it working out. I guess, in the end, it depends on what the developer's end-goal is. Are they more driven by the openness of the game, or making a living from their passion?",
+			"post_uri": "1BnARwgVMDo7qcCx6zQvtdHd3mn9SWjXTQ_1474056254",
+			"date_added": 1474116874
+		}
+	],
 	"follow": []
 }

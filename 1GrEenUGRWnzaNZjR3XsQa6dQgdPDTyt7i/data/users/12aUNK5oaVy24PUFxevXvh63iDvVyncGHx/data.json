@@ -1,6 +1,6 @@
 {
-	"next_post_id": 4,
-	"next_comment_id": 6,
+	"next_post_id": 6,
+	"next_comment_id": 8,
 	"next_follow_id": 7,
 	"avatar": "jpg",
 	"user_name": "Durand",
@@ -21,6 +21,16 @@
 			"post_id": 1473207573,
 			"body": "Does anyone else have this problem when deleting a site?\n\n>Internal error: AttributeError: 'Site' object has no attribute 'site'\n> UiWebsocket.py line 99 > UiWebsocket.py line 176 > UiWebsocket.py line 668 > Site.py line 934",
 			"date_added": 1473207570
+		},
+		{
+			"post_id": 1474082877,
+			"body": "Finally watched Zootropolis tonight. Disney totally nailed this one! :D",
+			"date_added": 1474082873
+		},
+		{
+			"post_id": 1474451991,
+			"body": "Anyone got any suggestions on how to embed disqus-like comments on a zeronet site? My comments need to be accessible via a clearnet site and via zeronet.",
+			"date_added": 1474451986
 		}
 	],
 	"post_like": {
@@ -56,6 +66,18 @@
 			"body": "Try this clone on ZeroMe: [ZeroMePlus](/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/)",
 			"post_uri": "19X4kuVbyrH3kcMzk3w2hYFMbQXwqxBAiB_1473788388",
 			"date_added": 1473824713
+		},
+		{
+			"comment_id": 6,
+			"body": "Doesn't have to be open unless you're publishing your own website.",
+			"post_uri": "17tpqoZw9eG2MQq6C3CVZ9MVxJxLTtCPZC_1474403269",
+			"date_added": 1474418486
+		},
+		{
+			"comment_id": 7,
+			"body": "@Kopykate: yeah, that's the reason it doesn't work. JS security :/ I guess there's no way to break out of the iframe either. ",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1474451991",
+			"date_added": 1474453865
 		}
 	],
 	"follow": [

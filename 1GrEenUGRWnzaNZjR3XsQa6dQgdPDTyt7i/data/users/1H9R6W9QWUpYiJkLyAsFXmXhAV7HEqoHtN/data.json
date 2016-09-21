@@ -1,12 +1,14 @@
 {
-	"next_comment_id": 5,
+	"next_comment_id": 7,
 	"user_name": "Flyman",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {
 		"12i4LiZ39NxcYtsf36aTWJzcpzw4KFUCJy_1473464578": 1473495507,
 		"1LioorsH1XNAMTpN1VbMpmpjJWUoUHLqni_1473457191": 1473495533,
 		"156HySyXH37jFXXqKCwVq8HqsrZLZzy8Qx_1473618168": 1473618908,
-		"1AXUhguKsZefXojRXgqFG7KpjeCN1ui3PY_1474006825": 1474013488
+		"1AXUhguKsZefXojRXgqFG7KpjeCN1ui3PY_1474006825": 1474013488,
+		"156HySyXH37jFXXqKCwVq8HqsrZLZzy8Qx_1473638159": 1474139696,
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1474187738": 1474188111
 	},
 	"comment": [
 		{
@@ -26,6 +28,18 @@
 			"body": "Bring it on! Go for it! Unleash your fury!",
 			"post_uri": "1AXUhguKsZefXojRXgqFG7KpjeCN1ui3PY_1474006825",
 			"date_added": 1474013486
+		},
+		{
+			"comment_id": 5,
+			"body": "\"Бетонный Занавес: Совок наносит ответный удар\". Зомби апокалипсис фильмы нервно курят в сторонке. :-]",
+			"post_uri": "156HySyXH37jFXXqKCwVq8HqsrZLZzy8Qx_1473638159",
+			"date_added": 1474139893
+		},
+		{
+			"comment_id": 6,
+			"body": "When I started to use ZeroMe, 1st message was created automatically - \"Hello, ZeroMe!\". Every time I tried to delete this 1st message, ZeroMe was saying \"deleting OK\" and I found 1st message is there, but 2nd message is gone! So, try to create 2nd message (just for test), then try to delete 1st one and see what will happen. It may be \"you can not delete 1st message\" bug.",
+			"post_uri": "17H79RMoa99u7sug15s5wXDm3J9ieh6QKH_1474269844",
+			"date_added": 1474270359
 		}
 	]
 }

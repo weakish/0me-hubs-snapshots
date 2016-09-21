@@ -1,7 +1,7 @@
 {
-	"next_post_id": 47,
-	"next_comment_id": 84,
-	"next_follow_id": 189,
+	"next_post_id": 50,
+	"next_comment_id": 89,
+	"next_follow_id": 196,
 	"avatar": "jpg",
 	"user_name": "ks",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -166,6 +166,21 @@
 			"post_id": 1473701697,
 			"body": "Shameless plug: memx — memoize output from job execution (while preserving stdout, stderr and return code) ⌘ https://github.com/kseistrup/memx #python",
 			"date_added": 1473701651
+		},
+		{
+			"post_id": 1474052706,
+			"body": "Ease Division 3 (Downbeat Grooves from Tranquil Shores) [Full Compilation] ⌘ https://youtu.be/7GS9aWcPCEY ♫ #electronica",
+			"date_added": 1474052659
+		},
+		{
+			"post_id": 1474202360,
+			"body": "http://trumpdonald.org/",
+			"date_added": 1474202312
+		},
+		{
+			"post_id": 1474385882,
+			"body": "Bash 4.4 is already in the bureaucrat's dream, Debian. WTF, Arch?",
+			"date_added": 1474385833
 		}
 	],
 	"post_like": {
@@ -188,7 +203,8 @@
 		"16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_1472758469": 1472758830,
 		"1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u_1473209651": 1473432849,
 		"13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1473700622": 1473702384,
-		"15ySnmVuP2xGCWGxfbDdpjQxajSndfkmyL_1474001652": 1474017213
+		"15ySnmVuP2xGCWGxfbDdpjQxajSndfkmyL_1474001652": 1474017213,
+		"13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1474052316": 1474052601
 	},
 	"comment": [
 		{
@@ -688,6 +704,36 @@
 			"body": "@Meidan: sometimes I mix up French and Hebrew (possibly because I'm equally poor at both) — e.g. savon and sabon.",
 			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1473955700",
 			"date_added": 1473959181
+		},
+		{
+			"comment_id": 84,
+			"body": "@Meidan: I'm glad I'm not alone.",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1473955700",
+			"date_added": 1474043789
+		},
+		{
+			"comment_id": 85,
+			"body": "It's the silence before the storm!",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1474300739",
+			"date_added": 1474307651
+		},
+		{
+			"comment_id": 86,
+			"body": "There's also https://nuetzlich.net/gocryptfs/ (haven't tried it, though).",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1474280641",
+			"date_added": 1474307750
+		},
+		{
+			"comment_id": 87,
+			"body": "@Shellbound: ArchLinux is traditionally an OS with the latest versions of all software, while Debian usually lags behind, version wise, because of its bureaucratic processes.\nBash 4.4 has recently been released and it already appears in Debian, while 4.3.46 is still the default version in ArchLinux. This is a situation that rarely happens.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1474385882",
+			"date_added": 1474391771
+		},
+		{
+			"comment_id": 88,
+			"body": "But at least bash has been flagged out-of-date in Arch.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1474385882",
+			"date_added": 1474393975
 		}
 	],
 	"follow": [
@@ -1187,13 +1233,6 @@
 			"auth_address": "1C1gnFcVv9J9kUjF4odDMRYcEWVPJbbqFp",
 			"user_name": "Davidnelband",
 			"date_added": 1471109894
-		},
-		{
-			"follow_id": 75,
-			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
-			"auth_address": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ",
-			"user_name": "P2P",
-			"date_added": 1471110258
 		},
 		{
 			"follow_id": 76,
@@ -1936,6 +1975,55 @@
 			"auth_address": "15ySnmVuP2xGCWGxfbDdpjQxajSndfkmyL",
 			"user_name": "ku4rt4m",
 			"date_added": 1474017207
+		},
+		{
+			"follow_id": 189,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf",
+			"user_name": "Nippletwister",
+			"date_added": 1474134197
+		},
+		{
+			"follow_id": 190,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1G22SgXJtdx9D6BfvXgjknD57Mi1wjnZX3",
+			"user_name": "Pabloa",
+			"date_added": 1474403362
+		},
+		{
+			"follow_id": 191,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "17tpqoZw9eG2MQq6C3CVZ9MVxJxLTtCPZC",
+			"user_name": "0face",
+			"date_added": 1474404051
+		},
+		{
+			"follow_id": 192,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1G22SgXJtdx9D6BfvXgjknD57Mi1wjnZX3",
+			"user_name": "Pablo Arroyo",
+			"date_added": 1474404063
+		},
+		{
+			"follow_id": 193,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "19rk3ktkoBozUXDEpVHjUNoJNGCnsbzPra",
+			"user_name": "2cute4programming",
+			"date_added": 1474439271
+		},
+		{
+			"follow_id": 194,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1ACc4pa2pJam33SkSE1zF1seF3LQKWR24v",
+			"user_name": "Punkcoder",
+			"date_added": 1474439280
+		},
+		{
+			"follow_id": 195,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "18beSNdJR8vMJsxt1o4fttTq55VdB58RjB",
+			"user_name": "Anocisco",
+			"date_added": 1474439343
 		}
 	]
 }

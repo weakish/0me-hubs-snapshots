@@ -1,0 +1,54 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 4,
+	"next_follow_id": 3,
+	"avatar": "generate",
+	"comment_order": 0,
+	"user_name": "Planteater",
+	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1474253449,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Icf20: What do you mean when you say that bitcoin makes restitution impossible?  There is no axiom that restitution must be implemented on the blockchain. ",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1474186161",
+			"date_added": 1474254380
+		},
+		{
+			"comment_id": 2,
+			"body": "@Icf20: (and @ulrichard:)  Any reasonable legal system should solve the problem of restitution.  For some reason, you are insisting on restitution *in kind* with Bitcoin.  If a thief steals your watch and destroys it, restitution in kind is certainly not possible.  Are we to say that stealing and destroying is a different crime somehow than stealing and using?  In both cases, the criminal is obligated to make it up to you according to some agreement that you, the criminal, and the courts eventually reach.  If the criminal pays for the watch in gold, is restitution not accomplished?  \n\nI like the idea of property claims on a blockchain.  However, it seems there is a chicken-and-egg problem.  The mechanics of signing over property to someone else are trivial once the property is on the blockchain.  What then is to be mechanism by which property is legitimately added to the blockchain?",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1474186161",
+			"date_added": 1474293169
+		},
+		{
+			"comment_id": 3,
+			"body": "@Icf20: \n> there is more, things are not so simple... \nI don't understand this post.  Could you reformulate?  Regarding your other post: it doesn't make sense to say that a bitcoin thief can ignore any compensations imposed by a judge and pretend that the same is not true of a watch thief or someone who stole seven $20s from you.  Anyway, I think that we can all agree that anyone who is deciding to use bitcoin should certainly weigh the risk of theft, user error, volatility, etc. against the gains.  ",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1474186161",
+			"date_added": 1474323925
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ",
+			"user_name": "ulrichard",
+			"date_added": 1474324255
+		},
+		{
+			"follow_id": 2,
+			"hub": "185yXNL48LTZyKfNo6WgyKshtMgcV3mecL",
+			"auth_address": "1JARuoKjvXanUeKyPTXU9cus2jRzi4DZU5",
+			"user_name": "Icf20",
+			"date_added": 1474324259
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 3,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Ristonmedsting",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1474206730,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Maybe , but darknet is the place for not only us.Anyway good luck on this way",
+			"post_uri": "19rk3ktkoBozUXDEpVHjUNoJNGCnsbzPra_1474065050",
+			"date_added": 1474206919
+		},
+		{
+			"comment_id": 2,
+			"body": "Army in Russia consists of stupid commanders , isn't it?",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1474018732",
+			"date_added": 1474207122
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1gfKaL6qL6bWfCs9qdohzRNQrk7nFXpbi",
+			"user_name": "Ristonmedsting",
+			"date_added": 1474207155
+		}
+	]
+}

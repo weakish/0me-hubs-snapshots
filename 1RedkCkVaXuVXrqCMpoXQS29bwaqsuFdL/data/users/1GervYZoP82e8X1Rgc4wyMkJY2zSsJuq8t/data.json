@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 58,
+	"next_comment_id": 60,
 	"user_name": "Tkarita",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {
@@ -57,7 +57,9 @@
 		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1473695005": 1473697173,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1473749368": 1473752805,
 		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1473876371": 1473906655,
-		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1473919146": 1473920635
+		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1473919146": 1473920635,
+		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1474091816": 1474100920,
+		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1474160218": 1474172421
 	},
 	"comment": [
 		{
@@ -389,6 +391,18 @@
 			"body": "haha, 20GB limit",
 			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1473876371",
 			"date_added": 1473906669
+		},
+		{
+			"comment_id": 58,
+			"body": "It's good to have plain HTML links for everything.  The donation address at the bottom could be linked to `bitcoin:1Jug5JKhDfL8RzGkJX2KRuUrSwjYBh3Lzk`, which would load it into a bitcoin client without copy+paste.",
+			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1474091816",
+			"date_added": 1474101450
+		},
+		{
+			"comment_id": 59,
+			"body": "@Mynameislegion: even if names were hidden, ZeroNet would still have to record what was posted by each user.  If you don't want to be linked to a post, you could create a new ID.  You might ask [@userzero](http://127.0.0.1:43110/Mail.ZeroNetwork.bit/?to=userzero) to allow IDs from more sources (for example, [KaffieID](http://127.0.0.1:43110/id.kaffie.bit) or [Nanasi](http://127.0.0.1:43110/16KzwuSAjFnivNimSHuRdPrYd1pNPhuHqN/)).",
+			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1474011667",
+			"date_added": 1474203031
 		}
 	]
 }

@@ -1,0 +1,34 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 2,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Chipster",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1474281265,
+			"body": "Hello everyone!",
+			"date_added": 1474281263
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "I have just tested it and works for me. (Registered, Created new post, Deleted the first one)",
+			"post_uri": "17H79RMoa99u7sug15s5wXDm3J9ieh6QKH_1474269844",
+			"date_added": 1474281374
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "14UupgrdnT7Y8vMES7aqUFgD1fC5RYNrh8",
+			"user_name": "Joczo",
+			"date_added": 1474318707
+		}
+	]
+}

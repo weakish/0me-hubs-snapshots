@@ -1,11 +1,11 @@
 {
 	"next_post_id": 2,
 	"next_comment_id": 1,
-	"next_follow_id": 1,
-	"avatar": "generate",
+	"next_follow_id": 3,
+	"avatar": "png",
 	"user_name": "Xsmith322",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
-	"intro": "Random ZeroNet user",
+	"intro": "Sad ZeroNet user",
 	"post": [
 		{
 			"post_id": 1,
@@ -13,7 +13,9 @@
 			"body": "Hello ZeroMe!"
 		}
 	],
-	"post_like": {},
+	"post_like": {
+		"19rk3ktkoBozUXDEpVHjUNoJNGCnsbzPra_1474065050": 1474081560
+	},
 	"comment": [],
 	"follow": []
 }

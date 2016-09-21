@@ -1,0 +1,31 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 2,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "It's a test!",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Itsrandom ZeroNet User :>",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1474389861,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1474390175,
+			"body": "Is it working?",
+			"date_added": 1474390173
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Zanity: Boop Bleep Bop",
+			"post_uri": "13GU1tjE8NpZocm8bZdSE83BmrbLfydR9V_1474390175",
+			"date_added": 1474390392
+		}
+	],
+	"follow": []
+}

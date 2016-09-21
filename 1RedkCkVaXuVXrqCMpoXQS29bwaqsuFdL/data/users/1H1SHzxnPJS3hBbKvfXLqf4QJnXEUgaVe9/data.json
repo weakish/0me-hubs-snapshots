@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 158,
+	"next_comment_id": 165,
 	"user_name": "Shellbound",
 	"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
 	"post_like": {
@@ -65,7 +65,13 @@
 		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473431870": 1473457142,
 		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1473516628": 1473624855,
 		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1473695005": 1473709492,
-		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1473648570": 1473709594
+		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1473648570": 1473709594,
+		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1474147828": 1474150827,
+		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1473796064": 1474157164,
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474222695": 1474234864,
+		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1474297434": 1474320721,
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474258627": 1474320808,
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474241987": 1474320872
 	},
 	"comment": [
 		{
@@ -1009,6 +1015,48 @@
 			"body": "Ok... didn't think those kinda cards where still produced. Last time I saw one must have been around 2000. If it was tested on Windows and worked.. it do sound like a driver issue. Perhaps some 3rd party kernel module. One can find out what modules are enabled by `zcat /proc/config.gz|grep -i pcmcia` or `lsmod`. I am guessing they have already looked at this.",
 			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1473369677",
 			"date_added": 1473795837
+		},
+		{
+			"comment_id": 158,
+			"body": "So, how is i3 treating you? ",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1474147828",
+			"date_added": 1474151297
+		},
+		{
+			"comment_id": 159,
+			"body": "This is awesome! Have been waiting for this feature a long time. The flow of reading post becomes a lot better this way. Great job!",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473952536",
+			"date_added": 1474152123
+		},
+		{
+			"comment_id": 160,
+			"body": "@Flyman: Is it not \"ethics\" you where looking for? \n\n_\" Morals define personal character, while ethics stress a social system in which those morals are applied. In other words, ethics point to standards or codes of behavior expected by the group to which the individual belongs._\"",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473992249",
+			"date_added": 1474152443
+		},
+		{
+			"comment_id": 161,
+			"body": "You should have a blog where you gather all the improvements plus has",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474222695",
+			"date_added": 1474235023
+		},
+		{
+			"comment_id": 162,
+			"body": "Hey",
+			"post_uri": "1Hdrj4zBgkZPxPKXSUNxeVECqEYxS9buZR_1",
+			"date_added": 1474386764
+		},
+		{
+			"comment_id": 163,
+			"body": "It can be a bit slow to react.. Don't know how long this latency is for others but for me it can be 10-40 seconds.",
+			"post_uri": "1NZ4LvZqg61LxtRfEr5Y46KRhYCzWRnqck_1474323298",
+			"date_added": 1474387261
+		},
+		{
+			"comment_id": 164,
+			"body": "@Lola: I use webtorrent-desktop as recommended and I know others do too... is the latency a webtorrent issue? Maybe you should put up a disclamer that informs people to wait a bit because of the latency?",
+			"post_uri": "1NZ4LvZqg61LxtRfEr5Y46KRhYCzWRnqck_1474323298",
+			"date_added": 1474400564
 		}
 	]
 }

@@ -1,0 +1,21 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "G5R3iUyluJHO4gX9mX4H55peZr+JyDDdsmT5651k3IvT/fRn1IapdgHtyqkLrfF5hiQsEeP768oV5dJcqjZo7Fg=",
+ "cert_user_id": "punkcoder@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "596a2cae52594c55596c69fc08c954194d86a0ecb64c1b08d30d73e68d2e0ee4",
+   "size": 1459
+  },
+  "data.json": {
+   "sha512": "97bee6b9c294cc6adbc76fb6c2b4d51cc46561c1469080856ed5744fade6422b",
+   "size": 1918
+  }
+ },
+ "inner_path": "data/users/1ACc4pa2pJam33SkSE1zF1seF3LQKWR24v/content.json",
+ "modified": 1474387585.173,
+ "signs": {
+  "1ACc4pa2pJam33SkSE1zF1seF3LQKWR24v": "HOmf4rmKQrVtCB+gMQ7TUvf8zwBWLgcYF/bkSl3J2X2QU20P5/IBCrMwiNoPPPhlPiSUKcAAWGz78fPTbZlHVTw="
+ }
+}

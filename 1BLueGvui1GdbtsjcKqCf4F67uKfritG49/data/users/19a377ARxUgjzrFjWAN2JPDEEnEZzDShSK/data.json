@@ -1,7 +1,7 @@
 {
-	"next_post_id": 2,
+	"next_post_id": 3,
 	"next_comment_id": 2,
-	"next_follow_id": 3,
+	"next_follow_id": 4,
 	"avatar": "generate",
 	"user_name": "Ericksoares3",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -11,6 +11,11 @@
 			"post_id": 1,
 			"date_added": 1470964932,
 			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1474236884,
+			"body": "Ground control to major tom... http://127.0.0.1:43110/1FUQPLXHimgCvYHH7v3bJXspJ7bMBUXcEb/?/watch/131/53dd0f7429418b67ad271236e1a23c7dc1e583c9",
+			"date_added": 1474236882
 		}
 	],
 	"post_like": {},
@@ -36,6 +41,13 @@
 			"auth_address": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ",
 			"user_name": "Sirenyc",
 			"date_added": 1473532684
+		},
+		{
+			"follow_id": 3,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u",
+			"user_name": "Lola",
+			"date_added": 1474410349
 		}
 	]
 }

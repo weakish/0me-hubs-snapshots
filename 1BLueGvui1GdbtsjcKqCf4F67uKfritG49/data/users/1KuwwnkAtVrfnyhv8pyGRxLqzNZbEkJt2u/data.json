@@ -1,6 +1,6 @@
 {
 	"next_post_id": 11,
-	"next_comment_id": 21,
+	"next_comment_id": 24,
 	"next_follow_id": 13,
 	"avatar": "jpg",
 	"user_name": "Lola",
@@ -185,6 +185,24 @@
 			"body": "I have actually been really lazy and have done almost nothing.",
 			"post_uri": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u_1473713070",
 			"date_added": 1473792146
+		},
+		{
+			"comment_id": 21,
+			"body": "@ku4rt4m: It is a really simple example of a react application on ZeroNet. Might help some people to get started using their favourite framework. It has been also my first attempt to create a single application page using react. ",
+			"post_uri": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u_1473974641",
+			"date_added": 1474296585
+		},
+		{
+			"comment_id": 22,
+			"body": "@Arsene Lupin: https://github.com/rllola/zeronet-react Yep Sorry I was hoping to have time to write a better documentation before publishing it.",
+			"post_uri": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u_1473974641",
+			"date_added": 1474296641
+		},
+		{
+			"comment_id": 23,
+			"body": "Welcome back ?",
+			"post_uri": "16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_1474339791",
+			"date_added": 1474399126
 		}
 	],
 	"follow": [

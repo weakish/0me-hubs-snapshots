@@ -1,7 +1,7 @@
 {
-	"next_post_id": 19,
-	"next_comment_id": 73,
-	"next_follow_id": 64,
+	"next_post_id": 20,
+	"next_comment_id": 82,
+	"next_follow_id": 67,
 	"avatar": "jpg",
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -94,8 +94,13 @@
 		},
 		{
 			"post_id": 1473904568,
-			"body": "好消息！[据报道](http://www.ibtimes.co.uk/zeronet-revolutionary-new-decentralised-p2p-internet-post-edward-snowden-world-1580897)，ZeroNet作者获得[Blue Systems](https://en.wikipedia.org/wiki/Blue_Systems)资助，全职开发ZeroNet。这下子ZeroNet的后续开发就有保证了，不会因为各种原因停滞。Blue Systems是个德国富二代拥有的，专门资助自由软件，是KDE的主要资助者。（天朝的富二代们怎么跟人家差距这么大？）",
+			"body": "好消息！[据报道](http://www.ibtimes.co.uk/zeronet-revolutionary-new-decentralised-p2p-internet-post-edward-snowden-world-1580897)，并经过[他本人确认](http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Post/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj/1473695005)，ZeroNet作者获得[Blue Systems](https://en.wikipedia.org/wiki/Blue_Systems)资助，全职开发ZeroNet。这下子ZeroNet的后续开发就有保证了，不会因为各种原因停滞。Blue Systems是个德国富二代拥有的，专门资助自由软件，是KDE的主要资助者。（天朝的富二代们怎么跟人家差距这么大？）",
 			"date_added": 1473904550
+		},
+		{
+			"post_id": 1474288021,
+			"body": "ZeroNet作者的Optional files improvements计划，在ZeroMe增加图片分享功能 https://github.com/HelloZeroNet/ZeroNet/issues/584",
+			"date_added": 1474288002
 		}
 	],
 	"post_like": {
@@ -110,7 +115,9 @@
 		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473814664": 1473872451,
 		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473823013": 1473872486,
 		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1473695005": 1473872569,
-		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1473924561": 1473937253
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1473924561": 1473937253,
+		"1HJJEDiEo7ghxbpdDzXHFVv4gtrb53cUAu_5": 1474219785,
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474258627": 1474270443
 	},
 	"comment": [
 		{
@@ -544,6 +551,60 @@
 			"body": "@R3df0x: 富二代吸毒嫖娼就不怕被警察蜀黍请客喝茶？归根到底还是素质不行",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1473904568",
 			"date_added": 1473956171
+		},
+		{
+			"comment_id": 73,
+			"body": "@weakish: 你可以google一下：富二代吸毒嫖娼被抓。如果单单资助ZeroNet有点敏感，但是如果ZeroNet只是资助的众多项目中的一个，就没那么明显。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1473904568",
+			"date_added": 1474035103
+		},
+		{
+			"comment_id": 74,
+			"body": "@Woodsfirezyj: 你好，我应该算是最早的一批中文用户了，那时比较容易抢注到好ID；）",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1473904568",
+			"date_added": 1474036218
+		},
+		{
+			"comment_id": 75,
+			"body": "@Woodsfirezyj: 没记错的话应该是去年3月份",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1473904568",
+			"date_added": 1474042637
+		},
+		{
+			"comment_id": 76,
+			"body": "@狗蛋:  你这属于过河拆桥啊。twister播放视频原理跟绝大多数在线视频zite一样，是webtorrent。twister作者巴西人，现在巴西那个样子，恐怕他没心思开发了",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1473904568",
+			"date_added": 1474043085
+		},
+		{
+			"comment_id": 77,
+			"body": "可以访问Me.ZeroNetwork.bit.no.com这个公共节点来对照是否出问题。可能要翻墙",
+			"post_uri": "1HJJEDiEo7ghxbpdDzXHFVv4gtrb53cUAu_1474114624",
+			"date_added": 1474119383
+		},
+		{
+			"comment_id": 78,
+			"body": "@Maomihz: 不支持二级域名？ GFWtalk.bit.no.com是可以的",
+			"post_uri": "1HJJEDiEo7ghxbpdDzXHFVv4gtrb53cUAu_1474114624",
+			"date_added": 1474218804
+		},
+		{
+			"comment_id": 79,
+			"body": "你说的那个项目感觉就是zeronet的马甲。而且根本没细说怎么域名P2P。zeronet的域名实际上就是namecoin的域名，只不过zeroname把namecoin客户端的作用替代掉了，让用户不需要在本地装namecoin客户端。只要你愿意，你可以把zeronet的Zeroname-local插件启用，就可以直接对接本地namecoin客户端，完全P2P。不过一般情况下没什么必要。",
+			"post_uri": "1L4fuhUB75eAdVbDY9AJ4z2i2dwMho7MV8_1474254477",
+			"date_added": 1474269873
+		},
+		{
+			"comment_id": 80,
+			"body": "@weakish: glad to hear you do snapshot too. but your snapshot span is too long. mine is 10min if my VM is running. you know, rsync snapshot does not eat much disk.",
+			"post_uri": "1NZ4LvZqg61LxtRfEr5Y46KRhYCzWRnqck_2",
+			"date_added": 1474270246
+		},
+		{
+			"comment_id": 81,
+			"body": "THX!",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474258627",
+			"date_added": 1474271060
 		}
 	],
 	"follow": [
@@ -959,6 +1020,27 @@
 			"auth_address": "1958F7oCppj78MP966AfojMQwHg2WUupzq",
 			"user_name": "Lmath",
 			"date_added": 1473990784
+		},
+		{
+			"follow_id": 64,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1FJeHfxM7CuexuTGUftPpSiozhNtoXbdQh",
+			"user_name": "Steven64521",
+			"date_added": 1474119110
+		},
+		{
+			"follow_id": 65,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "17dYC3AMDrEWobVziJJ8pT2jQ8JTk2sH2b",
+			"user_name": "Ysc3839",
+			"date_added": 1474121395
+		},
+		{
+			"follow_id": 66,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1V7usnfmabQXPSNC2zrCpF2ed2jDZaujS",
+			"user_name": "Bingyuhuo",
+			"date_added": 1474271153
 		}
 	]
 }

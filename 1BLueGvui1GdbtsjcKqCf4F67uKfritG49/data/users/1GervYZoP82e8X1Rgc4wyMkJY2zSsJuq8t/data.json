@@ -1,7 +1,7 @@
 {
 	"next_post_id": 34,
-	"next_comment_id": 71,
-	"next_follow_id": 90,
+	"next_comment_id": 72,
+	"next_follow_id": 93,
 	"avatar": "jpg",
 	"user_name": "tkarita",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -559,6 +559,12 @@
 			"body": "@Wire: there was a lot of activity on https://twitter.com/hashtag/torstrike until a few days ago.  The only real effect was an increase in Tor network capacity.",
 			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_1472786160",
 			"date_added": 1473592802
+		},
+		{
+			"comment_id": 71,
+			"body": "ZeroNet works best with small files and json.  General file types frequently cause problems because ZeroNet [doesn't recognize ASCII](https://github.com/HelloZeroNet/ZeroNet/issues/364) and ignores filenames with spaces.  Large files interfere with site loading; above maybe 100MB they aren't transferred reliably.  @waterrabbit has [demonstrated a workaround](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/) for that.",
+			"post_uri": "1ACc4pa2pJam33SkSE1zF1seF3LQKWR24v_1474381515",
+			"date_added": 1474429196
 		}
 	],
 	"follow": [
@@ -1072,6 +1078,27 @@
 			"auth_address": "16YP1ZeHrKq3KB3DdBWHec984oQAfVPT9d",
 			"user_name": "Wire",
 			"date_added": 1473586216
+		},
+		{
+			"follow_id": 90,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "19X4kuVbyrH3kcMzk3w2hYFMbQXwqxBAiB",
+			"user_name": "Torrc",
+			"date_added": 1474375509
+		},
+		{
+			"follow_id": 91,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1ACc4pa2pJam33SkSE1zF1seF3LQKWR24v",
+			"user_name": "Punkcoder",
+			"date_added": 1474427959
+		},
+		{
+			"follow_id": 92,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "16w7UuJAHbt8YBa8zxHS7UFk9mq8Q5DpE4",
+			"user_name": "Kopykate",
+			"date_added": 1474453721
 		}
 	]
 }

@@ -1,6 +1,6 @@
 {
-	"next_post_id": 11,
-	"next_comment_id": 9,
+	"next_post_id": 14,
+	"next_comment_id": 11,
 	"next_follow_id": 40,
 	"avatar": "jpg",
 	"user_name": "Dergatt",
@@ -55,6 +55,21 @@
 			"post_id": 1473931392,
 			"body": "Still no proper free WLAN in Germany, at least no compensation must be paid.\nhttp://curia.europa.eu/jcms/upload/docs/application/pdf/2016-09/cp160099en.pdf",
 			"date_added": 1473931382
+		},
+		{
+			"post_id": 1474052316,
+			"body": "The problem with all new (or old in case of xmpp) messaging apps is to get people using it.",
+			"date_added": 1474052305
+		},
+		{
+			"post_id": 1474280641,
+			"body": "looking for a good way to encrypt my second HDD in my Laptop, ENCFS was crashing on me lately.\neCryptfs seems promising, using it on my home folder and I never had problems so far.",
+			"date_added": 1474280629
+		},
+		{
+			"post_id": 1474355310,
+			"body": "HDD is set up with LUKS, for aoutomount I'm using pam-mounting. Logging in takes a bit longer than with using encfs but no mount issues so far.",
+			"date_added": 1474355297
 		}
 	],
 	"post_like": {},
@@ -106,6 +121,18 @@
 			"body": "and back online, what about ipv6 support for zeronet :)",
 			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1473700622",
 			"date_added": 1473702152
+		},
+		{
+			"comment_id": 9,
+			"body": "@Ulrichard: Yea maybe that's more what I'm looking for. Hole disk seems more useful.\nLet's see if user mounting will work like I want to",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1474280641",
+			"date_added": 1474284701
+		},
+		{
+			"comment_id": 10,
+			"body": "I feel it always takes a day or two till the updates are in Arch. On the other hand never had less problems with updating my packages.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1474385882",
+			"date_added": 1474407648
 		}
 	],
 	"follow": [

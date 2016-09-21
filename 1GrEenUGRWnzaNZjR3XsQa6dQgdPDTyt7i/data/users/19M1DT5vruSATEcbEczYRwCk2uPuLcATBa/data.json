@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 13,
+	"next_comment_id": 16,
 	"user_name": "Talnicrom",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -7,7 +7,8 @@
 		"1H5VKNWtkBA7RpJWyYuFw5bqjwbgjXoqKp_7": 1471799443,
 		"1bVk3cNLfbg3zLF7pS55NW69XMKgGWSsT_1472210935": 1472220635,
 		"1DRGcXbDWjecjtj7cgLUqiyPDTiepVYn8k_1472233858": 1472239967,
-		"1LioorsH1XNAMTpN1VbMpmpjJWUoUHLqni_1473457191": 1473460353
+		"1LioorsH1XNAMTpN1VbMpmpjJWUoUHLqni_1473457191": 1473460353,
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1474187738": 1474211053
 	},
 	"comment": [
 		{
@@ -75,6 +76,24 @@
 			"body": "@علي محمد: Hey, it's a little project of mine to add some features to ZeroMe.  It currently (1) hides 'Hello ZeroMe!\" posts and (2) has a hashtag tab where you can show only posts with a given set of hashtags.  I'm almost done making hashtags that appear in posts clickable, so that when you click, it shows all the other posts with the same hashtag. #ZeroMePlus",
 			"post_uri": "19X4kuVbyrH3kcMzk3w2hYFMbQXwqxBAiB_1473864106",
 			"date_added": 1473871144
+		},
+		{
+			"comment_id": 13,
+			"body": "Posts can be formatted with markdown so starting a post with a hashtag gets interpreted as a heading.  You can end with hashtags all you want.  If you want to search hashtags use [ZeroMe \"Plus\"](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/) instead of ZeroMe.  Not many people are using them though.  #help #hashtags",
+			"post_uri": "1LVjUtcsrqQcsCqdmCnZu2RRYrWtzG7vPG_1474308442",
+			"date_added": 1474314982
+		},
+		{
+			"comment_id": 14,
+			"body": "@Shellbound: Good to know.",
+			"post_uri": "1LVjUtcsrqQcsCqdmCnZu2RRYrWtzG7vPG_1474308442",
+			"date_added": 1474322793
+		},
+		{
+			"comment_id": 15,
+			"body": "I wrote a simple bot a while back (and ran some characters on ZeroMe for a while).  You might be able to optimize it a bit and adapt it to your purposes.  The code is available at [ZeroMods](http://127.0.0.1:43110/1JjHyLeEDidHyyN33Y8f8cQKVEzWCEPnW7/).  Note: it requires my SimpleAPI plugin, also available at ZeroMods. #ZeroMods #bots",
+			"post_uri": "19X4kuVbyrH3kcMzk3w2hYFMbQXwqxBAiB_1474372907",
+			"date_added": 1474380246
 		}
 	]
 }

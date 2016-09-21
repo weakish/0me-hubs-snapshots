@@ -1,21 +1,29 @@
 {
-	"next_comment_id": 2,
+	"next_post_id": 4,
+	"next_comment_id": 1,
+	"next_follow_id": 1,
+	"avatar": "png",
 	"user_name": "Thekiller66",
-	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"post_like": {
-		"1K6HCsJskZENYG42GR7ocJXg9WjFbEq9hc_2": 1471737832,
-		"1HcK5Hw1rPZeYdgTmqJGrVG2tSyR9Ke2Gt_3": 1471917442,
-		"1No62fGfLxbBjQg5GZeYkDyYbJPmLgsvBc_1472330789": 1472356764,
-		"1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP_1473483181": 1473487955,
-		"1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u_1473447908": 1473488002,
-		"1M29UgKTUcDsSHafheTS2W8Ec9RZiNMvRk_1473443056": 1473488035
-	},
-	"comment": [
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Geek en progreso :3",
+	"post": [
 		{
-			"comment_id": 1,
-			"body": "Link? Pls",
-			"post_uri": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u_2",
-			"date_added": 1471463965
+			"post_id": 1,
+			"date_added": 1474328696,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1474425462,
+			"body": "Ey dudes, formatee mi pc y ahora el antiguo ZeroNet no me funciona. Tuve que re-descargar ZeroNet y solo copie el \"users.json\", todo lo demas no me funciona :'v\nComo puedo volver a meter mi blog en mi carpeta nueva de ZN?",
+			"date_added": 1474425460
+		},
+		{
+			"post_id": 1474444073,
+			"body": "Dganme si pueden ingresar: http://127.0.0.1:43110/15Hiyn7U2C24K6j7xwWer8Z2TtcAxXgauR",
+			"date_added": 1474444070
 		}
-	]
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": []
 }

@@ -1,11 +1,11 @@
 {
-	"next_post_id": 43,
-	"next_comment_id": 143,
-	"next_follow_id": 24,
+	"next_post_id": 46,
+	"next_comment_id": 153,
+	"next_follow_id": 25,
 	"avatar": "png",
 	"user_name": "Talnicrom",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
-	"intro": "Be free\n\n[Find mentions of any @username or #hashtag](http://127.0.0.1:43110/1JouSggdhsEZ9tWN5oiQArjdAA8wkCcxuR/)\n[ZeroNet Mods](http://127.0.0.1:43110/1JjHyLeEDidHyyN33Y8f8cQKVEzWCEPnW7/)",
+	"intro": "Be free\n\n[ZeroMe \"Plus\"](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/)\n- Clickable & searchable hashtags\n- Reverse comment order option\n- See a random post\n\n[ZeroNet Mods](http://127.0.0.1:43110/1JjHyLeEDidHyyN33Y8f8cQKVEzWCEPnW7/)\n- Simple API\n- User switcher\n- Default User",
 	"post": [
 		{
 			"post_id": 1,
@@ -119,7 +119,7 @@
 		},
 		{
 			"post_id": 29,
-			"body": "Now that the bots seem to be working all right, I posted an [update to their code](http://127.0.0.1:43110/1JjHyLeEDidHyyN33Y8f8cQKVEzWCEPnW7/RobotPack.0.3.tgz).  I hope it is fairly easy for others to set up.\n\nAlso you can mention them with the phrase \"source code\" and they'll reply with the address of my mods site (or at least they are supposed to do that!).\n\n`#ZeroMeBots`",
+			"body": "Now that the bots seem to be working all right, I posted an [update to their code](http://127.0.0.1:43110/1JjHyLeEDidHyyN33Y8f8cQKVEzWCEPnW7/RobotPack.0.3.tgz).  I hope it is fairly easy for others to set up. #ZeroMeBots\n\nAlso you can mention them with the phrase \"source code\" and they'll reply with the address of my mods site (or at least they are supposed to do that!).",
 			"date_added": 1471717054
 		},
 		{
@@ -129,12 +129,12 @@
 		},
 		{
 			"post_id": 31,
-			"body": "Would somebody post the content of the \"follow\" node under \"sites\": {\"1Me....\", ... in their users.json (please remove your personal info first, if necessary)?  Somehow, mine wasn't populated and I have not been getting my ZeroMe updates on ZeroHello.  Thanks! `#ZeroMeHelp`",
+			"body": "Would somebody post the content of the \"follow\" node under \"sites\": {\"1Me....\", ... in their users.json (please remove your personal info first, if necessary)?  Somehow, mine wasn't populated and I have not been getting my ZeroMe updates on ZeroHello.  Thanks! #ZeroMeHelp",
 			"date_added": 1471885504
 		},
 		{
 			"post_id": 32,
-			"body": "If anyone is interested in creating a ZeroNet marketplace, I set up a [discussion thread](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1_19M1DT5vruSATEcbEczYRwCk2uPuLcATBa/A+ZeroNet+marketplace) over on ZeroTalk. `#ZNMarketplace`",
+			"body": "If anyone is interested in creating a ZeroNet marketplace, I set up a [discussion thread](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1_19M1DT5vruSATEcbEczYRwCk2uPuLcATBa/A+ZeroNet+marketplace) over on ZeroTalk. #ZNMarketplace",
 			"date_added": 1471889126
 		},
 		{
@@ -186,6 +186,21 @@
 			"post_id": 1473992249,
 			"body": "I just had a conversation with someone who said \"I want the government to force me to be moral.\"  I deduce this sentiment from a lot of people I talk to, but I have never had anyone come out and state it before! #facepalm #politics",
 			"date_added": 1473992207
+		},
+		{
+			"post_id": 1474222695,
+			"body": "[ZeroMe \"Plus\"](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/) has a new feature!  You can now view a random post. #ZeroMePlus #ProjectUpdate #NewFeature",
+			"date_added": 1474222652
+		},
+		{
+			"post_id": 1474241987,
+			"body": "[ZeroMe \"Plus\"](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/) hashtag search now searches comments as well.  I must say that I am very impressed by what SQL can do! #ZeroMePlus #ProjectUpdate",
+			"date_added": 1474241943
+		},
+		{
+			"post_id": 1474258627,
+			"body": "Just made a new plugin [MultiuserLocal](http://127.0.0.1:43110/1JjHyLeEDidHyyN33Y8f8cQKVEzWCEPnW7/) (based on @nofish's Multiuser plugin), which makes switching users on your local installation a breeze.  Just load the plugin (after having a quick look at the source code) and add \n\n`\"show_in_multi\": true`\n\nto the user node in users.json for each user you want to see in the user picker.  #ZeroNetPlugins ",
+			"date_added": 1474258582
 		}
 	],
 	"post_like": {
@@ -753,6 +768,66 @@
 			"body": "Sonny Rollins & Thelonious Monk -- \"The way you look tonight\"",
 			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1473960102",
 			"date_added": 1473992679
+		},
+		{
+			"comment_id": 143,
+			"body": "@Flyman: I say morality refers to one's idea of how people ought to treat one another.  It is certainly profitable to spend time learning about theories of morality.  After all, some very brilliant people have written about it over the millennia!  I don't get the sense that people typically use the word \"moral\" as a shorthand to mean the set of those moral concepts that have majority acceptance.  Maybe it is a cultural difference.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473992249",
+			"date_added": 1474034810
+		},
+		{
+			"comment_id": 144,
+			"body": "@Durand: I'm trying to decide on the best way to make it persistent.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473952536",
+			"date_added": 1474128219
+		},
+		{
+			"comment_id": 145,
+			"body": "@Durand: Okay, give it a try now.  ZeroMePlus now adds a node to the user's data.json on their hub specifying the preferred ordering of posts.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473952536",
+			"date_added": 1474133278
+		},
+		{
+			"comment_id": 146,
+			"body": "@Durand: Great!",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473952536",
+			"date_added": 1474139383
+		},
+		{
+			"comment_id": 147,
+			"body": "Would you elaborate what you mean?",
+			"post_uri": "1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf_1474127068",
+			"date_added": 1474146006
+		},
+		{
+			"comment_id": 148,
+			"body": "G'night",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1474147922",
+			"date_added": 1474153514
+		},
+		{
+			"comment_id": 149,
+			"body": "@Shellbound: Good idea.  I'll probably add a page to the site listing the features.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474222695",
+			"date_added": 1474236691
+		},
+		{
+			"comment_id": 150,
+			"body": "@RiotPulv: I played around with SQL when I was a teenager, but did not explore the possibilities it offered.  Just now, I thought it was going to be very difficult to show the posts which have a comment that has a hashtag.  However, I made a query with (more or less) the clause \n\n`WHERE post_uri IN (SELECT ... WHERE lower(body) LIKE '%#tag%')`\n\nThis is a way simpler solution than I was expecting there would be.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474241987",
+			"date_added": 1474256874
+		},
+		{
+			"comment_id": 151,
+			"body": "@P2P: I would be happy to help you out if you try the plugin and have some problems.  (I would also be happy to hear if it works right out of the box!)",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474258627",
+			"date_added": 1474292356
+		},
+		{
+			"comment_id": 152,
+			"body": "@Nippletwister: Why does this require a special token?  Wouldn't posters rather choose their preferred cryptocurrency and then get tips in that?",
+			"post_uri": "1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf_1474127068",
+			"date_added": 1474293840
 		}
 	],
 	"follow": [
@@ -888,6 +963,14 @@
 			"auth_address": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ",
 			"user_name": "ulrichard",
 			"date_added": 1473953193
+		},
+		{
+			"follow_id": 24,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN",
+			"user_name": "Flyman",
+			"date_added": 1474139396
 		}
-	]
+	],
+	"comment_order": 1
 }

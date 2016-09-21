@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 18,
+	"next_comment_id": 19,
 	"user_name": "Mynameislegion",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -119,6 +119,12 @@
 			"body": "\n@Kaffie: okay, I didn't know that with zero net I cannot access it.",
 			"post_uri": "16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_1472346140",
 			"date_added": 1472377946
+		},
+		{
+			"comment_id": 18,
+			"body": "You can use optional files or whole directories of them just look up the wiki, the files will only get downloaded when the visitor accesses them http://127.0.0.1:43110/17Kom2G5qNDc6NaQwv445h1gFzxkY3ZtZe/site_development/content_json/\n\noptional\n\nPreg pattern of optional files\n\nExample: (data/mp4/.*|updater/.*) (everything in data/mp4 and updater directory is optional)",
+			"post_uri": "1ACc4pa2pJam33SkSE1zF1seF3LQKWR24v_1474381515",
+			"date_added": 1474455230
 		}
 	]
 }

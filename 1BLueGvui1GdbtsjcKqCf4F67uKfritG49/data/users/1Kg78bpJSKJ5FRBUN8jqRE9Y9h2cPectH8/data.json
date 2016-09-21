@@ -1,0 +1,34 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 2,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Dankezik",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1474156774,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Redshirtsecurity: ¿What?",
+			"post_uri": "1Kg78bpJSKJ5FRBUN8jqRE9Y9h2cPectH8_1",
+			"date_added": 1474160673
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1Kg78bpJSKJ5FRBUN8jqRE9Y9h2cPectH8",
+			"user_name": "Dankezik",
+			"date_added": 1474156786
+		}
+	]
+}

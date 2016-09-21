@@ -1,11 +1,11 @@
 {
 	"next_post_id": 17,
 	"next_comment_id": 12,
-	"next_follow_id": 62,
+	"next_follow_id": 52,
 	"avatar": "jpg",
 	"user_name": "ulrichard",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
-	"intro": "paragliding, software, bitcoin\n\n[zeroblog](/1EwAh4KUfGgRw1re7uyrmTUWKZYV9SHVcW/)\n[blog](https://ulrichard.ch/blog)\n[paragliding](http://paraeasy.ch)",
+	"intro": "paragliding, software, bitcoin",
 	"post": [
 		{
 			"post_id": 1,
@@ -73,24 +73,23 @@
 			"date_added": 1473692182
 		},
 		{
-			"post_id": 1473862504,
-			"body": "Google's become an obsessive stalker and you can't get a restraining order:\nhttp://www.theregister.co.uk/2016/09/14/google_location_location_location/",
-			"date_added": 1473862490
+			"post_id": 1474186161,
+			"body": "Ready for a laugh? http://www.coindesk.com/upside-internet-defending-bitcoins-downside",
+			"date_added": 1474186147
 		},
 		{
-			"post_id": 1473945868,
-			"body": "BTC bank accounts are coming: \nhttp://www.finews.ch/news/banken/24433-bitcoin-suisse-niklas-nikolajsen-fintech-blockchain",
-			"date_added": 1473945853
+			"post_id": 1474357412,
+			"body": "If You Build A Censorship Machine, They Will Come: \nhttps://www.eff.org/deeplinks/2016/09/if-you-build-censorship-machine-they-will-come",
+			"date_added": 1474357397
 		},
 		{
-			"post_id": 1474007802,
-			"body": "Microsoft Has More Open Source Contributors On GitHub Than Facebook and Google: \nhttps://news.slashdot.org/story/16/09/15/2255241/microsoft-has-more-open-source-contributors-on-github-than-facebook-and-google\nIt is important to note however, that github counts you as a contributor when you just report a bug. \nAdd to that, that it's almost impossible to report any sort of problem on one of the Microsoft sites directly.\nSo maybe it's just because their software is so crappy. And lots of people are still forced to use it.",
-			"date_added": 1474007786
+			"post_id": 1474453770,
+			"body": "Can you imagine: A non profit organization that deals with encryption and digital signatures asks for donations. They accept credit cards and PayPal, but no BitCoins or other crypto currencies. And that is in 2017. If you don't believe that such an organization could exist, check this out: https://letsencrypt.org/donate/",
+			"date_added": 1474453754
 		}
 	],
 	"post_like": {
-		"1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9_1473624391": 1473627496,
-		"19TgPhgpi9U73U9jQWUSspfxy8vbPjUxVT_3": 1473973534
+		"1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9_1473624391": 1473627496
 	},
 	"comment": [
 		{
@@ -131,33 +130,33 @@
 		},
 		{
 			"comment_id": 7,
-			"body": "@ks: I wonder how much data Canonical collects from my ubuntu phone. I hope it's less than Google or Apple, but might still be more than I would like. I'm curious about the upcoming purism phone.",
-			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1473862504",
-			"date_added": 1473879498
+			"body": "@Icf20: So you'd prefer if the seller of your car could go to a corrupt policeman and tell him that he didn't sell it, but you stole it? I don't think giving control to a central entity to edit the history is the solution. One possible solution might be to register the property also on the blockchain. E.g. with a colored coin.",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1474186161",
+			"date_added": 1474290144
 		},
 		{
 			"comment_id": 8,
-			"body": "The GPS only location didn't work for a while at first. They said I should enable the WiFi location service and that it was anonymous and privacy preserving. But they couldn't explain how that could possibly be true.",
-			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1473862504",
-			"date_added": 1473921980
+			"body": "@Icf20: A judge can order the seizure of your income, but a judge can also be wrong. So it is good that there exists some property that nobody can take away from you. In general, people are better off in countries that respect their citizen's property rights. What is the point in saving, if you can't be sure if it's seized in the future?",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1474186161",
+			"date_added": 1474309357
 		},
 		{
 			"comment_id": 9,
-			"body": "@ks: Exactly, and any device that queries that centralized service has an IP address and perhaps other identifying information.\nWould be cool if such a database existed on a distributed system. But then again, these are not so great for mobile use.",
-			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1473862504",
-			"date_added": 1473928276
+			"body": "@Icf20: If the employee and employer are within the jurisdiction of the court, the salary can be rerouted to some arbitrator even if it's BitCoins. There are lots of cases where robbers of diamonds or whatever hide the treasure somewhere to pick up after release from prison. Society generally accepts a certain level of criminal misbehavior, because living in a totalitarian dystopia where everybody snoops at their neighbor would be much worse. Bruce Schneier describes this delicate balance very well in his book \"Liars & Outliers\"",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1474186161",
+			"date_added": 1474358142
 		},
 		{
 			"comment_id": 10,
-			"body": "@Yggdrasil: Sure, I ve had a xapo card since the beta started. But what I'm still missing is an IBAN that I can give to regular people where they can send FIAT, without having to enter some cryptic message into the reference field. This would then be converted on the fly to BTC and sent into an account that I control. I wonder how long that will take to come true.",
-			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1473945868",
-			"date_added": 1473947610
+			"body": "@Icf20: To say the colonists have a better claim on the land of the natives, is like saying the Nazis had a better claim on the Gold of the Jews. And that Erdogan has a better claim on the money of people who favor other politics.",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1474186161",
+			"date_added": 1474358269
 		},
 		{
 			"comment_id": 11,
-			"body": "@Icf20: I also look forward to zcash, but I don't think it is going to replace BTC any time soon. After all, zcash is run by a company and it's pre-mined. But most importantly if you compare BTC to any other crypto currency by usability in the real world, the difference is far bigger than the difference in market cap would suggest.",
-			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1473945868",
-			"date_added": 1474005843
+			"body": "@Icf20: So, to whom would you want to give the golden keys of your backdoor? To the indians or to the colonialists which ruled at the time and had judges?",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1474186161",
+			"date_added": 1474453993
 		}
 	],
 	"follow": [
@@ -486,107 +485,37 @@
 		{
 			"follow_id": 47,
 			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
-			"auth_address": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331",
-			"user_name": "Andrewm",
-			"date_added": 1473863260
+			"auth_address": "1JuUHRJ3A1wy5zgT6c2KviH9cHtq8Zr4X9",
+			"user_name": "Planteater",
+			"date_added": 1474294048
 		},
 		{
 			"follow_id": 48,
 			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-			"auth_address": "1Cr2SgATZjCjWZDxJMza2pf9PsHmTgGs8L",
-			"user_name": "Yggdrasil",
-			"date_added": 1473947841
+			"auth_address": "1G22SgXJtdx9D6BfvXgjknD57Mi1wjnZX3",
+			"user_name": "Pablo Arroyo",
+			"date_added": 1474402408
 		},
 		{
 			"follow_id": 49,
-			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
-			"auth_address": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR",
-			"user_name": "weakish",
-			"date_added": 1473973327
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1ACc4pa2pJam33SkSE1zF1seF3LQKWR24v",
+			"user_name": "Punkcoder",
+			"date_added": 1474439204
 		},
 		{
 			"follow_id": 50,
-			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
-			"auth_address": "1N1AZUiwisp1bgMoH3WSTsPSPD6DXWFpJ9",
-			"user_name": "Gendor",
-			"date_added": 1473973375
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "19rk3ktkoBozUXDEpVHjUNoJNGCnsbzPra",
+			"user_name": "2cute4programming",
+			"date_added": 1474439228
 		},
 		{
 			"follow_id": 51,
-			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
-			"auth_address": "1P7F9po18mshkbRG5zEVV47vHtLEX19QJa",
-			"user_name": "Bashrc",
-			"date_added": 1473973389
-		},
-		{
-			"follow_id": 52,
 			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-			"auth_address": "1KkA3C1iVDfieotYpuPUCpUtKzdFcfHMRy",
-			"user_name": "cryp7ix",
-			"date_added": 1473973422
-		},
-		{
-			"follow_id": 53,
-			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
-			"auth_address": "17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp",
-			"user_name": "Testset",
-			"date_added": 1473973446
-		},
-		{
-			"follow_id": 54,
-			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
-			"auth_address": "1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx",
-			"user_name": "Kindlyfire",
-			"date_added": 1473973453
-		},
-		{
-			"follow_id": 55,
-			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
-			"auth_address": "19TgPhgpi9U73U9jQWUSspfxy8vbPjUxVT",
-			"user_name": "Bobnoise",
-			"date_added": 1473973515
-		},
-		{
-			"follow_id": 56,
-			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
-			"auth_address": "1EizNCr1TBaytrcEFBPrk8yk6eUFgNCC5r",
-			"user_name": "ExeciN",
-			"date_added": 1473973550
-		},
-		{
-			"follow_id": 57,
-			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-			"auth_address": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb",
-			"user_name": "Bot",
-			"date_added": 1473973619
-		},
-		{
-			"follow_id": 58,
-			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-			"auth_address": "1AXUhguKsZefXojRXgqFG7KpjeCN1ui3PY",
-			"user_name": "Funes",
-			"date_added": 1474007867
-		},
-		{
-			"follow_id": 59,
-			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
-			"auth_address": "1BGaNcH1UBqAdatPbT3YssmPRVdhepMNPW",
-			"user_name": "Avatarx",
-			"date_added": 1474007983
-		},
-		{
-			"follow_id": 60,
-			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
-			"auth_address": "1D6Pn4487L8QyFtVSU14nxxtnfEgEs2Ny1",
-			"user_name": "Kickasstorrents",
-			"date_added": 1474017259
-		},
-		{
-			"follow_id": 61,
-			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
-			"auth_address": "15ySnmVuP2xGCWGxfbDdpjQxajSndfkmyL",
-			"user_name": "ku4rt4m",
-			"date_added": 1474017285
+			"auth_address": "16w7UuJAHbt8YBa8zxHS7UFk9mq8Q5DpE4",
+			"user_name": "Kopykate",
+			"date_added": 1474453819
 		}
 	]
 }

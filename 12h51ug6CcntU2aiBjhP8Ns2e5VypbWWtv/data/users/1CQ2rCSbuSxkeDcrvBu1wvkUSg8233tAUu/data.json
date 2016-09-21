@@ -1,0 +1,53 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 5,
+	"avatar": "generate",
+	"user_name": "Thoughtcrime",
+	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1474437964,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1474438004,
+			"body": "Joining all the hubs! If anyone can read this reply back and let me know please!",
+			"date_added": 1474438002
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1KQdzU4Jao1rotQAimhu8Lu9bCgF3DQUjh",
+			"user_name": "Apophis",
+			"date_added": 1474438231
+		},
+		{
+			"follow_id": 2,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "13MUkdCRgz1jXmufWdvJn5qgRrwhrWNYbK",
+			"user_name": "Hego555",
+			"date_added": 1474438235
+		},
+		{
+			"follow_id": 3,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "13j4QwVHfEz5WcmeLZoYeWQ7bY67nCNoRW",
+			"user_name": "Alexavier",
+			"date_added": 1474438236
+		},
+		{
+			"follow_id": 4,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "19eM9ghuUTnRFCyLR4Mnwvki2tRGrnYLTY",
+			"user_name": "Zeroharry",
+			"date_added": 1474438238
+		}
+	]
+}

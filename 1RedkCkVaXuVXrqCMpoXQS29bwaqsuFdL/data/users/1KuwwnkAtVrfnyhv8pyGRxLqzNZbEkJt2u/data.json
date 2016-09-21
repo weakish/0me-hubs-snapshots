@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 5,
+	"next_comment_id": 7,
 	"user_name": "Lola",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {
@@ -10,7 +10,9 @@
 		"12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1473012327": 1473018931,
 		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1473038909": 1473081184,
 		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1473385305": 1473418742,
-		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1473695005": 1473701890
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1473695005": 1473701890,
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1474090632": 1474296745,
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1474383799": 1474399011
 	},
 	"comment": [
 		{
@@ -36,6 +38,18 @@
 			"body": "@Sirenyc @waterrabit : Really interesting work.",
 			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1472727411",
 			"date_added": 1473003276
+		},
+		{
+			"comment_id": 5,
+			"body": "@Ericksoares3: Webtorrent is only using webtorrent network so it cannot see the seeders from KTorrent...",
+			"post_uri": "1NZ4LvZqg61LxtRfEr5Y46KRhYCzWRnqck_1474323298",
+			"date_added": 1474399319
+		},
+		{
+			"comment_id": 6,
+			"body": "Yes, sorry I am going very slowly with this project. Unfortunately people add their videos but don't seed them... It is why you will see 0 peer and sometimes it can take a couple of minutes to find a peer.",
+			"post_uri": "1NZ4LvZqg61LxtRfEr5Y46KRhYCzWRnqck_1474323298",
+			"date_added": 1474399593
 		}
 	]
 }

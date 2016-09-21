@@ -1,6 +1,6 @@
 {
 	"next_post_id": 44,
-	"next_comment_id": 70,
+	"next_comment_id": 74,
 	"next_follow_id": 28,
 	"avatar": "jpg",
 	"user_name": "Kaffie",
@@ -628,6 +628,30 @@
 			"body": "@Yggdrasil: Nope. I just tried it. Drives me absolutely insane. No art for 99% of the views, the artist names don't show properly and just results in garbage text, no way to properly sort genre->album or artist->album. Tracks aren't numbered. Has obnoxious list views. Most of the app is whitespace.",
 			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1473940856",
 			"date_added": 1474005707
+		},
+		{
+			"comment_id": 70,
+			"body": "@Gallium: Mostly I want something clean, and that I can visually distinguish between albums/artists/genres. I need to be able to group by album-artist/artist, genre, and album. I want something that lets me use my own folder structure. Something that can clearly display id3 tag info, and add new ones if need be (this one is hard to do, as the only site I've seen that has info on my music is last.fm, which doesn't provide clean tagging info). And that's pretty much it. Itunes has worked great for this, up until the latest update. It still *works*, but it's become a bit more clunky as they remove the aesthetics.\n\nA dream feature would be a built in streamer for xiami, netease, or other music services that have doujin music on them, as well as a way to easily download and tag these tracks in a high quality (320k).",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1473940856",
+			"date_added": 1474248794
+		},
+		{
+			"comment_id": 71,
+			"body": "@Lain: Kaffiene is/was my first and only attempt at a search engine. I've always shy'd away from content sites, as I find it a pain to keep info updated, and to collect a bunch. But I guess I'm starting to dig into that more and more.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1473736063",
+			"date_added": 1474248851
+		},
+		{
+			"comment_id": 72,
+			"body": "@Sirenyc: Right now they need to be added manually. I've been incredibly lazy on that at the moment, and there's a huge backlog of several hundred sites. Really not sure what I'm going to do about that. I guess I'm gonna have to buckle down and finish my auto-tagger.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1473736063",
+			"date_added": 1474249017
+		},
+		{
+			"comment_id": 73,
+			"body": "@Sirenyc: Yea, but that leads to a bloated site size, lack of quality control, etc. It'd also require a whole overhaul from what I'm doing now. I've considered it though. Might eventually add it.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1473736063",
+			"date_added": 1474257964
 		}
 	],
 	"follow": [

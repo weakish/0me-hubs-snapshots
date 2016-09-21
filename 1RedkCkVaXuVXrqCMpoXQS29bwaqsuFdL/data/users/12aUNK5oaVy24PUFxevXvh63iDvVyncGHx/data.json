@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 7,
+	"next_comment_id": 13,
 	"user_name": "Durand",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {
@@ -43,6 +43,42 @@
 			"body": "This database/client architecture is great. Everyone can upgrade the bits they don't like and everything still works.",
 			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473952536",
 			"date_added": 1473976048
+		},
+		{
+			"comment_id": 7,
+			"body": "For some reason, this setting doesn't stick like the other three. When I refresh the page, it reverts back to the default behaviour :/",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473952536",
+			"date_added": 1474082931
+		},
+		{
+			"comment_id": 8,
+			"body": "@Talnicrom: It woks :) Thanks!",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473952536",
+			"date_added": 1474138134
+		},
+		{
+			"comment_id": 9,
+			"body": "I've almost never seen anything other than 0 peers. I think they're still working on it because the current concept requires people to seed every video with a webtorrent client :/",
+			"post_uri": "1NZ4LvZqg61LxtRfEr5Y46KRhYCzWRnqck_1474323298",
+			"date_added": 1474325114
+		},
+		{
+			"comment_id": 10,
+			"body": "@Ericksoares3: I can see that one but it is a bit slow to download because only you are seeding it. I just noticed that the video doesn't play on ZeroTube but it does on https://instant.io/#53dd0f7429418b67ad271236e1a23c7dc1e583c9",
+			"post_uri": "1NZ4LvZqg61LxtRfEr5Y46KRhYCzWRnqck_1474323298",
+			"date_added": 1474335281
+		},
+		{
+			"comment_id": 11,
+			"body": "@Arsene Lupin: Huh? What server?",
+			"post_uri": "16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7_1474395817",
+			"date_added": 1474418556
+		},
+		{
+			"comment_id": 12,
+			"body": "@Shift: I don't think that's a great idea because it will just create a lot of unrelated spam and since most people on twitter aren't on zeronet, it won't match up anyway.",
+			"post_uri": "16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7_1474395817",
+			"date_added": 1474418622
 		}
 	]
 }

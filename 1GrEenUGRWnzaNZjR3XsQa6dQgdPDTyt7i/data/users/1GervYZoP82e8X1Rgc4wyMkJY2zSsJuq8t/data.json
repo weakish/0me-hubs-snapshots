@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 21,
+	"next_comment_id": 24,
 	"user_name": "tkarita",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {
@@ -17,7 +17,10 @@
 		"1FE7qxxvZDhoyhpadqWNCgT9X96hEQKEYM_1472758933": 1472767792,
 		"1H5VKNWtkBA7RpJWyYuFw5bqjwbgjXoqKp_1472794120": 1472797031,
 		"1NPSKCmjnAeBZY4suepj8HRDB1defQFSTB_1473205062": 1473205450,
-		"16YP1ZeHrKq3KB3DdBWHec984oQAfVPT9d_1": 1473586168
+		"16YP1ZeHrKq3KB3DdBWHec984oQAfVPT9d_1": 1473586168,
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1474187738": 1474195880,
+		"19X4kuVbyrH3kcMzk3w2hYFMbQXwqxBAiB_1474372907": 1474375490,
+		"16w7UuJAHbt8YBa8zxHS7UFk9mq8Q5DpE4_1474452579": 1474453719
 	},
 	"comment": [
 		{
@@ -139,6 +142,24 @@
 			"body": "@Yggdrasil: you could chat in http://127.0.0.1:43110/zeromedia.bit/",
 			"post_uri": "15PtZD9Kp5RjNK5agQsfxA1vNmuMDxCUya_1473937508",
 			"date_added": 1473937822
+		},
+		{
+			"comment_id": 21,
+			"body": "fail :(",
+			"post_uri": "1PbCor9kCtnKaZAPnrxENbcraKtAEq8wA1_1474176681",
+			"date_added": 1474176701
+		},
+		{
+			"comment_id": 22,
+			"body": "[IFTTT](https://en.wikipedia.org/wiki/IFTTT) seems like it could be integrated into ZeroNet relatively easily.  Harder if you want it to react to things outside ZeroNet.  Maybe add it to the [suggestion list](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1_1JgHfDK4eojCkVZHKey9hiMAcAc9mxMUK2/Post+Your+Ideas+For+Apps)?",
+			"post_uri": "19X4kuVbyrH3kcMzk3w2hYFMbQXwqxBAiB_1474372907",
+			"date_added": 1474375482
+		},
+		{
+			"comment_id": 23,
+			"body": "@Durand: there is a Javascript library called [sandblaster](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/js/sandblaster.min.js) that can detect and possibly break out of iframes.",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1474451991",
+			"date_added": 1474454104
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 47,
+	"next_comment_id": 50,
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -51,7 +51,9 @@
 		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473814664": 1474030013,
 		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473823013": 1474030041,
 		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473872816": 1474030251,
-		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473952536": 1474030597
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473952536": 1474030597,
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474241987": 1474454968,
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474258627": 1474455101
 	},
 	"comment": [
 		{
@@ -329,6 +331,24 @@
 			"body": "\"To help you understand this, think about illegal downloading. ... pirated movie\" The example has nothing to do with pirated movie. It could be non pirated movie, or non movie (free software distribution, etc). Sadly media are still use illegal downloading and bittorrent downloading interchangeably.",
 			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1473695005",
 			"date_added": 1474034662
+		},
+		{
+			"comment_id": 47,
+			"body": "Have you click/access `Me.ZeroNetwork.bit/?Create+profile` twice? Only unregistered user can access this url. Registered/existing user click it may override their data. If this assumption is true, you can recover your data from anyone has an old version of ZeroNet/data, i.e. someone takes a snapshot after you posted posts and before you access CreateProfile again, or someone started ZeroNet after you posted posts and shutdown before you access CreateProfile again (and haven't start ZeroNet afterwards). On my machine, there are two snapshots of RedHub 5 days ago and 18 hours ago, on both you just have a single `Hello ZeroMe!` post.\n",
+			"post_uri": "1NZ4LvZqg61LxtRfEr5Y46KRhYCzWRnqck_2",
+			"date_added": 1474101747
+		},
+		{
+			"comment_id": 48,
+			"body": "这 web2web 不就是功能精简的、不成熟的 ZeroNet 嘛",
+			"post_uri": "1L4fuhUB75eAdVbDY9AJ4z2i2dwMho7MV8_1474254477",
+			"date_added": 1474455089
+		},
+		{
+			"comment_id": 49,
+			"body": "@P2P: Currently I only snapshot ZeroMe hubs. I will update my snapshot script to shrink snapshot period.",
+			"post_uri": "1NZ4LvZqg61LxtRfEr5Y46KRhYCzWRnqck_2",
+			"date_added": 1474456203
 		}
 	]
 }

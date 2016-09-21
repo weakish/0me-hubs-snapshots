@@ -1,6 +1,6 @@
 {
-	"next_post_id": 8,
-	"next_comment_id": 9,
+	"next_post_id": 9,
+	"next_comment_id": 12,
 	"next_follow_id": 30,
 	"avatar": "jpg",
 	"user_name": "Idlesong",
@@ -41,9 +41,16 @@
 			"post_id": 7,
 			"body": "这些天用了下gimp（Mac版），发现真的已经很成熟了。现在用开源软件越来越顺手了，不用担心病毒，不需要破解，没有功能限制，体验真的比闭源的要好了。",
 			"date_added": 1471860301
+		},
+		{
+			"post_id": 1474254477,
+			"body": "李笑来老师重点推荐的P2P项目，https://github.com/elendirx/web2web ，感觉是把域名用比特币公开账簿的方式p2p化了，将来似乎可以和zeronet配合。\n",
+			"date_added": 1474254469
 		}
 	],
-	"post_like": {},
+	"post_like": {
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474222695": 1474259859
+	},
 	"comment": [
 		{
 			"comment_id": 1,
@@ -92,6 +99,24 @@
 			"body": "@Nofishes 看戏模式开启",
 			"post_uri": "1L4fuhUB75eAdVbDY9AJ4z2i2dwMho7MV8_6",
 			"date_added": 1470981280
+		},
+		{
+			"comment_id": 9,
+			"body": "@Bingyuhuo: 我也只是简单看了介绍。我理解是现在Zeronames的域名还不完全是P2P的，而利用比特币的区块链技术，可以大家共同维护一个公开的DNS，这样就完全不用域名机构了。",
+			"post_uri": "1L4fuhUB75eAdVbDY9AJ4z2i2dwMho7MV8_1474254477",
+			"date_added": 1474258405
+		},
+		{
+			"comment_id": 10,
+			"body": "@Bingyuhuo: 性能应该还好吧，twister就是用区块链的技术公开维护用户名称等，但它好像帖子也用区块链的技术，所以性能慢点？",
+			"post_uri": "1L4fuhUB75eAdVbDY9AJ4z2i2dwMho7MV8_1474254477",
+			"date_added": 1474261816
+		},
+		{
+			"comment_id": 11,
+			"body": "@Bingyuhuo: 是的，但是参考twister的实现，用区块链技术实现DNS估计没有性能问题。",
+			"post_uri": "1L4fuhUB75eAdVbDY9AJ4z2i2dwMho7MV8_1474254477",
+			"date_added": 1474265948
 		}
 	],
 	"follow": [

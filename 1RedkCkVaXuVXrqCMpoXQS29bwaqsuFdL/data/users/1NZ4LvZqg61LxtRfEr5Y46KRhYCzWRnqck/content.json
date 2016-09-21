@@ -4,14 +4,18 @@
  "cert_sign": "GxmyALgm5v6jmCQouDTONLy5Qb/Q7cfUl6gC7GoUOXW4WVOMC6jbd2L5UWfk+tGhCyzPfaNsuHfpuAVbo6DSOsw=",
  "cert_user_id": "gallium@zeroid.bit",
  "files": {
+  "avatar.png": {
+   "sha512": "12a2e9aa194de118d624fe1f54dcbec9ab15610615bcd28aa1c76962f9499669",
+   "size": 172
+  },
   "data.json": {
-   "sha512": "37e381841ff67d3e9b5d919a2adeffaac942e8477f5d6ec517caf754b82fb3c7",
-   "size": 338
+   "sha512": "caf6ca6abade6910ccd4c17b37f6ea86033d6510dfc7f6cb893e183b33bd6f44",
+   "size": 5128
   }
  },
  "inner_path": "data/users/1NZ4LvZqg61LxtRfEr5Y46KRhYCzWRnqck/content.json",
- "modified": 1471595256.142154,
+ "modified": 1474330074.299819,
  "signs": {
-  "1NZ4LvZqg61LxtRfEr5Y46KRhYCzWRnqck": "HGyDEEGLtYC9tixFMk5oi8wI718LDLcnt/fbqB2/Tfv/TJT8A2e/uisshY5wZ1rEgEDHpHpctt0c+Lu8uFOY3UY="
+  "1NZ4LvZqg61LxtRfEr5Y46KRhYCzWRnqck": "G2N6vtaK1QE0gC0R4UNzKd2aJdCUFimLHuF7KFSy8oC+JUGWPbOwLGc+We9pNhC4qD02LnPlpOfZ1yEmZ6pGMP8="
  }
 }
