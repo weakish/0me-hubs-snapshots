@@ -1,6 +1,6 @@
 {
 	"next_post_id": 6,
-	"next_comment_id": 8,
+	"next_comment_id": 9,
 	"next_follow_id": 7,
 	"avatar": "jpg",
 	"user_name": "Durand",
@@ -78,6 +78,12 @@
 			"body": "@Kopykate: yeah, that's the reason it doesn't work. JS security :/ I guess there's no way to break out of the iframe either. ",
 			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1474451991",
 			"date_added": 1474453865
+		},
+		{
+			"comment_id": 8,
+			"body": "@tkarita: Thanks. I tried it but I still can't get it to unsandbox. The function just returns false... maybe the ZeroFrame API can help",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1474451991",
+			"date_added": 1474459327
 		}
 	],
 	"follow": [

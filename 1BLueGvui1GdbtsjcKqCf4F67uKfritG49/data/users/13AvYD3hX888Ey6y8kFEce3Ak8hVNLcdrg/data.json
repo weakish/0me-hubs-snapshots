@@ -1,6 +1,6 @@
 {
 	"next_post_id": 14,
-	"next_comment_id": 11,
+	"next_comment_id": 12,
 	"next_follow_id": 40,
 	"avatar": "jpg",
 	"user_name": "Dergatt",
@@ -133,6 +133,12 @@
 			"body": "I feel it always takes a day or two till the updates are in Arch. On the other hand never had less problems with updating my packages.",
 			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1474385882",
 			"date_added": 1474407648
+		},
+		{
+			"comment_id": 11,
+			"body": "@weakish: I already see the difference, write performance is up and CPU usage is down.\nEncfs is great for Dropbox like use but not for entire HDD, haven't thought about it since I never had a second HDD before.",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1474355310",
+			"date_added": 1474464526
 		}
 	],
 	"follow": [
