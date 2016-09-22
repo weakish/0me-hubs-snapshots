@@ -1,6 +1,6 @@
 {
 	"next_post_id": 13,
-	"next_comment_id": 105,
+	"next_comment_id": 106,
 	"avatar": "jpg",
 	"user_name": "Kaffie",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -735,6 +735,12 @@
 			"body": "@Heathenman: I made hub.kaffie.bit. Functionality-wise, it doesn't differ from the default hubs. It does have a raised file size limit, so that you aren't limited in how much you can post there. It's also helpful to decentralize the data, which is one of the main reasons there's hubs in the first place. Hubs themselves are all 'merged' into zerome, so that regardless of the hub you made a profile on, you can see posts made on other hubs.",
 			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1472462658",
 			"date_added": 1474501018
+		},
+		{
+			"comment_id": 105,
+			"body": "@Heathenman: Sort of. The list of users is managed by a site owned by nofish. It's another sort of hub. You can't see *posts* if you aren't seeding a hub (such as the 'everyone' section). Nor can you see the profile of a user who's hub you aren't seeding. But in the list of users, everyone should show up, regardless of hub.",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1472462658",
+			"date_added": 1474579346
 		}
 	]
 }

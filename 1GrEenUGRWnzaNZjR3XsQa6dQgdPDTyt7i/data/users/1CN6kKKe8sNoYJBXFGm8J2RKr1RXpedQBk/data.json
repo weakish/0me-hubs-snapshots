@@ -1,7 +1,7 @@
 {
-	"next_post_id": 3,
+	"next_post_id": 4,
 	"next_comment_id": 4,
-	"next_follow_id": 6,
+	"next_follow_id": 10,
 	"avatar": "jpg",
 	"user_name": "Hankrearden",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -16,6 +16,11 @@
 			"post_id": 1474487052,
 			"body": "Any cool tech blogs around zeronet?",
 			"date_added": 1474487050
+		},
+		{
+			"post_id": 1474579318,
+			"body": "running a namecoin server now, I was wondering , there's anyway of using a namecoin id/ as identification on zeronet?",
+			"date_added": 1474579315
 		}
 	],
 	"post_like": {},
@@ -74,6 +79,27 @@
 			"auth_address": "1PbCor9kCtnKaZAPnrxENbcraKtAEq8wA1",
 			"user_name": "Henur",
 			"date_added": 1474513550
+		},
+		{
+			"follow_id": 7,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx",
+			"user_name": "Durand",
+			"date_added": 1474580331
+		},
+		{
+			"follow_id": 8,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ",
+			"user_name": "Sirenyc",
+			"date_added": 1474581019
+		},
+		{
+			"follow_id": 9,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1474581029
 		}
 	]
 }

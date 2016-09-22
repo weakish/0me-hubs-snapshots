@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 8,
+	"next_comment_id": 9,
 	"user_name": "ulrichard",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -48,6 +48,12 @@
 			"body": "I use git",
 			"post_uri": "1PoiRFseXaeGhnj2mpwS3xiXVrUd8noRLW_4",
 			"date_added": 1474524620
+		},
+		{
+			"comment_id": 8,
+			"body": "Zeronet is specialized for websites, while IPFS is for files of any type and any size. So, ZeroNet has additional logic like for blogging or ZeroMe. IPFS has additional logic for splitting up large files into junks, and streaming them to requesting users.",
+			"post_uri": "1H4xoahmzZ8UNyXLNogcDu39NhNENaEyJk_1473729852",
+			"date_added": 1474578513
 		}
 	]
 }

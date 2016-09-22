@@ -1,7 +1,7 @@
 {
-	"next_post_id": 20,
-	"next_comment_id": 14,
-	"next_follow_id": 61,
+	"next_post_id": 21,
+	"next_comment_id": 15,
+	"next_follow_id": 63,
 	"avatar": "jpg",
 	"user_name": "ulrichard",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -101,6 +101,11 @@
 			"post_id": 1474540959,
 			"body": "http://www.handelszeitung.ch/unternehmen/six-mit-kooperation-im-bereich-blockchain-1209465",
 			"date_added": 1474540940
+		},
+		{
+			"post_id": 1474578699,
+			"body": "I did a hike and fly today. Together with a friend we hiked and climbed the Small Mythen. When we just arrived at the summit the fog came. We thought we couldn't fly and started descending. Halfway down, the fog lifted, so we went up again. The flight was marvelous, gliding into the sunset...",
+			"date_added": 1474578679
 		}
 	],
 	"post_like": {
@@ -184,6 +189,12 @@
 			"body": "@Smuntroleum: Why would it have to run on ZeroNet? OpenBazaar is distributed. I'm sure they have good reasons for the design choices they made. For example the escrow and dispute resolution systems could be quite hard to implement with ZeroNet.",
 			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1474540959",
 			"date_added": 1474576764
+		},
+		{
+			"comment_id": 14,
+			"body": "@Smuntroleum: Ah yes that's true. They did that on purpose to dicurage trading of illicit goods. They don't want to become the next silk road. And I think this will help them to become the next ebay and amazon.",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1474540959",
+			"date_added": 1474578256
 		}
 	],
 	"follow": [
@@ -606,6 +617,20 @@
 			"auth_address": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx",
 			"user_name": "Durand",
 			"date_added": 1474537831
+		},
+		{
+			"follow_id": 61,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1BakVDD34KL36JkXRVgnNu6gQd9Yy6SJFJ",
+			"user_name": "Smuntroleum",
+			"date_added": 1474578327
+		},
+		{
+			"follow_id": 62,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1H4xoahmzZ8UNyXLNogcDu39NhNENaEyJk",
+			"user_name": "Vanta",
+			"date_added": 1474578515
 		}
 	]
 }
