@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 27,
+	"next_comment_id": 28,
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -180,6 +180,12 @@
 			"body": "LUKS has much better Read/Write performance than encfs.",
 			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1474355310",
 			"date_added": 1474455282
+		},
+		{
+			"comment_id": 27,
+			"body": "The problem of zip is it does not enforces scheme (what the zip must include, what may include, what cannot include, etc). Java `jar` and MicroSoft Office `docx` are also zip.",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1474534231",
+			"date_added": 1474548544
 		}
 	]
 }
