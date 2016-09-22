@@ -1,6 +1,6 @@
 {
 	"next_post_id": 13,
-	"next_comment_id": 104,
+	"next_comment_id": 105,
 	"avatar": "jpg",
 	"user_name": "Kaffie",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -729,6 +729,12 @@
 			"body": "@Funkysquirrel: They're usable if you have configured your browser to use them. The most straight forward way is to just grab the chrome extension. However, over on [Kaffie.bit](http://127.0.0.1/kaffie.bit/test.html) you can grab the .pac and set that up as a local host proxy. That method works for all browsers.",
 			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1472527211",
 			"date_added": 1472548070
+		},
+		{
+			"comment_id": 104,
+			"body": "@Heathenman: I made hub.kaffie.bit. Functionality-wise, it doesn't differ from the default hubs. It does have a raised file size limit, so that you aren't limited in how much you can post there. It's also helpful to decentralize the data, which is one of the main reasons there's hubs in the first place. Hubs themselves are all 'merged' into zerome, so that regardless of the hub you made a profile on, you can see posts made on other hubs.",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1472462658",
+			"date_added": 1474501018
 		}
 	]
 }

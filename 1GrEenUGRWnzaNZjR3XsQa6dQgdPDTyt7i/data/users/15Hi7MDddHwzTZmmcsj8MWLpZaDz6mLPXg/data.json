@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 12,
 	"avatar": "png",
 	"user_name": "Limelatt",
@@ -16,7 +16,14 @@
 	"post_like": {
 		"1V7usnfmabQXPSNC2zrCpF2ed2jDZaujS_1474457775": 1474462267
 	},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Ah so the point is that I shouldn't JOIN 2 hubs!",
+			"post_uri": "15Hi7MDddHwzTZmmcsj8MWLpZaDz6mLPXg_1",
+			"date_added": 1474500185
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 1,

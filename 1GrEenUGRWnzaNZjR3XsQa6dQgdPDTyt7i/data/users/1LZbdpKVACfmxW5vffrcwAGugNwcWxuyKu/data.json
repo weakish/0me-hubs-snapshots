@@ -1,6 +1,6 @@
 {
-	"next_post_id": 6,
-	"next_comment_id": 1,
+	"next_post_id": 8,
+	"next_comment_id": 2,
 	"next_follow_id": 7,
 	"avatar": "generate",
 	"user_name": "Einfachertest",
@@ -31,10 +31,27 @@
 			"post_id": 1473173885,
 			"body": "https://ipfs.pics/ipfs/QmP7EtW6HQ4Y7BB3sSB2ic51dtrmkwF6p8sgbHTSzBFnEJ",
 			"date_added": 1473173880
+		},
+		{
+			"post_id": 1474493721,
+			"body": "fs.lunik.xyz/#3d6f00c9b5080eee73bebeec72d5de901b15c445",
+			"date_added": 1474493715
+		},
+		{
+			"post_id": 1474493889,
+			"body": "fs.lunik.xyz/#eebf3b4bcb0e445047fe88cb30b7e3ebec6ac6fc",
+			"date_added": 1474493882
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "fs.lunik.xyz/#eebf3b4bcb0e445047fe88cb30b7e3ebec6ac6fc\n",
+			"post_uri": "1LZbdpKVACfmxW5vffrcwAGugNwcWxuyKu_1474493889",
+			"date_added": 1474493938
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 1,

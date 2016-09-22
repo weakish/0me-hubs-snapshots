@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 2,
+	"next_comment_id": 3,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Mahmut",
@@ -20,6 +20,12 @@
 			"body": "Hi there.",
 			"post_uri": "17tpqoZw9eG2MQq6C3CVZ9MVxJxLTtCPZC_1",
 			"date_added": 1474401980
+		},
+		{
+			"comment_id": 2,
+			"body": "Definitely.",
+			"post_uri": "17tpqoZw9eG2MQq6C3CVZ9MVxJxLTtCPZC_1",
+			"date_added": 1474485885
 		}
 	],
 	"follow": []

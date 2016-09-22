@@ -1,7 +1,7 @@
 {
 	"next_post_id": 4,
-	"next_comment_id": 7,
-	"next_follow_id": 10,
+	"next_comment_id": 8,
+	"next_follow_id": 11,
 	"avatar": "jpg",
 	"user_name": "Shift",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -67,6 +67,12 @@
 			"body": "@Dvor: со стартового экрана работает же",
 			"post_uri": "19xkVTXjXQR92UG2TyqtXnRRnGjHuKCbpX_1",
 			"date_added": 1473107460
+		},
+		{
+			"comment_id": 7,
+			"body": "@Durand: i don't talk about migrate all twitter to zero net, i mean import function for users that want to migrate to zeronet,and add link between twitter username and zeronet username (if user want)",
+			"post_uri": "16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7_1474395817",
+			"date_added": 1474472331
 		}
 	],
 	"follow": [
@@ -125,6 +131,13 @@
 			"auth_address": "17eKk6mdR7bth2Fi8f74P5JV8AfHsERT4F",
 			"user_name": "Zerro",
 			"date_added": 1472577332
+		},
+		{
+			"follow_id": 10,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx",
+			"user_name": "Durand",
+			"date_added": 1474472360
 		}
 	]
 }

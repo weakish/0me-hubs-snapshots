@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 2,
+	"next_comment_id": 3,
 	"next_follow_id": 1,
 	"avatar": "jpg",
 	"user_name": "Roberth Castaño",
@@ -10,7 +10,7 @@
 		{
 			"post_id": 1,
 			"date_added": 1471139240,
-			"body": "Comenzando a usar Zero Me"
+			"body": "**Comenzando** a usar Zero Me"
 		}
 	],
 	"post_like": {},
@@ -20,6 +20,12 @@
 			"body": ":D",
 			"post_uri": "1PGFKCfMSL1QdudndfYCo4mGM8E8XKzMMG_1",
 			"date_added": 1473270476
+		},
+		{
+			"comment_id": 2,
+			"body": "Cuando editas el post , abajo aparecen algunas opciones, dice Save, Delete Post, Cancel, y a la izquierda de eso hay un botón con el símbolo `?` que muestra los códigos markdown para editar tu post:\n\n```\n# H1\n## H2\n### H3\n_italic_\n**bold**\n~~strikethrough~~\n- Lists\n1. Numbered lists\n[Links](http://www.zeronet.io)\n[References][1]\n[1]: Can be used\n![image alt](img/logo.png)\nInline `code`\n> Quotes\n--- Horizontal rule\n```",
+			"post_uri": "18EjLHTadBR6ci3XRWyMfsGeWVtXTR8xx_1474509619",
+			"date_added": 1474513421
 		}
 	],
 	"follow": []

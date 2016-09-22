@@ -1,10 +1,11 @@
 {
-	"next_comment_id": 2,
+	"next_comment_id": 3,
 	"user_name": "Grahf",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {
 		"1GZvKfDijCJZJ7hyUpU4AdrgqFKe3DzLNv_1": 1472269843,
-		"1DQAexBYLLtqRurHpCnmqUsGAxsXzhZWxP_1473263161": 1473423059
+		"1DQAexBYLLtqRurHpCnmqUsGAxsXzhZWxP_1473263161": 1473423059,
+		"13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1474492190": 1474508160
 	},
 	"comment": [
 		{
@@ -12,6 +13,12 @@
 			"body": "I remember when this drive was first announced. They basically said \"we know this shouldn't work, but it does for some reason.\" ",
 			"post_uri": "1DQAexBYLLtqRurHpCnmqUsGAxsXzhZWxP_1473263161",
 			"date_added": 1473423122
+		},
+		{
+			"comment_id": 2,
+			"body": "I'm very interested in bcachefs. It looks like support for encryption was just released. It'll probably be a while before this is mainlined though...",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1474280641",
+			"date_added": 1474508238
 		}
 	]
 }

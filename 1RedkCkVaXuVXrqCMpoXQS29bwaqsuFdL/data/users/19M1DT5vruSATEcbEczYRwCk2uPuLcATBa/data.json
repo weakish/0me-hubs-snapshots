@@ -1,6 +1,6 @@
 {
-	"next_post_id": 46,
-	"next_comment_id": 153,
+	"next_post_id": 47,
+	"next_comment_id": 155,
 	"next_follow_id": 25,
 	"avatar": "png",
 	"user_name": "Talnicrom",
@@ -199,8 +199,13 @@
 		},
 		{
 			"post_id": 1474258627,
-			"body": "Just made a new plugin [MultiuserLocal](http://127.0.0.1:43110/1JjHyLeEDidHyyN33Y8f8cQKVEzWCEPnW7/) (based on @nofish's Multiuser plugin), which makes switching users on your local installation a breeze.  Just load the plugin (after having a quick look at the source code) and add \n\n`\"show_in_multi\": true`\n\nto the user node in users.json for each user you want to see in the user picker.  #ZeroNetPlugins ",
+			"body": "Just made a new plugin [UserSwitcher](http://127.0.0.1:43110/1JjHyLeEDidHyyN33Y8f8cQKVEzWCEPnW7/) (based on @nofish's Multiuser plugin), which makes switching users on your local installation a breeze.  Just load the plugin (after having a quick look at the source code) and add \n\n`\"show_in_multi\": true`\n\nto the user node in users.json for each user you want to see in the user picker.  #ZeroNetPlugins ",
 			"date_added": 1474258582
+		},
+		{
+			"post_id": 1474478645,
+			"body": "@nofish I would like to have #ZeroMePlus add one or more nodes to the rows in users' data.json.post node for a new feature.  However, the function loadJson in Db.py, does not check whether or not rows fetched from data.json match the schema.  Thus, nodes which are not expected (from the schema) cause insert errors which result in the user's data.json being ignored.  Would you consider adding a check (just after line 312) that the structure of `row` matches the schema? #suggestion #db",
+			"date_added": 1474478599
 		}
 	],
 	"post_like": {
@@ -828,6 +833,18 @@
 			"body": "@Nippletwister: Why does this require a special token?  Wouldn't posters rather choose their preferred cryptocurrency and then get tips in that?",
 			"post_uri": "1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf_1474127068",
 			"date_added": 1474293840
+		},
+		{
+			"comment_id": 153,
+			"body": "I see that I could also just create a sibling of `post` in data.json and add a map to dbschema.json.  However, I think there is some merit in adding a check since not all developers will know/care that adding columns to a table on their own merger site will break other merger sites.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474478645",
+			"date_added": 1474480292
+		},
+		{
+			"comment_id": 154,
+			"body": "@Heathenman:  I think you probably want to get in touch with the owner of the site that is giving you trouble.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1",
+			"date_added": 1474499308
 		}
 	],
 	"follow": [

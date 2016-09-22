@@ -1,0 +1,21 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "HIMjcJ0pxY/R7cx0tgqt39lv/85jZfjQlvqpi+vcmqHn4BQpFsv9qbSKZjl1RaF/efsN7AxK0IP5DzgpKLy3P3s=",
+ "cert_user_id": "entropy@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "ef983ce703f30766e7b73e2fcec233649c7b805e358851caddeec5e6192a419a",
+   "size": 1380
+  },
+  "data.json": {
+   "sha512": "37408ee4f87342e115c5379b558dcac689b570a373ec647fc8225c83940131a8",
+   "size": 1114
+  }
+ },
+ "inner_path": "data/users/1BYUHmqCj8FD5MADQtE9NEVAnqNbyyiEam/content.json",
+ "modified": 1474532581.944,
+ "signs": {
+  "1BYUHmqCj8FD5MADQtE9NEVAnqNbyyiEam": "G3/355tGFgrsNVBZ1KqVXmKIh0jgCAYcf+GPntRA0Ic6JsaxzC9BZHjIO0yYxEHHPfRxr3YCnlLly2JDcokODdw="
+ }
+}

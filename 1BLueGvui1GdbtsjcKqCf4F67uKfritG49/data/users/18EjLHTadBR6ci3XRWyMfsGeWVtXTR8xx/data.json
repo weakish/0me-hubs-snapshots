@@ -1,8 +1,8 @@
 {
-	"next_post_id": 4,
-	"next_comment_id": 1,
+	"next_post_id": 7,
+	"next_comment_id": 5,
 	"next_follow_id": 1,
-	"avatar": "png",
+	"avatar": "jpg",
 	"user_name": "Thekiller66",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"intro": "Geek en progreso :3",
@@ -21,9 +21,49 @@
 			"post_id": 1474444073,
 			"body": "Dganme si pueden ingresar: http://127.0.0.1:43110/15Hiyn7U2C24K6j7xwWer8Z2TtcAxXgauR",
 			"date_added": 1474444070
+		},
+		{
+			"post_id": 1474499720,
+			"body": "Volvi a hacer el blog\nDiganme si funciona. Si no, no se que mierda hacer :'v\n\nhttp://127.0.0.1:43110/1QCgD2C8GSXRpfZGQVHo9qeGQ2obUHauKD",
+			"date_added": 1474499716
+		},
+		{
+			"post_id": 1474507712,
+			"body": "Esta disponible toda la discografia de NSD Records en mi blog y en UZeroTorrent. Chequenlo :)\nhttp://127.0.0.1:43110/1QCgD2C8GSXRpfZGQVHo9qeGQ2obUHauKD/?Post:2:Never+Say+Die+Records+Discography",
+			"date_added": 1474507707
+		},
+		{
+			"post_id": 1474509619,
+			"body": "Alguien que me pueda decir algunos truquillos para cuando estoy escribiendo un post? \nAlgo asi como el \"* [Lo que sea] (link \")?",
+			"date_added": 1474509613
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Userzero: Mmh. Es necesario que mi zeronet este iniciado para poder ver el blog? Digo, quiza es por eso.",
+			"post_uri": "18EjLHTadBR6ci3XRWyMfsGeWVtXTR8xx_1474444073",
+			"date_added": 1474490632
+		},
+		{
+			"comment_id": 2,
+			"body": "@Hankrearden: Really? .-.",
+			"post_uri": "18EjLHTadBR6ci3XRWyMfsGeWVtXTR8xx_1474444073",
+			"date_added": 1474502554
+		},
+		{
+			"comment_id": 3,
+			"body": "@Hankrearden: I hope he manages when people start to get into the blog. I'm already doing the first inning on a discography, will be in UZeroTorrent.",
+			"post_uri": "18EjLHTadBR6ci3XRWyMfsGeWVtXTR8xx_1474499720",
+			"date_added": 1474502709
+		},
+		{
+			"comment_id": 4,
+			"body": "@Userzero: Trato de abrir el puerto haciendo Port Forwarding desde mi Gateway pero ZN me sigue diciendo que esta cerrado.Esta activado el UPnP y aun asi no funciona.",
+			"post_uri": "18EjLHTadBR6ci3XRWyMfsGeWVtXTR8xx_1474499720",
+			"date_added": 1474507653
+		}
+	],
 	"follow": []
 }

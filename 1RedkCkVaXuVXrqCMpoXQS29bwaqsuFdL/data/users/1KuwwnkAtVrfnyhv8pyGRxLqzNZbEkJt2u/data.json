@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 7,
+	"next_comment_id": 10,
 	"user_name": "Lola",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {
@@ -12,7 +12,8 @@
 		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1473385305": 1473418742,
 		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1473695005": 1473701890,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1474090632": 1474296745,
-		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1474383799": 1474399011
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1474383799": 1474399011,
+		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1474487285": 1474488476
 	},
 	"comment": [
 		{
@@ -50,6 +51,24 @@
 			"body": "Yes, sorry I am going very slowly with this project. Unfortunately people add their videos but don't seed them... It is why you will see 0 peer and sometimes it can take a couple of minutes to find a peer.",
 			"post_uri": "1NZ4LvZqg61LxtRfEr5Y46KRhYCzWRnqck_1474323298",
 			"date_added": 1474399593
+		},
+		{
+			"comment_id": 7,
+			"body": "@Shellbound: I am preparing something like this --> https://ipfs.io/ipfs/QmQnxPmyWYPfk2bEs45dh7VSUMQxR8uTCzufaGmGEBrstR\n\nI have also added a tracker dedicated for ZeroTube : http://198.211.121.40:8100/stats",
+			"post_uri": "1NZ4LvZqg61LxtRfEr5Y46KRhYCzWRnqck_1474323298",
+			"date_added": 1474487760
+		},
+		{
+			"comment_id": 8,
+			"body": "@Ericksoares3: I am also seeding it ;)",
+			"post_uri": "1NZ4LvZqg61LxtRfEr5Y46KRhYCzWRnqck_1474323298",
+			"date_added": 1474487940
+		},
+		{
+			"comment_id": 9,
+			"body": "@Alex (Bwoi) : I actually have the code working. It download the video start to play it in a canva that is hidden and pick a frame to show. But I thought that it would be nicer if the user could choose it either by picking a frame from the video or a customize picture. Then I thought that I would also need a blacklist in case some pictures are NSFW...",
+			"post_uri": "1NZ4LvZqg61LxtRfEr5Y46KRhYCzWRnqck_1474323298",
+			"date_added": 1474488301
 		}
 	]
 }

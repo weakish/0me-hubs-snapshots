@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 4,
+	"next_comment_id": 8,
 	"next_follow_id": 3,
 	"avatar": "generate",
 	"comment_order": 0,
@@ -33,6 +33,30 @@
 			"body": "@Icf20: \n> there is more, things are not so simple... \nI don't understand this post.  Could you reformulate?  Regarding your other post: it doesn't make sense to say that a bitcoin thief can ignore any compensations imposed by a judge and pretend that the same is not true of a watch thief or someone who stole seven $20s from you.  Anyway, I think that we can all agree that anyone who is deciding to use bitcoin should certainly weigh the risk of theft, user error, volatility, etc. against the gains.  ",
 			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1474186161",
 			"date_added": 1474323925
+		},
+		{
+			"comment_id": 4,
+			"body": "@Icf20: You did not address my point.  We can think of Bitcoins as public records of hidden property.  After all at the core bitcoins are private keys.  So what is the difference between stolen bitcoins and other hidden stolen goods?",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1474186161",
+			"date_added": 1474469678
+		},
+		{
+			"comment_id": 5,
+			"body": "@Icf20: Let's think about the MN farmer, call him F, in a world where third parties cannot force people to do things.  Suppose that a long dead ancestor A of F took the land from someone else B.  In the present day, suppose that a descendant C of B finds irrefutable proof that A stole the land from B.  Now, C sues F for the land.  It is not cut and dry what the outcome would be.  Sure A stole the land, but F had nothing to do with it.  So we'll leave it to the court to decide.  After the legal proceedings, there could be several outcomes.  First, the courts may decide that too much time has passed and that C has no claim on the land.  In this case, nothing changes.  Second, the courts may decide that both C and F have some claim to the land.  In this case, F may be asked to make restitution by giving C a portion of the produce of the land.  Third, it may be found that F has no claim to the land and is trespassing on C's land. In the second case, C and F might enter into a contract spelling out the terms of restitution.  F may not agree to the ruling and ignore it, but this carries costs of its own.  If the court is reputable, then F has just declared that he does not respect the common law of the land.  Others would be unlikely to enter into contract with F, etc.   In the third case, C might pay a firm to go onto his property and remove F.  (C might pay with money or with a promise of a share of future farm produce.)  ...But wait, what about the blockchain?  Well here we come back to the problem of putting property on the blockchain in the first case.  It only makes sense to put *valid* claims to property on the blockchain.  After all, a blockchain is just a data structure that is useful for keeping a record of what people say the claims are.  If the claims are to previous records on the blockchain and all miners are checking all transactions for validity, then there is no problem.  If the claims are to real world things, then there are serious complications, no different from any other accounting system.  If F has his claim on the blockchain and doesn't sign it over to C, the property no less belongs to C in the third case.  It's just that the database is now wrong.  From an engineering point of view, a blockchain for property claims could easily have a dispute resolution feature built in.  So if I own property and you make a claim, we could pay the property into an escrow account with the legal body as the third party.  Then upon resolution the property is divided up according to the ruling.",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1474186161",
+			"date_added": 1474471384
+		},
+		{
+			"comment_id": 6,
+			"body": "Hashtags: #property #restitution #commonlaw #bitcoin #blockchain",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1474186161",
+			"date_added": 1474471614
+		},
+		{
+			"comment_id": 7,
+			"body": "@ulrichard: For it is written on the ancient blockchain, which hath existed for all of time...",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1474186161",
+			"date_added": 1474481408
 		}
 	],
 	"follow": [

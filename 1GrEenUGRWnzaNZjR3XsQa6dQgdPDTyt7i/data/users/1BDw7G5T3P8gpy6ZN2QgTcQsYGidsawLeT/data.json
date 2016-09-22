@@ -1,7 +1,7 @@
 {
-	"next_post_id": 2,
+	"next_post_id": 3,
 	"next_comment_id": 1,
-	"next_follow_id": 1,
+	"next_follow_id": 2,
 	"avatar": "generate",
 	"user_name": "Lelimier",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -11,9 +11,24 @@
 			"post_id": 1,
 			"date_added": 1474450995,
 			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1474485982,
+			"body": "Ça a l'air de bien tourner !",
+			"date_added": 1474485980
 		}
 	],
-	"post_like": {},
+	"post_like": {
+		"16w7UuJAHbt8YBa8zxHS7UFk9mq8Q5DpE4_1474452579": 1474486030
+	},
 	"comment": [],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "16dVbybDseQBQnxdJDuQhCzYAij8iR8YEc",
+			"user_name": "Heathenman",
+			"date_added": 1474486137
+		}
+	]
 }
