@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 165,
+	"next_comment_id": 167,
 	"user_name": "Shellbound",
 	"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
 	"post_like": {
@@ -1057,6 +1057,18 @@
 			"body": "@Lola: I use webtorrent-desktop as recommended and I know others do too... is the latency a webtorrent issue? Maybe you should put up a disclamer that informs people to wait a bit because of the latency?",
 			"post_uri": "1NZ4LvZqg61LxtRfEr5Y46KRhYCzWRnqck_1474323298",
 			"date_added": 1474400564
+		},
+		{
+			"comment_id": 165,
+			"body": "@Lola: The issue as I see it is not directly peers although that would indirectly make the situation better. The problem and what users visiting might not be aware of is the latency. They check the zite -> see everything is 0 peers -> close the zite and thinks it doesn't work. The absolute best solution would probably be some sort of indicator showing it is looking for peers... but just a text telling about the latency and ask them to stay would probably be enough.",
+			"post_uri": "1NZ4LvZqg61LxtRfEr5Y46KRhYCzWRnqck_1474323298",
+			"date_added": 1474572967
+		},
+		{
+			"comment_id": 166,
+			"body": "@Musickiller: Yeah, the control a wm gives is super nice. Anything particular you have issues with? ",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1474147828",
+			"date_added": 1474573443
 		}
 	]
 }
