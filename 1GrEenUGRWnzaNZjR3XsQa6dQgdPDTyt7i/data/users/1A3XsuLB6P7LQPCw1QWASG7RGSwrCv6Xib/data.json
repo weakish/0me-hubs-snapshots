@@ -1,11 +1,11 @@
 {
 	"next_post_id": 4,
-	"next_comment_id": 1,
-	"next_follow_id": 8,
-	"avatar": "generate",
+	"next_comment_id": 3,
+	"next_follow_id": 9,
+	"avatar": "jpg",
 	"user_name": "Elspru",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"intro": "Random ZeroNet user",
+	"intro": "Cosmist AGI Programmer",
 	"post": [
 		{
 			"post_id": 1,
@@ -24,7 +24,20 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Sirenyc:  Thanks, always good to get some documentation",
+			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1474517493",
+			"date_added": 1474552660
+		},
+		{
+			"comment_id": 2,
+			"body": "@tkarita:  Thanks, seems to have been really effective! :-D",
+			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1474517578",
+			"date_added": 1474552698
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 1,
@@ -74,6 +87,13 @@
 			"auth_address": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ",
 			"user_name": "Sirenyc",
 			"date_added": 1474549726
+		},
+		{
+			"follow_id": 8,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx",
+			"user_name": "Durand",
+			"date_added": 1474549808
 		}
 	]
 }

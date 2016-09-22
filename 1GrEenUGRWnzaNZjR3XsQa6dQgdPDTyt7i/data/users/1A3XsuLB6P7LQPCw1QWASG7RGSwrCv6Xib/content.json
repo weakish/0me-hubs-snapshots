@@ -4,14 +4,18 @@
  "cert_sign": "G59tD6loUPpXHFJeUmgB4xn5SfI0oFglFhMdbiiSdcF5Zw9pNJnMJ7ycwyWMhc8viMfcthB3Oh5/PM0DMV7EBho=",
  "cert_user_id": "elspru@zeroid.bit",
  "files": {
+  "avatar.jpg": {
+   "sha512": "1232dccb1e0707db14c92da7701a4faa0f09345ea1aba3f2733ba2b66938ad93",
+   "size": 1696
+  },
   "data.json": {
-   "sha512": "2e71c48b83b523176fda7b87764ad1eda1c5acd47ef706d18edb35b9a1add10c",
-   "size": 2226
+   "sha512": "6281742450a39d45c98f0b4a526fe9f5e2efb0f5f2b985233d6730ee9e17a54d",
+   "size": 2612
   }
  },
  "inner_path": "data/users/1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib/content.json",
- "modified": 1474549808.333301,
+ "modified": 1474552698.210046,
  "signs": {
-  "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib": "HHuMhbe46h1J3f31HzKQXJSMBgYcdPf3VkYMDAtJAH7/R5GyCwlKjRFEJeQ9tlybVqwk7kAsblTxEvaxVAA2y5w="
+  "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib": "G2nnZA/l8XoAObo69KCDsS0bKHaoQla/2nd8O4Owv4fRY4fOxM30zGQ3RAI6/oWlwsG0pk7UjBjvCX+pgTii8RU="
  }
 }

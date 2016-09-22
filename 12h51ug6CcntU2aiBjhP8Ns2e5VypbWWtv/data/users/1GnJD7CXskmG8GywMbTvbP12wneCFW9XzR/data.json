@@ -1,7 +1,7 @@
 {
-	"next_post_id": 28,
+	"next_post_id": 29,
 	"next_comment_id": 21,
-	"next_follow_id": 92,
+	"next_follow_id": 94,
 	"avatar": "png",
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -141,6 +141,11 @@
 			"post_id": 1474456716,
 			"body": "All my todos are on wunderlist, which is down now. And I can hardly remember what to do. If wunderlist is implemented as a ZeroSite ...",
 			"date_added": 1474456689
+		},
+		{
+			"post_id": 1474550374,
+			"body": "[Snapshots of all current, non empty, functional ZeroMe hubs](https://github.com/weakish/0me-hubs-snapshots), \npowered by [0net-snapshot](https://github.com/weakish/0net-snapshot).",
+			"date_added": 1474550346
 		}
 	],
 	"post_like": {
@@ -883,6 +888,20 @@
 			"auth_address": "15Hi7MDddHwzTZmmcsj8MWLpZaDz6mLPXg",
 			"user_name": "Limelatt",
 			"date_added": 1474548045
+		},
+		{
+			"follow_id": 92,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb",
+			"user_name": "Bot",
+			"date_added": 1474550438
+		},
+		{
+			"follow_id": 93,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk",
+			"user_name": "Userzero",
+			"date_added": 1474550454
 		}
 	]
 }
