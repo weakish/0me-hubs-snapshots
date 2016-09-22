@@ -1,0 +1,40 @@
+{
+ "address": "185yXNL48LTZyKfNo6WgyKshtMgcV3mecL",
+ "address_index": 95704175,
+ "background-color": "white",
+ "cloneable": true,
+ "cloned_from": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "description": "Welcome to ZeroMe! Runner: Icf20",
+ "files": {
+  "data-default/users/content.json-default": {
+   "sha512": "4e37699bd5336b9c33ce86a3eb73b82e87460535793401874a653afeddefee59",
+   "size": 735
+  },
+  "index.html": {
+   "sha512": "087c6ae46aacc5661f7da99ce10dacc0428dbd48aa7bbdc1df9c2da6e81b1d93",
+   "size": 466
+  }
+ },
+ "ignore": "((js|css)/(?!all.(js|css))|data/.*db|data/users/.*/.*)",
+ "includes": {
+  "data/users/content.json": {
+   "signers": [],
+   "signers_required": 1
+  }
+ },
+ "inner_path": "content.json",
+ "merged_type": "ZeroMe",
+ "modified": 1473170318.322619,
+ "postmessage_nonce_security": true,
+ "sign": [
+  10333975791572072584680332096135358166486326661090691751945076742532260062652,
+  66019055369632078590392321166778715400696474091453055572942853492061820973460
+ ],
+ "signers_sign": "HB6xVhu1s6fp659CNOBQvDiDngls2Kajxks7nUQNiIvnEEpXNRilCIITyZ6H8/nokvWiCem/tR3jgPA/2xmdgXo=",
+ "signs": {
+  "185yXNL48LTZyKfNo6WgyKshtMgcV3mecL": "HOyQy3jwwM/NHs3wF3zB0MYlaNsy4c1U+Jrz3GUKS3WpUDaLWGzPd72xnttmpEz0gSILBucWdyQaHN3ngtIOlvY="
+ },
+ "signs_required": 1,
+ "title": "Icf20's Hub",
+ "zeronet_version": "0.4.1"
+}

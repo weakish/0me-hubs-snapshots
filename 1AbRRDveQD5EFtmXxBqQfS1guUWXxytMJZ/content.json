@@ -1,0 +1,40 @@
+{
+ "address": "1AbRRDveQD5EFtmXxBqQfS1guUWXxytMJZ",
+ "address_index": 36040482,
+ "background-color": "white",
+ "cloneable": true,
+ "cloned_from": "15mV5T1R1wxg3E1FPsvZw19bw6QzvRREfn",
+ "description": "torrents Hub",
+ "files": {
+  "data-default/users/content.json-default": {
+   "sha512": "4e37699bd5336b9c33ce86a3eb73b82e87460535793401874a653afeddefee59",
+   "size": 735
+  },
+  "index.html": {
+   "sha512": "087c6ae46aacc5661f7da99ce10dacc0428dbd48aa7bbdc1df9c2da6e81b1d93",
+   "size": 466
+  }
+ },
+ "ignore": "((js|css)/(?!all.(js|css))|data/.*db|data/users/.*/.*)",
+ "includes": {
+  "data/users/content.json": {
+   "signers": [],
+   "signers_required": 1
+  }
+ },
+ "inner_path": "content.json",
+ "merged_type": "ZeroMe",
+ "modified": 1472184939.532423,
+ "postmessage_nonce_security": true,
+ "sign": [
+  13685493485427679080603363626858605774127065581796336606074493234162444801976,
+  80288310555324089346568619670524800358676782339709103584001259033311572588722
+ ],
+ "signers_sign": "HDzD7/WVFw3haIlykOCdL0Tn5CJd/ysN2LKGqGs2n9yMZCtp+Klyk++uq8LsZ9eNLmz13BEkvwfEV/BnK/b/TCk=",
+ "signs": {
+  "1AbRRDveQD5EFtmXxBqQfS1guUWXxytMJZ": "HI2XNxCCIVfgxV3Zne+bv/lDIAoXvoBDns7W1HflCTvLKjnF5zDc2VzPiVJd1DccgeNssXsE54ssSllsq1/87YI="
+ },
+ "signs_required": 1,
+ "title": "torrents Hub",
+ "zeronet_version": "0.4.0"
+}

@@ -1,0 +1,37 @@
+{
+	"next_post_id": 5,
+	"next_comment_id": 1,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Ponury",
+	"hub": "149fpM31r6YUc7WZ1m28Lq6Ef3zwdBFKBq",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 2,
+			"body": "Hio.",
+			"date_added": 1471440644
+		},
+		{
+			"post_id": 3,
+			"body": "hio2.",
+			"date_added": 1471442099
+		},
+		{
+			"post_id": 4,
+			"body": "hio3",
+			"date_added": 1471444377
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "149fpM31r6YUc7WZ1m28Lq6Ef3zwdBFKBq",
+			"auth_address": "1L5rGDgTs4W2V7gekSvJNhKa7XaHkVwotD",
+			"user_name": "Antyhrabia",
+			"date_added": 1471442090
+		}
+	]
+}

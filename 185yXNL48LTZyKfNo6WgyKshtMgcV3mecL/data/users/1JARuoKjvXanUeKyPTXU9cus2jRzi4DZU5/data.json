@@ -1,0 +1,256 @@
+{
+	"next_post_id": 14,
+	"next_comment_id": 11,
+	"next_follow_id": 18,
+	"avatar": "jpg",
+	"user_name": "Icf20",
+	"hub": "185yXNL48LTZyKfNo6WgyKshtMgcV3mecL",
+	"intro": "Novato ZeroNet",
+	"post": [
+		{
+			"post_id": 2,
+			"body": "bueno de momento este red es solo gente diciendo hola :)",
+			"date_added": 1471297478
+		},
+		{
+			"post_id": 3,
+			"body": "link: https://www.bloomberg.com/features/2016-walmart-crime/ \n \ncita interesante \n\n> \" Instead, he says, it offloads the job to the police at taxpayers’ expense. \"\n\nen 2015 walmart pago 7 mil millones en impuestos y la policia se queja de que les llaman a menudo para llevarse a los ladrones de las tiendas, ladrones que ya están pillados y no tienen que ser perseguidos, hay que tener mucha cara como poli para decir eso ¿que quieren? estar todo el día comiendo donuts ..... ",
+			"date_added": 1471514175
+		},
+		{
+			"post_id": 4,
+			"body": "creo que he vuelto a mi hub ",
+			"date_added": 1471795614
+		},
+		{
+			"post_id": 1472186799,
+			"body": "So Linux is 25 years old  :)",
+			"date_added": 1472186794
+		},
+		{
+			"post_id": 1472324185,
+			"body": "\"you\" know how far ahead linux/gnu is vs win when win10 only detect 3 buttons for a mouse but linux say Logitech g500 and all buttons are working without installing any software ",
+			"date_added": 1472324179
+		},
+		{
+			"post_id": 1473012104,
+			"body": "http://www.livescience.com/48922-theory-of-relativity-in-real-life.html\n\n> To get that pinpoint accuracy, the satellites use clocks that are accurate to a few billionths of a second (nanoseconds). Since each satellite is 12,600 miles (20,300 kilometers) above Earth and moves at about 6,000 miles per hour (10,000 km/h), there's a relativistic time dilation that tacks on about 4 microseconds each day. Add in the effects of gravity and the figure goes up to about 7 microseconds. That's 7,000 nanoseconds.\n\nI need to buy a satellite ... for science ",
+			"date_added": 1473012097
+		},
+		{
+			"post_id": 1473170406,
+			"body": "Now my Hub got kaffie ID \n\nhttp://127.0.0.1:43110/185yXNL48LTZyKfNo6WgyKshtMgcV3mecL/data/users/content.json\n\n",
+			"date_added": 1473170398
+		},
+		{
+			"post_id": 1473236192,
+			"body": "Note people who [cloned this]( http://127.0.0.1:43110/1HB8TWjS8dUzeKinv8UP5aN1ZyHd2KgP63/) there is a problem with the [default content file](http://127.0.0.1:43110/1HB8TWjS8dUzeKinv8UP5aN1ZyHd2KgP63/data-default/users/content-default.json) it allows registration for kaffie.bit users but they are not allowed to post anything \n\n```\n},\n   \"bitmsg/.*@zeroid.bit\": { \"max_size\": 150000 }\n  },\n\n```\nCross posted in the [original thread](http://127.0.0.1:43110/165eqHdoQfyf7CVGqtVCGNDvMBZhwVSJBL/?Topic:3_13U9mRgV3bdkXiNXjMZeBWTcSHZjgNmk2z/a+lo+tonto+he+creado+un+clon+de+zerotorrents+bit) \n\nin data/users/content.json  add  `\"bitmsg/.*@kaffie.bit\": { \"max_size\":  150000 },`",
+			"date_added": 1473236183
+		},
+		{
+			"post_id": 1473723430,
+			"body": "https://www.youtube.com/watch?v=lf3D_HSYTw0  #GeorgeCarlin ",
+			"date_added": 1473723420
+		},
+		{
+			"post_id": 1473808340,
+			"body": "http://thelibertarianrepublic.com/uber-self-driving-cars/ good news everyone, maybe now uber can come back in spain ",
+			"date_added": 1473808329
+		},
+		{
+			"post_id": 1473999727,
+			"body": "café y metal para empezar el día https://www.youtube.com/watch?v=8nW-IPrzM1g ",
+			"date_added": 1473999715
+		},
+		{
+			"post_id": 1474246787,
+			"body": "here a good reason why youtube needs to die https://www.youtube.com/watch?v=7y-xS_EB3QI  youtube is a bully, they try to force her to ask soft questions ",
+			"date_added": 1474246774
+		}
+	],
+	"post_like": {
+		"1JARuoKjvXanUeKyPTXU9cus2jRzi4DZU5_1472324185": 1472749450,
+		"1JARuoKjvXanUeKyPTXU9cus2jRzi4DZU5_1473170406": 1473173007,
+		"1AuDwEHZ2BKhmDfCpMB43nwKp3Rbt1uaQj_1": 1473192882,
+		"1AuDwEHZ2BKhmDfCpMB43nwKp3Rbt1uaQj_1473197099": 1473197212,
+		"1JARuoKjvXanUeKyPTXU9cus2jRzi4DZU5_1473236192": 1473236521,
+		"1JARuoKjvXanUeKyPTXU9cus2jRzi4DZU5_1473723430": 1473725768
+	},
+	"comment": [
+		{
+			"comment_id": 2,
+			"body": "@Userzero creo que hay que poner de todo, poner solo películas o canciones es estúpido ya que seria considerada una red para piratear contenido digital",
+			"post_uri": "1JARuoKjvXanUeKyPTXU9cus2jRzi4DZU5_2",
+			"date_added": 1471513773
+		},
+		{
+			"comment_id": 3,
+			"body": "@Talnicrom: well people should not seed and host my spam if they dont really want to ",
+			"post_uri": "1JARuoKjvXanUeKyPTXU9cus2jRzi4DZU5_4",
+			"date_added": 1471807279
+		},
+		{
+			"comment_id": 4,
+			"body": "@Userzero: pon el click al final dale al espacio y luego intro",
+			"post_uri": "1JARuoKjvXanUeKyPTXU9cus2jRzi4DZU5_1473170406",
+			"date_added": 1473192066
+		},
+		{
+			"comment_id": 5,
+			"body": "@kaffie hmm for some reason it fail to sign\nedit: a reboot solved the issue \n",
+			"post_uri": "1JARuoKjvXanUeKyPTXU9cus2jRzi4DZU5_1473170406",
+			"date_added": 1473192798
+		},
+		{
+			"comment_id": 6,
+			"body": "@Icf20: test completed",
+			"post_uri": "1AuDwEHZ2BKhmDfCpMB43nwKp3Rbt1uaQj_1",
+			"date_added": 1473192880
+		},
+		{
+			"comment_id": 7,
+			"body": "@Userzero: interesante ",
+			"post_uri": "1JARuoKjvXanUeKyPTXU9cus2jRzi4DZU5_1473170406",
+			"date_added": 1473198380
+		},
+		{
+			"comment_id": 8,
+			"body": "@RiotPulv: eso es irrelevante por que la paga de el trabajador solo depende de la demanda y oferta de trabajadores ",
+			"post_uri": "1AuDwEHZ2BKhmDfCpMB43nwKp3Rbt1uaQj_1473197099",
+			"date_added": 1473234170
+		},
+		{
+			"comment_id": 9,
+			"body": "full on https://ipfs.io/ipfs/QmVKAutwgGga9DEn7xzgL1GsuYt51MTY6ijUbD7zcr9bJM",
+			"post_uri": "1JARuoKjvXanUeKyPTXU9cus2jRzi4DZU5_1473723430",
+			"date_added": 1473724241
+		},
+		{
+			"comment_id": 10,
+			"body": "@Xikujaro: gracias lo he escrito mal",
+			"post_uri": "1JARuoKjvXanUeKyPTXU9cus2jRzi4DZU5_1473999727",
+			"date_added": 1474112905
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1471807285
+		},
+		{
+			"follow_id": 2,
+			"hub": "185yXNL48LTZyKfNo6WgyKshtMgcV3mecL",
+			"auth_address": "1JARuoKjvXanUeKyPTXU9cus2jRzi4DZU5",
+			"user_name": "Icf20",
+			"date_added": 1473192843
+		},
+		{
+			"follow_id": 3,
+			"hub": "185yXNL48LTZyKfNo6WgyKshtMgcV3mecL",
+			"auth_address": "1AuDwEHZ2BKhmDfCpMB43nwKp3Rbt1uaQj",
+			"user_name": "Icf20",
+			"date_added": 1473192865
+		},
+		{
+			"follow_id": 4,
+			"hub": "185yXNL48LTZyKfNo6WgyKshtMgcV3mecL",
+			"auth_address": "1JARuoKjvXanUeKyPTXU9cus2jRzi4DZU5",
+			"user_name": "Icf20",
+			"date_added": 1473192924
+		},
+		{
+			"follow_id": 5,
+			"hub": "185yXNL48LTZyKfNo6WgyKshtMgcV3mecL",
+			"auth_address": "1AuDwEHZ2BKhmDfCpMB43nwKp3Rbt1uaQj",
+			"user_name": "Icf20",
+			"date_added": 1473196896
+		},
+		{
+			"follow_id": 6,
+			"hub": "185yXNL48LTZyKfNo6WgyKshtMgcV3mecL",
+			"auth_address": "1AuDwEHZ2BKhmDfCpMB43nwKp3Rbt1uaQj",
+			"user_name": "Icf20",
+			"date_added": 1473197210
+		},
+		{
+			"follow_id": 7,
+			"hub": "185yXNL48LTZyKfNo6WgyKshtMgcV3mecL",
+			"auth_address": "1AuDwEHZ2BKhmDfCpMB43nwKp3Rbt1uaQj",
+			"user_name": "Icf20",
+			"date_added": 1473197233
+		},
+		{
+			"follow_id": 8,
+			"hub": "185yXNL48LTZyKfNo6WgyKshtMgcV3mecL",
+			"auth_address": "1AuDwEHZ2BKhmDfCpMB43nwKp3Rbt1uaQj",
+			"user_name": "Icf20",
+			"date_added": 1473197251
+		},
+		{
+			"follow_id": 9,
+			"hub": "185yXNL48LTZyKfNo6WgyKshtMgcV3mecL",
+			"auth_address": "1JARuoKjvXanUeKyPTXU9cus2jRzi4DZU5",
+			"user_name": "Icf20",
+			"date_added": 1473197255
+		},
+		{
+			"follow_id": 10,
+			"hub": "185yXNL48LTZyKfNo6WgyKshtMgcV3mecL",
+			"auth_address": "1AuDwEHZ2BKhmDfCpMB43nwKp3Rbt1uaQj",
+			"user_name": "Icf20",
+			"date_added": 1473198433
+		},
+		{
+			"follow_id": 11,
+			"hub": "185yXNL48LTZyKfNo6WgyKshtMgcV3mecL",
+			"auth_address": "1AuDwEHZ2BKhmDfCpMB43nwKp3Rbt1uaQj",
+			"user_name": "Icf20",
+			"date_added": 1473198449
+		},
+		{
+			"follow_id": 12,
+			"hub": "185yXNL48LTZyKfNo6WgyKshtMgcV3mecL",
+			"auth_address": "1AuDwEHZ2BKhmDfCpMB43nwKp3Rbt1uaQj",
+			"user_name": "Icf20",
+			"date_added": 1473198465
+		},
+		{
+			"follow_id": 13,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1473268395
+		},
+		{
+			"follow_id": 14,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1473268429
+		},
+		{
+			"follow_id": 15,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1473294137
+		},
+		{
+			"follow_id": 16,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "16YxtnaTrCSbvCXSYxrnvobmYnqtidxG23",
+			"user_name": "Hellozeronetwork",
+			"date_added": 1473294140
+		},
+		{
+			"follow_id": 17,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1473294142
+		}
+	]
+}

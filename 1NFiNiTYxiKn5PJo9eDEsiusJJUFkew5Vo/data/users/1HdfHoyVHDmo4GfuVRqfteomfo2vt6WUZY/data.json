@@ -1,0 +1,55 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 1,
+	"next_follow_id": 6,
+	"avatar": "generate",
+	"user_name": "Salearabe",
+	"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471381498,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1419tAMhmxurWvtjYtyQej2qro6BaPs7is",
+			"user_name": "Arr!",
+			"date_added": 1471381501
+		},
+		{
+			"follow_id": 2,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1FqhNrKHQYyGg4RMLwbzhp28VDbAvKxUGT",
+			"user_name": "Logen",
+			"date_added": 1471381502
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LKicujZ2AuR4i5XWVQqNWWtNPspVPdarQ",
+			"user_name": "Matt",
+			"date_added": 1471381503
+		},
+		{
+			"follow_id": 4,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1MBu28u35TmZZMv1CYVuZ5SFt327NWSFiz",
+			"user_name": "Cesionaut",
+			"date_added": 1471381503
+		},
+		{
+			"follow_id": 5,
+			"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
+			"auth_address": "1HdfHoyVHDmo4GfuVRqfteomfo2vt6WUZY",
+			"user_name": "Salearabe",
+			"date_added": 1471381504
+		}
+	]
+}

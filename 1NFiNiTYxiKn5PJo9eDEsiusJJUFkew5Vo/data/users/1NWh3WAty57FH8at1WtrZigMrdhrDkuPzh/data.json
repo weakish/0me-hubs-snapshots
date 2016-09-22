@@ -1,0 +1,43 @@
+{
+	"next_comment_id": 7,
+	"user_name": "Kaffie",
+	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+	"post_like": {
+		"1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_4": 1470954313,
+		"1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_6": 1470978851,
+		"1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9_5": 1471472542,
+		"1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9_7": 1471556249
+	},
+	"comment": [
+		{
+			"comment_id": 2,
+			"body": "@nofish is red.",
+			"post_uri": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_5",
+			"date_added": 1470962993
+		},
+		{
+			"comment_id": 3,
+			"body": "It's likely just coloration based on the public key. The same thing has been done on other zeronet sites, like ZeroTalk.",
+			"post_uri": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_5",
+			"date_added": 1470963496
+		},
+		{
+			"comment_id": 4,
+			"body": "Does it grab whatever hubs people are using, or is it all hardcoded+seeds? Automatically grabbing hubs that people are using would help solve the problem for good.",
+			"post_uri": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_7",
+			"date_added": 1470992939
+		},
+		{
+			"comment_id": 5,
+			"body": "Awesome. I fiddled around with it, and unless there's the hubs hiding somewhere I didn't look, it indeed looks like it's pulling them automatically. And yea, I edited the python script to fix the bug.",
+			"post_uri": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_7",
+			"date_added": 1470997355
+		},
+		{
+			"comment_id": 6,
+			"body": "@Jayofthezero: You still have to do the manual work. That page is just a clone of the ZeroMe 'create profile' page, just with more hubs by default.",
+			"post_uri": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_7",
+			"date_added": 1471040054
+		}
+	]
+}

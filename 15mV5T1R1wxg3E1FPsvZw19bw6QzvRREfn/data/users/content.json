@@ -1,0 +1,31 @@
+{
+ "address": "15mV5T1R1wxg3E1FPsvZw19bw6QzvRREfn",
+ "files": {},
+ "ignore": ".*",
+ "inner_path": "data/users/content.json",
+ "modified": 1473098332.2645,
+ "signs": {
+  "15mV5T1R1wxg3E1FPsvZw19bw6QzvRREfn": "G1MB1xUC0RVJAoVE/quJlnRGpf3Z3lCu+/v41aitzH8z4fCt3GqHdTbTYqx/Ca2jWIVoVW0VBIGAWRgJXkd6BME="
+ },
+ "user_contents": {
+  "cert_signers": {
+   "kaffie.bit": [ "1KH5BdNnqxh2KRWMMT8wUXzUgz4vVQ4S8p" ],
+   "zeroid.bit": [ "1iD5ZQJMNXu43w1qLB8sfdHVKppVMduGz" ]
+  },
+  "permission_rules": {
+   ".*": {
+    "files_allowed": "(data.json|avatar.jpg|avatar.png)",
+    "max_size": 10000000
+   },
+   "bitid/.*@kaffie.bit": { "max_size": 10000000 },
+   "bitid/.*@zeroid.bit": { "max_size": 10000000 },
+   "bitmsg/.*@kaffie.bit": { "max_size": 10000000 },
+   "bitmsg/.*@zeroid.bit": { "max_size": 10000000 },
+   "web/.*@kaffie.bit": { "max_size": 10000000 }
+  },
+  "permissions": {
+   "banexample@zeroid.bit": false,
+   "nofish@zeroid.bit": { "max_size": 10000000 }
+  }
+ }
+}

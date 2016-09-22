@@ -1,0 +1,21 @@
+{
+ "address": "1JUDmCT4UCSdnPsJAHBoXNkDS61Y31Ue52",
+ "cert_auth_type": "bitmsg",
+ "cert_sign": "HF3VctXmA8RFj/34jL5ULmFI/T2DgAn5Mv6FbJA99ddP7axvLkumhgHULSAKk6y5Fa611rGbvfUVK6psEn8Pqoo=",
+ "cert_user_id": "theterminator@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "438a7ca087d0a79f13065e725b164bd406be8106ae39dc498fea6f08f5e3462f",
+   "size": 2691
+  },
+  "data.json": {
+   "sha512": "aa3d184c5270e6c47907898c7c89b6f46fdbcd1f5ce29a889bdeefe835a15960",
+   "size": 756
+  }
+ },
+ "inner_path": "data/users/1DtTF9bsZgRRsqvsZo2V88rHRDz1rutWgr/content.json",
+ "modified": 1471704874.741116,
+ "signs": {
+  "1DtTF9bsZgRRsqvsZo2V88rHRDz1rutWgr": "GwLLo0thtggKAkGUAsM+7ja/DSIggFb4dJ6pPapAo8exCbLl1DZ03QrjbiEDXGesbT/9wJEogOHaQ73rYwuxAVc="
+ }
+}

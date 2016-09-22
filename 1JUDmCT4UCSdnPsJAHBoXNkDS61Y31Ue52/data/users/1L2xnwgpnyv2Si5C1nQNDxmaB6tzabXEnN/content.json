@@ -1,0 +1,21 @@
+{
+ "address": "1JUDmCT4UCSdnPsJAHBoXNkDS61Y31Ue52",
+ "cert_auth_type": "bitmsg",
+ "cert_sign": "HH48kNS7Z6GOz2OfRSfukfjhiXAnqvjiivFE7anOA+OS9384gzycS0+pNIzjo7+gMSwpAo1eLcCfBwt/wswMouI=",
+ "cert_user_id": "reginageorge@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "d4a0254774040328f5adfffc626190aafc6715bd7c71a1191b089bc108f2f6b2",
+   "size": 2131
+  },
+  "data.json": {
+   "sha512": "9bc085d236e3fb6a13efb4eb891fcefe50bfd0d2ce62de9b0fcc8f803ce9cf45",
+   "size": 549
+  }
+ },
+ "inner_path": "data/users/1L2xnwgpnyv2Si5C1nQNDxmaB6tzabXEnN/content.json",
+ "modified": 1471704873.199884,
+ "signs": {
+  "1L2xnwgpnyv2Si5C1nQNDxmaB6tzabXEnN": "HEaNeA/nK/fGgXmzyq5SG0+rGMaIaWBLMVhCCUanZRmqnXyH+YdxDMKnnM+rRpzOvDBUVzbpMk/U6QsnAW6QTJ8="
+ }
+}

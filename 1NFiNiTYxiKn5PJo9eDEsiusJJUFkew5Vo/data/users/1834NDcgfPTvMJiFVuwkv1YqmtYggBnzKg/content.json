@@ -1,0 +1,21 @@
+{
+ "address": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
+ "cert_auth_type": "web",
+ "cert_sign": "G7WoFp3ywRar57zZKr0krifY+m9PDgm7MWHjYW3a5OBJ9b0LdRiMb3PSiYxOXEg4z2UqSvrkPDIOsrg4zlm7Sug=",
+ "cert_user_id": "mediagiant@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "b792ac5aac413e69987cd16c23c0e511d4d040080ff2b649a363cb8a5fcb88b3",
+   "size": 1679
+  },
+  "data.json": {
+   "sha512": "7981853c32531e16e8d02f51f70cd50efcc075a186c92173fc1e4654034f0b8e",
+   "size": 1328
+  }
+ },
+ "inner_path": "data/users/1834NDcgfPTvMJiFVuwkv1YqmtYggBnzKg/content.json",
+ "modified": 1471402455.319,
+ "signs": {
+  "1834NDcgfPTvMJiFVuwkv1YqmtYggBnzKg": "G4soGolPlf+llt7VP+WWl2ZOCoPM2knhxXE/f47PBa+K2qGPfVB699jGIXwf/JDBL/l2TzOZoMf7Q9ChRV8eQgI="
+ }
+}

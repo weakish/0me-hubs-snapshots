@@ -1,0 +1,74 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 9,
+	"avatar": "generate",
+	"user_name": "Sloppyjon",
+	"hub": "18FheQ1v3bz4iv5yx8hr9hg5W5BJ8WNJ8d",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471729547,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 2,
+			"body": "How the heck is this working ? I got no clue what to do here",
+			"date_added": 1471729567
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 2,
+			"hub": "18FheQ1v3bz4iv5yx8hr9hg5W5BJ8WNJ8d",
+			"auth_address": "1Hrxe8am5by9G5k4MeQDHVLepsJJ9yX5Fg",
+			"user_name": "Olvazgufgggxyyp2",
+			"date_added": 1471729666
+		},
+		{
+			"follow_id": 3,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "19hRecVctEokLzFmMcJW5MDAnBJQcXZ4xc",
+			"user_name": "Lordplagueis",
+			"date_added": 1471729666
+		},
+		{
+			"follow_id": 4,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "12WVDqcd9XfJoxf9FjFuuqm1B5wRuQxrjE",
+			"user_name": "Ygmarchi",
+			"date_added": 1471729667
+		},
+		{
+			"follow_id": 5,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1FGUjsBYQRTj783D9z311UQj8jpgiQQbSM",
+			"user_name": "Ox18",
+			"date_added": 1471729667
+		},
+		{
+			"follow_id": 6,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LycGGdzezpDF5gcKoL12vkLRo8xvKb7id",
+			"user_name": "Tenor",
+			"date_added": 1471729668
+		},
+		{
+			"follow_id": 7,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "12ZR41wQTzp2r5pAE9TW6jYKQ1c6NDreVx",
+			"user_name": "Corvus",
+			"date_added": 1471729668
+		},
+		{
+			"follow_id": 8,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1K8eVARKNzhQV5DpDjhyd5arV6GtYmYis6",
+			"user_name": "Soks",
+			"date_added": 1471729669
+		}
+	]
+}

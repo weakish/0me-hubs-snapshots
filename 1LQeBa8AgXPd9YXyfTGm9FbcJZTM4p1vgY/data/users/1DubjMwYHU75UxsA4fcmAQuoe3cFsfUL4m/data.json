@@ -1,0 +1,27 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 1,
+	"next_follow_id": 2,
+	"avatar": "png",
+	"user_name": "Danskeren",
+	"hub": "1LQeBa8AgXPd9YXyfTGm9FbcJZTM4p1vgY",
+	"intro": "Danish ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1473770066,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx",
+			"user_name": "ks",
+			"date_added": 1473770328
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 2,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "Josh1",
+	"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471120809,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 2,
+			"body": "i like turtles",
+			"date_added": 1471344597
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "I speak chinese yes.",
+			"post_uri": "19GLizAHFbsU1My9fkBitenCUc9GWTmPS9_3",
+			"date_added": 1471120893
+		}
+	],
+	"follow": []
+}

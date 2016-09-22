@@ -1,0 +1,36 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 2,
+	"next_follow_id": 2,
+	"avatar": "jpg",
+	"user_name": "Bot",
+	"hub": "18FheQ1v3bz4iv5yx8hr9hg5W5BJ8WNJ8d",
+	"intro": "Hub Mechanic.",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471445619,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {
+		"1HUrhTUZFB2KKsXLUv1vugPH358iB6zsiY_2": 1471479468
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "I was sent a link and joined okay. After that it's on the \"seeded hubs\" page.",
+			"post_uri": "1HUrhTUZFB2KKsXLUv1vugPH358iB6zsiY_2",
+			"date_added": 1471479305
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GNDhMXNnxfghKQXhRv9CZgfye6Q2Dzh9G",
+			"user_name": "Anomalous",
+			"date_added": 1471577412
+		}
+	]
+}

@@ -1,0 +1,44 @@
+{
+ "address": "1LQeBa8AgXPd9YXyfTGm9FbcJZTM4p1vgY",
+ "address_index": 22675351,
+ "background-color": "#F2F4F6",
+ "cloneable": true,
+ "cloned_from": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+ "description": "The size limit is raised to 25 MB per user. Runner: danskeren@zeroid.bit",
+ "files": {
+  "css/all.css": {
+   "sha512": "668f57adcbc80a0b7a2a7fbbd8f95207f34afc331530e0688f1609f1731a59cb",
+   "size": 38071
+  },
+  "data-default/users/content.json-default": {
+   "sha512": "4e37699bd5336b9c33ce86a3eb73b82e87460535793401874a653afeddefee59",
+   "size": 735
+  },
+  "index.html": {
+   "sha512": "ba38c497cf9d8af2524fe97d6049dcb7edd0ae8db3e001197c341f841e603ff3",
+   "size": 814
+  }
+ },
+ "ignore": "((js|css)/(?!all.(js|css))|data/.*db|data/users/.*/.*)",
+ "includes": {
+  "data/users/content.json": {
+   "signers": [],
+   "signers_required": 1
+  }
+ },
+ "inner_path": "content.json",
+ "merged_type": "ZeroMe",
+ "modified": 1471883299.264442,
+ "postmessage_nonce_security": true,
+ "sign": [
+  33471291221920575027040004685680725388542667912392599300346790114971054164196,
+  80767288032532615349191241485321161316756501722960299112115286253848551535403
+ ],
+ "signers_sign": "HDtHDA9DZEU03hYj2O8tZh0XQyIcG/xyvP+XJmZjZynOZAh9wcfbHzBHfBkLq3GScML05r3SNNy8PcbTJhxiPek=",
+ "signs": {
+  "1LQeBa8AgXPd9YXyfTGm9FbcJZTM4p1vgY": "HIZA4sff0gHAjml7K2PbFw9nc/G+MwSI9vGYMU9Yaf9/pZIoQzMMB6NeCF9kIbg1R+TI3s4VQAKrsRo/3K0C45k="
+ },
+ "signs_required": 1,
+ "title": "The Great Dane Hub",
+ "zeronet_version": "0.4.0"
+}

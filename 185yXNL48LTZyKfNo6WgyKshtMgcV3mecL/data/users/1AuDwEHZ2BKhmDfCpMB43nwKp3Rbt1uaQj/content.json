@@ -1,0 +1,21 @@
+{
+ "address": "185yXNL48LTZyKfNo6WgyKshtMgcV3mecL",
+ "cert_auth_type": "web",
+ "cert_sign": "H+s8dV/nHvTIZs2LiHibPfUdy5y7KNG/ANX86TVUwnpHEzECjsL2jvoL9idGByx4RuimLvWVGnpItR2niBWbPkw=",
+ "cert_user_id": "icf20@kaffie.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "befca3163d48cab356ccc110563e38758a6c6b75f9fe61ec26698ea9ccade5a9",
+   "size": 1692
+  },
+  "data.json": {
+   "sha512": "8026ff148bdf04f5a3d41b43f04107955b62623a61f38ea4f22349d5a6319dbb",
+   "size": 2588
+  }
+ },
+ "inner_path": "data/users/1AuDwEHZ2BKhmDfCpMB43nwKp3Rbt1uaQj/content.json",
+ "modified": 1473845514.941563,
+ "signs": {
+  "1AuDwEHZ2BKhmDfCpMB43nwKp3Rbt1uaQj": "G/cMznoBUrJYRe6CH8SiQXZPGsnKiauJRONuZZDmQ97wLLYBad+qC7ZBfRIBPGENIeEp6ARaMKgWav/S4J1/FG0="
+ }
+}

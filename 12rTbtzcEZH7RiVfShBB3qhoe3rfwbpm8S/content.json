@@ -1,0 +1,40 @@
+{
+ "address": "12rTbtzcEZH7RiVfShBB3qhoe3rfwbpm8S",
+ "address_index": 93151440,
+ "background-color": "white",
+ "cloneable": true,
+ "cloned_from": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "description": "Bitcoin Hub",
+ "files": {
+  "data-default/users/content.json-default": {
+   "sha512": "4e37699bd5336b9c33ce86a3eb73b82e87460535793401874a653afeddefee59",
+   "size": 735
+  },
+  "index.html": {
+   "sha512": "087c6ae46aacc5661f7da99ce10dacc0428dbd48aa7bbdc1df9c2da6e81b1d93",
+   "size": 466
+  }
+ },
+ "ignore": "((js|css)/(?!all.(js|css))|data/.*db|data/users/.*/.*)",
+ "includes": {
+  "data/users/content.json": {
+   "signers": [],
+   "signers_required": 1
+  }
+ },
+ "inner_path": "content.json",
+ "merged_type": "ZeroMe",
+ "modified": 1471030990.060962,
+ "postmessage_nonce_security": true,
+ "sign": [
+  99732141281240157107222657996634621372528060129964199536622852612916669238870,
+  26036893795341369696862020104981797853746371743661490195518309999870786251662
+ ],
+ "signers_sign": "HEmW9APNciWci5GxS64zxDZoOaeyFsEhOfNzljRbH4qjmPwStYTUaC9qxTXP1grqF/ueLgzp6bnxjeBaPtnTXYg=",
+ "signs": {
+  "12rTbtzcEZH7RiVfShBB3qhoe3rfwbpm8S": "G8hsBLEqOhJIBIgYM63XdV731x8j8eIuvcHL+rmZJFsY2nIGMcoqShIrfvLc1fn3JWfm2vakNeP7gwy/NxS8FH0="
+ },
+ "signs_required": 1,
+ "title": "Bitcoin",
+ "zeronet_version": "0.4.0"
+}

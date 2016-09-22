@@ -1,0 +1,40 @@
+{
+ "address": "18FheQ1v3bz4iv5yx8hr9hg5W5BJ8WNJ8d",
+ "address_index": 64240236,
+ "background-color": "white",
+ "cloneable": true,
+ "cloned_from": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "description": "Yellow Hub runned by 19@zid (Please join this hub and say something if it works. Thanks.)",
+ "files": {
+  "data-default/users/content.json-default": {
+   "sha512": "4e37699bd5336b9c33ce86a3eb73b82e87460535793401874a653afeddefee59",
+   "size": 735
+  },
+  "index.html": {
+   "sha512": "264c722ddb87a1d341acdbb32fda6ca8bf2db16a5447259163b1a16f4b695a04",
+   "size": 526
+  }
+ },
+ "ignore": "((js|css)/(?!all.(js|css))|data/.*db|data/users/.*/.*)",
+ "includes": {
+  "data/users/content.json": {
+   "signers": [],
+   "signers_required": 1
+  }
+ },
+ "inner_path": "content.json",
+ "merged_type": "ZeroMe",
+ "modified": 1471442538.717,
+ "postmessage_nonce_security": true,
+ "sign": [
+  110833503999626937396943448630215701301305270424244920923354886601327956538360,
+  42223398205720224199591395173951770057184137797920884289317471126615839669997
+ ],
+ "signers_sign": "HNSQE5IQZWRUETM+TXOAgsYfga4p1Ablp7G+JZyM1ae2f9dh1FLin1MBT2s3NNBjILkCn0ZtAGOvOoXUkRCNqq0=",
+ "signs": {
+  "18FheQ1v3bz4iv5yx8hr9hg5W5BJ8WNJ8d": "HAxkDPw5pQ65bVLIx+ab5QQAs6VsiNQVIJUVIc2Jc0sBwDRA2Y5gp0f3dIupNCGb9vHuR0HedBMSVomukXExGZ8="
+ },
+ "signs_required": 1,
+ "title": "YellowHub",
+ "zeronet_version": "0.4.0"
+}

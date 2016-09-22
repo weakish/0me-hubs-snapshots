@@ -1,0 +1,39 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 3,
+	"avatar": "generate",
+	"user_name": "Antyhrabia",
+	"hub": "149fpM31r6YUc7WZ1m28Lq6Ef3zwdBFKBq",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1472653830,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1472653844,
+			"body": "Test konta z antyhrabiaID.",
+			"date_added": 1472653842
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "149fpM31r6YUc7WZ1m28Lq6Ef3zwdBFKBq",
+			"auth_address": "1GPjsGzf3tiQNEQdQKmfo37qwEL1p1Wa6N",
+			"user_name": "Spawn",
+			"date_added": 1472653882
+		},
+		{
+			"follow_id": 2,
+			"hub": "149fpM31r6YUc7WZ1m28Lq6Ef3zwdBFKBq",
+			"auth_address": "1L5rGDgTs4W2V7gekSvJNhKa7XaHkVwotD",
+			"user_name": "Antyhrabia",
+			"date_added": 1472654166
+		}
+	]
+}

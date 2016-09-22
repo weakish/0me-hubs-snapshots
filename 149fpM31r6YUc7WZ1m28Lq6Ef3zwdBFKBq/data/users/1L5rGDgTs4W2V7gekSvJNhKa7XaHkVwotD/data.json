@@ -1,0 +1,332 @@
+{
+	"next_post_id": 13,
+	"next_comment_id": 11,
+	"next_follow_id": 34,
+	"avatar": "generate",
+	"user_name": "Antyhrabia",
+	"hub": "149fpM31r6YUc7WZ1m28Lq6Ef3zwdBFKBq",
+	"intro": "Polacy w ZeroNet.\n[PolskiHub](http://127.0.0.1:43110/149fpM31r6YUc7WZ1m28Lq6Ef3zwdBFKBq)\n[ZeroTalk Polska](http://127.0.0.1:43110/1GRYnz73jSXoMMZNU3nSmbCFA3twuitcoo)",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471440929,
+			"body": "Hello ZeroMe! Test polskich znaków: ąćęłńóśźż."
+		},
+		{
+			"post_id": 2,
+			"body": "To mój ostateczny [profil](http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Profile/149fpM31r6YUc7WZ1m28Lq6Ef3zwdBFKBq/1L5rGDgTs4W2V7gekSvJNhKa7XaHkVwotD/antyhrabia@zeroid.bit). Jeśli ktoś mnie śledzi i w pasku adresu profil nie ma takiego adresu jak ten w odnośniku to znaczy że śledzi mój stary profil. Prosiłbym o przestanie śledzenia go i jedynie śledzenia tego. Postawiłem go na swoim własnym hubie.",
+			"date_added": 1471440994
+		},
+		{
+			"post_id": 3,
+			"body": "W związku z problemem z naszym polskim forum, będę pisał póki co tutaj. Problem objawia się tym że doszedłem do limitu znaków na forum. Ja je zakładałem, więc mogę też zedytować, ale w praktyce nic to nie daje. Zwiększyłem limit i za asygnowałem pliki i je wysłałem. Gdy wchodzę mam zwiększony limit, lecz gdy próbuję coś napisać, pojawia mi się błąd. Co ciekawe, jako efekt uboczny skasowało mi prywatny klucz do forum z pliku users (na szczęście miałem kopię pliku, bo bez tego nie mógłbym wprowadzać żadnych zmian na forum). Do tego nie powinno dochodzić pod żadnym pozorem: Gdy tworzymy stronę od podsaw to klucz prywatny jest nam pokazywany w terminali i mamy go sobie gdzieś spisać i wklepywać gdy potrzebujemy. Gdy klonujemy stronę, to nie musimy o tym myśleć, bo jest on automatycznie wszywany w plik users. Gdyby nie moje roztrzepanie i zrobienie kopii zapasowej to forum by nadal istniało, ale nie mógłbym wprowadzać żadnych zmian w plikach. Tak więc aktualnie robię za deus otiosus. Skrypt proponuje mi skontaktowanie się z nofishem (co z resztą zrobiłem bo zgłupiałem na początku) w celu zwiększenia limitu, co jest bez sensu, bo ja klonowałem forum (tak więc jestem jedyna osoba która może zwiększyć limit). Problemem wydaje mi się synchronizacja plików. Z jakichś powodów od wersji 1416 gdy próbuję podpisać pliki i je udostępnić to mimo iż w konsoli mi się wszystko zgadza, to w praktyce tylko ja mam zmieniony pliki (bowiem są u mnie na dysku), a inni korzystają z tych z przed zmiany i co dziwne ich pliki (starsze0 nadpisują moje (nowsze). Nie wiem czy to przejściowe, bo sprawdzałem na dwóch różnych komputerach i systemach. Do tego od aktualizacji do 1422 zniknęły mi wszystkie wpisy z serwisów które śledziłem (z forów, blogów) w ZeroHello. Pisałem o tym do nofisha ale nie wiem czy odczytał wiadomość. Mam nadzieję ze na dniach się wszystko bardziej ustabilizuje i będę mógł ogarnąć forum (i swój limit znaków) jak i pozostałe problemy zostaną poprawione przez naszego głównego programistę. Co do naszego PolskiegoHuba, to jako ciekawostkę podam że miał mieć inny adres (sklonowałem go z innego huba) i... nie mogłem nad nim zapanować. Chciałem podbić limit znaków w nim, ale nie mogłem tego zrobić bo mimo iż wysyłałem zmieniony plik do innych, to starszy plik z mniejszym limitem nadpisywał ten nowy (tak jakby nowy plik nie dochodził do innych użytkowników, a w ramach synchronizacji stary plik innych użytkowników kasował ten nowy który edytowałem i zapisywałem). Tak więc musiałem postawić huba bez klonowania i zedytować pliki i ustawić wszystko raz a dobrze i dopiero go udostępnić. Notabene z kolejnych błędów, przez przypadek zapomniałem na drugim komputerze skopiować swój profil i przeniosło mnie do ZeroId do rejestracji użytkownika. I cholera nie chciała działać (wiem, mam konto, ale chciałem coś sprawdzić). Pokazał mi się błąd (jeśli chcę zarejestrować się przez stronę), ale mogłem zarejestrować się przez Bitmessage (ale niestety za drugim razem, za pierwszym zarejestrowało mi użytkownika, ale nie wbiło nic do plików, dopiero za drugim).",
+			"date_added": 1471461307
+		},
+		{
+			"post_id": 4,
+			"body": "Już wiem czemu poznikały mi wiadomości w newsfeedzie, bo do przyspieszenia działania sieci, skanuje on zmiany w śledzonych serwisach z ostatnich 3 dni (jest to zmiana dla rewizji 1422).",
+			"date_added": 1471615320
+		},
+		{
+			"post_id": 5,
+			"body": "Gdyby ktoś nie zauważył, nofish wprowadził funkcję pisania komentarzy nie tylko z naszego panelu ZeroMe, ale też wchodząc w nasz profil. Kolejną zmianą jest to że pod listą aktywności i użytkowników, mamy sugerowanych użytkowników (nie przyglądałem się dokładnie mechanizmowi, wygląda raczej na losowy, uwzględniając osoby które obserwujemy i wtedy proponuje te osoby które śledzą ci których my śledzimy). Kolejną funkcją, na razie testową jest profil że tak powiem \"skrócony\": Bez ciągu znaków jaki mamy teraz (aktualnie adres użytkownika składa się z adresu sieci ZeroMe, adresu ZeroMe, a następnie adresu huba, ciągu znaków użytkownika i dopiero jego nazwy). W związku z tym że hub i ciąg znaków użytkownika byłby pomijany, mielibyśmy od razu po adresie ZeroMe nazwę użytkownika czyli np. http://127.0.0.1:43110/Me.ZeroNetwork.bit/?ProfileName/Antyhrabia ale w związku z tym że w ZeroMe możemy edytować wyświetlaną nazwę użytkownika, to skrócony profil może prowadzić nie do tego profilu co chcemy albo w ogóle nie załadować się, tak więc na razie nasz programista będzie musiał to chyba trochę przerobić.",
+			"date_added": 1471776181
+		},
+		{
+			"post_id": 6,
+			"body": "Oww, I missed 666 registered user (now is 674). So sad. When I checking number of registered user 5 hours ago, it was 649. Congrats @Nofish, its better and better with every update. But willl be in the future function to delete profile from old hub? Primaly i chose Blue hub (and accidentaly after this click on Red). After that i change it to Kaffie hub and then i create my own hub that i used know. I share red, kaffie and my own, but i cant have Blue hub to share, because it oversaving my new profile with my hub. It could be nice to transfer profile from old hub to new, or something like that. ",
+			"date_added": 1471797112
+		},
+		{
+			"post_id": 7,
+			"body": "W końcu podniosłem limit znaków na polskim forum ZeroNet. Aktualizowanie przez komendę SitePublish omija contet.json, dlatego mimo iż lokalnie widziałem podniesiony limit, to nie mogłem nic napisać. Rozwiązaniem okazał się... prawy panel boczny i aktualizacja content.json za jego sprawą...Teraz limit wynosi 300 tysięcy znaków. Chciałem skasować też te 3 spamowe wpisy i zniknęły, ale po godzinie pojawiły się znowu xd Czasami działanie 0net to magia dla mnie.",
+			"date_added": 1471893609
+		},
+		{
+			"post_id": 1472132674,
+			"body": "A little update for PolskiHub. Changed description and add support for KaffieID.\nMałe zmiany w PolskiHubie. Zmieniłem opis oraz dodałem wsparcie dla KaffieID - dzięki czemu można korzystać w PolskiHubie z KaffieID, komentować inne osoby z KaffieID i polubić ich wpisy.",
+			"date_added": 1472132666
+		},
+		{
+			"post_id": 1472314715,
+			"body": "Nice, new version of Archboot:\n- http://piotrkosoft.net/pub/mirrors/ftp.archlinux.org/iso/archboot/2016.08/\n- https://wiki.archlinux.org/index.php/Archboot",
+			"date_added": 1472314706
+		},
+		{
+			"post_id": 1472734452,
+			"body": "Thats sucks, site generate by Jekyll dont work in ZN. From Hugo works, but I dont like this static site gen.",
+			"date_added": 1472734442
+		}
+	],
+	"post_like": {
+		"1PctFD5Ag7253pEzq96qPwY1vUs7efAxUt_2": 1471461208,
+		"13U9mRgV3bdkXiNXjMZeBWTcSHZjgNmk2z_1": 1471948200
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Odpiszę ci tutaj, bo niestety wyczerpałem limit na forum, a nie mogę go zwiększyć (jakiś błąd w sieci, a nie mam czasu by to analizować teraz). Więc tak: z hubami i z zerome jest trochę różnie. Ogólnie to jest tak: ZeroMe działa jako plugin do ZeroHello (ten główny kokpit który się pojawia po włączeniu ZeroNet). ZeroMe działa jako strona (jest wśród innych na liście w Zerohello). Wszelkie poprawki, zmiany są tam wprowadzane przez nofisha (zmiany można oglądać też na githubie gdy je wprowadzi)  i nie jest to coś czym się musimy martwić, zajmować. Jak ktoś chce mógłby sklonować i zrobić swoją wersję ZeroMe (np. gdyby wprowadzono strony na hasło/klucz to klon zerome mógłby służyć jako np. portal dla wybranej grupy gdzie dostęp jest z pozwoleniem). Kolejnym elementem jest strona ze wszystkimi użytkownikami. Ona też jest niezależna i na upartego można by zrobić jej wersję (ale bez własnej wersji ZeroMe nie widzę takiej potrzeby czy sensu). Inaczej jest z hubami. Huby są proste, łatwo edytowalne itd. Nofish zastanawiał się nad podziałem: czy zrobić tak by każdy użytkownik stanowił hub, czy jednak zrobić parę hubów gdzie rozproszy się użytkowników i ew. stworzą własne na tyle na ile potrzebują. Pomysł pierwszy nie wypalił o tyle, że wymagałoby to dużej skalowalności i w przypadku większości która chce jedynie się dodać do jakiegoś huba i konwersować z innymi, niż kontrolować wszystko. W związku z tym poszło to drugie, czyli parę dużych hubów, z czasem wymienianych na nowych (zauważ że Redhub już nie jest dostępny, został zastąpiony Greenhubem, ponieważ Red ma już ponad 250 użytkowników w nim zarejestrowanych). Niestety samo ZeroMe jest na dość wczesnym etapie (parę razy zniknęło mi śledzenie jakiejś osoby) oraz same huby, mimo iż są proste, to nofish nie postarał się jeszcze (o ile planuje takie coś) na zmianę hubów. O co mi dokładnie chodzi? Można być w milionie hubów, ale tylko jeden będzie reprezentatywny. Zanim ustawiłem ten nasz Polskihub, to pierwotnie dodałem się do Bluehuba i przez przypadek do Red, potem testowałem hub Kaffie, swój testowy oraz 1nfinity. I zaczęło mi to pieprzyć konto. Gdy raz się dodamy do jakiegoś huba i zmienimy na nowy (do którego wcześniej się nie dodaliśmy jak np. ty teraz z blue/red do naszego) to da się funkcjonować. Gorzej gdy np. dodamy się do paru i chcemy do któregoś wrócić (pokazuje już nam że jesteśmy jego użytkownikiem) i... z tym czy wrócimy do starego czy zostaniemy w tym nowym to już loteria (jakiś błąd skryptu). Jest to o tyle wkurzające że np. udostępniam jedynie redhuba oraz naszego polskiego. Nie udostępniam blue, ponieważ miałem na nim parę wpisów i wraz z jego udostępnianiem, na moim profilu pokazuje mi wpisy nie tylko aktualne, ale też z dawnych hubów. Niestety to aktualnie wszystko trochę pod górkę, bo gdy chce się korzystać z huba nieoficjalnego, to najpierw trzeba w niego wejść (czyli znać adres) i wrócić do strony wyboru hubów i wtedy dopiero się pojawi obok oficjalnych i będzie można go wybrać. Niestety nie ma skryptu który przy zmianie huba, kasowałby konto na starym hubie. U mnie wyglądało to tak: zarejestrowałem się w Blue, napisałem 6 wpisów, potem dodałem się do Red (niechcący) i automatycznie wbiło mi wpis \"hello zerome\" i nie mogłem już skasować tych 6 poprzednich z niebieskiego huba, bo byłem w red. Gdy próbowałem wrócić do blue, to pisało mi że już jestem w tym hubie. Przy okazji Kaffie oraz Bot wydali swoje wersje hubów (nasz hub jest fuzją oficjalnego huba, wraz z tym od Kaffiego) i zniknęły mi wpisy (z blue oraz red). Potem dodałem się do 1nfinity i postanowiłem postawić swój testowy. Akurat przy testowaniu swojego huba usunąłem wszystkie 4 poprzednie. Potem usunąłem w ogóle Zerome i chciałem zobaczyć co się stanie jak wrócę. Znowu wszedłem w zerome, wybrałem użytkownika i... konto przypisało mi do Blue oraz pojawiły mi się wszystkie wpisy (ze wszystkich hubów gdzie byłem), ale mogłem tylko edytować te z Blue. Szczerze? Kaffie na to znalazł jakieś rozwiązanie, ale to aktualnie hackowanie plików i bardziej to obejście problemu niż jego naprawa (sam z resztą ma aktualnie 4 konta w ZeroMe i tylko jedno działa poprawnie (zaczyna się od adresu jego huba 12h51). Ogólnie rozchodzi się o to że hub trzyma twój profil. Przy zmianie huba powinno przenieść dane z jednego huba do tego nowego (nie zostawiają plików na poprzednim). Tak się niestety nie dzieje i w każdym hubie którym byłeś jest twój profil, na tyle na ile go użytkowałeś. By nie mieć kociokwiku najlepiej od razu dodać się do wybranego huba, albo przy zmianie odklikać wszystkie \"śledzenia\" oraz swoje posty i dopiero dodać się do nowego huba (wtedy stare konto nie będzie nachodzić na nowe). Aktualnie z tym nachodzeniem jest już lepiej bo np. na moim profilu widać tylko te z PolskiegoHuba (nie mogę jedynie udostępniać bluehuba, ale wpisy z red, kaffie oraz 1nfinity przestały mi się przebijać).\nAch, w ramach wyjaśnienia. Stworzyłem ten nasz hub nie tylko z myślą ze Polacy w swoim gronie, ale także dlatego że mogę kontrolować limit danych (zwiększyłem go znacznie, podług oficjalnych hubów). Muszę swoją drogą zrobić mały przewodnik i wstawić go w tej stronie udostępniania PolskiegoHuba (niestety na forum na razie nie dam rady pisać nie wiem czemu, muszę napisać do nofisha ze coś się dzieje z uprawnieniem plików).",
+			"post_uri": "19CaLqeDkvxeZMZuKWShHJmVpj5D3zwuup_1",
+			"date_added": 1471459939
+		},
+		{
+			"comment_id": 2,
+			"body": "Witamy, witamy.",
+			"post_uri": "1PctFD5Ag7253pEzq96qPwY1vUs7efAxUt_2",
+			"date_added": 1471471427
+		},
+		{
+			"comment_id": 3,
+			"body": "@Tomasz: jbzd to serwis głównie z obrazkami, coś jak kwejk czy 9gag. Prędzej sadol by się do tego nadawał (choć przyznam że kiedyś siedziałem tam non stop, to ostatni raz wchodziłem tam z 6 miesięcy temu - cudowny brak czasu...). Akurat tam jest taki zlepek osobowości że mogłoby się części spodobać. Sam pamiętam kolesia który non stop wyszukiwał w domenach .onion strony karteli narkotykowych z Meksyku i je puszczał na sadola i za każdym razem musieli zmieniać adres przez niego (chyba z 4 razy).\nGłówny problem jest z Polakami w ZeroNet to taki że nie jesteśmy dużym narodem, to po pierwsze, po drugie większość nie interesuje się niczym poza normalnym Internetem. Ci bardziej zaawansowani siedzą na forach ukrytych w torze (a ci bardziej paranoiczni I2p, i chwała im za to, bo I2p jest super). Starzy wyjadacze z kolei wolą np. Freenet. 0net jest młodym projektem i stąd jego problem. Starzy wyjadacze wolą stare, ale bardziej znane rozwiązania, ci którzy raczkują z komputerem albo wystarcza im FB, nie potrzebują tutaj zaglądać. 3 grupę stanowią tacy jak my, którzy byli zaintrygowani i spróbowali i zostali. Strefa libertariańska, anarchistyczna, hakerska, (anarcho)kapitalistyczna miałyby dobrze w Zeronet. Problem leży w tym że to wszystko u nas w powijakach (co prawda nie jestem libertarianinem, ale z tymi ludźmi się fajnie rozmawia, można naprawdę na wiele tematów i za granicą ciągną oni wiele ciekawych pomysłów do przodu, z resztą BTC powstało jako taka trochę anarchistyczna forma waluty). No ale w clearnecie tych ludzi jest tyle co kot napłakał, a sprowadzenie ich do 0net to też byłby wyczyn. Pokazywałem znajomemu z Partii Libertariańskiej ZeroNet, to się pozachwycał, nakręcił i w sumie tyle z tego wyszło. Przedstawiałem też znajomemu z fundacji Libertariańskiej to był w sumie podobny efekt - wszystko fajnie, ale oprócz aprobaty nic więcej. Z kolei u nas spora część anarchistów to komuniści a nie anarchiści i rozmowa z nimi to tragedia. Fajni są neutralni (ze tak ich nazwę), czyli zlepki różnych ideologii, ale będący murem za BTC i innymi kryptowalutami, ale oni mają swoje fora i nie bardzo chcieli przejść na 0net. Rozmawiałem raz z autorem jednej strony która ma fanpage na FB z obrazami (mają problem z częstymi banami na pewien czas, bo ktoś na nich donosi) i nawet ich zaciekawiłem, gdyby nie to że jak sami stwierdzili, na fb nie odwiedza ich zbyt wiele osób, a co dopiero w ZN. Z resztą, popatrz sobie na inne fora czy strony. Tutaj są głównie programiści :D Jest ich od chuja i jeszcze więcej. Na forach czy stronach libertariańskich, z kryptowalutami jest sinusoidalnie - na początku nikogo, chwilowym bum i potem cisza (spora część serwisów umarła po 3 miesiącach i tyle je widziałem). prawdę mówiąc jedyną rzeczą ciągnącą ludzi do takich nowinek to... piractwo. Nawet nie wyobrażasz sobie co ludzie potrafią się nauczyć, kombinować, byleby mieć łatwiejszy i bezpieczniejszy dostęp do pirackich treści (pomijam ze określenie pirackie jest błędne, ale cóż, tak się już utarło). Jedyną rzeczą która w ZN się rozwija to chińskie fora. Jest ich od cholery i prawie wszystkie opierają się na wymianie informacji między mieszkańcami Chin - że kogoś zaaresztowano, że zablokowano to i to i by lepiej tego nie wyszukiwać, albo o niewygodnych informacjach które nie był← podawane w telewizji).",
+			"post_uri": "19CaLqeDkvxeZMZuKWShHJmVpj5D3zwuup_1",
+			"date_added": 1471776330
+		},
+		{
+			"comment_id": 4,
+			"body": "@Spacewarrior02: This is information post for Polish speaking ZeroNet users. I tried translate and ease explain what new is in ZeroMe.",
+			"post_uri": "1L5rGDgTs4W2V7gekSvJNhKa7XaHkVwotD_5",
+			"date_added": 1471796285
+		},
+		{
+			"comment_id": 5,
+			"body": "Cześć Wkurwiony!",
+			"post_uri": "1HDRjGYjpFMch3iXbtvmoWYtEADUdXVJqV_1",
+			"date_added": 1471948048
+		},
+		{
+			"comment_id": 6,
+			"body": "Witamy.",
+			"post_uri": "13U9mRgV3bdkXiNXjMZeBWTcSHZjgNmk2z_1",
+			"date_added": 1471948210
+		},
+		{
+			"comment_id": 7,
+			"body": "Test komentarza.",
+			"post_uri": "1GPjsGzf3tiQNEQdQKmfo37qwEL1p1Wa6N_1472649016",
+			"date_added": 1472649155
+		},
+		{
+			"comment_id": 8,
+			"body": "Test komentarza.",
+			"post_uri": "17SpnWZ6kN3bnWjUfWzsDMQeR9buWzaghh_1472653844",
+			"date_added": 1472654221
+		},
+		{
+			"comment_id": 9,
+			"body": "Witamy w ZeroMe!",
+			"post_uri": "1AorX187vmHqeAxv8H39KkCibc7WBv6Tey_1",
+			"date_added": 1472657570
+		},
+		{
+			"comment_id": 10,
+			"body": "Witamy w Zeronet!",
+			"post_uri": "1BMckDnbHyrC7Nptr2jBRxwEHe4oYQtWqY_1",
+			"date_added": 1472733841
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1471441005
+		},
+		{
+			"follow_id": 3,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1471441073
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ",
+			"user_name": "P2P",
+			"date_added": 1471441086
+		},
+		{
+			"follow_id": 5,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ",
+			"user_name": "Musickiller",
+			"date_added": 1471441090
+		},
+		{
+			"follow_id": 6,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1D6Pn4487L8QyFtVSU14nxxtnfEgEs2Ny1",
+			"user_name": "Kickasstorrents",
+			"date_added": 1471441092
+		},
+		{
+			"follow_id": 7,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1CFhytwoGGPNqmueehPqotaf2iG9uxD98e",
+			"user_name": "Method-X",
+			"date_added": 1471441101
+		},
+		{
+			"follow_id": 9,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT",
+			"user_name": "Klaus Jónsson Zimmermann",
+			"date_added": 1471443672
+		},
+		{
+			"follow_id": 10,
+			"hub": "149fpM31r6YUc7WZ1m28Lq6Ef3zwdBFKBq",
+			"auth_address": "19CaLqeDkvxeZMZuKWShHJmVpj5D3zwuup",
+			"user_name": "Tomasz",
+			"date_added": 1471457766
+		},
+		{
+			"follow_id": 11,
+			"hub": "149fpM31r6YUc7WZ1m28Lq6Ef3zwdBFKBq",
+			"auth_address": "1PctFD5Ag7253pEzq96qPwY1vUs7efAxUt",
+			"user_name": "Jarmark",
+			"date_added": 1471459768
+		},
+		{
+			"follow_id": 13,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "137PNA5gLgCTLZTBtzUqCmMoZ752NQGQSJ",
+			"user_name": "Arsene Lupin",
+			"date_added": 1471514685
+		},
+		{
+			"follow_id": 14,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1471555655
+		},
+		{
+			"follow_id": 15,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ",
+			"user_name": "Sirenyc",
+			"date_added": 1471642300
+		},
+		{
+			"follow_id": 16,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331",
+			"user_name": "Andrewm",
+			"date_added": 1471691168
+		},
+		{
+			"follow_id": 17,
+			"hub": "149fpM31r6YUc7WZ1m28Lq6Ef3zwdBFKBq",
+			"auth_address": "1rVzPYdY5NJLM5vzA93mQNjuWoMVd9gDu",
+			"user_name": "Spawn",
+			"date_added": 1471694521
+		},
+		{
+			"follow_id": 18,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib",
+			"user_name": "megfault",
+			"date_added": 1471797205
+		},
+		{
+			"follow_id": 19,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV",
+			"user_name": "Mynameislegion",
+			"date_added": 1471814800
+		},
+		{
+			"follow_id": 20,
+			"hub": "149fpM31r6YUc7WZ1m28Lq6Ef3zwdBFKBq",
+			"auth_address": "1NgV3B8yFhDwJfnXZ1VuouKZzMfEU22nrT",
+			"user_name": "Biohazard",
+			"date_added": 1471947924
+		},
+		{
+			"follow_id": 21,
+			"hub": "149fpM31r6YUc7WZ1m28Lq6Ef3zwdBFKBq",
+			"auth_address": "12zmwWtkjm5TFmVbNKZnLuMYFGz3bPKBra",
+			"user_name": "Malebolgia",
+			"date_added": 1471947997
+		},
+		{
+			"follow_id": 22,
+			"hub": "149fpM31r6YUc7WZ1m28Lq6Ef3zwdBFKBq",
+			"auth_address": "1MufVd92s7FbDCmZJadcJ6Q6qKeeqgspZj",
+			"user_name": "Ponury",
+			"date_added": 1471948010
+		},
+		{
+			"follow_id": 23,
+			"hub": "149fpM31r6YUc7WZ1m28Lq6Ef3zwdBFKBq",
+			"auth_address": "1HDRjGYjpFMch3iXbtvmoWYtEADUdXVJqV",
+			"user_name": "Wkurwiony",
+			"date_added": 1471948036
+		},
+		{
+			"follow_id": 25,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR",
+			"user_name": "weakish",
+			"date_added": 1472560692
+		},
+		{
+			"follow_id": 26,
+			"hub": "149fpM31r6YUc7WZ1m28Lq6Ef3zwdBFKBq",
+			"auth_address": "1GPjsGzf3tiQNEQdQKmfo37qwEL1p1Wa6N",
+			"user_name": "Spawn",
+			"date_added": 1472649159
+		},
+		{
+			"follow_id": 27,
+			"hub": "149fpM31r6YUc7WZ1m28Lq6Ef3zwdBFKBq",
+			"auth_address": "17SpnWZ6kN3bnWjUfWzsDMQeR9buWzaghh",
+			"user_name": "Antyhrabia",
+			"date_added": 1472654208
+		},
+		{
+			"follow_id": 28,
+			"hub": "149fpM31r6YUc7WZ1m28Lq6Ef3zwdBFKBq",
+			"auth_address": "1AorX187vmHqeAxv8H39KkCibc7WBv6Tey",
+			"user_name": "Marek",
+			"date_added": 1472657558
+		},
+		{
+			"follow_id": 29,
+			"hub": "149fpM31r6YUc7WZ1m28Lq6Ef3zwdBFKBq",
+			"auth_address": "1BMckDnbHyrC7Nptr2jBRxwEHe4oYQtWqY",
+			"user_name": "5e2su6",
+			"date_added": 1472733832
+		},
+		{
+			"follow_id": 30,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC",
+			"user_name": "Waterrabbit",
+			"date_added": 1472758380
+		},
+		{
+			"follow_id": 31,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1P7F9po18mshkbRG5zEVV47vHtLEX19QJa",
+			"user_name": "Bashrc",
+			"date_added": 1473332004
+		},
+		{
+			"follow_id": 32,
+			"hub": "149fpM31r6YUc7WZ1m28Lq6Ef3zwdBFKBq",
+			"auth_address": "1CcKmMy8KEvx5xebrTsNCiTRggND1MYF1G",
+			"user_name": "Misiek",
+			"date_added": 1473870654
+		},
+		{
+			"follow_id": 33,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1474412900
+		}
+	]
+}

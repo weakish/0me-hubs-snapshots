@@ -1,0 +1,39 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 4,
+	"avatar": "jpg",
+	"user_name": "0faze",
+	"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
+	"intro": "A bored programmer ",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1470937736,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 2,
+			"body": "This is really cool, awesome work nofish <3",
+			"date_added": 1470937811
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1470938167
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1CwyP7JyaXpKVNXHKZfvRozBkCSk7hFAWe",
+			"user_name": "Wigy",
+			"date_added": 1470938243
+		}
+	]
+}

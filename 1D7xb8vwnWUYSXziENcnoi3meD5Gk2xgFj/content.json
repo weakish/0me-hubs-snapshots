@@ -1,0 +1,40 @@
+{
+ "address": "1D7xb8vwnWUYSXziENcnoi3meD5Gk2xgFj",
+ "address_index": 95749998,
+ "background-color": "red",
+ "cloneable": true,
+ "cloned_from": "1D7xb8vwnWUYSXziENcnoi3meD5Gk2xgFj",
+ "description": "True red hub",
+ "files": {
+  "data-default/users/content.json-default": {
+   "sha512": "4e37699bd5336b9c33ce86a3eb73b82e87460535793401874a653afeddefee59",
+   "size": 735
+  },
+  "index.html": {
+   "sha512": "087c6ae46aacc5661f7da99ce10dacc0428dbd48aa7bbdc1df9c2da6e81b1d93",
+   "size": 466
+  }
+ },
+ "ignore": "((js|css)/(?!all.(js|css))|data/.*db|data/users/.*/.*)",
+ "includes": {
+  "data/users/content.json": {
+   "signers": [],
+   "signers_required": 1
+  }
+ },
+ "inner_path": "content.json",
+ "merged_type": "ZeroMe",
+ "modified": 1473099025.319542,
+ "postmessage_nonce_security": true,
+ "sign": [
+  24417519208924398599958636399707383836858270146076010216460924895019441042079,
+  57939958329715719922870662050973199998632576779528627688466770248693096013705
+ ],
+ "signers_sign": "HHavneiBiZ5eM7LdJ9gmroT6PXRplOHAlD+KbuPus5l9a2GJCJwRhOsvnRcDTxAIeKBFvzfOGX9UZNE9xcSFz1w=",
+ "signs": {
+  "1D7xb8vwnWUYSXziENcnoi3meD5Gk2xgFj": "HPWzeb6OF76Nv2lO5MpRZJ3ECQWuZ0DbZj+5SPOLbse2boZszatQ2tsPxLrZPSRZpD6qh/tshCLXv7CMCipNtl4="
+ },
+ "signs_required": 1,
+ "title": "True red hub",
+ "zeronet_version": "0.4.1"
+}
