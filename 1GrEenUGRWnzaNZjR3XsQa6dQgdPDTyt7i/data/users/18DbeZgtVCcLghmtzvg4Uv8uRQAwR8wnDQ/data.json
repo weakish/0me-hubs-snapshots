@@ -1,5 +1,5 @@
 {
-	"next_post_id": 2,
+	"next_post_id": 3,
 	"next_comment_id": 1,
 	"next_follow_id": 2,
 	"avatar": "jpg",
@@ -11,6 +11,11 @@
 			"post_id": 1,
 			"date_added": 1474048929,
 			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1474568895,
+			"body": "Anyone else getting \n\"Remote XUL. This page uses an unsupported technology that is no longer available by default in Firefox. Please contact the website owners to inform them of this problem\" \nerror in ZeroNet? \n\nAre moving an AngularJS site into ZeroNet and have never before seen this kind of error before. Occurs randomly after a number of page reloads. A dead ZeroNet site with a (hidden) 1 px popup in center of the page. Cannot see that my JS code is using XUL anywhere ...\n\nhttp://127.0.0.1:43110/1JeHa67QEvrrFpsSow82fLypw8LoRcmCXk/",
+			"date_added": 1474568893
 		}
 	],
 	"post_like": {},

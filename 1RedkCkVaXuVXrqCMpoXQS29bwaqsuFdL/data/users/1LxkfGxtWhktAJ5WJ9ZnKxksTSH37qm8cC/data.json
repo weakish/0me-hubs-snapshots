@@ -1,6 +1,6 @@
 {
 	"next_post_id": 13,
-	"next_comment_id": 4,
+	"next_comment_id": 5,
 	"next_follow_id": 8,
 	"avatar": "generate",
 	"user_name": "Firebox",
@@ -84,6 +84,12 @@
 			"body": "You can label files as \"optional files\", so they do take space but do not count as site size.",
 			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1474513657",
 			"date_added": 1474514746
+		},
+		{
+			"comment_id": 4,
+			"body": "@Sirenyc: There is an example on [ReadTheDocs](https://zeronet.readthedocs.io/en/latest/site_development/content_json/#optional) and an example on my site: \n`\"optional\": \"(big/files/.*dat)\"`\nIt is a Regular Expression\nYou can use `\"optional\": \"(big/files/.*jpg)\"`",
+			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1474513657",
+			"date_added": 1474570240
 		}
 	],
 	"follow": [
