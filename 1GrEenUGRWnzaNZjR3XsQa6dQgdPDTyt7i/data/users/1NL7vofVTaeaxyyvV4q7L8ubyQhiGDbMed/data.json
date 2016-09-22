@@ -1,0 +1,32 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 2,
+	"avatar": "jpg",
+	"user_name": "Soren",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "thinker seeks human",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1474562661,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1474562983,
+			"body": "Side. Finds. Nothing. ",
+			"date_added": 1474562981
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1NL7vofVTaeaxyyvV4q7L8ubyQhiGDbMed",
+			"user_name": "Soren",
+			"date_added": 1474562693
+		}
+	]
+}
