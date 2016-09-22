@@ -1,6 +1,6 @@
 {
-	"next_post_id": 4,
-	"next_comment_id": 4,
+	"next_post_id": 5,
+	"next_comment_id": 6,
 	"next_follow_id": 9,
 	"avatar": "jpg",
 	"user_name": "Elspru",
@@ -21,6 +21,11 @@
 			"post_id": 1474517578,
 			"body": "I have a site I'm trying to get to work at http://127.0.0.1:43110/178s29ameX271Vjj6f6vGXMNNtLKCmD4tj tells me no peers found when I check from my other local computers. Can you get it to work?",
 			"date_added": 1474517575
+		},
+		{
+			"post_id": 1474557462,
+			"body": "Is there a developer or tech support forum?\nI'm wondering how I can script the site updates, so I don't have to manually copy paste the private key every time I want to update my website. Especially considering that it can be several mini sites deep.",
+			"date_added": 1474557458
 		}
 	],
 	"post_like": {},
@@ -42,6 +47,18 @@
 			"body": "@Durand: I'm not sure what you mean, I'm sharing my content. I know what is in it..",
 			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1474517578",
 			"date_added": 1474552740
+		},
+		{
+			"comment_id": 4,
+			"body": "I figured out a temporary workaround for my scripts. \nCan do:\n```\necho \"privkey\" | xclip -sel clip",
+			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1474557462",
+			"date_added": 1474559477
+		},
+		{
+			"comment_id": 5,
+			"body": "xclip puts the private key in the paste buffer, so simply have to paste it when the prompt comes up. \nAnd can do multiple xclips in a row for multiple websites. \n\nAlso at the end of the script can clean your paste buffer, so you don't accidentally paste your private key somewhere:\n```\necho \"\" | xclip -sel clip\n```\n ",
+			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1474557462",
+			"date_added": 1474559660
 		}
 	],
 	"follow": [
