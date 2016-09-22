@@ -1,7 +1,7 @@
 {
-	"next_post_id": 6,
-	"next_comment_id": 9,
-	"next_follow_id": 9,
+	"next_post_id": 7,
+	"next_comment_id": 11,
+	"next_follow_id": 10,
 	"avatar": "jpg",
 	"user_name": "Durand",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -31,6 +31,11 @@
 			"post_id": 1474451991,
 			"body": "Anyone got any suggestions on how to embed disqus-like comments on a zeronet site? My comments need to be accessible via a clearnet site and via zeronet.",
 			"date_added": 1474451986
+		},
+		{
+			"post_id": 1474535699,
+			"body": "@Talnicrom: I have an idea for ZeroMePlus. Can you turn hide notifications of comments that were made by yourself? For example, [these notifications](https://ipfs.pics/QmRVNfvrQfLSuMTqaDoZoabmgxXRM2TJ9w66JXDXK8JjuH) are totally pointless - I know I commented on them.",
+			"date_added": 1474535693
 		}
 	],
 	"post_like": {
@@ -84,6 +89,18 @@
 			"body": "@tkarita: Thanks. I tried it but I still can't get it to unsandbox. The function just returns false... maybe the ZeroFrame API can help",
 			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1474451991",
 			"date_added": 1474459327
+		},
+		{
+			"comment_id": 9,
+			"body": "@Talnicrom: I was planning on using github pages to host my clear net site. I'd rather not host a full zeronet proxy but I had a similar idea to you where there was a bridge to create a new zeroid profile to comment with (perhaps even using OAuth) and whenever someone comments, a little program runs in the background to update the relevant users.json file. If the person wanted, they could get access to the private key of their user id to directly comment via zeronet. Otherwise, they'd be able to comment via my proxy. The only problem with this system is that I would have access to the zeroid private key myself - although I suppose that's not much different from using disqus or a similar system.",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1474451991",
+			"date_added": 1474534986
+		},
+		{
+			"comment_id": 10,
+			"body": "@tkarita: It's a good idea but I would totally recommend *against* automatically seeding every new site on that list. You don't know what you're sharing with other people..",
+			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1474517578",
+			"date_added": 1474535281
 		}
 	],
 	"follow": [
@@ -135,6 +152,13 @@
 			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
 			"user_name": "PaintNinja",
 			"date_added": 1474468155
+		},
+		{
+			"follow_id": 9,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7",
+			"user_name": "Shift",
+			"date_added": 1474534219
 		}
 	]
 }
