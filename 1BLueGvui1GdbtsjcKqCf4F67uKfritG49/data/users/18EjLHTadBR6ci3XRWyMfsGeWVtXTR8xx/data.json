@@ -1,7 +1,7 @@
 {
 	"next_post_id": 8,
 	"next_comment_id": 7,
-	"next_follow_id": 1,
+	"next_follow_id": 2,
 	"avatar": "jpg",
 	"user_name": "Thekiller66",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -82,5 +82,13 @@
 			"date_added": 1474579680
 		}
 	],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "18EjLHTadBR6ci3XRWyMfsGeWVtXTR8xx",
+			"user_name": "Thekiller66",
+			"date_added": 1474585525
+		}
+	]
 }
