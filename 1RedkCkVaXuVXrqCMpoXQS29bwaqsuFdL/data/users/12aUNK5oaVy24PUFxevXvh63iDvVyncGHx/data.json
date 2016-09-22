@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 13,
+	"next_comment_id": 14,
 	"user_name": "Durand",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {
@@ -79,6 +79,12 @@
 			"body": "@Shift: I don't think that's a great idea because it will just create a lot of unrelated spam and since most people on twitter aren't on zeronet, it won't match up anyway.",
 			"post_uri": "16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7_1474395817",
 			"date_added": 1474418622
+		},
+		{
+			"comment_id": 13,
+			"body": "@Sirenyc: With this setting in [contents.json](https://zeronet.readthedocs.io/en/latest/site_development/content_json/#optional).",
+			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1474513657",
+			"date_added": 1474533610
 		}
 	]
 }

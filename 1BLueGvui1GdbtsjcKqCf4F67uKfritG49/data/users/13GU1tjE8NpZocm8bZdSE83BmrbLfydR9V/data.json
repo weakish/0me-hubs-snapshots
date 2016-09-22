@@ -1,6 +1,6 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 2,
+	"next_comment_id": 4,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "It's a test!",
@@ -18,13 +18,27 @@
 			"date_added": 1474390173
 		}
 	],
-	"post_like": {},
+	"post_like": {
+		"1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1473959134": 1474529145
+	},
 	"comment": [
 		{
 			"comment_id": 1,
 			"body": "@Zanity: Boop Bleep Bop",
 			"post_uri": "13GU1tjE8NpZocm8bZdSE83BmrbLfydR9V_1474390175",
 			"date_added": 1474390392
+		},
+		{
+			"comment_id": 2,
+			"body": "Hello, ZeroYou!",
+			"post_uri": "19xpfftK1ddPkMAQMU68pHvB77jAupPJVf_1",
+			"date_added": 1474529043
+		},
+		{
+			"comment_id": 3,
+			"body": "Feel free to, and I'm pretty sure your grammar isn't that nasty.",
+			"post_uri": "15Hi7MDddHwzTZmmcsj8MWLpZaDz6mLPXg_1474460546",
+			"date_added": 1474529095
 		}
 	],
 	"follow": []
