@@ -1,6 +1,6 @@
 {
 	"next_post_id": 7,
-	"next_comment_id": 5,
+	"next_comment_id": 7,
 	"next_follow_id": 1,
 	"avatar": "jpg",
 	"user_name": "Thekiller66",
@@ -63,6 +63,18 @@
 			"body": "@Userzero: Trato de abrir el puerto haciendo Port Forwarding desde mi Gateway pero ZN me sigue diciendo que esta cerrado.Esta activado el UPnP y aun asi no funciona.",
 			"post_uri": "18EjLHTadBR6ci3XRWyMfsGeWVtXTR8xx_1474499720",
 			"date_added": 1474507653
+		},
+		{
+			"comment_id": 5,
+			"body": "@Roberth Castaño: Gracias dude :)",
+			"post_uri": "18EjLHTadBR6ci3XRWyMfsGeWVtXTR8xx_1474509619",
+			"date_added": 1474578227
+		},
+		{
+			"comment_id": 6,
+			"body": "@Userzero: No encuentro ninguna opcion como la que me describes, lo mas cercano que encuentro es \"Port Filtering\" (solo tiene \"start port\", \"end port\", \"protocol\" y \"start\") y \"Forwarding\" (Local IP, Local Start/End Port\", External IP, External Start/End Port, Protocol y Enable).\nEn este ultimo ya configure todo 2 veces (uno para TCP y otro para UDP). Ambos estan activados.",
+			"post_uri": "18EjLHTadBR6ci3XRWyMfsGeWVtXTR8xx_1474499720",
+			"date_added": 1474579680
 		}
 	],
 	"follow": []

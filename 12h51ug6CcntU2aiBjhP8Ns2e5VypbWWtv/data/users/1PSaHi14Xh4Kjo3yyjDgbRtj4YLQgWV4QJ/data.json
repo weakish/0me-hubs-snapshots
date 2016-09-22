@@ -1,6 +1,6 @@
 {
 	"next_post_id": 20,
-	"next_comment_id": 13,
+	"next_comment_id": 14,
 	"next_follow_id": 61,
 	"avatar": "jpg",
 	"user_name": "ulrichard",
@@ -178,6 +178,12 @@
 			"body": "@Planteater @Icf20 : And if there was a blockchain back then, A could not have stolen from B.",
 			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1474186161",
 			"date_added": 1474481079
+		},
+		{
+			"comment_id": 13,
+			"body": "@Smuntroleum: Why would it have to run on ZeroNet? OpenBazaar is distributed. I'm sure they have good reasons for the design choices they made. For example the escrow and dispute resolution systems could be quite hard to implement with ZeroNet.",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1474540959",
+			"date_added": 1474576764
 		}
 	],
 	"follow": [

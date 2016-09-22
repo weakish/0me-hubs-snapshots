@@ -2,7 +2,7 @@
 	"next_post_id": 2,
 	"next_comment_id": 1,
 	"next_follow_id": 2,
-	"avatar": "generate",
+	"avatar": "png",
 	"user_name": "Datewithdensity",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"intro": "Random ZeroNet user",
@@ -15,13 +15,5 @@
 	],
 	"post_like": {},
 	"comment": [],
-	"follow": [
-		{
-			"follow_id": 1,
-			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
-			"auth_address": "1Etux2jptmcCAB46KR6AAouHe2y6Mt272Y",
-			"user_name": "Datewithdensity",
-			"date_added": 1474441374
-		}
-	]
+	"follow": []
 }

@@ -4,14 +4,18 @@
  "cert_sign": "GxGdfFxiNn4EyD+pCEMy0okuBW/OCbDERwoQBd9fLShVJ2Id95JAh6O7cXU/lWDP33xDOqSvFt+j//8obZzm0WM=",
  "cert_user_id": "datewithdensity@zeroid.bit",
  "files": {
+  "avatar.png": {
+   "sha512": "63d35fd56fdda717087d59f2a3d654c6faaffaad23cd7770f3e5a3dfbc0bd164",
+   "size": 112
+  },
   "data.json": {
-   "sha512": "62a1cf42237f279fea57f9e9b833b79422d35032e79c55b5e522dab84459c968",
-   "size": 544
+   "sha512": "dce24d5f523d34e7d556155466a4fbfd4dbcfc2005f3821970f82c4e3cd26250",
+   "size": 342
   }
  },
  "inner_path": "data/users/1Etux2jptmcCAB46KR6AAouHe2y6Mt272Y/content.json",
- "modified": 1474441374.279513,
+ "modified": 1474577395.486049,
  "signs": {
-  "1Etux2jptmcCAB46KR6AAouHe2y6Mt272Y": "HEx15PqetVG+3f/G+N7NF2t1UJMgM9xQ+ExhrUmniOi8tuBQJG8ThPpiR7jVLMI6O71+Maiyex03W+0ZFbSqyv4="
+  "1Etux2jptmcCAB46KR6AAouHe2y6Mt272Y": "HCprVIZaMSeQirjPbBi1D6ugQAcy8HUgi9EfDZna7elkcnYKgveBdXoz7j6bT7Ycrg8JDyvru7Zdhgbpv3iGjJI="
  }
 }

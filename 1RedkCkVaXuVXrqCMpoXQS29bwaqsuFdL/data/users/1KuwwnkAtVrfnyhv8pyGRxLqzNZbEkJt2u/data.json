@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 10,
+	"next_comment_id": 11,
 	"user_name": "Lola",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {
@@ -69,6 +69,12 @@
 			"body": "@Alex (Bwoi) : I actually have the code working. It download the video start to play it in a canva that is hidden and pick a frame to show. But I thought that it would be nicer if the user could choose it either by picking a frame from the video or a customize picture. Then I thought that I would also need a blacklist in case some pictures are NSFW...",
 			"post_uri": "1NZ4LvZqg61LxtRfEr5Y46KRhYCzWRnqck_1474323298",
 			"date_added": 1474488301
+		},
+		{
+			"comment_id": 10,
+			"body": "@Shellbound: You are right, this is more of a UX issue. I will try to figure out something (not too boring ;) ) that will offer a good indication that the user need to wait a little.",
+			"post_uri": "1NZ4LvZqg61LxtRfEr5Y46KRhYCzWRnqck_1474323298",
+			"date_added": 1474574849
 		}
 	]
 }
