@@ -4,14 +4,18 @@
  "cert_sign": "G86LxjkI9xBI94/BQ64a5ZTMQiFexnOnTAQrvaOHcYBHLde1b9ooRjJSwPLJU70YhKPL3dlaTIqaz8baVCHp1co=",
  "cert_user_id": "skylakegtx@zeroid.bit",
  "files": {
+  "avatar.png": {
+   "sha512": "ca462d20c309fe3d68133ddf965f8a8261de70c67713df5a57075a18327037bd",
+   "size": 1550
+  },
   "data.json": {
-   "sha512": "c83ff2266526ecc4e0d38838bb1a0e071f9034cf46191d426a658de2537bc853",
-   "size": 815
+   "sha512": "943c6cf2d384ca1c41ad9a0198a54f2dcb19799a1ec1c4d595b1f8463b0b35ab",
+   "size": 945
   }
  },
  "inner_path": "data/users/1JLptrZjV8VrpvMBex8CnCHGjNpCizYq1x/content.json",
- "modified": 1473177778.928,
+ "modified": 1474564724.687,
  "signs": {
-  "1JLptrZjV8VrpvMBex8CnCHGjNpCizYq1x": "HH9DsVBBZg9GtNBG8Hdd0XnAoS1GEY9ScELuTz1s1Otu2GlBhcVHCGlXgW5n5+DCXDPat1MfLmBdlXPS1DG/DWQ="
+  "1JLptrZjV8VrpvMBex8CnCHGjNpCizYq1x": "G3n6B8zDqHawQhWJpc9ZMNZ+kB7ygT9m+rDSBXK9HWYyCB8IDJFK4VQLfTO3KSBufAYVYq9ARrPiqazhyaWyJgI="
  }
 }
