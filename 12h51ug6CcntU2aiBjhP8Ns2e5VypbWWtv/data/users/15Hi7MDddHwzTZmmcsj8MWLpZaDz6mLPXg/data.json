@@ -1,16 +1,21 @@
 {
-	"next_comment_id": 2,
+	"next_post_id": 1,
+	"next_comment_id": 1,
+	"next_follow_id": 2,
+	"avatar": "png",
 	"user_name": "Limelatt",
-	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
-	"post_like": {
-		"16dVbybDseQBQnxdJDuQhCzYAij8iR8YEc_1474494796": 1474500091
-	},
-	"comment": [
+	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+	"intro": "Constantly exploring.",
+	"post": [],
+	"post_like": {},
+	"comment": [],
+	"follow": [
 		{
-			"comment_id": 1,
-			"body": "made the same mistake as well :D",
-			"post_uri": "16dVbybDseQBQnxdJDuQhCzYAij8iR8YEc_1474494796",
-			"date_added": 1474500089
+			"follow_id": 1,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "15Hi7MDddHwzTZmmcsj8MWLpZaDz6mLPXg",
+			"user_name": "Limelatt",
+			"date_added": 1474543419
 		}
 	]
 }
