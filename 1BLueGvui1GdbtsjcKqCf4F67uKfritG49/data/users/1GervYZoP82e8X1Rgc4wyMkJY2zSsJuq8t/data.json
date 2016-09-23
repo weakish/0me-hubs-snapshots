@@ -1,6 +1,6 @@
 {
-	"next_post_id": 35,
-	"next_comment_id": 72,
+	"next_post_id": 36,
+	"next_comment_id": 73,
 	"next_follow_id": 94,
 	"avatar": "jpg",
 	"user_name": "tkarita",
@@ -151,6 +151,11 @@
 			"post_id": 1474525143,
 			"body": "`vanitygen` found an unusual address for [this site](http://127.0.0.1:43110/1PDFoo23w9Ha71HcmFsL4zBRTKpKKGjMuv/).  The private key begins `5KEys...`.",
 			"date_added": 1474525109
+		},
+		{
+			"post_id": 1474619107,
+			"body": "@nofish: `SiteManager.py:53` leads to a `KeyError` that breaks ZeroHello if a newly created site is signed but not visited.\n\n```\nin UiWebsocket.py line 99 > UiWebsocket.py line 176 > UiWebsocket.py line 609 > SiteManagerPlugin.py line 17 > MergerSitePlugin.py line 301 > SiteManager.py line 53 > ContentDb.py line 65\n```",
+			"date_added": 1474619072
 		}
 	],
 	"post_like": {
@@ -571,6 +576,12 @@
 			"body": "ZeroNet works best with small files and json.  General file types frequently cause problems because ZeroNet [doesn't recognize ASCII](https://github.com/HelloZeroNet/ZeroNet/issues/364) and ignores filenames with spaces.  Large files interfere with site loading; above maybe 100MB they aren't transferred reliably.  @waterrabbit has [demonstrated a workaround](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/) for that.",
 			"post_uri": "1ACc4pa2pJam33SkSE1zF1seF3LQKWR24v_1474381515",
 			"date_added": 1474429196
+		},
+		{
+			"comment_id": 72,
+			"body": "Commenting out that part of `SiteManager.py` fixed ZeroHello, but the sidebar in the new site produced additional errors.  `content.json` had [obsolete `includes`](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:6_1L5rGDgTs4W2V7gekSvJNhKa7XaHkVwotD).  Removing those, signing, and deleting `content.db` fixed that.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_1474619107",
+			"date_added": 1474620281
 		}
 	],
 	"follow": [
