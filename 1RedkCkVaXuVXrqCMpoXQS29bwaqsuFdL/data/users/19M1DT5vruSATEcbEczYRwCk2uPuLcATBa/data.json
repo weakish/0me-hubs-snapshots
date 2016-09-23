@@ -1,5 +1,5 @@
 {
-	"next_post_id": 47,
+	"next_post_id": 48,
 	"next_comment_id": 156,
 	"next_follow_id": 25,
 	"avatar": "png",
@@ -206,6 +206,11 @@
 			"post_id": 1474478645,
 			"body": "@nofish I would like to have #ZeroMePlus add one or more nodes to the rows in users' data.json.post node for a new feature.  However, the function loadJson in Db.py, does not check whether or not rows fetched from data.json match the schema.  Thus, nodes which are not expected (from the schema) cause insert errors which result in the user's data.json being ignored.  Would you consider adding a check (just after line 312) that the structure of `row` matches the schema? #suggestion #db",
 			"date_added": 1474478599
+		},
+		{
+			"post_id": 1474638764,
+			"body": "[Here is an interesting article about formally verified software.](https://www.quantamagazine.org/20160920-formal-verification-creates-hacker-proof-code/)",
+			"date_added": 1474638717
 		}
 	],
 	"post_like": {
