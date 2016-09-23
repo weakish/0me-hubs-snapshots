@@ -1,6 +1,6 @@
 {
 	"next_post_id": 7,
-	"next_comment_id": 15,
+	"next_comment_id": 16,
 	"next_follow_id": 13,
 	"avatar": "jpg",
 	"user_name": "Durand",
@@ -119,6 +119,12 @@
 			"body": "You just need to add your private key to zeronet/data/users.json under your site address with \n`\"privatekey\": \"your private key here\"`",
 			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1474557462",
 			"date_added": 1474625191
+		},
+		{
+			"comment_id": 15,
+			"body": "@Hankrearden: That's always been a problem with git. You shouldn't have to commit your zeronet folder though, unless you're actively developing zeronet itself, surely?",
+			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1474557462",
+			"date_added": 1474629079
 		}
 	],
 	"follow": [
