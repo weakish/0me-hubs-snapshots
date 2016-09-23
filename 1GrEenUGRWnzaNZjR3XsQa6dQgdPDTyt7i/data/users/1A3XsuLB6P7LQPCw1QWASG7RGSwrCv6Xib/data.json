@@ -1,7 +1,7 @@
 {
 	"next_post_id": 6,
-	"next_comment_id": 6,
-	"next_follow_id": 9,
+	"next_comment_id": 7,
+	"next_follow_id": 10,
 	"avatar": "jpg",
 	"user_name": "Elspru",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -64,6 +64,12 @@
 			"body": "xclip puts the private key in the paste buffer, so simply have to paste it when the prompt comes up. \nAnd can do multiple xclips in a row for multiple websites. \n\nAlso at the end of the script can clean your paste buffer, so you don't accidentally paste your private key somewhere:\n```\necho \"\" | xclip -sel clip\n```\n ",
 			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1474557462",
 			"date_added": 1474559660
+		},
+		{
+			"comment_id": 6,
+			"body": "@Durand: Awesome, thanks, that did the trick :-D",
+			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1474557462",
+			"date_added": 1474648916
 		}
 	],
 	"follow": [
@@ -122,6 +128,13 @@
 			"auth_address": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx",
 			"user_name": "Durand",
 			"date_added": 1474549808
+		},
+		{
+			"follow_id": 9,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1CN6kKKe8sNoYJBXFGm8J2RKr1RXpedQBk",
+			"user_name": "Hankrearden",
+			"date_added": 1474648489
 		}
 	]
 }
