@@ -1,7 +1,7 @@
 {
 	"next_post_id": 5,
-	"next_comment_id": 6,
-	"next_follow_id": 10,
+	"next_comment_id": 10,
+	"next_follow_id": 11,
 	"avatar": "jpg",
 	"user_name": "Hankrearden",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -59,6 +59,30 @@
 			"body": "@Durand: are you github tdurand?",
 			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1474557462",
 			"date_added": 1474639184
+		},
+		{
+			"comment_id": 6,
+			"body": "@ks: something like id@ZeroVerse, you could add some token for your namecoin structure... somewhat like google apps verify domain ownership through dns.",
+			"post_uri": "1CN6kKKe8sNoYJBXFGm8J2RKr1RXpedQBk_1474579318",
+			"date_added": 1474653583
+		},
+		{
+			"comment_id": 7,
+			"body": "@ks: I guess I'll take a look at id@zeroverse code.",
+			"post_uri": "1CN6kKKe8sNoYJBXFGm8J2RKr1RXpedQBk_1474579318",
+			"date_added": 1474653605
+		},
+		{
+			"comment_id": 8,
+			"body": "Where's id@zeroverse code?",
+			"post_uri": "1CN6kKKe8sNoYJBXFGm8J2RKr1RXpedQBk_1474579318",
+			"date_added": 1474654068
+		},
+		{
+			"comment_id": 9,
+			"body": "It seems to have some sort of server side code , that verify's the ownership on another network then confirm the user by adding it into the users.json.",
+			"post_uri": "1CN6kKKe8sNoYJBXFGm8J2RKr1RXpedQBk_1474579318",
+			"date_added": 1474654639
 		}
 	],
 	"follow": [
@@ -117,6 +141,13 @@
 			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
 			"user_name": "Kaffie",
 			"date_added": 1474581029
+		},
+		{
+			"follow_id": 10,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx",
+			"user_name": "ks",
+			"date_added": 1474653620
 		}
 	]
 }
