@@ -1,7 +1,7 @@
 {
-	"next_post_id": 18,
-	"next_comment_id": 70,
-	"next_follow_id": 26,
+	"next_post_id": 19,
+	"next_comment_id": 71,
+	"next_follow_id": 28,
 	"avatar": "jpg",
 	"user_name": "Mynameislegion",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -91,6 +91,11 @@
 			"post_id": 1472345808,
 			"body": "**ZeroLeaks has been updated** \n\nhttp://127.0.0.1:43110/1DaXkbpBN7d9h78T5mjB2gTV9Ui46Bjwcv/\n\n*New SIDtoday section.* \n\nFrom [The Intercept](\"https://theintercept.com/snowden-sidtoday/\"):\n\nSIDtoday is the internal newsletter for the NSA’s most important division, the Signals Intelligence Directorate. After editorial review, The Intercept is releasing nine years’ worth of newsletters in batches, starting with 2003. The agency’s spies explain a surprising amount about what they were doing, how they were doing it, and why.",
 			"date_added": 1472345791
+		},
+		{
+			"post_id": 1474666242,
+			"body": "Updated the site design on ZeroLeakz, let me know what you think :) http://127.0.0.1:43110/1DaXkbpBN7d9h78T5mjB2gTV9Ui46Bjwcv/",
+			"date_added": 1474666224
 		}
 	],
 	"post_like": {
@@ -525,6 +530,12 @@
 			"body": "@Userzero: How can I get a Kaffie ID and switch between both at will?",
 			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1474011667",
 			"date_added": 1474662440
+		},
+		{
+			"comment_id": 70,
+			"body": "@Userzero: Thank you I appreciate your help - one more question: the kaffie site mentions the below info, where exactly do I add this \"Add this line to cert_signers to accept these ids:\n\"kaffie.bit\": [ \"1KH5BdNnqxh2KRWMMT8wUXzUgz4vVQ4S8p\" ]\"\nEDIT: It is working now :)",
+			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1474011667",
+			"date_added": 1474665513
 		}
 	],
 	"follow": [
@@ -653,6 +664,20 @@
 			"auth_address": "1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9",
 			"user_name": "Shellbound",
 			"date_added": 1472334457
+		},
+		{
+			"follow_id": 26,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk",
+			"user_name": "Userzero",
+			"date_added": 1474666029
+		},
+		{
+			"follow_id": 27,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "15Hi7MDddHwzTZmmcsj8MWLpZaDz6mLPXg",
+			"user_name": "Limelatt",
+			"date_added": 1474667350
 		}
 	]
 }
