@@ -1,9 +1,17 @@
 {
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"user_name": "Eibriel",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {
-		"17gEFavobc7RsKNGbSzZwoSZ6jNB7hT2KN_1474562961": 1474594121
+		"17gEFavobc7RsKNGbSzZwoSZ6jNB7hT2KN_1474562961": 1474594121,
+		"1CxxmcXQ1ZPC1HDxv5tvokDzQnVibvTbJe_1": 1474643973
 	},
-	"comment": []
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Hello!",
+			"post_uri": "1CxxmcXQ1ZPC1HDxv5tvokDzQnVibvTbJe_1",
+			"date_added": 1474643994
+		}
+	]
 }

@@ -23,11 +23,6 @@
 			"date_added": 1470872055
 		},
 		{
-			"post_id": 6,
-			"body": "Strange bug on ZeroHello seems to be fixed, great :)\nDuring the afternoon, feeds were not displayed",
-			"date_added": 1470932218
-		},
-		{
 			"post_id": 7,
 			"body": "```sh\nfor i in $(echo {1..1080}); do xdotool mousemove $i $i; done```",
 			"date_added": 1471336605
