@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Alexandre",
@@ -14,6 +14,13 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@ku4rt4m: Hello.",
+			"post_uri": "1674XymFPbmAXh78xEpt3Pehtko6i2kvtA_1",
+			"date_added": 1474653278
+		}
+	],
 	"follow": []
 }
