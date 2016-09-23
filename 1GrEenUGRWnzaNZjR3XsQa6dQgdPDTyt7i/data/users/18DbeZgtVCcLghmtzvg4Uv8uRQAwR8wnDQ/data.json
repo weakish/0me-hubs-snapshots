@@ -1,6 +1,6 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 2,
 	"avatar": "jpg",
 	"user_name": "Jro",
@@ -19,7 +19,14 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "OK. Think is must be a memory leak somewhere in my JS code .... Comp works OK for a few hours after a restart.",
+			"post_uri": "18DbeZgtVCcLghmtzvg4Uv8uRQAwR8wnDQ_1474568895",
+			"date_added": 1474624687
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 1,

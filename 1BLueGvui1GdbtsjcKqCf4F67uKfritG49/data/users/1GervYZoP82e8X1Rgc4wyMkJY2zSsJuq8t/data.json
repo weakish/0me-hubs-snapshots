@@ -1,5 +1,5 @@
 {
-	"next_post_id": 36,
+	"next_post_id": 37,
 	"next_comment_id": 73,
 	"next_follow_id": 94,
 	"avatar": "jpg",
@@ -156,6 +156,11 @@
 			"post_id": 1474619107,
 			"body": "@nofish: `SiteManager.py:53` leads to a `KeyError` that breaks ZeroHello if a newly created site is signed but not visited.\n\n```\nin UiWebsocket.py line 99 > UiWebsocket.py line 176 > UiWebsocket.py line 609 > SiteManagerPlugin.py line 17 > MergerSitePlugin.py line 301 > SiteManager.py line 53 > ContentDb.py line 65\n```",
 			"date_added": 1474619072
+		},
+		{
+			"post_id": 1474621960,
+			"body": "@waterrabbit: do you know what http://127.0.0.1:43110/1PDFhmf4AXqXHafFPsg94B6irY7J2XKWFu/ might need to display correctly after loading?",
+			"date_added": 1474621924
 		}
 	],
 	"post_like": {

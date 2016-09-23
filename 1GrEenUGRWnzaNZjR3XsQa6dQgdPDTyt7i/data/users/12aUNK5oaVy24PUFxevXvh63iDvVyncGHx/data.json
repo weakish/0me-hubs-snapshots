@@ -1,7 +1,7 @@
 {
 	"next_post_id": 7,
-	"next_comment_id": 12,
-	"next_follow_id": 11,
+	"next_comment_id": 14,
+	"next_follow_id": 13,
 	"avatar": "jpg",
 	"user_name": "Durand",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -107,6 +107,18 @@
 			"body": "@Elspru: I don't mean you but the people seeding websites. New 0Net Sites suggests auto-adding every site added to that list but I think it's a terrible idea.",
 			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1474517578",
 			"date_added": 1474552918
+		},
+		{
+			"comment_id": 12,
+			"body": "@Talnicrom: Sweet, thanks! You're very quick at this! I had to toggle notifications off and on for it to work.",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1474535699",
+			"date_added": 1474622856
+		},
+		{
+			"comment_id": 13,
+			"body": "You just have to put the private key of the site into users.json in the zeronet/data directory. For example, it may look something like this:\n\n`\"sites\": {\n      \"14AowstTdyx2B8f9s5R3qfGFCmeeWL4qwK\": {\n        \"auth_address\": \"13tNKWWgT7hgFCoywhvSybFVVR3VGtYwKC\", \n        \"auth_privatekey\": \"5KWRv3c3RVZNfwd4xXkQfFFLzAXw21zkTz2Prha9HREZHb3U6ZW\"\n      }, \n      \"19k2nhubaYsDJNPHL6iNs3D2K9Mgj66P4R\": {\n        \"auth_address\": \"1FnJbxPw3MX8aq2jwqmRXeJkkGND84h55g\", \n        \"auth_privatekey\": \"5KKYBaGtyY2qAaJoqjDzErBs6Z6xsEy5F9zqj6dY16Vh6QEu9W3\"\n      }, \n      \"19w5MnHWdo7sDs4S4WErEcnQUYLx2uL9XF\": {\n        \"auth_address\": \"1FFFsVe6TkJr92s8YY5dD5aeSDbLyTkJ8T\", \n        \"auth_privatekey\": \"5Hww8MtkQoPa4eLYvvFNbTtCJir6jmvH9NPSGUt2KkMZkpZcQt9\"\n      }, \n`",
+			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1474557462",
+			"date_added": 1474624744
 		}
 	],
 	"follow": [
@@ -172,6 +184,20 @@
 			"auth_address": "14jDYQEDwSAeKNsi7Hg9dGhPdtNV7qzCvG",
 			"user_name": "Dumi",
 			"date_added": 1474620176
+		},
+		{
+			"follow_id": 11,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1CN6kKKe8sNoYJBXFGm8J2RKr1RXpedQBk",
+			"user_name": "Hankrearden",
+			"date_added": 1474623062
+		},
+		{
+			"follow_id": 12,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib",
+			"user_name": "Elspru",
+			"date_added": 1474624577
 		}
 	]
 }
