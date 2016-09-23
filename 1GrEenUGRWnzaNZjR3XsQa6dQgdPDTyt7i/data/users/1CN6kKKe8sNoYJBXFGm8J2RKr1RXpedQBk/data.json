@@ -1,6 +1,6 @@
 {
 	"next_post_id": 5,
-	"next_comment_id": 5,
+	"next_comment_id": 6,
 	"next_follow_id": 10,
 	"avatar": "jpg",
 	"user_name": "Hankrearden",
@@ -53,6 +53,12 @@
 			"body": "@Durand: it could be nice to script some sort of pre-processor , so you can set a env var to ease deployment while preventing an accidental commit to github of your priv key.",
 			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1474557462",
 			"date_added": 1474627744
+		},
+		{
+			"comment_id": 5,
+			"body": "@Durand: are you github tdurand?",
+			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1474557462",
+			"date_added": 1474639184
 		}
 	],
 	"follow": [
