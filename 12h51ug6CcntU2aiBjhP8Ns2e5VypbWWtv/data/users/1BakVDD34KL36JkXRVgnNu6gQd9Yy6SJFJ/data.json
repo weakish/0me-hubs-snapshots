@@ -1,7 +1,7 @@
 {
 	"next_post_id": 4,
-	"next_comment_id": 4,
-	"next_follow_id": 1,
+	"next_comment_id": 6,
+	"next_follow_id": 2,
 	"avatar": "generate",
 	"user_name": "Smuntroleum",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -42,7 +42,27 @@
 			"body": "@ulrichard: I just like ZeroNet!  How private is buying and selling on OpenBazaar?  I heard that it is possible to find which IPs go with OpenBazaar stores.  Is that true?  Maybe some countermeasures are possible even if that is the case.",
 			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1474540959",
 			"date_added": 1474577396
+		},
+		{
+			"comment_id": 4,
+			"body": "@ulrichard: I hope the strategy works.  If you don't mind, have you used OpenBazaar?  How was your experience?",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1474540959",
+			"date_added": 1474592579
+		},
+		{
+			"comment_id": 5,
+			"body": "@ulrichard: Ha! I just noticed I commented on the wrong one of your posts.",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1474540959",
+			"date_added": 1474592668
 		}
 	],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ",
+			"user_name": "ulrichard",
+			"date_added": 1474592685
+		}
+	]
 }
