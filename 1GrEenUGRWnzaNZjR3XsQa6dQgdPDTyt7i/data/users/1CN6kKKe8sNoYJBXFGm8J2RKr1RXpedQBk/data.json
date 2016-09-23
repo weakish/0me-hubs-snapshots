@@ -1,6 +1,6 @@
 {
-	"next_post_id": 4,
-	"next_comment_id": 4,
+	"next_post_id": 5,
+	"next_comment_id": 5,
 	"next_follow_id": 10,
 	"avatar": "jpg",
 	"user_name": "Hankrearden",
@@ -21,6 +21,11 @@
 			"post_id": 1474579318,
 			"body": "running a namecoin server now, I was wondering , there's anyway of using a namecoin id/ as identification on zeronet?",
 			"date_added": 1474579315
+		},
+		{
+			"post_id": 1474627401,
+			"body": "If you are having \"permission denied\" problems with the tor cookie even if the file permissions seem correct , you might want to add \"DataDirectoryGroupReadable 1\" into your .torrc.\n\nI had tried adding:\n\"CookieAuthFileGroupReadable 1\nExtORPortCookieAuthFileGroupReadable 1\nCookieAuthFile /var/lib/tor/control_auth_cookie\nCookieAuthentication 1\" and I was still getting permission denied, that solved the problem.",
+			"date_added": 1474627397
 		}
 	],
 	"post_like": {},
@@ -42,6 +47,12 @@
 			"body": "yes, and we are many.",
 			"post_uri": "1Gs1Vv5DCjDZ8ow1eaB7bvsiHetWcK2Qi9_1474570952",
 			"date_added": 1474571446
+		},
+		{
+			"comment_id": 4,
+			"body": "@Durand: it could be nice to script some sort of pre-processor , so you can set a env var to ease deployment while preventing an accidental commit to github of your priv key.",
+			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1474557462",
+			"date_added": 1474627744
 		}
 	],
 	"follow": [

@@ -1,6 +1,6 @@
 {
 	"next_post_id": 7,
-	"next_comment_id": 14,
+	"next_comment_id": 15,
 	"next_follow_id": 13,
 	"avatar": "jpg",
 	"user_name": "Durand",
@@ -115,10 +115,10 @@
 			"date_added": 1474622856
 		},
 		{
-			"comment_id": 13,
-			"body": "You just have to put the private key of the site into users.json in the zeronet/data directory. For example, it may look something like this:\n\n`\"sites\": {\n      \"14AowstTdyx2B8f9s5R3qfGFCmeeWL4qwK\": {\n        \"auth_address\": \"13tNKWWgT7hgFCoywhvSybFVVR3VGtYwKC\", \n        \"auth_privatekey\": \"5KWRv3c3RVZNfwd4xXkQfFFLzAXw21zkTz2Prha9HREZHb3U6ZW\"\n      }, \n      \"19k2nhubaYsDJNPHL6iNs3D2K9Mgj66P4R\": {\n        \"auth_address\": \"1FnJbxPw3MX8aq2jwqmRXeJkkGND84h55g\", \n        \"auth_privatekey\": \"5KKYBaGtyY2qAaJoqjDzErBs6Z6xsEy5F9zqj6dY16Vh6QEu9W3\"\n      }, \n      \"19w5MnHWdo7sDs4S4WErEcnQUYLx2uL9XF\": {\n        \"auth_address\": \"1FFFsVe6TkJr92s8YY5dD5aeSDbLyTkJ8T\", \n        \"auth_privatekey\": \"5Hww8MtkQoPa4eLYvvFNbTtCJir6jmvH9NPSGUt2KkMZkpZcQt9\"\n      }, \n`",
+			"comment_id": 14,
+			"body": "You just need to add your private key to zeronet/data/users.json under your site address with \n`\"privatekey\": \"your private key here\"`",
 			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1474557462",
-			"date_added": 1474624744
+			"date_added": 1474625191
 		}
 	],
 	"follow": [
