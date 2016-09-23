@@ -1,6 +1,6 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Capturts",
@@ -21,6 +21,13 @@
 	"post_like": {
 		"1Hdrj4zBgkZPxPKXSUNxeVECqEYxS9buZR_1": 1474363888
 	},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Shellbound: Hell0 :)",
+			"post_uri": "1Hdrj4zBgkZPxPKXSUNxeVECqEYxS9buZR_1",
+			"date_added": 1474596538
+		}
+	],
 	"follow": []
 }

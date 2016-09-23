@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
 	"next_comment_id": 1,
-	"next_follow_id": 1,
+	"next_follow_id": 2,
 	"avatar": "generate",
 	"user_name": "Zheng",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -17,5 +17,13 @@
 		"1DrTVkEV5tGZmtYAHYyiiiK3fmic1Co6jf_1": 1474593131
 	},
 	"comment": [],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1DrTVkEV5tGZmtYAHYyiiiK3fmic1Co6jf",
+			"user_name": "Zheng",
+			"date_added": 1474598107
+		}
+	]
 }

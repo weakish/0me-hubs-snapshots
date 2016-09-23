@@ -1,0 +1,31 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 2,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "Alex539",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1474598252,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1474598280,
+			"body": "Meow",
+			"date_added": 1474598278
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "I hate you",
+			"post_uri": "1AsTZEr4mowSBwyhiCgHyWgMGX2sMZkYVG_1",
+			"date_added": 1474598378
+		}
+	],
+	"follow": []
+}
