@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 7,
+	"next_comment_id": 9,
 	"user_name": "Flyman",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {
@@ -8,7 +8,9 @@
 		"156HySyXH37jFXXqKCwVq8HqsrZLZzy8Qx_1473618168": 1473618908,
 		"1AXUhguKsZefXojRXgqFG7KpjeCN1ui3PY_1474006825": 1474013488,
 		"156HySyXH37jFXXqKCwVq8HqsrZLZzy8Qx_1473638159": 1474139696,
-		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1474187738": 1474188111
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1474187738": 1474188111,
+		"19uWzxhn3oD5vKcNLhSa3GYcZkQQiTNnLv_1474660952": 1474661056,
+		"1G22SgXJtdx9D6BfvXgjknD57Mi1wjnZX3_1474662353": 1474663373
 	},
 	"comment": [
 		{
@@ -40,6 +42,18 @@
 			"body": "When I started to use ZeroMe, 1st message was created automatically - \"Hello, ZeroMe!\". Every time I tried to delete this 1st message, ZeroMe was saying \"deleting OK\" and I found 1st message is there, but 2nd message is gone! So, try to create 2nd message (just for test), then try to delete 1st one and see what will happen. It may be \"you can not delete 1st message\" bug.",
 			"post_uri": "17H79RMoa99u7sug15s5wXDm3J9ieh6QKH_1474269844",
 			"date_added": 1474270359
+		},
+		{
+			"comment_id": 7,
+			"body": "nie ja.",
+			"post_uri": "19uWzxhn3oD5vKcNLhSa3GYcZkQQiTNnLv_1474660952",
+			"date_added": 1474661051
+		},
+		{
+			"comment_id": 8,
+			"body": "Reasons: 1) It is p2p and I like p2p (bit message, btsync, bit torrents, etc). 2) You do not need to go through ugly registration process and being involved in disgusting stuff like e-mail/login/password. How did I notice: some one mentioned ZeroNet in podcast I was listening to.",
+			"post_uri": "1G22SgXJtdx9D6BfvXgjknD57Mi1wjnZX3_1474662353",
+			"date_added": 1474663371
 		}
 	]
 }

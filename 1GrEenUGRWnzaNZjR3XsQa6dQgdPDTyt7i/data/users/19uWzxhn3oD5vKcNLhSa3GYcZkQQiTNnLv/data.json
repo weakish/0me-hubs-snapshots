@@ -1,19 +1,32 @@
 {
-	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_post_id": 3,
+	"next_comment_id": 3,
 	"next_follow_id": 2,
 	"avatar": "jpg",
 	"user_name": "Linuksiarz",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"intro": "Random ZeroNet user",
+	"intro": "ZeroNet user",
 	"post": [
 		{
-			"post_id": 1,
-			"date_added": 1474658615,
-			"body": "Hello ZeroMe!"
+			"post_id": 1474660952,
+			"body": "Ktoś z polski?",
+			"date_added": 1474660950
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Flyman: :)",
+			"post_uri": "19uWzxhn3oD5vKcNLhSa3GYcZkQQiTNnLv_1474660952",
+			"date_added": 1474661099
+		},
+		{
+			"comment_id": 2,
+			"body": "@Flyman: Several reasons:\n- it's truly decentralized\n- I want real free facebook - without ads, censorship etc.\n- I really like how fast it is",
+			"post_uri": "1G22SgXJtdx9D6BfvXgjknD57Mi1wjnZX3_1474662353",
+			"date_added": 1474663727
+		}
+	],
 	"follow": []
 }
