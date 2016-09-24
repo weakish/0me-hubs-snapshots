@@ -1,6 +1,6 @@
 {
-	"next_post_id": 3,
-	"next_comment_id": 1,
+	"next_post_id": 4,
+	"next_comment_id": 2,
 	"next_follow_id": 10,
 	"avatar": "jpg",
 	"user_name": "Eibriel",
@@ -16,10 +16,22 @@
 			"post_id": 1474593775,
 			"body": "Buenas! para empezar a probar ZeroMe los invito a ver mi humilde ZeroBlog: http://127.0.0.1:43110/1EMcXwk7qQdY3pbj86A98gZHjDBNRrscdL/\n\nEspero que les guste!!",
 			"date_added": 1474593773
+		},
+		{
+			"post_id": 1474731425,
+			"body": "# Grupo de Chat de Soft y Hard Libre en Tox\n\nEstoy manteniendo un grupo de **Soft y Hard Libre** en Tox, pueden sumarse agregando el bot Groupbot a Tox: `56A1ADE4B65B86BCD51CC73E2CD4E542179F47959FE3E0E21B4B0ACDADE51855D34D34D37CB5`\n\ny buscando el grupo con el comando `info`, y luego entrando con el comando `invite`.\nPor ejemplo si el grupo es el 5 escriben `invite 5`.\n\n*¡¡Los Esperamos!!*",
+			"date_added": 1474731422
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Tox es un sistema de mensajería y videollamada P2P con clientes para todas las plataformas: https://tox.chat/",
+			"post_uri": "1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1474731425",
+			"date_added": 1474731615
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 1,
