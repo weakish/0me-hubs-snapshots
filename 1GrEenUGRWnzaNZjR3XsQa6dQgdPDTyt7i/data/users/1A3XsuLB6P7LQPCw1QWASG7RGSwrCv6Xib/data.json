@@ -1,7 +1,7 @@
 {
 	"next_post_id": 7,
-	"next_comment_id": 10,
-	"next_follow_id": 10,
+	"next_comment_id": 11,
+	"next_follow_id": 12,
 	"avatar": "jpg",
 	"user_name": "Elspru",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -95,6 +95,12 @@
 			"body": "One reason I'm interested in something like ZeroNet is DAO, Distributed Autonomous Organization.  In particular robot companies, or companies run by robots.  Such as AGI projects, and companies that make robot software and hardware.\nWith a place like ZeroNet can have true resiliency. ",
 			"post_uri": "1G22SgXJtdx9D6BfvXgjknD57Mi1wjnZX3_1474662353",
 			"date_added": 1474682879
+		},
+		{
+			"comment_id": 10,
+			"body": "I figured it out, I simply modified the address, so that I would load the hub. and then I can see the profile :-D.",
+			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1474682441",
+			"date_added": 1474691387
 		}
 	],
 	"follow": [
@@ -160,6 +166,20 @@
 			"auth_address": "1CN6kKKe8sNoYJBXFGm8J2RKr1RXpedQBk",
 			"user_name": "Hankrearden",
 			"date_added": 1474648489
+		},
+		{
+			"follow_id": 10,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV",
+			"user_name": "Mynameislegion",
+			"date_added": 1474691392
+		},
+		{
+			"follow_id": 11,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC",
+			"user_name": "Firebox",
+			"date_added": 1474691518
 		}
 	]
 }
