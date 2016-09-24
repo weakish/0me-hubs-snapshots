@@ -1,6 +1,6 @@
 {
 	"next_post_id": 6,
-	"next_comment_id": 7,
+	"next_comment_id": 8,
 	"next_follow_id": 10,
 	"avatar": "jpg",
 	"user_name": "Elspru",
@@ -33,7 +33,9 @@
 			"date_added": 1474599068
 		}
 	],
-	"post_like": {},
+	"post_like": {
+		"1ESdmNNSAioRLqW9ZyZBXHsJhGuzjmMDea_1474678080": 1474681842
+	},
 	"comment": [
 		{
 			"comment_id": 1,
@@ -70,6 +72,12 @@
 			"body": "@Durand: Awesome, thanks, that did the trick :-D",
 			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1474557462",
 			"date_added": 1474648916
+		},
+		{
+			"comment_id": 7,
+			"body": "@0face:  well it is all text, I can give you the current top of the page, mostly table of contents. otherwise I'm not sure how to include images in zerome posts (if it is even possible). \n\nGreen Buddhism: A Programmer’s Religion\nLogan Streondj elspru@zeroid.bit\n\nContents\n1 Galaxy Domain Strategy\n 1.1 About\n  1.1.1 Disclaimer\n 1.2 Origination\n 1.3 Soul World\n 1.4 Mission\n  1.4.1 What is your private mission?\n  1.4.2 What is our public mission?\n  1.4.3 Initial Steps\n 1.5 History\n  1.5.1 Fermi Paradox\n  1.5.2 What about other extraterrestrials?\n 1.6 Electronic Bodies\n2 Links\n 2.1 on ZeroNet\n 2.2 Contact\n 2.3 other websites ",
+			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1474599073",
+			"date_added": 1474681426
 		}
 	],
 	"follow": [
