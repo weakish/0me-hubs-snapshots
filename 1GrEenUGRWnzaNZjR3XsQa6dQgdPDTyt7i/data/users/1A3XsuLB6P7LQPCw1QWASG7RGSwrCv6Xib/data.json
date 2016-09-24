@@ -1,6 +1,6 @@
 {
-	"next_post_id": 6,
-	"next_comment_id": 8,
+	"next_post_id": 7,
+	"next_comment_id": 10,
 	"next_follow_id": 10,
 	"avatar": "jpg",
 	"user_name": "Elspru",
@@ -31,6 +31,11 @@
 			"post_id": 1474599073,
 			"body": "Updated my website, now has intro teaser with some secrets of the cosmos http://127.0.0.1:43110/178s29ameX271Vjj6f6vGXMNNtLKCmD4tj",
 			"date_added": 1474599068
+		},
+		{
+			"post_id": 1474682441,
+			"body": "Where can I get a list of the ZeroMe hubs. I'm not able to see some peoples profiles, and I understand that means I have to add their hubs.  But I haven't been able to find the list of them.",
+			"date_added": 1474682435
 		}
 	],
 	"post_like": {
@@ -78,6 +83,18 @@
 			"body": "@0face:  well it is all text, I can give you the current top of the page, mostly table of contents. otherwise I'm not sure how to include images in zerome posts (if it is even possible). \n\nGreen Buddhism: A Programmer’s Religion\nLogan Streondj elspru@zeroid.bit\n\nContents\n1 Galaxy Domain Strategy\n 1.1 About\n  1.1.1 Disclaimer\n 1.2 Origination\n 1.3 Soul World\n 1.4 Mission\n  1.4.1 What is your private mission?\n  1.4.2 What is our public mission?\n  1.4.3 Initial Steps\n 1.5 History\n  1.5.1 Fermi Paradox\n  1.5.2 What about other extraterrestrials?\n 1.6 Electronic Bodies\n2 Links\n 2.1 on ZeroNet\n 2.2 Contact\n 2.3 other websites ",
 			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1474599073",
 			"date_added": 1474681426
+		},
+		{
+			"comment_id": 8,
+			"body": "I've been dreaming about something like ZeroNet for over a decade -- I even once made a bug request on gentoo that the source files be hosted on a bittorrent like network. \n\nEvery few years I check out what the options are. I tried freenet, but it was too slow. There \"is\" MaidSafe but it still seems to be vapourware. \nMy most recent search I came across Project Maelstrom, I had a hunch that there must be an open source alternative, and viola: ZeroNet!",
+			"post_uri": "1G22SgXJtdx9D6BfvXgjknD57Mi1wjnZX3_1474662353",
+			"date_added": 1474682799
+		},
+		{
+			"comment_id": 9,
+			"body": "One reason I'm interested in something like ZeroNet is DAO, Distributed Autonomous Organization.  In particular robot companies, or companies run by robots.  Such as AGI projects, and companies that make robot software and hardware.\nWith a place like ZeroNet can have true resiliency. ",
+			"post_uri": "1G22SgXJtdx9D6BfvXgjknD57Mi1wjnZX3_1474662353",
+			"date_added": 1474682879
 		}
 	],
 	"follow": [
