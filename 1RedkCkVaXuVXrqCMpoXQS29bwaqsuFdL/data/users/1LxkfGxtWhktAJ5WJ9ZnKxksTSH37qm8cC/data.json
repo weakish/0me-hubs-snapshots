@@ -1,6 +1,6 @@
 {
 	"next_post_id": 14,
-	"next_comment_id": 5,
+	"next_comment_id": 6,
 	"next_follow_id": 8,
 	"avatar": "generate",
 	"user_name": "Firebox",
@@ -95,6 +95,12 @@
 			"body": "@Sirenyc: There is an example on [ReadTheDocs](https://zeronet.readthedocs.io/en/latest/site_development/content_json/#optional) and an example on my site: \n`\"optional\": \"(big/files/.*dat)\"`\nIt is a Regular Expression\nYou can use `\"optional\": \"(big/files/.*jpg)\"`",
 			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1474513657",
 			"date_added": 1474570240
+		},
+		{
+			"comment_id": 5,
+			"body": "According to @nofish, big file support is planned. [Here](https://github.com/HelloZeroNet/ZeroNet/issues/7#issuecomment-246185262) is the issue #7 on big file support. Here is the [pull request](https://github.com/HelloZeroNet/ZeroNet/pull/521) on big file support. These are all I know about big file support.\nOn the other hand, I want to keep file loading in browser, I don't want to do video conversion by hand, and I don't know how to modify the code of ZeroNet, so I made my own file loading script. My code is different and separate.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474671402",
+			"date_added": 1474686408
 		}
 	],
 	"follow": [

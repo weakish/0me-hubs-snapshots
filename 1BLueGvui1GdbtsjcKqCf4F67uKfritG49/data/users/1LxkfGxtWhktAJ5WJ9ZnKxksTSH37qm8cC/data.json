@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 4,
+	"next_comment_id": 5,
 	"user_name": "Firebox",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {},
@@ -18,9 +18,15 @@
 		},
 		{
 			"comment_id": 3,
-			"body": "1. You can read the updated [docs](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/docs/usage/) of ZeroMux, the big file loader. It calls back the `onfinish` function when it is done. You can load the blob into a PDF. Don't forget to change the blob content type. Instructions can be found in the docs.\n2. Btw, It seems that you are including the `daemon.js`. You don't need that file if you are not working with videos, since `daemon.js` is sort of a background worker that appends data to the **video** Source Buffer. If anything does not work, feel free to mention me and tell me about it.",
+			"body": "You can read the updated [docs](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/docs/usage/) of ZeroMux, the big file loader. It calls back the `onfinish` function when it is done. You can load the blob into a PDF. Don't forget to change the blob content type. Instructions can be found in the docs.\n- - -\nBtw, It seems that you are including the `daemon.js`. You don't need that file if you are not working with videos, since `daemon.js` is sort of a background worker that appends data to the **video** Source Buffer. If anything does not work, feel free to mention me and tell me about it.",
 			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_1474621960",
 			"date_added": 1474651010
+		},
+		{
+			"comment_id": 4,
+			"body": "It seems that you are using the original `ui.js`. To make the UI satisfy your need, you need to modify the blob content type and the `onfinish` function. More specifically, you just need to modify `events.otherParams = {\"blobType\": \"application/pdf\"};` and the `showPlayer` function. The `url` parameter is the blob url.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_1474621960",
+			"date_added": 1474688085
 		}
 	]
 }
