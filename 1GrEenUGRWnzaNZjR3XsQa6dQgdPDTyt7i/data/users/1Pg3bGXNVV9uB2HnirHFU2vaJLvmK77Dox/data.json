@@ -1,7 +1,7 @@
 {
 	"next_post_id": 6,
 	"next_comment_id": 3,
-	"next_follow_id": 3,
+	"next_follow_id": 4,
 	"avatar": "generate",
 	"user_name": "Ekodjtal",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -29,5 +29,13 @@
 		"15rDwTWvkH2digEM8BSxWCUanhBJVXnKki_1473471816": 1473625584
 	},
 	"comment": [],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 3,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "12yaKkoqVKBUi66uB5pYXamWguKFaWdDnx",
+			"user_name": "狗蛋",
+			"date_added": 1474716169
+		}
+	]
 }
