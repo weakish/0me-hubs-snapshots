@@ -1,0 +1,32 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Romantic",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1474678053,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1474678080,
+			"body": "love everyday",
+			"date_added": 1474678078
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1ESdmNNSAioRLqW9ZyZBXHsJhGuzjmMDea",
+			"user_name": "Romantic",
+			"date_added": 1474678520
+		}
+	]
+}

@@ -1,7 +1,7 @@
 {
-	"next_post_id": 35,
-	"next_comment_id": 54,
-	"next_follow_id": 30,
+	"next_post_id": 36,
+	"next_comment_id": 55,
+	"next_follow_id": 31,
 	"avatar": "png",
 	"user_name": "Userzero",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -166,6 +166,11 @@
 			"post_id": 1474651200,
 			"body": "ZeroMe tiene un fallo: la imágen del nick se cambia sola (o alguién puede acceder y cambiarmela )",
 			"date_added": 1474651168
+		},
+		{
+			"post_id": 1474676280,
+			"body": "¿Cómo puedo acortar este nombre en KaffieMe :\nuserzero.bit 1kh5bdnnqxh2krwmmt8wuxzugz4vvq4s8p@kaffie.bit  y dejarlo en userzero@kaffie.bit ?",
+			"date_added": 1474676245
 		}
 	],
 	"post_like": {
@@ -490,6 +495,12 @@
 			"body": "Ya me ha pasado alguna otra vez al arrancar Zeronet > Zerome no aparecerme mi imagén en el circulo si no otra, he observado que alguna otra, de otros usuarios,  tampoco se correspondía con la habitual. Suele durar unos segundos o hasta recargar la web. ¿Alguién más lo ha notado?",
 			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1474651200",
 			"date_added": 1474673239
+		},
+		{
+			"comment_id": 54,
+			"body": "Mi imagen era la de Zeronauta, la tuya la de RiotPulv, ...@Rapapobre: ",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1474651200",
+			"date_added": 1474675310
 		}
 	],
 	"follow": [
@@ -674,6 +685,13 @@
 			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
 			"user_name": "Talnicrom",
 			"date_added": 1474401208
+		},
+		{
+			"follow_id": 30,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1PkvoZ18GNrg7Jr4cApZ8SrTS4hDW55Pv7",
+			"user_name": "Userzero",
+			"date_added": 1474675444
 		}
 	]
 }
