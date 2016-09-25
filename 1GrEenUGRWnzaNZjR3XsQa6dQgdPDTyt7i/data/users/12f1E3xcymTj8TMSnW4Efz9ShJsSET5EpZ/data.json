@@ -1,6 +1,6 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Krenter",
@@ -19,6 +19,13 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Gracias por responder, si es un hecho que confiar en un proveedor privado para almacenar información es como construir un castillo de arena en la playa y pensar que nunca desaparecera,  al igual que tu veo potencial en zeronet. y ando explorando en que forma pudiera contribuir a que crezca",
+			"post_uri": "12f1E3xcymTj8TMSnW4Efz9ShJsSET5EpZ_1474329690",
+			"date_added": 1474770897
+		}
+	],
 	"follow": []
 }
