@@ -1,7 +1,7 @@
 {
 	"next_post_id": 12,
 	"next_comment_id": 2,
-	"next_follow_id": 11,
+	"next_follow_id": 13,
 	"avatar": "jpg",
 	"user_name": "rushka life feed",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -54,7 +54,7 @@
 		},
 		{
 			"post_id": 1474817917,
-			"body": "Besides tox (qtox,antox and all other clients), we still need to have a reliable messenger that works for mobiles too. For me, it must be: opensource both client and server(if used), E2E encr., not using phone number (only as additional tool that can't be used to gain access, but better no number using at all), multi-OS (at least android and ios).\n\nThis leaves me with surespot (android/ios) and possibly Wire (android/ios/windows/web).\nSurespot looks better for security as it doesnt need phone number or even email, but still lacks desktop access and voice calls (has only audio messages). And it's stopped in developing, as it looks.\n\nFor Wire, I don't trust it enough for some reason, maybe because of how it looks and promoted - not security concerned, but more about \"easyness\". Also, it comes from devs who are ex-devs of Skype. (somehow, not a good sign for me; Like, it seems more that they are in busyness again more for profit). And lastly, even if it supports registering with both phone and email, you can only sign up with phone number on mobile clients. So, what is what most users will do by default, and it goes against anonimity and so, security in the end.\nBut, Wire has both voice calls and video calls encripted. And its using Signal's protocol. (there is some bad looking tensions between Signal's devs and Wire's about using protocol, BTW)",
+			"body": "Besides tox (qtox,antox and all other clients), we still need to have a reliable messenger that works for mobiles too. For me, it must be: opensource both client and server(if used), E2E encr., not using phone number (only as additional tool that can't be used to gain access, but better no number using at all), multi-OS (at least android and ios).\n\nThis leaves me with surespot (android/ios) and possibly Wire (android/ios/windows/web).\nSurespot looks better for security as it doesnt need phone number or even email, but still lacks desktop access and voice calls (has only audio messages). And it's stopped in developing, as it looks.\n\nFor Wire, I don't trust it enough for some reason, maybe because of how it looks and promoted - not security concerned, but more about \"easyness\". Also, it comes from devs who are ex-devs of Skype. (somehow, not a good sign for me; Like, it seems more that they are in busyness again more for profit). And lastly, even if it supports registering with both phone and email, you can only sign up with phone number on mobile clients. So, what is what most users will do by default, and it goes against anonimity and so, security in the end.\nBut, Wire has both voice calls and video calls encripted. And its using Signal's protocol. (there is some bad looking tensions between Signal's devs and Wire's about using protocol, BTW) #security #messengers #tox",
 			"date_added": 1474817906
 		}
 	],
@@ -137,6 +137,20 @@
 			"auth_address": "13TYHUzdFf2JuFtoDD1eTKHppNGcTemkTN",
 			"user_name": "Couldbeworse",
 			"date_added": 1473561822
+		},
+		{
+			"follow_id": 11,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT",
+			"user_name": "Klaus Jónsson Zimmermann",
+			"date_added": 1474821230
+		},
+		{
+			"follow_id": 12,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne",
+			"user_name": "Jayofthezero",
+			"date_added": 1474822329
 		}
 	]
 }
