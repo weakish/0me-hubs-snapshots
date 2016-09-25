@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
 	"next_comment_id": 1,
-	"next_follow_id": 2,
+	"next_follow_id": 7,
 	"avatar": "generate",
 	"user_name": "Lagartonet",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -13,7 +13,9 @@
 			"body": "Hello ZeroMe!"
 		}
 	],
-	"post_like": {},
+	"post_like": {
+		"1CEnKfVALihFLwjwwb9qbA6JojRKFjGAZM_1": 1474767513
+	},
 	"comment": [],
 	"follow": [
 		{
@@ -22,6 +24,34 @@
 			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
 			"user_name": "Kaffie",
 			"date_added": 1474496108
+		},
+		{
+			"follow_id": 2,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1MSvEE1d53biD2e49oneYHojWLyg9YT5cu",
+			"user_name": "Neonetrix",
+			"date_added": 1474767463
+		},
+		{
+			"follow_id": 4,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1Lxi4PBAxhmirZjNbZ1EDfDWwa18kh4okm",
+			"user_name": "Cmdr",
+			"date_added": 1474767536
+		},
+		{
+			"follow_id": 5,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "157VksPLxufKMy8U344wPhayVY3RhkL8SK",
+			"user_name": "Erotic",
+			"date_added": 1474768123
+		},
+		{
+			"follow_id": 6,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "16w7UuJAHbt8YBa8zxHS7UFk9mq8Q5DpE4",
+			"user_name": "Kopykate",
+			"date_added": 1474768221
 		}
 	]
 }
