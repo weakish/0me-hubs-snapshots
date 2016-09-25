@@ -1,6 +1,6 @@
 {
 	"next_post_id": 21,
-	"next_comment_id": 79,
+	"next_comment_id": 80,
 	"next_follow_id": 31,
 	"avatar": "jpg",
 	"user_name": "Mynameislegion",
@@ -583,6 +583,12 @@
 			"body": "@Sifr: Thanks :)",
 			"post_uri": "1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_1474666242",
 			"date_added": 1474813713
+		},
+		{
+			"comment_id": 79,
+			"body": "@Talnicrom: Nice, thanks for the suggestion :)",
+			"post_uri": "1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_1474813530",
+			"date_added": 1474824731
 		}
 	],
 	"follow": [
@@ -747,5 +753,6 @@
 			"user_name": "Dergatt",
 			"date_added": 1474812601
 		}
-	]
+	],
+	"comment_order": 0
 }
