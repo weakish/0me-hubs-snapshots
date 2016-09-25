@@ -1,7 +1,7 @@
 {
-	"next_post_id": 20,
-	"next_comment_id": 76,
-	"next_follow_id": 30,
+	"next_post_id": 21,
+	"next_comment_id": 79,
+	"next_follow_id": 31,
 	"avatar": "jpg",
 	"user_name": "Mynameislegion",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -101,6 +101,11 @@
 			"post_id": 1474671360,
 			"body": "Please recommend me some Jazz gems. \n\nMy suggestion for you: https://www.youtube.com/watch?v=_BlHRPXPx-4",
 			"date_added": 1474671341
+		},
+		{
+			"post_id": 1474813530,
+			"body": "@Nofish, I would appreciate if you could turn off the \"Hello ZeroMe!\" notification whenever someone new joins ZeroMe or give me the ability to hide it. Now I am happy whenever someone joins, but it is cluttering my wall. You could display the latest new users on the left hand side of the screen instead or just drop the feature.",
+			"date_added": 1474813510
 		}
 	],
 	"post_like": {
@@ -572,6 +577,12 @@
 			"body": "@Userzero: Thanks again, I did not need to to anything all is working now :)",
 			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1474011667",
 			"date_added": 1474744553
+		},
+		{
+			"comment_id": 76,
+			"body": "@Sifr: Thanks :)",
+			"post_uri": "1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_1474666242",
+			"date_added": 1474813713
 		}
 	],
 	"follow": [
@@ -728,6 +739,13 @@
 			"auth_address": "1G22SgXJtdx9D6BfvXgjknD57Mi1wjnZX3",
 			"user_name": "Pablo Arroyo",
 			"date_added": 1474698124
+		},
+		{
+			"follow_id": 30,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg",
+			"user_name": "Dergatt",
+			"date_added": 1474812601
 		}
 	]
 }

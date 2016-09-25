@@ -4,14 +4,18 @@
  "cert_sign": "G08f+kZBMax/rgA6Kns5WFCHpAxpv2GYW7+pB4o3oilOJ/kvPdYD3zcZRTWCwXKfh7l/+B4RzVTf6XQPQnXw8bE=",
  "cert_user_id": "planteater@zeroid.bit",
  "files": {
+  "avatar.png": {
+   "sha512": "42fe45a58bafd312518782318aa858ab2ff48c463bb288a729a59a324e700e20",
+   "size": 5901
+  },
   "data.json": {
-   "sha512": "7e9b17d489b17c3ff209d8cf60a7974508632285d1b21661257c665a4b0d9f6b",
-   "size": 6246
+   "sha512": "432b1adb0396382d3e1f97b70ca611c81745a25dd8da12c3264d435afa5e1a4f",
+   "size": 6589
   }
  },
  "inner_path": "data/users/1JuUHRJ3A1wy5zgT6c2KviH9cHtq8Zr4X9/content.json",
- "modified": 1474638852.165778,
+ "modified": 1474815065.765829,
  "signs": {
-  "1JuUHRJ3A1wy5zgT6c2KviH9cHtq8Zr4X9": "Gz5zgdANaZkCbEK1aZbRvd4c8a/82xLyrzg+rxI2HIniNBkr/mzNi99ocJPjdy4h40zxv2sEWDln4u25GpwYrmM="
+  "1JuUHRJ3A1wy5zgT6c2KviH9cHtq8Zr4X9": "HBnMVtPrKeTpVNjvoP3Y0eaSROI9OUNq+2NF0pLVUyO2/knKztmf6GVG/KuOgQFKwabSql3lEw2cH7fJKH4x5B8="
  }
 }

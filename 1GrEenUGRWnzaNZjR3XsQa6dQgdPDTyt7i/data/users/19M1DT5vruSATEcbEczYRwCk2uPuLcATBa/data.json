@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 23,
+	"next_comment_id": 24,
 	"user_name": "Talnicrom",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -139,6 +139,12 @@
 			"body": "What do you mean exactly?  If you mean that you want to have a way to define a set of posts and then have the ZeroMe (or #ZeroMePlus) UI hide them, then the task is relatively easy.  On the other hand, if you want to have some kind of private posts, where some users can see the post and others can't, then more thought is required.  Since it is (essentially) the case that all ZeroMe users get all data, private posting would mean encrypting posts and then using a key-sharing scheme so that some set of users would be able to decrypt them.  I believe that we would be much better off if functionality like that were implemented in the backend.  @nofish: any opinion?",
 			"post_uri": "16dVbybDseQBQnxdJDuQhCzYAij8iR8YEc_1474633058",
 			"date_added": 1474640646
+		},
+		{
+			"comment_id": 23,
+			"body": "I wrote some code that you might be able to adapt.  Check out the SimpleAPI ZeroNet plugin and the Robot Pack [here](http://127.0.0.1:43110/1JjHyLeEDidHyyN33Y8f8cQKVEzWCEPnW7/).  If you do wind up building something cool, please post about it!",
+			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1474810657",
+			"date_added": 1474813158
 		}
 	]
 }

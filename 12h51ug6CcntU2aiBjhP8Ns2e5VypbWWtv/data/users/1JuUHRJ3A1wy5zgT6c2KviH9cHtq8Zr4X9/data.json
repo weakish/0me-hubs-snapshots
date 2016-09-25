@@ -1,12 +1,12 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 8,
+	"next_comment_id": 9,
 	"next_follow_id": 3,
-	"avatar": "generate",
+	"avatar": "png",
 	"comment_order": 0,
 	"user_name": "Planteater",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
-	"intro": "Random ZeroNet user",
+	"intro": "Decentralization enthusiast, like many of you",
 	"post": [
 		{
 			"post_id": 1,
@@ -15,7 +15,8 @@
 		}
 	],
 	"post_like": {
-		"15Hi7MDddHwzTZmmcsj8MWLpZaDz6mLPXg_1474638112": 1474638852
+		"15Hi7MDddHwzTZmmcsj8MWLpZaDz6mLPXg_1474638112": 1474638852,
+		"1EizNCr1TBaytrcEFBPrk8yk6eUFgNCC5r_1474734570": 1474814118
 	},
 	"comment": [
 		{
@@ -59,6 +60,12 @@
 			"body": "@ulrichard: For it is written on the ancient blockchain, which hath existed for all of time...",
 			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1474186161",
 			"date_added": 1474481408
+		},
+		{
+			"comment_id": 8,
+			"body": "@Elspru: What are you talking about?  You would be more convincing if you gave an argument that went beyond poetic imagery.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1474786070",
+			"date_added": 1474813902
 		}
 	],
 	"follow": [
