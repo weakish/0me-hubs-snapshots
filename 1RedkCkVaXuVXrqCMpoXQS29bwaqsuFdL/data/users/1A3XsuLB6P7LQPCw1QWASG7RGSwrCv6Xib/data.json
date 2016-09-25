@@ -1,9 +1,22 @@
 {
-	"next_comment_id": 1,
+	"next_comment_id": 3,
 	"user_name": "Elspru",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {
 		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1474685128": 1474691593
 	},
-	"comment": []
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Musickiller:  RaspberryPi is open hardware, as open as most \"open hardware\" on the market.  The only thing more open in terms of one card PC's is the not-yet-in-production Eoma68,  it did get crowdfunded, but it'll probably be another 6 months at least before anyone sees the final product.   For zeronet Raspberry Pi is enough, also I'd recommend using ethernet, as it is less power-consumption than wireless.  \nIf you needed something high-power ",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1474727485",
+			"date_added": 1474774247
+		},
+		{
+			"comment_id": 2,
+			"body": "@Elspru: if you needed something high-performance but still fairly low power consumption can go with an odroid-xu4.  Though just like raspberry pi, there are proprietary blobs.  The only non-blob single board computer I'm aware of is the Eoma68.  https://www.crowdsupply.com/eoma68/micro-desktop",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1474727485",
+			"date_added": 1474774369
+		}
+	]
 }
