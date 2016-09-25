@@ -4,14 +4,18 @@
  "cert_sign": "HB2C1AuUjeBmskNgEyMwJA6j6FM20WE4CygEjQW3onnO9YO/69qPpoNddPdRuV5oiLE0+UF/7Iix5swIFZqcQ/o=",
  "cert_user_id": "smuntroleum@zeroid.bit",
  "files": {
+  "avatar.png": {
+   "sha512": "eea94f8aa557db8b43c775eed4717e0a7a45a56674bb03e3bb1ff9ae92429787",
+   "size": 5542
+  },
   "data.json": {
-   "sha512": "9b9c47d00c6ef02a40bc14e476f4d71751aef40917a7dc5274a5e3ed2db05949",
-   "size": 2555
+   "sha512": "264ef6d81d1b9641e7392aa8f446fb575ed90eaca54fda596b2d7239679d7344",
+   "size": 2541
   }
  },
  "inner_path": "data/users/1BakVDD34KL36JkXRVgnNu6gQd9Yy6SJFJ/content.json",
- "modified": 1474649670.100263,
+ "modified": 1474815611.691032,
  "signs": {
-  "1BakVDD34KL36JkXRVgnNu6gQd9Yy6SJFJ": "G+QSkcugNR4gDdN5PzXQs64TxrmR0EY181Js0Qvk45biNPZgz5sWjmQPrbG0QkVxRZomNEoTrDvRwgDprZCZNAs="
+  "1BakVDD34KL36JkXRVgnNu6gQd9Yy6SJFJ": "G8O7ajQ+dTmP062unPhZ251HtIpdyzsfs4XSA27tuEg/mDbkL8VWTww5YkWDAiApQo/Pbp4pHdJ2zZK679YbcVo="
  }
 }

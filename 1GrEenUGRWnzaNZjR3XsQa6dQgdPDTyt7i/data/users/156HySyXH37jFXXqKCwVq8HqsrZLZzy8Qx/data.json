@@ -1,5 +1,5 @@
 {
-	"next_post_id": 9,
+	"next_post_id": 12,
 	"next_comment_id": 2,
 	"next_follow_id": 11,
 	"avatar": "jpg",
@@ -41,6 +41,21 @@
 			"post_id": 1473638159,
 			"body": "Однажды по всей стране погаснут телевизоры\nhttp://shipilov.com/assorti/352-odnazhdy-eto-sluchitsya.html",
 			"date_added": 1473638151
+		},
+		{
+			"post_id": 1474816347,
+			"body": "Whats the hype about MaidSafe? is it worth the wait and (more importantly) not a scam?",
+			"date_added": 1474816338
+		},
+		{
+			"post_id": 1474816609,
+			"body": "Все-таки местный аналог твитра будет калекой, до тех пор пока нет закрытых профилей, и нет доступа с мобилы",
+			"date_added": 1474816599
+		},
+		{
+			"post_id": 1474817917,
+			"body": "Besides tox (qtox,antox and all other clients), we still need to have a reliable messenger that works for mobiles too. For me, it must be: opensource both client and server(if used), E2E encr., not using phone number (only as additional tool that can't be used to gain access, but better no number using at all), multi-OS (at least android and ios).\n\nThis leaves me with surespot (android/ios) and possibly Wire (android/ios/windows/web).\nSurespot looks better for security as it doesnt need phone number or even email, but still lacks desktop access and voice calls (has only audio messages). And it's stopped in developing, as it looks.\n\nFor Wire, I don't trust it enough for some reason, maybe because of how it looks and promoted - not security concerned, but more about \"easyness\". Also, it comes from devs who are ex-devs of Skype. (somehow, not a good sign for me; Like, it seems more that they are in busyness again more for profit). And lastly, even if it supports registering with both phone and email, you can only sign up with phone number on mobile clients. So, what is what most users will do by default, and it goes against anonimity and so, security in the end.\nBut, Wire has both voice calls and video calls encripted. And its using Signal's protocol. (there is some bad looking tensions between Signal's devs and Wire's about using protocol, BTW)",
+			"date_added": 1474817906
 		}
 	],
 	"post_like": {},
