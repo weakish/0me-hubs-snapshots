@@ -1,5 +1,5 @@
 {
-	"next_post_id": 29,
+	"next_post_id": 30,
 	"next_comment_id": 21,
 	"next_follow_id": 95,
 	"avatar": "png",
@@ -146,6 +146,11 @@
 			"post_id": 1474550374,
 			"body": "[Snapshots of all current, non empty, functional ZeroMe hubs](https://github.com/weakish/0me-hubs-snapshots), \npowered by [0net-snapshot](https://github.com/weakish/0net-snapshot).",
 			"date_added": 1474550346
+		},
+		{
+			"post_id": 1474806946,
+			"body": "`A then B else C` in Ceylon feels confusing to me.\n\n`A then B else C` looks like `A ? B : C` in other languages, but they are **not the same**:\n\n1. `A then B else C` is actually `(A then B) else C`:\n\n         * `A then B` evaluates to `B` if `A` is not `null`, otherwise evaluates to `null`.\n         * `X else Y` evaluates to `X` if `X` is not `null`, otherwise evaluates to `Y`.\n\n2. Thus the type of `B` is `T given T satisfies Object`, i.e. requires to not be `null`.\n\nI think `if (A) then B else C` is much cleaner.",
+			"date_added": 1474806917
 		}
 	],
 	"post_like": {
