@@ -1,6 +1,6 @@
 {
 	"next_post_id": 59,
-	"next_comment_id": 17,
+	"next_comment_id": 19,
 	"next_follow_id": 28,
 	"avatar": "jpg",
 	"user_name": "Flyman",
@@ -325,6 +325,18 @@
 			"body": "Oh, it looks like this new features are filters which are individual for every user. So it is not like \"like\"s or \"antilike\"s.",
 			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1474903876",
 			"date_added": 1474905629
+		},
+		{
+			"comment_id": 17,
+			"body": "@Talnicrom: This is great! Now we can \"like\" comments here.",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1474903876",
+			"date_added": 1474915054
+		},
+		{
+			"comment_id": 18,
+			"body": "@Talnicrom: About messages which are marked as spam or ugly by guys I follow. I do not know is this a good idea. I think for start/test it can be nice to have some indication... I mean it is good to see some warning sign that one of your friends marked this post as a spam or it is ugly rather than hide this post.",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1474903876",
+			"date_added": 1474915549
 		}
 	],
 	"follow": [
@@ -437,5 +449,6 @@
 	"flags": {
 		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1474903876": 0
 	},
-	"blocked": []
+	"blocked": [],
+	"comment_like": {}
 }

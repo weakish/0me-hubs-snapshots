@@ -1,6 +1,6 @@
 {
-	"next_post_id": 51,
-	"next_comment_id": 166,
+	"next_post_id": 49,
+	"next_comment_id": 158,
 	"next_follow_id": 25,
 	"avatar": "png",
 	"user_name": "Talnicrom",
@@ -216,16 +216,6 @@
 			"post_id": 1474671402,
 			"body": "@Firebox: Great work on the file splitter!  Have you heard anything from @nofish about how ZeroNet is going to handle large files in the future?  I'm probably very late to the conversation, but a system that is built around BitTorrent should be able to handle any files, should it not? #bigfiles #zeronet #backend",
 			"date_added": 1474671354
-		},
-		{
-			"post_id": 1474862197,
-			"body": "Hey everyone!  I saw that there was a user annoying people, so I added some post management tools to [ZeroMe \"Plus\"](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/).\n\n- Block/unblock users and toggle whether or not to show blocked users\n- Mark posts as spam/ham and \"bad ugly\"/fine, toggle whether or not to show each category\n\nPlease let me know if you run into any problems. #ZeroMePlus #ProjectUpdate #NewFeatures",
-			"date_added": 1474862148
-		},
-		{
-			"post_id": 1474906410,
-			"body": "[ZeroMe \"Plus\"](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/) now has likable comments in addition to personal flags (spam, \"bad ugly\") and user blocking. Please let me know how it works on your system =D #ZeroMePlus #NewFeature #ProjectUpdate",
-			"date_added": 1474906360
 		}
 	],
 	"post_like": {
@@ -251,8 +241,7 @@
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1473590552": 1473612549,
 		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1473695005": 1473717014,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1473938063": 1473950862,
-		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1473960102": 1473992518,
-		"18rFd7W9y5QGQEVXaCoJV7jyt7D8aN156h_1474908431": 1474909428
+		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1473960102": 1473992518
 	},
 	"comment": [
 		{
@@ -884,48 +873,6 @@
 			"body": "@Firebox: Ok, I see.  Thanks for the links!",
 			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474671402",
 			"date_added": 1474690488
-		},
-		{
-			"comment_id": 158,
-			"body": "@weakish: Yeah, even at the academic level there seems to be uncertainty about what can be done efficiently.",
-			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474638764",
-			"date_added": 1474810118
-		},
-		{
-			"comment_id": 159,
-			"body": "Check out [ZeroMePlus](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/).  It hides \"Hello ZeroMe!\" statuses, has clickable and searchable hashtags, hides ZeroHello notifications about your own posts and comments, and lets you pull up a random post.",
-			"post_uri": "1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_1474813530",
-			"date_added": 1474813760
-		},
-		{
-			"comment_id": 160,
-			"body": "I forgot to say that you can also change the order of comments by setting an option in the 3-dot menu in the upper right.",
-			"post_uri": "1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_1474813530",
-			"date_added": 1474827398
-		},
-		{
-			"comment_id": 162,
-			"body": "I just added this to [ZeroMe \"Plus\"](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/) if you want to check it out.",
-			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1474850970",
-			"date_added": 1474862249
-		},
-		{
-			"comment_id": 163,
-			"body": "If anyone wants to help me out with the CSS for the Block/Unblock button on the user info card, I would be grateful!",
-			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474862197",
-			"date_added": 1474862938
-		},
-		{
-			"comment_id": 164,
-			"body": "@Mynameislegion: Sure, shouldn't be a problem.  ",
-			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474862197",
-			"date_added": 1474902113
-		},
-		{
-			"comment_id": 165,
-			"body": "@Elspru: Thanks!  It is actually quite easy to add features to ZeroMe that are similar to existing features.  However, creating a new interface would be very time consuming and I probably wouldn't do it.  If you just want the data, you can get to it in the ZeroMe or ZeroMePlus sqlite databases at `merged-ZeroMe/ZeroMe.db` under the site directories.  Of course you can also programmatically read all the JSON files as well.  If you want to post user data to somebody else's site from the command line, you'll have to ask @nofish.  However, I have a plugin called SimpleAPI on [ZeroMods](http://127.0.0.1:43110/1JjHyLeEDidHyyN33Y8f8cQKVEzWCEPnW7/) which makes it possible to control ZeroNet via a WebSocket.  You can also look at the robot pack there for an exampe of how you might code a robot. ",
-			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474862197",
-			"date_added": 1474902489
 		}
 	],
 	"follow": [
@@ -1073,20 +1020,13 @@
 	"comment_order": 1,
 	"settings": {
 		"reverse_comment_order": true,
-		"mute_ugly": true,
-		"mute_spam": true,
-		"mute_blocked": true
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
 	},
 	"flags": {
-		"1LvKrk9mihW3uhuE3c3xuHKEscqS9KXzwz_1474852602": 1,
-		"1KLo2NhgnjYvpR7Uj8VA6j62bEGJaR3djt_1": 0,
-		"1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP_1474864739": 0,
-		"12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1474861633": 0,
-		"1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP_1474860202": 0,
-		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474862197": 0
+		"post-19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474671402": 1
 	},
 	"blocked": [],
-	"comment_like": {
-		"1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_81": 1474906403
-	}
+	"comment_like": {}
 }
