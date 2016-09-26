@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 49,
+	"next_comment_id": 51,
 	"user_name": "Userzero",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {
@@ -294,6 +294,19 @@
 			"body": "The line is added in the web @Mynameislegion: ",
 			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1474011667",
 			"date_added": 1474740035
+		},
+		{
+			"comment_id": 49,
+			"body": "\n0\n≡\n! Internal error: ValueError: Expecting , delimiter: line 24 column 31 (char 698)\nUiWebsocket.py line 99 > UiWebsocket.py line 178 > MergerSitePlugin.py line 127 > MergerSitePlugin.py line 121 > UiWebsocket.py line 389 > ContentManager.py line 602 > ContentManager.py line 343 > ContentDbDict.py line 105 > ContentDbDict.py line 56 > ContentDbDict.py line 25 > SiteStorage.py line 231 > __init__.py line 290 > __init__.py line 338 > decoder.py line 366 > decoder.py line 382\n×\n\nMy website no longer works. What does this mean? What is due? How do you solve?",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1473695005",
+			"date_added": 1474909304
+		},
+		{
+			"comment_id": 50,
+			"body": "Mensaje por Zer0mail",
+			"post_uri": "1K6HCsJskZENYG42GR7ocJXg9WjFbEq9hc_1473960590",
+			"date_added": 1474910872
 		}
-	]
+	],
+	"comment_like": {}
 }

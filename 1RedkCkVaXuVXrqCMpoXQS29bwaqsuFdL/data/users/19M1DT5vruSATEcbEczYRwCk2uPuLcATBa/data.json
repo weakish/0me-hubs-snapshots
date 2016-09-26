@@ -251,7 +251,8 @@
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1473590552": 1473612549,
 		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1473695005": 1473717014,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1473938063": 1473950862,
-		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1473960102": 1473992518
+		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1473960102": 1473992518,
+		"18rFd7W9y5QGQEVXaCoJV7jyt7D8aN156h_1474908431": 1474909428
 	},
 	"comment": [
 		{
@@ -1072,8 +1073,8 @@
 	"comment_order": 1,
 	"settings": {
 		"reverse_comment_order": true,
-		"mute_ugly": false,
-		"mute_spam": false,
+		"mute_ugly": true,
+		"mute_spam": true,
 		"mute_blocked": true
 	},
 	"flags": {
