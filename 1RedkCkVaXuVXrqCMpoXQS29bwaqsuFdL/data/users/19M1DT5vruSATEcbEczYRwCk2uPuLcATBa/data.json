@@ -1,6 +1,6 @@
 {
 	"next_post_id": 50,
-	"next_comment_id": 164,
+	"next_comment_id": 166,
 	"next_follow_id": 25,
 	"avatar": "png",
 	"user_name": "Talnicrom",
@@ -914,6 +914,18 @@
 			"body": "Also, if anyone wants to help me out with the CSS for the Block/Unblock button on the user info card, I would be grateful!",
 			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474862197",
 			"date_added": 1474862938
+		},
+		{
+			"comment_id": 164,
+			"body": "@Mynameislegion: Sure, shouldn't be a problem.  ",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474862197",
+			"date_added": 1474902113
+		},
+		{
+			"comment_id": 165,
+			"body": "@Elspru: Thanks!  It is actually quite easy to add features to ZeroMe that are similar to existing features.  However, creating a new interface would be very time consuming and I probably wouldn't do it.  If you just want the data, you can get to it in the ZeroMe or ZeroMePlus sqlite databases at `merged-ZeroMe/ZeroMe.db` under the site directories.  Of course you can also programmatically read all the JSON files as well.  If you want to post user data to somebody else's site from the command line, you'll have to ask @nofish.  However, I have a plugin called SimpleAPI on [ZeroMods](http://127.0.0.1:43110/1JjHyLeEDidHyyN33Y8f8cQKVEzWCEPnW7/) which makes it possible to control ZeroNet via a WebSocket.  You can also look at the robot pack there for an exampe of how you might code a robot. ",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474862197",
+			"date_added": 1474902489
 		}
 	],
 	"follow": [
@@ -1067,11 +1079,11 @@
 	},
 	"flags": {
 		"1LvKrk9mihW3uhuE3c3xuHKEscqS9KXzwz_1474852602": 1,
-		"1MZZshRCxRDX3ZYBLZaihtdY32Bs5gTiou_1474855308": 4,
 		"1KLo2NhgnjYvpR7Uj8VA6j62bEGJaR3djt_1": 0,
 		"1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP_1474864739": 0,
 		"12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1474861633": 0,
-		"1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP_1474860202": 0
+		"1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP_1474860202": 0,
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474862197": 0
 	},
 	"blocked": []
 }

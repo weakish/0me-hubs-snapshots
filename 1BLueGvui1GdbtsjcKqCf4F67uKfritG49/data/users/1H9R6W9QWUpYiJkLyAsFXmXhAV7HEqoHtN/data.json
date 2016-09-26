@@ -1,6 +1,6 @@
 {
-	"next_post_id": 55,
-	"next_comment_id": 15,
+	"next_post_id": 59,
+	"next_comment_id": 16,
 	"next_follow_id": 28,
 	"avatar": "jpg",
 	"user_name": "Flyman",
@@ -201,6 +201,26 @@
 			"post_id": 1474659658,
 			"body": "Joke: 3 spiders in the jar.\n3 spiders were locked in a jar by some scientist. After some time scientist was checking them and discovered that all spiders disappeared. Scientist was thinking: \"Hmm, interesting, they must have been ate one another!\".",
 			"date_added": 1474659604
+		},
+		{
+			"post_id": 1474903876,
+			"body": "Lets test new features of ZeroMe (Bad Ugly) and (Spam).\nConsider this message as very ugly and spam, go click new options. I am curious what will happen. :-]",
+			"date_added": 1474903821
+		},
+		{
+			"post_id": 1474904938,
+			"body": "Joke: Circus and some troller.\nCircus. Announcer: \"Now at the arena clowns will entertain you\"; audience: \"Yey! hurray!\"; somebody from far seats: \"Booo! Booo! Clowns are sux! Booo! Booo!\". After some time announcer: \"Now at the arena acrobats will entertain you\"; audience: \"Nice, hurray!\"; somebody from far seats: \"Booo! Booo! Acrobats are sux! Booo! Booo!\". Then same thing happen to elephant entertainment, and tigers jumping through flaming rings. Announcer: \"And now you will see special event, 1st time at whole history of this circus, brave man will be used as ammo for a big cannon. Audience: \"Yey! Hurray!\". Somebody from far seats: \"This is sux! Booo! Booo!... Hey? What's going on? Why are you grabbing me? Where are you taking me?!!\"",
+			"date_added": 1474904882
+		},
+		{
+			"post_id": 1474905268,
+			"body": "Joke: Doctor and Patient.\nPatient: \"Doctor, every part of my body is in terrible pain. When I touch my head it hurts. When I touch my belly it hurts. When I touch my arms, legs, back or butt it hurts\".\nDoctor, after examining patient: \"Ohh, I see, your finger is broken!\".",
+			"date_added": 1474905211
+		},
+		{
+			"post_id": 1474905403,
+			"body": "Joke from \"Steal This Show\" podcast.\nIt is another short one. Ukrainian Uranium.",
+			"date_added": 1474905345
 		}
 	],
 	"post_like": {
@@ -293,6 +313,12 @@
 			"body": "@weakish: this joke is both russian and english because of same \"unhealthy\" association of word \"pussy\" with... same thing that is not a little cat! This is true for both english and russian language.",
 			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1474575552",
 			"date_added": 1474819049
+		},
+		{
+			"comment_id": 15,
+			"body": "Did anybody try it already? From my point of view nothing is happening.",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1474903876",
+			"date_added": 1474904943
 		}
 	],
 	"follow": [
@@ -395,5 +421,15 @@
 			"date_added": 1474357964
 		}
 	],
-	"comment_order": 1
+	"comment_order": 1,
+	"settings": {
+		"reverse_comment_order": true,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"flags": {
+		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1474903876": 0
+	},
+	"blocked": []
 }
