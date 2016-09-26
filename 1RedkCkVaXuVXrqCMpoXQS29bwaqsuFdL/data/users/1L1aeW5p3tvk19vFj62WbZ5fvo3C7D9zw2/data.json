@@ -20,13 +20,14 @@
 		}
 	],
 	"post_like": {},
-	"comment": [
-		{
-			"comment_id": 1,
-			"body": "@Bbxxx: What the fuck is this?  Tell me why it isn't completely brain-dead to dump this shit on my post.",
-			"post_uri": "1L1aeW5p3tvk19vFj62WbZ5fvo3C7D9zw2_1474826729",
-			"date_added": 1474841145
-		}
-	],
-	"follow": []
+	"comment": [],
+	"follow": [],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"flags": {},
+	"blocked": []
 }
