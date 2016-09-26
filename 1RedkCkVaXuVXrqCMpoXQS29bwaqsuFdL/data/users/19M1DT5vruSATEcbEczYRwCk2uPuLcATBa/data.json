@@ -1062,15 +1062,16 @@
 	"settings": {
 		"reverse_comment_order": true,
 		"mute_ugly": false,
-		"mute_spam": true,
+		"mute_spam": false,
 		"mute_blocked": true
 	},
 	"flags": {
 		"1LvKrk9mihW3uhuE3c3xuHKEscqS9KXzwz_1474852602": 1,
 		"1MZZshRCxRDX3ZYBLZaihtdY32Bs5gTiou_1474855308": 4,
-		"1KLo2NhgnjYvpR7Uj8VA6j62bEGJaR3djt_1": 0
+		"1KLo2NhgnjYvpR7Uj8VA6j62bEGJaR3djt_1": 0,
+		"1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP_1474864739": 0,
+		"12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1474861633": 0,
+		"1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP_1474860202": 0
 	},
-	"blocked": [
-		"1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP"
-	]
+	"blocked": []
 }
