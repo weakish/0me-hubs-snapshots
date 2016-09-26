@@ -1,6 +1,6 @@
 {
 	"next_post_id": 5,
-	"next_comment_id": 10,
+	"next_comment_id": 11,
 	"next_follow_id": 5,
 	"avatar": "png",
 	"comment_order": 1,
@@ -88,6 +88,12 @@
 			"body": "@Icf20:  @ulrichard: Nice talking to you guys.  I love when disagreements stay polite :D",
 			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1474186161",
 			"date_added": 1474816777
+		},
+		{
+			"comment_id": 10,
+			"body": "@Elspru: Cool!  Could you get that 10% up (if you wanted) by preserving some of your produce for the winter?",
+			"post_uri": "1JuUHRJ3A1wy5zgT6c2KviH9cHtq8Zr4X9_1474816651",
+			"date_added": 1474897386
 		}
 	],
 	"follow": [
@@ -124,7 +130,7 @@
 		"reverse_comment_order": true,
 		"mute_ugly": false,
 		"mute_spam": false,
-		"mute_blocked": false
+		"mute_blocked": true
 	},
 	"flags": {},
 	"blocked": [
