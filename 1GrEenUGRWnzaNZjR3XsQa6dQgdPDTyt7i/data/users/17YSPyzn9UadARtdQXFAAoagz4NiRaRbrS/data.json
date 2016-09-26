@@ -1,0 +1,32 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 2,
+	"next_follow_id": 3,
+	"avatar": "generate",
+	"user_name": "Sllgic",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1474866289,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1474869067,
+			"body": "测试发帖",
+			"date_added": 1474869065
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 2,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "17YSPyzn9UadARtdQXFAAoagz4NiRaRbrS",
+			"user_name": "Sllgic",
+			"date_added": 1474868551
+		}
+	]
+}
