@@ -1,0 +1,24 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "Evo",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "The one and only",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1474875298,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1474875815,
+			"body": "Wonder how are users running ZeroNet -- directly via python, wrapped in a package, docker, else?",
+			"date_added": 1474875813
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": []
+}
