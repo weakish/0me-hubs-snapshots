@@ -1,6 +1,6 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 2,
+	"next_comment_id": 3,
 	"next_follow_id": 1,
 	"avatar": "png",
 	"comment_order": 0,
@@ -20,7 +20,14 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 2,
+			"body": "@Lomi: What are you learning?",
+			"post_uri": "1L1aeW5p3tvk19vFj62WbZ5fvo3C7D9zw2_1474826729",
+			"date_added": 1474919851
+		}
+	],
 	"follow": [],
 	"settings": {
 		"reverse_comment_order": false,
@@ -29,5 +36,6 @@
 		"mute_blocked": false
 	},
 	"flags": {},
-	"blocked": []
+	"blocked": [],
+	"comment_like": {}
 }

@@ -1,5 +1,5 @@
 {
-	"next_post_id": 49,
+	"next_post_id": 51,
 	"next_comment_id": 158,
 	"next_follow_id": 25,
 	"avatar": "png",
@@ -194,7 +194,7 @@
 		},
 		{
 			"post_id": 1474241987,
-			"body": "[ZeroMe \"Plus\"](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/) hashtag search now searches comments as well.  I must say that I am very impressed by what SQL can do! #ZeroMePlus #ProjectUpdate",
+			"body": "[ZeroMe \"Plus\"](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/) hashtag search now searches comments as well.  I must say that I am very impressed by what SQL can do! #ZeroMePlus #ProjectUpdate #NewFeature",
 			"date_added": 1474241943
 		},
 		{
@@ -216,6 +216,16 @@
 			"post_id": 1474671402,
 			"body": "@Firebox: Great work on the file splitter!  Have you heard anything from @nofish about how ZeroNet is going to handle large files in the future?  I'm probably very late to the conversation, but a system that is built around BitTorrent should be able to handle any files, should it not? #bigfiles #zeronet #backend",
 			"date_added": 1474671354
+		},
+		{
+			"post_id": 1474917142,
+			"body": "Okay so in testing new features for #ZeroMePlus, I managed to delete my data.  *I had not backed it up!* Luckily, @weakish has published daily snapshots.  So I was able to recover some of the posts.  #doh #ProjectUpdate\n\nHmm... I bet some of you have some great stories about being a bone-head!  Let's hear them =)",
+			"date_added": 1474917093
+		},
+		{
+			"post_id": 1474917630,
+			"body": "[ZeroMe \"Plus\"](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/) has some new features:\n\n- Block users \n- Mark posts as \"Spam\" or \"Bad Ugly\"\n- Show/hide blocked users, spam posts, ugly posts\n\nComing soon: Spam vote counts, ugly vote counts, import spam & ugly flags from friends. #ZeroMePlus #NewFeature #ProjectUpdate",
+			"date_added": 1474917580
 		}
 	],
 	"post_like": {
@@ -1022,10 +1032,14 @@
 		"reverse_comment_order": true,
 		"mute_ugly": false,
 		"mute_spam": false,
-		"mute_blocked": false
+		"mute_blocked": true
 	},
 	"flags": {
-		"post-19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474671402": 1
+		"post-19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474671402": 0,
+		"post-19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474638764": 0,
+		"post-19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474917630": 0,
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474917630": 0,
+		"1LvKrk9mihW3uhuE3c3xuHKEscqS9KXzwz_1474852602": 1
 	},
 	"blocked": [],
 	"comment_like": {}

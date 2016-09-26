@@ -1,0 +1,21 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "HLBgjAEqyonJEzJxrY0+SD7UzrnvPdVSFPBW3qJluidUYRxFcxyRyymI3l1BlphPuyAUjsZ5uHXQwj2w600RHTY=",
+ "cert_user_id": "splinter@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "8f93752cf81330392bf806c19103df46d4850994c189f9c7a4ea51746606c1b3",
+   "size": 984
+  },
+  "data.json": {
+   "sha512": "5ce4e89cce6391376949f9d11bbdfbf7113263fe40000d8b8d2f0e363dccdaaf",
+   "size": 716
+  }
+ },
+ "inner_path": "data/users/1F8FQhrqzBj3TP1YH5MGpa1qNptyoKQtTn/content.json",
+ "modified": 1474918851.97455,
+ "signs": {
+  "1F8FQhrqzBj3TP1YH5MGpa1qNptyoKQtTn": "G6oNP6efYgXFVPETD8mk9CXLHI+TvByBx0dtnDcq4eoZzJyMVbPWC2DE+moWv1RPzR4HtMFH2HRO//lpnhBdmHg="
+ }
+}
