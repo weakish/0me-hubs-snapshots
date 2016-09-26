@@ -1,9 +1,10 @@
 {
-	"next_comment_id": 4,
+	"next_comment_id": 6,
 	"user_name": "Elspru",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {
-		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1474685128": 1474691593
+		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1474685128": 1474691593,
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1474862332": 1474864956
 	},
 	"comment": [
 		{
@@ -23,6 +24,26 @@
 			"body": "when I try to click on the links, for i.e. Suits season 2 it says \"Remote XUL\n\nThis page uses an unsupported technology that is no longer available by default in Firefox.\n\n    Please contact the website owners to inform them of this problem.\"",
 			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1474852124",
 			"date_added": 1474856185
+		},
+		{
+			"comment_id": 4,
+			"body": "@Sirenyc: opera, vivaldi and chrome are prisoner software, I only use liberty software.  I tried using chromium, but it attempted to open the magnet link using xdg-open and lynx.  \n\nI managed to find a workaround, that can left click on the link and \"open in new tab\", then it works in firefox. \nOtherwise I'm not sure why it's not working, perhaps too much javascript?",
+			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1474852124",
+			"date_added": 1474865154
+		},
+		{
+			"comment_id": 5,
+			"body": "I like the #hashtags!  is it possible to add a pump.io style interface, or some way of hooking bots into it, maybe with some kind of cli interface.  \n",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474862197",
+			"date_added": 1474865495
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"flags": {},
+	"blocked": []
 }

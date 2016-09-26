@@ -74,7 +74,7 @@
 		},
 		{
 			"post_id": 1474862332,
-			"body": "##How to block a person on ZeroMe\n1. Find the public key of the person you want to block.\n2. Find the folder that named after that public key in the hub folder.\n3. Go into that folder and look at `data.json`. Make sure that person is the right person you want to block.\n4. Delete all his or her files, including `content.json`. Then immediately make a `content.json` **folder** at the same place to prevent that file from showing up again.\n5. Pardon? I can't hear you!",
+			"body": "##How to block a person on ZeroMe\n1. Find the public key of the person you want to block.\n2. Find the folder named after that public key in the hub folder.\n3. Go into that person's folder and look at `data.json`. Make sure that person is the right person you want to block.\n4. Delete all his or her files, including `content.json`. Then immediately make a `content.json` **folder** at the same place to prevent that file from showing up again.\n5. Pardon? I can't hear you!",
 			"date_added": 1474862317
 		}
 	],
@@ -163,5 +163,15 @@
 			"user_name": "tkarita",
 			"date_added": 1473305584
 		}
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": true,
+		"mute_spam": true,
+		"mute_blocked": true
+	},
+	"flags": {},
+	"blocked": [
+		"157VksPLxufKMy8U344wPhayVY3RhkL8SK"
 	]
 }
