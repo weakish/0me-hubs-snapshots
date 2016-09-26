@@ -1035,5 +1035,15 @@
 			"date_added": 1474139396
 		}
 	],
-	"comment_order": 1
+	"comment_order": 1,
+	"settings": {
+		"reverse_comment_order": true,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"flags": {
+		"1LvKrk9mihW3uhuE3c3xuHKEscqS9KXzwz_1474852602": null
+	},
+	"blocked": []
 }
