@@ -3,11 +3,12 @@
  "files": {},
  "ignore": ".*",
  "inner_path": "data/users/content.json",
- "modified": 1472730701.059,
+ "modified": 1474852282.355,
  "signs": {
-  "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL": "HD/mKZvSfOB5SITOoBJobScR9Bqd64EMyeHVMVzJKYZkeQB8QD0rGj/8Ks1VMCD5XvF3uI5XGYFHF01TOilbEXU="
+  "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL": "HOXWH+IC3veQSlWnDuiRLkQgh+mmQ889A8TNrXHrlUEpWLkjSI9C+8yY9Fdf8nj/npOVUzUzW4y1JO6YomIGYOg="
  },
  "user_contents": {
+  "archived": { "1MRSDFESsBXDGvNoZ5ifztA89XfEahA5ka": 1475024550 },
   "cert_signers": {
    "zeroid.bit": [ "1iD5ZQJMNXu43w1qLB8sfdHVKppVMduGz" ]
   },
@@ -28,9 +29,9 @@
    "p2p@zeroid.bit": { "max_size": 75000 },
    "scrub@zeroid.bit": { "max_size": 100000 },
    "shellbound@zeroid.bit": { "max_size": 75000 },
-   "sirenyc@zeroid.bit": { "max_size": 75000 },
+   "sirenyc@zeroid.bit": { "max_size": 112500 },
    "spacewarrior02@zeroid.bit": { "max_size": 75000 },
-   "talnicrom@zeroid.bit": { "max_size": 75000 }
+   "talnicrom@zeroid.bit": { "max_size": 112500 }
   }
  }
 }
