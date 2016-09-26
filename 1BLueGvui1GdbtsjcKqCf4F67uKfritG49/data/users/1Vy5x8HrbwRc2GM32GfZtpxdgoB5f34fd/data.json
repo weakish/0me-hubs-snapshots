@@ -1,6 +1,6 @@
 {
 	"next_post_id": 4,
-	"next_comment_id": 2,
+	"next_comment_id": 3,
 	"next_follow_id": 9,
 	"avatar": "generate",
 	"user_name": "Sifr",
@@ -30,6 +30,12 @@
 			"body": "not even in testing!",
 			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1474385882",
 			"date_added": 1474392377
+		},
+		{
+			"comment_id": 2,
+			"body": "via python directly since the systemd method provided by the archlinux package gives me problems (probably some misconfiguration on my side).",
+			"post_uri": "1njejdirgM2P3ibyYys7siVKmAGeLcj7f_1474875815",
+			"date_added": 1474887724
 		}
 	],
 	"follow": [
@@ -89,5 +95,13 @@
 			"user_name": "Nofish",
 			"date_added": 1474294695
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"flags": {},
+	"blocked": []
 }
