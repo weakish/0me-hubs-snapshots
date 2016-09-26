@@ -1,5 +1,5 @@
 {
-	"next_post_id": 50,
+	"next_post_id": 51,
 	"next_comment_id": 166,
 	"next_follow_id": 25,
 	"avatar": "png",
@@ -221,6 +221,11 @@
 			"post_id": 1474862197,
 			"body": "Hey everyone!  I saw that there was a user annoying people, so I added some post management tools to [ZeroMe \"Plus\"](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/).\n\n- Block/unblock users and toggle whether or not to show blocked users\n- Mark posts as spam/ham and \"bad ugly\"/fine, toggle whether or not to show each category\n\nPlease let me know if you run into any problems. #ZeroMePlus #ProjectUpdate #NewFeatures",
 			"date_added": 1474862148
+		},
+		{
+			"post_id": 1474906410,
+			"body": "[ZeroMe \"Plus\"](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/) now has likable comments in addition to personal flags (spam, \"bad ugly\") and user blocking. Please let me know how it works on your system =D #ZeroMePlus #NewFeature #ProjectUpdate",
+			"date_added": 1474906360
 		}
 	],
 	"post_like": {
@@ -898,12 +903,6 @@
 			"date_added": 1474827398
 		},
 		{
-			"comment_id": 161,
-			"body": "For the webdevs out there, the post menus were getting stuck behind the following posts once I made them longer.  How can I get them to overlap the following post? #help",
-			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474862197",
-			"date_added": 1474862193
-		},
-		{
 			"comment_id": 162,
 			"body": "I just added this to [ZeroMe \"Plus\"](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/) if you want to check it out.",
 			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1474850970",
@@ -911,7 +910,7 @@
 		},
 		{
 			"comment_id": 163,
-			"body": "Also, if anyone wants to help me out with the CSS for the Block/Unblock button on the user info card, I would be grateful!",
+			"body": "If anyone wants to help me out with the CSS for the Block/Unblock button on the user info card, I would be grateful!",
 			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474862197",
 			"date_added": 1474862938
 		},
@@ -1085,5 +1084,8 @@
 		"1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP_1474860202": 0,
 		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474862197": 0
 	},
-	"blocked": []
+	"blocked": [],
+	"comment_like": {
+		"1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_81": 1474906403
+	}
 }
