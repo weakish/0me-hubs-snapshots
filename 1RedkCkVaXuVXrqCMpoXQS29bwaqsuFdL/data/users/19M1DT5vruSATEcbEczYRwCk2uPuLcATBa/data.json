@@ -1,6 +1,6 @@
 {
-	"next_post_id": 51,
-	"next_comment_id": 158,
+	"next_post_id": 52,
+	"next_comment_id": 159,
 	"next_follow_id": 25,
 	"avatar": "png",
 	"user_name": "Talnicrom",
@@ -226,6 +226,11 @@
 			"post_id": 1474917630,
 			"body": "[ZeroMe \"Plus\"](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/) has some new features:\n\n- Block users \n- Mark posts as \"Spam\" or \"Bad Ugly\"\n- Show/hide blocked users, spam posts, ugly posts\n\nComing soon: Spam vote counts, ugly vote counts, import spam & ugly flags from friends. #ZeroMePlus #NewFeature #ProjectUpdate",
 			"date_added": 1474917580
+		},
+		{
+			"post_id": 1474921832,
+			"body": "Ok, spam & ugly counts are now displayed on [ZeroMe \"Plus\"](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/). #ZeroMePlus #ProjectUpdates",
+			"date_added": 1474921781
 		}
 	],
 	"post_like": {
@@ -883,6 +888,12 @@
 			"body": "@Firebox: Ok, I see.  Thanks for the links!",
 			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474671402",
 			"date_added": 1474690488
+		},
+		{
+			"comment_id": 158,
+			"body": "This post should have a spam vote of at least one.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474921832",
+			"date_added": 1474921864
 		}
 	],
 	"follow": [
@@ -1037,9 +1048,9 @@
 	"flags": {
 		"post-19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474671402": 0,
 		"post-19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474638764": 0,
-		"post-19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474917630": 0,
-		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474917630": 0,
-		"1LvKrk9mihW3uhuE3c3xuHKEscqS9KXzwz_1474852602": 1
+		"post-19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474917630": 1,
+		"post-1LvKrk9mihW3uhuE3c3xuHKEscqS9KXzwz_1474852602": 1,
+		"post-19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474921832": 1
 	},
 	"blocked": [],
 	"comment_like": {}
