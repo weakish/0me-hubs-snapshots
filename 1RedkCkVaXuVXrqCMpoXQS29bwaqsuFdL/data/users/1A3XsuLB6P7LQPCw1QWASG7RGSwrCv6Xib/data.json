@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 7,
+	"next_comment_id": 8,
 	"user_name": "Elspru",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {
@@ -42,6 +42,12 @@
 			"body": "@Mynameislegion:  *like*",
 			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474862197",
 			"date_added": 1474901415
+		},
+		{
+			"comment_id": 7,
+			"body": "I have a cronjob that does backups every hour to several other computers. Also BTRFS has snapshots, can also be automated to be hourly/daily/weekly/monthly/yearly,  so if you get that, will simply be able to retrieve your old files via your archives. ",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474917142",
+			"date_added": 1474939683
 		}
 	],
 	"settings": {
@@ -51,5 +57,6 @@
 		"mute_blocked": false
 	},
 	"flags": {},
-	"blocked": []
+	"blocked": [],
+	"comment_like": {}
 }
