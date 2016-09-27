@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 168,
+	"next_comment_id": 170,
 	"user_name": "Shellbound",
 	"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
 	"post_like": {
@@ -75,7 +75,8 @@
 		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1474606919": 1474626541,
 		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1474702054": 1474751141,
 		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1474947216": 1474991265,
-		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474921832": 1474991287
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474921832": 1474991287,
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474993623": 1474997261
 	},
 	"comment": [
 		{
@@ -1079,6 +1080,18 @@
 			"body": "@Musickiller: Yeah, that is true.. it is a work of art and the detail is what makes the difference. i3 is pretty quick getting into though and have good centralized documentation. It was also my first twm. It took me a week to get to know it and maybe a month to accustom to. The thing is... with a wm you never really stop working on it. You always find something new to try. ;)",
 			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1474147828",
 			"date_added": 1474584569
+		},
+		{
+			"comment_id": 168,
+			"body": "Me too.. so far you have added some excellent stuff! ;)",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474993623",
+			"date_added": 1474997298
+		},
+		{
+			"comment_id": 169,
+			"body": "@Talnicrom: How hard do you think it would be to have an external cdn that would be clickable to load? Something that would not necessarily be zeronet and thus have no storage requirement. It should be optional because it would probably leak the ip unless you use ipfs and similar.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474993623",
+			"date_added": 1474997518
 		}
 	],
 	"flags": {},
