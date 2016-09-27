@@ -1,6 +1,6 @@
 {
-	"next_post_id": 52,
-	"next_comment_id": 161,
+	"next_post_id": 53,
+	"next_comment_id": 162,
 	"next_follow_id": 25,
 	"avatar": "png",
 	"user_name": "Talnicrom",
@@ -231,6 +231,11 @@
 			"post_id": 1474921832,
 			"body": "Ok, spam & ugly counts are now displayed on [ZeroMe \"Plus\"](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/). #ZeroMePlus #ProjectUpdates",
 			"date_added": 1474921781
+		},
+		{
+			"post_id": 1474993623,
+			"body": "I wish I had more time to work on ZeroNet stuff (:^/)",
+			"date_added": 1474993571
 		}
 	],
 	"post_like": {
@@ -906,6 +911,12 @@
 			"body": "@Userzero: Oh man, I'm sorry!  I seriously misunderstood.  Thank you for the nice words (:^D)  ",
 			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474921832",
 			"date_added": 1474990282
+		},
+		{
+			"comment_id": 161,
+			"body": "@P2P: Interesting idea.  It is easy with some technical know-how to find which posts & comments a given user has liked.  That being said, I think it still makes sense to give users the option of whether or not to display their likes on their profile page.  So if I do add this feature, I would let users have control and set the default to \"don't show likes\".",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474921832",
+			"date_added": 1474993359
 		}
 	],
 	"follow": [
