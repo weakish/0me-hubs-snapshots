@@ -1,6 +1,6 @@
 {
-	"next_post_id": 53,
-	"next_comment_id": 162,
+	"next_post_id": 54,
+	"next_comment_id": 163,
 	"next_follow_id": 25,
 	"avatar": "png",
 	"user_name": "Talnicrom",
@@ -236,6 +236,11 @@
 			"post_id": 1474993623,
 			"body": "I wish I had more time to work on ZeroNet stuff (:^/)",
 			"date_added": 1474993571
+		},
+		{
+			"post_id": 1475013181,
+			"body": "On [ZeroMe \"Plus\"](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/), activity by your blacklisted users (possibly @doom1, for example) is now hidden from the activity feed. #ZeroMePlus #ProjectUpdate",
+			"date_added": 1475013128
 		}
 	],
 	"post_like": {
@@ -917,6 +922,12 @@
 			"body": "@P2P: Interesting idea.  It is easy with some technical know-how to find which posts & comments a given user has liked.  That being said, I think it still makes sense to give users the option of whether or not to display their likes on their profile page.  So if I do add this feature, I would let users have control and set the default to \"don't show likes\".",
 			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474921832",
 			"date_added": 1474993359
+		},
+		{
+			"comment_id": 162,
+			"body": "@Shellbound: Thanks!  I don't understand what you have in mind with the external cdn.  Would you describe an example use case?",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474993623",
+			"date_added": 1475010296
 		}
 	],
 	"follow": [
@@ -1075,7 +1086,10 @@
 		"post-1LvKrk9mihW3uhuE3c3xuHKEscqS9KXzwz_1474852602": 1,
 		"post-19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474921832": 1
 	},
-	"blocked": [],
+	"blocked": [
+		"1D4B7XbRYY5p9kx79NtKr3qiShR5Tcpnvo",
+		"16APV8RqRHmu7Az39JLALAap8PKoJ4rAov"
+	],
 	"comment_like": {
 		"1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_51": 1474984558
 	}
