@@ -1,5 +1,5 @@
 {
-	"next_post_id": 3,
+	"next_post_id": 4,
 	"next_comment_id": 7,
 	"next_follow_id": 22,
 	"avatar": "jpg",
@@ -16,6 +16,11 @@
 			"post_id": 2,
 			"body": "ZeroNet is revealing itself not only a great piece of software (thanks @nofish) but it is also gathering a very nice community.\n\nI speak now to people like me, who is not a developer to the level of nofish, but who can hack a script together to get things done.\n\nI wonder if we can, in ZeroNet lingo, build and maintain zites in a decentralized fashion, as a community, instead of each one of us trying to create the 'next best site ever'.\n\nThis intro is to say that I'm really keen to create an ebooks zite. :)\nNot yet another ebook site. Something cool and for the long term, like libgen.io\n\nHere are some things I see on this site:\n\n- All the ebooks should be served through ipfs  (behind vpns of course) and the site/DB lives on ipfs and ZeroNet.\n- Volunteers would be able to 'adopt' whole group of ebooks (which is their commitment to donating space and bandwidth to keep the files seeded on ipfs). Just like what happens on MVGroup\n- The ebook submission would be something like providing the book ISBN (or equivalent) and the IPFS address to the file. Then one of the site 'workers' (automated scripts) would download the file, check, pull metadata for the book, etc and insert into the zite as a new page\n- Each ebook would have a page with description, rating, comments, etc (much like goodreads) - being the static content editable in a wiki style\n- Users would be able to have their 'shelves' and add ebooks into it - just like goodreads\n- Being the zite local to every node we could implement cool things like: goodreads shelves importer - you provide the csv file you export from your goodreads account and all ebooks found are automatically matched and added to your zite 'shelves'\n\nThe key values the zite would provide:\n\n- Ebook files always available through 3+ seeds (mostly via ipfs, a bonus would be to make it available via torrent as well - it's harder to seed 1000's of torrents than to seed 1000's of files on ipfs)\n- Big catalog: if we manage to work in it as a team we can have people dedicated to hoarding ebooks from around the web and scripts would automatically add the files to the zite\n- Convenience of an ebook manager: By being offline, the zite can work as a personal ebooks manager where users can organize their ebooks in shelves etc, and at the same time they have all the ebooks files. Think of a 'Calibre ebooks manager' where you can download the ebooks files from it. \n- Shared administration: I phantom the day when ZeroNet will allow different private keys to manage different parts of a zite (maybe it can already?). So multiple people could manage the zite without the possibility of one person being able to take the whole thing down. Also, all site files should be in a git repo (or the zeronet equivalent) so people can contribute.\n\nWhat are your thoughts about this? Can we pull this together?",
 			"date_added": 1471468082
+		},
+		{
+			"post_id": 1475000774,
+			"body": "https://www.youtube.com/watch?v=A1YxNYiyALg&list=WL&index=8",
+			"date_added": 1475000771
 		}
 	],
 	"post_like": {},
