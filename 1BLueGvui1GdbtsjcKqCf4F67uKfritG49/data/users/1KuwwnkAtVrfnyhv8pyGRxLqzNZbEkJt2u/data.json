@@ -1,5 +1,5 @@
 {
-	"next_post_id": 12,
+	"next_post_id": 13,
 	"next_comment_id": 24,
 	"next_follow_id": 14,
 	"avatar": "jpg",
@@ -61,6 +61,11 @@
 			"post_id": 1474890148,
 			"body": "I just arrived in Koh Lanta. Anyone has been there before ?",
 			"date_added": 1474890137
+		},
+		{
+			"post_id": 1474988792,
+			"body": "I am thinking of splitting ZeroTube in channels. Each channel will be a hub and using merger site feature you would be able to follow/unfollow channel. It would work like ZeroMe. \n\nThe advantage is that the database would be smaller (I know for now it is not a problem) and you could choose who would post in your channel. \n\nThe issue is that the search feature would be less effective because you would not be able to search in channel that you don't follow. \n\nWhat people from zeronet thinks of it ?",
+			"date_added": 1474988780
 		}
 	],
 	"post_like": {
