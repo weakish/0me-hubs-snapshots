@@ -1,0 +1,21 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "G6V0Lpop8NomqiHkNM/xtMNMmvB+w8FV749ZDTurzEKYo74MF1gQsPQjHARFzidaOA/KiFrEYomI6pXuzll3nVI=",
+ "cert_user_id": "flackdmaguire@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "62d93a28b9e4d2d7a9526244b032052bfd5b60627a7fcce6de2481b859a28a9a",
+   "size": 1414
+  },
+  "data.json": {
+   "sha512": "9299ae01fcfeac4dd6ec015f8c5733544fcb08f1ada1f6c44af04f9edab6b920",
+   "size": 361
+  }
+ },
+ "inner_path": "data/users/19tSkamZJLbAoSLALjKBgjUCwii48XZ7KD/content.json",
+ "modified": 1474947782.436,
+ "signs": {
+  "19tSkamZJLbAoSLALjKBgjUCwii48XZ7KD": "G/dE3y+/sA3EFJUgGlWEPqPf9IajHCGyGoF0t91L8X8S7/TpwEnp6obxwyFtDo8Ryld2Uunn9k/69IT6iCfXOXo="
+ }
+}
