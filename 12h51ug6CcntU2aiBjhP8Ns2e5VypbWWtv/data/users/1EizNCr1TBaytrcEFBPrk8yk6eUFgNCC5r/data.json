@@ -1,6 +1,6 @@
 {
 	"next_post_id": 15,
-	"next_comment_id": 27,
+	"next_comment_id": 28,
 	"next_follow_id": 18,
 	"avatar": "png",
 	"user_name": "ExeciN",
@@ -244,6 +244,12 @@
 			"body": "@Elspru: Relax there buddy. I'm using proprietary software along with free (as in freedom) software and I don't feel bad. Don't make a fuss about it.",
 			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1474786070",
 			"date_added": 1474886887
+		},
+		{
+			"comment_id": 27,
+			"body": "@Elspru: How about you keep using what you want and I keep using what I want?",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1474786070",
+			"date_added": 1474973040
 		}
 	],
 	"follow": [
@@ -352,5 +358,14 @@
 			"user_name": "Sirenyc",
 			"date_added": 1474732420
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": true,
+		"mute_ugly": true,
+		"mute_spam": true,
+		"mute_blocked": true
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }
