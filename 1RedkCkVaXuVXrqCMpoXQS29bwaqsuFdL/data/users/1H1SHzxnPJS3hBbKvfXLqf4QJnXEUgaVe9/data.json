@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 170,
+	"next_comment_id": 171,
 	"user_name": "Shellbound",
 	"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
 	"post_like": {
@@ -1092,6 +1092,12 @@
 			"body": "@Talnicrom: How hard do you think it would be to have an external cdn that would be clickable to load? Something that would not necessarily be zeronet and thus have no storage requirement. It should be optional because it would probably leak the ip unless you use ipfs and similar.",
 			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474993623",
 			"date_added": 1474997518
+		},
+		{
+			"comment_id": 170,
+			"body": "@Talnicrom: Simply just something that will not burden zeronet with the extra weight.. a cdn in other words. It should still be optional for the user to cache images so they should be clickable. Like the gif's on G+ but instead of an image you only see a url. When clicked the image will load inlined in the post. As a user you could decide to only download images from people you trust. Making it a little bit more secure.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474993623",
+			"date_added": 1475039995
 		}
 	],
 	"flags": {},
