@@ -1,7 +1,7 @@
 {
-	"next_post_id": 2,
+	"next_post_id": 3,
 	"next_comment_id": 1,
-	"next_follow_id": 1,
+	"next_follow_id": 5,
 	"avatar": "generate",
 	"user_name": "Hanyoulin123v",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -15,5 +15,13 @@
 	],
 	"post_like": {},
 	"comment": [],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 4,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "13YGaFRNbe9m4H8DNZmrXPJqBkPB76szf2",
+			"user_name": "Hanyoulin123v",
+			"date_added": 1475062270
+		}
+	]
 }
