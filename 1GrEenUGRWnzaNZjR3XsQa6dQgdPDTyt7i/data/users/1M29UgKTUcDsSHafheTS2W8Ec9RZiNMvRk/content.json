@@ -1,0 +1,17 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "G3KpNpSFZ+B0mB3WezPJ352PcVQf3TbAdirsyG6N3QaSR/ixwzcqgkVO+nImUAjqZu/HfB+Zf6HOrGRoka0Tt28=",
+ "cert_user_id": "communahara@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "6398d8ced32ebd6ae2b8a3a6be32d01c07d0372a4e6f96f79483be8cc2bd46b8",
+   "size": 317
+  }
+ },
+ "inner_path": "data/users/1M29UgKTUcDsSHafheTS2W8Ec9RZiNMvRk/content.json",
+ "modified": 1475083751.305,
+ "signs": {
+  "1M29UgKTUcDsSHafheTS2W8Ec9RZiNMvRk": "G8JYA6mYqqWVAfzZnmLiEEI5BpjDfuu9TtQ3DQVagldSQI1K5wrfcNLsRTV2Gy/HnDEB5wyOwyNwSagFAnZeUuQ="
+ }
+}

@@ -1,6 +1,6 @@
 {
 	"next_post_id": 21,
-	"next_comment_id": 83,
+	"next_comment_id": 84,
 	"next_follow_id": 32,
 	"avatar": "jpg",
 	"user_name": "Mynameislegion",
@@ -608,6 +608,12 @@
 			"body": "@FraYoshi: Thank you for the nice words :)",
 			"post_uri": "1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_1474666242",
 			"date_added": 1475081864
+		},
+		{
+			"comment_id": 83,
+			"body": "Maybe we should have a website that keeps track of these sites so that people won't accidently host them. On the other hand, it would help these goat fuckers finding the links so not sure if it is a good idea. In addition to them I see the little Hitler and Mussolini lovers popping up here too, am I right @Aesir...",
+			"post_uri": "1AjxW1N844WRpscEFSotfsqLXsQurz83xc_1475067668",
+			"date_added": 1475082713
 		}
 	],
 	"follow": [
@@ -788,5 +794,8 @@
 		"mute_blocked": false
 	},
 	"flags": {},
-	"blocked": []
+	"blocked": [
+		"12uT4vU8m2CkuLW8ymLz5kpAyFQZ3Jj8XH"
+	],
+	"comment_like": {}
 }
