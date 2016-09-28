@@ -4,14 +4,18 @@
  "cert_sign": "G9oDY/iVDffuYpQqbpZzrJow80uELuPODOwco8n/Hs8fFHkv2LDjoE+StA/EcHZeEUAuCn1c9y4WoePrH5Dv+ug=",
  "cert_user_id": "brom@zeroid.bit",
  "files": {
+  "avatar.jpg": {
+   "sha512": "5f54dd2f6e98b4aa6c95d171c71424bb4301823796325f7eaf5c18ec106c8402",
+   "size": 1941
+  },
   "data.json": {
-   "sha512": "2faeacacfeb1d8e422eda48a1fca38c34dc3159d09afac1d43641b7f0e9ab0b8",
-   "size": 524
+   "sha512": "44d1237688b8f3fa31b85aa6765c1a51ff2e55d08130c65099e77117d772d6c0",
+   "size": 519
   }
  },
  "inner_path": "data/users/1NHR4Gdv1dVLZS5HRwY6aJWfngk9jCLF87/content.json",
- "modified": 1475073581.428523,
+ "modified": 1475078069.902956,
  "signs": {
-  "1NHR4Gdv1dVLZS5HRwY6aJWfngk9jCLF87": "G5hTrI1/AOW7HWXGxquaEesEC0r2ykTiNaA73+lSZDLU6xvkPvWMdwPQwmBFlRawfZ4dIVAJFo+uJWRNQ4UY6XM="
+  "1NHR4Gdv1dVLZS5HRwY6aJWfngk9jCLF87": "G6Iscp/qrlboef07fcF8idLYYwD6eMRrNmFoW7MCWQc7Eng2YX0Bsz5nkINcA4yc6XCJ4ON2zFUHkc00EJHnTso="
  }
 }

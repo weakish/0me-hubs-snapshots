@@ -1,7 +1,7 @@
 {
 	"next_post_id": 4,
-	"next_comment_id": 8,
-	"next_follow_id": 2,
+	"next_comment_id": 9,
+	"next_follow_id": 3,
 	"avatar": "png",
 	"user_name": "Smuntroleum",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -68,6 +68,12 @@
 			"body": "@ulrichard: If you care, it should be \"beautiful\" rather than \"beautyfull\" in your description & about on Bazaarbay.",
 			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1474540959",
 			"date_added": 1474649669
+		},
+		{
+			"comment_id": 8,
+			"body": "@ulrichard: No problem, my friend.",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1474540959",
+			"date_added": 1474986052
 		}
 	],
 	"follow": [
@@ -77,6 +83,22 @@
 			"auth_address": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ",
 			"user_name": "ulrichard",
 			"date_added": 1474592685
+		},
+		{
+			"follow_id": 2,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC",
+			"user_name": "Meidan",
+			"date_added": 1475076619
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": true,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }
