@@ -1,6 +1,6 @@
 {
-	"next_post_id": 37,
-	"next_comment_id": 56,
+	"next_post_id": 38,
+	"next_comment_id": 57,
 	"next_follow_id": 33,
 	"avatar": "png",
 	"user_name": "Userzero",
@@ -166,6 +166,11 @@
 			"post_id": 1474910577,
 			"body": "La seguridad en Zeronet es una puta mierda, se han cargado una de mis webs. Todo el trabajo a tomar por culo.\n¿Cuándo van a hacer actualizaciones serias en el tema de seguridad?\n\nInternal error: ValueError: Expecting , delimiter: line 16 column 34 (char 471)\nUiWebsocket.py line 99 > UiWebsocket.py line 176 > SidebarPlugin.py line 448 > SidebarPlugin.py line 130 > ContentManager.py line 273 > ContentManager.py line 271 > ContentDbDict.py line 56 > ContentDbDict.py line 25 > SiteStorage.py line 231 > __init__.py line 290 > __init__.py line 338 > decoder.py line 366 > decoder.py line 382",
 			"date_added": 1474910541
+		},
+		{
+			"post_id": 1475059357,
+			"body": "Yo subiendo torrents con ID Nanasi y sólo los veía yo :)\n(Tampoco Kaffie.bit parece publicar correctamente los torrents)",
+			"date_added": 1475059320
 		}
 	],
 	"post_like": {
@@ -502,6 +507,12 @@
 			"body": "Respondido",
 			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1474910577",
 			"date_added": 1474934660
+		},
+		{
+			"comment_id": 56,
+			"body": "Lo único bueno que como son webs compartidas se puede recuperar una versión anterior pero desactualizada",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1474910577",
+			"date_added": 1475058520
 		}
 	],
 	"follow": [
