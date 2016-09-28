@@ -1,7 +1,7 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 5,
-	"next_follow_id": 38,
+	"next_comment_id": 6,
+	"next_follow_id": 40,
 	"avatar": "jpg",
 	"user_name": "Arne Bolen",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -46,6 +46,12 @@
 			"body": "@rw:\n\n> Well, that's not what they're looking for anyway. You can't easily share medias or files, and I don't think they would recruit people here (people are on Facebook and Twitter).\n\nFacebook and Twitter can't be used by Islamic State as they get their accounts closed pretty fast.\n\nThey mostly use Telegram channels, but they don't last long. The owner of Telegram, Pavel Durov, closes their channels as soon as he discovers them.\n\nHaving a website is probably a top priority for Islamic State and ZeroNet is a perfect platform for them.",
 			"post_uri": "1AjxW1N844WRpscEFSotfsqLXsQurz83xc_1475067668",
 			"date_added": 1475072971
+		},
+		{
+			"comment_id": 5,
+			"body": "@Arsene Lupin: \n\nThe IPFS blacklist is needed to avoid tons of lawsuits.\nUsing a blacklist on ZeroNet would go against:\n\n> Open, free and uncensorable websites,\n> using Bitcoin cryptography and BitTorrent network\nhttps://zeronet.io/\n",
+			"post_uri": "1AjxW1N844WRpscEFSotfsqLXsQurz83xc_1475067668",
+			"date_added": 1475094700
 		}
 	],
 	"follow": [
@@ -293,6 +299,20 @@
 			"auth_address": "1D242AyQghFqqQTwo1f1csP5kRQe588BUm",
 			"user_name": "Francis Brunelle",
 			"date_added": 1475072210
+		},
+		{
+			"follow_id": 38,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "137PNA5gLgCTLZTBtzUqCmMoZ752NQGQSJ",
+			"user_name": "Arsene Lupin",
+			"date_added": 1475094154
+		},
+		{
+			"follow_id": 39,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg",
+			"user_name": "Dergatt",
+			"date_added": 1475094200
 		}
 	]
 }
