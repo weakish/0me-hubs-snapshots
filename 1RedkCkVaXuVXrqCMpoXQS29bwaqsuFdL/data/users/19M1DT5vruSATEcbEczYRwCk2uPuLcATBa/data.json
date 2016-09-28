@@ -1,7 +1,7 @@
 {
 	"next_post_id": 54,
-	"next_comment_id": 163,
-	"next_follow_id": 25,
+	"next_comment_id": 167,
+	"next_follow_id": 26,
 	"avatar": "png",
 	"user_name": "Talnicrom",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -266,7 +266,8 @@
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1473590552": 1473612549,
 		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1473695005": 1473717014,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1473938063": 1473950862,
-		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1473960102": 1473992518
+		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1473960102": 1473992518,
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1474862332": 1475027092
 	},
 	"comment": [
 		{
@@ -928,6 +929,30 @@
 			"body": "@Shellbound: Thanks!  I don't understand what you have in mind with the external cdn.  Would you describe an example use case?",
 			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474993623",
 			"date_added": 1475010296
+		},
+		{
+			"comment_id": 163,
+			"body": "Alternatively, you can block users without going into the file system on #ZeroMePlus.",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1474862332",
+			"date_added": 1475025672
+		},
+		{
+			"comment_id": 164,
+			"body": "@Henur: I have been maintaining a version of ZeroMe with some improvements.  For example, to block a user just go to the user's profile and click block, then go to the menu in the upper right of the screen (the one with 3 dots, not the zero) and click mute blacklist.  Look at my profile for the link and at my previous posts to see the features (:^) )",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1474862332",
+			"date_added": 1475026006
+		},
+		{
+			"comment_id": 165,
+			"body": "@Henur: Just shout if you try it out and run into a problem!",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1474862332",
+			"date_added": 1475026693
+		},
+		{
+			"comment_id": 166,
+			"body": "@Henur: Are you having trouble?",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1474862332",
+			"date_added": 1475026864
 		}
 	],
 	"follow": [
@@ -1070,6 +1095,13 @@
 			"auth_address": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN",
 			"user_name": "Flyman",
 			"date_added": 1474139396
+		},
+		{
+			"follow_id": 25,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u",
+			"user_name": "Lola",
+			"date_added": 1475026115
 		}
 	],
 	"comment_order": 1,
@@ -1091,7 +1123,9 @@
 		"16APV8RqRHmu7Az39JLALAap8PKoJ4rAov"
 	],
 	"comment_like": {
-		"1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_51": 1474984558,
-		"1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_7": 1475013293
+		"1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_7": 1475013293,
+		"13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_9": 1475026191,
+		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_82": 1475026200,
+		"1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_51": 1475026628
 	}
 }
