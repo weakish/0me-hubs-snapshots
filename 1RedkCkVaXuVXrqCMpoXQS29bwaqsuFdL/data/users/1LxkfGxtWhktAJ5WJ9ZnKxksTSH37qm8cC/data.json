@@ -1,5 +1,5 @@
 {
-	"next_post_id": 16,
+	"next_post_id": 17,
 	"next_comment_id": 8,
 	"next_follow_id": 8,
 	"avatar": "generate",
@@ -76,6 +76,11 @@
 			"post_id": 1474862332,
 			"body": "##How to block a person on ZeroMe\n1. Find the public key of the person you want to block.\n2. Find the folder named after that public key in the hub folder.\n3. Go into that person's folder and look at `data.json`. Make sure that person is the right person you want to block.\n4. Delete all his or her files, including `content.json`. Then immediately make a `content.json` **folder** at the same place to prevent that file from showing up again.\n5. You cannot see that person's posts and comments anymore.",
 			"date_added": 1474862317
+		},
+		{
+			"post_id": 1475035876,
+			"body": "The [documentaion](/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/docs/) of ZeroMux is finished. Now the question remains: can you understand it?",
+			"date_added": 1475035860
 		}
 	],
 	"post_like": {
