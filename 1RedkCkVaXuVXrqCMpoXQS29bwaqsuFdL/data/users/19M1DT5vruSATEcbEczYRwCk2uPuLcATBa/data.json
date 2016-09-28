@@ -1,6 +1,6 @@
 {
 	"next_post_id": 55,
-	"next_comment_id": 169,
+	"next_comment_id": 170,
 	"next_follow_id": 26,
 	"avatar": "png",
 	"user_name": "Talnicrom",
@@ -970,6 +970,12 @@
 			"body": "@Shellbound: On ZeroTalk, @nofish suggested that it would be easy to write a plugin for IPFS.  For fetching files, that seems like a reasonable solution.  However, I don't know how it would work exactly.  @nofish thought it should be responsible for handling urls of the form [...]:43110/ipfs/ .   I would be willing to try to write such a plugin if people want it.  Thoughts? #ipfs #zeronetplugins",
 			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474993623",
 			"date_added": 1475088795
+		},
+		{
+			"comment_id": 169,
+			"body": "By the way, it looks like IPFS integration with Tor is getting close: https://github.com/ipfs/notes/issues/37",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474993623",
+			"date_added": 1475101209
 		}
 	],
 	"follow": [

@@ -1,0 +1,21 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "G5jeMfTnxtqF7FD0o3kbfRu4w2U19beOMB2pa5FMv7JV/gfkqhC+uKZAME8AN1Z3HUrHUjQsQ0sh0axfH/I5ROs=",
+ "cert_user_id": "tuxton@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "d7a18afe23597219e9433dc4ffaa1bb60368282efbf4eb03fce7e3231af2e663",
+   "size": 1264
+  },
+  "data.json": {
+   "sha512": "e04bdc78640403887dedd4bdfbcf71ce2f7bbc05225f8561bc4a2930cca5d953",
+   "size": 338
+  }
+ },
+ "inner_path": "data/users/17QNh69ohvecJvRmzoJPwdEUvzoXgJjh4e/content.json",
+ "modified": 1475101309.437,
+ "signs": {
+  "17QNh69ohvecJvRmzoJPwdEUvzoXgJjh4e": "G5Yvdxo42olB4nWRQd4kUEcz+1AFY603/+kjf8mFMISYTZSGN1v18+JcjHFzi0kV3Pl0rYFVrGMZyL5neV/XpBA="
+ }
+}
