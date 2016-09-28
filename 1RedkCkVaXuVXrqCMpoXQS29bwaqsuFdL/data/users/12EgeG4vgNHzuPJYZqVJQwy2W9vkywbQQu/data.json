@@ -1,6 +1,6 @@
 {
 	"next_post_id": 8,
-	"next_comment_id": 49,
+	"next_comment_id": 51,
 	"next_follow_id": 13,
 	"avatar": "png",
 	"user_name": "PaintNinja",
@@ -349,6 +349,18 @@
 			"body": "@Mytest: I can't catch and disable the onclick event for Chrome until it autoplays because as far as I'm aware, Chrome does not fire any events which indicate that the audio has started autoplaying, although I'll try to add a notice for Chrome users in the near future - thanks for the suggestion",
 			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1473012327",
 			"date_added": 1473186526
+		},
+		{
+			"comment_id": 49,
+			"body": "I use a mini Intel Atom PC myself :)",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1474727485",
+			"date_added": 1474741211
+		},
+		{
+			"comment_id": 50,
+			"body": "@Mynameislegion: An optional web browser plugin could be made that performs a checksum of the zeronet link the user is about to visit and checks the checksum against a database. This would help prevent people accidentally hosting them while also preventing people finding the links (as checksums/hashes are one-way)",
+			"post_uri": "1AjxW1N844WRpscEFSotfsqLXsQurz83xc_1475067668",
+			"date_added": 1475086492
 		}
 	],
 	"follow": [

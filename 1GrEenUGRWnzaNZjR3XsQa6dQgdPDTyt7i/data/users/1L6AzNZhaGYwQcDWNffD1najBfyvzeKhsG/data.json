@@ -1,7 +1,7 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 2,
-	"next_follow_id": 4,
+	"next_comment_id": 3,
+	"next_follow_id": 5,
 	"avatar": "jpg",
 	"user_name": "Vivisect",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -25,6 +25,12 @@
 			"body": "@Communahara: But, that could be kind of cool, if we skip the pictures and crap, and concentrate on something else. Or well drown in everything. Hah, that just got me thinking about 0net image hosting service.",
 			"post_uri": "1L6AzNZhaGYwQcDWNffD1najBfyvzeKhsG_1475080913",
 			"date_added": 1475085510
+		},
+		{
+			"comment_id": 2,
+			"body": "@Mynameislegion: Yeah, that old plaintext that will spawn everything, from ideas to relationships to nothing at all. I was writing a simple text mail the other day, spent quite a time on trying to communicate without links, memes, gifs and all. Was really amazed how much communication skill i have lost over the years relying on junk and emoji to do the thing instead of me.",
+			"post_uri": "1L6AzNZhaGYwQcDWNffD1najBfyvzeKhsG_1475080913",
+			"date_added": 1475085964
 		}
 	],
 	"follow": [
@@ -48,6 +54,13 @@
 			"auth_address": "1M29UgKTUcDsSHafheTS2W8Ec9RZiNMvRk",
 			"user_name": "Communahara",
 			"date_added": 1475085444
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV",
+			"user_name": "Mynameislegion",
+			"date_added": 1475085787
 		}
 	]
 }

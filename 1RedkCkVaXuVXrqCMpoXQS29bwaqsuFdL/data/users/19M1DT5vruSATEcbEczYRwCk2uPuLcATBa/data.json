@@ -1,6 +1,6 @@
 {
-	"next_post_id": 54,
-	"next_comment_id": 167,
+	"next_post_id": 55,
+	"next_comment_id": 169,
 	"next_follow_id": 26,
 	"avatar": "png",
 	"user_name": "Talnicrom",
@@ -241,6 +241,11 @@
 			"post_id": 1475013181,
 			"body": "On [ZeroMe \"Plus\"](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/), activity by your blacklisted users (possibly @doom1, for example) is now hidden from the activity feed. #ZeroMePlus #ProjectUpdate",
 			"date_added": 1475013128
+		},
+		{
+			"post_id": 1475086909,
+			"body": "Hey everybody.  Lots of people have interesting projects that should be promoted on ZeroMe.  One way to promote is to have whoever is running the project post about it.  However, I thought it would be nice if users could click a share button on a site they like in order to automatically post to ZeroMe.  So I have added a feature to #ZeroMePlus which makes this possible, up to a point.  ZeroMe \"Plus\" now understands URLs of the form \n\n`http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/?SetPost&body=body%20text`\n\n[You can test it here.](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/?SetPost&body=I%20LOVE%20[ZeroMe%20\"Plus\"](http%3A%2F%2F127.0.0.1%3A43110%2F1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6%2F%29)\n\nWhen users open a URL of this form, the post box has the text inside, ready to submit.  Of course you can do a lot more if you ask for permission for your site to merge with ZeroMe, but this feature gives an easy and non-invasive way to share user activity.  #NewFeature",
+			"date_added": 1475086855
 		}
 	],
 	"post_like": {
@@ -953,6 +958,18 @@
 			"body": "@Henur: Are you having trouble?",
 			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1474862332",
 			"date_added": 1475026864
+		},
+		{
+			"comment_id": 167,
+			"body": "@Mynameislegion: Thanks, dude.  I am really having a great time.  This is how I am learning about JS, coffeescript, Python, etc.  Might try to change careers soon and this is a fun way to practice web development.  I find the UI stuff really intimidating though when I think about doing more than just hacking @nofish's stuff.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1475013181",
+			"date_added": 1475087296
+		},
+		{
+			"comment_id": 168,
+			"body": "@Shellbound: On ZeroTalk, @nofish suggested that it would be easy to write a plugin for IPFS.  For fetching files, that seems like a reasonable solution.  However, I don't know how it would work exactly.  @nofish thought it should be responsible for handling urls of the form [...]:43110/ipfs/ .   I would be willing to try to write such a plugin if people want it.  Thoughts? #ipfs #zeronetplugins",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474993623",
+			"date_added": 1475088795
 		}
 	],
 	"follow": [
@@ -1126,6 +1143,7 @@
 		"1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_7": 1475013293,
 		"13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_9": 1475026191,
 		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_82": 1475026200,
-		"1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_51": 1475026628
+		"1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_51": 1475026628,
+		"12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_50": 1475087091
 	}
 }
