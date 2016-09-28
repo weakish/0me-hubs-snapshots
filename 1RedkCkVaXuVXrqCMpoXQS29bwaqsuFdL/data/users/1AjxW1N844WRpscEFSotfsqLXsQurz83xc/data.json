@@ -1,7 +1,7 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 3,
-	"next_follow_id": 37,
+	"next_comment_id": 5,
+	"next_follow_id": 38,
 	"avatar": "jpg",
 	"user_name": "Arne Bolen",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -40,6 +40,12 @@
 			"body": "I always use Tor and it's working very fast no matter how many sites I have. Even when I click on \"Update all sites\" there are no problems.\n\nYour internet connection, the Great Firewall of China or your computer may cause your issues.\n\n",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_6",
 			"date_added": 1471175876
+		},
+		{
+			"comment_id": 4,
+			"body": "@rw:\n\n> Well, that's not what they're looking for anyway. You can't easily share medias or files, and I don't think they would recruit people here (people are on Facebook and Twitter).\n\nFacebook and Twitter can't be used by Islamic State as they get their accounts closed pretty fast.\n\nThey mostly use Telegram channels, but they don't last long. The owner of Telegram, Pavel Durov, closes their channels as soon as he discovers them.\n\nHaving a website is probably a top priority for Islamic State and ZeroNet is a perfect platform for them.",
+			"post_uri": "1AjxW1N844WRpscEFSotfsqLXsQurz83xc_1475067668",
+			"date_added": 1475072971
 		}
 	],
 	"follow": [
@@ -280,6 +286,13 @@
 			"auth_address": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ",
 			"user_name": "ulrichard",
 			"date_added": 1474536732
+		},
+		{
+			"follow_id": 37,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1D242AyQghFqqQTwo1f1csP5kRQe588BUm",
+			"user_name": "Francis Brunelle",
+			"date_added": 1475072210
 		}
 	]
 }

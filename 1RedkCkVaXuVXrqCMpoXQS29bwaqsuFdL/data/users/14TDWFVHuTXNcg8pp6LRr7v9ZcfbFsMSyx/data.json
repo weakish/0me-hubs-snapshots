@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 120,
+	"next_comment_id": 121,
 	"user_name": "ks",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {
@@ -755,6 +755,12 @@
 			"body": "Urgh. It was bound to happen, but sad anyway.",
 			"post_uri": "1AjxW1N844WRpscEFSotfsqLXsQurz83xc_1475067668",
 			"date_added": 1475069268
+		},
+		{
+			"comment_id": 120,
+			"body": "@rw: Zeronet ought to pick a random unprivileged port instead of insisting on port 15441. That way it would be much more difficult to block Zeromet without resorting to deep packet inspection.",
+			"post_uri": "1AjxW1N844WRpscEFSotfsqLXsQurz83xc_1475067668",
+			"date_added": 1475072042
 		}
 	]
 }
