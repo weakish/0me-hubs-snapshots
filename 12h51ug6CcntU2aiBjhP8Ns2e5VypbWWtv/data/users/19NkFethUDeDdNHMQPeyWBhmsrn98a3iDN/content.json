@@ -1,0 +1,17 @@
+{
+ "address": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+ "cert_auth_type": "web",
+ "cert_sign": "H40NRKrcoFvZ7nI8oEuCxhzYGfOQOJpsxmHAjTcHR5G1AHoJd4FhyKBXJudz7guAdQckkHy2kuG0XqqlFvNjyhI=",
+ "cert_user_id": "5thzhino@kaffie.bit",
+ "files": {
+  "data.json": {
+   "sha512": "43cbb0be9c05e66f98364d98ac72e8b5fc78945b05aa7ab30b4e353d48cc4068",
+   "size": 535
+  }
+ },
+ "inner_path": "data/users/19NkFethUDeDdNHMQPeyWBhmsrn98a3iDN/content.json",
+ "modified": 1475064888.515,
+ "signs": {
+  "19NkFethUDeDdNHMQPeyWBhmsrn98a3iDN": "G40/A33lwJPyJueTgh9CILRiHsi9GjmXKuROFAGuI61skSnHWshI3pEyWHsWgZLM+kxfmOA5sEgJ87JQcQfWLLk="
+ }
+}

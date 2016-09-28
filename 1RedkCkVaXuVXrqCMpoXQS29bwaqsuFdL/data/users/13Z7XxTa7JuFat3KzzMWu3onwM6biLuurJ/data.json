@@ -1,6 +1,6 @@
 {
 	"next_post_id": 20,
-	"next_comment_id": 83,
+	"next_comment_id": 85,
 	"next_follow_id": 70,
 	"avatar": "jpg",
 	"user_name": "P2P",
@@ -613,6 +613,18 @@
 			"body": "THX! feature request: display which posts a user likes in his/her profile page, maybe between  `Activity feed` and `Following` on the left. ",
 			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474921832",
 			"date_added": 1474960373
+		},
+		{
+			"comment_id": 83,
+			"body": "@Talnicrom: all likes are public data which can be found in user's content.json, and  be queried by SQL. I agree it still makes sense to give users the option of whether or not to display their likes on their profile page. And there should be a page where a user can always see his/her own likes no matter the option is on or off. Since ZeroMe still lacks retweet feature, I really want the likes feature some what take place of  retweet feature.",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474921832",
+			"date_added": 1475064596
+		},
+		{
+			"comment_id": 84,
+			"body": "@Talnicrom: Another feature request: show Tooltip of content of post or comment instead of ' xx hours ago' when hover the first two lines of content of post or comment in Activity feed.  The first two lines contain so little info that in most case we have to click the post's link to see it, wasting time. The same to the likes in Activity feed.  ",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474921832",
+			"date_added": 1475065530
 		}
 	],
 	"follow": [
