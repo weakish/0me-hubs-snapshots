@@ -1,5 +1,5 @@
 {
-	"next_post_id": 3,
+	"next_post_id": 4,
 	"next_comment_id": 3,
 	"next_follow_id": 5,
 	"avatar": "jpg",
@@ -16,6 +16,11 @@
 			"post_id": 1475080913,
 			"body": "This looks promising",
 			"date_added": 1475080911
+		},
+		{
+			"post_id": 1475090061,
+			"body": "Does anyone know how to save \"bookmarks\" or anything similar ? Or i just use the left sidebar ?",
+			"date_added": 1475090058
 		}
 	],
 	"post_like": {},
@@ -62,5 +67,14 @@
 			"user_name": "Mynameislegion",
 			"date_added": 1475085787
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }

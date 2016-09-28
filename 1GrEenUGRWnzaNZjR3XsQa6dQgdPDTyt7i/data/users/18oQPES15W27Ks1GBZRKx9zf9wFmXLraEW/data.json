@@ -1,0 +1,55 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 2,
+	"next_follow_id": 5,
+	"avatar": "generate",
+	"user_name": "Sickbird",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1475091748,
+			"body": "Je Suis de Retour !!!!"
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Et NON Désoler j'ai perdu le controle :(",
+			"post_uri": "18p7mSSHreKc1u3W67kNMQwaKctKG58RKU_1475090929",
+			"date_added": 1475092102
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1DdFL53pVKkKzPHVpakA5LWo8uw48LhjWj",
+			"user_name": "Gudulf",
+			"date_added": 1475091832
+		},
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "18iELxgQf2hpjFuBofjEJyuvVazJt2ekSp",
+			"user_name": "Wrewolf",
+			"date_added": 1475091928
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19vd2X9VjRkgY3qbtuTs6bvMcJCRZJY9Z6",
+			"user_name": "Chez Sick",
+			"date_added": 1475091940
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1G4nMD7txaYAvdpDeroZ9f67K3gtHsGn8H",
+			"user_name": "Gerardmensoif",
+			"date_added": 1475091975
+		}
+	]
+}

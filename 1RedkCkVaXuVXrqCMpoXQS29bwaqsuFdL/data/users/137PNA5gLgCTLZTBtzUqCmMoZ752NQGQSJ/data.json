@@ -1,7 +1,7 @@
 {
-	"next_post_id": 4,
-	"next_comment_id": 7,
-	"next_follow_id": 22,
+	"next_post_id": 5,
+	"next_comment_id": 8,
+	"next_follow_id": 24,
 	"avatar": "jpg",
 	"user_name": "Arsene Lupin",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -21,6 +21,11 @@
 			"post_id": 1475000774,
 			"body": "https://www.youtube.com/watch?v=A1YxNYiyALg&list=WL&index=8",
 			"date_added": 1475000771
+		},
+		{
+			"post_id": 1475092233,
+			"body": "It seems that some foreign language ZeroTalks are being spammed: [spanish](/165eqHdoQfyf7CVGqtVCGNDvMBZhwVSJBL), [portuguese](/1LULE6frq3kw2vbhe4i6ArUTo4YT99Czbj)\n\nI wonder if the way to remove the spams is to ask the ZeroTalk owner to remove the user folder and blacklist it somehow? Or this would simply remove it on his computer?\n\n@Nofish, is there an easy way to fight this type of spamming?",
+			"date_added": 1475092229
 		}
 	],
 	"post_like": {},
@@ -54,6 +59,12 @@
 			"body": "@Sifr: I've emailed you.",
 			"post_uri": "137PNA5gLgCTLZTBtzUqCmMoZ752NQGQSJ_2",
 			"date_added": 1474725247
+		},
+		{
+			"comment_id": 7,
+			"body": "We could adopt the same approach of IPFS and have an official shared blacklist. As sites are discovered we add them to the blacklist (address hash or .bit).\nNot that it will avoid anything, but it will increase the attrition which is enough to send the message.",
+			"post_uri": "1AjxW1N844WRpscEFSotfsqLXsQurz83xc_1475067668",
+			"date_added": 1475090772
 		}
 	],
 	"follow": [
@@ -203,6 +214,29 @@
 			"auth_address": "1Vy5x8HrbwRc2GM32GfZtpxdgoB5f34fd",
 			"user_name": "Sifr",
 			"date_added": 1474572344
+		},
+		{
+			"follow_id": 22,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1AjxW1N844WRpscEFSotfsqLXsQurz83xc",
+			"user_name": "Arne Bolen",
+			"date_added": 1475090950
+		},
+		{
+			"follow_id": 23,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "137PNA5gLgCTLZTBtzUqCmMoZ752NQGQSJ",
+			"user_name": "Arsene Lupin",
+			"date_added": 1475091124
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": true,
+		"mute_ugly": true,
+		"mute_spam": true,
+		"mute_blocked": true
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }
