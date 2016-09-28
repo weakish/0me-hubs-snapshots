@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 3,
 	"avatar": "jpg",
 	"user_name": "Lifo14",
@@ -14,7 +14,14 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Johnnydoe:maaan",
+			"post_uri": "1Pd8oZNMabCtHcSZZpuytq3gdNAd1Lk2Uy_1",
+			"date_added": 1475096801
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 1,

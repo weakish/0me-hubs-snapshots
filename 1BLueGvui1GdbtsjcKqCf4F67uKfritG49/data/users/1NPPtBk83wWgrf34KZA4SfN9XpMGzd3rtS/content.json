@@ -4,14 +4,18 @@
  "cert_sign": "G1/zmMd1u5FNFJJYW81S/biX8AEXJwFdCNuM7vU+ETOt2ql3aWjgC8FhocSDuvYIkU9YglaoiYl4bNQXmIth2KU=",
  "cert_user_id": "gusriber@zeroid.bit",
  "files": {
+  "avatar.jpg": {
+   "sha512": "20fc5974c76fb67f539742e94d4575d289d631678866b4c708f1c55eb0f29378",
+   "size": 1847
+  },
   "data.json": {
-   "sha512": "2a1c7cea60cdef93f0ce269b43feb2772a2c82222543a2fbc0563cdf9bc52810",
-   "size": 340
+   "sha512": "c53a641c414a93ff8b3a34ec5b29e59f65d11fe5e1ca0f30ff5a55797b17cdc5",
+   "size": 528
   }
  },
  "inner_path": "data/users/1NPPtBk83wWgrf34KZA4SfN9XpMGzd3rtS/content.json",
- "modified": 1475095237.792,
+ "modified": 1475096807.567,
  "signs": {
-  "1NPPtBk83wWgrf34KZA4SfN9XpMGzd3rtS": "G+ym1V3CJKUEKf+DfcUq5LzkcZg5rXMQfY/R5HCirGJJYjgLvdPyT9DgdwhLKRLpI4JU5pt39504S47YcF0si74="
+  "1NPPtBk83wWgrf34KZA4SfN9XpMGzd3rtS": "HIwCUbUfHo9pkrlpHWehxv2S3U6JFRFxwyp9OvgK0qNI3qP82kz5NS/6h+NJEHT83zyP50/x7kS8tCzoA5kxn68="
  }
 }
