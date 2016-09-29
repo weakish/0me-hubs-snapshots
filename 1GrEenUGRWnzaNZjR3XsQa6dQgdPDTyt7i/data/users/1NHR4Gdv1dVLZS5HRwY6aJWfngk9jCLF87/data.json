@@ -1,7 +1,7 @@
 {
-	"next_post_id": 3,
+	"next_post_id": 4,
 	"next_comment_id": 1,
-	"next_follow_id": 4,
+	"next_follow_id": 5,
 	"avatar": "jpg",
 	"user_name": "Brom",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -16,6 +16,11 @@
 			"post_id": 1475134570,
 			"body": "адрес бложика, обещаю баловать интересным по миру ZeroNet \nhttp://127.0.0.1:43110/19bhDQnHTh9Qww3XePT9EHn2AujGB6boFg/",
 			"date_added": 1475134568
+		},
+		{
+			"post_id": 1475147498,
+			"body": "как я ZeroNet на третий питон переношу ( обновляется по мере появления свежих мыслей о переносе)\nhttp://127.0.0.1:43110/19bhDQnHTh9Qww3XePT9EHn2AujGB6boFg/?Post:7",
+			"date_added": 1475147495
 		}
 	],
 	"post_like": {
@@ -36,6 +41,13 @@
 			"auth_address": "1DdSeXzdRowHaPdiwC4TrMk6Mna4ZTw8JG",
 			"user_name": "Johnnydoe",
 			"date_added": 1475091641
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "17eKk6mdR7bth2Fi8f74P5JV8AfHsERT4F",
+			"user_name": "Zerro",
+			"date_added": 1475144265
 		}
 	]
 }

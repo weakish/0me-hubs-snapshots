@@ -5,7 +5,7 @@
 	"avatar": "generate",
 	"user_name": "Antyhrabia",
 	"hub": "149fpM31r6YUc7WZ1m28Lq6Ef3zwdBFKBq",
-	"intro": "Polacy w ZeroNet.\n[PolskiHub](http://127.0.0.1:43110/149fpM31r6YUc7WZ1m28Lq6Ef3zwdBFKBq)\n[ZeroTalk Polska](http://127.0.0.1:43110/1GRYnz73jSXoMMZNU3nSmbCFA3twuitcoo)",
+	"intro": "Polacy w ZeroNet.\n[PolskiHub](http://127.0.0.1:43110/149fpM31r6YUc7WZ1m28Lq6Ef3zwdBFKBq)",
 	"post": [
 		{
 			"post_id": 1,
@@ -56,11 +56,6 @@
 			"post_id": 1472734452,
 			"body": "Thats sucks, site generate by Jekyll dont work in ZN. From Hugo works, but I dont like this static site gen.",
 			"date_added": 1472734442
-		},
-		{
-			"post_id": 1474578221,
-			"body": "@Nofish I have the same problem as @Musickiller. If i publish new post or edit, there appear \"Content published...\" but after this appear \"Content publish failed.\" - but other still see new post or changes if i something edit. I havent this problem in revision 1518. I updated to 1523 (now 1525) and have this worning. I didnt change nothing in my own hub or anywhere else. I tried from zero (deleted ZeroMe, my own hub, Mergersite etc.) but this didnt solve the problem.",
-			"date_added": 1474578208
 		}
 	],
 	"post_like": {

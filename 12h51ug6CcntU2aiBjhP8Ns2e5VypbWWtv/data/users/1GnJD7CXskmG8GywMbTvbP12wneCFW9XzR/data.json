@@ -1,7 +1,7 @@
 {
-	"next_post_id": 30,
+	"next_post_id": 31,
 	"next_comment_id": 21,
-	"next_follow_id": 95,
+	"next_follow_id": 96,
 	"avatar": "png",
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -151,6 +151,11 @@
 			"post_id": 1474806946,
 			"body": "`A then B else C` in Ceylon feels confusing to me.\n\n`A then B else C` looks like `A ? B : C` in other languages, but they are **not the same**:\n\n1. `A then B else C` is actually `(A then B) else C`:\n\n         * `A then B` evaluates to `B` if `A` is not `null`, otherwise evaluates to `null`.\n         * `X else Y` evaluates to `X` if `X` is not `null`, otherwise evaluates to `Y`.\n\n2. Thus the type of `B` is `T given T satisfies Object`, i.e. requires to not be `null`.\n\nI think `if (A) then B else C` is much cleaner.",
 			"date_added": 1474806917
+		},
+		{
+			"post_id": 1475144819,
+			"body": "Found an old macro (in a lisp like language) I wrote a year ago. Now I have difficulties to understand it.",
+			"date_added": 1475144789
 		}
 	],
 	"post_like": {
@@ -895,18 +900,18 @@
 			"date_added": 1474550438
 		},
 		{
-			"follow_id": 93,
-			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-			"auth_address": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk",
-			"user_name": "Userzero",
-			"date_added": 1474550454
-		},
-		{
 			"follow_id": 94,
 			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 			"auth_address": "14jDYQEDwSAeKNsi7Hg9dGhPdtNV7qzCvG",
 			"user_name": "Dumi",
 			"date_added": 1474803682
+		},
+		{
+			"follow_id": 95,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1Cnfwco89zGNmh6WjCDYQmLMRW3ujcbxka",
+			"user_name": "Kekbringer",
+			"date_added": 1475143878
 		}
 	]
 }

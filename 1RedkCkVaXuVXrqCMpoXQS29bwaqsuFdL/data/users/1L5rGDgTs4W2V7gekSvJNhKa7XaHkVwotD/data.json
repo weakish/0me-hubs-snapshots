@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 34,
+	"next_comment_id": 35,
 	"user_name": "Antyhrabia",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {
@@ -204,6 +204,12 @@
 			"body": "Polish forum was spammed too. Quoting nofish words:\n```\nIf you have the site's private key (if you cloned it then it's in data/users.json), then you can modify any file:\n- Remove the Topic/Comment from the user's data.json file\n- Open the sidebar\n- At the bottom change content.json to data/users/1editeduseraddress/content.json\n- Press Sign, enter your site's privatekey, publish and you are done\n```",
 			"post_uri": "137PNA5gLgCTLZTBtzUqCmMoZ752NQGQSJ_1475092233",
 			"date_added": 1475101661
+		},
+		{
+			"comment_id": 34,
+			"body": "@Musickiller: Look at this http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:7_1L5rGDgTs4W2V7gekSvJNhKa7XaHkVwotD/Problem+with+hub+content+publish+failed",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1474524274",
+			"date_added": 1475144852
 		}
 	]
 }
