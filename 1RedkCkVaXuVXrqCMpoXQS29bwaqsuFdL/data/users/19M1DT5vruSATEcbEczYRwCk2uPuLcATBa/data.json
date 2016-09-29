@@ -1,5 +1,5 @@
 {
-	"next_post_id": 55,
+	"next_post_id": 56,
 	"next_comment_id": 171,
 	"next_follow_id": 26,
 	"avatar": "png",
@@ -246,6 +246,11 @@
 			"post_id": 1475086909,
 			"body": "Hey everybody.  Lots of people have interesting projects that should be promoted on ZeroMe.  One way to promote is to have whoever is running the project post about it.  However, I thought it would be nice if users could click a share button on a site they like in order to automatically post to ZeroMe.  So I have added a feature to #ZeroMePlus which makes this possible, up to a point.  ZeroMe \"Plus\" now understands URLs of the form \n\n`http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/?SetPost&body=body%20text`\n\n[You can test it here.](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/?SetPost&body=I%20LOVE%20[ZeroMe%20\"Plus\"](http%3A%2F%2F127.0.0.1%3A43110%2F1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6%2F%29)\n\nWhen users open a URL of this form, the post box has the text inside, ready to submit.  Of course you can do a lot more if you ask for permission for your site to merge with ZeroMe, but this feature gives an easy and non-invasive way to share user activity.  #NewFeature",
 			"date_added": 1475086855
+		},
+		{
+			"post_id": 1475164067,
+			"body": "You can now view a user's post likes on [ZeroMe \"Plus\"](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/).  I went back and forth whether I should make it possible for users to opt-out of showing their like history on their profile page.  In the end I decided not to have an opt-out button.  (If anyone would prefer to opt-out, let me know.  However, be aware however that everything you do on ZeroMe is public.)  #ZeroMePlus #NewFeature",
+			"date_added": 1475164012
 		}
 	],
 	"post_like": {
