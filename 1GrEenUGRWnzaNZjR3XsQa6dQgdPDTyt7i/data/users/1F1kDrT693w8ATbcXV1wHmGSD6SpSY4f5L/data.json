@@ -1,5 +1,5 @@
 {
-	"next_post_id": 80,
+	"next_post_id": 81,
 	"next_comment_id": 57,
 	"next_follow_id": 22,
 	"avatar": "jpg",
@@ -336,6 +336,11 @@
 			"post_id": 1475044545,
 			"body": "http://127.0.0.1:43110/1FxAEiPKtrm8hu67Zso2xvRgfsSx28QA4Q/",
 			"date_added": 1475044466
+		},
+		{
+			"post_id": 1475097035,
+			"body": "Updated the 4kbytes blog to have a list of \"latest posts\", and added pinned posts.\nAlso improved some general UI stuff! :)\nhttp://127.0.0.1:43110/1FxAEiPKtrm8hu67Zso2xvRgfsSx28QA4Q/",
+			"date_added": 1475096955
 		}
 	],
 	"post_like": {
@@ -797,8 +802,12 @@
 		"mute_spam": false,
 		"mute_blocked": false
 	},
-	"blocked": [],
-	"flags": {},
+	"blocked": [
+		"16APV8RqRHmu7Az39JLALAap8PKoJ4rAov"
+	],
+	"flags": {
+		"post-15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1475135180": 1
+	},
 	"comment_like": {
 		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_18": 1475094063
 	}
