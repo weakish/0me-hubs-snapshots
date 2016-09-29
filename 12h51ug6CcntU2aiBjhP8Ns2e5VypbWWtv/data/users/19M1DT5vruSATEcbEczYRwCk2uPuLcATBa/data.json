@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 13,
+	"next_comment_id": 15,
 	"user_name": "Talnicrom",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -10,7 +10,8 @@
 		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1474033883": 1474034916,
 		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1474357412": 1474382131,
 		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1474578699": 1474640799,
-		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1474886841": 1474902021
+		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1474886841": 1474902021,
+		"1PbCor9kCtnKaZAPnrxENbcraKtAEq8wA1_1475115026": 1475118697
 	},
 	"comment": [
 		{
@@ -84,6 +85,18 @@
 			"body": "@ks: Cool site.",
 			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1474456716",
 			"date_added": 1474471971
+		},
+		{
+			"comment_id": 13,
+			"body": "I think that running polls is a bit beyond the scope of ZeroMe.  However, it should be easier to tie in data from other parts of ZeroNet.  I know how to do this by merging with other types.  If someone made a site for conducting polls and designated it as a merged site, I could ask users for permission to merge, then get the data and maybe make widgets for displaying polls that ZeroMe users could add to posts.  At the moment, the only permissions for access to merger sites are 'none' and 'read-write'.  ",
+			"post_uri": "1PbCor9kCtnKaZAPnrxENbcraKtAEq8wA1_1475115026",
+			"date_added": 1475118655
+		},
+		{
+			"comment_id": 14,
+			"body": "@nofish: Might it make sense to add read-only permission for merging?",
+			"post_uri": "1PbCor9kCtnKaZAPnrxENbcraKtAEq8wA1_1475115026",
+			"date_added": 1475118694
 		}
 	],
 	"settings": {
