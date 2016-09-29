@@ -1,7 +1,7 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 2,
-	"next_follow_id": 9,
+	"next_comment_id": 3,
+	"next_follow_id": 10,
 	"avatar": "generate",
 	"user_name": "Henur",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -25,6 +25,12 @@
 			"body": "@talnicron create groups is a nice idea too. It easier to follow posts and find people",
 			"post_uri": "1PbCor9kCtnKaZAPnrxENbcraKtAEq8wA1_1475115026",
 			"date_added": 1475122396
+		},
+		{
+			"comment_id": 2,
+			"body": "@Durand: I know that you can create a link from a poll of ZeroPolls.bit and post here, embed one here would not be difficult",
+			"post_uri": "1PbCor9kCtnKaZAPnrxENbcraKtAEq8wA1_1475115026",
+			"date_added": 1475161088
 		}
 	],
 	"follow": [
@@ -83,6 +89,13 @@
 			"auth_address": "1Q9afAmMzsUdnbwDztrFp16dbfQC1Fve3Y",
 			"user_name": "7d068c7785c5ce01",
 			"date_added": 1475118407
+		},
+		{
+			"follow_id": 9,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx",
+			"user_name": "Durand",
+			"date_added": 1475161103
 		}
 	],
 	"settings": {
