@@ -1,8 +1,8 @@
 {
-	"next_post_id": 3,
+	"next_post_id": 4,
 	"next_comment_id": 1,
-	"next_follow_id": 1,
-	"avatar": "generate",
+	"next_follow_id": 2,
+	"avatar": "jpg",
 	"user_name": "Vi3x",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"intro": "Random ZeroNet user",
@@ -11,9 +11,22 @@
 			"post_id": 1,
 			"date_added": 1475131096,
 			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1475133705,
+			"body": "K, i got this shit working.",
+			"date_added": 1475133702
 		}
 	],
 	"post_like": {},
 	"comment": [],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "157Bh49UyzWKSdfgZnN5ShuEFunubzhTP3",
+			"user_name": "Deaththekid",
+			"date_added": 1475133656
+		}
+	]
 }

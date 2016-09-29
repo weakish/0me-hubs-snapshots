@@ -4,14 +4,18 @@
  "cert_sign": "GxJdAQACG5geeWe5ARSoNfe7pf/2J1cajJRMCBwwaakbRpadR5a06vi/9Kw4A72cQ3CYHsf5cLEgPx66/c36eis=",
  "cert_user_id": "vi3x@zeroid.bit",
  "files": {
+  "avatar.jpg": {
+   "sha512": "1baeabe754408c149c756498a7adaed3a203a0bc5f34251ae9a24240cfe8994b",
+   "size": 1626
+  },
   "data.json": {
-   "sha512": "43a9ad5629fc70f03d4a6e1e63b6d9614822abe50641782a92fe1c2317734efe",
-   "size": 336
+   "sha512": "ef6599d4c5879cc849d5bb342688f0de665cc7839872cede16327a4199f10510",
+   "size": 629
   }
  },
  "inner_path": "data/users/1Dyyvst38AfbJ2oZJBDhFG5V8EnJHe4ySH/content.json",
- "modified": 1475131187.331,
+ "modified": 1475133702.321,
  "signs": {
-  "1Dyyvst38AfbJ2oZJBDhFG5V8EnJHe4ySH": "G3YxOsNFK/7n33n5sFsri8tN2yWAdfoZ4/d11Ms7kwj9pMdcP+uCjjiIj1FpU6xyqTXUX8otFBR32yredSM4XVQ="
+  "1Dyyvst38AfbJ2oZJBDhFG5V8EnJHe4ySH": "G9MVTBpBpgb3dnibEkTZ8WJBVlMQqud8dQ5t2D0kF1a2fHuQjb3voz0OhPGI64IIrJEaJnSGD+v+tZmC7BIdJ78="
  }
 }

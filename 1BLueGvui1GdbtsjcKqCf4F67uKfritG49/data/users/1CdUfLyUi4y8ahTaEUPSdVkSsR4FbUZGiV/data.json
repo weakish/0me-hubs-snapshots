@@ -97,5 +97,16 @@
 			"user_name": "Firebox",
 			"date_added": 1473925236
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": true,
+		"mute_ugly": true,
+		"mute_spam": true,
+		"mute_blocked": true
+	},
+	"blocked": [
+		"1D4B7XbRYY5p9kx79NtKr3qiShR5Tcpnvo"
+	],
+	"flags": {},
+	"comment_like": {}
 }
