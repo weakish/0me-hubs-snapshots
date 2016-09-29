@@ -1,6 +1,6 @@
 {
 	"next_post_id": 8,
-	"next_comment_id": 51,
+	"next_comment_id": 52,
 	"next_follow_id": 13,
 	"avatar": "png",
 	"user_name": "PaintNinja",
@@ -66,7 +66,8 @@
 		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473872816": 1473882226,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1473924561": 1473933589,
 		"1PvAyLAB5H1JKbiFjx95ZJXrNJVyWxs5Hf_1474127068": 1474132386,
-		"1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_1475087537": 1475091727
+		"1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_1475087537": 1475091727,
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1475170734": 1475173255
 	},
 	"comment": [
 		{
@@ -362,6 +363,12 @@
 			"body": "@Mynameislegion: An optional web browser plugin could be made that performs a checksum of the zeronet link the user is about to visit and checks the checksum against a database. This would help prevent people accidentally hosting them while also preventing people finding the links (as checksums/hashes are one-way)",
 			"post_uri": "1AjxW1N844WRpscEFSotfsqLXsQurz83xc_1475067668",
 			"date_added": 1475086492
+		},
+		{
+			"comment_id": 51,
+			"body": "@Musickiller7777: Yep, something like these (if you can afford it... Intel tax >.< ). If you are interested in this except the price, I suggest you wait for a sale or discount or something... when that happens, it's usually a decent price. https://www.amazon.co.uk/s/ref=sr_pg_1?rh=i%3Aaps%2Ck%3Aintel+atom+mini+pc&keywords=intel+atom+mini+pc",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1474727485",
+			"date_added": 1475174033
 		}
 	],
 	"follow": [
@@ -450,7 +457,9 @@
 		"mute_spam": false,
 		"mute_blocked": false
 	},
-	"blocked": [],
+	"blocked": [
+		"1D4B7XbRYY5p9kx79NtKr3qiShR5Tcpnvo"
+	],
 	"flags": {},
 	"comment_like": {}
 }
