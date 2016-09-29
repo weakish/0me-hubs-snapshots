@@ -1,7 +1,7 @@
 {
 	"next_post_id": 14,
 	"next_comment_id": 17,
-	"next_follow_id": 31,
+	"next_follow_id": 32,
 	"avatar": "jpg",
 	"user_name": "Woodsfirezyj",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -356,6 +356,22 @@
 			"auth_address": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka",
 			"user_name": "Kha",
 			"date_added": 1474818883
+		},
+		{
+			"follow_id": 31,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1475123713
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }
