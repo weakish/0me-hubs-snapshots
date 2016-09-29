@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 2,
-	"next_follow_id": 2,
+	"next_comment_id": 3,
+	"next_follow_id": 3,
 	"avatar": "generate",
 	"user_name": "Johnnydoe",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -22,6 +22,12 @@
 			"body": "hello, nigga",
 			"post_uri": "1Pd8oZNMabCtHcSZZpuytq3gdNAd1Lk2Uy_1",
 			"date_added": 1475073668
+		},
+		{
+			"comment_id": 2,
+			"body": "@Lifo14: whaaaaaat?",
+			"post_uri": "1Pd8oZNMabCtHcSZZpuytq3gdNAd1Lk2Uy_1",
+			"date_added": 1475168720
 		}
 	],
 	"follow": [
@@ -31,6 +37,13 @@
 			"auth_address": "1Pd8oZNMabCtHcSZZpuytq3gdNAd1Lk2Uy",
 			"user_name": "Lifo14",
 			"date_added": 1475073643
+		},
+		{
+			"follow_id": 2,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1NHR4Gdv1dVLZS5HRwY6aJWfngk9jCLF87",
+			"user_name": "Brom",
+			"date_added": 1475168879
 		}
 	]
 }

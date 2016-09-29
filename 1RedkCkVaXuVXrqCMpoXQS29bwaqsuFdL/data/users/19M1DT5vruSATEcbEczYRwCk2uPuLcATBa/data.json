@@ -1,6 +1,6 @@
 {
-	"next_post_id": 56,
-	"next_comment_id": 171,
+	"next_post_id": 57,
+	"next_comment_id": 172,
 	"next_follow_id": 26,
 	"avatar": "png",
 	"user_name": "Talnicrom",
@@ -251,6 +251,11 @@
 			"post_id": 1475164067,
 			"body": "You can now view a user's post likes on [ZeroMe \"Plus\"](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/).  I went back and forth on whether I should make it possible for users to opt-out of showing their like history on their profile page.  In the end I decided not to have an opt-out button.  (If anyone would prefer to opt-out, let me know.  However, be aware however that everything you do on ZeroMe is public.)  #ZeroMePlus #NewFeature",
 			"date_added": 1475164012
+		},
+		{
+			"post_id": 1475170734,
+			"body": "It should be possible to click and load the following image on [ZeroMe \"Plus\"](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/). #NewFeature #images\n\n![TEST](img/logo.png)",
+			"date_added": 1475170678
 		}
 	],
 	"post_like": {
@@ -987,6 +992,12 @@
 			"body": "@P2P: I like your suggestion about showing a user's likes.  It's on my todo list now ( B^) )",
 			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474921832",
 			"date_added": 1475118777
+		},
+		{
+			"comment_id": 171,
+			"body": "@P2P: You are most welcome!",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1475164067",
+			"date_added": 1475171216
 		}
 	],
 	"follow": [
@@ -1161,6 +1172,7 @@
 		"13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_9": 1475026191,
 		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_82": 1475026200,
 		"1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_51": 1475026628,
-		"12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_50": 1475087091
+		"12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_50": 1475087091,
+		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_89": 1475171167
 	}
 }

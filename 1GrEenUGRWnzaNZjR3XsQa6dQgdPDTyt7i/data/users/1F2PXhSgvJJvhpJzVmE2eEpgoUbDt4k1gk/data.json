@@ -1,6 +1,6 @@
 {
-	"next_post_id": 40,
-	"next_comment_id": 57,
+	"next_post_id": 41,
+	"next_comment_id": 58,
 	"next_follow_id": 38,
 	"avatar": "png",
 	"user_name": "Userzero",
@@ -181,6 +181,11 @@
 			"post_id": 1475109114,
 			"body": "Zerome tiene un error: No coloca adecuadamente las imágenes del perfil. (He creado varios perfiles para hacer pruebas con una instación desde cero y dá el mismo error).\nhttps://ipfs.pics/QmWcJqaBShSXzuCH9nYdES6zTHgaBtFFhUjvUHwpCwnJmi\nhttps://ipfs.pics/QmZYbNCBYZVWEqdXKbq3J8Hig17EaX5BuQ3zLmtUpiqbXo\nhttps://ipfs.pics/QmYDNp4yH1YFycQWABW7LK7DFD4nLydCjTeyG6bDeQzLDK",
 			"date_added": 1475109075
+		},
+		{
+			"post_id": 1475169269,
+			"body": "Zeronet 0.4.1 Rev1529, Fix json write bug with [] characters in value",
+			"date_added": 1475169229
 		}
 	],
 	"post_like": {
@@ -523,6 +528,12 @@
 			"body": "Lo único bueno que como son webs compartidas se puede recuperar una versión anterior pero desactualizada",
 			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1474910577",
 			"date_added": 1475058520
+		},
+		{
+			"comment_id": 57,
+			"body": "ZeroHello saca imágenes de manera incorrecta\nhttps://ipfs.pics/QmYDNp4yH1YFycQWABW7LK7DFD4nLydCjTeyG6bDeQzLDK",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1475109114",
+			"date_added": 1475170471
 		}
 	],
 	"follow": [

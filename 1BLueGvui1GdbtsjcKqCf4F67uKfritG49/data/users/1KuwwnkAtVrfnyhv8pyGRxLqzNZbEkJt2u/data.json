@@ -1,6 +1,6 @@
 {
 	"next_post_id": 13,
-	"next_comment_id": 24,
+	"next_comment_id": 25,
 	"next_follow_id": 14,
 	"avatar": "jpg",
 	"user_name": "Lola",
@@ -213,6 +213,12 @@
 			"body": "Welcome back ?",
 			"post_uri": "16it6qRi6MnCQ9JcqE1WBqNDU14qyXkExX_1474339791",
 			"date_added": 1474399126
+		},
+		{
+			"comment_id": 24,
+			"body": "@Shellbound: The searchable index would be a good solution, it could probably be a new project. I will think about it.\n\nAnd I am glad you like it. Still need to dig into webtorrent to understand how I can know when there is no peer so it would load more videos in the node automatically and the videos would keep showing. I have half a solution so far...",
+			"post_uri": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u_1474988792",
+			"date_added": 1475170939
 		}
 	],
 	"follow": [
