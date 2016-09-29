@@ -1,0 +1,21 @@
+{
+ "address": "1UDbADib99KE9d3qZ87NqJF2QLTHmMkoV",
+ "cert_auth_type": "bitmsg",
+ "cert_sign": "GzrJ9mgI1rE5h73htoLB0zDpNC13KmAmsWdBIj9xENwtJs4rg1dFHGN9vmDt9JDqTI4Lcy4Zd0Nay2ynqliLx10=",
+ "cert_user_id": "matt@zeroverse.bit",
+ "files": {},
+ "inner_path": "data/userdb/1LKicujZ2AuR4i5XWVQqNWWtNPspVPdarQ/content.json",
+ "modified": 1471370327.484152,
+ "signs": {
+  "1LKicujZ2AuR4i5XWVQqNWWtNPspVPdarQ": "G/uJz1Ksj27IZGgahRrp0998WKbQC5JjEs9ZwhW/8Ye90GMddPrGP2DbD3Fm5taEMG1eUxbATkWkh3e8oxbIfVE="
+ },
+ "user": [
+  {
+   "avatar": "generate",
+   "date_added": 1471370327,
+   "hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+   "intro": "Random ZeroNet user",
+   "user_name": "Matt"
+  }
+ ]
+}

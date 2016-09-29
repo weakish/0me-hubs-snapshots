@@ -1,0 +1,21 @@
+{
+ "address": "1UDbADib99KE9d3qZ87NqJF2QLTHmMkoV",
+ "cert_auth_type": "web",
+ "cert_sign": "G6MdC8/LgFSKxVqlWB4KGJaPc061NPBkl7Vy8FRjRThSzGvrk9eMXL7c63OUEbxDIBkmbeekwqETvIFdNas4HjU=",
+ "cert_user_id": "foobarbaz@zeroid.bit",
+ "files": {},
+ "inner_path": "data/userdb/191FCN1GeZs85MEMr5NRccAjxfHhmexWna/content.json",
+ "modified": 1471011671.570375,
+ "signs": {
+  "191FCN1GeZs85MEMr5NRccAjxfHhmexWna": "G2xI2Al7nYkRzpDyfwy/CBwczMzAGCYttz/nOr3oiVHeeNIsOPZvytd3iHgmCPj+YVNCKtxcE6UIoBQ20FncJXM="
+ },
+ "user": [
+  {
+   "avatar": "generate",
+   "date_added": 1471011671,
+   "hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+   "intro": "Random ZeroNet user",
+   "user_name": "Foobarbaz"
+  }
+ ]
+}

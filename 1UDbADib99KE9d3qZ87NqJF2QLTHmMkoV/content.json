@@ -1,0 +1,33 @@
+{
+ "address": "1UDbADib99KE9d3qZ87NqJF2QLTHmMkoV",
+ "background-color": "white",
+ "description": "ZeroMe user db",
+ "files": {
+  "index.html": {
+   "sha512": "087c6ae46aacc5661f7da99ce10dacc0428dbd48aa7bbdc1df9c2da6e81b1d93",
+   "size": 466
+  }
+ },
+ "ignore": "((js|css)/(?!all.(js|css))|data/.*db|data/users/.*/.*)",
+ "includes": {
+  "data/userdb/content.json": {
+   "signers": [],
+   "signers_required": 1
+  }
+ },
+ "inner_path": "content.json",
+ "merged_type": "ZeroMe",
+ "modified": 1470532498.166,
+ "postmessage_nonce_security": true,
+ "sign": [
+  113749637280315097862669279893089513340392255098201574671359835324471431025414,
+  58338517485269354689417827175696740458849710990075863036021932722963433394962
+ ],
+ "signers_sign": "G/zhbN7U7bu3RZ0KgWRwirnwwlwr8UoprDtSfxwCGAP/0nvbnbjSCA0EqTWGIZfwhU6MT0joXyHlPui6ST3b2/g=",
+ "signs": {
+  "1UDbADib99KE9d3qZ87NqJF2QLTHmMkoV": "HMF0GyLMKYLMiGKZ5dheTGJXJDQPcKGC146BeUPSgFEQJfn/nvepHfWooa3JwD/GsTgxDFjvtvD7U7It93uxsVw="
+ },
+ "signs_required": 1,
+ "title": "ZeroMe user registry",
+ "zeronet_version": "0.3.7"
+}
