@@ -1,6 +1,6 @@
 {
-	"next_post_id": 7,
-	"next_comment_id": 3,
+	"next_post_id": 8,
+	"next_comment_id": 6,
 	"next_follow_id": 10,
 	"avatar": "jpg",
 	"user_name": "Eibriel",
@@ -36,6 +36,11 @@
 			"post_id": 1475179047,
 			"body": "Testing **Interplanetary File System** :P\n\nhttp://127.0.0.1:43110/1EMcXwk7qQdY3pbj86A98gZHjDBNRrscdL/?Post:28:Testing+the+Interplanetary+File+System",
 			"date_added": 1475179041
+		},
+		{
+			"post_id": 1475204966,
+			"body": "Testing IPFS image\n\n![SpaceX](http://localhost:8080/ipfs/QmRU4USyX196fkCh8za2oxnVGreSsmDKnsmxvFgLqLwkEh/SpaceX.jpg)\n\nhttp://localhost:8080/ipfs/QmRU4USyX196fkCh8za2oxnVGreSsmDKnsmxvFgLqLwkEh/SpaceX.jpg",
+			"date_added": 1475204959
 		}
 	],
 	"post_like": {},
@@ -51,6 +56,18 @@
 			"body": "Hello @zoofy@zeroid.bit !",
 			"post_uri": "1BxxafUUYXtMFvbXWPpzY7nyagryLeqJ4H_1",
 			"date_added": 1475039346
+		},
+		{
+			"comment_id": 4,
+			"body": "![SpaceX](http://localhost:8080/ipfs/QmRU4USyX196fkCh8za2oxnVGreSsmDKnsmxvFgLqLwkEh/SpaceX.jpg)",
+			"post_uri": "1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1475204966",
+			"date_added": 1475205020
+		},
+		{
+			"comment_id": 5,
+			"body": "Ooh, no images on ZeroNet...",
+			"post_uri": "1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1475204966",
+			"date_added": 1475205279
 		}
 	],
 	"follow": [
