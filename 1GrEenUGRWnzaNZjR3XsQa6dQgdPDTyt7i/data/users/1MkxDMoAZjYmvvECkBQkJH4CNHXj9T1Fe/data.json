@@ -1,6 +1,6 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Kevin Detry",
@@ -14,6 +14,13 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Chipster: Thanks, now I get it. But what is the reason to keep profile storages separated and why giving a choice without even a hint? I mean, if separation is needed, just choose a hub for user automatically.",
+			"post_uri": "1MkxDMoAZjYmvvECkBQkJH4CNHXj9T1Fe_1475266251",
+			"date_added": 1475275553
+		}
+	],
 	"follow": []
 }

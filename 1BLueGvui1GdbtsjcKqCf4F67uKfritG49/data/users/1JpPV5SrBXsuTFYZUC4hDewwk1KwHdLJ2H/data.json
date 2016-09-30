@@ -1,0 +1,34 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 1,
+	"next_follow_id": 3,
+	"avatar": "generate",
+	"user_name": "Fallenangel",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1475273783,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PbCor9kCtnKaZAPnrxENbcraKtAEq8wA1",
+			"user_name": "Henur",
+			"date_added": 1475273802
+		},
+		{
+			"follow_id": 2,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY",
+			"user_name": "Kosherx",
+			"date_added": 1475274003
+		}
+	]
+}

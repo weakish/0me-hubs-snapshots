@@ -1,6 +1,6 @@
 {
 	"next_post_id": 4,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Fix",
@@ -24,6 +24,13 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Zerro: Что-то работает это уже хорошо, сколько хлама сюда можно сложить !  4B951A7F 39111612 12739ED2 FBEE633E 882783F3",
+			"post_uri": "1AKzkqDBZeXWgyudksDv6MekC9zbABNJ4r_1475236886",
+			"date_added": 1475272863
+		}
+	],
 	"follow": []
 }

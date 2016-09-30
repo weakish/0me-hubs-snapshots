@@ -1,0 +1,21 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "Gx0m2hPLhcfpescAa81Ld2hRtE8TEMk697bzrsPuqgAKY604R+AUKMTokPtrbYgyy9sXHuMk3hVHdVLYoT12K4E=",
+ "cert_user_id": "aptgetrekt@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "bbcdec94bb2059dca4c04afe74da6590636f270271012e0bdcf9b0a58f6d2081",
+   "size": 1573
+  },
+  "data.json": {
+   "sha512": "e9ccba1e15982b7cf281fe8e29bd11b255b0fa31fc095793f2a38fabc8aadb18",
+   "size": 536
+  }
+ },
+ "inner_path": "data/users/178NSuZP2hH2vHhNX6vsHceh5sjPkDrLiH/content.json",
+ "modified": 1475273361.894,
+ "signs": {
+  "178NSuZP2hH2vHhNX6vsHceh5sjPkDrLiH": "G7uUbgcSAmxuS3k1hCqLtMkZ9//X6FCxaXaCo/AaqNYhz6ryvGVmatx827WZfrrnC1CjxW4ASvS+MZegLZXEGkk="
+ }
+}

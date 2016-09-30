@@ -1,5 +1,5 @@
 {
-	"next_post_id": 12,
+	"next_post_id": 13,
 	"next_comment_id": 3,
 	"next_follow_id": 13,
 	"avatar": "jpg",
@@ -56,6 +56,11 @@
 			"post_id": 1474817917,
 			"body": "Besides tox (qtox,antox and all other clients), we still need to have a reliable messenger that works for mobiles too. For me, it must be: opensource both client and server(if used), E2E encr., not using phone number (only as additional tool that can't be used to gain access, but better no number using at all), multi-OS (at least android and ios).\n\nThis leaves me with surespot (android/ios) and possibly Wire (android/ios/windows/web).\nSurespot looks better for security as it doesnt need phone number or even email, but still lacks desktop access and voice calls (has only audio messages). And it's stopped in developing, as it looks.\n\nFor Wire, I don't trust it enough for some reason, maybe because of how it looks and promoted - not security concerned, but more about \"easyness\". Also, it comes from devs who are ex-devs of Skype. (somehow, not a good sign for me; Like, it seems more that they are in busyness again more for profit). And lastly, even if it supports registering with both phone and email, you can only sign up with phone number on mobile clients. So, what is what most users will do by default, and it goes against anonimity and so, security in the end.\nBut, Wire has both voice calls and video calls encripted. And its using Signal's protocol. (there is some bad looking tensions between Signal's devs and Wire's about using protocol, BTW) #security #messengers #tox",
 			"date_added": 1474817906
+		},
+		{
+			"post_id": 1475274240,
+			"body": "как установка Россиюшки сбила Боинг рейса MH17 в 2014 году\nhttps://www.bellingcat.com/wp-content/uploads/2016/07/mh17-two-years-later-ru.pdf\nhttps://ru.bellingcat.com/novosti/russia/2016/09/26/colin-powell-moment-ru/ #mh17",
+			"date_added": 1475274228
 		}
 	],
 	"post_like": {},
@@ -158,5 +163,14 @@
 			"user_name": "Jayofthezero",
 			"date_added": 1474822329
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }
