@@ -1,6 +1,6 @@
 {
 	"next_post_id": 57,
-	"next_comment_id": 172,
+	"next_comment_id": 173,
 	"next_follow_id": 26,
 	"avatar": "png",
 	"user_name": "Talnicrom",
@@ -254,7 +254,7 @@
 		},
 		{
 			"post_id": 1475170734,
-			"body": "It should be possible to click and load the following image on [ZeroMe \"Plus\"](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/). #NewFeature #images\n\n![TEST](img/logo.png)",
+			"body": "It should be possible to click and load the following image on [ZeroMe \"Plus\"](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/). #NewFeature #images\n\n![TEST](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/img/logo.png)",
 			"date_added": 1475170678
 		}
 	],
@@ -998,6 +998,12 @@
 			"body": "@P2P: You are most welcome!",
 			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1475164067",
 			"date_added": 1475171216
+		},
+		{
+			"comment_id": 172,
+			"body": "To clarify, if you want to include an image as above, use markdown: `![title](url)`",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1475170734",
+			"date_added": 1475200350
 		}
 	],
 	"follow": [
