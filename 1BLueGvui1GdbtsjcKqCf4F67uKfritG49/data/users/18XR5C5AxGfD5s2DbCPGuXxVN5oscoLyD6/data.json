@@ -1,8 +1,8 @@
 {
-	"next_post_id": 4,
+	"next_post_id": 5,
 	"next_comment_id": 4,
-	"next_follow_id": 5,
-	"avatar": "generate",
+	"next_follow_id": 7,
+	"avatar": "jpg",
 	"user_name": "Border0464fred",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"intro": "0464.ca",
@@ -21,6 +21,11 @@
 			"post_id": 1475245002,
 			"body": "#hashtags ? #zerome\n",
 			"date_added": 1475244999
+		},
+		{
+			"post_id": 1475260326,
+			"body": "http://www.bbc.co.uk/news/world-europe-37484910\n\n#agrees #bbc #experimental #news #nudist #open #paris #plan #world #zone\n\nSRC : https://framasphere.org/posts/2252017",
+			"date_added": 1475260322
 		}
 	],
 	"post_like": {
@@ -74,6 +79,24 @@
 			"auth_address": "1DSVWXJjaSa3wDMjDLhsAP8W3a9ZMV49Mj",
 			"user_name": "Troll",
 			"date_added": 1475245126
+		},
+		{
+			"follow_id": 5,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1475258901
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_31": 1475260010
+	}
 }

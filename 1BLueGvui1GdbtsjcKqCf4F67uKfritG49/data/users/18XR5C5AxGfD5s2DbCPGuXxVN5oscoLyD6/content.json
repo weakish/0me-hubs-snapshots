@@ -4,14 +4,18 @@
  "cert_sign": "HHsvdLX4/+nvZkkzXMalhjJeQsB6plwifH0BUVi9Nzgvbi4iIgvkDX05HHlm5NC+XBFM6L4BD9i+C1yc+8GIK4Q=",
  "cert_user_id": "border0464fred@zeroid.bit",
  "files": {
+  "avatar.jpg": {
+   "sha512": "0c7f010982ff52c43f287e8cf8264ed607ddda1579099a2e7e7a3132e7f7246c",
+   "size": 1706
+  },
   "data.json": {
-   "sha512": "bdc30ea7751815ec6ec5ce062b015389aecd7eee5674ef294157bb2e8eae203c",
-   "size": 1905
+   "sha512": "058ea9f1150b85fc3a72c3492165838858711c10e4815191890de254a79f6787",
+   "size": 2565
   }
  },
  "inner_path": "data/users/18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6/content.json",
- "modified": 1475245470.576553,
+ "modified": 1475260537.898189,
  "signs": {
-  "18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6": "G5EbAgEdPHk0jjvyXkirBwGC9svpLBOQ3N0rG03Cer6mmplQHX9D4hvV1Rmhz3s42RWh6QrUqhyhBW9i1F1wcww="
+  "18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6": "HE8LV3USuopOBZYMQAERjRlX4XPoYaPDvWpI6QrKbruCUlX0PkByU7fM6/AdOeA+fPNv3w3klSamhRHekB8oW9o="
  }
 }
