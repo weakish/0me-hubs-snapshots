@@ -1,7 +1,7 @@
 {
 	"next_post_id": 24,
-	"next_comment_id": 17,
-	"next_follow_id": 64,
+	"next_comment_id": 19,
+	"next_follow_id": 65,
 	"avatar": "jpg",
 	"user_name": "ulrichard",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -222,6 +222,18 @@
 			"body": "@Smuntroleum: corrected in OpenBazaar. It will take a moment for bazaarbay to refresh. Thanks for reporting.",
 			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1474540959",
 			"date_added": 1474882865
+		},
+		{
+			"comment_id": 17,
+			"body": "@Dergatt: I have had one of the first commercially available Ubuntu phones for 20 months. And I wish there were more apps for it. But other factors have more weight for me.",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1475217750",
+			"date_added": 1475242871
+		},
+		{
+			"comment_id": 18,
+			"body": "Even BitBucket favors git these days. If I'm not mistaken, they started with mercurial.",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1475238433",
+			"date_added": 1475243024
 		}
 	],
 	"follow": [
@@ -665,6 +677,13 @@
 			"auth_address": "1ZqtBCrN2c7a48tN8u7gqYL1MLNAm1QPd",
 			"user_name": "Jpfox",
 			"date_added": 1475004319
+		},
+		{
+			"follow_id": 64,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR",
+			"user_name": "weakish",
+			"date_added": 1475242950
 		}
 	]
 }

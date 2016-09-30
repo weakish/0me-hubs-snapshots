@@ -1,6 +1,6 @@
 {
 	"next_post_id": 57,
-	"next_comment_id": 174,
+	"next_comment_id": 175,
 	"next_follow_id": 26,
 	"avatar": "png",
 	"user_name": "Talnicrom",
@@ -1010,6 +1010,12 @@
 			"body": "@Spukkin Faceship: It will depend on the URL.  Ordinary URLs will load images from some server somewhere like in normal browsing.  They will be saved according to your caching preferences.  However, ZeroNet URLs will first download the site then get the image locally.",
 			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1475170734",
 			"date_added": 1475208388
+		},
+		{
+			"comment_id": 174,
+			"body": "@Spukkin Faceship: The IPFS cat in my test above loads from ipfs.io which is the IPFS gateway site.  Another user has posted some images that refer to localhost:8080/ipfs.  Those will only load if you have IPFS running and bound to localhost.  ",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1475170734",
+			"date_added": 1475243361
 		}
 	],
 	"follow": [
