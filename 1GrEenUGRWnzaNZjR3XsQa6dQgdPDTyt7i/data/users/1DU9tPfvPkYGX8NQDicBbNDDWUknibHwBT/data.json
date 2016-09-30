@@ -1,5 +1,5 @@
 {
-	"next_post_id": 2,
+	"next_post_id": 3,
 	"next_comment_id": 1,
 	"next_follow_id": 1,
 	"avatar": "generate",
@@ -15,5 +15,14 @@
 	],
 	"post_like": {},
 	"comment": [],
-	"follow": []
+	"follow": [],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }
