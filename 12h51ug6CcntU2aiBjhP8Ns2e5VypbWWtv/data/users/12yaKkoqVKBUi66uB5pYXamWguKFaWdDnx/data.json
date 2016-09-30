@@ -1,7 +1,7 @@
 {
-	"next_post_id": 43,
+	"next_post_id": 44,
 	"next_comment_id": 51,
-	"next_follow_id": 12,
+	"next_follow_id": 13,
 	"avatar": "jpg",
 	"user_name": "狗蛋",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -565,6 +565,22 @@
 			"auth_address": "16LArofpYM9Fu3SvTQpXW5UD89aArepKcd",
 			"user_name": "抢到了一个经典的名字",
 			"date_added": 1471839977
+		},
+		{
+			"follow_id": 12,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "16LArofpYM9Fu3SvTQpXW5UD89aArepKcd",
+			"user_name": "抢到了一个经典的名字",
+			"date_added": 1475197191
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }

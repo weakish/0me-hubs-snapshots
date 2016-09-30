@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Henur",
@@ -16,6 +16,13 @@
 	"post_like": {
 		"1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u_1474988792": 1475021673
 	},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@W1n5t0n: Already exist ZeroTube: 127.0.0.1:43110/1FUQPLXHimgCvYHH7v3bJXspJ7bMBUXcEb",
+			"post_uri": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u_1474988792",
+			"date_added": 1475195982
+		}
+	],
 	"follow": []
 }
