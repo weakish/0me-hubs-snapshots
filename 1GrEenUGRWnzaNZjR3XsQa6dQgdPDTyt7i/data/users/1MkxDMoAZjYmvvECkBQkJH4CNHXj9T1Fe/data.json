@@ -1,12 +1,18 @@
 {
-	"next_post_id": 2,
+	"next_post_id": 3,
 	"next_comment_id": 1,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Kevin Detry",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"intro": "Random ZeroNet user",
-	"post": [],
+	"post": [
+		{
+			"post_id": 1475266251,
+			"body": "What is the difference between two hubs and how to access another one? -_-",
+			"date_added": 1475266249
+		}
+	],
 	"post_like": {},
 	"comment": [],
 	"follow": []
