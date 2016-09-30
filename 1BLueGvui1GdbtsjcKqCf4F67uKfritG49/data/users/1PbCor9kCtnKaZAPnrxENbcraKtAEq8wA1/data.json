@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 2,
+	"next_comment_id": 3,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Henur",
@@ -14,7 +14,8 @@
 		}
 	],
 	"post_like": {
-		"1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u_1474988792": 1475021673
+		"1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u_1474988792": 1475021673,
+		"1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1475271942": 1475272418
 	},
 	"comment": [
 		{
@@ -22,7 +23,15 @@
 			"body": "@W1n5t0n: Already exist ZeroTube: 127.0.0.1:43110/1FUQPLXHimgCvYHH7v3bJXspJ7bMBUXcEb",
 			"post_uri": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u_1474988792",
 			"date_added": 1475195982
+		},
+		{
+			"comment_id": 2,
+			"body": "@W1n5t0n: try to put http:// before the link",
+			"post_uri": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u_1474988792",
+			"date_added": 1475269295
 		}
 	],
-	"follow": []
+	"follow": [],
+	"flags": {},
+	"comment_like": {}
 }
