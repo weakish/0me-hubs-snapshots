@@ -4,14 +4,18 @@
  "cert_sign": "HByYG7ng2CBEd9PIQGONhyazZiIyiDQeb9r/gUwTDbjGKAMnpgHlJ93YSYBoH5xDMnzeH628GS1YwAOvdjTx2yQ=",
  "cert_user_id": "clebermatheus@zeroid.bit",
  "files": {
+  "avatar.png": {
+   "sha512": "915ac6c89ce06277f1b519535d5470fbefd1ca41809d9147b8164f84ca5779ec",
+   "size": 1599
+  },
   "data.json": {
-   "sha512": "0f4205289f0cd83720e9dbba1155d93e459ec97e4633870281ebb7bd7162d0b0",
-   "size": 400
+   "sha512": "e8b3a66c658676f0e78bf2b3ee963cdfcf2ce1880d7fb040aff50b5b46f52910",
+   "size": 801
   }
  },
  "inner_path": "data/users/1MWzMAaNpFjHAPStAkEnxgWM2s9gAzmwkF/content.json",
- "modified": 1474839775.97,
+ "modified": 1475293719.657,
  "signs": {
-  "1MWzMAaNpFjHAPStAkEnxgWM2s9gAzmwkF": "G5J4kXnDQHaVEX+LRhb/kyTwcMtWxX3pbLonsmbS7kEOUuasiZqMdWfzvf/hbhqDg1+R3oNQmfsg3y0F1u6gcbI="
+  "1MWzMAaNpFjHAPStAkEnxgWM2s9gAzmwkF": "G5XExQp9qUm4aAPQ3fReOQl04jzLXArEV09U6tXKAqH7EKUflQDhcmdQCvG1fSCrF8weKRIb5Zw588LS9BaVwUo="
  }
 }

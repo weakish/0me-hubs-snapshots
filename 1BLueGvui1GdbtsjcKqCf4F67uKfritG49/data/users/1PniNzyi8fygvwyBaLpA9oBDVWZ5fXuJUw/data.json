@@ -1,7 +1,7 @@
 {
 	"next_post_id": 4,
-	"next_comment_id": 2,
-	"next_follow_id": 3,
+	"next_comment_id": 3,
+	"next_follow_id": 4,
 	"avatar": "jpg",
 	"user_name": "Balancer73",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -30,6 +30,12 @@
 			"body": "Oversized under right menu :-/",
 			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475285864",
 			"date_added": 1475285917
+		},
+		{
+			"comment_id": 2,
+			"body": "@Talnicrom: Still the picture is located under the right menu. It is necessary to add to CSS:\n```CSS\nimg { max-width: 100%; }\n```\n",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475285864",
+			"date_added": 1475290898
 		}
 	],
 	"follow": [
@@ -46,6 +52,13 @@
 			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
 			"user_name": "Talnicrom",
 			"date_added": 1475285755
+		},
+		{
+			"follow_id": 3,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1475291409
 		}
 	],
 	"settings": {

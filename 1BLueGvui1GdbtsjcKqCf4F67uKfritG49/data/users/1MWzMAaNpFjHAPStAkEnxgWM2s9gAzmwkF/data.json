@@ -1,11 +1,11 @@
 {
 	"next_post_id": 2,
 	"next_comment_id": 1,
-	"next_follow_id": 1,
+	"next_follow_id": 4,
 	"avatar": "generate",
-	"user_name": "Clebermatheus",
+	"user_name": "Cleber Matheus",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
-	"intro": "Random ZeroNet user",
+	"intro": "Anarcho-Capitalist. Future of Computer Engineer. Single.",
 	"post": [
 		{
 			"post_id": 1,
@@ -17,5 +17,22 @@
 		"17TWsvaDCv1sco5wwuCngXfRu618AcLwLr_1": 1474839775
 	},
 	"comment": [],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1475292558
+		}
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }
