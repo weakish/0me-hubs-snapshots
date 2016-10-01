@@ -1,6 +1,6 @@
 {
 	"next_post_id": 57,
-	"next_comment_id": 175,
+	"next_comment_id": 176,
 	"next_follow_id": 26,
 	"avatar": "png",
 	"user_name": "Talnicrom",
@@ -1016,6 +1016,12 @@
 			"body": "@Spukkin Faceship: The IPFS cat in my test above loads from ipfs.io which is the IPFS gateway site.  Another user has posted some images that refer to localhost:8080/ipfs.  Those will only load if you have IPFS running and bound to localhost.  ",
 			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1475170734",
 			"date_added": 1475243361
+		},
+		{
+			"comment_id": 175,
+			"body": "@Border0464fred: That's good to know.  What is the rest bandwidth of ZeroNet?  ",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474993623",
+			"date_added": 1475289739
 		}
 	],
 	"follow": [

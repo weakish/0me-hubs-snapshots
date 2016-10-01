@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 32,
+	"next_comment_id": 35,
 	"user_name": "Talnicrom",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -205,6 +205,24 @@
 			"body": "@Border0464fred: Try my ZeroMe portal, [ZeroMe+](/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6).  It has support for hashtags and images among other things.  People aren't using hashtags much yet since the core ZeroMe site does not support them, but I hope that will change.",
 			"post_uri": "18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6_1475245002",
 			"date_added": 1475245949
+		},
+		{
+			"comment_id": 32,
+			"body": "Did you mean to put the markdown for your image in a link?  The way the page is constructed, the link click takes precedence over the click handler that loads the image.",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475285157",
+			"date_added": 1475289865
+		},
+		{
+			"comment_id": 33,
+			"body": "@Balancer73: Ok, this should display properly now.  Thanks for testing!",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475285864",
+			"date_added": 1475290121
+		},
+		{
+			"comment_id": 34,
+			"body": "FYI, hashtags are not case-sensitive on ZeroMe+.",
+			"post_uri": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1475289271",
+			"date_added": 1475290153
 		}
 	],
 	"settings": {
