@@ -1,6 +1,6 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 1,
 	"avatar": "jpg",
 	"user_name": "Mikamiga",
@@ -19,6 +19,13 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Jike: I would like to see it take off. All my fake accounts keep getting zucc'd on kikebook",
+			"post_uri": "1JEFLay3C144NwZmrYaQer7f1vF3yo3qHB_1475291422",
+			"date_added": 1475349049
+		}
+	],
 	"follow": []
 }
