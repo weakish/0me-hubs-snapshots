@@ -1,11 +1,11 @@
 {
 	"next_post_id": 9,
-	"next_comment_id": 17,
-	"next_follow_id": 21,
+	"next_comment_id": 21,
+	"next_follow_id": 22,
 	"avatar": "jpg",
 	"user_name": "Elspru",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"intro": "Cosmist AGI Programmer",
+	"intro": "Cosmist AGI Programmer. \n\nThe book I'm working on:\nhttp://127.0.0.1:43110/178s29ameX271Vjj6f6vGXMNNtLKCmD4tj/green_buddhism/green_buddhism.html",
 	"post": [
 		{
 			"post_id": 1,
@@ -150,6 +150,30 @@
 			"body": "There are several search engines listed at zerowiki: \nhttp://127.0.0.1:43110/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP/?Page:search-engine",
 			"post_uri": "1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_1475188757",
 			"date_added": 1475207316
+		},
+		{
+			"comment_id": 17,
+			"body": "@Bingyuhuo: 我 活的 _内格_ 回鶻高昌 _time_case 回合 1200 AD, 它 佛教 过去_紧张 怎么样 您 当下_紧张 _疑问_\n ",
+			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1475207690",
+			"date_added": 1475285514
+		},
+		{
+			"comment_id": 18,
+			"body": "@Openuser:  ask talnicrom@zeroid.bit he made zeroMePlus",
+			"post_uri": "1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_1475188757",
+			"date_added": 1475286167
+		},
+		{
+			"comment_id": 19,
+			"body": "@Elspru: here is his profile address https://bit.no.com:43110/178s29ameX271Vjj6f6vGXMNNtLKCmD4tj/green_buddhism/green_buddhism.html",
+			"post_uri": "1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_1475188757",
+			"date_added": 1475286299
+		},
+		{
+			"comment_id": 20,
+			"body": "@Openuser:  *Oops* I mean here it is http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/?Profile/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/19M1DT5vruSATEcbEczYRwCk2uPuLcATBa/talnicrom@zeroid.bit",
+			"post_uri": "1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_1475188757",
+			"date_added": 1475286341
 		}
 	],
 	"follow": [
@@ -292,10 +316,17 @@
 			"auth_address": "19ayk8E29EihqeEqZCXFpanBQm9Z63USEB",
 			"user_name": "Pineapple",
 			"date_added": 1475239182
+		},
+		{
+			"follow_id": 21,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS",
+			"user_name": "Openuser",
+			"date_added": 1475285844
 		}
 	],
 	"settings": {
-		"reverse_comment_order": false,
+		"reverse_comment_order": true,
 		"mute_ugly": false,
 		"mute_spam": false,
 		"mute_blocked": false
@@ -309,6 +340,8 @@
 		"1M29UgKTUcDsSHafheTS2W8Ec9RZiNMvRk_2": 1475114228,
 		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_23": 1475207624,
 		"19ayk8E29EihqeEqZCXFpanBQm9Z63USEB_6": 1475239171,
-		"1V7usnfmabQXPSNC2zrCpF2ed2jDZaujS_24": 1475239241
+		"1V7usnfmabQXPSNC2zrCpF2ed2jDZaujS_24": 1475239241,
+		"1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_4": 1475285828,
+		"16kMkXDuQwvvsD5i7P6FS92JrksEWWgc9P_2": 1475285924
 	}
 }

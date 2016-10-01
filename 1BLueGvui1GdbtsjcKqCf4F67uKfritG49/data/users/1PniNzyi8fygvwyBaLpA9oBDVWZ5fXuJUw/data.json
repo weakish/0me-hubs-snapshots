@@ -1,0 +1,60 @@
+{
+	"next_post_id": 4,
+	"next_comment_id": 2,
+	"next_follow_id": 3,
+	"avatar": "jpg",
+	"user_name": "Balancer73",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1475284300,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1475285157,
+			"body": "Test from ZeroMe+\n\n[![Su-30SM](https://ipfs.io/ipfs/QmV4Eq8UsKxiwx1cmcC1LN1QmNreyZT9z14Vnu9KY5kG4S)](https://ipfs.io/ipfs/QmTzihEH1tsEe1L3fyjfo8pPugiGErZwAhCxseoGDPfzHb)",
+			"date_added": 1475285155
+		},
+		{
+			"post_id": 1475285864,
+			"body": "Test for direct big image. #Viburnum #Photo #Russia\n\n![](http://ipfs.pics/ipfs/QmctvtMBmPWdAPvN46UgG1YpcrsJ7c9wCwEqR6S4JPsQey)\n",
+			"date_added": 1475285861
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Oversized under right menu :-/",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475285864",
+			"date_added": 1475285917
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1475284663
+		},
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1475285755
+		}
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
+}

@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 5,
 	"avatar": "png",
 	"user_name": "Helloarch",
@@ -14,7 +14,14 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "测试，不行呀，会跳转去https://ipfs.io  ",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475285157",
+			"date_added": 1475285340
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 1,
@@ -44,5 +51,7 @@
 			"user_name": "Xyzos",
 			"date_added": 1471936655
 		}
-	]
+	],
+	"flags": {},
+	"comment_like": {}
 }
