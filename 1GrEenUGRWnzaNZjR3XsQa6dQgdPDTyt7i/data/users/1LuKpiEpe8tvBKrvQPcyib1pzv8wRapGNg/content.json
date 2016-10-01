@@ -1,0 +1,21 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "G0L2QTKrWDZ1DFOILh/GjWYsNnPeuM32RFsRzlvJTGLKYSyy/oRjB4itFHL2pkX8iq8/PhVtzFsRXM7cPDd0O0k=",
+ "cert_user_id": "pedrocordov@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "5c273bd692613c12202c59491dcdd948d3a86740db1995c7b3e651c22c39fbfa",
+   "size": 1120
+  },
+  "data.json": {
+   "sha512": "7c612817b8af8bb2a428d6528d8cf9331b0703dd65cfff7d21b682fd545605fc",
+   "size": 719
+  }
+ },
+ "inner_path": "data/users/1LuKpiEpe8tvBKrvQPcyib1pzv8wRapGNg/content.json",
+ "modified": 1475343297.571,
+ "signs": {
+  "1LuKpiEpe8tvBKrvQPcyib1pzv8wRapGNg": "G4msuLDuUOxMoaFpJDmsC1DvaLsQ6t5uQ5IiscWGNXrWAs4ctdKnzK5bfVDprgIU/I2uw5ZcvU328rZ3Exisj44="
+ }
+}

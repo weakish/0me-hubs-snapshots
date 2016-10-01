@@ -1,6 +1,6 @@
 {
-	"next_post_id": 4,
-	"next_comment_id": 4,
+	"next_post_id": 5,
+	"next_comment_id": 5,
 	"next_follow_id": 3,
 	"avatar": "jpg",
 	"user_name": "Jike",
@@ -21,6 +21,11 @@
 			"post_id": 1475295641,
 			"body": "Anyways, how do you change your avatar?",
 			"date_added": 1475295638
+		},
+		{
+			"post_id": 1475342238,
+			"body": "It'd be a good idea to implement language filters here as well.",
+			"date_added": 1475342234
 		}
 	],
 	"post_like": {},
@@ -42,6 +47,12 @@
 			"body": "@Dogs: Thanks!",
 			"post_uri": "15ANYSsjScSzTqt4L6WreCyr3SBvQ15xc4_1475295641",
 			"date_added": 1475297897
+		},
+		{
+			"comment_id": 4,
+			"body": "You probably need to use a smaller picture.",
+			"post_uri": "1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_1475338639",
+			"date_added": 1475342173
 		}
 	],
 	"follow": [
