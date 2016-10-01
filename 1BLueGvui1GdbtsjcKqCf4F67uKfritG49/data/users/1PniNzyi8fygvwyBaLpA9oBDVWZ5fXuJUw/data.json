@@ -1,7 +1,7 @@
 {
-	"next_post_id": 5,
+	"next_post_id": 6,
 	"next_comment_id": 3,
-	"next_follow_id": 4,
+	"next_follow_id": 5,
 	"avatar": "jpg",
 	"user_name": "Balancer73",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -26,6 +26,11 @@
 			"post_id": 1475344470,
 			"body": "It would be great if someone sold the pictures to add to IPFS directly from ZeroMe. But it is inconvenient to do it manually every time :)\n\n![Moscow winter](http://ipfs.pics/ipfs/QmbWCsUkgiEucxx1KnQP9Rz1SZTe1s9yEp8pLpnD36t9YU)\n\n[Big image](http://ipfs.pics/ipfs/QmV7yHJTQD47yPSvf9i55zWCcLyUsMPPfVcJmeWzxW1ozU)\n",
 			"date_added": 1475344466
+		},
+		{
+			"post_id": 1475347113,
+			"body": "Test from smartphone. Not best design, but it usable.",
+			"date_added": 1475347108
 		}
 	],
 	"post_like": {},
@@ -64,6 +69,13 @@
 			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
 			"user_name": "Balancer73",
 			"date_added": 1475291409
+		},
+		{
+			"follow_id": 4,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1475347037
 		}
 	],
 	"settings": {

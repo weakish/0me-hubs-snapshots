@@ -1,6 +1,6 @@
 {
 	"next_post_id": 10,
-	"next_comment_id": 8,
+	"next_comment_id": 10,
 	"next_follow_id": 12,
 	"avatar": "generate",
 	"user_name": "Openuser",
@@ -93,6 +93,18 @@
 			"body": "@Rapapobre: with pleasure ^^",
 			"post_uri": "1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_1475328260",
 			"date_added": 1475338582
+		},
+		{
+			"comment_id": 8,
+			"body": "@Jike: I try to send an image (.jpg) of 100x100px and 24ko, but it's not working, I can select but nothing happens when I upload! Strange..",
+			"post_uri": "1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_1475338639",
+			"date_added": 1475347963
+		},
+		{
+			"comment_id": 9,
+			"body": "@Talnicrom: you're awesome dude ^_^/ thanks",
+			"post_uri": "1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_1475188757",
+			"date_added": 1475348111
 		}
 	],
 	"follow": [
@@ -175,5 +187,7 @@
 	},
 	"blocked": [],
 	"flags": {},
-	"comment_like": {}
+	"comment_like": {
+		"1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_20": 1475348180
+	}
 }

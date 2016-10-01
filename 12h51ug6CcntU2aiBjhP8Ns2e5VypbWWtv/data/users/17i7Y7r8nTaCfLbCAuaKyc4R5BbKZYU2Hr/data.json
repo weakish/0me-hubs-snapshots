@@ -1,7 +1,7 @@
 {
-	"next_post_id": 3,
-	"next_comment_id": 1,
-	"next_follow_id": 10,
+	"next_post_id": 4,
+	"next_comment_id": 2,
+	"next_follow_id": 11,
 	"avatar": "generate",
 	"user_name": "Muja",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -13,13 +13,20 @@
 			"body": "Hello ZeroMe!"
 		},
 		{
-			"post_id": 2,
-			"body": "I can't send ZeroMail, can you? [test](http://127.0.0.1:43110/1MaiL5gfBM1cyb4a8e3iiL8L5gXmoAJu27/?to=muja)",
-			"date_added": 1471462149
+			"post_id": 1475331746,
+			"body": "Who runs [#ZeroMePlus](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6)? \n\nIt's pretty great.",
+			"date_added": 1475331743
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@talnicrom does.",
+			"post_uri": "17i7Y7r8nTaCfLbCAuaKyc4R5BbKZYU2Hr_1475331746",
+			"date_added": 1475331927
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 1,
@@ -76,6 +83,22 @@
 			"auth_address": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC",
 			"user_name": "Meidan",
 			"date_added": 1471456563
+		},
+		{
+			"follow_id": 10,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1475331877
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": true,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }
