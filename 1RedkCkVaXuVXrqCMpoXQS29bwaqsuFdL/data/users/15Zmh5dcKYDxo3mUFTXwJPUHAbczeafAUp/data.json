@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 20,
+	"next_comment_id": 24,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Helloarch",
@@ -14,7 +14,8 @@
 		}
 	],
 	"post_like": {
-		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_13": 1471856606
+		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_13": 1471856606,
+		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1473904568": 1475302804
 	},
 	"comment": [
 		{
@@ -34,6 +35,30 @@
 			"body": "good",
 			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1473465967",
 			"date_added": 1475295722
+		},
+		{
+			"comment_id": 20,
+			"body": "hello @Talnicrom: can you fix Hashtags  to show #chinese !    EX: #话题     ，thanks\n",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1475170734",
+			"date_added": 1475301829
+		},
+		{
+			"comment_id": 21,
+			"body": "确实如此，开发者 @talnicrom  真的很不错呀，  更希望zeroNET的匈牙利作者开发出不影响网速加载的zerome的图片功能，那将会极大丰富社区繁荣。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1475300442",
+			"date_added": 1475302726
+		},
+		{
+			"comment_id": 22,
+			"body": "为什么你的 @人名 会亮，我 @就不亮呢，是不是又是小技巧？？？",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1475300442",
+			"date_added": 1475302925
+		},
+		{
+			"comment_id": 23,
+			"body": "@P2P: 是的，我看了你的链接地址",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1475300442",
+			"date_added": 1475303443
 		}
 	],
 	"follow": [],

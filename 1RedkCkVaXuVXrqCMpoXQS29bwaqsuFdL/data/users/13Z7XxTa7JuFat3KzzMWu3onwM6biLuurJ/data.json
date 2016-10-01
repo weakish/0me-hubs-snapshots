@@ -1,11 +1,11 @@
 {
 	"next_post_id": 22,
-	"next_comment_id": 92,
-	"next_follow_id": 72,
+	"next_comment_id": 94,
+	"next_follow_id": 74,
 	"avatar": "jpg",
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
-	"intro": "P2P user from China. 中文用户。ZeroNet老司机：）请务必看[中文论坛](http://127.0.0.1:43110/GFWtalk.bit)频繁更新的**置顶贴**，包含最新的ZeroMe、ZeroNet使用技巧和注意事项。",
+	"intro": "P2P user from China. 中文用户。ZeroNet老司机：）请务必看[中文论坛](http://127.0.0.1:43110/GFWtalk.bit)频繁更新的**置顶贴**，包含最新的ZeroMe、ZeroNet使用技巧和注意事项。推荐一下 [@talnicrom](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/?Profile/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/19M1DT5vruSATEcbEczYRwCk2uPuLcATBa/talnicrom@zeroid.bit) 搞的 [ZeroMe \"Plus\"](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/) ，有很多增强功能，包括话题、贴图、收藏页……",
 	"post": [
 		{
 			"post_id": 1,
@@ -680,6 +680,18 @@
 			"body": "what about external img?",
 			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1475170734",
 			"date_added": 1475171910
+		},
+		{
+			"comment_id": 92,
+			"body": "Nice work! seems that hashtag does not support Chinese , e.g. #话题",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1475291038",
+			"date_added": 1475302028
+		},
+		{
+			"comment_id": 93,
+			"body": "@Helloarch: 会亮是因为我手动加链接，md格式",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1475300442",
+			"date_added": 1475303088
 		}
 	],
 	"follow": [
@@ -1151,6 +1163,20 @@
 			"auth_address": "16w7UuJAHbt8YBa8zxHS7UFk9mq8Q5DpE4",
 			"user_name": "Kopykate",
 			"date_added": 1475171312
+		},
+		{
+			"follow_id": 72,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1475301617
+		},
+		{
+			"follow_id": 73,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp",
+			"user_name": "Helloarch",
+			"date_added": 1475301786
 		}
 	],
 	"settings": {
