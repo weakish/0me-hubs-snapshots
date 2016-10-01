@@ -1,6 +1,6 @@
 {
 	"next_post_id": 17,
-	"next_comment_id": 8,
+	"next_comment_id": 9,
 	"next_follow_id": 9,
 	"avatar": "generate",
 	"user_name": "Firebox",
@@ -128,6 +128,12 @@
 			"body": "@Henur: To find someone's public key, you need to click on his or her name to see his or her profile page. For example, your profile page is http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Profile/12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv/1PbCor9kCtnKaZAPnrxENbcraKtAEq8wA1/henur@zeroid.bit\nYour hub's address is `12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv`, and your public key is `1PbCor9kCtnKaZAPnrxENbcraKtAEq8wA1`.\nNote that the public key may appear in many hub folders. If you want to block a person completely, you have to find all of his or her folders.",
 			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1474862332",
 			"date_added": 1475026800
+		},
+		{
+			"comment_id": 8,
+			"body": "Exploiting programs in 3 billion devices.",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1475342537",
+			"date_added": 1475355375
 		}
 	],
 	"follow": [

@@ -1,11 +1,11 @@
 {
 	"next_post_id": 6,
 	"next_comment_id": 3,
-	"next_follow_id": 5,
+	"next_follow_id": 6,
 	"avatar": "jpg",
 	"user_name": "Balancer73",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
-	"intro": "Random ZeroNet user",
+	"intro": "Moscow, Russia, Earth",
 	"post": [
 		{
 			"post_id": 1,
@@ -28,9 +28,9 @@
 			"date_added": 1475344466
 		},
 		{
-			"post_id": 1475347113,
-			"body": "Test from smartphone. Not best design, but it usable.",
-			"date_added": 1475347108
+			"post_id": 1475354573,
+			"body": "20 new users in ZeroNet for last 24h. Not so many...",
+			"date_added": 1475354568
 		}
 	],
 	"post_like": {},
@@ -76,10 +76,17 @@
 			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
 			"user_name": "Balancer73",
 			"date_added": 1475347037
+		},
+		{
+			"follow_id": 5,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1475354579
 		}
 	],
 	"settings": {
-		"reverse_comment_order": false,
+		"reverse_comment_order": true,
 		"mute_ugly": false,
 		"mute_spam": false,
 		"mute_blocked": false
