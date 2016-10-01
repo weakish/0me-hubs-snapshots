@@ -1,7 +1,7 @@
 {
-	"next_post_id": 7,
+	"next_post_id": 8,
 	"next_comment_id": 4,
-	"next_follow_id": 6,
+	"next_follow_id": 7,
 	"avatar": "jpg",
 	"user_name": "Brom",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -36,6 +36,11 @@
 			"post_id": 1475236138,
 			"body": "О книге 1996-го года и чем-то похожей на ZeroNet виртуальной \"крепости\"\nhttp://127.0.0.1:43110/19bhDQnHTh9Qww3XePT9EHn2AujGB6boFg/?Post:10:ZeroNet+%D0%B8+%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0",
 			"date_added": 1475236132
+		},
+		{
+			"post_id": 1475317549,
+			"body": "Что если переверстать стандартный блог на бутстрап? не слишком ли тяжеловесно выйдет?",
+			"date_added": 1475317542
 		}
 	],
 	"post_like": {
@@ -83,6 +88,13 @@
 			"auth_address": "17eKk6mdR7bth2Fi8f74P5JV8AfHsERT4F",
 			"user_name": "Zerro",
 			"date_added": 1475144265
+		},
+		{
+			"follow_id": 6,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1NHR4Gdv1dVLZS5HRwY6aJWfngk9jCLF87",
+			"user_name": "Brom",
+			"date_added": 1475318410
 		}
 	]
 }

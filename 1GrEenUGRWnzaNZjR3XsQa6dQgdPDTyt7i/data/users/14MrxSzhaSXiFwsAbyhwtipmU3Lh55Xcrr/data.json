@@ -1,6 +1,6 @@
 {
-	"next_post_id": 10,
-	"next_comment_id": 16,
+	"next_post_id": 12,
+	"next_comment_id": 17,
 	"next_follow_id": 39,
 	"avatar": "jpg",
 	"user_name": "Mylifewaiting",
@@ -51,11 +51,22 @@
 			"post_id": 1474806191,
 			"body": "zerome在页面按键处理的脚本上有bug，按shift会在输入框不停复制粘帖板里的数据",
 			"date_added": 1474806182
+		},
+		{
+			"post_id": 1475316355,
+			"body": "怎么发图片的",
+			"date_added": 1475316345
+		},
+		{
+			"post_id": 1475316650,
+			"body": "[ZeroMe logo][http://127.0.0.1:43110/Me.ZeroNetwork.bit/img/logo.png]",
+			"date_added": 1475316639
 		}
 	],
 	"post_like": {
 		"1V7usnfmabQXPSNC2zrCpF2ed2jDZaujS_1474239000": 1474244463,
-		"156HySyXH37jFXXqKCwVq8HqsrZLZzy8Qx_1474817917": 1474820821
+		"156HySyXH37jFXXqKCwVq8HqsrZLZzy8Qx_1474817917": 1474820821,
+		"15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1475311899": 1475316356
 	},
 	"comment": [
 		{
@@ -147,6 +158,12 @@
 			"body": "@Wahaha2003: 似乎是我chrome出问题了",
 			"post_uri": "14MrxSzhaSXiFwsAbyhwtipmU3Lh55Xcrr_1474806191",
 			"date_added": 1474822643
+		},
+		{
+			"comment_id": 16,
+			"body": "怎么发的？",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1475311899",
+			"date_added": 1475316365
 		}
 	],
 	"follow": [
