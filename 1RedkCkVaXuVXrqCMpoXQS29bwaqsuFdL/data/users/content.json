@@ -3,36 +3,39 @@
  "files": {},
  "ignore": ".*",
  "inner_path": "data/users/content.json",
- "modified": 1475000508.391,
+ "modified": 1475319863.682,
  "signs": {
-  "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL": "HG+hKtFDqZs2TpOiAIImlgX+wYPLbvW9WorxRta6UwAeyerS3mjl6+4MlNjjdR+D/aXI/w/bmHl6T+IM9MB9fFM="
+  "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL": "GyClOMXd1uyIEcrh1/D3s6P833hr4Zg/3SU0/FEF0W95r7vuNkJuGSp8tDnHKCjzj5Cfg0hlq4UHeZ1vpIpyBRE="
  },
  "user_contents": {
-  "archived": { "1MRSDFESsBXDGvNoZ5ifztA89XfEahA5ka": 1475024550 },
+  "archived": {"1MRSDFESsBXDGvNoZ5ifztA89XfEahA5ka": 1475024550},
   "cert_signers": {
-   "zeroid.bit": [ "1iD5ZQJMNXu43w1qLB8sfdHVKppVMduGz" ]
+   "zeroid.bit": [
+    "1iD5ZQJMNXu43w1qLB8sfdHVKppVMduGz"
+   ]
   },
   "permission_rules": {
    ".*": {
     "files_allowed": "(data.json|avatar.jpg|avatar.png)",
     "max_size": 50000
    },
-   "bitid/.*@zeroid.bit": { "max_size": 60000 },
-   "bitmsg/.*@zeroid.bit": { "max_size": 60000 }
+   "bitid/.*@zeroid.bit": {"max_size": 60000},
+   "bitmsg/.*@zeroid.bit": {"max_size": 60000}
   },
   "permissions": {
    "banexample@zeroid.bit": false,
    "doom1@zeroid.bit": false,
-   "freekazoid@zeroid.bit": { "max_size": 100000 },
-   "kaffie@zeroid.bit": { "max_size": 100000 },
-   "musickiller@zeroid.bit": { "max_size": 225000 },
-   "newuser123@zeroid.bit": { "max_size": 100000 },
-   "p2p@zeroid.bit": { "max_size": 75000 },
-   "scrub@zeroid.bit": { "max_size": 100000 },
-   "shellbound@zeroid.bit": { "max_size": 75000 },
-   "sirenyc@zeroid.bit": { "max_size": 112500 },
-   "spacewarrior02@zeroid.bit": { "max_size": 75000 },
-   "talnicrom@zeroid.bit": { "max_size": 112500 }
+   "doom1b@zeroid.bit": false,
+   "freekazoid@zeroid.bit": {"max_size": 100000},
+   "kaffie@zeroid.bit": {"max_size": 100000},
+   "musickiller@zeroid.bit": {"max_size": 225000},
+   "newuser123@zeroid.bit": {"max_size": 100000},
+   "p2p@zeroid.bit": {"max_size": 75000},
+   "scrub@zeroid.bit": {"max_size": 100000},
+   "shellbound@zeroid.bit": {"max_size": 112500},
+   "sirenyc@zeroid.bit": {"max_size": 112500},
+   "spacewarrior02@zeroid.bit": {"max_size": 75000},
+   "talnicrom@zeroid.bit": {"max_size": 112500}
   }
  }
 }
