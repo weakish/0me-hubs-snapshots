@@ -1,13 +1,20 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 2,
 	"avatar": "png",
 	"user_name": "Dogs",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"intro": "狗很好，太帅，太漂亮",
+	"intro": "狗非常好",
 	"post": [],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Go to your profile, then click the center of your avatar on the left side of the page, and choose your picture",
+			"post_uri": "15ANYSsjScSzTqt4L6WreCyr3SBvQ15xc4_1475295641",
+			"date_added": 1475296879
+		}
+	],
 	"follow": []
 }
