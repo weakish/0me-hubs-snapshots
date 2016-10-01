@@ -1,7 +1,7 @@
 {
-	"next_post_id": 41,
+	"next_post_id": 42,
 	"next_comment_id": 58,
-	"next_follow_id": 38,
+	"next_follow_id": 39,
 	"avatar": "png",
 	"user_name": "Userzero",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -186,6 +186,11 @@
 			"post_id": 1475169269,
 			"body": "Zeronet 0.4.1 Rev1529, Fix json write bug with [] characters in value",
 			"date_added": 1475169229
+		},
+		{
+			"post_id": 1475338084,
+			"body": " HelloZeroNet committed on GitHub - Merge pull request #577 from sirMackk/upnp_update ",
+			"date_added": 1475338043
 		}
 	],
 	"post_like": {
@@ -746,6 +751,13 @@
 			"auth_address": "18FZVA1o8FjjxaxQTu3LBArraePzPdwZtC",
 			"user_name": "Userzero",
 			"date_added": 1475110693
+		},
+		{
+			"follow_id": 38,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS",
+			"user_name": "Openuser",
+			"date_added": 1475338360
 		}
 	],
 	"settings": {
