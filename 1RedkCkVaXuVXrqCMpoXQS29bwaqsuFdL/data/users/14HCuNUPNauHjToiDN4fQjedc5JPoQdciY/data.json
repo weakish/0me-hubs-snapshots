@@ -401,7 +401,7 @@
 	"settings": {
 		"reverse_comment_order": false,
 		"mute_ugly": false,
-		"mute_spam": false,
+		"mute_spam": true,
 		"mute_blocked": false
 	},
 	"blocked": [],
