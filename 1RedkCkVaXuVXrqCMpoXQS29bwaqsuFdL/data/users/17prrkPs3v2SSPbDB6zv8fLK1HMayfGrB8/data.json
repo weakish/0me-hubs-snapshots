@@ -1,7 +1,7 @@
 {
-	"next_post_id": 3,
+	"next_post_id": 4,
 	"next_comment_id": 4,
-	"next_follow_id": 3,
+	"next_follow_id": 4,
 	"avatar": "jpg",
 	"user_name": "Dcapelett",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -16,6 +16,11 @@
 			"post_id": 2,
 			"body": "Probando ZeroMe",
 			"date_added": 1471903929
+		},
+		{
+			"post_id": 1475331083,
+			"body": "<IMG SRC=\"https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/robot/images/resistors_icon.JPG\">",
+			"date_added": 1475331080
 		}
 	],
 	"post_like": {
@@ -55,6 +60,13 @@
 			"auth_address": "1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi",
 			"user_name": "Eibriel",
 			"date_added": 1474590560
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "163sF1Kdsd5LdpjAXDKBshdEBNJH6PUqvg",
+			"user_name": "Zeronauta",
+			"date_added": 1475331117
 		}
 	]
 }
