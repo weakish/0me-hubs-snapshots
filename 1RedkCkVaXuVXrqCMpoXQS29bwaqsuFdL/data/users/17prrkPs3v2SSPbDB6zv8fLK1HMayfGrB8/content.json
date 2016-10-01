@@ -4,14 +4,18 @@
  "cert_sign": "HELTvLH7zWdfm7AyKnnoiX0N00A3gmROlc4JqsZQgvk8p9JJLnPRK5r1y3Lvr9pIBr3qt6EOWuq8Mv3LQpc7ZgM=",
  "cert_user_id": "dcapelett@zeroid.bit",
  "files": {
+  "avatar.jpg": {
+   "sha512": "fa1ecc59e847c403dedcf74f0c3beea71b017dc825376638093ed2d18e7a8b52",
+   "size": 1428
+  },
   "data.json": {
-   "sha512": "9f88ea71ed916457b857de93224da2bd561dda34fc9fe813e3e57c5f72749e00",
-   "size": 1131
+   "sha512": "7f0843b87f8701afe642fe5256252b083d468949eb23b618896db2eddd147b9a",
+   "size": 1272
   }
  },
  "inner_path": "data/users/17prrkPs3v2SSPbDB6zv8fLK1HMayfGrB8/content.json",
- "modified": 1474590729.497935,
+ "modified": 1475329553.274321,
  "signs": {
-  "17prrkPs3v2SSPbDB6zv8fLK1HMayfGrB8": "HEyYQZTC63HC5aMre9DjWZeGDnlliDZpFowCzLr+VCDSSddFk/IgWpgUeyxpYJxD1VX6s46V5xP6LDP8wGnBKY8="
+  "17prrkPs3v2SSPbDB6zv8fLK1HMayfGrB8": "HLIVxdHw9p+GIgzVNYgufgaRAbibyGPTScQUqU+v4+X9a0TmAlHP7jS7wm3vnkgIDWw3MN7MyoitUMzQo7UHHZg="
  }
 }
