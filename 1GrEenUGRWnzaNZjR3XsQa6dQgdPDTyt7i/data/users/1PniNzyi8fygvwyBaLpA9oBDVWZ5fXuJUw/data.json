@@ -1,0 +1,50 @@
+{
+	"next_post_id": 4,
+	"next_comment_id": 3,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Balancer73",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1475280797,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1475280916,
+			"body": "Su-30SM for naval aviation:\nhttps://ipfs.io/ipfs/QmTzihEH1tsEe1L3fyjfo8pPugiGErZwAhCxseoGDPfzHb",
+			"date_added": 1475280914
+		},
+		{
+			"post_id": 1475281007,
+			"body": "![Su-30SM](https://ipfs.io/ipfs/QmV4Eq8UsKxiwx1cmcC1LN1QmNreyZT9z14Vnu9KY5kG4S)",
+			"date_added": 1475281004
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "#RuAF",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475280916",
+			"date_added": 1475280970
+		},
+		{
+			"comment_id": 2,
+			"body": "No images in markdown?",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475281007",
+			"date_added": 1475281156
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1475281229
+		}
+	]
+}
