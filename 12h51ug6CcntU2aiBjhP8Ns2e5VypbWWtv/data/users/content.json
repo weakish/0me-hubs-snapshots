@@ -3,9 +3,9 @@
  "files": {},
  "ignore": ".*",
  "inner_path": "data/users/content.json",
- "modified": 1472084132.714989,
+ "modified": 1475300884.92596,
  "signs": {
-  "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv": "HEW1ONMuhIhGg/ki468SqKWduPctWGge+TLP4LEYA9VGqxa9ao2RcHbrrkSaVEoal1UyhJUpxlftRE4QlVZ2RNM="
+  "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv": "HPFp2tGSKZm0Httryjdtl1dlF4D7NsoggyXp0GEDCSbJ5otynMh4gmIJRqE3uS9OcliWXZIUNuUfUPM9NlZHD4c="
  },
  "user_contents": {
   "cert_signers": {
@@ -25,6 +25,8 @@
   },
   "permissions": {
    "banexample@zeroid.bit": false,
+   "bbxxx@zeroid.bit": false,
+   "doom1@kaffie.bit": false,
    "nofish@zeroid.bit": { "max_size": 10000000 }
   }
  }
