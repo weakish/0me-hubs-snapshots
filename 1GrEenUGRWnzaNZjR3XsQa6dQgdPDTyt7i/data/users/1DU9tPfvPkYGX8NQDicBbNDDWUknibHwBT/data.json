@@ -1,5 +1,5 @@
 {
-	"next_post_id": 3,
+	"next_post_id": 4,
 	"next_comment_id": 1,
 	"next_follow_id": 1,
 	"avatar": "generate",
@@ -11,9 +11,16 @@
 			"post_id": 1,
 			"date_added": 1475200384,
 			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1475373173,
+			"body": "![Test Zerome plus new feature](http://127.0.0.1:43110/0chan.bit/data/users/1BNmjz9tBLY3M1tq2z7DKvA1LjFXYsmLd9/1dde0151e65601242d913dcc956dec0d.jpg)",
+			"date_added": 1475373170
 		}
 	],
-	"post_like": {},
+	"post_like": {
+		"1V7usnfmabQXPSNC2zrCpF2ed2jDZaujS_1475364160": 1475373202
+	},
 	"comment": [],
 	"follow": [],
 	"settings": {
