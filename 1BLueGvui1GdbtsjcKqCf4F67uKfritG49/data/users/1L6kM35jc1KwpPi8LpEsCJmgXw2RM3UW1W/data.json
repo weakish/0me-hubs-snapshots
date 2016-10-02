@@ -1,0 +1,53 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 2,
+	"next_follow_id": 4,
+	"avatar": "generate",
+	"user_name": "Beard",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "yo mama",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1475433811,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1475434436,
+			"body": "yo!",
+			"date_added": 1475434434
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "wth!",
+			"post_uri": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1475434711",
+			"date_added": 1475434721
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1Jz1tN4iuq232QAktQTFoz1MoxDgmSSdTd",
+			"user_name": "Goodknight",
+			"date_added": 1475434511
+		},
+		{
+			"follow_id": 2,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1CYKw7cZ34vXBg2VNCpgvV4AmC55Gib3hS",
+			"user_name": "Cryptowest",
+			"date_added": 1475434520
+		},
+		{
+			"follow_id": 3,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1DSVWXJjaSa3wDMjDLhsAP8W3a9ZMV49Mj",
+			"user_name": "Troll",
+			"date_added": 1475434537
+		}
+	]
+}
