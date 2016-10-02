@@ -1,5 +1,5 @@
 {
-	"next_post_id": 6,
+	"next_post_id": 7,
 	"next_comment_id": 1,
 	"next_follow_id": 12,
 	"avatar": "jpg",
@@ -31,6 +31,11 @@
 			"post_id": 1475410836,
 			"body": "For the last couple of weeks I've been running desktop systems on Parabola. So far I like it.",
 			"date_added": 1475410831
+		},
+		{
+			"post_id": 1475420336,
+			"body": "Improved the wifi adapter detection for mesh networking such that it prefers higher wlan numbers. This assumes that there may be a default proprietary adaptor on wlan0 and an Atheros dongle on a higher number.",
+			"date_added": 1475420330
 		}
 	],
 	"post_like": {},
