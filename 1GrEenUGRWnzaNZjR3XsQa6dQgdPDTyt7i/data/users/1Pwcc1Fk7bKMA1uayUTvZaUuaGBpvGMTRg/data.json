@@ -2,14 +2,30 @@
 	"next_post_id": 2,
 	"next_comment_id": 1,
 	"next_follow_id": 1,
-	"avatar": "generate",
+	"avatar": "png",
 	"user_name": "Spoimac",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"intro": "Random ZeroNet user",
 	"post": [],
 	"post_like": {
-		"1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_1475188757": 1475203657
+		"1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_1475188757": 1475203657,
+		"1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_1475328260": 1475384951,
+		"14MrxSzhaSXiFwsAbyhwtipmU3Lh55Xcrr_1475316650": 1475385087,
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1475260065": 1475385602,
+		"1V7usnfmabQXPSNC2zrCpF2ed2jDZaujS_1475364160": 1475387856,
+		"15ANYSsjScSzTqt4L6WreCyr3SBvQ15xc4_1475342238": 1475387894
 	},
 	"comment": [],
-	"follow": []
+	"follow": [],
+	"settings": {
+		"reverse_comment_order": true,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_26": 1475387903
+	}
 }

@@ -1,12 +1,18 @@
 {
-	"next_post_id": 2,
+	"next_post_id": 3,
 	"next_comment_id": 2,
 	"next_follow_id": 2,
 	"avatar": "png",
 	"user_name": "Dogs",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"intro": "狗非常好",
-	"post": [],
+	"post": [
+		{
+			"post_id": 1475386016,
+			"body": "那不够狗，但电脑有太多狗",
+			"date_added": 1475386014
+		}
+	],
 	"post_like": {
 		"15ANYSsjScSzTqt4L6WreCyr3SBvQ15xc4_1475295641": 1475345996
 	},
