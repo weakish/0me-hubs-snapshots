@@ -1,11 +1,11 @@
 {
 	"next_post_id": 3,
 	"next_comment_id": 1,
-	"next_follow_id": 1,
+	"next_follow_id": 2,
 	"avatar": "generate",
 	"user_name": "36",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
-	"intro": "Random ZeroNet user",
+	"intro": "Just do it  by following your heart.",
 	"post": [
 		{
 			"post_id": 1,
@@ -20,5 +20,13 @@
 	],
 	"post_like": {},
 	"comment": [],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "17UbmvpS9j5p4YUVTERiXWJ5fwwEBAGbhR",
+			"user_name": "36",
+			"date_added": 1475402981
+		}
+	]
 }
