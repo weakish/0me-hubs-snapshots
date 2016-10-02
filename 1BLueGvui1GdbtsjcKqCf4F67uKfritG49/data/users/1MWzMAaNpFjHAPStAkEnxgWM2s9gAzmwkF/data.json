@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
 	"next_comment_id": 1,
-	"next_follow_id": 9,
+	"next_follow_id": 10,
 	"avatar": "generate",
 	"user_name": "Cleber Matheus",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -16,7 +16,8 @@
 	"post_like": {
 		"17TWsvaDCv1sco5wwuCngXfRu618AcLwLr_1": 1474839775,
 		"1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1475340264": 1475349644,
-		"1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1475350270": 1475350826
+		"1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1475350270": 1475350826,
+		"1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1475368297": 1475376092
 	},
 	"comment": [],
 	"follow": [
@@ -61,6 +62,13 @@
 			"auth_address": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY",
 			"user_name": "KosherX - PT-🇧🇷, EN-🇺🇸 and very little of JP-🇯🇵.",
 			"date_added": 1475350824
+		},
+		{
+			"follow_id": 9,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1475375581
 		}
 	],
 	"settings": {
@@ -71,5 +79,7 @@
 	},
 	"blocked": [],
 	"flags": {},
-	"comment_like": {}
+	"comment_like": {
+		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_44": 1475376829
+	}
 }
