@@ -1,6 +1,6 @@
 {
-	"next_post_id": 3,
-	"next_comment_id": 6,
+	"next_post_id": 5,
+	"next_comment_id": 7,
 	"next_follow_id": 3,
 	"avatar": "jpg",
 	"user_name": "Technoshaman777",
@@ -16,10 +16,21 @@
 			"post_id": 1473722088,
 			"body": "Welcome to my new page!",
 			"date_added": 1473722086
+		},
+		{
+			"post_id": 3,
+			"body": "http://127.0.0.1:43110/1FUQPLXHimgCvYHH7v3bJXspJ7bMBUXcEb/?/watch/163/2fe737e407eada0e1ae8c1fe4c28cfd5c2fdaf02",
+			"date_added": 1475378014
+		},
+		{
+			"post_id": 4,
+			"body": "new test:\n\nmagnet:?xt=urn:btih:2fe737e407eada0e1ae8c1fe4c28cfd5c2fdaf02&dn=VID_20160724_184129.mp4&tr=ws%3A%2F%2F198.211.121.40%3A8100%2F&tr=wss%3A%2F%2Ftracker.openwebtorrent.com&tr=wss%3A%2F%2Ftracker.webtorrent.io",
+			"date_added": 1475378153
 		}
 	],
 	"post_like": {
-		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1473692195": 1473722483
+		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1473692195": 1473722483,
+		"1DTUNWykvXLbxZud5a8gJsq7DxmxcGk52E_3": 1475378064
 	},
 	"comment": [
 		{
@@ -51,6 +62,12 @@
 			"body": "@Icf20: Yeah, I know. I need content!",
 			"post_uri": "1DTUNWykvXLbxZud5a8gJsq7DxmxcGk52E_1473722088",
 			"date_added": 1473823064
+		},
+		{
+			"comment_id": 6,
+			"body": "I'm postig this just to test the ZeroTube site. I'm wondering if it's possible to post webtorrent videos to this link.",
+			"post_uri": "1DTUNWykvXLbxZud5a8gJsq7DxmxcGk52E_3",
+			"date_added": 1475378056
 		}
 	],
 	"follow": [
