@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 1,
-	"next_follow_id": 3,
+	"next_comment_id": 2,
+	"next_follow_id": 4,
 	"avatar": "generate",
 	"user_name": "Becoming",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -13,8 +13,18 @@
 			"body": "Hello ZeroMe!"
 		}
 	],
-	"post_like": {},
-	"comment": [],
+	"post_like": {
+		"1V7usnfmabQXPSNC2zrCpF2ed2jDZaujS_1475364160": 1475389154,
+		"15ANYSsjScSzTqt4L6WreCyr3SBvQ15xc4_1475342238": 1475389232
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "It will get popular when it's good and there's an easy 'starter package'",
+			"post_uri": "1JEFLay3C144NwZmrYaQer7f1vF3yo3qHB_1475291422",
+			"date_added": 1475389440
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 1,
@@ -29,6 +39,13 @@
 			"auth_address": "16w7UuJAHbt8YBa8zxHS7UFk9mq8Q5DpE4",
 			"user_name": "Kopykate",
 			"date_added": 1475129821
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1475389631
 		}
 	]
 }
