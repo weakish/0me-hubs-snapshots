@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 7,
-	"next_follow_id": 1,
+	"next_comment_id": 8,
+	"next_follow_id": 2,
 	"avatar": "generate",
 	"user_name": "W1n5t0n",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -50,7 +50,21 @@
 			"body": "@Fuckingfaggot: Shut up!",
 			"post_uri": "18J5Ti7E4wLkA2Q5K8NTczCZoLY1vXSAvL_1",
 			"date_added": 1475258045
+		},
+		{
+			"comment_id": 7,
+			"body": "how do you add images",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475344470",
+			"date_added": 1475367439
 		}
 	],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN",
+			"user_name": "Flyman",
+			"date_added": 1475367531
+		}
+	]
 }
