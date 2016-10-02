@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
 	"next_comment_id": 1,
-	"next_follow_id": 1,
+	"next_follow_id": 2,
 	"avatar": "png",
 	"user_name": "Spoimac",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -16,7 +16,15 @@
 		"15ANYSsjScSzTqt4L6WreCyr3SBvQ15xc4_1475342238": 1475387894
 	},
 	"comment": [],
-	"follow": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1475429741
+		}
+	],
 	"settings": {
 		"reverse_comment_order": true,
 		"mute_ugly": false,
