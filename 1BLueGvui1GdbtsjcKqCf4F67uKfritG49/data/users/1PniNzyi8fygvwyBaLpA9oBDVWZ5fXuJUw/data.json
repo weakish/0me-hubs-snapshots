@@ -1,6 +1,6 @@
 {
-	"next_post_id": 6,
-	"next_comment_id": 3,
+	"next_post_id": 8,
+	"next_comment_id": 5,
 	"next_follow_id": 6,
 	"avatar": "jpg",
 	"user_name": "Balancer73",
@@ -31,9 +31,21 @@
 			"post_id": 1475354573,
 			"body": "20 new users in ZeroNet for last 24h. Not so many...",
 			"date_added": 1475354568
+		},
+		{
+			"post_id": 1475392990,
+			"body": "How to rename own ZeroWiki and ZeroTalks?\n\nI renamed Wiki manually in data/id/content.json and my Wiki has stop ditribute with error \"Content publish failed\". Log:\n```\n[10:20:52] Site:1NbzP9..enzR Opening site data directory: data/1NbzP9dgYhuY71bde9G1LuVGaCE69venzR/data/users/1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw/...\n[10:20:52] Site:1NbzP9..enzR - data.json (SHA512: dc944f481b342d95fc3266ca45f8cad8eacb36254bc67024422a74ea1d2441ea)\n[10:20:52] Site:1NbzP9..enzR - [SKIPPED] data.json-old\n[10:20:52] Site:1NbzP9..enzR - [SKIPPED] content.json\n[10:20:52] Site:1NbzP9..enzR Adding timestamp and sha512sums to new content.json...\n[10:20:52] Site:1NbzP9..enzR Verifying private key...\n[10:20:52] Site:1NbzP9..enzR Correct 1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw in valid signers: [u'1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw', u'1NbzP9dgYhuY71bde9G1LuVGaCE69venzR']\n[10:20:52] Site:1NbzP9..enzR Signing data/users/1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw/content.json...\n[10:20:52] Site:1NbzP9..enzR Saving to data/users/1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw/content.json...\n[10:20:52] Site:1NbzP9..enzR File data/users/1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw/content.json signed!\n[10:20:52] Site:1NbzP9..enzR Publishing data/users/1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw/content.json to 5/1 peers (connected: 1) diffs: [u'data.json'] (0.48k)...\n[10:20:53] Site:1NbzP9..enzR [FAILED] 148.251.51.134:15441: {'to': 166, 'cmd': 'response', 'error': 'File invalid'}\n[10:20:53] Site:1NbzP9..enzR Successfuly data/users/1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw/content.json published to 0 peers, publishing to 5 more peers in the background\n```",
+			"date_added": 1475392984
+		},
+		{
+			"post_id": 1475393382,
+			"body": "Hi foa! Don't use `127.0.0.1:43110` in addresses! Someone (like me :) ) use external gates with other addresses. Use only relative path in url.",
+			"date_added": 1475393375
 		}
 	],
-	"post_like": {},
+	"post_like": {
+		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475354573": 1475393466
+	},
 	"comment": [
 		{
 			"comment_id": 1,
@@ -46,6 +58,18 @@
 			"body": "@Talnicrom: Still the picture is located under the right menu. It is necessary to add to CSS:\n```CSS\nimg { max-width: 100%; }\n```\n",
 			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475285864",
 			"date_added": 1475290898
+		},
+		{
+			"comment_id": 3,
+			"body": "@W1n5t0n: ZeroMe supported [Markdown](https://en.wikipedia.org/wiki/Markdown).\n\nTo add image you need add them to another storage. And use this code:\n```markdown\n![Image title](http://image.url)\n```",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475344470",
+			"date_added": 1475392078
+		},
+		{
+			"comment_id": 4,
+			"body": "I got it.After any changes in `data/<id>` it need to command line `siteSign` and `sitePublish` action.",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475392990",
+			"date_added": 1475394436
 		}
 	],
 	"follow": [
