@@ -1,6 +1,6 @@
 {
 	"next_post_id": 32,
-	"next_comment_id": 21,
+	"next_comment_id": 22,
 	"next_follow_id": 97,
 	"avatar": "png",
 	"user_name": "weakish",
@@ -301,6 +301,12 @@
 			"body": "Not a surprise. After all they are providing SSL certs, which are by no means distributed. Blockchain could deprecate centred SSL certs.",
 			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1474453770",
 			"date_added": 1474455481
+		},
+		{
+			"comment_id": 21,
+			"body": "@ExeciN: FYI [gogs](https://gogs.io/) requires much less resource (good for low end servers) than Gitlab. (Gitlab has more features though.)",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1475238433",
+			"date_added": 1475402019
 		}
 	],
 	"follow": [
