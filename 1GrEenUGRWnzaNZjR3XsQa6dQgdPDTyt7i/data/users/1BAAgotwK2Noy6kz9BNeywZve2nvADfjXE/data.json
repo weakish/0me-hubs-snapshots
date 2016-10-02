@@ -1,5 +1,5 @@
 {
-	"next_post_id": 7,
+	"next_post_id": 8,
 	"next_comment_id": 1,
 	"next_follow_id": 12,
 	"avatar": "jpg",
@@ -36,6 +36,11 @@
 			"post_id": 1475420336,
 			"body": "Improved the wifi adapter detection for mesh networking such that it prefers higher wlan numbers. This assumes that there may be a default proprietary adaptor on wlan0 and an Atheros dongle on a higher number.",
 			"date_added": 1475420330
+		},
+		{
+			"post_id": 1475420439,
+			"body": "On more modern hardware, video over mesh works pretty well with a decent frame rate.",
+			"date_added": 1475420432
 		}
 	],
 	"post_like": {},
