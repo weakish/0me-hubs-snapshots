@@ -4,14 +4,18 @@
  "cert_sign": "Gws6ewCkEFqA6PaQ3jFShThlpUpp5Qzh7IL9W0/wLrhqj942QJs64MaHmk/gt8fKldt/qyQ3kpZdRxnRQjOWxfs=",
  "cert_user_id": "akornbabomb@zeroid.bit",
  "files": {
+  "avatar.jpg": {
+   "sha512": "2181f1e041bad0f00a4aa71d4911645cfc235c9836f268d7a3d3acddbc5c7e23",
+   "size": 1310
+  },
   "data.json": {
-   "sha512": "d852e1f5b3469dfff4aa3de4a317dd2bf288fca5d7efff33adc8494f6cb7ede1",
-   "size": 4817
+   "sha512": "27509a18f672422c57a19c142c79e86ee839be520f05dd5997d1f0eaefa8123b",
+   "size": 5454
   }
  },
  "inner_path": "data/users/19WLkHBFudHeHikvCvdBSKxTER69n463v3/content.json",
- "modified": 1475423929.226,
+ "modified": 1475426242.38,
  "signs": {
-  "19WLkHBFudHeHikvCvdBSKxTER69n463v3": "HDvXP1Sn2FkgnhjbGi0t25KiByvcvYlpvl4Sm2uNVKFu95G/h2ljlMQHrenjUEGMRGd9wqSSXvk1G7mV/3n0U5g="
+  "19WLkHBFudHeHikvCvdBSKxTER69n463v3": "HEzHTLsLUi+wxZlxyEAQY11Bp/eStfWsquInEkqLZu1ldRFfOs00a1dJtbOjPcXOtmnRZH3QcAFFdtsjjuS4ark="
  }
 }

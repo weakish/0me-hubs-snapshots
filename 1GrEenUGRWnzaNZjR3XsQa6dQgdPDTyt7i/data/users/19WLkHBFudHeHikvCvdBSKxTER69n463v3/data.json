@@ -1,11 +1,11 @@
 {
-	"next_post_id": 3,
-	"next_comment_id": 1,
-	"next_follow_id": 24,
-	"avatar": "generate",
+	"next_post_id": 4,
+	"next_comment_id": 2,
+	"next_follow_id": 25,
+	"avatar": "jpg",
 	"user_name": "Akornbabomb",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"intro": "Random ZeroNet user",
+	"intro": "I'm Me.",
 	"post": [
 		{
 			"post_id": 1,
@@ -16,10 +16,22 @@
 			"post_id": 1475422571,
 			"body": "ok so that's simple... unlike Sone in freenet",
 			"date_added": 1475422569
+		},
+		{
+			"post_id": 1475424104,
+			"body": "What kind of dark nets does everyone use? I use Freenet, Tor,  and ZeroNet",
+			"date_added": 1475424101
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Hello Rino!",
+			"post_uri": "17rxDp8LuLJo3TrKqC19FE41D98sDriyMQ_1",
+			"date_added": 1475425290
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 1,
@@ -181,6 +193,22 @@
 			"auth_address": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib",
 			"user_name": "megfault",
 			"date_added": 1475423929
+		},
+		{
+			"follow_id": 24,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "17rxDp8LuLJo3TrKqC19FE41D98sDriyMQ",
+			"user_name": "RinoDrummer",
+			"date_added": 1475425272
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": true,
+		"mute_ugly": false,
+		"mute_spam": true,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }
