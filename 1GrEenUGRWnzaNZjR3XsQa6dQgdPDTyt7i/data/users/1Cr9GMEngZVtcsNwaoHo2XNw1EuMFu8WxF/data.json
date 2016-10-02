@@ -1,6 +1,6 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 1,
 	"avatar": "png",
 	"user_name": "N3z",
@@ -19,6 +19,13 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "I would like to create a group of linux in general with emphasis on safety and PenTest      http://showterm.io/846d9f831e449e47d62aa#fast",
+			"post_uri": "1Cr9GMEngZVtcsNwaoHo2XNw1EuMFu8WxF_1475400134",
+			"date_added": 1475435784
+		}
+	],
 	"follow": []
 }
