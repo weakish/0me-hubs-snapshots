@@ -1,6 +1,6 @@
 {
-	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_post_id": 3,
+	"next_comment_id": 2,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "0ivy",
@@ -11,9 +11,21 @@
 			"post_id": 1,
 			"date_added": 1475438389,
 			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1475443656,
+			"body": "what's the character limit on zerome if any?\nFrom what I've read there should be one but I can't find the number",
+			"date_added": 1475443654
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "literally just broadcasting this to all my 0 followers in hope that anyone has the Everyone tab open...",
+			"post_uri": "1Q3wv52h6RSubdYu5aoxZzfkFHmEx9wtfM_1475443656",
+			"date_added": 1475443686
+		}
+	],
 	"follow": []
 }
