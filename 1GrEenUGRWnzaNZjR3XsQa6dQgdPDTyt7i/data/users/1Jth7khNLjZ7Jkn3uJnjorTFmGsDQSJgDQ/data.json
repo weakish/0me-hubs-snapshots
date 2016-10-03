@@ -1,8 +1,8 @@
 {
 	"next_post_id": 2,
 	"next_comment_id": 1,
-	"next_follow_id": 3,
-	"avatar": "generate",
+	"next_follow_id": 14,
+	"avatar": "jpg",
 	"user_name": "Vorkxaer",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"intro": "A little Vorker",
@@ -17,18 +17,97 @@
 	"comment": [],
 	"follow": [
 		{
-			"follow_id": 1,
-			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-			"auth_address": "1Jth7khNLjZ7Jkn3uJnjorTFmGsDQSJgDQ",
-			"user_name": "Vorkxaer",
-			"date_added": 1475466004
-		},
-		{
 			"follow_id": 2,
 			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 			"auth_address": "1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp",
 			"user_name": "FraYoshi",
 			"date_added": 1475466063
+		},
+		{
+			"follow_id": 3,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1Jth7khNLjZ7Jkn3uJnjorTFmGsDQSJgDQ",
+			"user_name": "Vorkxaer",
+			"date_added": 1475474919
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1475475003
+		},
+		{
+			"follow_id": 5,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t",
+			"user_name": "tkarita",
+			"date_added": 1475475245
+		},
+		{
+			"follow_id": 6,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331",
+			"user_name": "Andrewm",
+			"date_added": 1475475732
+		},
+		{
+			"follow_id": 7,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1475475829
+		},
+		{
+			"follow_id": 8,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331",
+			"user_name": "Andrewm",
+			"date_added": 1475475864
+		},
+		{
+			"follow_id": 9,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ",
+			"user_name": "Sirenyc",
+			"date_added": 1475475937
+		},
+		{
+			"follow_id": 10,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne",
+			"user_name": "Jayofthezero",
+			"date_added": 1475476087
+		},
+		{
+			"follow_id": 11,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS",
+			"user_name": "cnwfjsw",
+			"date_added": 1475476641
+		},
+		{
+			"follow_id": 12,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1475476647
+		},
+		{
+			"follow_id": 13,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "15ANYSsjScSzTqt4L6WreCyr3SBvQ15xc4",
+			"user_name": "Jike",
+			"date_added": 1475476869
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }
