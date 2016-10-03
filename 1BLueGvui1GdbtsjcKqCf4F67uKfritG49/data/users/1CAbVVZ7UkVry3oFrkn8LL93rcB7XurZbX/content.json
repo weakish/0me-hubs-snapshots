@@ -4,14 +4,18 @@
  "cert_sign": "G8saARWgwK/MCehQXVfhK+U7QnjZmrpiyrQSE/v9mtCSaRErrktB40Zoc+jdr46oOLBODaoHM9G2tUbk8n6p1a8=",
  "cert_user_id": "logermanoo@zeroid.bit",
  "files": {
+  "avatar.jpg": {
+   "sha512": "1598b97e3bbcdec5f63ac3dea74fad867c3fabd6b3fd809b9f01afb5011d8559",
+   "size": 2052
+  },
   "data.json": {
-   "sha512": "94c7336f4aa3dd5c70c9f719b369f25622115b8e4bb07b6faa6959bd3a03a96c",
-   "size": 342
+   "sha512": "7daa9b33cf1abbb6b03ae7d22c7522ffa5d0c8b1d87c3c639a4640c806e69959",
+   "size": 586
   }
  },
  "inner_path": "data/users/1CAbVVZ7UkVry3oFrkn8LL93rcB7XurZbX/content.json",
- "modified": 1472960825.656,
+ "modified": 1475494677.353,
  "signs": {
-  "1CAbVVZ7UkVry3oFrkn8LL93rcB7XurZbX": "HHAV76tmLY6ckQhIBXUUUPslTrPzDIoEtMllvjHC4nRzBQL83VHlNft3yI9EJRY+Gms3BuupB0UtjFvRWu3wbBM="
+  "1CAbVVZ7UkVry3oFrkn8LL93rcB7XurZbX": "G2LXjoV1LaagGRyMyLwG4/HvisLpp1VL0Plk0F/WTJN0cfE78iz6RpLCb57/rP0lRCuKwrz6hZ77n7tTMuzh+oc="
  }
 }

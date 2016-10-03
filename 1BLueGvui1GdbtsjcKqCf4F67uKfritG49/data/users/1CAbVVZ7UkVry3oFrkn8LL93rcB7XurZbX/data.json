@@ -1,19 +1,27 @@
 {
-	"next_post_id": 2,
+	"next_post_id": 3,
 	"next_comment_id": 1,
-	"next_follow_id": 1,
+	"next_follow_id": 2,
 	"avatar": "generate",
-	"user_name": "Logermanoo",
+	"user_name": "G3rmanoGabri3l",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
-	"intro": "Random ZeroNet user",
+	"intro": "Hello Friend !",
 	"post": [
 		{
-			"post_id": 1,
-			"date_added": 1472960825,
-			"body": "Hello ZeroMe!"
+			"post_id": 1475494116,
+			"body": "“Madness is a matter of perspective, little dreamer.”",
+			"date_added": 1475494114
 		}
 	],
 	"post_like": {},
 	"comment": [],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1CAbVVZ7UkVry3oFrkn8LL93rcB7XurZbX",
+			"user_name": "Logermanoo",
+			"date_added": 1475494305
+		}
+	]
 }
