@@ -1,6 +1,6 @@
 {
-	"next_post_id": 12,
-	"next_comment_id": 8,
+	"next_post_id": 14,
+	"next_comment_id": 12,
 	"next_follow_id": 7,
 	"avatar": "jpg",
 	"user_name": "cnwfjsw",
@@ -61,6 +61,16 @@
 			"post_id": 1475506696,
 			"body": "突然发现这也能编辑（",
 			"date_added": 1475506685
+		},
+		{
+			"post_id": 1475508532,
+			"body": "找不到 zero 的服务器 DNS 地址。\n请在 Google 中搜索“zero”\nERR_NAME_NOT_RESOLVED\n\nBlame Chrome.",
+			"date_added": 1475508520
+		},
+		{
+			"post_id": 1475508738,
+			"body": "想了想，Tox这种做S2S大概很合适的样子？（雾",
+			"date_added": 1475508725
 		}
 	],
 	"post_like": {
@@ -108,6 +118,30 @@
 			"body": "但是 Chrome 在处理我那一堆暗网域名的时候表现并不是很友好。（动不动就 Google Search",
 			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1475501548",
 			"date_added": 1475506159
+		},
+		{
+			"comment_id": 8,
+			"body": "@HelloArch: 没有域名看着不舒服（逃",
+			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1475506696",
+			"date_added": 1475508490
+		},
+		{
+			"comment_id": 9,
+			"body": "@HelloArch: 没治，我不想让他搜索，明明可以直接请求代理（\nToxID: AAEBBD39A09C8F6022A4B8F611A4B807A6AD4DFB77BB5E3984B62EA620A0E5686D601D61D6D2",
+			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1475501548",
+			"date_added": 1475508600
+		},
+		{
+			"comment_id": 10,
+			"body": "@HelloArch: 问题是不管是什么搜索，Chrome还是朝着搜索的方向去，根本没有直接请求的意思。",
+			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1475501548",
+			"date_added": 1475509267
+		},
+		{
+			"comment_id": 11,
+			"body": "@HelloArch: 其实...我的问题本质是Chrome不认*.bit域名（我用代理转发的 地址就是这个样子： http://me.zeronetwork.bit/",
+			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1475501548",
+			"date_added": 1475509539
 		}
 	],
 	"follow": [
