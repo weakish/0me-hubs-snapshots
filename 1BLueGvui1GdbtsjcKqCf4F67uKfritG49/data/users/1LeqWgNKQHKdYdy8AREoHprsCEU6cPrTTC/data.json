@@ -1,6 +1,6 @@
 {
-	"next_post_id": 48,
-	"next_comment_id": 40,
+	"next_post_id": 49,
+	"next_comment_id": 43,
 	"next_follow_id": 16,
 	"avatar": "jpg",
 	"user_name": "meidan",
@@ -241,6 +241,11 @@
 			"post_id": 1475458440,
 			"body": "Forgiva seems like an interesting new password manager. ... ",
 			"date_added": 1475458393
+		},
+		{
+			"post_id": 1475513801,
+			"body": "Watching an old video of how to use the Michigan Terminal System. Weird. It looks like a typewriter with a telephone attached. ...",
+			"date_added": 1475513753
 		}
 	],
 	"post_like": {
@@ -471,7 +476,7 @@
 		},
 		{
 			"comment_id": 36,
-			"body": "@FraYoshi: I agree. ",
+			"body": "@FraYoshi: I agree. It seemed very overstated. ",
 			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1475458440",
 			"date_added": 1475508729
 		},
@@ -492,6 +497,24 @@
 			"body": "@FraYoshi: Ok. Thanks! I really needed this! How is this working?: http://localhost:8080/ipfs/QmSmnx49HC5ibUs3HmvBnFunkGSPgz1VfZgcSN1Xjqz9ZE",
 			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1475180247",
 			"date_added": 1475509066
+		},
+		{
+			"comment_id": 40,
+			"body": "You had to type out your password and it wouldn't print it though. So some version of crappy security was involved.",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1475513801",
+			"date_added": 1475513839
+		},
+		{
+			"comment_id": 41,
+			"body": "What's really interesting is it seems to work just like the Terminal or Command line program on our computers today but it prints it out just like a typewriter and there's no screen.",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1475513801",
+			"date_added": 1475513924
+		},
+		{
+			"comment_id": 42,
+			"body": "https://d18ky98rnyall9.cloudfront.net/1969-02-06-BasicOperationOfMTS-small.7db4fb40447611e4bf68d70a95093c06/full/540p/index.mp4?Expires=1475625600&Signature=Wrpel4CkepnVChxRvdu9cieMfOt6igox3gqHKAtP1Tq57ox5bWIUQ9vpN-V0gVrRoQViKjsDTaAlxW6oKn5FoF0e7N-tJaYcmI3YZ~j8S9nJSZ2yTcCOELnA6~JnWInZ1vn5JecCehkg531gWhffn85aAMt6zQbdN7VPcxo6OHQ_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1475513801",
+			"date_added": 1475513969
 		}
 	],
 	"follow": [

@@ -2,7 +2,7 @@
 	"next_post_id": 2,
 	"next_comment_id": 1,
 	"next_follow_id": 1,
-	"avatar": "generate",
+	"avatar": "jpg",
 	"user_name": "Bashrc",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"intro": "Freedombone project. Self-hosting. Free Software. AI/Alife. Tor. Arch/Parabola. The essential mix.",
@@ -13,7 +13,9 @@
 			"body": "Hello ZeroMe!"
 		}
 	],
-	"post_like": {},
+	"post_like": {
+		"1PXtqwuku4Srxgk3kdHCEE9qqViv5BrfW4_1475508772": 1475512663
+	},
 	"comment": [],
 	"follow": []
 }
