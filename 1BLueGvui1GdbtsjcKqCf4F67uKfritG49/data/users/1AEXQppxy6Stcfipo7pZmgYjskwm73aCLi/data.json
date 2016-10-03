@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
 	"next_comment_id": 1,
-	"next_follow_id": 1,
+	"next_follow_id": 4,
 	"avatar": "generate",
 	"user_name": "Akv",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -15,5 +15,27 @@
 	],
 	"post_like": {},
 	"comment": [],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1HiFKuWzwiN4QjdHktAaG6hCVKZ9MiGnTr",
+			"user_name": "Raj",
+			"date_added": 1475517293
+		},
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "16YxtnaTrCSbvCXSYxrnvobmYnqtidxG23",
+			"user_name": "Hellozeronetwork",
+			"date_added": 1475517400
+		},
+		{
+			"follow_id": 3,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1EZ85feQFQfp4pBMGvmxkPJ9e4NF2o7fFN",
+			"user_name": "Kkkk",
+			"date_added": 1475517410
+		}
+	]
 }
