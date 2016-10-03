@@ -1,7 +1,7 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 1,
-	"next_follow_id": 1,
+	"next_comment_id": 2,
+	"next_follow_id": 2,
 	"avatar": "generate",
 	"user_name": "Curse",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -19,6 +19,21 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
-	"follow": []
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Jike: That's true ... Zero Net has a comfy feel to it - and it's good to know you won't be censored for thinking differently.",
+			"post_uri": "1MrRShZ9dp1stuYhAyzguqFXv8X4E4AjCn_1475459678",
+			"date_added": 1475461041
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "15ANYSsjScSzTqt4L6WreCyr3SBvQ15xc4",
+			"user_name": "Jike",
+			"date_added": 1475461048
+		}
+	]
 }
