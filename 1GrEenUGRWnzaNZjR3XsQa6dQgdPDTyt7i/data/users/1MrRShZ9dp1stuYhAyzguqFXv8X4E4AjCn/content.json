@@ -4,14 +4,18 @@
  "cert_sign": "GwECY1/x/Yos3eIyB+jD1g78WXRwDLqDzjQIJVD/f31BjkZFOyW5A9/6jhsrsYdohEFHl5S4RqsYubUKxP5pxNQ=",
  "cert_user_id": "curse@zeroid.bit",
  "files": {
+  "avatar.png": {
+   "sha512": "04c7574dba6b20bdd400f3dcb7409c98d1077211fe4ffaba2e5f341aeb1a0ec2",
+   "size": 1572
+  },
   "data.json": {
-   "sha512": "86cb3da1b13700d09235c9d11798432c5f81f44d2829a6ee293a087ec59fbab4",
-   "size": 924
+   "sha512": "d6668ffc44b400b32574bc642af0cc78431f56a704fa4c98c802074577ca3ad9",
+   "size": 919
   }
  },
  "inner_path": "data/users/1MrRShZ9dp1stuYhAyzguqFXv8X4E4AjCn/content.json",
- "modified": 1475461048.150368,
+ "modified": 1475473242.891219,
  "signs": {
-  "1MrRShZ9dp1stuYhAyzguqFXv8X4E4AjCn": "G3/E0RS01Q/THv6JjjGxEQX0f/6d84ufpXsel7XT4pHPiz6bmie+SWzIa1iUva5lalZjc/9Iv9VM/rfQmNz7L/g="
+  "1MrRShZ9dp1stuYhAyzguqFXv8X4E4AjCn": "G+5jfIMlpAbU0Hm1ZalWWbIc9tWyX0EvlEQqJXW+57fyuh2q7CutAAw/jmNFyg4vNxL0yFLQ6Mb7QCU/0iAm5Ko="
  }
 }
