@@ -1,7 +1,7 @@
 {
 	"next_post_id": 8,
-	"next_comment_id": 15,
-	"next_follow_id": 9,
+	"next_comment_id": 16,
+	"next_follow_id": 10,
 	"avatar": "jpg",
 	"user_name": "FraYoshi",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -128,6 +128,12 @@
 			"body": "that happens.. did you try [New Zeronet Sites](http://127.0.0.1:43110/1LtvsjbtQ2tY7SCtCZzC4KhErqEK3bXD4n) ?\nMaybe your seeders are all offline or not loger/usually entering the network :)\n\nAnyway, You should keep writing sometime... It helps :)\n I will take a tour to your website, I'm getting curious ;)",
 			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1475453650",
 			"date_added": 1475463509
+		},
+		{
+			"comment_id": 15,
+			"body": "It seems not working here on ZeroMe... Anywat I know for sure that It works in the ZeroBlogs, i.e. in the [Blog of Ebriel](http://127.0.0.1:43110/1EMcXwk7qQdY3pbj86A98gZHjDBNRrscdL/?Post:28:Testing+the+Interplanetary+File+System)\n\nAbout your image... I get this error while opening your file:\n`ERROR core/serve: Path Resolve error: Failed to get block for QmaW89ZQBnpmCx9LTXTVeWen6a2ZN37C7VAUjbr64ut5ur: context canceled gateway_handler.go:510`\n",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1475180247",
+			"date_added": 1475463774
 		}
 	],
 	"follow": [
@@ -186,6 +192,13 @@
 			"auth_address": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ",
 			"user_name": "Sirenyc",
 			"date_added": 1475166624
+		},
+		{
+			"follow_id": 9,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC",
+			"user_name": "Meidan",
+			"date_added": 1475463982
 		}
 	]
 }
