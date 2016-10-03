@@ -1,6 +1,6 @@
 {
 	"next_post_id": 8,
-	"next_comment_id": 1,
+	"next_comment_id": 3,
 	"next_follow_id": 12,
 	"avatar": "jpg",
 	"user_name": "Bashrc2",
@@ -43,8 +43,23 @@
 			"date_added": 1475420432
 		}
 	],
-	"post_like": {},
-	"comment": [],
+	"post_like": {
+		"15ncdAJpBb28R7X2ZbkSZ9GpZLgUsexy4i_1475500672": 1475501304
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "No",
+			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1475445750",
+			"date_added": 1475499587
+		},
+		{
+			"comment_id": 2,
+			"body": "It's a fallacy that Anarchists don't have any rules or are not interested in organizing.",
+			"post_uri": "1NqBLri771MGN6eJLzUP6dqenvVqdC6b5L_1475500277",
+			"date_added": 1475501432
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 1,

@@ -1,6 +1,6 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 1,
+	"next_comment_id": 3,
 	"next_follow_id": 2,
 	"avatar": "generate",
 	"user_name": "Renha",
@@ -19,9 +19,23 @@
 		}
 	],
 	"post_like": {
-		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475393382": 1475495239
+		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475393382": 1475495239,
+		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475474775": 1475501169
 	},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Да, к сожалению анонимность нивелирует влияние общества на становление личности, а так как в отсутствии общества полноценной личности нет - нет её и у людей, воспитанных дикими имиджбордами.",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475474775",
+			"date_added": 1475501274
+		},
+		{
+			"comment_id": 2,
+			"body": "а что за ссылка \"Кросспостинг\"? У меня оная ведёт на домашнюю страницу ZeroMe+.",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475474775",
+			"date_added": 1475501336
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 1,

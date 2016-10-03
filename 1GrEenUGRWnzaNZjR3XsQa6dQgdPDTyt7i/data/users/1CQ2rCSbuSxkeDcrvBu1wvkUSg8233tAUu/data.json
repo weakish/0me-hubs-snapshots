@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Thoughtcrime",
@@ -14,6 +14,13 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "You sound awesome. All of the things in your description are some of the most interesting things there are. ",
+			"post_uri": "1GuQbrHBXABgjQ89CogjKVwEcgZ5DqnYgx_1",
+			"date_added": 1475500055
+		}
+	],
 	"follow": []
 }
