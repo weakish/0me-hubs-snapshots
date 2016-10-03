@@ -1,6 +1,6 @@
 {
 	"next_post_id": 4,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 6,
 	"avatar": "generate",
 	"user_name": "Ceritium",
@@ -24,7 +24,14 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Lo importante es el contenido no? ",
+			"post_uri": "1EZG8eDkCFvNkYxpHmr2WbGWcSxAsRfqTT_1472608628",
+			"date_added": 1475520163
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 3,
