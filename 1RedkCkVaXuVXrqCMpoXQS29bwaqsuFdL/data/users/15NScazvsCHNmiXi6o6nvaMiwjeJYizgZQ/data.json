@@ -1,5 +1,5 @@
 {
-	"next_post_id": 241,
+	"next_post_id": 244,
 	"next_comment_id": 362,
 	"next_follow_id": 27,
 	"avatar": "generate",
@@ -976,6 +976,21 @@
 			"post_id": 1475512390,
 			"body": "Setup HP Printer in Arch (or other Linux) if there are no Free/Libre drivers:\nhttps://wiki.archlinux.org/index.php/CUPS/Printer-specific_problems#HP",
 			"date_added": 1475512150
+		},
+		{
+			"post_id": 1475528832,
+			"body": "Say what you want, but `echo $RANDOM` is faster than\n```\npython\nimport random\nrandom.random() or random.randrange(...)\n```\nAt least when you just need a random number fast =D\n",
+			"date_added": 1475528591
+		},
+		{
+			"post_id": 1475531968,
+			"body": "by the way, I still could not fugure out how to play video in console -_-",
+			"date_added": 1475531726
+		},
+		{
+			"post_id": 1475532013,
+			"body": "And the latest news: I have made my IP static so I can ssh my PC from the internet! ^_^\n\nIt's the first time my bitmessge has more than 8 connections! (9)\n\nAND I HAVE NO \"CONTENT PUBLISH FAILED\" PROBLEM!!",
+			"date_added": 1475531770
 		}
 	],
 	"post_like": {
