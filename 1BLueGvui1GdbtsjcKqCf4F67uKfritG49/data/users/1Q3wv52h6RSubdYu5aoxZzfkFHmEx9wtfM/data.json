@@ -1,17 +1,12 @@
 {
 	"next_post_id": 3,
 	"next_comment_id": 5,
-	"next_follow_id": 1,
+	"next_follow_id": 2,
 	"avatar": "generate",
 	"user_name": "0ivy",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"intro": "Random ZeroNet user",
 	"post": [
-		{
-			"post_id": 1,
-			"date_added": 1475438389,
-			"body": "Hello ZeroMe!"
-		},
 		{
 			"post_id": 1475443656,
 			"body": "what's the character limit on zerome if any?\nFrom what I've read there should be one but I can't find the number",
@@ -45,5 +40,13 @@
 			"date_added": 1475452632
 		}
 	],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1475453770
+		}
+	]
 }
