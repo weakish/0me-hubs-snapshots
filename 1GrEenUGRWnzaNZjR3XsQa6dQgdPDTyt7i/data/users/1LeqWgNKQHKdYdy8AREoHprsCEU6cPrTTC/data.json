@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Meidan",
@@ -16,6 +16,13 @@
 	"post_like": {
 		"1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_1475338876": 1475421178
 	},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Saluton! :)",
+			"post_uri": "1KAfCgw4ECkqUccYQZDoPuTMhA2YPMaZwG_1",
+			"date_added": 1475601708
+		}
+	],
 	"follow": []
 }

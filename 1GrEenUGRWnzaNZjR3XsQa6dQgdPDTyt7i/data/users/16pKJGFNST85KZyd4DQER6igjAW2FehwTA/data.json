@@ -1,6 +1,6 @@
 {
 	"next_post_id": 8,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 2,
 	"avatar": "generate",
 	"user_name": "Inlolo",
@@ -9,7 +9,7 @@
 	"post": [
 		{
 			"post_id": 1475564677,
-			"body": "OpenConnect server(ocserv) 一键脚本 for deibian 7+\napt-get update && apt-get upgrade -y\nwget http://git.io/p9r8 --no-check-certificate -O ocservauto.sh && bash ocservauto.sh\nwget git.io/ocservauto -O- --no-check-certificate|bash -\n \n\nshadowsocks-libev一键安装脚本\nDebian/Ubuntu\nwget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-libev-debian.sh\nchmod +x shadowsocks-libev-debian.sh\n./shadowsocks-libev-debian.sh 2>&1 | tee shadowsocks-libev-debian.log\n\n./shadowsocks-libev-debian.sh uninstall\n\n使用命令：\n启动：/etc/init.d/shadowsocks start\n停止：/etc/init.d/shadowsocks stop\n重启：/etc/init.d/shadowsocks restart\n状态：/etc/init.d/shadowsocks status\n\n\nwget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocksR.sh\nchmod +x shadowsocksR.sh\n./shadowsocksR.sh 2>&1 | tee shadowsocksR.log\n./shadowsocksR.sh uninstall\n\nvi /etc/shadowsocks.json\n启动：/etc/init.d/shadowsocks start\n停止：/etc/init.d/shadowsocks stop\n重启：/etc/init.d/shadowsocks restart\n状态：/etc/init.d/shadowsocks status\n\nsudo apt-get update\nsudo apt-get install g++ make binutils autoconf automake autotools-dev libtool pkg-config \\\n  zlib1g-dev libcunit1-dev libssl-dev libxml2-dev libev-dev libevent-dev libjansson-dev \\\n  libjemalloc-dev cython python3-dev python-setuptools\n\n\n安装spdylay\nwget 'https://github.com/tatsuhiro-t/spdylay/releases/download/v1.4.0/spdylay-1.4.0.tar.xz'\ntar xpf spdylay-1.4.0.tar.xz && cd spdylay-1.4.0 && ./configure\nmake && make install\nldconfig\n\n\n安装nghttp2\napt-get install libev-dev libjansson-dev libjemalloc-dev python-dev cython\n\nwget https://github.com/nghttp2/nghttp2/releases/download/v1.15.0/nghttp2-1.15.0.tar.xz && tar xpf nghttp2-1.15.0.tar.xz && cd nghttp2-1.15.0 && ./configure\nmake && make install\nldconfig\n\n安装squid 3.5.12\nsudo apt-get install squid\nSquid的配置文件是/etc/squid/squid.conf\n\nvi /etc/squid/squid.conf\n\n\ntouch /etc/squid/passwd\nhtpasswd -m /etc/squid/passwd lolo  #squid 不支持MD5验证\n\n1.增加用户\nhtpasswd  /etc/squid/user.pass lookwest\n2.修改用户密码：\nhtpasswd -d /etc/squid/user.pass lookwest\n3.删除用户：\nhtpasswd -D /etc/squid/user.pass lookwest\n\n\n安装supervisor\nsudo apt-get install supervisor\n配置文件\nvi /etc/supervisor/supervisord.conf\n\n\n\n配置nghttpx\n\n\nnghttpx -s -D --conf=/root/nghttp2-1.4.0/nghttpx.conf /root/certs/www_56789u_com.key /root/certs/www_56789u_com.crt\n\npkill nghttpx\n\n\n\n配置supervisor\nvi /etc/supervisor/supervisord.conf\n\n[program:nghttpx]\ncommand=nghttpx -s -D --conf=/root/nghttp2-1.4.0/nghttpx.conf /root/certs/www_56789u_com.key /root/certs/www_56789u_com.crt\nautorestart=true\nuser=root",
+			"body": "OpenConnect server(ocserv) 一键脚本 for deibian 7+\n```python\napt-get update && apt-get upgrade -y\nwget http://git.io/p9r8 --no-check-certificate -O ocservauto.sh && bash ocservauto.sh\nwget git.io/ocservauto -O- --no-check-certificate|bash -\n```\n\nshadowsocks-libev一键安装脚本\nDebian/Ubuntu\n```python\nwget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-libev-debian.sh\nchmod +x shadowsocks-libev-debian.sh\n./shadowsocks-libev-debian.sh 2>&1 | tee shadowsocks-libev-debian.log\n```\n\n卸载\n```python\n./shadowsocks-libev-debian.sh uninstall\n```\n\n使用命令：\n启动：/etc/init.d/shadowsocks start\n停止：/etc/init.d/shadowsocks stop\n重启：/etc/init.d/shadowsocks restart\n状态：/etc/init.d/shadowsocks status\n\nShadowsocksR一键安装脚本\n```python\nwget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocksR.sh\nchmod +x shadowsocksR.sh\n./shadowsocksR.sh 2>&1 | tee shadowsocksR.log\n```\n\n./shadowsocksR.sh uninstall\n\nvi /etc/shadowsocks.json\n启动：/etc/init.d/shadowsocks start\n停止：/etc/init.d/shadowsocks stop\n重启：/etc/init.d/shadowsocks restart\n状态：/etc/init.d/shadowsocks status\n```python\nsudo apt-get update\nsudo apt-get install g++ make binutils autoconf automake autotools-dev libtool pkg-config \\\n  zlib1g-dev libcunit1-dev libssl-dev libxml2-dev libev-dev libevent-dev libjansson-dev \\\n  libjemalloc-dev cython python3-dev python-setuptools\n```python\n\n安装spdylay\nwget 'https://github.com/tatsuhiro-t/spdylay/releases/download/v1.4.0/spdylay-1.4.0.tar.xz'\ntar xpf spdylay-1.4.0.tar.xz && cd spdylay-1.4.0 && ./configure\nmake && make install\nldconfig\n\n\n安装nghttp2\napt-get install libev-dev libjansson-dev libjemalloc-dev python-dev cython\n\nwget https://github.com/nghttp2/nghttp2/releases/download/v1.15.0/nghttp2-1.15.0.tar.xz && tar xpf nghttp2-1.15.0.tar.xz && cd nghttp2-1.15.0 && ./configure\nmake && make install\nldconfig\n\n安装squid 3.5.12\nsudo apt-get install squid\nSquid的配置文件是/etc/squid/squid.conf\n\nvi /etc/squid/squid.conf\n\n\ntouch /etc/squid/passwd\nhtpasswd -m /etc/squid/passwd lolo  #squid 不支持MD5验证\n\n1.增加用户\nhtpasswd  /etc/squid/user.pass lookwest\n2.修改用户密码：\nhtpasswd -d /etc/squid/user.pass lookwest\n3.删除用户：\nhtpasswd -D /etc/squid/user.pass lookwest\n\n\n安装supervisor\nsudo apt-get install supervisor\n配置文件\nvi /etc/supervisor/supervisord.conf\n\n\n\n配置nghttpx\n\n\nnghttpx -s -D --conf=/root/nghttp2-1.4.0/nghttpx.conf /root/certs/www_xxx_com.key /root/certs/www_xxx_com.crt\n\npkill nghttpx\n\n\n\n配置supervisor\nvi /etc/supervisor/supervisord.conf\n[program:nghttpx]\ncommand=nghttpx -s -D --conf=/root/nghttp2-1.4.0/nghttpx.conf /root/certs/www_xxx_com.key /root/certs/www_xxx_com.crt\nautorestart=true\nuser=root\n",
 			"date_added": 1475564674
 		},
 		{
@@ -29,12 +29,19 @@
 		},
 		{
 			"post_id": 1475570628,
-			"body": "{\n    \"server\":\"0.0.0.0\",\n    \"server_ipv6\":\"::\",\n    \"local_address\":\"127.0.0.1\",\n    \"local_port\":1080,\n    \"port_password\":{\n        \"80\":{\"protocol\":\"auth_aes128\", \"password\":\"ww00124\", \"obfs\":\"tls1.2_ticket_auth\", \"obfs_param\":\"189.cn\"},\n        \"443\":{\"protocol\":\"auth_sha1_v4\", \"password\":\"ww00124\"}\n    },\n    \"timeout\":300,\n    \"method\":\"chacha20\",\n    \"protocol\": \"auth_sha1_v4\",\n    \"protocol_param\": \"\",\n    \"obfs\": \"tls1.2_ticket_auth\",\n    \"obfs_param\": \"cloudfront.com\",\n    \"redirect\":[\"bing.com\", \"cloudflare.com:443\"],\n    \"dns_ipv6\": false,\n    \"fast_open\": false,\n    \"workers\": 1\n}\n\n",
+			"body": "{\n    \"server\":\"0.0.0.0\",\n    \"server_ipv6\":\"::\",\n    \"local_address\":\"127.0.0.1\",\n    \"local_port\":1080,\n    \"port_password\":{\n        \"80\":{\"protocol\":\"auth_aes128\", \"password\":\"password\", \"obfs\":\"tls1.2_ticket_auth\", \"obfs_param\":\"189.cn\"},\n        \"443\":{\"protocol\":\"auth_sha1_v4\", \"password\":\"password\"}\n    },\n    \"timeout\":300,\n    \"method\":\"chacha20\",\n    \"protocol\": \"auth_sha1_v4\",\n    \"protocol_param\": \"\",\n    \"obfs\": \"tls1.2_ticket_auth\",\n    \"obfs_param\": \"cloudfront.com\",\n    \"redirect\":[\"bing.com\", \"cloudflare.com:443\"],\n    \"dns_ipv6\": false,\n    \"fast_open\": false,\n    \"workers\": 1\n}\n",
 			"date_added": 1475570621
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Balancer73: thx",
+			"post_uri": "16pKJGFNST85KZyd4DQER6igjAW2FehwTA_1475564677",
+			"date_added": 1475603122
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 1,
