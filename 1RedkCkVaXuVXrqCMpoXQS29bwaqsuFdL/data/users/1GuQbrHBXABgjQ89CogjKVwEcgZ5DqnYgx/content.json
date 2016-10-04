@@ -1,0 +1,17 @@
+{
+ "address": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+ "cert_auth_type": "web",
+ "cert_sign": "HEqZtrp9cVfbglroVWDeTafarQCEErTO7wD1jPleuBQuATKLhnE7PvPBcNaCvYjr5vVx710qZyoz4CooAkf8l/M=",
+ "cert_user_id": "sylex@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "559442dad5dc9f52beb069f2d718c3018a599d09e7c05d112e68c229f1550a2a",
+   "size": 710
+  }
+ },
+ "inner_path": "data/users/1GuQbrHBXABgjQ89CogjKVwEcgZ5DqnYgx/content.json",
+ "modified": 1475550398.019723,
+ "signs": {
+  "1GuQbrHBXABgjQ89CogjKVwEcgZ5DqnYgx": "G2klAAdcPrxTj67C6Ml9nF99djjAlJI6714XZfcm1zRwlEK7cI+GbTxfhoZt43KGxZ+eufi/CDsKyWpKQp9Qqz0="
+ }
+}

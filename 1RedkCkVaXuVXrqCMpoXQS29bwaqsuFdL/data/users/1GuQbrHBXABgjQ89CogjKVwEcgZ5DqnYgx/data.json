@@ -1,0 +1,26 @@
+{
+	"next_comment_id": 4,
+	"user_name": "Sylex",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "if you want to be secure try this instead for 32 bit random numbers:",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1475528832",
+			"date_added": 1475550310
+		},
+		{
+			"comment_id": 2,
+			"body": "SECURERANDOM=$(od -A n -t u4 -N 4 /dev/urandom | awk '{printf $1}')",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1475528832",
+			"date_added": 1475550376
+		},
+		{
+			"comment_id": 3,
+			"body": "Also How do you use code tags on here?",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1475528832",
+			"date_added": 1475550397
+		}
+	]
+}
