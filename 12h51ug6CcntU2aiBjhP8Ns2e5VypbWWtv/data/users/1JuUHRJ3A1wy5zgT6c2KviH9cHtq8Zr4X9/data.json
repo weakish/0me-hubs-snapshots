@@ -1,7 +1,7 @@
 {
 	"next_post_id": 7,
 	"next_comment_id": 15,
-	"next_follow_id": 7,
+	"next_follow_id": 8,
 	"avatar": "png",
 	"comment_order": 1,
 	"user_name": "Planteater",
@@ -172,12 +172,19 @@
 			"auth_address": "18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6",
 			"user_name": "Border0464fred",
 			"date_added": 1475266288
+		},
+		{
+			"follow_id": 7,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC",
+			"user_name": "meidan",
+			"date_added": 1475599199
 		}
 	],
 	"settings": {
 		"reverse_comment_order": true,
 		"mute_ugly": false,
-		"mute_spam": false,
+		"mute_spam": true,
 		"mute_blocked": true
 	},
 	"flags": {},
