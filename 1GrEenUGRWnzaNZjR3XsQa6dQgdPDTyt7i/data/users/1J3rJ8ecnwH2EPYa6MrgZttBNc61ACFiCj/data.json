@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 13,
+	"next_comment_id": 14,
 	"user_name": "Nofish",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -81,6 +81,12 @@
 			"body": "It was fixed yesterday, please update your zeronet using the 3dot menu on zerohello > \"Version 0.4.1...\" menuitem",
 			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1473207573",
 			"date_added": 1473211704
+		},
+		{
+			"comment_id": 13,
+			"body": "@Balancer73: relative link does not works for everyone (eg if you use chrome extension that maps sites to normal domains), but if you use http://127.0.0.1:43110/Talk.ZeroNetwork.bit/ it always transformed to the right format.",
+			"post_uri": "1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_1475537144",
+			"date_added": 1475580686
 		}
 	]
 }
