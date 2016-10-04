@@ -1,0 +1,17 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "G5h7QOFEoAhkgYAepdqJweVLdIQhuHuTVgACsz6IIR5cEi0fvv15KqE2QKCyMP2ZIz8l2PV6wSzrTMd3HKNUCs8=",
+ "cert_user_id": "peha@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5b9758aa348b1de02e5672a83c54da0fb701620b2a1e7d97937adce6f273ee47",
+   "size": 336
+  }
+ },
+ "inner_path": "data/users/1FEmQd4ns3Z1gsT8ddoG4hca1nPu9zpssD/content.json",
+ "modified": 1475582623.383459,
+ "signs": {
+  "1FEmQd4ns3Z1gsT8ddoG4hca1nPu9zpssD": "G8w3w3GJCM0pI3DgtfWDMNoM3BX7wCzXjck1yE9jSd/KhSBJZrxU9MKWk54OsDOmspfZWcfsxsQcOSSdmFob744="
+ }
+}
