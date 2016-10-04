@@ -1,6 +1,6 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 3,
+	"next_comment_id": 4,
 	"next_follow_id": 2,
 	"avatar": "generate",
 	"user_name": "Renha",
@@ -20,7 +20,8 @@
 	],
 	"post_like": {
 		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475393382": 1475495239,
-		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475474775": 1475501169
+		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475474775": 1475501169,
+		"1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1475519556": 1475566006
 	},
 	"comment": [
 		{
@@ -34,6 +35,12 @@
 			"body": "а что за ссылка \"Кросспостинг\"? У меня оная ведёт на домашнюю страницу ZeroMe+.",
 			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475474775",
 			"date_added": 1475501336
+		},
+		{
+			"comment_id": 3,
+			"body": "@Zerro: ну сейчас с регистрацией относительно норм, жаббер/соцсети",
+			"post_uri": "1BidCEzNjETypKRCaRFQ6myvDo71o6FDyC_1475496066",
+			"date_added": 1475565948
 		}
 	],
 	"follow": [
