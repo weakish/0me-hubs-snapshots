@@ -1,0 +1,21 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "G1uUCVbBsXcYitvzg81X6iIePb1ZyjEKM5tyrSrezi9/wIoQI0LIuQW6fs5exXCJRvrm39Wo0MnKWd22OK1VOxs=",
+ "cert_user_id": "thebitbrine@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "dfe9015f7ab432835b54c1e8b7363e411bd42d9973b3dc267b55d517b5457f34",
+   "size": 1434
+  },
+  "data.json": {
+   "sha512": "128ef88c10f0f6ef34feb89f4326bd029d99bbb35a122e9b792f18bc6fd6d268",
+   "size": 527
+  }
+ },
+ "inner_path": "data/users/1CHcEy3SYsQvrW9uskKTZxUWj97BmZmvfa/content.json",
+ "modified": 1475615946.289,
+ "signs": {
+  "1CHcEy3SYsQvrW9uskKTZxUWj97BmZmvfa": "HACcHpIAPSieD1sxGjtASzoksvKeujtt6JnJ3y9XCyQ3wUjCHAASbit9qabnzrheMjnnSn6K1Ag03+Qy4Rjptq8="
+ }
+}
