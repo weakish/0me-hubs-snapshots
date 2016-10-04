@@ -1,28 +1,12 @@
 {
-	"next_post_id": 4,
+	"next_post_id": 5,
 	"next_comment_id": 1,
 	"next_follow_id": 3,
-	"avatar": "generate",
-	"user_name": "Yangleitjbit",
+	"avatar": "jpg",
+	"user_name": "Alvin 獨財者",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"intro": "Random ZeroNet user",
-	"post": [
-		{
-			"post_id": 1,
-			"date_added": 1472677259,
-			"body": "Hello ZeroMe!"
-		},
-		{
-			"post_id": 1472677959,
-			"body": "http://127.0.0.1:43110/yangleitj.bit",
-			"date_added": 1472677957
-		},
-		{
-			"post_id": 1472677972,
-			"body": "https://yangleitj.com",
-			"date_added": 1472677969
-		}
-	],
+	"intro": "http://127.0.0.1:43110/yangleitj.bit",
+	"post": [],
 	"post_like": {},
 	"comment": [],
 	"follow": [
@@ -32,13 +16,6 @@
 			"auth_address": "1NmwA9EFPu94QaN7yMYpzu2iSg1dGAYV6n",
 			"user_name": "Yangleitjbit",
 			"date_added": 1472677298
-		},
-		{
-			"follow_id": 2,
-			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-			"auth_address": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS",
-			"user_name": "cnwfjsw",
-			"date_added": 1475510691
 		}
 	]
 }
