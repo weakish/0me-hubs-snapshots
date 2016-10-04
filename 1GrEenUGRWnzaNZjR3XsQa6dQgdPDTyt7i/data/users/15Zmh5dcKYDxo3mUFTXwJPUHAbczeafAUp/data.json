@@ -29,12 +29,13 @@
 		},
 		{
 			"post_id": 1475541570,
-			"body": "ZeroNet Rev1534",
+			"body": "ZeroNet Rev1534\n\nZeroBlog Changelog, October 4, 2016\nhttp://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:95\n27 minutes ago \nRev1534\n\nPush updates to newer clients first\nFix diff sending bug (been chasing it for a long time)\nBad file reset improvements\nFix random publish errors when json file contained [] characters\nRewritten uPnP port opener + close port on exit (Thanks to sirMackk!)\nCurrently working on optional file enhancements:\n\nGlobal optional file cache limit: if the defined the limit is reached the most seeded files will be automatically deleted\nSign up to auto help distribute specific user's files\nWeb interface to follow per-file uploaded amount/set global limit/pin files/etc.\nZeroFrame API command to query peer number for specific files\nThe demo for this features probably will be image upload for ZeroMe\nIt could also allow future big file support\nEta: 2-3wk",
 			"date_added": 1475541558
 		}
 	],
 	"post_like": {
-		"15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1475375120": 1475375119
+		"15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1475375120": 1475375119,
+		"1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1475517952": 1475542820
 	},
 	"comment": [
 		{
@@ -171,7 +172,7 @@
 		},
 		{
 			"comment_id": 26,
-			"body": "@cnwfjsw: 你肯定是设置里没设置好导致的",
+			"body": "@cnwfjsw: 你肯定是设置里没设置好导致的,要不把属于搜索全踢掉，估计也就404了",
 			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1475501548",
 			"date_added": 1475509359
 		},
