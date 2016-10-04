@@ -1,6 +1,6 @@
 {
 	"next_post_id": 4,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 2,
 	"avatar": "jpg",
 	"user_name": "36",
@@ -24,7 +24,14 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "就是这样，聚集一群人，开车：）现在还搞不好聊天室。",
+			"post_uri": "17UbmvpS9j5p4YUVTERiXWJ5fwwEBAGbhR_1475576765",
+			"date_added": 1475586950
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 1,
