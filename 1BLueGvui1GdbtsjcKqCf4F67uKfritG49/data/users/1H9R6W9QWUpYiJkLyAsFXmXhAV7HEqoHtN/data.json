@@ -1,6 +1,6 @@
 {
 	"next_post_id": 62,
-	"next_comment_id": 23,
+	"next_comment_id": 24,
 	"next_follow_id": 28,
 	"avatar": "jpg",
 	"user_name": "Flyman",
@@ -379,6 +379,12 @@
 			"body": "Magnet link is just little string (bunch of text symbols). Something that begins like \"magnet:?xt=urn:bla-bla-bla-bla-bla...\" and ends before next \"=\" symbol. How it possibly can not work? You just need to copypaste text to your torrent client. I hope this will help you.",
 			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1475400513",
 			"date_added": 1475504721
+		},
+		{
+			"comment_id": 23,
+			"body": "@Dergatt: Yes, that is annoying. I mean, when you searching for something and you find at last some (download link)/(magnet link)/(torrent)... and it doesn't work! Sad thing. It is \"pointers and objects\" thing (pointers are not objects they point to), or it is \"map and territory\" thing, or... I am short of analogies. Oh, here is good analogy: it is like someone tell you there is an apple on a table, you check the table, but there is no apple for some reason. Annoying.",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1475400513",
+			"date_added": 1475609422
 		}
 	],
 	"follow": [
@@ -495,6 +501,7 @@
 		"14fdwxPt83nTw5vFaXTCR7KQkAxkXuGbAR"
 	],
 	"comment_like": {
-		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_29": 1475354406
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_29": 1475354406,
+		"13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_14": 1475609431
 	}
 }
