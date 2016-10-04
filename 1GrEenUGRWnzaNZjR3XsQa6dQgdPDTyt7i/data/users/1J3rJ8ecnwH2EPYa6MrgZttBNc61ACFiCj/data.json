@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 14,
+	"next_comment_id": 15,
 	"user_name": "Nofish",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -87,6 +87,12 @@
 			"body": "@Balancer73: relative link does not works for everyone (eg if you use chrome extension that maps sites to normal domains), but if you use http://127.0.0.1:43110/Talk.ZeroNetwork.bit/ it always transformed to the right format.",
 			"post_uri": "1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_1475537144",
 			"date_added": 1475580686
+		},
+		{
+			"comment_id": 14,
+			"body": "@Balancer73: for example I accessing this site using http://me.zeronetwork.bit/ if you use relative path it will points to http://me.zeronetwork.bit/talk.zeronetwork.bit which obviously will not work",
+			"post_uri": "1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_1475537144",
+			"date_added": 1475593524
 		}
 	]
 }
