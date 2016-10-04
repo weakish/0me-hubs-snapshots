@@ -1,6 +1,6 @@
 {
 	"next_post_id": 4,
-	"next_comment_id": 7,
+	"next_comment_id": 10,
 	"next_follow_id": 2,
 	"avatar": "generate",
 	"user_name": "Balancer73",
@@ -60,6 +60,24 @@
 			"body": "@Brom: Скорее всего, мнение человека формировалось по IT-шникам конца 90-х и начала 00-х годов. Тогда в IT был высокий входной барьер, что автоматически фильтровало людей косных, упёртых, негибких. Таких, какие чаще подпадают под влияние идеологического воздействия.\n\nНо в последние лет 10+ IT стали намного доступнее, что сильно повысило количество неадекватов.\n\nА с приходом p2p ситуация ещё более ухудшилась -- сюда стали приходить те, кому сложно общаться в персонифицированном Интернете. Анонимность и безнаказанность порождают часто настоящих химер :)\n",
 			"post_uri": "156HySyXH37jFXXqKCwVq8HqsrZLZzy8Qx_1475384108",
 			"date_added": 1475474558
+		},
+		{
+			"comment_id": 7,
+			"body": "Use triple backslashes to define code blocks:\n```conf\ncommand=nghttpx -s -D --conf=/root/nghttp2-1.4.0/nghttpx.conf /root/certs/www_56789u_com.key /root/certs/www_56789u_com.crt\nautorestart=true\nuser=root\n```",
+			"post_uri": "16pKJGFNST85KZyd4DQER6igjAW2FehwTA_1475564677",
+			"date_added": 1475575289
+		},
+		{
+			"comment_id": 8,
+			"body": "ZeroTalk is almost Reddit :)",
+			"post_uri": "1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_1475537144",
+			"date_added": 1475575428
+		},
+		{
+			"comment_id": 9,
+			"body": "@rushka life feed: Pleace, use links in markdown format: [Zero.Talk](/Talk.ZeroNetwork.bit/) and with relative path. Not all used 127.0.0.1.",
+			"post_uri": "1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_1475537144",
+			"date_added": 1475578676
 		}
 	],
 	"follow": [
@@ -72,5 +90,7 @@
 		}
 	],
 	"flags": {},
-	"comment_like": {}
+	"comment_like": {
+		"156HySyXH37jFXXqKCwVq8HqsrZLZzy8Qx_5": 1475578642
+	}
 }

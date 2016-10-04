@@ -1,11 +1,11 @@
 {
-	"next_post_id": 13,
-	"next_comment_id": 32,
+	"next_post_id": 14,
+	"next_comment_id": 33,
 	"next_follow_id": 16,
 	"avatar": "png",
 	"user_name": "HelloArch",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"intro": "TOX ID:\n",
+	"intro": "TOX  Groupbot: 56A1ADE4B65B86BCD51CC73E2CD4E542179F47959FE3E0E21B4B0ACDADE51855D34D34D37CB5\n",
 	"post": [
 		{
 			"post_id": 1475295176,
@@ -31,6 +31,11 @@
 			"post_id": 1475541570,
 			"body": "ZeroNet Rev1534\n\nZeroBlog Changelog, October 4, 2016\nhttp://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:95\n27 minutes ago \nRev1534\n\nPush updates to newer clients first\nFix diff sending bug (been chasing it for a long time)\nBad file reset improvements\nFix random publish errors when json file contained [] characters\nRewritten uPnP port opener + close port on exit (Thanks to sirMackk!)\nCurrently working on optional file enhancements:\n\nGlobal optional file cache limit: if the defined the limit is reached the most seeded files will be automatically deleted\nSign up to auto help distribute specific user's files\nWeb interface to follow per-file uploaded amount/set global limit/pin files/etc.\nZeroFrame API command to query peer number for specific files\nThe demo for this features probably will be image upload for ZeroMe\nIt could also allow future big file support\nEta: 2-3wk",
 			"date_added": 1475541558
+		},
+		{
+			"post_id": 1475576089,
+			"body": "\nTOX 的 Groupbot: 56A1ADE4B65B86BCD51CC73E2CD4E542179F47959FE3E0E21B4B0ACDADE51855D34D34D37CB5",
+			"date_added": 1475576076
 		}
 	],
 	"post_like": {
@@ -200,6 +205,12 @@
 			"body": "@cnwfjsw: 收到",
 			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1475508738",
 			"date_added": 1475541753
+		},
+		{
+			"comment_id": 32,
+			"body": "一点都不好笑，再罚一段",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1475565804",
+			"date_added": 1475576279
 		}
 	],
 	"follow": [
