@@ -4,14 +4,18 @@
  "cert_sign": "G77G4HBQwH9ZakWadN6WTxHVBKns1CBs6NlMHas1CsG0GZo2XW8lWlK0a1aN8TT35Fuub65I9ExDTxbr4iS7Edw=",
  "cert_user_id": "sickbird@zeroid.bit",
  "files": {
+  "avatar.jpg": {
+   "sha512": "baca7915b6f4223a96bcc9a7fea336905d75d42e64e233c028e5dcbc2cd1a3ed",
+   "size": 1654
+  },
   "data.json": {
-   "sha512": "b341c6e8a0207ace412cefe95e65cdbd192e673c65c2f32fcb3550ed1989f420",
-   "size": 8847
+   "sha512": "5278014e7a8910b377aeba9feb3f79e79bb4935bdb058f07202a4bbe47fb3edd",
+   "size": 9025
   }
  },
  "inner_path": "data/users/18oQPES15W27Ks1GBZRKx9zf9wFmXLraEW/content.json",
- "modified": 1475551680.15309,
+ "modified": 1475556461.771958,
  "signs": {
-  "18oQPES15W27Ks1GBZRKx9zf9wFmXLraEW": "G5CYWIi7HcqXnIsV6a4MDa4dPCF2MzoGlLAFpR2bVmCsDL6waJNDRAT3TPT2gxZdcEoxoJdBCWAqfaxiqAByIO4="
+  "18oQPES15W27Ks1GBZRKx9zf9wFmXLraEW": "HJ/QyZDnouZt/1yZx3KKNGgJgaR3yx2TM9vY6LwGcORaT1LU6q6zgWO6dXdPupaArLysHCFcgYii4sfgG509HGE="
  }
 }
