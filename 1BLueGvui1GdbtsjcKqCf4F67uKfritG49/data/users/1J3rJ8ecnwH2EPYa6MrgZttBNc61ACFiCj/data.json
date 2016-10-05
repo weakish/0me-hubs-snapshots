@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 38,
+	"next_comment_id": 39,
 	"user_name": "Nofish",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -226,6 +226,12 @@
 			"body": "You can also change the name/sign/publish it using the sidebar (drag topright 0 button to left)",
 			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475392990",
 			"date_added": 1475398587
+		},
+		{
+			"comment_id": 38,
+			"body": "@Bashrc: You can sign/publish files from using `zeronet.py siteSign --help`, the database is using sqlite which is pretty easy to query from any language, so I think it would be easy to create a command line client for any site.",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475657594",
+			"date_added": 1475690346
 		}
 	]
 }
