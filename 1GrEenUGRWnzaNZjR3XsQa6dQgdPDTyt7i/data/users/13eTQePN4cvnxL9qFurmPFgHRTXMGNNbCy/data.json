@@ -215,11 +215,13 @@
 	],
 	"settings": {
 		"reverse_comment_order": true,
-		"mute_ugly": false,
+		"mute_ugly": true,
 		"mute_spam": false,
 		"mute_blocked": false
 	},
 	"blocked": [],
-	"flags": {},
+	"flags": {
+		"post-18oQPES15W27Ks1GBZRKx9zf9wFmXLraEW_1475630739": 3
+	},
 	"comment_like": {}
 }
