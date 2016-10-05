@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 9,
+	"next_comment_id": 10,
 	"user_name": "ZAlex",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -13,7 +13,8 @@
 		"1NHR4Gdv1dVLZS5HRwY6aJWfngk9jCLF87_1475483837": 1475488567,
 		"1NHR4Gdv1dVLZS5HRwY6aJWfngk9jCLF87_1475353342": 1475488634,
 		"1Pg3bGXNVV9uB2HnirHFU2vaJLvmK77Dox_1475571335": 1475576741,
-		"1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_1475579081": 1475584680
+		"1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_1475579081": 1475584680,
+		"1NHR4Gdv1dVLZS5HRwY6aJWfngk9jCLF87_1475674638": 1475674930
 	},
 	"comment": [
 		{
@@ -57,6 +58,12 @@
 			"body": "У меня [brom.bit](http://127.0.0.1:43110/brom.bit) уже работает.",
 			"post_uri": "1NHR4Gdv1dVLZS5HRwY6aJWfngk9jCLF87_1475483837",
 			"date_added": 1475671824
+		},
+		{
+			"comment_id": 9,
+			"body": "В [официальном FAQ](http://zeronet.readthedocs.org/en/latest/faq) это расписано (пункт \"How can I register a .bit domain?\")",
+			"post_uri": "1NHR4Gdv1dVLZS5HRwY6aJWfngk9jCLF87_1475674638",
+			"date_added": 1475674857
 		}
 	],
 	"flags": {

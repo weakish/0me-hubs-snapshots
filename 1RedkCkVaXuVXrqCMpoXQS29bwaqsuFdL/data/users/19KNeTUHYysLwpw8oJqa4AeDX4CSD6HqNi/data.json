@@ -1,0 +1,34 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"settings": {
+		"comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"user_name": "Onan",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1475673109,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1475673259,
+			"body": "http://127.0.0.1:43110/1Bvzxo3AHWituX5sX6su5VyKJHY26kS5YT/",
+			"date_added": 1475673257
+		}
+	],
+	"post_like": {
+		"19KNeTUHYysLwpw8oJqa4AeDX4CSD6HqNi_1475673259": 1475673548
+	},
+	"comment": [],
+	"follow": [],
+	"flags": {},
+	"blocked": []
+}
