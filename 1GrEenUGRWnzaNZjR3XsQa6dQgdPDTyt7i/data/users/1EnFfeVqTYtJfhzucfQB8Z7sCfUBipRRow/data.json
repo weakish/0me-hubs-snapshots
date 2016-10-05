@@ -1,6 +1,6 @@
 {
-	"next_post_id": 3,
-	"next_comment_id": 1,
+	"next_post_id": 4,
+	"next_comment_id": 2,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Militaryriotlab",
@@ -16,9 +16,21 @@
 			"post_id": 1475690188,
 			"body": "Hello World! I am looking for a girlfriend",
 			"date_added": 1475690186
+		},
+		{
+			"post_id": 1475692694,
+			"body": "DO NOT use Virtware, terrible customer service and now they just block the wholde node for no reason.\nI bought Megavz, cheap vps for couple dollars a year\nSeveral months ago, Virtware bought the Megavz,nanovz's company.\nThen, VPS started to get sucks, disk I/O no more than 1MB/s, I can't even run \"apt-get update\" and network speed is terrible, I ran speedtest-cli multiple times, the results never higher than 5mbps, even lowendspirt vps with 2.xx kernel and 64MB ram is way better than it.\nThen, I opened a ticket to complain the unbeatable network and Ryan claims that speedtest is not a reliable network thoughtout test tool , I waited for half minute to connect SSH and can't even download update from repositories and you denied it ?\nThere is no SLA of uptime\nFor these months, the server downed for minutes to 6 hours every single day, every time I opened a ticket complains about the downtime,before I got reply, the system up agains in hours right after I submitted it , strange? doesn't it?\nNow, I abandoned the server for months and I tried to login today, the portal said the node is blocked?! What the hell?\n\nSince Virtware bought Megavz's company, they never create a homepage\n\nSo NEVER buy Virtware",
+			"date_added": 1475692691
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "damn it , major typo: Virtwire not Virtware, blame the auto correct",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1475692694",
+			"date_added": 1475693016
+		}
+	],
 	"follow": []
 }
