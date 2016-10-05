@@ -1,0 +1,37 @@
+{
+	"next_post_id": 4,
+	"next_comment_id": 1,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Makurakotatsu",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1475667555,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1475667602,
+			"body": "Well, where are the lolis they promised me ? :'(",
+			"date_added": 1475667600
+		},
+		{
+			"post_id": 1475667714,
+			"body": "https://www.youtube.com/watch?v=ahPa0TioYsg\n\nSome music to celebrate my 1st day on ZeroNet",
+			"date_added": 1475667711
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1NeDefYcar3BBHk2PdfBvgu7spE9XKRmPd",
+			"user_name": "Makurakotatsu",
+			"date_added": 1475667609
+		}
+	]
+}
