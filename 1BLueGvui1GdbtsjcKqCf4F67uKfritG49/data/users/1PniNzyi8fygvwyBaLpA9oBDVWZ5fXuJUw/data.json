@@ -1,7 +1,7 @@
 {
-	"next_post_id": 11,
+	"next_post_id": 13,
 	"next_comment_id": 9,
-	"next_follow_id": 7,
+	"next_follow_id": 8,
 	"avatar": "jpg",
 	"user_name": "Balancer73",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -56,6 +56,16 @@
 			"post_id": 1475474876,
 			"body": "When I wrote to #ZeroMe, then I can see my messages in #ZeroMePlus. But if I write in ZeroMePlus, then I can NOT read my messages in ZeroMe...",
 			"date_added": 1475474866
+		},
+		{
+			"post_id": 1475657594,
+			"body": "Somebody knows can I send the message to ZeroTalk through POST/JSON by the curl request? ZeroNet API is unclear to what address to send them.",
+			"date_added": 1475657583
+		},
+		{
+			"post_id": 1475658002,
+			"body": "Our China friends often use the diode character: 体  These are, probably, radio fans :)",
+			"date_added": 1475657990
 		}
 	],
 	"post_like": {
@@ -154,6 +164,13 @@
 			"auth_address": "19JpBg7H6FxuaNYQmW2BDAAo1Yaw5pdY3K",
 			"user_name": "Bal",
 			"date_added": 1475396291
+		},
+		{
+			"follow_id": 7,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1475657651
 		}
 	],
 	"settings": {
