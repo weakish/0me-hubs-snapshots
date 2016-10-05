@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 2,
+	"next_comment_id": 4,
 	"user_name": "Emeraude",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {
@@ -12,6 +12,20 @@
 			"body": "I deleted mine, so I agree with you.",
 			"post_uri": "1DMBWEfQdEaRtsWEwZLY98b9t1ZcoG2ECM_1472248656",
 			"date_added": 1472209868
+		},
+		{
+			"comment_id": 2,
+			"body": "There are currently 25759 ZeroID registered, but there is no way to precisely know how many users have been running Zeronet.",
+			"post_uri": "1KAfCgw4ECkqUccYQZDoPuTMhA2YPMaZwG_1475662794",
+			"date_added": 1475664424
+		},
+		{
+			"comment_id": 3,
+			"body": "@Voruman: There are two json files listing the registered users. They can be found in the `ZeroNet/data/1iD5ZQJMNXu43w1qLB8sfdHVKppVMduGz/data` diretory",
+			"post_uri": "1KAfCgw4ECkqUccYQZDoPuTMhA2YPMaZwG_1475662794",
+			"date_added": 1475664661
 		}
-	]
+	],
+	"flags": {},
+	"comment_like": {}
 }
