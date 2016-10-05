@@ -1,5 +1,5 @@
 {
-	"next_post_id": 22,
+	"next_post_id": 25,
 	"next_comment_id": 26,
 	"next_follow_id": 20,
 	"avatar": "jpg",
@@ -101,6 +101,21 @@
 			"post_id": 1475630739,
 			"body": "no other native american except me, fuck you\nyou looking in all colours",
 			"date_added": 1475630718
+		},
+		{
+			"post_id": 1475644147,
+			"body": "Mes Ami je Ferait des Labyrinthe Graph alors que'ce que c'est ::\nc'est un labyrinthe avec des laison de A à B je initalise par 0 vers les nombre ou texte disponible de B à partire du nombre A un on va de A à B et ainsi de suite sans passé en arrière et recuperer les $ une fois tout prise vous pouvez allez vers la fin.",
+			"date_added": 1475644125
+		},
+		{
+			"post_id": 1475644457,
+			"body": "voici le premier labyrinthe commencer à 0 vers 3 \"Diamond\" :::\n0 1\n1 2$\n2 3\n0 4$\n4 1",
+			"date_added": 1475644434
+		},
+		{
+			"post_id": 1475645413,
+			"body": "mon 2e labyrinthe de 0 vers 1 en recuperen les $ :::\n0 1\n0 2\n2 1\n3 1\n3 4$\n3 5\n3 6\n3 7\n5 8\n6 9\n7 5$\n1 3\n8 10\n8 9$\n1 10\n10 3\n9 8\n4 10\n5 11\n11 1\n11 9\n9 12\n12 11\n12 13$\n12 3",
+			"date_added": 1475645389
 		}
 	],
 	"post_like": {
