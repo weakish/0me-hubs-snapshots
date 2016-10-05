@@ -1,5 +1,5 @@
 {
-	"next_post_id": 5,
+	"next_post_id": 6,
 	"next_comment_id": 1,
 	"next_follow_id": 1,
 	"avatar": "generate",
@@ -26,6 +26,11 @@
 			"post_id": 1475651190,
 			"body": "##youtube-dl添加代理实例\n```python\ncd c:\\lolo\nyoutube-dl.exe --proxy localhost:1080 -f bestvideo+bestaudio \"URL\"\n```\n`c:\\lolo`目录内放置`ffmpeg.exe`\n##you-get实例\n```python\nyou-get -i 'https://www.youtube.com/watch?v=jNQXAC9IVRw'\nyou-get --itag=18 'https://www.youtube.com/watch?v=jNQXAC9IVRw'\nyou-get -x 127.0.0.1:8087 'https://www.youtube.com/watch?v=jNQXAC9IVRw'\nyou-get -i 'http://www.panda.tv/s6'\n```",
 			"date_added": 1475651186
+		},
+		{
+			"post_id": 1475670823,
+			"body": "chnp2p\nhttp://127.0.0.1:43110/1LMJTsx6C7XLK2dMVJHpZpt3JTErAQ1e1a/",
+			"date_added": 1475670818
 		}
 	],
 	"post_like": {},
