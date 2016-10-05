@@ -1,5 +1,5 @@
 {
-	"next_post_id": 4,
+	"next_post_id": 5,
 	"next_comment_id": 3,
 	"next_follow_id": 2,
 	"avatar": "jpg",
@@ -8,31 +8,18 @@
 	"intro": "Just do it  by following your heart.",
 	"post": [
 		{
-			"post_id": 1,
-			"date_added": 1475399487,
-			"body": "Hello ZeroMe!"
-		},
-		{
 			"post_id": 1475399629,
 			"body": "萌新慕名而来。",
 			"date_added": 1475399627
+		},
+		{
+			"post_id": 1475652013,
+			"body": "喜欢开车的朋友，来吧：http://127.0.0.1:43110/shetube.bit",
+			"date_added": 1475652009
 		}
 	],
 	"post_like": {},
-	"comment": [
-		{
-			"comment_id": 1,
-			"body": "就是这样，聚集一群人，开车：）现在还搞不好聊天室。",
-			"post_uri": "17UbmvpS9j5p4YUVTERiXWJ5fwwEBAGbhR_1475576765",
-			"date_added": 1475586950
-		},
-		{
-			"comment_id": 2,
-			"body": "聊天室里发言，提示“Content sign failed: invalid private key.”谁知道怎么解决？",
-			"post_uri": "17UbmvpS9j5p4YUVTERiXWJ5fwwEBAGbhR_1475576765",
-			"date_added": 1475639969
-		}
-	],
+	"comment": [],
 	"follow": [
 		{
 			"follow_id": 1,
