@@ -1,6 +1,6 @@
 {
-	"next_post_id": 22,
-	"next_comment_id": 36,
+	"next_post_id": 23,
+	"next_comment_id": 37,
 	"next_follow_id": 50,
 	"avatar": "jpg",
 	"user_name": "Zerro",
@@ -86,6 +86,11 @@
 			"post_id": 1475675740,
 			"body": "Открыл для себя  [DPoS](http://127.0.0.1:43110/193ppYcRRw6L5D5xAqRSq1UR2jqs4htK9T/?Post:49:DPoS).\n\nОсталось ещё в Stellar Consensus Protocol разобраться, для полного счастья. ",
 			"date_added": 1475675719
+		},
+		{
+			"post_id": 1475694736,
+			"body": "Раз уж я представил [блог](http://127.0.0.1:43110/193ppYcRRw6L5D5xAqRSq1UR2jqs4htK9T), но так и не допилил к нему CSS, допиливать и тестировать буду на клоне. Содержание постов же подредактирую, и отныне это будет мой бложик.",
+			"date_added": 1475694714
 		}
 	],
 	"post_like": {
@@ -305,6 +310,12 @@
 			"body": "Да не, спасибо, у меня нет проблем с тем, где достать крипты. Есть же shapeshift.io + регистрации на биржах. Была бы любая крипта, обменять не проблема.",
 			"post_uri": "17eKk6mdR7bth2Fi8f74P5JV8AfHsERT4F_1475675740",
 			"date_added": 1475677365
+		},
+		{
+			"comment_id": 36,
+			"body": "@Sickbird: https://yandex.com",
+			"post_uri": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_1475661545",
+			"date_added": 1475694151
 		}
 	],
 	"follow": [
