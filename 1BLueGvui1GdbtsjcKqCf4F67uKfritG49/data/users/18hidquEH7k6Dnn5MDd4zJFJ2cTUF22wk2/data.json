@@ -1,7 +1,7 @@
 {
-	"next_post_id": 9,
+	"next_post_id": 10,
 	"next_comment_id": 11,
-	"next_follow_id": 18,
+	"next_follow_id": 21,
 	"avatar": "jpg",
 	"user_name": "Cxgreat2014",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -31,6 +31,11 @@
 			"post_id": 1475741540,
 			"body": "话说zerome是不是该出个点击翻译按钮?\nI wish zerome have a translate button to translate other's msg",
 			"date_added": 1475741532
+		},
+		{
+			"post_id": 1475751518,
+			"body": "为啥在我刷新页面之后就无法在zerome的Followed users选项卡中看到我Followed的users的动态了?又是一个zerome的BUG?",
+			"date_added": 1475751509
 		}
 	],
 	"post_like": {
@@ -213,6 +218,36 @@
 			"auth_address": "19ayk8E29EihqeEqZCXFpanBQm9Z63USEB",
 			"user_name": "Pineapple",
 			"date_added": 1475741377
+		},
+		{
+			"follow_id": 18,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1KAfCgw4ECkqUccYQZDoPuTMhA2YPMaZwG",
+			"user_name": "Voruman",
+			"date_added": 1475751367
+		},
+		{
+			"follow_id": 19,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1KAfCgw4ECkqUccYQZDoPuTMhA2YPMaZwG",
+			"user_name": "Voruman",
+			"date_added": 1475751388
+		},
+		{
+			"follow_id": 20,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1KAfCgw4ECkqUccYQZDoPuTMhA2YPMaZwG",
+			"user_name": "Voruman",
+			"date_added": 1475751564
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }
