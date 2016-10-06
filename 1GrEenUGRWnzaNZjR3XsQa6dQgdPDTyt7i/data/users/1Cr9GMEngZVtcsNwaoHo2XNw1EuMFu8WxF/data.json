@@ -1,7 +1,7 @@
 {
 	"next_post_id": 3,
 	"next_comment_id": 2,
-	"next_follow_id": 1,
+	"next_follow_id": 2,
 	"avatar": "png",
 	"user_name": "N3z",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -27,5 +27,13 @@
 			"date_added": 1475435784
 		}
 	],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "19iqSTEtbgmfZ4DVgHd3rZfMETR3GjkVzp",
+			"user_name": "Nancjo",
+			"date_added": 1475731217
+		}
+	]
 }
