@@ -1,11 +1,11 @@
 {
-	"next_post_id": 8,
-	"next_comment_id": 6,
-	"next_follow_id": 17,
+	"next_post_id": 9,
+	"next_comment_id": 11,
+	"next_follow_id": 18,
 	"avatar": "jpg",
 	"user_name": "Cxgreat2014",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
-	"intro": "cxg2014.bit",
+	"intro": "My Blog: cxg2014.bit\nLanguage:\nChinese(日常)\nEnglish(basic)\nOtherLanguage(Google)",
 	"post": [
 		{
 			"post_id": 1472606750,
@@ -26,6 +26,11 @@
 			"post_id": 1475636716,
 			"body": "谁有好听的歌曲推荐一下?",
 			"date_added": 1475636709
+		},
+		{
+			"post_id": 1475741540,
+			"body": "话说zerome是不是该出个点击翻译按钮?\nI wish zerome have a translate button to translate other's msg",
+			"date_added": 1475741532
 		}
 	],
 	"post_like": {
@@ -63,6 +68,30 @@
 			"body": "@P2P: +1",
 			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1473953286",
 			"date_added": 1474418509
+		},
+		{
+			"comment_id": 6,
+			"body": "@Voruman: It's not too diffcult, um...,use google translate like that:<a href=\"https://translate.google.com/?source=gtx_c#auto/zh-CN/(you want translate msg)\"><button>translate</button></a>",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1475741540",
+			"date_added": 1475741769
+		},
+		{
+			"comment_id": 7,
+			"body": "@Voruman: I'm sorry about that...I can't understand 'Clearnet linkage'",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1475741540",
+			"date_added": 1475742291
+		},
+		{
+			"comment_id": 9,
+			"body": "@Voruman: I see...but zeronet is a decentralized websites..I think it isn't a really deepweb, ",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1475741540",
+			"date_added": 1475743050
+		},
+		{
+			"comment_id": 10,
+			"body": "@Voruman: 是的,但不可否认的是zeronet并不是一个真正意义上能够隐藏自己身份并进行交流的网络,要让zeronet做到这一点就得配合tor或者其他工具来代理访问.这也从侧面说明了zeronet只是一个去中心化的网络而非deepweb",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1475741540",
+			"date_added": 1475743545
 		}
 	],
 	"follow": [
@@ -177,6 +206,13 @@
 			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
 			"user_name": "Nofish",
 			"date_added": 1472693805
+		},
+		{
+			"follow_id": 17,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "19ayk8E29EihqeEqZCXFpanBQm9Z63USEB",
+			"user_name": "Pineapple",
+			"date_added": 1475741377
 		}
 	]
 }
