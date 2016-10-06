@@ -1,6 +1,6 @@
 {
-	"next_post_id": 50,
-	"next_comment_id": 8,
+	"next_post_id": 54,
+	"next_comment_id": 12,
 	"next_follow_id": 27,
 	"avatar": "jpg",
 	"user_name": "KosherX - PT-🇧🇷, EN-🇺🇸 and very little of JP-🇯🇵.",
@@ -241,6 +241,26 @@
 			"post_id": 1475704569,
 			"body": "Video de palestra de Hans-Herman Hoppe, legendado em #PTBR #BR #Brazil #Brasil #BrazilFam #Ancap #Hoppe #Rothbardian #Anarchocapitalism #Anarchocapitalist \nhttps://vk.com/video341932383_456239025",
 			"date_added": 1475704520
+		},
+		{
+			"post_id": 1475751848,
+			"body": "If in the smallest battles we surrender to the state,\nwe enter in a darkness whence we never shall escape. #ancap #rothbardian #Hoppe #anarchocapitalism",
+			"date_added": 1475751798
+		},
+		{
+			"post_id": 1475752919,
+			"body": "This is important, might as well repost it here since ZeroMe can't do that like other social media. From Firebox:\n\nHow to block a person on ZeroMe\n\n    Find the public key of the person you want to block.\n    Find the folder named after that public key in the hub folder.\n    Go into that person's folder and look at data.json. Make sure that person is the right person you want to block.\n    Delete all his or her files, including content.json. Then immediately make a content.json folder at the same place to prevent that file from showing up again.\n    You cannot see that person's posts and comments anymore.\n\n",
+			"date_added": 1475752868
+		},
+		{
+			"post_id": 1475753274,
+			"body": "French socialist scum is polluting ZeroNet now, it seems. They must be physically removed. #Ancap #rothbardian #Hoppe #physicalremoval #leftwing #communism #communist #socialism #socialist ",
+			"date_added": 1475753222
+		},
+		{
+			"post_id": 1475753813,
+			"body": "Impressive how Austrian economists are right about everything. They predicted that would happen decades ago. http://www.zerohedge.com/news/2016-10-06/bank-japan-throws-towel #Ancap #Austrians #Hoppe #Rothbardian #Rothbardians #Anarchocapitalism #Anarchocapitalist ",
+			"date_added": 1475753760
 		}
 	],
 	"post_like": {
@@ -291,6 +311,30 @@
 			"body": "I don't know, it's working here. Try using a VPN, maybe it's blocked there in the country where you live.",
 			"post_uri": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1475679317",
 			"date_added": 1475682606
+		},
+		{
+			"comment_id": 8,
+			"body": "@Sick Bird: me too, but I can't upload the video in 0, so...",
+			"post_uri": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1475704569",
+			"date_added": 1475752528
+		},
+		{
+			"comment_id": 9,
+			"body": "Agreed. The LP was not about libertarianism. Was only about left-winged politics, since Gary started his campaign. He may well be the worst candidate that the LP supported.",
+			"post_uri": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1475698214",
+			"date_added": 1475752609
+		},
+		{
+			"comment_id": 10,
+			"body": "@ZAlex: but ZeroMe Plus only blocks people in ZeroMe Plus, not other places in ZeroNet, I presume.",
+			"post_uri": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1475752919",
+			"date_added": 1475753269
+		},
+		{
+			"comment_id": 11,
+			"body": "@Helloarch: where do you live? I'm from a socialist leftwing  playground for corrupt politicians called Brazil.",
+			"post_uri": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1475679317",
+			"date_added": 1475753435
 		}
 	],
 	"follow": [
@@ -484,7 +528,9 @@
 		"mute_blocked": false
 	},
 	"blocked": [
-		"14fdwxPt83nTw5vFaXTCR7KQkAxkXuGbAR"
+		"14fdwxPt83nTw5vFaXTCR7KQkAxkXuGbAR",
+		"1EZG8eDkCFvNkYxpHmr2WbGWcSxAsRfqTT",
+		"18oQPES15W27Ks1GBZRKx9zf9wFmXLraEW"
 	],
 	"flags": {},
 	"comment_like": {}
