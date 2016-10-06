@@ -1,6 +1,6 @@
 {
 	"next_post_id": 5,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 6,
 	"avatar": "jpg",
 	"user_name": "Wrewolf",
@@ -29,7 +29,14 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Яндекс Деньги NFC оплата с начала года работает. Выручает если забыть деньги дома)",
+			"post_uri": "18iELxgQf2hpjFuBofjEJyuvVazJt2ekSp_1475674913",
+			"date_added": 1475745057
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 1,

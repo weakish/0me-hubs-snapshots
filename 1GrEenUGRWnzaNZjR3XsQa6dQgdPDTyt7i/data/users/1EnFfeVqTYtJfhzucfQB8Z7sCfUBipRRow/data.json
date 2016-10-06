@@ -1,11 +1,11 @@
 {
 	"next_post_id": 5,
 	"next_comment_id": 3,
-	"next_follow_id": 1,
+	"next_follow_id": 2,
 	"avatar": "generate",
 	"user_name": "Militaryriotlab",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"intro": "Human? Brains? RRRUH",
+	"intro": "Human? Brains? RRRUH\n\nFirst lang: 中文（繁簡/廣東話/普通話） Chinese \nSecond lang: English ( Simple English)\nLearning: Japanese\n\nFrom: Zombie land",
 	"post": [
 		{
 			"post_id": 1,
@@ -43,5 +43,13 @@
 			"date_added": 1475723514
 		}
 	],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1KAfCgw4ECkqUccYQZDoPuTMhA2YPMaZwG",
+			"user_name": "Voruman",
+			"date_added": 1475747655
+		}
+	]
 }
