@@ -1,0 +1,65 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 1,
+	"next_follow_id": 7,
+	"avatar": "png",
+	"user_name": "Zero",
+	"hub": "185yXNL48LTZyKfNo6WgyKshtMgcV3mecL",
+	"intro": "Random ZeroNet user",
+	"post": [],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "185yXNL48LTZyKfNo6WgyKshtMgcV3mecL",
+			"auth_address": "1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh",
+			"user_name": "Zero",
+			"date_added": 1475778635
+		},
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh",
+			"user_name": "Zero",
+			"date_added": 1475778639
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh",
+			"user_name": "Zero",
+			"date_added": 1475778675
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh",
+			"user_name": "Zero",
+			"date_added": 1475778728
+		},
+		{
+			"follow_id": 5,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh",
+			"user_name": "Zero",
+			"date_added": 1475778773
+		},
+		{
+			"follow_id": 6,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh",
+			"user_name": "Zero",
+			"date_added": 1475778796
+		}
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
+}
