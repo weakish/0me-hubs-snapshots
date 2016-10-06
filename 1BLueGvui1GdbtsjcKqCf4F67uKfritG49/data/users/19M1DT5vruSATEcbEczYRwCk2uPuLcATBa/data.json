@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 40,
+	"next_comment_id": 41,
 	"user_name": "Talnicrom",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -253,6 +253,12 @@
 			"body": "@KosherX - PT-🇧🇷, EN-🇺🇸 and very little of JP-🇯🇵.: It does a little bit less.  It only hides posts from blocked users.  Since ZeroNet already allows site owners to ban users from adding content, it would be very easy to write a plugin that imports users from a global ban list maintained by the computer owner whenever the site-specific ban lists are queried.  Unfortunately, this is not a high priority for me. If somebody else, like @Firebox writes one, I would be happy to look at it and endorse it for use if it looks legit.",
 			"post_uri": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1475752919",
 			"date_added": 1475761073
+		},
+		{
+			"comment_id": 40,
+			"body": "@KosherX - PT-🇧🇷, EN-🇺🇸 and very little of JP-🇯🇵.: Yes, but you may want to go further and refuse to seed any content from certain users.  Right now, when you block a user on ZeroMe+, the UI hides their posts but your ZeroNet process still downloads their updates and serves their content to peers.  However, with a plugin you could configure ZeroNet so that it ignores all content associated with certain user addresses.  Of course, there is nothing you can do by tweaking your own ZeroNet that would prevent other users from getting each others' content.  This property is part of the design spec.",
+			"post_uri": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1475752919",
+			"date_added": 1475767079
 		}
 	],
 	"settings": {

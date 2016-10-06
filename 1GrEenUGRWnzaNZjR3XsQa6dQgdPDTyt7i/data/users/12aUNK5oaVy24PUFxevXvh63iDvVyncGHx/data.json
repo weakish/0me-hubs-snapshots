@@ -1,6 +1,6 @@
 {
 	"next_post_id": 7,
-	"next_comment_id": 19,
+	"next_comment_id": 20,
 	"next_follow_id": 14,
 	"avatar": "jpg",
 	"user_name": "Durand",
@@ -143,6 +143,12 @@
 			"body": "I'm pretty sure tor blocks most bittorrent traffic..",
 			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1474649220",
 			"date_added": 1474651355
+		},
+		{
+			"comment_id": 19,
+			"body": "Private content should be possible with encryption.. But it's a little complicated to develop I guess.",
+			"post_uri": "19iqSTEtbgmfZ4DVgHd3rZfMETR3GjkVzp_1475727126",
+			"date_added": 1475767836
 		}
 	],
 	"follow": [
@@ -230,5 +236,14 @@
 			"user_name": "Firebox",
 			"date_added": 1474651390
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": true,
+		"mute_ugly": true,
+		"mute_spam": true,
+		"mute_blocked": true
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }
