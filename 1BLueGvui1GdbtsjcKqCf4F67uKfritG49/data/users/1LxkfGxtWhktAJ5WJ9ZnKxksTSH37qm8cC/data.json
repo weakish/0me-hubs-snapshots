@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 5,
+	"next_comment_id": 7,
 	"user_name": "Firebox",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -29,6 +29,18 @@
 			"body": "It seems that you are using the original `ui.js`. To make the UI satisfy your need, you need to modify the blob content type and the `onfinish` function. More specifically, you just need to modify `events.otherParams = {\"blobType\": \"application/pdf\"};` and the `showPlayer` function. The `url` parameter is the blob url.",
 			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_1474621960",
 			"date_added": 1474688085
+		},
+		{
+			"comment_id": 5,
+			"body": "IFrame Sandbox is a pretty new HTML5 feature, and different browser implements it differently. Sometimes there are even bugs on handling file downloading.",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1475718828",
+			"date_added": 1475719249
+		},
+		{
+			"comment_id": 6,
+			"body": "Could you provide more details?",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1475718828",
+			"date_added": 1475719257
 		}
 	]
 }

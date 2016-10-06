@@ -1,6 +1,6 @@
 {
 	"next_post_id": 53,
-	"next_comment_id": 58,
+	"next_comment_id": 60,
 	"next_follow_id": 19,
 	"avatar": "jpg",
 	"user_name": "meidan",
@@ -614,6 +614,18 @@
 			"body": "@Sick Bird: :)",
 			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1475623911",
 			"date_added": 1475716131
+		},
+		{
+			"comment_id": 58,
+			"body": "@Firebox: Great. ... Well at this point I have no idea what I'm doing. I'm trying to display a canvas element and Chrome tools just spits out the above instead of displaying the element. Here's the project: http://127.0.0.1:43110/1AuiJEcbkJypVTz6H8jQunGDZVhSh7XYZM/",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1475718828",
+			"date_added": 1475719726
+		},
+		{
+			"comment_id": 59,
+			"body": "Ok. Well, I now know enough to know I don't know this. *facepalm*. Apparently security settings won't allow two iframes coming from the same port or something like that. ",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1475718828",
+			"date_added": 1475720590
 		}
 	],
 	"follow": [
