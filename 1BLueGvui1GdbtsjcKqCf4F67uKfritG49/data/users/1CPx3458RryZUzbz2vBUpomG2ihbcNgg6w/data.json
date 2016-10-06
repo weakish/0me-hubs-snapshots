@@ -1,7 +1,7 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 1,
-	"next_follow_id": 1,
+	"next_comment_id": 4,
+	"next_follow_id": 2,
 	"avatar": "generate",
 	"user_name": "Darkneuron",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -19,6 +19,33 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
-	"follow": []
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "can recommend https://bitcoin.de/\nwhole site is based on bank transfer model - many options to filter sellers / buyers - good reputation system",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1475770304",
+			"date_added": 1475770868
+		},
+		{
+			"comment_id": 2,
+			"body": "another site which worked flawless: https://anycoindirect.eu/",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1475770304",
+			"date_added": 1475770996
+		},
+		{
+			"comment_id": 3,
+			"body": "Awful German kid :( a shame on him... Keep in mind: this is a minority of people. peace & love to all of us. Lets please stop talking about nations and borders - lets focus on ending the suffering we experience on so many levels. Dream of forgiving, loving and helping each other!",
+			"post_uri": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1475765899",
+			"date_added": 1475771296
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx",
+			"user_name": "ks",
+			"date_added": 1475771077
+		}
+	]
 }
