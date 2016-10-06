@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 39,
+	"next_comment_id": 40,
 	"user_name": "Talnicrom",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -247,6 +247,12 @@
 			"body": "@0ivy: It is possible to delete posts and comments individually.  You can also ask hub owners to raise your limit.  Unless you act like a dick all the time, they would probably give you more space.  In your case, you are on Blue Hub, so you would need to ask @nofish for space if you run out of room to post.  (Your comments on a given post are stored on the same hub as that post, so who you talk with depends on where you run out of room.) ",
 			"post_uri": "1Q3wv52h6RSubdYu5aoxZzfkFHmEx9wtfM_1475443656",
 			"date_added": 1475453103
+		},
+		{
+			"comment_id": 39,
+			"body": "@KosherX - PT-🇧🇷, EN-🇺🇸 and very little of JP-🇯🇵.: It does a little bit less.  It only hides posts from blocked users.  Since ZeroNet already allows site owners to ban users from adding content, it would be very easy to write a plugin that imports users from a global ban list maintained by the computer owner whenever the site-specific ban lists are queried.  Unfortunately, this is not a high priority for me. If somebody else, like @Firebox writes one, I would be happy to look at it and endorse it for use if it looks legit.",
+			"post_uri": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1475752919",
+			"date_added": 1475761073
 		}
 	],
 	"settings": {
