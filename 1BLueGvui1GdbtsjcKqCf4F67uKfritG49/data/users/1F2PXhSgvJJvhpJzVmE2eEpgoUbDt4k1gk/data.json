@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 11,
+	"next_comment_id": 12,
 	"user_name": "Userzero",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {
@@ -62,9 +62,19 @@
 		},
 		{
 			"comment_id": 10,
-			"body": "UPnP te lo tendrá que abrir. Sino accede al ruter desde un navegador y vete a NAT -- Virtual Servers Setup - y pones: Server Name: zeronet ,External Port Start: 15441,  \tExternal Port End: 15441,  \tProtocol: TCP,  Internal Port Start : 15441,  Internal Port End: 15441, \tServer IP Address : (la de tu ordenador), WAN Interface: ppp0.1, \t(Pones lo mismo otra vez pero en Protocol: UDP ) Revisa que no tienes ningún cortafuegos software que te bloquea Zeronet @Thekiller66: ",
+			"body": "UPnP te lo tendría que abrir. Sino accede al ruter desde un navegador y vete a NAT -- Virtual Servers Setup - y pones: Server Name: zeronet ,External Port Start: 15441,  \tExternal Port End: 15441,  \tProtocol: TCP,  Internal Port Start : 15441,  Internal Port End: 15441, \tServer IP Address : (la de tu ordenador), WAN Interface: ppp0.1, \t(Pones lo mismo otra vez pero en Protocol: UDP ) Revisa que no tienes ningún cortafuegos software que te bloquea Zeronet @Thekiller66: ",
 			"post_uri": "18EjLHTadBR6ci3XRWyMfsGeWVtXTR8xx_1474499720",
 			"date_added": 1474541378
+		},
+		{
+			"comment_id": 11,
+			"body": "Spam",
+			"post_uri": "1HcK5Hw1rPZeYdgTmqJGrVG2tSyR9Ke2Gt_1475779356",
+			"date_added": 1475788712
 		}
-	]
+	],
+	"flags": {
+		"post-1HcK5Hw1rPZeYdgTmqJGrVG2tSyR9Ke2Gt_1475779356": 1
+	},
+	"comment_like": {}
 }
