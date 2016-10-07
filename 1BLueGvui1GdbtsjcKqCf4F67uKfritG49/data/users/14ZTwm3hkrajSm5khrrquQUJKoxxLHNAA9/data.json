@@ -15,5 +15,16 @@
 	],
 	"post_like": {},
 	"comment": [],
-	"follow": []
+	"follow": [],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {
+		"1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_12": 1475857460
+	}
 }
