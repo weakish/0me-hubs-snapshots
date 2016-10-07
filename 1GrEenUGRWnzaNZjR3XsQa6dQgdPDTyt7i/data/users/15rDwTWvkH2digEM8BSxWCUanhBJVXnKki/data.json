@@ -1,7 +1,7 @@
 {
 	"next_post_id": 9,
 	"next_comment_id": 2,
-	"next_follow_id": 20,
+	"next_follow_id": 22,
 	"avatar": "jpg",
 	"user_name": "Xikujaro",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -190,6 +190,29 @@
 			"auth_address": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib",
 			"user_name": "megfault",
 			"date_added": 1475334208
+		},
+		{
+			"follow_id": 20,
+			"hub": "185yXNL48LTZyKfNo6WgyKshtMgcV3mecL",
+			"auth_address": "1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh",
+			"user_name": "Zero",
+			"date_added": 1475839393
+		},
+		{
+			"follow_id": 21,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1Joo7YytZRnzbQoUYbRVcmMiQ1MF2tUFwH",
+			"user_name": "Susobaco",
+			"date_added": 1475839460
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }
