@@ -1,0 +1,84 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 6,
+	"next_follow_id": 4,
+	"avatar": "generate",
+	"user_name": "Windowsbro",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1475834576,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {
+		"1MsyMVskbFyqwDo3xri3KqMAkni4qbf2bi_1475812385": 1475834621,
+		"1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_1475662630": 1475835977
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Is that a sub reddit?",
+			"post_uri": "1MsyMVskbFyqwDo3xri3KqMAkni4qbf2bi_1475812385",
+			"date_added": 1475834633
+		},
+		{
+			"comment_id": 2,
+			"body": "@Curse: amen",
+			"post_uri": "1MrRShZ9dp1stuYhAyzguqFXv8X4E4AjCn_1475459678",
+			"date_added": 1475834702
+		},
+		{
+			"comment_id": 3,
+			"body": "It's happening!",
+			"post_uri": "1GgXbWMo4NkVQNKbLJFvEephA9rPLp9j2P_1473259197",
+			"date_added": 1475834749
+		},
+		{
+			"comment_id": 4,
+			"body": "Not working for me :(",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1475089895",
+			"date_added": 1475835966
+		},
+		{
+			"comment_id": 5,
+			"body": "nevermind working now",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1475089895",
+			"date_added": 1475837494
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1MsyMVskbFyqwDo3xri3KqMAkni4qbf2bi",
+			"user_name": "Crunch",
+			"date_added": 1475834640
+		},
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1475834823
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1475837171
+		}
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
+}

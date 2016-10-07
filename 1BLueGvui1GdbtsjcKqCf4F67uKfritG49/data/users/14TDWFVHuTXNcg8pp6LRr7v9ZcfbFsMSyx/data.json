@@ -1,6 +1,6 @@
 {
 	"next_post_id": 54,
-	"next_comment_id": 97,
+	"next_comment_id": 98,
 	"next_follow_id": 203,
 	"avatar": "jpg",
 	"user_name": "ks",
@@ -802,6 +802,12 @@
 			"body": "I haven't tried anything yet. I was considering LocalBitcoins, but I want to review all my options.\nThanks for your suggestions, guys.",
 			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1475770304",
 			"date_added": 1475773609
+		},
+		{
+			"comment_id": 97,
+			"body": "@Zerro: it's decentralized in the sense that everybody can run his own instance that can communicate with all other instances, the same way GNU Social does. It's federated, though, not distributed.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1475784449",
+			"date_added": 1475836505
 		}
 	],
 	"follow": [
