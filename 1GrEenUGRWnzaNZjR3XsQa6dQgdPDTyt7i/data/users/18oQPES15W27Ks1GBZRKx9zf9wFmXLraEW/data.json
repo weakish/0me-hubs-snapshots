@@ -1,5 +1,5 @@
 {
-	"next_post_id": 40,
+	"next_post_id": 41,
 	"next_comment_id": 58,
 	"next_follow_id": 23,
 	"avatar": "jpg",
@@ -186,6 +186,11 @@
 			"post_id": 1475794752,
 			"body": "Petit histoire :: HP avez racheté palm pour webos mais inutile à leur yeux histoire devient douloureuse un jour le sud-coréen LG avez racheté WebOS De HP pour Ces Smart TV il animera Enyo.js et qui dit web dit html/js/css pour la télévision est Moonstone et Tablette c'est Onyx.",
 			"date_added": 1475794713
+		},
+		{
+			"post_id": 1475801023,
+			"body": "si vous maintenait un blog pensez a mettre vos image et co dans data c'est en cas de clonage, parce que si vous mettez dans img par exemple et ben en cas de clonage vos image sont aussi cloner en effet il y a un dossier data et data-default qu'en quelqu'un clone un blog data est supprimé et data-default et renomer en data donc vos donnée dans le blog ne reste pas d'ou celui qui a cloner.\nalors openuser :: le dossier media tu devrait le mettre dans data ou alors mettre false le clone dans content.json",
+			"date_added": 1475800983
 		}
 	],
 	"post_like": {
