@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 3,
+	"next_comment_id": 6,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Henur",
@@ -15,7 +15,8 @@
 	],
 	"post_like": {
 		"1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u_1474988792": 1475021673,
-		"1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1475271942": 1475272418
+		"1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1475271942": 1475272418,
+		"1NPPtBk83wWgrf34KZA4SfN9XpMGzd3rtS_1475867756": 1475872508
 	},
 	"comment": [
 		{
@@ -29,6 +30,24 @@
 			"body": "@W1n5t0n: try to put http:// before the link",
 			"post_uri": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u_1474988792",
 			"date_added": 1475269295
+		},
+		{
+			"comment_id": 3,
+			"body": "Com certeza!",
+			"post_uri": "1NPPtBk83wWgrf34KZA4SfN9XpMGzd3rtS_1475867756",
+			"date_added": 1475872521
+		},
+		{
+			"comment_id": 4,
+			"body": "Você já conseguiu criar um site aqui na ZeroNet?",
+			"post_uri": "1NPPtBk83wWgrf34KZA4SfN9XpMGzd3rtS_1475867756",
+			"date_added": 1475872566
+		},
+		{
+			"comment_id": 5,
+			"body": "@Sirenyc: Já li, minha operadora não permite abrir a porta do roteador",
+			"post_uri": "1NPPtBk83wWgrf34KZA4SfN9XpMGzd3rtS_1475867756",
+			"date_added": 1475873406
 		}
 	],
 	"follow": [],
