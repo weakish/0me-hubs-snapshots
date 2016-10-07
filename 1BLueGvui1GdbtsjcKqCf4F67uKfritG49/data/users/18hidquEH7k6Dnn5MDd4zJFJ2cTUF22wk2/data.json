@@ -1,6 +1,6 @@
 {
 	"next_post_id": 10,
-	"next_comment_id": 11,
+	"next_comment_id": 13,
 	"next_follow_id": 21,
 	"avatar": "jpg",
 	"user_name": "Cxgreat2014",
@@ -97,6 +97,18 @@
 			"body": "@Voruman: 是的,但不可否认的是zeronet并不是一个真正意义上能够隐藏自己身份并进行交流的网络,要让zeronet做到这一点就得配合tor或者其他工具来代理访问.这也从侧面说明了zeronet只是一个去中心化的网络而非deepweb",
 			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1475741540",
 			"date_added": 1475743545
+		},
+		{
+			"comment_id": 11,
+			"body": "@weakish: zeronet is base on torrent, set browser proxy to local not available port  can defend 来自clearnet的探测, but in zeronet's torrent server also can see peer form..zeronet是基于torrent服务器的,把浏览器的代理服务器设置成本地不可用的地址端口可以防御来自明网的攻击,但是在zeronet 的torrent 服务器返回的信息中一样可以找到各个访问者的ip地址",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1475741540",
+			"date_added": 1475815311
+		},
+		{
+			"comment_id": 12,
+			"body": "@weakish: But Google's translation technology is the best.",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1475741540",
+			"date_added": 1475815982
 		}
 	],
 	"follow": [
