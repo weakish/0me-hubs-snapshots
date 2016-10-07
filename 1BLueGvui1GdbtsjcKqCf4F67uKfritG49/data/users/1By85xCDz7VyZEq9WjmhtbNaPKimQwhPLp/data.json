@@ -1,7 +1,7 @@
 {
 	"next_post_id": 8,
-	"next_comment_id": 16,
-	"next_follow_id": 10,
+	"next_comment_id": 17,
+	"next_follow_id": 11,
 	"avatar": "jpg",
 	"user_name": "FraYoshi",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -134,6 +134,12 @@
 			"body": "It seems not working here on ZeroMe... Anywat I know for sure that It works in the ZeroBlogs, i.e. in the [Blog of Ebriel](http://127.0.0.1:43110/1EMcXwk7qQdY3pbj86A98gZHjDBNRrscdL/?Post:28:Testing+the+Interplanetary+File+System)\n\nAbout your image... I get this error while opening your file:\n`ERROR core/serve: Path Resolve error: Failed to get block for QmaW89ZQBnpmCx9LTXTVeWen6a2ZN37C7VAUjbr64ut5ur: context canceled gateway_handler.go:510`\n",
 			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1475180247",
 			"date_added": 1475463774
+		},
+		{
+			"comment_id": 16,
+			"body": "@Sick Bird: You are welcome Bird!!!!\nI'm so happy of reading this comment of yours!!\n\nWelcome to the first p2p social network!!!!!!\nThe more populated it is the more fast and strong it becomes ;)",
+			"post_uri": "1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp_1475187254",
+			"date_added": 1475796324
 		}
 	],
 	"follow": [
@@ -199,6 +205,13 @@
 			"auth_address": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC",
 			"user_name": "Meidan",
 			"date_added": 1475463982
+		},
+		{
+			"follow_id": 10,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "18oQPES15W27Ks1GBZRKx9zf9wFmXLraEW",
+			"user_name": "Sick Bird",
+			"date_added": 1475796363
 		}
 	]
 }
