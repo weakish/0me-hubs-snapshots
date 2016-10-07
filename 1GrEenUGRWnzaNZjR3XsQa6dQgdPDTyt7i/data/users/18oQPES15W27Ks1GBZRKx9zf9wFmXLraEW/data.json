@@ -1,5 +1,5 @@
 {
-	"next_post_id": 41,
+	"next_post_id": 42,
 	"next_comment_id": 59,
 	"next_follow_id": 23,
 	"avatar": "jpg",
@@ -191,6 +191,11 @@
 			"post_id": 1475801023,
 			"body": "si vous maintenait un blog pensez a mettre vos image et co dans data c'est en cas de clonage, parce que si vous mettez dans img par exemple et ben en cas de clonage vos image sont aussi cloner en effet il y a un dossier data et data-default qu'en quelqu'un clone un blog data est supprimé et data-default et renomer en data donc vos donnée dans le blog ne reste pas d'ou celui qui a cloner.\nalors openuser :: le dossier media tu devrait le mettre dans data ou alors mettre false le clone dans content.json",
 			"date_added": 1475800983
+		},
+		{
+			"post_id": 1475818074,
+			"body": "je déteste window 10 et 8 mais plus le 7 Pourquoi ? :::\nparce que il me fil actualité et Voyage a l’insu de OS est edge au démarrage j'ai une tonne actu que je veut pas voir alors BFMTV Ca Va parce que c'est pas un Ordinateur c'est une Télé je peut l’éteindre a tout moment mais mon ordinateur je peut l’éteindre a tout moment NON c'est pas une télé je travaille je me divertie bref je passe du temps donc je défend mes droit de pas avoir ces daube alors je suis sur Linux Au Moin ont peut faire ce qu'on veut.",
+			"date_added": 1475818033
 		}
 	],
 	"post_like": {
