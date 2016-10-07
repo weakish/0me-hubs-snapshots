@@ -1,6 +1,6 @@
 {
-	"next_post_id": 35,
-	"next_comment_id": 22,
+	"next_post_id": 36,
+	"next_comment_id": 23,
 	"next_follow_id": 118,
 	"avatar": "png",
 	"user_name": "weakish",
@@ -176,6 +176,11 @@
 			"post_id": 1475794610,
 			"body": "vscode is open source (MIT) and Visual Studio Code is proprietary. So confusing the names!",
 			"date_added": 1475794576
+		},
+		{
+			"post_id": 1475846794,
+			"body": "Thought there was something wrong with the sound configuration on my machine. Then I found out the mp3 I was playing is 32kbps.",
+			"date_added": 1475846759
 		}
 	],
 	"post_like": {
@@ -324,6 +329,12 @@
 			"body": "@ExeciN: FYI [gogs](https://gogs.io/) requires much less resource (good for low end servers) than Gitlab. (Gitlab has more features though.)",
 			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1475238433",
 			"date_added": 1475402019
+		},
+		{
+			"comment_id": 22,
+			"body": "Just translate this repo on GitHub [HelloZeroNet/zeronet.io](https://github.com/HelloZeroNet/zeronet.io)",
+			"post_uri": "12yaKkoqVKBUi66uB5pYXamWguKFaWdDnx_1475838642",
+			"date_added": 1475846651
 		}
 	],
 	"follow": [
