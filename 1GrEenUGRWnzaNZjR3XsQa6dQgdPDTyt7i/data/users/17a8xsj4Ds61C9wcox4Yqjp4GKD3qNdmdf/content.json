@@ -4,14 +4,18 @@
  "cert_sign": "G1Zc4MUhJrD50zyVDhOYAndpSvfECPItAAdqkpi4WFXFwOntEmJLyWDslybRWOtwLZFqomuZIJ8TYlSt6EoHLvM=",
  "cert_user_id": "photon@zeroid.bit",
  "files": {
+  "avatar.png": {
+   "sha512": "9aff45ece29b93b6ec86808e78cbda87bdf57fbdc0421b5e8f5beb22d9734389",
+   "size": 1124
+  },
   "data.json": {
-   "sha512": "c946cd34c897bd5ad2405df11e70fbbbf2189d78eab5baf05667884adef73574",
-   "size": 475
+   "sha512": "ec6c366425be424ce6f1985a5cc8f2c5db5f0fa0b1628f9b3ce263d3cf97c2c5",
+   "size": 750
   }
  },
  "inner_path": "data/users/17a8xsj4Ds61C9wcox4Yqjp4GKD3qNdmdf/content.json",
- "modified": 1475789765.506077,
+ "modified": 1475849558.056433,
  "signs": {
-  "17a8xsj4Ds61C9wcox4Yqjp4GKD3qNdmdf": "G4pRb5KffUHT9FPAUlp+EoyhpqwWk6o9GprOJeg4HKraTIWFs4JbPTVeRMSthDaOISxWfnxdOoFGYYRYM1fqNRw="
+  "17a8xsj4Ds61C9wcox4Yqjp4GKD3qNdmdf": "G1EWI9PeQWfWofVPv73taXI+YzKI7nGTMSwVVReRMTicsIQNADEDxKjvYurA2P5UfY9jHEONeE/3CoY4+3vPBDo="
  }
 }
