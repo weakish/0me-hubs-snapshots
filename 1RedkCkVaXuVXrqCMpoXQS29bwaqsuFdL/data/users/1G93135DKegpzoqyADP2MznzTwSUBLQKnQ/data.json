@@ -1,6 +1,6 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 2,
+	"next_comment_id": 3,
 	"next_follow_id": 4,
 	"avatar": "generate",
 	"user_name": "Parigo",
@@ -25,7 +25,8 @@
 		"1G93135DKegpzoqyADP2MznzTwSUBLQKnQ_2": 1471203210,
 		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_12": 1471514780,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1473590552": 1473659788,
-		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1473924561": 1474195955
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1473924561": 1474195955,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1475134633": 1475930365
 	},
 	"comment": [
 		{
@@ -33,6 +34,12 @@
 			"body": "No more centralized Ebay, Uber, AirBnb, Paypal, Emails, DNS... no more money and power accumulation from few peoples. It is like if factories are own by workers. But how states will try to prohibit it or shutdown it by filtering packets. Is there reflexions about that at zeronet staff?",
 			"post_uri": "1G93135DKegpzoqyADP2MznzTwSUBLQKnQ_2",
 			"date_added": 1470908749
+		},
+		{
+			"comment_id": 2,
+			"body": "I am looking for something similar too.\n\nIdea, use a Raspeberry Pi as modem: Phone <wifi-> Raspberry Pi <Long Range FM-> Raspberry Pi <wifi-> Phone\n\nPhone to phone, but if one phone has 4G signal, it can act as a internet relay.\n\nhttp://rpi900.com/",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1475134633",
+			"date_added": 1475931111
 		}
 	],
 	"follow": [
