@@ -1,7 +1,7 @@
 {
-	"next_post_id": 56,
-	"next_comment_id": 65,
-	"next_follow_id": 25,
+	"next_post_id": 57,
+	"next_comment_id": 66,
+	"next_follow_id": 26,
 	"avatar": "jpg",
 	"user_name": "Sick Bird",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -264,8 +264,13 @@
 		},
 		{
 			"post_id": 1475912542,
-			"body": "n'ecrivez pas sur zeromail !, j'ai flinguer OpenSSL !!\ndon't write in zeromail!, the OpenSSL library is not work!!\n\nmais ecrivez-moi sur BitMessage\nbut write me on BitMessage",
+			"body": "n'ecrivez pas sur zeromail !, j'ai flinguer OpenSSL !!\ndon't write in zeromail!, the OpenSSL library is not work!!\n\nmais ecrivez-moi sur BitMessage.\nbut write me on BitMessage.",
 			"date_added": 1475912487
+		},
+		{
+			"post_id": 1475916013,
+			"body": "y a beaucoup de brésilien !",
+			"date_added": 1475915957
 		}
 	],
 	"post_like": {
@@ -621,12 +626,6 @@
 			"date_added": 1475861505
 		},
 		{
-			"comment_id": 61,
-			"body": "@Nofish: it's possible to make plugin zstd for zeronet?",
-			"post_uri": "18oQPES15W27Ks1GBZRKx9zf9wFmXLraEW_1475868414",
-			"date_added": 1475872870
-		},
-		{
 			"comment_id": 62,
 			"body": "but the websites offer IT I not play one second is ad/pub >:-(",
 			"post_uri": "18oQPES15W27Ks1GBZRKx9zf9wFmXLraEW_1475787487",
@@ -643,6 +642,12 @@
 			"body": "thank you, nofish commented on my post in subject : Zstandard.",
 			"post_uri": "18oQPES15W27Ks1GBZRKx9zf9wFmXLraEW_1475899744",
 			"date_added": 1475907619
+		},
+		{
+			"comment_id": 65,
+			"body": "use an bitmessage address for contact me, just up this post.",
+			"post_uri": "1CUNBgz28ZZbJsDyDNZoQ7d9JyuZDgaqPs_1475911558",
+			"date_added": 1475916186
 		}
 	],
 	"follow": [
@@ -778,6 +783,13 @@
 			"auth_address": "1HJJEDiEo7ghxbpdDzXHFVv4gtrb53cUAu",
 			"user_name": "Maomihz",
 			"date_added": 1475904120
+		},
+		{
+			"follow_id": 25,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1CUNBgz28ZZbJsDyDNZoQ7d9JyuZDgaqPs",
+			"user_name": "Windowsbro",
+			"date_added": 1475916217
 		}
 	]
 }

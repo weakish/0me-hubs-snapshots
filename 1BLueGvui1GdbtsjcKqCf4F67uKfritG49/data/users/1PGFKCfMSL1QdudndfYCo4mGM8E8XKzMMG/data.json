@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
 	"next_comment_id": 3,
-	"next_follow_id": 1,
+	"next_follow_id": 3,
 	"avatar": "jpg",
 	"user_name": "Roberth Castaño",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -28,5 +28,20 @@
 			"date_added": 1474513421
 		}
 	],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92",
+			"user_name": "Cer",
+			"date_added": 1475914098
+		},
+		{
+			"follow_id": 2,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "13bJknLwBVJ4nmEHLqovNhzyD8wVA6ez6C",
+			"user_name": "Dsmh",
+			"date_added": 1475914218
+		}
+	]
 }
