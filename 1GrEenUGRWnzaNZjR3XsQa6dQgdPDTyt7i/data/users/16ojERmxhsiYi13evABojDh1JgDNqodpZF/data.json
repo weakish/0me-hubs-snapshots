@@ -1,11 +1,11 @@
 {
 	"next_post_id": 5,
 	"next_comment_id": 4,
-	"next_follow_id": 4,
+	"next_follow_id": 5,
 	"avatar": "generate",
 	"user_name": "Zentralsonne",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"intro": "Random ZeroNet user",
+	"intro": "1488",
 	"post": [
 		{
 			"post_id": 1,
@@ -46,13 +46,6 @@
 	],
 	"follow": [
 		{
-			"follow_id": 1,
-			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-			"auth_address": "16ojERmxhsiYi13evABojDh1JgDNqodpZF",
-			"user_name": "Zentralsonne",
-			"date_added": 1475680957
-		},
-		{
 			"follow_id": 2,
 			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
@@ -65,6 +58,13 @@
 			"auth_address": "17eKk6mdR7bth2Fi8f74P5JV8AfHsERT4F",
 			"user_name": "Zerro",
 			"date_added": 1475940913
+		},
+		{
+			"follow_id": 4,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "16ojERmxhsiYi13evABojDh1JgDNqodpZF",
+			"user_name": "Zentralsonne",
+			"date_added": 1475962699
 		}
 	]
 }
