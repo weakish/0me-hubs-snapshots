@@ -1,5 +1,5 @@
 {
-	"next_post_id": 20,
+	"next_post_id": 21,
 	"next_comment_id": 9,
 	"next_follow_id": 9,
 	"avatar": "generate",
@@ -79,7 +79,7 @@
 		},
 		{
 			"post_id": 1475035876,
-			"body": "The [documentaion](/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/docs/) of ZeroMux is finished. Now the question remains: can you understand it?",
+			"body": "The [documentaion](/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/docs/) of ZeroMux is finished.",
 			"date_added": 1475035860
 		},
 		{
@@ -96,6 +96,11 @@
 			"post_id": 1475898067,
 			"body": "Bwoi Music has not been updated since the end of September. Does anyone know any news about its development?",
 			"date_added": 1475898048
+		},
+		{
+			"post_id": 1475954537,
+			"body": "    Traceback (most recent call last):\n      File \"D:\\ZeroBundle\\Python\\lib\\site-packages\\gevent\\greenlet.py\", line 327, in run\n        result = self._run(*self.args, **self.kwargs)\n      File \"src\\Worker\\Worker.py\", line 66, in downloader\n        site.storage.write(task[\"inner_path\"], buff)\n      File \"src\\Site\\SiteStorage.py\", line 166, in write\n        with open(file_path, \"wb\") as file:\n    IOError: [Errno 13] Permission denied: u'data/1N6zp6jCXPBktNMPfe7UJBpQGyfCq7k2M8\n    /data/users/14fdwxPt83nTw5vFaXTCR7KQkAxkXuGbAR/content.json'\n\n    blog.kaffiene.bit  1N6zp6jCXPBktNMPfe7UJBpQGyfCq7k2M8\n\nAfter [blocking the spammer](/Me.ZeroNetwork.bit/?Post/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC/1474862332) by making empty `content.json` folders, I saw ZeroNet repeatedly throw exceptions.\n\n    blog.kaffiene.bit\n    \n    Missing files:\n        data/users/14fdwxPt83nTw5vFaXTCR7KQkAxkXuGbAR/content.json\n\n    14fdwxPt83nTw5vFaXTCR7KQkAxkXuGbAR - doom1b@zeroid.bit\n\n[These instructions](/Me.ZeroNetwork.bit/?Post/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC/1474862332) on blocking users are not a long-term solution, as an empty `content.json` folder is not what ZeroNet expects. It prevents ZeroNet from updating the site. Even after the site owner banned the spammer, ZeroNet cannot update these changes.",
+			"date_added": 1475954517
 		}
 	],
 	"post_like": {
