@@ -1,11 +1,11 @@
 {
-	"next_post_id": 7,
-	"next_comment_id": 12,
-	"next_follow_id": 2,
-	"avatar": "generate",
+	"next_post_id": 8,
+	"next_comment_id": 16,
+	"next_follow_id": 5,
+	"avatar": "jpg",
 	"user_name": "Militaryriotlab",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"intro": "Human? Brains? RRRUH\n\nSecond lang: English ( Simple &  Strange English) [SSE]\nLearning: Japanese\nFirst lang: 中文 Chinese \n\nFrom: Zombie land--Hong Kong and NO, I am not Chinese",
+	"intro": "Human? Brains? RRRUH\n\nLang:\nSimple&Strange English[SSE]\n中文 Chinese\nLearning: Japanese\n\nFrom: Zombie land--Hong Kong and **NO**, I am not Chinese\n\n18yo, \"University\" Student\n\nAdmin of\n[Zeronet proxy (onlyZero.net)](https://NOT YET)\n\nmilitaryriotlab (ZeroMail)\nnoobsec@protonmail.com\nmilitaryriotlab@vfemail.net\nmilitaryriotlab@gmail.com",
 	"post": [
 		{
 			"post_id": 1,
@@ -36,6 +36,11 @@
 			"post_id": 1475844491,
 			"body": "Zeronet is awesome, no shadowban, no tailored content, no ads, no 9gag/Facebook army, better privacy ...\n\nJust harmony and skilled user in Zeronet ( Not criticizing newbies )\n\nI feel acceptance in this (small?) community, something can't be found on other social network. Thank you, Zeronet",
 			"date_added": 1475844485
+		},
+		{
+			"post_id": 1476010594,
+			"body": "Hi, Zeronet. It's me (again)\nI have just set up a Japan-based proxy server, I need somebody help to test it, please\n\nhttps://z.jp.akb48.work\nor\nhttps://z.jp.akb48.work:43110\n\nTHIS IS ONLY A TEMPORARY ADDRESS\n\nfor the permanent address, I'll put it in the other post once the dns servers are updated.",
+			"date_added": 1476010587
 		}
 	],
 	"post_like": {
@@ -108,6 +113,30 @@
 			"body": "@Planteater: I see, thank you",
 			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1475844491",
 			"date_added": 1475904167
+		},
+		{
+			"comment_id": 12,
+			"body": "If you worry about your privacy, try tor",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476010594",
+			"date_added": 1476010687
+		},
+		{
+			"comment_id": 13,
+			"body": "@Jro: Thanks alot for testing, please check again, it should be fixed",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476010594",
+			"date_added": 1476012458
+		},
+		{
+			"comment_id": 14,
+			"body": "I may buy a VPS from USA or Europe if it's too slow",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476010594",
+			"date_added": 1476012604
+		},
+		{
+			"comment_id": 15,
+			"body": "Thank you",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476010594",
+			"date_added": 1476013160
 		}
 	],
 	"follow": [
@@ -117,6 +146,20 @@
 			"auth_address": "1KAfCgw4ECkqUccYQZDoPuTMhA2YPMaZwG",
 			"user_name": "Voruman",
 			"date_added": 1475747655
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1476013166
+		},
+		{
+			"follow_id": 4,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "18DbeZgtVCcLghmtzvg4Uv8uRQAwR8wnDQ",
+			"user_name": "Jro",
+			"date_added": 1476013300
 		}
 	],
 	"settings": {

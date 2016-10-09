@@ -4,14 +4,18 @@
  "cert_sign": "HDWF6MgHXrjFilCHnqoEQj/U084G1mzVyq4P3yZp9CVYPdQE+0XkJJOqKZ6+pHU3bMvmVQwyUrMBZBTUoqDu22o=",
  "cert_user_id": "kayomn@zeroid.bit",
  "files": {
+  "avatar.jpg": {
+   "sha512": "5979d271e41ff610f192e21e7726b8a7a5e2f0bf8cf18d9aa048b5bb905d9b0b",
+   "size": 1900
+  },
   "data.json": {
-   "sha512": "d353413375f9bcfaae3f1784c1e957e544acb651b4c57a04cdf62f44ac11f096",
-   "size": 482
+   "sha512": "379ab18666d8f07f14e5a4b67b457f5faa1d9cb548d7ec52f462ba4b20d7d099",
+   "size": 897
   }
  },
  "inner_path": "data/users/1438ZEyPqws4di3ZtVUy1x2qhwfAceNAGh/content.json",
- "modified": 1475979946.006,
+ "modified": 1476017235.674,
  "signs": {
-  "1438ZEyPqws4di3ZtVUy1x2qhwfAceNAGh": "HL0eBqTAFJ6b756b9bQbo/3w6RRAA6zJDJp6dPrZ8RJJflKm8NNTWwdV/kBHebOhKuPTXaU4x8HUYVljtpv5Gjw="
+  "1438ZEyPqws4di3ZtVUy1x2qhwfAceNAGh": "HMHB7DnjjsJULTVl9zojETG91Y8zka/3/I2nI7JqycnauukVN9JSl1p8HrCb7YkBKJ8nh7fN0GjulUZtRnpQc/M="
  }
 }

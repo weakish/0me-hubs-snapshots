@@ -4,14 +4,18 @@
  "cert_sign": "G5M790g0YaTByLa4Xp/HlqjJPdNLxuUmQL5wHnMMzighBGgaOEXeSZfj3TljwuE7xJ8UIsxmErIDJs8YzDTPdX8=",
  "cert_user_id": "militaryriotlab@zeroid.bit",
  "files": {
+  "avatar.jpg": {
+   "sha512": "6d3eec93f0b3060916a0e57c760d062565b0f744758619d04b392c7ff784c5b3",
+   "size": 2076
+  },
   "data.json": {
-   "sha512": "7248edd1e6cd2ca26990b84dcab46aba35b87b3251caf339f86041e1c23baff9",
-   "size": 5187
+   "sha512": "4c42939c601bd5c16d189d275a57f3572c7fe298d5038d3a2164e6550a1422ae",
+   "size": 6828
   }
  },
  "inner_path": "data/users/1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow/content.json",
- "modified": 1475904166.736106,
+ "modified": 1476021984.759592,
  "signs": {
-  "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow": "HJr6LkMVQnMcjbiFBj6jm+TqYOUZtRjkL9zm+Cho1C3D0/mIz7lYjoECSh1MlEAFk9+on/kw0YHWoXBhQS1ggiQ="
+  "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow": "HDMQw34VJGjeyIKzdtCANa+tvxiVTZdf0xp7BhUWp7jkx3YT9hHsLurL4W67XEWezMLunP9gig3vjM4EWeWb+cU="
  }
 }

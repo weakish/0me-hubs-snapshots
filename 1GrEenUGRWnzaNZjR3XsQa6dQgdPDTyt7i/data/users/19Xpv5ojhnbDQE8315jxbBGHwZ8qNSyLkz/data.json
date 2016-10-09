@@ -1,0 +1,29 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 1,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Ava",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Certified Special Snowflake",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1476015942,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {
+		"1438ZEyPqws4di3ZtVUy1x2qhwfAceNAGh_1475979893": 1476016137
+	},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1476016233
+		}
+	]
+}

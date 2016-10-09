@@ -1,7 +1,7 @@
 {
-	"next_post_id": 58,
+	"next_post_id": 60,
 	"next_comment_id": 18,
-	"next_follow_id": 28,
+	"next_follow_id": 31,
 	"avatar": "jpg",
 	"user_name": "KosherX - PT-🇧🇷, EN-🇺🇸 and very little of JP-🇯🇵.",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -281,6 +281,11 @@
 			"post_id": 1475881354,
 			"body": "\"Freiheit statt Demokratie!\" (Liberty instead of Democracy!) --- Hans-Hermann Hoppe - #ancap #libertarian #libertarianism #Hoppe #rothbardian #democracy #freedom #FreedomFriday",
 			"date_added": 1475881297
+		},
+		{
+			"post_id": 1476016396,
+			"body": "How do I insert images here on ZeroMe?",
+			"date_added": 1476016338
 		}
 	],
 	"post_like": {
@@ -289,7 +294,10 @@
 		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475658002": 1475662676,
 		"1NeDefYcar3BBHk2PdfBvgu7spE9XKRmPd_1475667714": 1475672577,
 		"1NPPtBk83wWgrf34KZA4SfN9XpMGzd3rtS_1475867756": 1475881134,
-		"1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp_1475933042": 1475973757
+		"1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp_1475933042": 1475973757,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1476015306": 1476016392,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1475865189": 1476016979,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1475784449": 1476016998
 	},
 	"comment": [
 		{
@@ -584,6 +592,27 @@
 			"auth_address": "137PNA5gLgCTLZTBtzUqCmMoZ752NQGQSJ",
 			"user_name": "Arsene Lupin",
 			"date_added": 1475803039
+		},
+		{
+			"follow_id": 28,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow",
+			"user_name": "Militaryriotlab",
+			"date_added": 1476016958
+		},
+		{
+			"follow_id": 29,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx",
+			"user_name": "ks",
+			"date_added": 1476017008
+		},
+		{
+			"follow_id": 30,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS",
+			"user_name": "ZAlex",
+			"date_added": 1476017136
 		}
 	],
 	"settings": {
@@ -598,5 +627,7 @@
 		"18oQPES15W27Ks1GBZRKx9zf9wFmXLraEW"
 	],
 	"flags": {},
-	"comment_like": {}
+	"comment_like": {
+		"1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_13": 1476018012
+	}
 }
