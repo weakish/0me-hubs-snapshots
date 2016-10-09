@@ -1,7 +1,7 @@
 {
-	"next_post_id": 3,
+	"next_post_id": 4,
 	"next_comment_id": 3,
-	"next_follow_id": 2,
+	"next_follow_id": 3,
 	"avatar": "generate",
 	"user_name": "Alexandre",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -16,6 +16,11 @@
 			"post_id": 1474653769,
 			"body": "Does anybody know how to delete a post in ZeroMe ?",
 			"date_added": 1474653767
+		},
+		{
+			"post_id": 1476043948,
+			"body": "Does anybody know how to upgrade a profile image in ZeroMe ?",
+			"date_added": 1476043945
 		}
 	],
 	"post_like": {
@@ -43,6 +48,13 @@
 			"auth_address": "1674XymFPbmAXh78xEpt3Pehtko6i2kvtA",
 			"user_name": "Alexandre",
 			"date_added": 1476043085
+		},
+		{
+			"follow_id": 2,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1674XymFPbmAXh78xEpt3Pehtko6i2kvtA",
+			"user_name": "Alexandre",
+			"date_added": 1476043805
 		}
 	]
 }
