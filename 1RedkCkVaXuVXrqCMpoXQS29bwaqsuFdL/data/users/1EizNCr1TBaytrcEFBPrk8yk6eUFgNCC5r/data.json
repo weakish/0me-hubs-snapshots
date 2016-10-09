@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 9,
+	"next_comment_id": 10,
 	"next_follow_id": 4,
 	"avatar": "generate",
 	"user_name": "Execin",
@@ -62,6 +62,12 @@
 			"body": "@Talnicrom: Honestly, the simplest way is hosting a proxy for yourself. You could have your home PC act as one. You need to forward the port so that requests from the outside (on that particular port) will reach the computer running the ZeroNet node. Also you have to bind ZeroNet to your gateway (or to just 0.0.0.0 if you want to bind it to all gateways). Setting a password (which ZeroNet client already supports) or some other kind of authentication is also a good idea.  \n  \n  \n(you could probably do the same with equivalent IPv6 addresses)",
 			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1473431870",
 			"date_added": 1473472076
+		},
+		{
+			"comment_id": 9,
+			"body": "I think there are 3 problems:  \n* You don't really know all the hubs (I might be wrong on this one)\n* The way the \"who follows who\" are stored is at each user's profile there is a list of the followed users so you must go through every user to check if they are following you.\n* Checking all users of all hubs is a resource-heavy task that gets worse as time passes.",
+			"post_uri": "1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R_1475973406",
+			"date_added": 1475976339
 		}
 	],
 	"follow": [
