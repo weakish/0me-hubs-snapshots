@@ -1,6 +1,6 @@
 {
 	"next_post_id": 65,
-	"next_comment_id": 67,
+	"next_comment_id": 68,
 	"next_follow_id": 31,
 	"avatar": "jpg",
 	"user_name": "Sick Bird",
@@ -309,7 +309,8 @@
 		}
 	],
 	"post_like": {
-		"1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1475605317": 1475605876
+		"1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1475605317": 1475605876,
+		"1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476010594": 1476035617
 	},
 	"comment": [
 		{
@@ -689,6 +690,12 @@
 			"body": "@Jro: base anwser :: 25+108+33+74+160 = 400",
 			"post_uri": "18oQPES15W27Ks1GBZRKx9zf9wFmXLraEW_1476007071",
 			"date_added": 1476012601
+		},
+		{
+			"comment_id": 67,
+			"body": "i do not use facebook, but the scripts how to create, how to make css?",
+			"post_uri": "18oQPES15W27Ks1GBZRKx9zf9wFmXLraEW_1475999083",
+			"date_added": 1476035299
 		}
 	],
 	"follow": [
@@ -845,13 +852,6 @@
 			"auth_address": "18DbeZgtVCcLghmtzvg4Uv8uRQAwR8wnDQ",
 			"user_name": "Jro",
 			"date_added": 1475997436
-		},
-		{
-			"follow_id": 30,
-			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-			"auth_address": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow",
-			"user_name": "Militaryriotlab",
-			"date_added": 1476012958
 		}
 	]
 }

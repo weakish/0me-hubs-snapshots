@@ -1,6 +1,6 @@
 {
-	"next_post_id": 55,
-	"next_comment_id": 67,
+	"next_post_id": 57,
+	"next_comment_id": 68,
 	"next_follow_id": 19,
 	"avatar": "jpg",
 	"user_name": "meidan",
@@ -263,14 +263,19 @@
 			"date_added": 1475623860
 		},
 		{
-			"post_id": 1475718828,
-			"body": "Working on a project for ZeroNet but the javascript keeps getting blocked. \n\n\"Sandbox access violation: Blocked a frame at \"http://127.0.0.1:43110\" from accessing a frame at \"null\".  Both frames are sandboxed and lack the \"allow-same-origin\" flag.\" \n\nHow do I fix this? ",
-			"date_added": 1475718776
-		},
-		{
 			"post_id": 1475777634,
 			"body": "I'm attempting to study stuff but my migraine is getting the best of me. ",
 			"date_added": 1475777581
+		},
+		{
+			"post_id": 1476032839,
+			"body": "Mi studas argumentoj hodiaux kaj eble legas \"La Domo de la Spiritoj\". Eble mi legos iu logiko poste hodiaux, sed mi ne scias. Gix estas dimancxo. ",
+			"date_added": 1476032784
+		},
+		{
+			"post_id": 1476035989,
+			"body": "Listening to: How we'll kill all the DRM in the world, forever with Cory Doctorow.\n",
+			"date_added": 1476035933
 		}
 	],
 	"post_like": {
@@ -288,7 +293,8 @@
 		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475344470": 1475421091,
 		"1CAbVVZ7UkVry3oFrkn8LL93rcB7XurZbX_1475494116": 1475510049,
 		"14UupgrdnT7Y8vMES7aqUFgD1fC5RYNrh8_1475589350": 1475595799,
-		"1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1475752919": 1475769392
+		"1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1475752919": 1475769392,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1476015306": 1476032044
 	},
 	"comment": [
 		{
@@ -674,6 +680,12 @@
 			"body": "I've never successfully installed this software. tcllib get's me every time.",
 			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1475858114",
 			"date_added": 1475858256
+		},
+		{
+			"comment_id": 67,
+			"body": "I'm finishing up studying some of last weeks Arguments homework on Coursera. Maybe 20 minutes of my day. Then I'll either read some more of \"The House of the Spirits\" or read some of \"Logic\". I don't know though. It's Sunday and I'm determined to get the least amount humanly possible done without resorting to television. We'll see.",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1476032839",
+			"date_added": 1476032946
 		}
 	],
 	"follow": [
