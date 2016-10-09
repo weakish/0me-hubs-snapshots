@@ -1,7 +1,7 @@
 {
 	"next_post_id": 3,
 	"next_comment_id": 3,
-	"next_follow_id": 1,
+	"next_follow_id": 2,
 	"avatar": "generate",
 	"user_name": "Alexandre",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -36,5 +36,13 @@
 			"date_added": 1474658862
 		}
 	],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1674XymFPbmAXh78xEpt3Pehtko6i2kvtA",
+			"user_name": "Alexandre",
+			"date_added": 1476043085
+		}
+	]
 }
