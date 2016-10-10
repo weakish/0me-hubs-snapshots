@@ -1,6 +1,6 @@
 {
 	"next_post_id": 7,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 10,
 	"avatar": "jpg",
 	"user_name": "海德拉",
@@ -34,7 +34,14 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Militaryriotlab: 反正有自己的服务器，就当加一个节点好了",
+			"post_uri": "1JV3Fhq8uJZuJ3QAYAj1GAgX8s4u8D72Qi_1476070806",
+			"date_added": 1476089779
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 1,
