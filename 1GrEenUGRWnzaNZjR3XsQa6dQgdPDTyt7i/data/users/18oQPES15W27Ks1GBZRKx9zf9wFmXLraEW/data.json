@@ -1,5 +1,5 @@
 {
-	"next_post_id": 73,
+	"next_post_id": 74,
 	"next_comment_id": 73,
 	"next_follow_id": 32,
 	"avatar": "jpg",
@@ -344,15 +344,19 @@
 		},
 		{
 			"post_id": 1476063612,
-			"body": "ce graph represente les ordinateur connecté vers le serveur au port 80 (connexion => ecouteur) :::\nax-104.bt => lechien.bt\nquya.in => moyan.in\n6387510.ph => lechien.bt\nsick.bt => quyan.in\n\net calculez avec le [pagerank](https://github.com/louridas/pagerank) qui à ete le plus connecté.\nca vien de mon monde tout est décentraliser malgré sans zeronet ni freenet car ils ont la liberté absolut !",
+			"body": "ce graph represente les ordinateur connecté vers le serveur au port 80 (connexion => ecouteur) :::\nax-104.bt => lechien.bt\nquya.in => moyan.in\n6387510.ph => lechien.bt\nsick.bt => quyan.in\nquatier-74103.bt => superbaby.ph\n\net calculez avec le [pagerank](https://github.com/louridas/pagerank) pour savoir qui à ete le plus connecté.\nca vien de mon monde tout est décentraliser malgré sans zeronet ni freenet car ils ont la liberté absolut !",
 			"date_added": 1476063540
+		},
+		{
+			"post_id": 1476067010,
+			"body": "key exchange for make private message ::::\nfor generate private key ::: `openssl ecparam -name c2tnb431r1 -genkey > yourprivatekey`\nthen to public ::: `openssl ec -pubout -in yourpublickey -out publickey` and post public key or comment\nnow compute common secret key ::: `pass=$(openssl pkeyutl -derive -inkey -inkey yourprivatekey -peerkey publickey)`\nand encryption `openssl aes256 -k $pass | base64 -w 0` and for decrypt just added -d\nthank you and send private message by key exchange\nMy Public Key Is ::::\n-----BEGIN PUBLIC KEY-----\nMIGFMBMGByqGSM49AgEGCCqGSM49AwAUA24ABD12a5oul/L6bzen7dFRaIEU+e8/\nPPW9q5TI6Hv1Bap1l4gj+FN0p1+TUynS7+37G+j99WxFvS2IsmQLr3EgiQatePXz\nUqo1pN2DpywiVfWacHgeVpKxH0clG/xzzxXzwoTPG5Dw41jUxTLE0Q==\n-----END PUBLIC KEY-----\n",
+			"date_added": 1476066937
 		}
 	],
 	"post_like": {
 		"1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1475605317": 1475605876,
 		"1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476010594": 1476035617,
-		"1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_1475662630": 1476039258,
-		"1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1476060278": 1476062154
+		"1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_1475662630": 1476039258
 	},
 	"comment": [
 		{
