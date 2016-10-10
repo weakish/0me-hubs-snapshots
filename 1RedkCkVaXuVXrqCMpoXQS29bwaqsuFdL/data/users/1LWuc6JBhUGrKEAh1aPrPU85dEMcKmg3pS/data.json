@@ -1,6 +1,6 @@
 {
 	"next_post_id": 16,
-	"next_comment_id": 23,
+	"next_comment_id": 24,
 	"next_follow_id": 23,
 	"avatar": "jpg",
 	"user_name": "ZAlex",
@@ -300,6 +300,12 @@
 			"body": "[Quoting Nofish](http://127.0.0.1:43110/me.zeronetwork.bit/?Post/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ/5):\n\n> no official way, but you can: open javascript console (F12), choose inner-frame from dropdown, enter: Page.cmd(\"dbQuery\", \"SELECT json.user_name FROM follow LEFT JOIN json USING (json_id) WHERE follow.user_name = 'GomZik'\")",
 			"post_uri": "1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R_1475973406",
 			"date_added": 1475978620
+		},
+		{
+			"comment_id": 23,
+			"body": "ИМХО, не вижу тут федеративности, ибо нет центрального сайта. Под центральным имеешь ввиду саму \"морду\" ZeroMe? Так вообще не проблема сделать альтернативный \"GUI\", как ZeroMe Plus или ZeroMe Dark.",
+			"post_uri": "17eKk6mdR7bth2Fi8f74P5JV8AfHsERT4F_1476055682",
+			"date_added": 1476060499
 		}
 	],
 	"follow": [
