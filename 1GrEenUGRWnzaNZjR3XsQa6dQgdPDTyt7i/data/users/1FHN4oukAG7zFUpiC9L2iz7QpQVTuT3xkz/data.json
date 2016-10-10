@@ -1,7 +1,7 @@
 {
 	"next_post_id": 3,
 	"next_comment_id": 1,
-	"next_follow_id": 1,
+	"next_follow_id": 4,
 	"avatar": "generate",
 	"user_name": "Nekocross",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -20,5 +20,27 @@
 	],
 	"post_like": {},
 	"comment": [],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow",
+			"user_name": "Militaryriotlab",
+			"date_added": 1476106262
+		},
+		{
+			"follow_id": 2,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1AuXf8vz9sdxYkmTQRqUC4AQEwJHhxqN5M",
+			"user_name": "D",
+			"date_added": 1476106268
+		},
+		{
+			"follow_id": 3,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1vEGTEfwMZ6HXR7UK7u8qWXzXbktu6YZY",
+			"user_name": "Zerolu",
+			"date_added": 1476106297
+		}
+	]
 }
