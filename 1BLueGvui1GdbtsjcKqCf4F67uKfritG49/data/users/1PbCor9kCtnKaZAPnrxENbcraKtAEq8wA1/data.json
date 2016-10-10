@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 7,
+	"next_comment_id": 8,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Henur",
@@ -55,9 +55,17 @@
 			"body": "@ks: Which is the GeoIP's address?",
 			"post_uri": "1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp_1475933042",
 			"date_added": 1475970293
+		},
+		{
+			"comment_id": 7,
+			"body": "@ks: Thanks, I tought that is a zite not from clearnet",
+			"post_uri": "1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp_1475933042",
+			"date_added": 1476055626
 		}
 	],
 	"follow": [],
 	"flags": {},
-	"comment_like": {}
+	"comment_like": {
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_101": 1476055638
+	}
 }
