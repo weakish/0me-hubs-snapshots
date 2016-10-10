@@ -349,12 +349,12 @@
 		},
 		{
 			"post_id": 1476067010,
-			"body": "key exchange for make private message ::::\nfor generate private key ::: `openssl ecparam -name c2tnb431r1 -genkey > yourprivatekey`\nthen to public ::: `openssl ec -pubout -in yourpublickey -out publickey` and post public key or comment\nnow compute common secret key ::: `pass=$(openssl pkeyutl -derive -inkey -inkey yourprivatekey -peerkey publickey)`\nand encryption `openssl aes256 -k $pass | base64 -w 0` and for decrypt just added -d\nthank you and send private message by key exchange\nMy Public Key Is ::::\n-----BEGIN PUBLIC KEY-----\nMIGFMBMGByqGSM49AgEGCCqGSM49AwAUA24ABD12a5oul/L6bzen7dFRaIEU+e8/\nPPW9q5TI6Hv1Bap1l4gj+FN0p1+TUynS7+37G+j99WxFvS2IsmQLr3EgiQatePXz\nUqo1pN2DpywiVfWacHgeVpKxH0clG/xzzxXzwoTPG5Dw41jUxTLE0Q==\n-----END PUBLIC KEY-----\n",
+			"body": "key exchange for make private message ::::\nfor generate private key ::: `openssl ecparam -name c2tnb431r1 -genkey > yourprivatekey`\nthen to public ::: `openssl ec -pubout -in yourpublickey -out publickey` and post public key or comment\nnow compute common secret key ::: `pass=$(openssl pkeyutl -derive -inkey -inkey yourprivatekey -peerkey publickey | base64 -w 0)`\nand encryption `openssl aes256 -k $pass | base64 -w 0` and for decrypt your added -d and invers base64 replace -w 0 by -d\nthank you and send private message by key exchange\nMy Public Key Is ::::\n-----BEGIN PUBLIC KEY-----\nMIGFMBMGByqGSM49AgEGCCqGSM49AwAUA24ABD12a5oul/L6bzen7dFRaIEU+e8/\nPPW9q5TI6Hv1Bap1l4gj+FN0p1+TUynS7+37G+j99WxFvS2IsmQLr3EgiQatePXz\nUqo1pN2DpywiVfWacHgeVpKxH0clG/xzzxXzwoTPG5Dw41jUxTLE0Q==\n-----END PUBLIC KEY-----\n",
 			"date_added": 1476066937
 		},
 		{
 			"post_id": 1476071894,
-			"body": "TVPlex La Nouvelle Chaine de Télévision ou au debut c'est tranquille mais bientot ca va secouer des documentaire extreme, des Info catastrophique, et des dessin animé qui vont disparaitre et même les serie bref un jour ca va etre Difficile à Regarder\n***\nTVPlex La Télévision qui ce complique au fil du temp !",
+			"body": "TVPlex La Nouvelle Chaine de Télévision ou au debut c'est tranquille mais bientot ca va secouer des documentaire extreme, des Info catastrophe, et des dessin animé qui vont disparaitre et même les serie bref un jour ca va etre Difficile à Regarder\n***\nTVPlex La Télévision qui ce complique au fil du temps !",
 			"date_added": 1476071820
 		}
 	],
