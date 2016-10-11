@@ -1,7 +1,7 @@
 {
 	"next_post_id": 16,
-	"next_comment_id": 10,
-	"next_follow_id": 18,
+	"next_comment_id": 14,
+	"next_follow_id": 20,
 	"avatar": "jpg",
 	"user_name": "Balancer73",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -74,7 +74,7 @@
 		},
 		{
 			"post_id": 1476201962,
-			"body": "Nice optical illusion: http://127.0.0.1:43110/1MaQ4W5D6G52TpBfPACU9k9QcB1DxvHZ5v/?Post:6:Great+optical+illusion",
+			"body": "Nice optical illusion: [/1MaQ4W5D6G52TpBfPACU9k9QcB1DxvHZ5v/?Post:6:Great+optical+illusion](/1MaQ4W5D6G52TpBfPACU9k9QcB1DxvHZ5v/?Post:6:Great+optical+illusion)",
 			"date_added": 1476201948
 		},
 		{
@@ -141,6 +141,30 @@
 			"body": "@Militaryriotlab: Bad decision. Today, for many users in Russia is the only affordable way to get to blocked sites :)\n\nAlthough serverfault.com is not blocked in Russia, but it is inconvenient to switch off every time a VPN to access it.",
 			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1476202117",
 			"date_added": 1476203112
+		},
+		{
+			"comment_id": 10,
+			"body": "@The33: Как оказалось, во всех ресурсах, кроме Wiki в ZeroNet-ссылках идёт замена хоста на лету на текущий. Т.е. написано 127.0.0.1, а ссылка будет на твой гейт. Вот в Wiki это не работает, там нужно ручками ссылку формировать :)",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1476201962",
+			"date_added": 1476205729
+		},
+		{
+			"comment_id": 11,
+			"body": "Впрочем, исправил ссылку :) Кстати, приятная фишка после juick (или Twitter) — возможность редактировать свои сообщения.",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1476201962",
+			"date_added": 1476205809
+		},
+		{
+			"comment_id": 12,
+			"body": "@The33: Ага. В вот когда ссылка не локальная, а на гейт, как в твоём сообщении, то ZeroMe про такие ссылки не знает и ничего не подменяет :)",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1476201962",
+			"date_added": 1476205868
+		},
+		{
+			"comment_id": 13,
+			"body": "@Militaryriotlab: I have no problem with the site blocking, but I more care about the ordinary users :)",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1476202117",
+			"date_added": 1476206039
 		}
 	],
 	"follow": [
@@ -262,6 +286,20 @@
 			"auth_address": "14qbGJTZ1cyF9YcSUVYj73xfxyTJjUEQWY",
 			"user_name": "The33",
 			"date_added": 1476204443
+		},
+		{
+			"follow_id": 18,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1JEFK9PSB2KTgS6vAR5u9iuQZ4QiRMp4vw",
+			"user_name": "Alexs",
+			"date_added": 1476205509
+		},
+		{
+			"follow_id": 19,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1476206859
 		}
 	],
 	"settings": {
