@@ -1,7 +1,7 @@
 {
 	"next_post_id": 4,
-	"next_comment_id": 2,
-	"next_follow_id": 45,
+	"next_comment_id": 3,
+	"next_follow_id": 56,
 	"avatar": "generate",
 	"user_name": "01served",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -30,6 +30,12 @@
 			"body": "There is no rules against rules in anarchism. They just have to be agreed upon voluntarily and cannot be forced upon anyone.",
 			"post_uri": "1NqBLri771MGN6eJLzUP6dqenvVqdC6b5L_1475500277",
 			"date_added": 1476133543
+		},
+		{
+			"comment_id": 2,
+			"body": "@Dergatt: I also run it as a user, but I like to avoid my home dir getting clogged with installs, so I chown'ed /opt/ZeroNet-master to my user name.\n\nWhat do you mean by auto update function? I can update from the ZeroHello page without problems.",
+			"post_uri": "1NqBLri771MGN6eJLzUP6dqenvVqdC6b5L_1476186244",
+			"date_added": 1476192687
 		}
 	],
 	"follow": [
@@ -340,6 +346,83 @@
 			"auth_address": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne",
 			"user_name": "Jayofthezero",
 			"date_added": 1476177687
+		},
+		{
+			"follow_id": 45,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1NqBLri771MGN6eJLzUP6dqenvVqdC6b5L",
+			"user_name": "01served",
+			"date_added": 1476215869
+		},
+		{
+			"follow_id": 46,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t",
+			"user_name": "tkarita",
+			"date_added": 1476216194
+		},
+		{
+			"follow_id": 47,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "17tpqoZw9eG2MQq6C3CVZ9MVxJxLTtCPZC",
+			"user_name": "0face",
+			"date_added": 1476220864
+		},
+		{
+			"follow_id": 48,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib",
+			"user_name": "Elspru",
+			"date_added": 1476220945
+		},
+		{
+			"follow_id": 49,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1P7F9po18mshkbRG5zEVV47vHtLEX19QJa",
+			"user_name": "Bashrc",
+			"date_added": 1476220995
+		},
+		{
+			"follow_id": 50,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u",
+			"user_name": "Lola",
+			"date_added": 1476221135
+		},
+		{
+			"follow_id": 51,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1CN6kKKe8sNoYJBXFGm8J2RKr1RXpedQBk",
+			"user_name": "Hankrearden",
+			"date_added": 1476221225
+		},
+		{
+			"follow_id": 52,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN",
+			"user_name": "Flyman",
+			"date_added": 1476221533
+		},
+		{
+			"follow_id": 53,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1476221636
+		},
+		{
+			"follow_id": 54,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC",
+			"user_name": "meidan",
+			"date_added": 1476221670
+		},
+		{
+			"follow_id": 55,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1P7F9po18mshkbRG5zEVV47vHtLEX19QJa",
+			"user_name": "Bashrc",
+			"date_added": 1476223152
 		}
 	]
 }
