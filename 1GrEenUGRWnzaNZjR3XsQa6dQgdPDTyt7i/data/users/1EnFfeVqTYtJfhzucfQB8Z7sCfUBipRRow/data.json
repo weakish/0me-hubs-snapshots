@@ -1,6 +1,6 @@
 {
 	"next_post_id": 11,
-	"next_comment_id": 35,
+	"next_comment_id": 36,
 	"next_follow_id": 9,
 	"avatar": "jpg",
 	"user_name": "Militaryriotlab",
@@ -257,6 +257,12 @@
 			"body": "@Jro: I see, you can try pressing F12 at your browser to see localStorage data, I found that there is no difference between proxy or localhost",
 			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476034657",
 			"date_added": 1476189504
+		},
+		{
+			"comment_id": 35,
+			"body": "@Jro: Thanks for the update too",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476034657",
+			"date_added": 1476191323
 		}
 	],
 	"follow": [
@@ -320,6 +326,7 @@
 	"flags": {},
 	"comment_like": {
 		"18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6_6": 1475803156,
-		"1JV3Fhq8uJZuJ3QAYAj1GAgX8s4u8D72Qi_1": 1476090654
+		"1JV3Fhq8uJZuJ3QAYAj1GAgX8s4u8D72Qi_1": 1476090654,
+		"13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_7": 1476191843
 	}
 }

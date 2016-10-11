@@ -1,6 +1,6 @@
 {
 	"next_post_id": 5,
-	"next_comment_id": 15,
+	"next_comment_id": 16,
 	"next_follow_id": 11,
 	"avatar": "jpg",
 	"user_name": "Jro",
@@ -117,6 +117,12 @@
 			"body": "@Militaryriotlab: I know the users.json file. I am looking for where \"localStorage\" are saved.Normally localStorage data are saved in browser per domain like cookies but I think that @nofisk have made a special implementation as many sites are running under same domain. The API for localStorage looks like server calls but I could be wrong here ...\nWill try a localStorage call without running the UI server",
 			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476034657",
 			"date_added": 1476188362
+		},
+		{
+			"comment_id": 15,
+			"body": "@Militaryriotlab: Thanks for the talk. Tried localStorage API functions without UI server running. The localStorage data are stored in browser. Not on \"server\" / ZeroNet folder.\nAnd thanks for the F12 hint. I have used the console a lot but never checked the localStorage data ...",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476034657",
+			"date_added": 1476191168
 		}
 	],
 	"follow": [

@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 7,
+	"next_comment_id": 8,
 	"user_name": "Dergatt",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {},
@@ -39,6 +39,12 @@
 			"body": "yes",
 			"post_uri": "1Cr9GMEngZVtcsNwaoHo2XNw1EuMFu8WxF_1475400134",
 			"date_added": 1475404313
+		},
+		{
+			"comment_id": 7,
+			"body": "I run zeronet as user.\nDownload the Bundle and extract it in a folder of your choice in your home folder.\n\nput:\n>[Unit]\n>Description=Zero net Start\n>After=network.target\n>\n>[Service]\n>ExecStart=/home/\"path into the extracted folder\"/ZeroNetnoBrowser.sh\n>Restart=on-failure\n>SuccessExitStatus=3 4\n>RestartForceExitStatus=3 4\n>\n>[Install]\n>WantedBy=default.target\n>\ninto:\n>~/.config/systemd/user/zeronet.service\n\nyou can run it with:\n>systemctl --user start zeronet\n\nThis way I can use the auto update function without any permission problems.",
+			"post_uri": "1NqBLri771MGN6eJLzUP6dqenvVqdC6b5L_1476186244",
+			"date_added": 1476191438
 		}
 	],
 	"flags": {},
