@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 5,
+	"next_comment_id": 9,
 	"user_name": "Militaryriotlab",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {},
@@ -27,6 +27,30 @@
 			"body": "我诚邀狗蛋试用一下我建立的代理，https://onlyzero.net",
 			"post_uri": "12yaKkoqVKBUi66uB5pYXamWguKFaWdDnx_1472025195",
 			"date_added": 1476069540
+		},
+		{
+			"comment_id": 5,
+			"body": "Decoding video stream wont be a problem for rpi or orange pi since hardware-acceleration can be used instead of using CPU only IF the videos are H264 encoded and <=1080p with low bitrates, then it will not be a problem.\n\nThe problem is tracking objects and calculating its positions, it seems need lots of cpu power, if so, I am afraid only one is not enough\n\nThe good new is depending on your source of videos and how much cpu power needed, maybe you should try run it on Desktop first to see the needs, then consider how much rpi you need \n",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1476118332",
+			"date_added": 1476122590
+		},
+		{
+			"comment_id": 6,
+			"body": "You may consider setting a cluster of rpis\nhttp://makezine.com/projects/build-a-compact-4-node-raspberry-pi-cluster/\nto distribute the workload, but pay attention if buying too many rpi maybe not as worthy as buying a new server, or use Cloud service like Google Compute Engine, Amzon EC2 or renting dedicated server",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1476118332",
+			"date_added": 1476122945
+		},
+		{
+			"comment_id": 7,
+			"body": "@Musickiller: You are welcome :)",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1476118332",
+			"date_added": 1476123810
+		},
+		{
+			"comment_id": 8,
+			"body": "Please share the result of parallel processing,( of cause, if you are allowed and willing to ) I always wonder how it can be applied",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1476118332",
+			"date_added": 1476124220
 		}
 	],
 	"flags": {},

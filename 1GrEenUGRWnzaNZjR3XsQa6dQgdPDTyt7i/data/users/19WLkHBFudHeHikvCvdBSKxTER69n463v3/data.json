@@ -1,7 +1,7 @@
 {
-	"next_post_id": 4,
-	"next_comment_id": 2,
-	"next_follow_id": 25,
+	"next_post_id": 5,
+	"next_comment_id": 4,
+	"next_follow_id": 26,
 	"avatar": "jpg",
 	"user_name": "Akornbabomb",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -21,6 +21,11 @@
 			"post_id": 1475424104,
 			"body": "What kind of dark nets does everyone use? I use Freenet, Tor,  and ZeroNet",
 			"date_added": 1475424101
+		},
+		{
+			"post_id": 1476111812,
+			"body": "hello Zeronet... I was wondering... is there a way to make a bios based antivirus? If not then that's sad... why? and if so how does it work?",
+			"date_added": 1476111808
 		}
 	],
 	"post_like": {},
@@ -30,6 +35,18 @@
 			"body": "Hello Rino!",
 			"post_uri": "17rxDp8LuLJo3TrKqC19FE41D98sDriyMQ_1",
 			"date_added": 1475425290
+		},
+		{
+			"comment_id": 2,
+			"body": "I couldn't get I2P to work",
+			"post_uri": "19WLkHBFudHeHikvCvdBSKxTER69n463v3_1475424104",
+			"date_added": 1475587528
+		},
+		{
+			"comment_id": 3,
+			"body": "thank you... I wasn't wondering about something like an antivirus... more like badbios which happened to work supposedly by writing  a small amount of code to the bios chip which manned a recovery and communicated with other machines using low level UHF.",
+			"post_uri": "19WLkHBFudHeHikvCvdBSKxTER69n463v3_1476111812",
+			"date_added": 1476130047
 		}
 	],
 	"follow": [
@@ -200,6 +217,13 @@
 			"auth_address": "17rxDp8LuLJo3TrKqC19FE41D98sDriyMQ",
 			"user_name": "RinoDrummer",
 			"date_added": 1475425272
+		},
+		{
+			"follow_id": 25,
+			"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
+			"auth_address": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb",
+			"user_name": "ɃǾȾ",
+			"date_added": 1475588124
 		}
 	],
 	"settings": {

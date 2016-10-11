@@ -1,6 +1,6 @@
 {
-	"next_post_id": 2,
-	"next_comment_id": 2,
+	"next_post_id": 3,
+	"next_comment_id": 4,
 	"next_follow_id": 4,
 	"avatar": "generate",
 	"user_name": "Becoming",
@@ -11,6 +11,11 @@
 			"post_id": 1,
 			"date_added": 1475129488,
 			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1476168819,
+			"body": "Is there a way to convert this kind of site into something like Twitter?",
+			"date_added": 1476168817
 		}
 	],
 	"post_like": {
@@ -23,6 +28,18 @@
 			"body": "It will get popular when it's good and there's an easy 'starter package'",
 			"post_uri": "1JEFLay3C144NwZmrYaQer7f1vF3yo3qHB_1475291422",
 			"date_added": 1475389440
+		},
+		{
+			"comment_id": 2,
+			"body": "@FraYoshi: I think the character limitations were part of the charm. Also, there's no hashtag things. I used the search function though for 'twitter' and found this post. ",
+			"post_uri": "1438ZEyPqws4di3ZtVUy1x2qhwfAceNAGh_1475979893",
+			"date_added": 1476168905
+		},
+		{
+			"comment_id": 3,
+			"body": "@Elspru: Peace is victory in war against nature - and we are all part of nature.",
+			"post_uri": "1D7FEnVEfqgt5ExcAvuZfRczaXDScKCrMT_1475202014",
+			"date_added": 1476169779
 		}
 	],
 	"follow": [
@@ -47,5 +64,14 @@
 			"user_name": "Talnicrom",
 			"date_added": 1475389631
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }

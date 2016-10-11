@@ -1,10 +1,27 @@
 {
-	"next_comment_id": 1,
+	"next_comment_id": 3,
 	"user_name": "Becoming",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {
 		"1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_1475374555": 1475389108,
 		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1475359406": 1475389186
 	},
-	"comment": []
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "If a country outlaws it, I don't think law abiding people like those concerned will be coming on 0net anyway. If it's outlawed, they wouldn't try to circumvent the ports at risk of the consequences.",
+			"post_uri": "1AjxW1N844WRpscEFSotfsqLXsQurz83xc_1475067668",
+			"date_added": 1476169376
+		},
+		{
+			"comment_id": 2,
+			"body": "I would like to see some sort of easily implementable black list, where you can download or upload it (make available your own ban list) and have it properly working. Like said earlier, freedom of speech is also freedom to remain silent. If I don't want to be hosting bad things, I'd like the ability to prevent that. It is a statement that \"We are conscious of laws.\" and also that there's a community effort to prevent moderate tech users from being exposed to material that'd traumatize them.",
+			"post_uri": "1AjxW1N844WRpscEFSotfsqLXsQurz83xc_1475067668",
+			"date_added": 1476169589
+		}
+	],
+	"flags": {},
+	"comment_like": {
+		"137PNA5gLgCTLZTBtzUqCmMoZ752NQGQSJ_10": 1476169127
+	}
 }

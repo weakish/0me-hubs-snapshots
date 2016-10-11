@@ -1,6 +1,6 @@
 {
-	"next_post_id": 57,
-	"next_comment_id": 104,
+	"next_post_id": 58,
+	"next_comment_id": 106,
 	"next_follow_id": 204,
 	"avatar": "jpg",
 	"user_name": "ks",
@@ -216,6 +216,11 @@
 			"post_id": 1476101111,
 			"body": "Turris omnia: open-source router ⌘ https://www.turris.cz/en/",
 			"date_added": 1476101055
+		},
+		{
+			"post_id": 1476120061,
+			"body": "Sometimes it would be nice to be able to mute someone at 0List and ZeroTalk. *cough* bbxxx *cough*",
+			"date_added": 1476120004
 		}
 	],
 	"post_like": {
@@ -859,6 +864,18 @@
 			"body": "@Ulrichard: only if you sign up for testing, you can always buy the router at full price.",
 			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1476101111",
 			"date_added": 1476105084
+		},
+		{
+			"comment_id": 104,
+			"body": "@Ulrichard: as in running mesh network software on the router itself? It's running Linux, so I suppose it's possible (e.g., cjdns), but I can't be sure.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1476101111",
+			"date_added": 1476115148
+		},
+		{
+			"comment_id": 105,
+			"body": "@Militaryriotlab: yes, unfortunately.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1476120061",
+			"date_added": 1476120761
 		}
 	],
 	"follow": [

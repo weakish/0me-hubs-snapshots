@@ -1,6 +1,6 @@
 {
-	"next_post_id": 248,
-	"next_comment_id": 368,
+	"next_post_id": 252,
+	"next_comment_id": 375,
 	"next_follow_id": 27,
 	"avatar": "generate",
 	"user_name": "Musickiller",
@@ -1011,6 +1011,26 @@
 			"post_id": 1475532894,
 			"body": "**NOW** I totally need C.H.I.P. or Rasberry!!! ^_^",
 			"date_added": 1475532647
+		},
+		{
+			"post_id": 1476118332,
+			"body": "> Militaryriotlab · militaryriotlab@zeroid.bit ― 1 day ago\n>depends what you do with it, I own rpi zero, rpi 2 to host ownCloud and playing music, while Orange pi has SATA port and built-in storage which is faster than SD card, AFAIK\n\nReply:\n@Militaryriotlab: I need 1 for fast video stream decoding (simple web camera, up to 4 streams) and 1 for bittorrent/ZeroNet hosting. Also possibly for NXT hosting, but it's Java, so I suppose that option will rise the price a lot =(\n\nIf I have enough money, I'd also like to get 1 miniPC for a videogame server, but it's not a job for ARM processor, so I suppose that doubles the price =(\n\n\n// it's an important topic now...\n\nThe one for videostream decoding is important - In our priject we're gonna use Pi (or smth) to calculate positions of objects with several web cameras and work with them.. (OpenCV for now.) And I don't know what Raspberry (or other PCs) to select.\n\nAny ideas?",
+			"date_added": 1476118084
+		},
+		{
+			"post_id": 1476118456,
+			"body": "**What's faster QT or GTK2??**\n\nI was installing doublecmd and think what version to use. Let's geek it out =D\n\n// Let's = do that if you have time. I'll have the pleasure of reading the result. Don't have time(((( ='(",
+			"date_added": 1476118207
+		},
+		{
+			"post_id": 1476125491,
+			"body": "I'VE FOUND THIS:\nhttps://ipfs.pics/QmWtDpw1mYXtZWhDtA3fCULM27fBJcgut6dDAM6uMGDu79\n\ncool-retro-term\n\nIT'S FUCKING AWESOME!!  I   L O V E   I T ! ! !",
+			"date_added": 1476125241
+		},
+		{
+			"post_id": 1476133522,
+			"body": "hate Brasero.... It does to my dicsc what Brazzers never would >.<",
+			"date_added": 1476133271
 		}
 	],
 	"post_like": {
@@ -1024,7 +1044,8 @@
 		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_7": 1471013711,
 		"1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R_8": 1471016601,
 		"1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_6": 1471204677,
-		"1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_1472345808": 1472388632
+		"1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_1472345808": 1472388632,
+		"1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_1476019022": 1476117616
 	},
 	"comment": [
 		{
@@ -3030,6 +3051,48 @@
 			"body": "@Nofish: why so cheap?? thanks for the link, too bad the sale is over =)",
 			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1474727485",
 			"date_added": 1475868036
+		},
+		{
+			"comment_id": 368,
+			"body": "yup, tell me what you find out about them",
+			"post_uri": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_1476019022",
+			"date_added": 1476117656
+		},
+		{
+			"comment_id": 369,
+			"body": "@Militaryriotlab: I need 1 for fast video stream decoding (simple web camera, up to 4 streams) and 1 for bittorrent/ZeroNet hosting. Also possibly for NXT hosting, but it's Java, so I suppose that option will rise the price a lot =(\n\nIf I have enough money, I'd also like to get 1 miniPC for a videogame server, but it's not a job for ARM processor, so I suppose that doubles the price =(",
+			"post_uri": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_1476019022",
+			"date_added": 1476117861
+		},
+		{
+			"comment_id": 370,
+			"body": "sadly no one wants to chat about QT and GTK2 differences =(",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1476118456",
+			"date_added": 1476122911
+		},
+		{
+			"comment_id": 371,
+			"body": "@Militaryriotlab: my teacher/friend/mentor/boss is considering using parallel processor system with infrared cameras (since we want to track humans as a result of our work)... May be that's a better idea, but I don't have any idea on how to work with that stuf X((((",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1476118332",
+			"date_added": 1476123127
+		},
+		{
+			"comment_id": 372,
+			"body": "@Militaryriotlab: thanks",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1476118332",
+			"date_added": 1476123137
+		},
+		{
+			"comment_id": 373,
+			"body": "@Militaryriotlab: ugh... Don't worry. If I will be allowed, project sponsored, and we do the thing, I'll BLOW this ZeroMe page with results XD",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1476118332",
+			"date_added": 1476125146
+		},
+		{
+			"comment_id": 374,
+			"body": "@ulrichard: thanks for a reply =D I've heared that QT is a headache...",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1476118456",
+			"date_added": 1476125188
 		}
 	],
 	"follow": [

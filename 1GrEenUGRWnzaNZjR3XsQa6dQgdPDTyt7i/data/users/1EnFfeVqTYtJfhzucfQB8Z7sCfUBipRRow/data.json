@@ -1,7 +1,7 @@
 {
 	"next_post_id": 11,
-	"next_comment_id": 21,
-	"next_follow_id": 7,
+	"next_comment_id": 27,
+	"next_follow_id": 9,
 	"avatar": "jpg",
 	"user_name": "Militaryriotlab",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -61,7 +61,8 @@
 	"post_like": {
 		"1KAfCgw4ECkqUccYQZDoPuTMhA2YPMaZwG_1475749605": 1475752503,
 		"15mbQo7qMzz7e2kBiLbkDrYDo2pzzWvCBH_1475833884": 1475834352,
-		"18oQPES15W27Ks1GBZRKx9zf9wFmXLraEW_1476045649": 1476069035
+		"18oQPES15W27Ks1GBZRKx9zf9wFmXLraEW_1476045649": 1476069035,
+		"1C6wnwa1pP57iRpyP3HWPP17rPVANwoj8i_1476122190": 1476123015
 	},
 	"comment": [
 		{
@@ -177,6 +178,36 @@
 			"body": "@P2P: 對不起，一時記錯了，BleachBit才是開源，**更正：ccleaner只是免費使用，不是開源**",
 			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1476084094",
 			"date_added": 1476106079
+		},
+		{
+			"comment_id": 21,
+			"body": "@狗蛋: No, it's emoji. 這是UTF-8的表情符號，還沒找到圖床，沒法加圖片",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476106689",
+			"date_added": 1476110996
+		},
+		{
+			"comment_id": 23,
+			"body": "I am no expert, but allow me to try and learn if I am wrong\n\nIf you means bios can search directly into your files or web traffic like antivirus software (e.g. Avira, Kaspersky ) does, that's impossible to be done without OS.\nEven it works, people who can have physical contact with your pc, given enough time, can simply disable it, like TPM can be cracked [1], or simply install hardware key-logger.\nIf you means a tamper-resistant of a system, like Chromebook does [2], which Google done a great job, to protect the OS from virus infection, or Secure Boot of UEFI [3], allowing Microsoft or other signed boot loader to be loaded not the malware one. \n\nHowever, the latter one doesn't protect you from malware that doesn't alter your kernel, e.g. using exploit, rootkit, recently Secure boot is no loner secured.[5]\n\nWhen it comes to data protection, antivirus must not used alone, must be a comprehensive solution, Defense in depth [4]\n\n[1] https://gcn.com/Articles/2010/02/02/Black-Hat-chip-crack-020210.aspx\n[2] https://www.chromium.org/chromium-os/chromiumos-design-docs/verified-boot\n[3] https://technet.microsoft.com/en-us/library/hh824987.aspx\n[4] https://en.wikipedia.org/wiki/Defense_in_depth_(computing)\n[5] http://www.ghacks.net/2016/08/10/secure-boot-bypass-revealed/",
+			"post_uri": "19WLkHBFudHeHikvCvdBSKxTER69n463v3_1476111812",
+			"date_added": 1476119820
+		},
+		{
+			"comment_id": 24,
+			"body": "Greating from the admin of https://onlyzero.net\nIt seems that your site redirects all trafic to www. subdomain, which is fine but the https common name of the certificate doesn't include www subdomain, result in https error",
+			"post_uri": "1M8Mbi3PX5RdWxeQUpG1C9yKgzT9ZGssny_1476133988",
+			"date_added": 1476157223
+		},
+		{
+			"comment_id": 25,
+			"body": "May I ask what front-end server do you use ",
+			"post_uri": "1M8Mbi3PX5RdWxeQUpG1C9yKgzT9ZGssny_1476133988",
+			"date_added": 1476157454
+		},
+		{
+			"comment_id": 26,
+			"body": "and I am sure that I am the only guy from Hong Kong",
+			"post_uri": "18oQPES15W27Ks1GBZRKx9zf9wFmXLraEW_1476149832",
+			"date_added": 1476168160
 		}
 	],
 	"follow": [
@@ -214,6 +245,20 @@
 			"auth_address": "1HJJEDiEo7ghxbpdDzXHFVv4gtrb53cUAu",
 			"user_name": "Maomihz",
 			"date_added": 1476106480
+		},
+		{
+			"follow_id": 7,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "19WLkHBFudHeHikvCvdBSKxTER69n463v3",
+			"user_name": "Akornbabomb",
+			"date_added": 1476120273
+		},
+		{
+			"follow_id": 8,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ",
+			"user_name": "Musickiller",
+			"date_added": 1476123859
 		}
 	],
 	"settings": {
