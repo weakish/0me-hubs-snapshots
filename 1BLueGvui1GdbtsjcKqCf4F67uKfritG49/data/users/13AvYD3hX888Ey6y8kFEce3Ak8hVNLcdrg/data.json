@@ -1,6 +1,6 @@
 {
 	"next_post_id": 22,
-	"next_comment_id": 16,
+	"next_comment_id": 17,
 	"next_follow_id": 58,
 	"avatar": "jpg",
 	"user_name": "Dergatt",
@@ -203,6 +203,12 @@
 			"body": "I only used localbitcoins (for buying) so far",
 			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1475770304",
 			"date_added": 1475782185
+		},
+		{
+			"comment_id": 16,
+			"body": "@Nofish: Thanks a lot",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1476192380",
+			"date_added": 1476194874
 		}
 	],
 	"follow": [
@@ -600,5 +606,7 @@
 	},
 	"flags": {},
 	"blocked": [],
-	"comment_like": {}
+	"comment_like": {
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_39": 1476194865
+	}
 }

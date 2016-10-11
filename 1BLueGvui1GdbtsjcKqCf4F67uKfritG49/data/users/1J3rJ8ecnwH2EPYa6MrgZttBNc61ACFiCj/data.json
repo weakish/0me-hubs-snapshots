@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 39,
+	"next_comment_id": 40,
 	"user_name": "Nofish",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -233,6 +233,12 @@
 			"body": "@Bashrc: You can sign/publish files from using `zeronet.py siteSign --help`, the database is using sqlite which is pretty easy to query from any language, so I think it would be easy to create a command line client for any site.",
 			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475657594",
 			"date_added": 1475690346
+		},
+		{
+			"comment_id": 39,
+			"body": "Here is simple cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1476192380",
+			"date_added": 1476194407
 		}
 	]
 }

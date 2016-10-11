@@ -1,6 +1,6 @@
 {
-	"next_post_id": 60,
-	"next_comment_id": 68,
+	"next_post_id": 62,
+	"next_comment_id": 70,
 	"next_follow_id": 19,
 	"avatar": "jpg",
 	"user_name": "meidan",
@@ -291,6 +291,16 @@
 			"post_id": 1476133788,
 			"body": "Making an X-Mind template for Argument Analysis. Writing the reference guide is taking a while but worth it.",
 			"date_added": 1476133729
+		},
+		{
+			"post_id": 1476195767,
+			"body": "Shit. IPFS crashed on my computer. .ipfs/repo.lock: permission denied. What do I do now? Tried updating. I've got version 0.4.3 but nothing seems to work.",
+			"date_added": 1476195707
+		},
+		{
+			"post_id": 1476196349,
+			"body": "Designed a example version of a BitNation ID card. It still needs a lot of work and this is just a markup. But I think it's starting to look good. The main issue here is what counts as identifying information. What should be included in such a id? How should it be accessible with technology? \n\nIf you have any ideas, leave them in the comments and I'll see how much I can add to the card.\n\n*This is just a random experiment.\n\nhttp://localhost:8080/ipfs/QmR25o96ToKCZFCwHBLkL4AbbHGM6XwWvDHTZhnkqp2uuP",
+			"date_added": 1476196288
 		}
 	],
 	"post_like": {
@@ -702,6 +712,18 @@
 			"body": "I'm finishing up studying some of last weeks Arguments homework on Coursera. Maybe 20 minutes of my day. Then I'll either read some more of \"The House of the Spirits\" or read some of \"Logic\". I don't know though. It's Sunday and I'm determined to get the least amount humanly possible done without resorting to television. We'll see.",
 			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1476032839",
 			"date_added": 1476032946
+		},
+		{
+			"comment_id": 68,
+			"body": "@Flyman: Never underestimate a bullshit detector. :) Thanks for the link to the poster. I want to get something like that printed sometime.",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1476127415",
+			"date_added": 1476195880
+		},
+		{
+			"comment_id": 69,
+			"body": "VICTORY! In case this happens to you, use: rm ~/.ipfs/repo.lock Then attempt to run the daemon again and it will update.",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1476195767",
+			"date_added": 1476196032
 		}
 	],
 	"follow": [
