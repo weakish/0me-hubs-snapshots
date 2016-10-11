@@ -1,7 +1,7 @@
 {
 	"next_post_id": 5,
-	"next_comment_id": 12,
-	"next_follow_id": 10,
+	"next_comment_id": 15,
+	"next_follow_id": 11,
 	"avatar": "jpg",
 	"user_name": "Jro",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -30,7 +30,8 @@
 	],
 	"post_like": {
 		"16dVbybDseQBQnxdJDuQhCzYAij8iR8YEc_1474633058": 1474647400,
-		"1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1475844491": 1475851245
+		"1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1475844491": 1475851245,
+		"1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476010594": 1476175470
 	},
 	"comment": [
 		{
@@ -98,6 +99,24 @@
 			"body": "Greasemonkey plugin is an option if you want to change the web pages you are visiting. I am using it to get into websites blocking for addblockers. But can be used for many things. An other example is http://www.fbpurity.com/ plugin that allows Facebook users to change facebook.",
 			"post_uri": "18oQPES15W27Ks1GBZRKx9zf9wFmXLraEW_1475999083",
 			"date_added": 1476013179
+		},
+		{
+			"comment_id": 12,
+			"body": "Always nice with an other Z proxy. Do you know how localStorage are implemented in ZeroNet? I suspect that data are stored on server. I use encryption when saving data i localStorage but are a little worried. Do you know where localStorage data are saved?",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476034657",
+			"date_added": 1476175881
+		},
+		{
+			"comment_id": 13,
+			"body": "@Militaryriotlab: Sure. Just want to implement a site with a good protection for my users. Not worried personally. And are using TOR without VPN. Could not find the file/files with server side localStorage data. Do you have a filename example or a path? Havde also checked for hidden files under ZeroNet and under /home/xxx/",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476034657",
+			"date_added": 1476187900
+		},
+		{
+			"comment_id": 14,
+			"body": "@Militaryriotlab: I know the users.json file. I am looking for where \"localStorage\" are saved.Normally localStorage data are saved in browser per domain like cookies but I think that @nofisk have made a special implementation as many sites are running under same domain. The API for localStorage looks like server calls but I could be wrong here ...\nWill try a localStorage call without running the UI server",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476034657",
+			"date_added": 1476188362
 		}
 	],
 	"follow": [
@@ -149,6 +168,13 @@
 			"auth_address": "18oQPES15W27Ks1GBZRKx9zf9wFmXLraEW",
 			"user_name": "Sick Bird",
 			"date_added": 1476082819
+		},
+		{
+			"follow_id": 10,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow",
+			"user_name": "Militaryriotlab",
+			"date_added": 1476175578
 		}
 	],
 	"settings": {

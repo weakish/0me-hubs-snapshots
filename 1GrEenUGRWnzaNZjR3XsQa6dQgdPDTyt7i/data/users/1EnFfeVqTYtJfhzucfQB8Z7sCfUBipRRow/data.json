@@ -1,6 +1,6 @@
 {
 	"next_post_id": 11,
-	"next_comment_id": 30,
+	"next_comment_id": 35,
 	"next_follow_id": 9,
 	"avatar": "jpg",
 	"user_name": "Militaryriotlab",
@@ -227,6 +227,36 @@
 			"body": "@Jro: Just like normal Zeronet client, all data are stored under ZeroBundle/ZeroNet/data/\nHowever, your private key / master_seed is not stored, instead it's stored in your browser, so whenever you clean your browser's data or I restart the zeronet.py, all of the logined(grammaraly correct?) user deleted",
 			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476034657",
 			"date_added": 1476186964
+		},
+		{
+			"comment_id": 30,
+			"body": "@Jro: Yeah, you should be worried, after all you don't know me, I can be 3-letter agencies, cough *CIA Chinese Intelligence in America*\n\nJoking apart, if you are **really** paranoid, you should use Tor Browser with multi-hops VPN+socks proxy+http proxy+public wifi and change a new zeroid every 10 minutes",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476034657",
+			"date_added": 1476187490
+		},
+		{
+			"comment_id": 31,
+			"body": "@Jro: \nHere is output of user.json\nroot@jp:~# cat ZeroBundle/ZeroNet/data/users.json\n{}root@jp:~#\n",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476034657",
+			"date_added": 1476187878
+		},
+		{
+			"comment_id": 32,
+			"body": "@Jro: Strange. you mean that you can't find the ZeroBundle folder or what?",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476034657",
+			"date_added": 1476187997
+		},
+		{
+			"comment_id": 33,
+			"body": "Sorry if I am too lazy, but is there any init.d file for restarting, stopping and starting",
+			"post_uri": "1NqBLri771MGN6eJLzUP6dqenvVqdC6b5L_1476186244",
+			"date_added": 1476188084
+		},
+		{
+			"comment_id": 34,
+			"body": "@Jro: I see, you can try pressing F12 at your browser to see localStorage data, I found that there is no difference between proxy or localhost",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476034657",
+			"date_added": 1476189504
 		}
 	],
 	"follow": [
