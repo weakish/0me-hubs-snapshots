@@ -1,7 +1,7 @@
 {
 	"next_post_id": 30,
-	"next_comment_id": 22,
-	"next_follow_id": 69,
+	"next_comment_id": 23,
+	"next_follow_id": 71,
 	"avatar": "jpg",
 	"user_name": "ulrichard",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -282,6 +282,12 @@
 			"body": "@ks: I don't touch both of them. Sold my 30$ worth of Ripple years ago.",
 			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1476095644",
 			"date_added": 1476106079
+		},
+		{
+			"comment_id": 22,
+			"body": "The zite owner has to enable the newer id providers manually.",
+			"post_uri": "1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_5",
+			"date_added": 1476185345
 		}
 	],
 	"follow": [
@@ -760,6 +766,20 @@
 			"auth_address": "15ryCS8yWTAah1hdfiJGS7ujRBAR5PQDVE",
 			"user_name": "0ro",
 			"date_added": 1476175337
+		},
+		{
+			"follow_id": 69,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "18oQPES15W27Ks1GBZRKx9zf9wFmXLraEW",
+			"user_name": "Sick Bird",
+			"date_added": 1476185264
+		},
+		{
+			"follow_id": 70,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92",
+			"user_name": "Cer",
+			"date_added": 1476185286
 		}
 	],
 	"settings": {

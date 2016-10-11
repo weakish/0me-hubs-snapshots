@@ -1,6 +1,6 @@
 {
 	"next_post_id": 11,
-	"next_comment_id": 27,
+	"next_comment_id": 30,
 	"next_follow_id": 9,
 	"avatar": "jpg",
 	"user_name": "Militaryriotlab",
@@ -62,7 +62,8 @@
 		"1KAfCgw4ECkqUccYQZDoPuTMhA2YPMaZwG_1475749605": 1475752503,
 		"15mbQo7qMzz7e2kBiLbkDrYDo2pzzWvCBH_1475833884": 1475834352,
 		"18oQPES15W27Ks1GBZRKx9zf9wFmXLraEW_1476045649": 1476069035,
-		"1C6wnwa1pP57iRpyP3HWPP17rPVANwoj8i_1476122190": 1476123015
+		"1C6wnwa1pP57iRpyP3HWPP17rPVANwoj8i_1476122190": 1476123015,
+		"1NqBLri771MGN6eJLzUP6dqenvVqdC6b5L_1476186244": 1476186331
 	},
 	"comment": [
 		{
@@ -208,6 +209,24 @@
 			"body": "and I am sure that I am the only guy from Hong Kong",
 			"post_uri": "18oQPES15W27Ks1GBZRKx9zf9wFmXLraEW_1476149832",
 			"date_added": 1476168160
+		},
+		{
+			"comment_id": 27,
+			"body": "Great job:)",
+			"post_uri": "1M8Mbi3PX5RdWxeQUpG1C9yKgzT9ZGssny_1476133988",
+			"date_added": 1476175580
+		},
+		{
+			"comment_id": 28,
+			"body": "one more question: you buy this domain or by free registration ?",
+			"post_uri": "1M8Mbi3PX5RdWxeQUpG1C9yKgzT9ZGssny_1476133988",
+			"date_added": 1476175764
+		},
+		{
+			"comment_id": 29,
+			"body": "@Jro: Just like normal Zeronet client, all data are stored under ZeroBundle/ZeroNet/data/\nHowever, your private key / master_seed is not stored, instead it's stored in your browser, so whenever you clean your browser's data or I restart the zeronet.py, all of the logined(grammaraly correct?) user deleted",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476034657",
+			"date_added": 1476186964
 		}
 	],
 	"follow": [

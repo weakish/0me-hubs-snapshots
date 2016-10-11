@@ -1,7 +1,7 @@
 {
-	"next_post_id": 3,
+	"next_post_id": 4,
 	"next_comment_id": 2,
-	"next_follow_id": 24,
+	"next_follow_id": 45,
 	"avatar": "generate",
 	"user_name": "01served",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -16,6 +16,11 @@
 			"post_id": 1475500277,
 			"body": "Anarchism is not the best system of ideology. It is merely the accept, that every other system of ideology is flawed, and therefore one choose to accept the system without rules.",
 			"date_added": 1475500275
+		},
+		{
+			"post_id": 1476186244,
+			"body": "##How to run ZeroNet at every boot with systemd:\nPut:\n```\n[Unit]\nDescription=ZeroNet Service\nAfter=multi-user.target\n\n[Service]\nType=idle\nWorkingDirectory=/opt/ZeroNet-master\nExecStart=/usr/bin/python /opt/ZeroNet-master/zeronet.py\nUser=NAME\n\n[Install]\nWantedBy=multi-user.target\n```\nin: `/lib/systemd/system/zeronet.service` (change \"/opt/ZeroNet-master\" to your install location and \"NAME\" with the name of the user that runs ZeroNet)\n\nThen execute: \n`sudo systemctl daemon-reload`\n`sudo systemctl enable zeronet.service`\nand:\n`sudo systemctl start zeronet.service`",
+			"date_added": 1476186241
 		}
 	],
 	"post_like": {},
@@ -188,6 +193,153 @@
 			"auth_address": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY",
 			"user_name": "KosherX - PT-🇧🇷, EN-🇺🇸 and very little of JP-🇯🇵.",
 			"date_added": 1476136247
+		},
+		{
+			"follow_id": 24,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "15ryCS8yWTAah1hdfiJGS7ujRBAR5PQDVE",
+			"user_name": "0ro",
+			"date_added": 1476172579
+		},
+		{
+			"follow_id": 25,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "137PNA5gLgCTLZTBtzUqCmMoZ752NQGQSJ",
+			"user_name": "Arsene Lupin",
+			"date_added": 1476175698
+		},
+		{
+			"follow_id": 26,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1DQAexBYLLtqRurHpCnmqUsGAxsXzhZWxP",
+			"user_name": "Habit",
+			"date_added": 1476175774
+		},
+		{
+			"follow_id": 27,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1CFhytwoGGPNqmueehPqotaf2iG9uxD98e",
+			"user_name": "Method-X",
+			"date_added": 1476175982
+		},
+		{
+			"follow_id": 28,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV",
+			"user_name": "Mynameislegion",
+			"date_added": 1476175994
+		},
+		{
+			"follow_id": 29,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1A7Jhb42rcCE86shNxvzbi6uQ7Agemspdd",
+			"user_name": "Rebel",
+			"date_added": 1476176042
+		},
+		{
+			"follow_id": 30,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1JF3eQjW4voiKdcvCkMXvUx5bLmZAiVdyi",
+			"user_name": "Edantes",
+			"date_added": 1476176088
+		},
+		{
+			"follow_id": 31,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg",
+			"user_name": "Dergatt",
+			"date_added": 1476176214
+		},
+		{
+			"follow_id": 32,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ",
+			"user_name": "ulrichard",
+			"date_added": 1476176378
+		},
+		{
+			"follow_id": 33,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1EizNCr1TBaytrcEFBPrk8yk6eUFgNCC5r",
+			"user_name": "ExeciN",
+			"date_added": 1476176415
+		},
+		{
+			"follow_id": 34,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1H5VKNWtkBA7RpJWyYuFw5bqjwbgjXoqKp",
+			"user_name": "Unanimous",
+			"date_added": 1476176821
+		},
+		{
+			"follow_id": 35,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19SbSoytV8aD6GtpJi9F6RDSnGzunYgYzo",
+			"user_name": "Johnhamelink",
+			"date_added": 1476176921
+		},
+		{
+			"follow_id": 36,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1DjUq8hd2jYZgc5uNhQEtWUVZjMHkMQkpU",
+			"user_name": "Alek",
+			"date_added": 1476177259
+		},
+		{
+			"follow_id": 37,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "14J8mC3K7k5Ygx22uu9LUzGWnBoDAQdyDo",
+			"user_name": "ImUrX",
+			"date_added": 1476177304
+		},
+		{
+			"follow_id": 38,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN",
+			"user_name": "Cyborg Warrior",
+			"date_added": 1476177398
+		},
+		{
+			"follow_id": 39,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331",
+			"user_name": "Andrewm",
+			"date_added": 1476177419
+		},
+		{
+			"follow_id": 40,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1BTK7LKA1LrvCjNqVrPmBtySWhSaHnG97Q",
+			"user_name": "HrnekBezucha",
+			"date_added": 1476177459
+		},
+		{
+			"follow_id": 41,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ",
+			"user_name": "GomZik",
+			"date_added": 1476177525
+		},
+		{
+			"follow_id": 42,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "15QGRquMETTn5LnCHjTm1qa9eaXGtq7gpT",
+			"user_name": "Klaus Jónsson Zimmermann",
+			"date_added": 1476177579
+		},
+		{
+			"follow_id": 43,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb",
+			"user_name": "Bot",
+			"date_added": 1476177651
+		},
+		{
+			"follow_id": 44,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne",
+			"user_name": "Jayofthezero",
+			"date_added": 1476177687
 		}
 	]
 }
