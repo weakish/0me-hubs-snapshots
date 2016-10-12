@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 2,
-	"next_follow_id": 12,
+	"next_comment_id": 3,
+	"next_follow_id": 13,
 	"avatar": "jpg",
 	"user_name": "David Parrish",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -13,13 +13,21 @@
 			"body": "Hello ZeroMe!"
 		}
 	],
-	"post_like": {},
+	"post_like": {
+		"1NqBLri771MGN6eJLzUP6dqenvVqdC6b5L_1476186244": 1476266203
+	},
 	"comment": [
 		{
 			"comment_id": 1,
 			"body": "@Sick Bird: Yeah. lol. I had it on my hd.",
 			"post_uri": "15PZT6SDb3xX38PYQC5LH6NNWu7jD74KP2_1",
 			"date_added": 1476077607
+		},
+		{
+			"comment_id": 2,
+			"body": "You can also run Zeronet with Docker with a `restart: always` policy. Then set `systemctl enable docker`.",
+			"post_uri": "1NqBLri771MGN6eJLzUP6dqenvVqdC6b5L_1476186244",
+			"date_added": 1476266361
 		}
 	],
 	"follow": [
@@ -92,6 +100,13 @@
 			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
 			"user_name": "Kaffie",
 			"date_added": 1476213743
+		},
+		{
+			"follow_id": 12,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg",
+			"user_name": "Dergatt",
+			"date_added": 1476266395
 		}
 	]
 }
