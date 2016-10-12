@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 4,
+	"next_comment_id": 5,
 	"user_name": "Talnicrom",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {},
@@ -21,6 +21,12 @@
 			"body": "Hola!  Google translate: La lista de usuarios que sigues sólo muestra los 50 usuarios que ha seguido más recientemente. De acuerdo con el archivo data.json en su centro, que está siguiendo 218 personas, incluyendo a sí mismo.",
 			"post_uri": "1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh_1476089407",
 			"date_added": 1476192623
+		},
+		{
+			"comment_id": 4,
+			"body": "@Zero: It's at `~/ZeroNet/data/$YOURHUB/data/users/$YOURADDRESS/data.json` in general and at `~/ZeroNet/data/185yXNL48LTZyKfNo6WgyKshtMgcV3mecL/data/users/1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh/data.json` in your case.",
+			"post_uri": "1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh_1476089407",
+			"date_added": 1476306499
 		}
 	],
 	"flags": {},

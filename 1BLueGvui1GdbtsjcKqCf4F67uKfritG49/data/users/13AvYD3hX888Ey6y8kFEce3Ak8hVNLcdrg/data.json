@@ -1,5 +1,5 @@
 {
-	"next_post_id": 23,
+	"next_post_id": 24,
 	"next_comment_id": 17,
 	"next_follow_id": 58,
 	"avatar": "jpg",
@@ -115,6 +115,11 @@
 			"post_id": 1476289220,
 			"body": "Nice Gnome 3.22 on arch has Wayland enabled by default. Let's see how ready it is.",
 			"date_added": 1476289198
+		},
+		{
+			"post_id": 1476306517,
+			"body": "Problems I encountered on Wayland on Gnome so far:\n1. Turning of my laptop Monitor and just using my external one doesn't work. Laptop Monitor is still turned on even if gnome settings claim it's turned off.\n1. Thunderbird header bar is transparent until I unmaximize and maximize again.\n1. Redshift isn't working any more.\n1. Global hotkey for tilda isn't working any more.\n\nThe two last once are reasonable as they rely heavily on X.\nFirst once quite annoying.\nOverall it's surprisingly working well.",
+			"date_added": 1476306494
 		}
 	],
 	"post_like": {},
