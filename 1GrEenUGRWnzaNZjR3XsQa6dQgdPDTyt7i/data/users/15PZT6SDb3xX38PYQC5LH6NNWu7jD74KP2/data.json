@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 3,
-	"next_follow_id": 19,
+	"next_comment_id": 4,
+	"next_follow_id": 21,
 	"avatar": "jpg",
 	"user_name": "David Parrish",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -14,7 +14,8 @@
 		}
 	],
 	"post_like": {
-		"1NqBLri771MGN6eJLzUP6dqenvVqdC6b5L_1476186244": 1476266203
+		"1NqBLri771MGN6eJLzUP6dqenvVqdC6b5L_1476186244": 1476266203,
+		"1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476276645": 1476281601
 	},
 	"comment": [
 		{
@@ -28,6 +29,12 @@
 			"body": "You can also run Zeronet with Docker with a `restart: always` policy. Then set `systemctl enable docker`.",
 			"post_uri": "1NqBLri771MGN6eJLzUP6dqenvVqdC6b5L_1476186244",
 			"date_added": 1476266361
+		},
+		{
+			"comment_id": 3,
+			"body": "I have no idea. I don't see a way to see your own followers. I can only see who I am following.",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476276645",
+			"date_added": 1476281632
 		}
 	],
 	"follow": [
@@ -149,6 +156,20 @@
 			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
 			"user_name": "Talnicrom",
 			"date_added": 1476266559
+		},
+		{
+			"follow_id": 19,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1JuUHRJ3A1wy5zgT6c2KviH9cHtq8Zr4X9",
+			"user_name": "Planteater",
+			"date_added": 1476284183
+		},
+		{
+			"follow_id": 20,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib",
+			"user_name": "megfault",
+			"date_added": 1476284251
 		}
 	]
 }

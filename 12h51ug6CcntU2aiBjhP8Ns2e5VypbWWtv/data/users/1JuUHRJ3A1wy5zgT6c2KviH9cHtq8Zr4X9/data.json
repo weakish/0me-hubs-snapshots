@@ -1,5 +1,5 @@
 {
-	"next_post_id": 9,
+	"next_post_id": 10,
 	"next_comment_id": 15,
 	"next_follow_id": 10,
 	"avatar": "png",
@@ -47,6 +47,11 @@
 			"post_id": 1475703538,
 			"body": "Is there really a massive disaster drill going on somewhere in Russia right now?",
 			"date_added": 1475703530
+		},
+		{
+			"post_id": 1476283014,
+			"body": "It looks like some version of I2P integration might be in alpha right now.  [ZeroNet pull request](https://github.com/HelloZeroNet/ZeroNet/pull/602) & [i2p.socket patch](https://github.com/majestrate/i2p.socket/issues/4)  I'm going to see if I can get it running.  If some other people manage to run the patched software we can test if it is possible to find and connect to I2P peers!",
+			"date_added": 1476283005
 		}
 	],
 	"post_like": {

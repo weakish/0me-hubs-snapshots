@@ -1,6 +1,6 @@
 {
 	"next_post_id": 5,
-	"next_comment_id": 16,
+	"next_comment_id": 19,
 	"next_follow_id": 11,
 	"avatar": "jpg",
 	"user_name": "Jro",
@@ -123,6 +123,24 @@
 			"body": "@Militaryriotlab: Thanks for the talk. Tried localStorage API functions without UI server running. The localStorage data are stored in browser. Not on \"server\" / ZeroNet folder.\nAnd thanks for the F12 hint. I have used the console a lot but never checked the localStorage data ...",
 			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476034657",
 			"date_added": 1476191168
+		},
+		{
+			"comment_id": 16,
+			"body": "From an other reply here on ZeroMe: no official way, but you can: open javascript console (F12), choose inner-frame from dropdown, enter: Page.cmd(\"dbQuery\", \"SELECT json.user_name FROM follow LEFT JOIN json USING (json_id) WHERE follow.user_name = 'GomZik'\")",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476276645",
+			"date_added": 1476282827
+		},
+		{
+			"comment_id": 17,
+			"body": "With callback: Page.cmd(\"dbQuery\", \"SELECT json.user_name FROM follow LEFT JOIN json USING (json_id) WHERE follow.user_name = 'GomZik'\", function (res) { console.log(JSON.stringify(res))})",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476276645",
+			"date_added": 1476282856
+		},
+		{
+			"comment_id": 18,
+			"body": "Not sure that it is correct ...",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476276645",
+			"date_added": 1476282991
 		}
 	],
 	"follow": [
