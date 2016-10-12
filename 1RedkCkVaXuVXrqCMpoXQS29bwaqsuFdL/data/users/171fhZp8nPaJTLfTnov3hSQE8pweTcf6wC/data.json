@@ -1,7 +1,7 @@
 {
 	"next_post_id": 11,
 	"next_comment_id": 17,
-	"next_follow_id": 39,
+	"next_follow_id": 41,
 	"avatar": "jpg",
 	"user_name": "Xyzos",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -410,6 +410,29 @@
 			"auth_address": "1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP",
 			"user_name": "R3df0x",
 			"date_added": 1473945978
+		},
+		{
+			"follow_id": 39,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1JV3Fhq8uJZuJ3QAYAj1GAgX8s4u8D72Qi",
+			"user_name": "海德拉",
+			"date_added": 1476291297
+		},
+		{
+			"follow_id": 40,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1JMqpYMCryPagXXCaqD94JPJjLYxheGSh8",
+			"user_name": "Operator",
+			"date_added": 1476291332
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": true,
+		"mute_ugly": true,
+		"mute_spam": true,
+		"mute_blocked": true
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }
