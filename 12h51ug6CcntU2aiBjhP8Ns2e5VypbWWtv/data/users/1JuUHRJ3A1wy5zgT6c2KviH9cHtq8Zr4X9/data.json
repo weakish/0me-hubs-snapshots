@@ -147,7 +147,7 @@
 		},
 		{
 			"comment_id": 15,
-			"body": "Running str4d's fork of ZeroNet right now with the latest i2p.socket.  I had to put the for loop starting on line 34 in `AnnounceZero.py` inside a conditional \n`if peers.get(\"i2p\",False):`\nto get it to run.  I'm running i2p services for a handful of sites but I don't have any i2p peers.",
+			"body": "Running str4d's fork of ZeroNet right now with the latest i2p.socket.  I had to put the for loop starting on line 34 in `plugins/AnnounceZeroPlugin.py` inside a conditional \n`if peers.get(\"i2p\",False):`\nto get it to run.  I'm running i2p services for a handful of sites but I don't have any i2p peers.",
 			"post_uri": "1JuUHRJ3A1wy5zgT6c2KviH9cHtq8Zr4X9_1476283014",
 			"date_added": 1476286835
 		}
