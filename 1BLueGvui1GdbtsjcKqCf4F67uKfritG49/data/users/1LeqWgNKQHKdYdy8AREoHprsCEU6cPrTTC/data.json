@@ -1,6 +1,6 @@
 {
-	"next_post_id": 62,
-	"next_comment_id": 72,
+	"next_post_id": 63,
+	"next_comment_id": 73,
 	"next_follow_id": 19,
 	"avatar": "jpg",
 	"user_name": "meidan",
@@ -301,6 +301,11 @@
 			"post_id": 1476196349,
 			"body": "Designed a example version of a BitNation ID card. It still needs a lot of work and this is just a mock design. But I think it's starting to look good. The main issue here is what counts as identifying information. What should be included in such a id? How should it be accessible with technology? \n\nIf you have any ideas, leave them in the comments and I'll see how much I can add to the card.\n\n*This is just a random experiment.\n\nhttp://localhost:8080/ipfs/QmR25o96ToKCZFCwHBLkL4AbbHGM6XwWvDHTZhnkqp2uuP",
 			"date_added": 1476196288
+		},
+		{
+			"post_id": 1476234500,
+			"body": "How did I end up writing a book? Is it because I have class in 7 days? Is that why I'm productive all of the sudden? Maybe I need more scary deadlines in my future. Apparently they work wonders.",
+			"date_added": 1476234438
 		}
 	],
 	"post_like": {
@@ -736,6 +741,12 @@
 			"body": "@ks: Thanks! ",
 			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1476196349",
 			"date_added": 1476203053
+		},
+		{
+			"comment_id": 72,
+			"body": "You know, except for when it's an exam or college class related. Then, I just end up failing in fantastically inventive ways.",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1476234500",
+			"date_added": 1476234481
 		}
 	],
 	"follow": [
