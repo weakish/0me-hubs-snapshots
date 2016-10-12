@@ -3,9 +3,9 @@
  "files": {},
  "ignore": ".*",
  "inner_path": "data/users/content.json",
- "modified": 1475319977.993,
+ "modified": 1476278558.277,
  "signs": {
-  "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i": "G1nC+WeC2opNu3risV+voYUtjlIQxd/9t2PyQCw5CJ9J+bgs3aB7mcXoR/359jinLhQREh7IgrDhfMPiboGvNqQ="
+  "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i": "HMJU9TrYp0SNg41DZEk8z2JQDxP6xjg6uqsrsGHFeY6Vhn7APVykbZ02adagmtJDawXUk6u0L/w5GXLsqUEvLcc="
  },
  "user_contents": {
   "archived": {"1MRSDFESsBXDGvNoZ5ifztA89XfEahA5ka": 1475024550},
@@ -26,7 +26,9 @@
    "banexample@zeroid.bit": false,
    "doom1@zeroid.bit": false,
    "doom1b@zeroid.bit": false,
-   "nofish@zeroid.bit": {"max_size": 20000}
+   "nofish@zeroid.bit": {"max_size": 20000},
+   "sickbird@zeroid.bit": {"max_size": 75000},
+   "userzero@zeroid.bit": {"max_size": 75000}
   }
  }
 }

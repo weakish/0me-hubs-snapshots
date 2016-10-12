@@ -1,6 +1,6 @@
 {
-	"next_post_id": 12,
-	"next_comment_id": 38,
+	"next_post_id": 13,
+	"next_comment_id": 39,
 	"next_follow_id": 10,
 	"avatar": "jpg",
 	"user_name": "MilitaryRiotLab",
@@ -61,6 +61,11 @@
 			"post_id": 1476276645,
 			"body": "Is there any way to find out who is following yourself?",
 			"date_added": 1476276634
+		},
+		{
+			"post_id": 1476279140,
+			"body": "Strange behavior about ZeroHello:\nwhen someone @me or reply my post on ZeroTalk, it doesn't show up on the homepage\nwhat is more strange is that\nI try both proxy and local client, the ZeroHello shows totally different versions/content\n\nIs that a bug or just normal ?",
+			"date_added": 1476279128
 		}
 	],
 	"post_like": {
@@ -281,6 +286,12 @@
 			"body": "I am using Zeronet on android by a self-hosted proxy, https://onlyzero.net",
 			"post_uri": "1KgKHGXvUSYxn26xNpVo36TCCiYaJcZysP_1476216447",
 			"date_added": 1476254367
+		},
+		{
+			"comment_id": 38,
+			"body": "@Zerogate: Be very careful ! The free version of .tk domain is notorious for deleting domain name especially when there is certain amount of visitors, then you need to buy them back with higher price or just lost the domain to some \"advertisers\" \nThere is no free lunch\n\nref:\nhttp://www.techelex.org/why-not-use-dot-tk-domain/\nhttps://www.quora.com/Dot-tk-just-deleted-all-my-domains-is-that-legal",
+			"post_uri": "1M8Mbi3PX5RdWxeQUpG1C9yKgzT9ZGssny_1476133988",
+			"date_added": 1476277230
 		}
 	],
 	"follow": [
