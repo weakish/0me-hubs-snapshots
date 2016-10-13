@@ -1,13 +1,26 @@
 {
-	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_post_id": 3,
+	"next_comment_id": 2,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "ThinkProgram",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"intro": "Random ZeroNet user",
-	"post": [],
+	"post": [
+		{
+			"post_id": 1476355269,
+			"body": ".",
+			"date_added": 1476355267
+		}
+	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Flyman: ?",
+			"post_uri": "19AAsU7HXRC1bmCAM8DeAcNjEvwSaKrB7u_1476355269",
+			"date_added": 1476355355
+		}
+	],
 	"follow": []
 }
