@@ -1,6 +1,6 @@
 {
 	"next_post_id": 15,
-	"next_comment_id": 40,
+	"next_comment_id": 43,
 	"next_follow_id": 12,
 	"avatar": "jpg",
 	"user_name": "MilitaryRiotLab",
@@ -308,6 +308,24 @@
 			"body": "like 127.0.0.1 ?",
 			"post_uri": "15mbQo7qMzz7e2kBiLbkDrYDo2pzzWvCBH_1476350766",
 			"date_added": 1476350941
+		},
+		{
+			"comment_id": 40,
+			"body": "@P2P: TESTED: post\\_uri = `directory` from `json` (without `data/userdb/` ) `_` `post_id`",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476358853",
+			"date_added": 1476363625
+		},
+		{
+			"comment_id": 41,
+			"body": "@Jro: sorry for the late reply... something wrong with my zerome setting\nIt works! Thanks\nSomeone just copy whole wikipedia as username (I paste it in the next comment, too looooong)\n",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476276645",
+			"date_added": 1476370246
+		},
+		{
+			"comment_id": 42,
+			"body": "Senior Doctor Admiral General Profesor Master Dicklord Baron Archduke Marmaduke Viceroy Admiral Wing Command (Did I Mention Admiral?) Ali Ackbar Dickwad (US Listeni/bəˈrɑːk huːˈseɪn oʊˈbɑːmə/;[1][2] born August 4, 1961) is the 44th and current President of the United States. He is the first African American to hold the office and the first president born outside the continental United States. Born in Honolulu, Hawaii, Obama is a graduate of Columbia University and Harvard Law School, where he was president of the Harvard Law Review. He was a community organizer in Chicago before earning his law degree. He worked as a civil rights attorney and taught constitutional law at the University of Chicago Law School between 1992 and 2004. While serving three terms representing the 13th District in the Illinois Senate from 1997 to 2004, he ran unsuccessfully in the Democratic primary for the United States House of Representatives in 2000 against incumbent Bobby Rush.\\n\\nIn 2004, Obama received national attention during his campaign to represent Illinois in the United States Senate with his victory in the March Democratic Party primary, his keynote address at the Democratic National Convention in July, and his election to the Senate in November. He began his presidential campaign in 2007 and, after a close primary campaign against Hillary Clinton in 2008, he won sufficient delegates in the Democratic Party primaries to receive the presidential nomination. He then defeated Republican nominee John McCain in the general election, and was inaugurated as president on January 20, 2009. Nine months after his inauguration, Obama was named the 2009 Nobel Peace Prize laureate.\\n\\nDuring his first two years in office, Obama signed into law economic stimulus legislation in response to the Great Recession in the form of the American Recovery and Reinvestment Act of 2009 and the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010. Other major domestic initiatives in his first term included the Patient Protection and Affordable Care Act, often referred to as \\\"Obamacare\\\"; the Dodd–Frank Wall Street Reform and Consumer Protection Act; and the Don't Ask, Don't Tell Repeal Act of 2010. In foreign policy, Obama ended U.S. military involvement in the Iraq War, increased U.S. troop levels in Afghanistan, signed the New START arms control treaty with Russia, ordered U.S. military involvement in Libya in opposition to Muammar Gaddafi, and ordered the military operation that resulted in the death of Osama bin Laden. In January 2011, the Republicans regained control of the House of Representatives as the Democratic Party lost a total of 63 seats; and, after a lengthy debate over federal spending and whether or not to raise the nation's debt limit, Obama signed the Budget Control Act of 2011 and the American Taxpayer Relief Act of 2012.\\n\\nObama was reelected president in November 2012, defeating Republican nominee Mitt Romney, and was sworn in for a second term on January 20, 2013. During his second term, Obama has promoted domestic policies related to gun control in response to the Sandy Hook Elementary School shooting, and has called for greater inclusiveness for LGBT Americans, while his administration has filed briefs which urged the Supreme Court to strike down part of the federal Defense of Marriage Act and state level same-sex marriage bans as unconstitutional. In foreign policy, Obama ordered U.S. military intervention in Iraq in response to gains made by ISIL after the 2011 withdrawal from Iraq, continued the process of ending U.S. combat operations in Afghanistan, promoted discussions that led to the 2015 Paris Agreement on global climate change, brokered a nuclear deal with Iran, and normalized U.S. relations with Cuba.",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476276645",
+			"date_added": 1476370249
 		}
 	],
 	"follow": [
@@ -389,7 +407,9 @@
 		"mute_blocked": false
 	},
 	"blocked": [],
-	"flags": {},
+	"flags": {
+		"post-19AAsU7HXRC1bmCAM8DeAcNjEvwSaKrB7u_1476365001": 0
+	},
 	"comment_like": {
 		"18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6_6": 1475803156,
 		"1JV3Fhq8uJZuJ3QAYAj1GAgX8s4u8D72Qi_1": 1476090654,
