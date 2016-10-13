@@ -1,0 +1,21 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "HKXfwz7Qb7WHlwlFXupax6P++fl9/WFuR9kGyRyjLCIR85cPHBS1GDPbEG/fM6tXCJtr1iuZL2wn8njNkjdlwwM=",
+ "cert_user_id": "nkacrypto@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "035f35fa40f9c2b7451ac7b933d8cb9ce0740aaeef4c386d7ea539d07c6179a5",
+   "size": 1332
+  },
+  "data.json": {
+   "sha512": "e9fcf329880f145ae9389f9457de0ebf1bd69c1e78a13fd6212761512ab9a21c",
+   "size": 47815
+  }
+ },
+ "inner_path": "data/users/1AWKKjCvCFvUbmrbBtqrMSfAGZ8D6tAVHt/content.json",
+ "modified": 1476326772.905645,
+ "signs": {
+  "1AWKKjCvCFvUbmrbBtqrMSfAGZ8D6tAVHt": "HCfeVUZLIvZosGzQValLliAkzK2CATnHnkTb6QbGqqqJwPnJAFJQc9BGP4TRk6o+PcANWeoy9npFSbwCh3zz8No="
+ }
+}
