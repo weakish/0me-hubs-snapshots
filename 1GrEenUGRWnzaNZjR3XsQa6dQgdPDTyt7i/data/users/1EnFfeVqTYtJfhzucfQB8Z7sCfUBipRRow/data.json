@@ -1,5 +1,5 @@
 {
-	"next_post_id": 14,
+	"next_post_id": 15,
 	"next_comment_id": 40,
 	"next_follow_id": 12,
 	"avatar": "jpg",
@@ -71,6 +71,11 @@
 			"post_id": 1476349603,
 			"body": "screw the calculus mid-term test",
 			"date_added": 1476349590
+		},
+		{
+			"post_id": 1476358853,
+			"body": "I am trying to create #RSS from ZeroMe (maybe ZeroTalk also)\nSo, I was studying ZeroMe.db, question is \n\nWhere does the `post_uri` in `comment` table come from ?\nand how it links to post ?\nIt seems that it came from somewhere then append `_timestamp`",
+			"date_added": 1476358839
 		}
 	],
 	"post_like": {

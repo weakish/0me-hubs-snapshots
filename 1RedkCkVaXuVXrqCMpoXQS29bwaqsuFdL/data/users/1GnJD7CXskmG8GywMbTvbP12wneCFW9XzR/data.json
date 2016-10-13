@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 52,
+	"next_comment_id": 53,
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -371,6 +371,12 @@
 			"body": "Hmm, I guess create an empty `content.json` and set it readonly will also work.",
 			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1474862332",
 			"date_added": 1475238666
+		},
+		{
+			"comment_id": 52,
+			"body": "I guess GTK2 is faster. GTK2 does not support those hi-res screens though.",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1476118456",
+			"date_added": 1476357002
 		}
 	]
 }
