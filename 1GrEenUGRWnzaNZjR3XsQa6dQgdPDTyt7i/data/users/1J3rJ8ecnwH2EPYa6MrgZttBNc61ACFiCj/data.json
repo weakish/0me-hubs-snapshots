@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 17,
+	"next_comment_id": 18,
 	"user_name": "Nofish",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -107,6 +107,12 @@
 			"body": "Here is my benchmarks using a huge zeronet content.json file: https://github.com/HelloZeroNet/ZeroNet/issues/98#issuecomment-244796124",
 			"post_uri": "18oQPES15W27Ks1GBZRKx9zf9wFmXLraEW_1475868414",
 			"date_added": 1475869287
+		},
+		{
+			"comment_id": 17,
+			"body": "You can see the SQL queries for ZeroMe in the dbschema.json file. (feeds node)",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476358853",
+			"date_added": 1476385613
 		}
 	]
 }
