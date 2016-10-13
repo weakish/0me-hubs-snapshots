@@ -292,5 +292,17 @@
 			"user_name": "Zero",
 			"date_added": 1476103322
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [
+		"1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk",
+		"19Mn6dCwtPj7NFsLTDWMuDK4jU5WKBkDdm"
+	],
+	"flags": {},
+	"comment_like": {}
 }
