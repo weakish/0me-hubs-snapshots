@@ -1,5 +1,5 @@
 {
-	"next_post_id": 14,
+	"next_post_id": 15,
 	"next_comment_id": 7,
 	"next_follow_id": 7,
 	"avatar": "jpg",
@@ -71,6 +71,11 @@
 			"post_id": 1475909525,
 			"body": "Что общего у ZeroNet и кубинского интернета?\nЧитайте [ТУТ](http://127.0.0.1:43110/brom.bit/?Post:15)",
 			"date_added": 1475909512
+		},
+		{
+			"post_id": 1476340003,
+			"body": "Поступила мысль написать взлом wi-fi брутом в лоб. Без вылова хэндшейка. Это будет полезно обладателям wi-fi карточек поддержка дров которых не добавлена в Kali или aircrack-ng, так что, думаю в скором времени в  [ __brom__.py ](/brom.bit) ожидается новый пост ;)",
+			"date_added": 1476339989
 		}
 	],
 	"post_like": {
@@ -145,5 +150,14 @@
 			"user_name": "Brom",
 			"date_added": 1475318410
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }
