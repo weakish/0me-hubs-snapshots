@@ -1,7 +1,7 @@
 {
-	"next_post_id": 38,
+	"next_post_id": 39,
 	"next_comment_id": 23,
-	"next_follow_id": 119,
+	"next_follow_id": 121,
 	"avatar": "png",
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -191,6 +191,11 @@
 			"post_id": 1476107896,
 			"body": " Windows Mobile does not support two factor auth, you have to use an app password. Now app password does not work on my phone (used to work on previous versions of Windows Mobile 10). I have to turn off two factor auth. Not too old Android versions support two factor auth out of the box.",
 			"date_added": 1476107859
+		},
+		{
+			"post_id": 1476366105,
+			"body": "Programming languages are clearer than natural languages. So \"well-commented code\" may not be well-written.\n\nTo reduce commenting:\n\n- Use meaningful function and variable/value name.\n- Declare local variable near its usage.\n- Avoid deep nested function call expression. Extract meaningful immediate value declaration.\n\nHere 'commenting' mainly refers to inline comments,\ni.e. comments explaining implementation details.\nDoc annotation of public modules and functions on their usage is fine.",
+			"date_added": 1476366067
 		}
 	],
 	"post_like": {
@@ -1117,6 +1122,20 @@
 			"auth_address": "1NqBLri771MGN6eJLzUP6dqenvVqdC6b5L",
 			"user_name": "01served",
 			"date_added": 1475749254
+		},
+		{
+			"follow_id": 119,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1MWMAYNuv9R5HKFcnzhiHoMHLYE8LMRTbV",
+			"user_name": "nykma",
+			"date_added": 1476364840
+		},
+		{
+			"follow_id": 120,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd",
+			"user_name": "Nassau",
+			"date_added": 1476365663
 		}
 	]
 }
