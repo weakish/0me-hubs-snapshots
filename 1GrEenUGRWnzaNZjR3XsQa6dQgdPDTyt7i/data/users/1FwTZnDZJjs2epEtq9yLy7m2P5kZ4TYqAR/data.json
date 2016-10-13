@@ -1,6 +1,6 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 4,
+	"next_comment_id": 5,
 	"next_follow_id": 4,
 	"avatar": "generate",
 	"user_name": "Becoming",
@@ -20,7 +20,8 @@
 	],
 	"post_like": {
 		"1V7usnfmabQXPSNC2zrCpF2ed2jDZaujS_1475364160": 1475389154,
-		"15ANYSsjScSzTqt4L6WreCyr3SBvQ15xc4_1475342238": 1475389232
+		"15ANYSsjScSzTqt4L6WreCyr3SBvQ15xc4_1475342238": 1475389232,
+		"1KgKHGXvUSYxn26xNpVo36TCCiYaJcZysP_1476216447": 1476327959
 	},
 	"comment": [
 		{
@@ -40,6 +41,12 @@
 			"body": "@Elspru: Peace is victory in war against nature - and we are all part of nature.",
 			"post_uri": "1D7FEnVEfqgt5ExcAvuZfRczaXDScKCrMT_1475202014",
 			"date_added": 1476169779
+		},
+		{
+			"comment_id": 4,
+			"body": "Nice solutions",
+			"post_uri": "1KgKHGXvUSYxn26xNpVo36TCCiYaJcZysP_1476216447",
+			"date_added": 1476328006
 		}
 	],
 	"follow": [
@@ -73,5 +80,8 @@
 	},
 	"blocked": [],
 	"flags": {},
-	"comment_like": {}
+	"comment_like": {
+		"1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_37": 1476327942,
+		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_13": 1476327961
+	}
 }
