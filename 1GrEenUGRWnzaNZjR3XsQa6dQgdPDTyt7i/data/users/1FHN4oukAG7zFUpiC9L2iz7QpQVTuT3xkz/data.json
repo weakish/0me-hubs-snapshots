@@ -1,7 +1,7 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 4,
-	"next_follow_id": 5,
+	"next_comment_id": 6,
+	"next_follow_id": 6,
 	"avatar": "generate",
 	"user_name": "Nekocross",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -37,6 +37,18 @@
 			"body": "@Militaryriotlab: 我当时以为被墙或者被劫持了",
 			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476034657",
 			"date_added": 1476244246
+		},
+		{
+			"comment_id": 4,
+			"body": "看到了，原来github也会配合朝廷审查",
+			"post_uri": "19AAsU7HXRC1bmCAM8DeAcNjEvwSaKrB7u_1476364618",
+			"date_added": 1476364869
+		},
+		{
+			"comment_id": 5,
+			"body": "@Woodsfirezyj: 虽然朝廷干不掉zn上的信息，但可以干掉发布者。要小心啊",
+			"post_uri": "19AAsU7HXRC1bmCAM8DeAcNjEvwSaKrB7u_1476364618",
+			"date_added": 1476443763
 		}
 	],
 	"follow": [
@@ -67,6 +79,13 @@
 			"auth_address": "157Bh49UyzWKSdfgZnN5ShuEFunubzhTP3",
 			"user_name": "Deaththekid",
 			"date_added": 1476107560
+		},
+		{
+			"follow_id": 5,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "19AAsU7HXRC1bmCAM8DeAcNjEvwSaKrB7u",
+			"user_name": "ThinkProgram",
+			"date_added": 1476365144
 		}
 	]
 }
