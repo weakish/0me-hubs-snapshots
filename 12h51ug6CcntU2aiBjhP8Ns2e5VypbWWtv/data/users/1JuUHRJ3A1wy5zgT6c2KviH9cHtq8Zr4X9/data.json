@@ -1,6 +1,6 @@
 {
 	"next_post_id": 10,
-	"next_comment_id": 16,
+	"next_comment_id": 17,
 	"next_follow_id": 10,
 	"avatar": "png",
 	"comment_order": 1,
@@ -151,6 +151,12 @@
 			"body": "Running str4d's fork of ZeroNet right now with the latest i2p.socket.  I had to put the for loop starting on line 34 in `plugins/AnnounceZeroPlugin.py` inside a conditional \n`if peers.get(\"i2p\",False):`\nto get it to run.  I'm running i2p services for a handful of sites but I don't have any i2p peers.",
 			"post_uri": "1JuUHRJ3A1wy5zgT6c2KviH9cHtq8Zr4X9_1476283014",
 			"date_added": 1476286835
+		},
+		{
+			"comment_id": 16,
+			"body": "Would you elaborate?",
+			"post_uri": "17GoSBQa419SCrJkj4djvTAgRFCDWHKuM3_1476401739",
+			"date_added": 1476404098
 		}
 	],
 	"follow": [
