@@ -1,6 +1,6 @@
 {
 	"next_post_id": 17,
-	"next_comment_id": 50,
+	"next_comment_id": 55,
 	"next_follow_id": 12,
 	"avatar": "jpg",
 	"user_name": "MilitaryRiotLab",
@@ -379,6 +379,36 @@
 			"body": "@P2P: 如果是用戶自己follow的也是可以，但是伺服器負載會是一個問題",
 			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476461868",
 			"date_added": 1476464357
+		},
+		{
+			"comment_id": 50,
+			"body": "@P2P: 但是我怎樣知道哪個用戶主要用中文？",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476461868",
+			"date_added": 1476464715
+		},
+		{
+			"comment_id": 51,
+			"body": "@Userzero: but posting \"he is a spammer\", can't help you ...",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1476461557",
+			"date_added": 1476464843
+		},
+		{
+			"comment_id": 52,
+			"body": "@P2P: 不如我直接用你follow的用戶名單吧",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476461868",
+			"date_added": 1476465153
+		},
+		{
+			"comment_id": 53,
+			"body": "@P2P: [找到方法了！](http://stackoverflow.com/questions/4923319/php-check-if-the-string-has-chinese-chars)\n用正規表示法檢測用戶簡介是否含有中文字，除非某用戶不改變預設簡介，否則這方法挺精準",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476461868",
+			"date_added": 1476465722
+		},
+		{
+			"comment_id": 54,
+			"body": "你好",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476493035",
+			"date_added": 1476466019
 		}
 	],
 	"follow": [
