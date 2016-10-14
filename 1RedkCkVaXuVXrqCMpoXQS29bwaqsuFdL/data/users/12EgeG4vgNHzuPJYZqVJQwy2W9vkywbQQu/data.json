@@ -1,5 +1,5 @@
 {
-	"next_post_id": 8,
+	"next_post_id": 9,
 	"next_comment_id": 53,
 	"next_follow_id": 14,
 	"avatar": "png",
@@ -41,6 +41,11 @@
 			"post_id": 1473012327,
 			"body": "Following the unexpected large interest from a music sharing [experiment conducted last month](http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Post/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu/4), I have decided to overhaul it and make it fully stable and powerful, compatible both embedded in a webpage (such as on the NinjaBeats listing or a fork of ZeroMe) and just stand-alone.\n\n**Introducing the NinjaBeats music streamer v2**. It works with a much broader range of music files and has lots of error catching and features compared to my last version.\n\n_Here's what's new:_\n- A complete overhaul on all fronts.\n- Supports album art which is shown beside the player\n- It now shows the name of the currently playing track - even if the ID tags are missing or incorrect, by using some simple algorithms on the track's filename.\n- Your existing links will \"just work\" on this new streamer without even needing to change the URL\n- You can now use a torrent info hash/ID like in Bwoi Music rather than needing to put the whole magnet link.\n- Much faster, more reliable and more detailed in the statistics\n- Even more stuff that I don't want to list here\n\n_Demos!_\n[Stream 7 Years by Lukas Graham (using torrent info hash)](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html?audioFileID=c180e66e0892890cc0f1aa36ec528658e547d799)\n[Stream Bad Habit by The Kooks (using magnet link)](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html?audioFile=magnet:?xt=urn:btih:060097c0fbdd735173e89f021ae2b5a9c3df9abc&dn=The+Kooks&tr=wss%3A%2F%2Ftracker.btorrent.xyz&tr=wss%3A%2F%2Ftracker.fastcast.nz&tr=wss%3A%2F%2Ftracker.openwebtorrent.com&tr=wss%3A%2F%2Ftracker.webtorrent.io)",
 			"date_added": 1473012320
+		},
+		{
+			"post_id": 1476477476,
+			"body": "It's been a while, I know... Sorry about that. What's been happening since I was gone? In short, I've been going through some personal difficulties (and still am to a point) and am working on them alongside my increased amounts of academic work I've been receiving.\n\nUnfortunately that has caused the NinjaBeats project to be delayed, but the good news is that I have gotten permission from my examining board to work on NinjaBeats as part of my coursework, meaning the project isn't dead! :D\n\nFuture updates are in the works, including:\n- Albums and playlists\n- More dynamic database and listing work (it's fairly static at the moment... not ideal when you have over 1000 unique albums)\n- Seeding when the page is closed (potentially via a ZeroMux + WebTorrent hybrid)\n- Setting up lots of physical, hidden \"mini servers\" all over the place to upload, seed and stream seed the huge 300GB collection of FLACs\n\nAs the project progresses, I shall be posting shorter but more frequent status updates. Stay tuned!",
+			"date_added": 1476477468
 		}
 	],
 	"post_like": {
