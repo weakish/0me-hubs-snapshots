@@ -1,6 +1,6 @@
 {
 	"next_post_id": 4,
-	"next_comment_id": 5,
+	"next_comment_id": 9,
 	"next_follow_id": 6,
 	"avatar": "generate",
 	"user_name": "Brkaka",
@@ -48,6 +48,18 @@
 			"body": "@Sirenyc: acho que é só uma questão de tempo. ZeroNet é muito atraente pra piratas, acho que vai rolar.",
 			"post_uri": "17GoSBQa419SCrJkj4djvTAgRFCDWHKuM3_2",
 			"date_added": 1471320170
+		},
+		{
+			"comment_id": 6,
+			"body": "@Planteater: Basically, it does not encrypt chats by default and when it does, it is done with bad crypto. They also have a copy of all of the users' chats.\n\nMore info here:\n[Is Telegram secure? - Information Security Stack Exchange](https://security.stackexchange.com/questions/49782/is-telegram-secure)\n[Why You Should Stop Using Telegram Right Now - GIZMODO](https://gizmodo.com/why-you-should-stop-using-telegram-right-now-1782557415)\nhttps://en.wikipedia.org/wiki/Telegram_(software)",
+			"post_uri": "17GoSBQa419SCrJkj4djvTAgRFCDWHKuM3_1476401739",
+			"date_added": 1476407270
+		},
+		{
+			"comment_id": 8,
+			"body": "@Planteater: No problem :) The last one was for the \"Reception\" section, but the markdown was not working.",
+			"post_uri": "17GoSBQa419SCrJkj4djvTAgRFCDWHKuM3_1476401739",
+			"date_added": 1476408544
 		}
 	],
 	"follow": [
