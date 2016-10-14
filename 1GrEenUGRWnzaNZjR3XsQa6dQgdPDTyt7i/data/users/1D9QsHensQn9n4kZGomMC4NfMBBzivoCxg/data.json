@@ -1,6 +1,6 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 1,
+	"next_comment_id": 3,
 	"next_follow_id": 3,
 	"avatar": "generate",
 	"user_name": "Fungos",
@@ -19,7 +19,20 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Border0464fred: Not sure, something that keeps me coming back to zeronet for some reason.",
+			"post_uri": "1D9QsHensQn9n4kZGomMC4NfMBBzivoCxg_1476326404",
+			"date_added": 1476404740
+		},
+		{
+			"comment_id": 2,
+			"body": "@ZAlex: Thanks for sharing :)",
+			"post_uri": "1D9QsHensQn9n4kZGomMC4NfMBBzivoCxg_1476326404",
+			"date_added": 1476404918
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 1,
