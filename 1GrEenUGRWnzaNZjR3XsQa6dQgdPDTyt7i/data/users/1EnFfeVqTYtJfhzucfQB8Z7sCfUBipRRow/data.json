@@ -1,6 +1,6 @@
 {
-	"next_post_id": 15,
-	"next_comment_id": 43,
+	"next_post_id": 17,
+	"next_comment_id": 50,
 	"next_follow_id": 12,
 	"avatar": "jpg",
 	"user_name": "MilitaryRiotLab",
@@ -76,6 +76,16 @@
 			"post_id": 1476358853,
 			"body": "I am trying to create #RSS from ZeroMe (maybe ZeroTalk also)\nSo, I was studying ZeroMe.db, question is \n\nWhere does the `post_uri` in `comment` table come from ?\nand how it links to post ?\nIt seems that it came from somewhere then append `_timestamp`",
 			"date_added": 1476358839
+		},
+		{
+			"post_id": 1476461645,
+			"body": "CHECK CHECK\n\\#RSS of ZeroMe(plus) is finished. Now, it's now in alpha phrase.\nPlease report any problems / bugs\n\nhttps://onlyzero.net/ZeroMe_rss/\n\n[Github](https://github.com/MilitaryRiotLab/ZeroMe-RSS)\nP.S I am **NOT** professional, poor coding will be expected",
+			"date_added": 1476461630
+		},
+		{
+			"post_id": 1476461868,
+			"body": "我剛建立了 ZeroMe 做來源的 \\#RSS ，有空可試試\n\nhttps://onlyzero.net/ZeroMe_rss/\n\n[Github](https://github.com/MilitaryRiotLab/ZeroMe-RSS)\nP.S 業餘程序員，渣coding",
+			"date_added": 1476461852
 		}
 	],
 	"post_like": {
@@ -327,6 +337,48 @@
 			"body": "Senior Doctor Admiral General Profesor Master Dicklord Baron Archduke Marmaduke Viceroy Admiral Wing Command (Did I Mention Admiral?) Ali Ackbar Dickwad (US Listeni/bəˈrɑːk huːˈseɪn oʊˈbɑːmə/;[1][2] born August 4, 1961) is the 44th and current President of the United States. He is the first African American to hold the office and the first president born outside the continental United States. Born in Honolulu, Hawaii, Obama is a graduate of Columbia University and Harvard Law School, where he was president of the Harvard Law Review. He was a community organizer in Chicago before earning his law degree. He worked as a civil rights attorney and taught constitutional law at the University of Chicago Law School between 1992 and 2004. While serving three terms representing the 13th District in the Illinois Senate from 1997 to 2004, he ran unsuccessfully in the Democratic primary for the United States House of Representatives in 2000 against incumbent Bobby Rush.\\n\\nIn 2004, Obama received national attention during his campaign to represent Illinois in the United States Senate with his victory in the March Democratic Party primary, his keynote address at the Democratic National Convention in July, and his election to the Senate in November. He began his presidential campaign in 2007 and, after a close primary campaign against Hillary Clinton in 2008, he won sufficient delegates in the Democratic Party primaries to receive the presidential nomination. He then defeated Republican nominee John McCain in the general election, and was inaugurated as president on January 20, 2009. Nine months after his inauguration, Obama was named the 2009 Nobel Peace Prize laureate.\\n\\nDuring his first two years in office, Obama signed into law economic stimulus legislation in response to the Great Recession in the form of the American Recovery and Reinvestment Act of 2009 and the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010. Other major domestic initiatives in his first term included the Patient Protection and Affordable Care Act, often referred to as \\\"Obamacare\\\"; the Dodd–Frank Wall Street Reform and Consumer Protection Act; and the Don't Ask, Don't Tell Repeal Act of 2010. In foreign policy, Obama ended U.S. military involvement in the Iraq War, increased U.S. troop levels in Afghanistan, signed the New START arms control treaty with Russia, ordered U.S. military involvement in Libya in opposition to Muammar Gaddafi, and ordered the military operation that resulted in the death of Osama bin Laden. In January 2011, the Republicans regained control of the House of Representatives as the Democratic Party lost a total of 63 seats; and, after a lengthy debate over federal spending and whether or not to raise the nation's debt limit, Obama signed the Budget Control Act of 2011 and the American Taxpayer Relief Act of 2012.\\n\\nObama was reelected president in November 2012, defeating Republican nominee Mitt Romney, and was sworn in for a second term on January 20, 2013. During his second term, Obama has promoted domestic policies related to gun control in response to the Sandy Hook Elementary School shooting, and has called for greater inclusiveness for LGBT Americans, while his administration has filed briefs which urged the Supreme Court to strike down part of the federal Defense of Marriage Act and state level same-sex marriage bans as unconstitutional. In foreign policy, Obama ordered U.S. military intervention in Iraq in response to gains made by ISIL after the 2011 withdrawal from Iraq, continued the process of ending U.S. combat operations in Afghanistan, promoted discussions that led to the 2015 Paris Agreement on global climate change, brokered a nuclear deal with Iran, and normalized U.S. relations with Cuba.",
 			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476276645",
 			"date_added": 1476370249
+		},
+		{
+			"comment_id": 43,
+			"body": "Come on, you post this post everyday, don't you feel bored?",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1476461557",
+			"date_added": 1476461605
+		},
+		{
+			"comment_id": 44,
+			"body": "@Userzero: but I think it's a little bit too frequent, maybe post to ZeroTalk can spear the word, I believe every active user here already know this guy is spammer",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1476461557",
+			"date_added": 1476462017
+		},
+		{
+			"comment_id": 45,
+			"body": "@Userzero: You mean I spam my website in here? Just for the sake of clarification",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1476461557",
+			"date_added": 1476463583
+		},
+		{
+			"comment_id": 46,
+			"body": "@P2P: 想不到近年也有人用RSS...",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476461868",
+			"date_added": 1476463646
+		},
+		{
+			"comment_id": 47,
+			"body": "@P2P: 沒錯",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476461868",
+			"date_added": 1476464054
+		},
+		{
+			"comment_id": 48,
+			"body": "@P2P: Everyone",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476461868",
+			"date_added": 1476464267
+		},
+		{
+			"comment_id": 49,
+			"body": "@P2P: 如果是用戶自己follow的也是可以，但是伺服器負載會是一個問題",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476461868",
+			"date_added": 1476464357
 		}
 	],
 	"follow": [

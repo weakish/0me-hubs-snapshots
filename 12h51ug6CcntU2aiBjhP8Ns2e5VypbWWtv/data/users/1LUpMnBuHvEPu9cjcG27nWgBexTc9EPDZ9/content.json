@@ -4,14 +4,18 @@
  "cert_sign": "HyJXoVICuiITZoPPolz8gIiNY7ue4Vu2deBugYK/ECPlJwi/dp4LIAXM67G3nWiCibDIJX2PpHDzshRz/U5NpOs=",
  "cert_user_id": "j0e@kaffie.bit",
  "files": {
+  "avatar.jpg": {
+   "sha512": "92de0b1fefa8475f81839f4578a8e3dd656bd8decf5441135a7e5fe5702543f4",
+   "size": 1539
+  },
   "data.json": {
-   "sha512": "a76e823d1b3bfab8a23204283729b60e57c746974cefcd86c34a81f95aab09d1",
-   "size": 907
+   "sha512": "ae0e3b9200392bc4be4e6c22aa20e0948e6d43f48a54f51bd0ed9fd0e3cae4b5",
+   "size": 1261
   }
  },
  "inner_path": "data/users/1LUpMnBuHvEPu9cjcG27nWgBexTc9EPDZ9/content.json",
- "modified": 1476457555.936261,
+ "modified": 1476463963.0478,
  "signs": {
-  "1LUpMnBuHvEPu9cjcG27nWgBexTc9EPDZ9": "GzzO2dKy7uP46b6Jnky669EmLLiodTAFldG/VgSLRbwCoNHQ7px9aclc2gb64L/x4HGuzsarGTdaybKYtE1SfVo="
+  "1LUpMnBuHvEPu9cjcG27nWgBexTc9EPDZ9": "G6T9MlBFbueQGJUV6kzX5NNST0/Cv/gamSvS2nCrQQOdk/zt/TkOYuaWewaWyw9GWgBhOBGbtef+6ncR/Hgdtxs="
  }
 }
