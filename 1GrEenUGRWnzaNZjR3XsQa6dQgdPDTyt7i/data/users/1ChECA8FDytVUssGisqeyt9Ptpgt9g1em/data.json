@@ -1,0 +1,53 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 5,
+	"avatar": "generate",
+	"user_name": "Modaeurope",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1476517721,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1476517746,
+			"body": "This is my first time here. What should i look for?",
+			"date_added": 1476517744
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "16rYs7mTpWRqNmRurz8NgcWgdZbe44QABS",
+			"user_name": "Blackeyes666",
+			"date_added": 1476517749
+		},
+		{
+			"follow_id": 2,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "17F7Tv4U5FubX94o8SqGmM18bX6cpKbrXW",
+			"user_name": "64",
+			"date_added": 1476517753
+		},
+		{
+			"follow_id": 3,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1KG3hMQ6QiC8a8nLGgHoyCRg6XEmDM5mfd",
+			"user_name": "Is",
+			"date_added": 1476517756
+		},
+		{
+			"follow_id": 4,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1QKALTkDmKyTC5L7mZZu6R8ARLmrRfiAhL",
+			"user_name": "Bru",
+			"date_added": 1476517757
+		}
+	]
+}
