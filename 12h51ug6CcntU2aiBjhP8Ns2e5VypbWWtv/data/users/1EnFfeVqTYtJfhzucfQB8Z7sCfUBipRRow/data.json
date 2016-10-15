@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 3,
+	"next_comment_id": 4,
 	"user_name": "MilitaryRiotLab",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {
@@ -17,6 +17,12 @@
 			"body": "Is Whatsapp safer than Telegram? After looking at their security white paper [1], they don't store keys and use ECDH as key exchange, AES256 as cipher and SHA256 as HMAC, sounds like normal TLS would use  \n\n[1] https://www.whatsapp.com/security/WhatsApp-Security-Whitepaper.pdf",
 			"post_uri": "17GoSBQa419SCrJkj4djvTAgRFCDWHKuM3_1476401739",
 			"date_added": 1476417840
+		},
+		{
+			"comment_id": 3,
+			"body": "@Anonymous2: Yeah, you're right. Let's reverse engineering it !",
+			"post_uri": "17GoSBQa419SCrJkj4djvTAgRFCDWHKuM3_1476401739",
+			"date_added": 1476501428
 		}
 	],
 	"flags": {},
