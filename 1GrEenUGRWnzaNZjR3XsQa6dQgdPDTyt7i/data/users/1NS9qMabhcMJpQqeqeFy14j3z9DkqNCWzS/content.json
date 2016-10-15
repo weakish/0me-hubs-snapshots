@@ -4,14 +4,18 @@
  "cert_sign": "HAMRpsa1mZXci6hmmjnL7d/smcJQLzJxe93hVMPWLSOuHNYOl7ZvJbUVOBlwJJFui5UZk2q1irdjE+9a5nYrkms=",
  "cert_user_id": "ilcont3j@zeroid.bit",
  "files": {
+  "avatar.jpg": {
+   "sha512": "260ee72f5637a5ecd457ea83b50c034e7bcd9774de30b2fba92e3a071185bfcd",
+   "size": 1811
+  },
   "data.json": {
-   "sha512": "641778317444f6e538fe803de778f561f1b1bad5013866595b654e33f7002139",
-   "size": 340
+   "sha512": "9c918fb8065fac720a2ad2dc237b5759f3334750e47d6012bec89e8dec446e7b",
+   "size": 335
   }
  },
  "inner_path": "data/users/1NS9qMabhcMJpQqeqeFy14j3z9DkqNCWzS/content.json",
- "modified": 1476390594.147407,
+ "modified": 1476553811.377,
  "signs": {
-  "1NS9qMabhcMJpQqeqeFy14j3z9DkqNCWzS": "G2hSesukBaEOjpfrcBLXZomWDxfeUae4ZErgBFHlfe1VxLoRB8FyLBUbY2LnROCHBRII+aKOWgHBs979WdW97oA="
+  "1NS9qMabhcMJpQqeqeFy14j3z9DkqNCWzS": "G7TEOCOU0sAekdQ5jejm8PxXfZ6vI40dnWGQrknxe0fhhKgiEZtFVXiRxBQnLyrjghMoaZZrEMqSBjPBJZ2kmTg="
  }
 }

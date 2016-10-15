@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 175,
+	"next_comment_id": 178,
 	"user_name": "Shellbound",
 	"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
 	"post_like": {
@@ -80,7 +80,11 @@
 		"1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib_1476290236": 1476299766,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1476247331": 1476299850,
 		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1476220188": 1476299942,
-		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1476125491": 1476300777
+		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1476125491": 1476300777,
+		"1K6HCsJskZENYG42GR7ocJXg9WjFbEq9hc_1476551330": 1476551801,
+		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1476532363": 1476552370,
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1476520017": 1476552507,
+		"12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1476477476": 1476552664
 	},
 	"comment": [
 		{
@@ -1126,6 +1130,24 @@
 			"body": "@Musickiller: Did you buy a RPi3 with TFT? I don't know if they have solved it yet... but a sad thing with RPi3 is that it is still only 32-bit even when the cpu support 64-bit. It is only of interest when you do heavy load like encoding a video e.t.c..",
 			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1476118332",
 			"date_added": 1476545632
+		},
+		{
+			"comment_id": 175,
+			"body": "@Antyhrabia: LXDE is lighter and if you use GTK apps it means less dependencies... LXQT is heavier than Xfce and is best used with Qt apps.",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1476220188",
+			"date_added": 1476551361
+		},
+		{
+			"comment_id": 176,
+			"body": "@Musickiller: It depends what you are after.... bspwm, fluxbox, openbox, budgie, mate, gnome, plasma, lxqt, xfce, enlightenment, cinnamon, pantheon, deepin and so on... there are plenty to chose from depending on what you are after.",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1476220188",
+			"date_added": 1476551701
+		},
+		{
+			"comment_id": 177,
+			"body": "A cool thing I just heard of and have not tried is Syncloud.. They should add Zeronet Riot.im to that and it would be even more awesome... but Nextcloud is pretty sweet in any case.",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1476532363",
+			"date_added": 1476552480
 		}
 	],
 	"flags": {},
