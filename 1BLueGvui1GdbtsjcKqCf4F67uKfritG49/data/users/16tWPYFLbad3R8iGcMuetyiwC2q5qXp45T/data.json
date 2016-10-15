@@ -1,6 +1,6 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 2,
+	"next_comment_id": 5,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "43110",
@@ -27,7 +27,34 @@
 			"body": "Yes,it is right .It is free for everyone here.",
 			"post_uri": "1AxLMGKjSdsL3Sxa2x1WHJmoap3Z93YdCm_1476538661",
 			"date_added": 1476538758
+		},
+		{
+			"comment_id": 2,
+			"body": "@Hexagon: Anyone who want to donate for the project can go to here:https://zeronet.readthedocs.io/en/latest/help_zeronet/donate/",
+			"post_uri": "1AxLMGKjSdsL3Sxa2x1WHJmoap3Z93YdCm_1476538661",
+			"date_added": 1476540033
+		},
+		{
+			"comment_id": 3,
+			"body": "@ZAlex: aha",
+			"post_uri": "16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T_1476538478",
+			"date_added": 1476540760
+		},
+		{
+			"comment_id": 4,
+			"body": "@Hexagon: ^__^",
+			"post_uri": "1AxLMGKjSdsL3Sxa2x1WHJmoap3Z93YdCm_1476538661",
+			"date_added": 1476540997
 		}
 	],
-	"follow": []
+	"follow": [],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }
