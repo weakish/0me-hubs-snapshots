@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 178,
+	"next_comment_id": 180,
 	"user_name": "Shellbound",
 	"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
 	"post_like": {
@@ -84,7 +84,10 @@
 		"1K6HCsJskZENYG42GR7ocJXg9WjFbEq9hc_1476551330": 1476551801,
 		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1476532363": 1476552370,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1476520017": 1476552507,
-		"12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1476477476": 1476552664
+		"12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1476477476": 1476552664,
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1475291038": 1476554619,
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1475170734": 1476554626,
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1475359406": 1476555426
 	},
 	"comment": [
 		{
@@ -1148,10 +1151,23 @@
 			"body": "A cool thing I just heard of and have not tried is Syncloud.. They should add Zeronet Riot.im to that and it would be even more awesome... but Nextcloud is pretty sweet in any case.",
 			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1476532363",
 			"date_added": 1476552480
+		},
+		{
+			"comment_id": 178,
+			"body": "You made it! Awesome work! You rock!",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1475170734",
+			"date_added": 1476554778
+		},
+		{
+			"comment_id": 179,
+			"body": "An idea I have no idea if it could work... would be to integrate Riot.im (Matrix.io) functionality into Zerome/Zeronet. Riot is decentralized and have bridge support to other services. ",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1475359406",
+			"date_added": 1476556089
 		}
 	],
 	"flags": {},
 	"comment_like": {
-		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_169": 1475161395
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_169": 1475161395,
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_177": 1476555501
 	}
 }
