@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 39,
+	"next_comment_id": 40,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -238,6 +238,12 @@
 			"body": "@MilitaryRiotLab: 会夹杂一点英文用户。因为我会fo搞技术的老外",
 			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476461868",
 			"date_added": 1476465426
+		},
+		{
+			"comment_id": 39,
+			"body": "@MilitaryRiotLab: 这个方法不错。可能会遗漏一些中文用户，不改预设简介，或者用英文简介。理论上应该也可以用同样方法检测post是否含有中文，那就不会遗漏了。",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476461868",
+			"date_added": 1476497101
 		}
 	],
 	"flags": {},
