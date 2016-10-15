@@ -1,7 +1,7 @@
 {
-	"next_post_id": 2,
-	"next_comment_id": 2,
-	"next_follow_id": 37,
+	"next_post_id": 3,
+	"next_comment_id": 3,
+	"next_follow_id": 38,
 	"avatar": "generate",
 	"user_name": "Hexagon",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -11,12 +11,18 @@
 			"post_id": 1,
 			"date_added": 1476282556,
 			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1476538661,
+			"body": "For me, decentralization is a technical switch \"from Kings to Democracy\". And King's won't like it, for sure ;)",
+			"date_added": 1476538659
 		}
 	],
 	"post_like": {
 		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1476346540": 1476348896,
 		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475393382": 1476355656,
-		"18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6_1476376397": 1476445660
+		"18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6_1476376397": 1476445660,
+		"1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1476495609": 1476537685
 	},
 	"comment": [
 		{
@@ -24,6 +30,12 @@
 			"body": "how many something do you need? ;)",
 			"post_uri": "1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH_1472167459",
 			"date_added": 1476476071
+		},
+		{
+			"comment_id": 2,
+			"body": "Yeah it's free, but people like @Nofish are spending a lots of time to make it work & make it better, and anyone who can afford it, supports them (with money / bitcoin / contributions) to keep it sustainable, and value their work. I'm so grateful to anyone who ever sent them even one cent, or a PR to their git repo ;)",
+			"post_uri": "1AxLMGKjSdsL3Sxa2x1WHJmoap3Z93YdCm_1476538661",
+			"date_added": 1476539903
 		}
 	],
 	"follow": [
@@ -278,6 +290,13 @@
 			"auth_address": "1D6Pn4487L8QyFtVSU14nxxtnfEgEs2Ny1",
 			"user_name": "Kickasstorrents",
 			"date_added": 1476534561
+		},
+		{
+			"follow_id": 37,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY",
+			"user_name": "KosherX - PT-🇧🇷, EN-🇺🇸 and very little of JP-🇯🇵.",
+			"date_added": 1476537645
 		}
 	]
 }
