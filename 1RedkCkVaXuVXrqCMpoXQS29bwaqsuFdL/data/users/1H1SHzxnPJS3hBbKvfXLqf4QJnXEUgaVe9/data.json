@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 174,
+	"next_comment_id": 175,
 	"user_name": "Shellbound",
 	"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
 	"post_like": {
@@ -1120,6 +1120,12 @@
 			"body": "If you want performance then Odroid-C2 is probably a better choice. It is about double in speed, 64-bit, have SATA and eMMC support... and cost about the same. They also have Arch ARM support. http://www.hardkernel.com/main/products/prdt_info.php?g_code=G145457216438",
 			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1476118332",
 			"date_added": 1476301366
+		},
+		{
+			"comment_id": 174,
+			"body": "@Musickiller: Did you buy a RPi3 with TFT? I don't know if they have solved it yet... but a sad thing with RPi3 is that it is still only 32-bit even when the cpu support 64-bit. It is only of interest when you do heavy load like encoding a video e.t.c..",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1476118332",
+			"date_added": 1476545632
 		}
 	],
 	"flags": {},
