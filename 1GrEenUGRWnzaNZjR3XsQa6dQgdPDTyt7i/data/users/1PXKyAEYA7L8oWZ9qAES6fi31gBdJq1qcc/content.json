@@ -4,14 +4,18 @@
  "cert_sign": "G+rewl9x383mY/0VCwnQHzhRahuFJ1eUTzUPT392uQXn975NWovHi4DLVrCF2AZtJ84n/3Dcnsi+pBxyt5N/isU=",
  "cert_user_id": "barbu@zeroid.bit",
  "files": {
+  "avatar.jpg": {
+   "sha512": "baf50fe08be3512aaba7d2266235475d80ecd5042e6ac7addb3e652057e6fc31",
+   "size": 1459
+  },
   "data.json": {
-   "sha512": "630b1a1c14d2fbe5e4321fbe6a4594d37113cb624aed1f8d77967336e09ff242",
-   "size": 340
+   "sha512": "ae619ec4868dc69de9c12cbac5ff05c4044bd8a30d0670c6d12f63d0f473cdfb",
+   "size": 591
   }
  },
  "inner_path": "data/users/1PXKyAEYA7L8oWZ9qAES6fi31gBdJq1qcc/content.json",
- "modified": 1475845398.869,
+ "modified": 1476621547.308,
  "signs": {
-  "1PXKyAEYA7L8oWZ9qAES6fi31gBdJq1qcc": "GwJCOduZGgN2dUOABXuiE9167Lcs2M7y4YrxhiSyPfBMfUsQa2YElFifdm9jdYCsIaKpzVT0/T26AwTsUU0msaA="
+  "1PXKyAEYA7L8oWZ9qAES6fi31gBdJq1qcc": "HCI1wfuxUgoNStcp9yZw2pHHIckyMyLzVXeEoKc3UVP336JdnBqoAhrUiTi2gNPV+Bnpjd+pP/rnjaPu74RmkXU="
  }
 }

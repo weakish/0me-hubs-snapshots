@@ -1,5 +1,5 @@
 {
-	"next_post_id": 3,
+	"next_post_id": 4,
 	"next_comment_id": 1,
 	"next_follow_id": 2,
 	"avatar": "jpg",
@@ -16,6 +16,11 @@
 			"post_id": 1476516585,
 			"body": "永不忘记，永不放弃！",
 			"date_added": 1476516583
+		},
+		{
+			"post_id": 1476622798,
+			"body": "我要做一个革命领袖！推翻共产党的独裁统治。",
+			"date_added": 1476622795
 		}
 	],
 	"post_like": {
@@ -30,5 +35,14 @@
 			"user_name": "64",
 			"date_added": 1476515307
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }

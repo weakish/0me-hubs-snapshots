@@ -1,7 +1,7 @@
 {
 	"next_post_id": 4,
-	"next_comment_id": 1,
-	"next_follow_id": 1,
+	"next_comment_id": 2,
+	"next_follow_id": 2,
 	"avatar": "generate",
 	"user_name": "Penguin1",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -24,6 +24,21 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
-	"follow": []
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": ":)   nice ",
+			"post_uri": "15hUfw3Zyo4bq2Ufpp3noQruQayLy4aaE6_1",
+			"date_added": 1476621024
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "15hUfw3Zyo4bq2Ufpp3noQruQayLy4aaE6",
+			"user_name": "Ridderhoff",
+			"date_added": 1476620998
+		}
+	]
 }
