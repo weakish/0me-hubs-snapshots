@@ -1,7 +1,7 @@
 {
 	"next_post_id": 3,
 	"next_comment_id": 1,
-	"next_follow_id": 1,
+	"next_follow_id": 2,
 	"avatar": "jpg",
 	"user_name": "Ilcont3j",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -20,5 +20,13 @@
 	],
 	"post_like": {},
 	"comment": [],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp",
+			"user_name": "FraYoshi",
+			"date_added": 1476578906
+		}
+	]
 }
