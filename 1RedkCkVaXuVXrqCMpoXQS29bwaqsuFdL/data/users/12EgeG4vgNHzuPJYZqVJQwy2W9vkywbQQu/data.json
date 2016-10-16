@@ -1,6 +1,6 @@
 {
-	"next_post_id": 10,
-	"next_comment_id": 53,
+	"next_post_id": 11,
+	"next_comment_id": 54,
 	"next_follow_id": 14,
 	"avatar": "png",
 	"user_name": "PaintNinja",
@@ -51,6 +51,11 @@
 			"post_id": 1476563926,
 			"body": "I'm currently working on major improvements to the streamer over the next week or so... What music would you like to see in the demos? :)",
 			"date_added": 1476563917
+		},
+		{
+			"post_id": 1476647364,
+			"body": "So tired after doing so much streamer code... I've incorporated my new coding philosophy of an \"AI-powered adaptive user experience\" and lots of new features over this weekend. Not really much I can show yet as it's mostly back-end stuff for now but it's looking good...\n\nWith a bit of luck and more work I *might* have a basic playlist implementation ready for some potential demos sometime next week, that also demo all the new stuff I've just finished coding locally this weekend. Stay tuned! :)",
+			"date_added": 1476647354
 		}
 	],
 	"post_like": {
@@ -386,6 +391,12 @@
 			"body": "@Sirenyc: In short, I'm going through some personal difficulties at the moment and am working on them alongside my increased amounts of academic work I've been receiving.\n\nUnfortunately I am unsure if the project will be continued at this time or reach the target launch date due to these unexpected occurrences, although there is a chance that the project may progress in the future - I am currently looking into whether I could work on NinjaBeats as part of my coursework under a different name and slightly different aims - if so, a lot of the work from there could be ported over to NinjaBeats. ",
 			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1473012327",
 			"date_added": 1476117978
+		},
+		{
+			"comment_id": 53,
+			"body": "Thank you for your input. I'll try to add at least one song from an artist each of you have suggested per demo announcement, alongside some of my own picks which are specifically chosen to showcase new functionality at their best (where suitable)\n\n@Firebox You can already stream lossless music provided that your browser supports it. I don't use it in demos at the moment due to limited browser support, but maybe when I add a download feature I'll throw in a lossless demo.",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1476563926",
+			"date_added": 1476647693
 		}
 	],
 	"follow": [
