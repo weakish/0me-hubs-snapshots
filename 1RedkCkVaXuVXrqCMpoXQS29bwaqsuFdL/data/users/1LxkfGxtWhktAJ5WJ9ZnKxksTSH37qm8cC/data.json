@@ -1,5 +1,5 @@
 {
-	"next_post_id": 23,
+	"next_post_id": 25,
 	"next_comment_id": 11,
 	"next_follow_id": 10,
 	"avatar": "generate",
@@ -111,6 +111,16 @@
 			"post_id": 1476520017,
 			"body": "ZeroMux and docs will be updated tomorrow. Stay tuned!",
 			"date_added": 1476519995
+		},
+		{
+			"post_id": 1476598642,
+			"body": "I fixed  an async hash calculating bug in [ZeroMux](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/docs/). Now, as long as you put the files of ZeroMux in the same folder, `download.js` will always find the files it needs.",
+			"date_added": 1476598619
+		},
+		{
+			"post_id": 1476599111,
+			"body": "Despite its name, [ZeroMux](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/docs/) is a general purpose file downloader and can handle files other than MP4. Read the documentation [here](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/docs/).",
+			"date_added": 1476599087
 		}
 	],
 	"post_like": {
