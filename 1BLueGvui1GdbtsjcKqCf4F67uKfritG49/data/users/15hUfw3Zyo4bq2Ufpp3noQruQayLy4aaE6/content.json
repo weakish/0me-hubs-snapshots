@@ -1,0 +1,21 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "HHEd0wkJ3VoZpR3j69ipfWHgeLJts/+b652ZkBBm6GhNjhw+9IoIo6RlCxso+iHc9sJNfaJNK/1xGN6qKAZ7v5E=",
+ "cert_user_id": "ridderhoff@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "20569a6b1502819763f6a4dbfe3702ad4aeaf7ac46c2d645056144f577e70a6b",
+   "size": 1309
+  },
+  "data.json": {
+   "sha512": "76f778f3de9a7689b0b349bf3225b9b05b5a8c8cfeb449df910004571f45536e",
+   "size": 765
+  }
+ },
+ "inner_path": "data/users/15hUfw3Zyo4bq2Ufpp3noQruQayLy4aaE6/content.json",
+ "modified": 1476590526.273665,
+ "signs": {
+  "15hUfw3Zyo4bq2Ufpp3noQruQayLy4aaE6": "HCb9omop5zZGITFpFcc2Y2M1XiX7sKDrQIL+PBjUykzIv1oy4QbUXOe7be1Gs9sHRyWKtCcRuWqDbxxm3VpnEnE="
+ }
+}

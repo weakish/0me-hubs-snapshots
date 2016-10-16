@@ -1,0 +1,36 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 2,
+	"next_follow_id": 2,
+	"avatar": "jpg",
+	"user_name": "Ridderhoff",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1476590261,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {
+		"1GiGmwXinTj8GxeZsJvkZPagyNFxuuzXHV_1476569287": 1476590391
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "This pj? (yo, it's tate from G+ :))))",
+			"post_uri": "1GiGmwXinTj8GxeZsJvkZPagyNFxuuzXHV_1476569005",
+			"date_added": 1476590300
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GiGmwXinTj8GxeZsJvkZPagyNFxuuzXHV",
+			"user_name": "Penguin1",
+			"date_added": 1476590380
+		}
+	]
+}
