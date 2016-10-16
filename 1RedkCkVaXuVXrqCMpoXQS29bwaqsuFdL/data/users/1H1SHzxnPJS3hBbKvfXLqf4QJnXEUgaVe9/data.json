@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 180,
+	"next_comment_id": 181,
 	"user_name": "Shellbound",
 	"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
 	"post_like": {
@@ -1163,6 +1163,12 @@
 			"body": "An idea I have no idea if it could work... would be to integrate Riot.im (Matrix.io) functionality into Zerome/Zeronet. Riot is decentralized and have bridge support to other services. ",
 			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1475359406",
 			"date_added": 1476556089
+		},
+		{
+			"comment_id": 180,
+			"body": "@Antyhrabia: It depends a bit on the set up but you are right, Xfce and Lxqt are kinda similar in resource usage. Lxde is playing in it's own league though. So if you want lightness Lxde (or Openbox, Enlightenment) is the better option. It is really easy to script a solution like battery warning if that is something not supplied. I agree that SDDM is better than Lxdm. I don't really like any display manager though. ",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1476220188",
+			"date_added": 1476642880
 		}
 	],
 	"flags": {},

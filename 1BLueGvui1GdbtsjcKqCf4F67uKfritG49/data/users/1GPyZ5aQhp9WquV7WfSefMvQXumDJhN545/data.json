@@ -1,6 +1,6 @@
 {
-	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_post_id": 3,
+	"next_comment_id": 2,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Redstar1747",
@@ -11,9 +11,21 @@
 			"post_id": 1,
 			"date_added": 1476640507,
 			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1476642713,
+			"body": "Zeronet版微博？",
+			"date_added": 1476642711
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "年年都有 不要抱期望 这些人搞不出什么大事情",
+			"post_uri": "16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T_1476613084",
+			"date_added": 1476642814
+		}
+	],
 	"follow": []
 }
