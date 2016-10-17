@@ -1,5 +1,5 @@
 {
-	"next_post_id": 8,
+	"next_post_id": 9,
 	"next_comment_id": 22,
 	"next_follow_id": 14,
 	"avatar": "jpg",
@@ -41,6 +41,11 @@
 			"post_id": 1476676975,
 			"body": "I finally watched [The Big Short](https://g.co/kgs/KOkFck) because it's now on Netflix. It makes my blood boil that we not only let Wall Street get away with all the crap they did but we also rewarded them for destroying our economy. Bankers got huge bonuses and Morgan Stanley is bigger than ever. Nothing has changed. Meanwhile, ordinary people lost their homes and the rest of us had to pay to clean up the mess.",
 			"date_added": 1476676968
+		},
+		{
+			"post_id": 1476734316,
+			"body": "Reading about [Liquid Democracy](https://medium.com/@DomSchiener/liquid-democracy-true-democracy-for-the-21st-century-7c66f5e53b6f#.oyr5d477d), a cross between direct democracy and representative democracy. Sounds interesting but I'm not sure how it would prevent ignorant voters from voting against their interests (eg. Brexit).",
+			"date_added": 1476734308
 		}
 	],
 	"post_like": {
@@ -260,7 +265,9 @@
 		"mute_spam": true,
 		"mute_blocked": true
 	},
-	"blocked": [],
+	"blocked": [
+		"1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY"
+	],
 	"flags": {},
 	"comment_like": {}
 }
