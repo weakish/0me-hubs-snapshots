@@ -1,6 +1,6 @@
 {
-	"next_post_id": 70,
-	"next_comment_id": 84,
+	"next_post_id": 71,
+	"next_comment_id": 85,
 	"next_follow_id": 19,
 	"avatar": "jpg",
 	"user_name": "meidan",
@@ -331,6 +331,11 @@
 			"post_id": 1476661026,
 			"body": "Trying out Orbit for IPFS today. Looks good. I just wish there were people actually on it. ",
 			"date_added": 1476660957
+		},
+		{
+			"post_id": 1476727470,
+			"body": "Well. Class started. I think a miracle may be in order. 6 peer analysis reviews of 2+ paragraphs each. 2-5 Analysis of the Enlightenment of 2+ paragraphs each. Read: The House of the Spirits, Take Notes, & Read about Kant, Johnson, Descartes, Diderot, and Wollstonecraft. 130+ pages of reading on the Enlightenment. Quiz.",
+			"date_added": 1476727400
 		}
 	],
 	"post_like": {
@@ -843,6 +848,12 @@
 			"body": "@Militaryriotlab: I hate writing on deadlines.",
 			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1476658804",
 			"date_added": 1476727177
+		},
+		{
+			"comment_id": 84,
+			"body": "@Durand: It works fine on mac. I followed these directions: git clone https://github.com/haadcode/orbit.git\ncd orbit\nnpm install\nnpm start",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1476661026",
+			"date_added": 1476730143
 		}
 	],
 	"follow": [
