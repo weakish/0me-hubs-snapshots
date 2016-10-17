@@ -1,6 +1,6 @@
 {
 	"next_post_id": 4,
-	"next_comment_id": 1,
+	"next_comment_id": 3,
 	"next_follow_id": 1,
 	"avatar": "jpg",
 	"user_name": "Minko",
@@ -26,6 +26,19 @@
 	"post_like": {
 		"1D55V9xZyEL71UD72RaC6dvd3kUQVFtmeu_1476641807": 1476661243
 	},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@MilitaryRiotLab: Greetings!",
+			"post_uri": "13ZwzXj9cMRF9AZirKm5nk1enWWS9hHRw8_1476661119",
+			"date_added": 1476670717
+		},
+		{
+			"comment_id": 2,
+			"body": "@Chong: Hows it going ^.^",
+			"post_uri": "13ZwzXj9cMRF9AZirKm5nk1enWWS9hHRw8_1476661085",
+			"date_added": 1476670725
+		}
+	],
 	"follow": []
 }
