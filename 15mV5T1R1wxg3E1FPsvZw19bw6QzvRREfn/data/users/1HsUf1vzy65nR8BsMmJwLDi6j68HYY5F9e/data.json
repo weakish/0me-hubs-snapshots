@@ -1,5 +1,5 @@
 {
-	"next_post_id": 2,
+	"next_post_id": 4,
 	"next_comment_id": 1,
 	"next_follow_id": 1,
 	"avatar": "png",
@@ -12,12 +12,22 @@
 	},
 	"user_name": "User0",
 	"hub": "15mV5T1R1wxg3E1FPsvZw19bw6QzvRREfn",
-	"intro": "Random ZeroNet user",
+	"intro": "Random ZeroNet user\n\n---\n\n**Usuario 0**",
 	"post": [
 		{
 			"post_id": 1,
 			"date_added": 1476562856,
 			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1476703977,
+			"body": "Al parecer la Union Europea y la #Europol exigen puerta trasera a #Telegram, #WhatsApp y a todas las aplicaciones con servidores centrales... \n\n_Solo quedan las app #P2P de comunicacion?_",
+			"date_added": 1476703975
+		},
+		{
+			"post_id": 1476704313,
+			"body": "\"A falta de pan, buenas son (las) tortas\"",
+			"date_added": 1476704310
 		}
 	],
 	"post_like": {},
