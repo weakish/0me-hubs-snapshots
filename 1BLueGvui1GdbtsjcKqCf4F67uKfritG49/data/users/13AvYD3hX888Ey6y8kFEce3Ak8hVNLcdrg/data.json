@@ -1,6 +1,6 @@
 {
 	"next_post_id": 26,
-	"next_comment_id": 18,
+	"next_comment_id": 19,
 	"next_follow_id": 58,
 	"avatar": "jpg",
 	"user_name": "Dergatt",
@@ -235,6 +235,12 @@
 			"body": "@Shellbound: The Flatpak ist around 150mb, according the installed folder is arround 800mb to [Arch package](https://www.archlinux.org/packages/extra/x86_64/libreoffice-fresh/) ist 90 mb and 350 when installed.\nSo it's a lot bigger.",
 			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1476437797",
 			"date_added": 1476563048
+		},
+		{
+			"comment_id": 18,
+			"body": "@Shellbound: I would love to have an option. I prefer native packages but sometimes there is a strange bug if a dependency. Specially with games this is a huge problem in my experience.",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1476437797",
+			"date_added": 1476700497
 		}
 	],
 	"follow": [

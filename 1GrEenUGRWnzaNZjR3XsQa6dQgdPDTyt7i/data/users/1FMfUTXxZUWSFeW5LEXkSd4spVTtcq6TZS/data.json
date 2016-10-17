@@ -1,7 +1,7 @@
 {
-	"next_post_id": 18,
-	"next_comment_id": 44,
-	"next_follow_id": 21,
+	"next_post_id": 19,
+	"next_comment_id": 45,
+	"next_follow_id": 22,
 	"avatar": "generate",
 	"user_name": "Openuser",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -81,6 +81,11 @@
 			"post_id": 1476539164,
 			"body": "Test the IMG [markdown](https://en.wikipedia.org/wiki/Markdown): (click on text if you are on [ZeroMePlus](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6) only)\n\n\n\n\n![Image linked from ZeroMePlus](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/img/logo.png \"test\")\n\n![Image linked from my ZeroBlog](http://127.0.0.1:43110/16g8mFUtLsQBM6bPMJ6xEEQWLWAufnzEXA/img/avatar.jpg \"test\")\n\n![Image linked from the ClearWeb](https://s14.postimg.org/kmwemsw8h/Zerochat_screen1.jpg \"title\")",
 			"date_added": 1476539147
+		},
+		{
+			"post_id": 1476701464,
+			"body": "J'oublie toujours de consulter mes ZeroMails. La notification de nouveaux ZeroMails serait bienvenue ^^.    - - -   _[EN] I always forget to check out my ZeroMails. The notification of new ZeroMails would be welcome ^^_",
+			"date_added": 1476701446
 		}
 	],
 	"post_like": {},
@@ -342,6 +347,12 @@
 			"body": "@Shellbound: thanks to [@talnicrom](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/?Profile/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/19M1DT5vruSATEcbEczYRwCk2uPuLcATBa/talnicrom@zeroid.bit) \\^_^",
 			"post_uri": "1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_1476539164",
 			"date_added": 1476553150
+		},
+		{
+			"comment_id": 44,
+			"body": "Bienvenu! ... et va te couper la barbe! ^_^",
+			"post_uri": "1PXKyAEYA7L8oWZ9qAES6fi31gBdJq1qcc_1",
+			"date_added": 1476700748
 		}
 	],
 	"follow": [
@@ -470,6 +481,13 @@
 			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
 			"user_name": "PaintNinja",
 			"date_added": 1476655313
+		},
+		{
+			"follow_id": 21,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1PXKyAEYA7L8oWZ9qAES6fi31gBdJq1qcc",
+			"user_name": "Barbu",
+			"date_added": 1476700734
 		}
 	],
 	"settings": {
