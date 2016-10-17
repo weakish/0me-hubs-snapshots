@@ -1,8 +1,10 @@
 {
-	"next_comment_id": 18,
+	"next_comment_id": 19,
 	"user_name": "Durand",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"post_like": {},
+	"post_like": {
+		"1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9_1476555262": 1476676082
+	},
 	"comment": [
 		{
 			"comment_id": 1,
@@ -105,6 +107,12 @@
 			"body": "There is already ZeroPolls.bit. Perhaps you could embed them?",
 			"post_uri": "1PbCor9kCtnKaZAPnrxENbcraKtAEq8wA1_1475115026",
 			"date_added": 1475158734
+		},
+		{
+			"comment_id": 18,
+			"body": "Yay, it works! Although I guess there needs to be a loading spinner because for a few seconds, I was confused about what it was supposed to do.",
+			"post_uri": "1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9_1476555262",
+			"date_added": 1476676129
 		}
 	],
 	"flags": {},
