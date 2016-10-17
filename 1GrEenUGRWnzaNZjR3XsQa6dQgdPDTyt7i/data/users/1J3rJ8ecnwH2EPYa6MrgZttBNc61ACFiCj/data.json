@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 18,
+	"next_comment_id": 19,
 	"user_name": "Nofish",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -114,6 +114,12 @@
 			"body": "You can see the SQL queries for ZeroMe in the dbschema.json file. (feeds node)",
 			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476358853",
 			"date_added": 1476385613
+		},
+		{
+			"comment_id": 18,
+			"body": "There is a half-working pull request for it, but the problem is even if its working you wont be able to reach any current sites with it, since i2p has no possibility to talk non-i2p peers.",
+			"post_uri": "1MzWT1C1LwRZmABNthcryXfsVKxP6Si5Ev_1476560501",
+			"date_added": 1476695877
 		}
 	]
 }
