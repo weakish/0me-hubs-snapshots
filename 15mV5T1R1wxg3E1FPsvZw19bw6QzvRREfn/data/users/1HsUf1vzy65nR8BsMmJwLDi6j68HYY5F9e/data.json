@@ -1,0 +1,29 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 1,
+	"next_follow_id": 1,
+	"avatar": "png",
+	"settings": {
+		"comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false,
+		"reverse_comment_order": true
+	},
+	"user_name": "User0",
+	"hub": "15mV5T1R1wxg3E1FPsvZw19bw6QzvRREfn",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1476562856,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [],
+	"flags": {},
+	"blocked": [],
+	"comment_like": {}
+}
