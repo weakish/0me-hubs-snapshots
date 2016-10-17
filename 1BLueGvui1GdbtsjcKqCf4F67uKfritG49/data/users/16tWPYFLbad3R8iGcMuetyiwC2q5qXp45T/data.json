@@ -1,8 +1,8 @@
 {
 	"next_post_id": 4,
 	"next_comment_id": 5,
-	"next_follow_id": 1,
-	"avatar": "generate",
+	"next_follow_id": 2,
+	"avatar": "jpg",
 	"user_name": "43110",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"intro": "Random ZeroNet user",
@@ -24,7 +24,8 @@
 		}
 	],
 	"post_like": {
-		"16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T_1476538478": 1476539012
+		"16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T_1476538478": 1476539012,
+		"16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T_1": 1476712493
 	},
 	"comment": [
 		{
@@ -52,7 +53,15 @@
 			"date_added": 1476540997
 		}
 	],
-	"follow": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T",
+			"user_name": "43110",
+			"date_added": 1476712498
+		}
+	],
 	"settings": {
 		"reverse_comment_order": false,
 		"mute_ugly": false,
