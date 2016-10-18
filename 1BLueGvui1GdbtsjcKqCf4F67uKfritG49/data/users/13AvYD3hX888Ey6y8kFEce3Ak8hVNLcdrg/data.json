@@ -1,6 +1,6 @@
 {
-	"next_post_id": 26,
-	"next_comment_id": 19,
+	"next_post_id": 27,
+	"next_comment_id": 20,
 	"next_follow_id": 58,
 	"avatar": "jpg",
 	"user_name": "Dergatt",
@@ -130,6 +130,11 @@
 			"post_id": 1476437797,
 			"body": "Wayland + Libreoffice + Arch = Interface Problems.\nCan't select text style in header bar and alt + enter in bullet points doesn't work.\nSearching for Libreoffice and Wayland first thing that popped up was the official Libreoffice Flatpak side. The Flatpak runs without a problem. Guess I'm looking more into Flatpak if I have some time.",
 			"date_added": 1476437772
+		},
+		{
+			"post_id": 1476814314,
+			"body": "I'm so annoyed by events only hosted on Facebook. You can't even look at them properly without an account.",
+			"date_added": 1476814288
 		}
 	],
 	"post_like": {},
@@ -241,6 +246,12 @@
 			"body": "@Shellbound: I would love to have an option. I prefer native packages but sometimes there is a strange bug if a dependency. Specially with games this is a huge problem in my experience.",
 			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1476437797",
 			"date_added": 1476700497
+		},
+		{
+			"comment_id": 19,
+			"body": "@Shellbound: I can't get namecoin-qt working on Arch and I don't have the time and energy to put hours into it. So If you find a fix let me know :D",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1476437797",
+			"date_added": 1476791842
 		}
 	],
 	"follow": [

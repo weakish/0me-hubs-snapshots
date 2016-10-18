@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 11,
+	"next_comment_id": 12,
 	"user_name": "Firebox",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -65,6 +65,12 @@
 			"body": "@KosherX: Your private key is located in `users.json`. Search for your site address, and you will see your private key.",
 			"post_uri": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1476755079",
 			"date_added": 1476765655
+		},
+		{
+			"comment_id": 11,
+			"body": "@KosherX: Trying pressing the `Sign` button and let ZeroNet find the private key for you. If ZeroNet cannot find the private key, it will ask you for a private key, and then if you just lost your private key, there is no easy way to recover it unfortunately. @nofish: \\#PrivateKey",
+			"post_uri": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1476755079",
+			"date_added": 1476816590
 		}
 	]
 }
