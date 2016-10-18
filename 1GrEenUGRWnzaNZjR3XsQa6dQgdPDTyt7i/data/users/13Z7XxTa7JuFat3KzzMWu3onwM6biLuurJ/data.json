@@ -290,7 +290,7 @@
 		},
 		{
 			"comment_id": 47,
-			"body": "挺不错啊！",
+			"body": "挺不错啊！\n几个小问题：\n- 无需密码、基于 BIP32 的认证：与比特币钱包相同的加密方法用来保护你的账户（主动语态更符合中文习惯）\n- 匿名性: 完整的 Tor 网络支持，支持通过.onion隐藏服务相互连接而不是通过IPv4地址连接\n- No private sites你漏翻了？可翻译成`不支持私密站点`",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476817023",
 			"date_added": 1476794841
 		}
