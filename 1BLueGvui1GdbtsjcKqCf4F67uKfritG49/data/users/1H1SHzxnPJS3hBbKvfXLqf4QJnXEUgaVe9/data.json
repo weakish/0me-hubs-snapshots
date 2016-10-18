@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 43,
+	"next_comment_id": 44,
 	"user_name": "Shellbound",
 	"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
 	"post_like": {
@@ -287,6 +287,12 @@
 			"body": "I guess it is nice to have the option.. but I have yet to find a package I have not been able to get working. ;)",
 			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1476437797",
 			"date_added": 1476713708
+		},
+		{
+			"comment_id": 43,
+			"body": "Have never used it... what errors do you get? One of the first things I do is ```strace -eopen <application name>``` when troubleshooting.. just to see if something is missing. Usually you will get the answer by either checking the package tracker on aur or by googling the error. ",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1476437797",
+			"date_added": 1476823364
 		}
 	],
 	"flags": {
