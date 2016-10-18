@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 10,
+	"next_comment_id": 11,
 	"user_name": "Firebox",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -59,6 +59,12 @@
 			"body": "@KosherX: After you made changes, you have to press `Sign`. After ZeroNet signed your site using your private key, you have push `Publish`. People who don't have your private key cannot sign your site, and ZeroNet clients will not accept contents with invalid signature.",
 			"post_uri": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1476755079",
 			"date_added": 1476759531
+		},
+		{
+			"comment_id": 10,
+			"body": "@KosherX: Your private key is located in `users.json`. Search for your site address, and you will see your private key.",
+			"post_uri": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1476755079",
+			"date_added": 1476765655
 		}
 	]
 }

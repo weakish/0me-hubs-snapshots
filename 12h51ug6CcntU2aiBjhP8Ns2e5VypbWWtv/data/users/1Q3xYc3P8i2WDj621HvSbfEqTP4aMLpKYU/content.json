@@ -1,0 +1,21 @@
+{
+ "address": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+ "cert_auth_type": "web",
+ "cert_sign": "H5w/kYZMP3Js9pLGjlo+4IYaZ0HenS2oAJ47EgqV4LmKYe9jjbfUu3srLKPEgMpup+ee4Psi+h8dpQQVY3xuYOw=",
+ "cert_user_id": "rainlime@kaffie.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "ec2f4a3952a30fe3beb197c4cf061de9974c467e076f1bc960e27d71478ed396",
+   "size": 1536
+  },
+  "data.json": {
+   "sha512": "24ea6f8d92963beeb1966f6b15787b8d7109133cf92d72c8f86d570a4ff88fd6",
+   "size": 603
+  }
+ },
+ "inner_path": "data/users/1Q3xYc3P8i2WDj621HvSbfEqTP4aMLpKYU/content.json",
+ "modified": 1476805401.818115,
+ "signs": {
+  "1Q3xYc3P8i2WDj621HvSbfEqTP4aMLpKYU": "HNeeulvezeZ2KNADLSGKCdL35M8qrldo4sVvPg+z58l732cIaHahiHiiTvtXGeU6HgjYtfjDY/osqoIGDVBnKbs="
+ }
+}
