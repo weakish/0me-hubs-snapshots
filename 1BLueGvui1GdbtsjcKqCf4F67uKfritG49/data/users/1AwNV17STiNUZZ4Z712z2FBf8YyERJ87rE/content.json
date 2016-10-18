@@ -1,0 +1,21 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "G7X8PWjg0JyBNMDSNYWYlsqzIkjD3uu7tLl9MRGabmXe+u3FXRsYwAwigjNCyeeuzM2YKMi0y4mS0CNC7Mki1Xo=",
+ "cert_user_id": "jetstar@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "9c745daff236a27f66ab7e3e7d00e4c744610a39838b997d13a64fa7f791cd33",
+   "size": 1607
+  },
+  "data.json": {
+   "sha512": "d68c13cac4ae1431ce600bda262677735e3581c4cdf2b36917087d64cf6de421",
+   "size": 762
+  }
+ },
+ "inner_path": "data/users/1AwNV17STiNUZZ4Z712z2FBf8YyERJ87rE/content.json",
+ "modified": 1476794386.624,
+ "signs": {
+  "1AwNV17STiNUZZ4Z712z2FBf8YyERJ87rE": "HG/B7AuWA6urXhIPia1aGbBF+NwTdkUM2XhVsgOd6k9IIPcVCIprzmXXwH8dNTyemY2rNjPrXtj4gjPMjQwE35U="
+ }
+}
