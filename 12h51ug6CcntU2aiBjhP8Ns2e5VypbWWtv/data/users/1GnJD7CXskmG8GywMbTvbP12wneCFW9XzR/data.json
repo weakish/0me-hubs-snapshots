@@ -1,5 +1,5 @@
 {
-	"next_post_id": 39,
+	"next_post_id": 40,
 	"next_comment_id": 23,
 	"next_follow_id": 122,
 	"avatar": "png",
@@ -196,6 +196,11 @@
 			"post_id": 1476366105,
 			"body": "Programming languages are clearer than natural languages. So \"well-commented code\" may not be well-written.\n\nTo reduce commenting:\n\n- Use meaningful function and variable/value name.\n- Declare local variable near its usage.\n- Avoid deep nested function call expression. Extract meaningful immediate value declaration.\n\nHere 'commenting' mainly refers to inline comments,\ni.e. comments explaining implementation details.\nDoc annotation of public modules and functions on their usage is fine.",
 			"date_added": 1476366067
+		},
+		{
+			"post_id": 1476802770,
+			"body": "I prefer explicit else branch over fall through flow.\n\nFor example:\n\n```ceylon\nBoolean if_else(Integer x) {\n    if (x > 0) {\n        if (x < 10) {\n            return false;\n        }\n    } else if (x < -10) {\n        return false;\n    }\n    return true;\n}\n```\n\nIt is short, but difficult to figure out the control flow.\n\nRewrite it more explicitly, without omitting else branch:\n\n```ceylon\nBoolean if_else(Integer x) {\n    if (x > 0) {\n        // This is for demonstration only.\n        // `if (x > 0, x < 10)` is clearer.\n        // Pretend there were more complex branching here.\n        if (x < 10) {\n            return false;\n        } else {\n            return true;\n        }\n    } else if (x < -10) {\n        return false;\n    } else {\n        return true;\n    }\n}\n```\n\nAlso, avoid using `variable` to save else branch.\n\nFor example:\n\n```ceylon\nvariable Integer x = 0;\nif (condition) {\n    x = 1;\n}\n```\n\ncan be rewritten to\n\n```ceylon\nInteger x;\nif (condition) {\n    x = 1;\n} else {\n    x = 0;\n}\n```",
+			"date_added": 1476802731
 		}
 	],
 	"post_like": {

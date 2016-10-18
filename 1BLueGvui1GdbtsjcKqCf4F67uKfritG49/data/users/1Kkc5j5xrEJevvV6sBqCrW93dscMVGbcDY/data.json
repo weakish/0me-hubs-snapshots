@@ -1,7 +1,7 @@
 {
 	"next_post_id": 81,
-	"next_comment_id": 31,
-	"next_follow_id": 31,
+	"next_comment_id": 32,
+	"next_follow_id": 32,
 	"avatar": "jpg",
 	"user_name": "KosherX",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -583,6 +583,12 @@
 			"body": "I think my private key is gone, for some reason. I can't find it in 2 computers hosting the zite. Is there a way to generate another private key?",
 			"post_uri": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1476755079",
 			"date_added": 1476798510
+		},
+		{
+			"comment_id": 31,
+			"body": "hello",
+			"post_uri": "17syyStRKQjuznznmHvguhBWPHjA953rM9_1",
+			"date_added": 1476800741
 		}
 	],
 	"follow": [
@@ -788,6 +794,13 @@
 			"auth_address": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS",
 			"user_name": "ZAlex",
 			"date_added": 1476017136
+		},
+		{
+			"follow_id": 31,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR",
+			"user_name": "weakish",
+			"date_added": 1476800446
 		}
 	],
 	"settings": {
@@ -807,6 +820,9 @@
 		"1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_13": 1476018012,
 		"1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_3": 1476130441,
 		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_61": 1476784414,
-		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_60": 1476785247
+		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_60": 1476785247,
+		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_37": 1476800180,
+		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_38": 1476800186,
+		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_39": 1476800353
 	}
 }
