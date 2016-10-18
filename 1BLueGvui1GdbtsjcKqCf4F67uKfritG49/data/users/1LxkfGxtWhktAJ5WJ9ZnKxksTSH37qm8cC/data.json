@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 9,
+	"next_comment_id": 10,
 	"user_name": "Firebox",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -53,6 +53,12 @@
 			"body": "Hold and drag the `0` button to the left. If you select \"This is my site,\" you will find a place to put your site title.",
 			"post_uri": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1476755079",
 			"date_added": 1476756871
+		},
+		{
+			"comment_id": 9,
+			"body": "@KosherX: After you made changes, you have to press `Sign`. After ZeroNet signed your site using your private key, you have push `Publish`. People who don't have your private key cannot sign your site, and ZeroNet clients will not accept contents with invalid signature.",
+			"post_uri": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1476755079",
+			"date_added": 1476759531
 		}
 	]
 }
