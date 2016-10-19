@@ -1,7 +1,7 @@
 {
 	"next_post_id": 4,
-	"next_comment_id": 4,
-	"next_follow_id": 21,
+	"next_comment_id": 7,
+	"next_follow_id": 22,
 	"avatar": "jpg",
 	"user_name": "dmp1ce",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -47,6 +47,24 @@
 			"body": "I have no idea. I don't see a way to see your own followers. I can only see who I am following.",
 			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476276645",
 			"date_added": 1476281632
+		},
+		{
+			"comment_id": 4,
+			"body": "For me the privacy / decentralization combined with nice user interface is the features I appreciate.",
+			"post_uri": "15PZT6SDb3xX38PYQC5LH6NNWu7jD74KP2_1476819218",
+			"date_added": 1476837981
+		},
+		{
+			"comment_id": 5,
+			"body": "It is possible to setup stores but no one has done so that I know of. You could have a catalog of products and negotiate sales through ZeroMail at the moment.\n\nThere is also Play and ZeroTV for torrents.",
+			"post_uri": "15CnUuQWHaW3h1vZuLTxQ5tEt1SzjeNdAP_1476824464",
+			"date_added": 1476838121
+		},
+		{
+			"comment_id": 6,
+			"body": "[Play](/1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp/?Home)",
+			"post_uri": "15CnUuQWHaW3h1vZuLTxQ5tEt1SzjeNdAP_1476824464",
+			"date_added": 1476838236
 		}
 	],
 	"follow": [
@@ -182,6 +200,13 @@
 			"auth_address": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib",
 			"user_name": "megfault",
 			"date_added": 1476284251
+		},
+		{
+			"follow_id": 21,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "15CnUuQWHaW3h1vZuLTxQ5tEt1SzjeNdAP",
+			"user_name": "Rooty",
+			"date_added": 1476838014
 		}
 	]
 }
