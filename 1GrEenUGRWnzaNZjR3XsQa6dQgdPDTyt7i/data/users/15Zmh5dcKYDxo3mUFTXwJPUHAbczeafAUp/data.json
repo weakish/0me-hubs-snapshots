@@ -1,6 +1,6 @@
 {
 	"next_post_id": 20,
-	"next_comment_id": 52,
+	"next_comment_id": 53,
 	"next_follow_id": 16,
 	"avatar": "png",
 	"user_name": "HelloArch",
@@ -341,6 +341,12 @@
 			"body": "?",
 			"post_uri": "1JV3Fhq8uJZuJ3QAYAj1GAgX8s4u8D72Qi_1476777831",
 			"date_added": 1476778348
+		},
+		{
+			"comment_id": 52,
+			"body": "第一句话的意思好像不那么准么：“使用 Bitcoin 加密 BitTorrent 网络的去中心化网站 - https://zeronet.io“\n我的理解是，使用 Bitcoin 加密 BitTorrent 网络的去中心化网络zeronet, 作为公网访问零网入口是 https://zeronet.io  \nzeronet 零网内访问都是 http://127.0.0.1:43110/",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476817023",
+			"date_added": 1476842190
 		}
 	],
 	"follow": [
