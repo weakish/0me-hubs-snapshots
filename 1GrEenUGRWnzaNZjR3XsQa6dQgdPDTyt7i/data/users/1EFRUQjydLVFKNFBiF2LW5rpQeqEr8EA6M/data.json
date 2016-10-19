@@ -1,7 +1,7 @@
 {
 	"next_post_id": 9,
-	"next_comment_id": 19,
-	"next_follow_id": 52,
+	"next_comment_id": 23,
+	"next_follow_id": 53,
 	"avatar": "jpg",
 	"user_name": "Rainlime",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -44,7 +44,7 @@
 		},
 		{
 			"post_id": 1476903979,
-			"body": "Zeronet.io 简体中文翻译完毕 ～\nhttp://127.0.0.1:43110/1eJpnj6gYswKH5dXH7N54XVL6A9oX7eMr/website/zeronet.io-zh-cn/",
+			"body": "Zeronet.io 简体中文翻译完毕 ～\nhttp://127.0.0.1:43110/1eJpnj6gYswKH5dXH7N54XVL6A9oX7eMr/website/zeronet.io-zh-cn/\n#ZeroNet-cn",
 			"date_added": 1476903971
 		}
 	],
@@ -53,7 +53,8 @@
 		"1EmkgqVBZ7fsKhqsnyZ77JrEJohUUkfrg7_1": 1476749029,
 		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476817023": 1476821351,
 		"15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1476775900": 1476827255,
-		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476903979": 1476904043
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476903979": 1476904043,
+		"1NHR4Gdv1dVLZS5HRwY6aJWfngk9jCLF87_1476863248": 1476911276
 	},
 	"comment": [
 		{
@@ -163,6 +164,30 @@
 			"body": "@43110: 搞定！",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476817023",
 			"date_added": 1476899147
+		},
+		{
+			"comment_id": 19,
+			"body": "@P2P: 我正在考虑把这个部署到外网（明网）去 在这里的人应该都已经了解了....",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476903979",
+			"date_added": 1476911744
+		},
+		{
+			"comment_id": 20,
+			"body": "@HelloArch: 2333然而并没有来自未来 有可能是因为我的系统被配置为使用美国的时区的关系",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476903979",
+			"date_added": 1476913919
+		},
+		{
+			"comment_id": 21,
+			"body": "@HelloArch: 不是我设计的，原站点是 zeronet.io 我只是翻译...",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476903979",
+			"date_added": 1476913983
+		},
+		{
+			"comment_id": 22,
+			"body": "@p2p 对啦 我在这个网页里好像看到你了 仔细看那个 ZeroTalk 的截图",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476903979",
+			"date_added": 1476914209
 		}
 	],
 	"follow": [
@@ -515,6 +540,13 @@
 			"auth_address": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M",
 			"user_name": "Rainlime",
 			"date_added": 1476905227
+		},
+		{
+			"follow_id": 52,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "15CnUuQWHaW3h1vZuLTxQ5tEt1SzjeNdAP",
+			"user_name": "Rooty",
+			"date_added": 1476914299
 		}
 	],
 	"settings": {

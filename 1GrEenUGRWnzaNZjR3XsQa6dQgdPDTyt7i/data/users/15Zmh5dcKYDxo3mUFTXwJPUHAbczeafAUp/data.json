@@ -1,6 +1,6 @@
 {
-	"next_post_id": 20,
-	"next_comment_id": 53,
+	"next_post_id": 21,
+	"next_comment_id": 59,
 	"next_follow_id": 17,
 	"avatar": "png",
 	"user_name": "HelloArch",
@@ -56,6 +56,11 @@
 			"post_id": 1476775900,
 			"body": "Plan: https://github.com/HelloZeroNet/ZeroNet/issues/584\nAdd image upload to ZeroMe:\nImage upload with resize\nCheckbox to help distribute user's files\n......\n....",
 			"date_added": 1476775881
+		},
+		{
+			"post_id": 1476874038,
+			"body": "大家进去看看。https://bit.no.com:43110/1eJpnj6gYswKH5dXH7N54XVL6A9oX7eMr/website/zeronet.io-zh-cn/\n@Rainlime 设计的不错，以后就拿这个给别人介绍宣传。",
+			"date_added": 1476874018
 		}
 	],
 	"post_like": {
@@ -347,6 +352,42 @@
 			"body": "能看到中文翻译真的很好。辛苦了。\n.\n有句话的意思好像不那么准哦：“使用 Bitcoin 加密 BitTorrent 网络的去中心化网站 - https://zeronet.io“\n我的理解是，使用 Bitcoin 加密 BitTorrent 网络的去中心化网   ..  络..   zeronet BitTorrent network, 作为公网访问零网入口是 https://zeronet.io  \nzeronet 零网内互相访问都是 http://127.0.0.1:43110/\n.\n这里要指出 零网作者 写得不那么严谨呀，让人会误认为是一个网站，其实是一个网络。“Decentralized websites using Bitcoin crypto and the BitTorrent network - https://zeronet.io\"  \n他应该写上“公网访问零网入口是 https://zeronet.io”",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476817023",
 			"date_added": 1476842190
+		},
+		{
+			"comment_id": 53,
+			"body": "@P2P: 为什么我看不出呀，都是代码。。。‘\nForbidden\nMedia referrer error\nPlease report it if you think this an error.",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476903979",
+			"date_added": 1476872433
+		},
+		{
+			"comment_id": 54,
+			"body": "奇怪呀，你的这个推怎么不显示在 我的Everyone 里呢/////// 显示在Activity feed",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476903979",
+			"date_added": 1476872671
+		},
+		{
+			"comment_id": 55,
+			"body": "@P2P:  好吧换CHROME试试 。@Rainlime是来自未来的呀，果然筋骨出奇，我这有本武功秘籍，送你了。。。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476903979",
+			"date_added": 1476873478
+		},
+		{
+			"comment_id": 56,
+			"body": "@P2P: 酷呀。 我换了离线CHROME看见了，  真的好炫呀。。@Rainlime NB.",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476903979",
+			"date_added": 1476873901
+		},
+		{
+			"comment_id": 57,
+			"body": "公网入口代理\n https://bit.no.com:43110/1eJpnj6gYswKH5dXH7N54XVL6A9oX7eMr/website/zeronet.io-zh-cn/\n@Rainlime 设计的不错，以后就拿这个给别人介绍宣传。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476903979",
+			"date_added": 1476874056
+		},
+		{
+			"comment_id": 58,
+			"body": "这个贴图功能已经在作者的开发计划中了， ",
+			"post_uri": "1VU4YuLth4bBcRtxtGatSwBbQuLXNzgVk_1476867488",
+			"date_added": 1476874762
 		}
 	],
 	"follow": [

@@ -1,5 +1,5 @@
 {
-	"next_post_id": 3,
+	"next_post_id": 4,
 	"next_comment_id": 1,
 	"next_follow_id": 2,
 	"avatar": "jpg",
@@ -16,6 +16,11 @@
 			"post_id": 2,
 			"body": "HelloWorld~",
 			"date_added": 1476805345
+		},
+		{
+			"post_id": 1476911439,
+			"body": "测试另一个 ID",
+			"date_added": 1476911436
 		}
 	],
 	"post_like": {},
@@ -28,5 +33,14 @@
 			"user_name": "Sirenyc",
 			"date_added": 1476805401
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }
