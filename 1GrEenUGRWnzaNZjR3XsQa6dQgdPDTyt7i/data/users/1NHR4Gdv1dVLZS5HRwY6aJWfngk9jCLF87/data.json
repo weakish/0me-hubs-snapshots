@@ -1,5 +1,5 @@
 {
-	"next_post_id": 16,
+	"next_post_id": 17,
 	"next_comment_id": 7,
 	"next_follow_id": 7,
 	"avatar": "jpg",
@@ -81,6 +81,11 @@
 			"post_id": 1476727960,
 			"body": "Кофе, код, электронная музыка...я вернулся!",
 			"date_added": 1476727945
+		},
+		{
+			"post_id": 1476863248,
+			"body": "И так, перебрав несколько модулей для работы с wifi в питоне, пришел к выводу, что не один из них мне не подходит. Прийдется писать свой с помощью [ subprocess ](https://docs.python.org/3.6/library/subprocess.html) .\nТак что Сегодня должна сдвинуться с мертвой точки разработка лобового брутера для вафель\n#python3  #python #ZeroNet_RU",
+			"date_added": 1476863232
 		}
 	],
 	"post_like": {

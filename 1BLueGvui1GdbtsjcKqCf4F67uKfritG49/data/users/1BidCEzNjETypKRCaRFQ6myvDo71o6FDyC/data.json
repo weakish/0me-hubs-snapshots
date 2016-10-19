@@ -1,6 +1,6 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 6,
+	"next_comment_id": 8,
 	"next_follow_id": 2,
 	"avatar": "generate",
 	"user_name": "Renha",
@@ -55,6 +55,18 @@
 			"body": "@Balancer73: информация не сохраняется",
 			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1476201962",
 			"date_added": 1476775441
+		},
+		{
+			"comment_id": 6,
+			"body": "@Balancer73: ну я сравниваю с juick, как я и писал. А у juick есть жуйкрегатор с постоянным сохранением. Редактированию постов хорошо бы быть откатываемым (то есть с историей изменений), как раз ошибки править самое то. Вот я пока не понял куда пропал комментарий в одном из обсуждений - его удалил автор, он перестал храниться у пиров, или как вообще? Вот я его видел, и на следующий день уже нет",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1476201962",
+			"date_added": 1476861636
+		},
+		{
+			"comment_id": 7,
+			"body": "@Balancer73: то есть если автор не удалит и моя нода его прочитала - комментарий не пропадёт?",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1476201962",
+			"date_added": 1476863619
 		}
 	],
 	"follow": [
