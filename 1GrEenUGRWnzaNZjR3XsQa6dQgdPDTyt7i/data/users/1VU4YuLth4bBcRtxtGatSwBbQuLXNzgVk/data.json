@@ -1,6 +1,6 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 54,
 	"avatar": "generate",
 	"user_name": "Freedomer",
@@ -18,8 +18,17 @@
 			"date_added": 1476867486
 		}
 	],
-	"post_like": {},
-	"comment": [],
+	"post_like": {
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476903979": 1476867671
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "这个太棒了，流弊",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476903979",
+			"date_added": 1476867688
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 1,

@@ -1,9 +1,23 @@
 {
-	"next_comment_id": 1,
+	"next_comment_id": 3,
 	"user_name": "Hexagon",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {
-		"1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_1476539164": 1476541249
+		"1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_1476539164": 1476541249,
+		"15PZT6SDb3xX38PYQC5LH6NNWu7jD74KP2_1476819218": 1476868465
 	},
-	"comment": []
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "yeah, sad thing :(",
+			"post_uri": "15PZT6SDb3xX38PYQC5LH6NNWu7jD74KP2_1476839061",
+			"date_added": 1476868422
+		},
+		{
+			"comment_id": 2,
+			"body": "I think our time / attention / content is much more valuable, than we think. \nFacebook, twitter, etc... just puts a tax on it by providing the platform and technically selling our data to companies (adverts), which is makes the product more expensive.\n\nZeronet and similiar networks trying to show a different way. IMHO :)",
+			"post_uri": "15PZT6SDb3xX38PYQC5LH6NNWu7jD74KP2_1476819218",
+			"date_added": 1476868832
+		}
+	]
 }
