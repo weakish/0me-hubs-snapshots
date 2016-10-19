@@ -1,7 +1,7 @@
 {
 	"next_post_id": 20,
 	"next_comment_id": 53,
-	"next_follow_id": 16,
+	"next_follow_id": 17,
 	"avatar": "png",
 	"user_name": "HelloArch",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -338,13 +338,13 @@
 		},
 		{
 			"comment_id": 51,
-			"body": "?",
+			"body": "那个是什么？\n",
 			"post_uri": "1JV3Fhq8uJZuJ3QAYAj1GAgX8s4u8D72Qi_1476777831",
 			"date_added": 1476778348
 		},
 		{
 			"comment_id": 52,
-			"body": "第一句话的意思好像不那么准么：“使用 Bitcoin 加密 BitTorrent 网络的去中心化网站 - https://zeronet.io“\n我的理解是，使用 Bitcoin 加密 BitTorrent 网络的去中心化网络zeronet, 作为公网访问零网入口是 https://zeronet.io  \nzeronet 零网内访问都是 http://127.0.0.1:43110/",
+			"body": "能看到中文翻译真的很好。辛苦了。\n.\n有句话的意思好像不那么准哦：“使用 Bitcoin 加密 BitTorrent 网络的去中心化网站 - https://zeronet.io“\n我的理解是，使用 Bitcoin 加密 BitTorrent 网络的去中心化网   ..  络..   zeronet BitTorrent network, 作为公网访问零网入口是 https://zeronet.io  \nzeronet 零网内互相访问都是 http://127.0.0.1:43110/\n.\n这里要指出 零网作者 写得不那么严谨呀，让人会误认为是一个网站，其实是一个网络。“Decentralized websites using Bitcoin crypto and the BitTorrent network - https://zeronet.io\"  \n他应该写上“公网访问零网入口是 https://zeronet.io”",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476817023",
 			"date_added": 1476842190
 		}
@@ -454,6 +454,13 @@
 			"auth_address": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS",
 			"user_name": "cnwfjsw",
 			"date_added": 1475541924
+		},
+		{
+			"follow_id": 16,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M",
+			"user_name": "Rainlime",
+			"date_added": 1476843013
 		}
 	],
 	"settings": {
@@ -465,7 +472,8 @@
 	"blocked": [],
 	"flags": {
 		"post-18oQPES15W27Ks1GBZRKx9zf9wFmXLraEW_1475630739": 1,
-		"post-19WLkHBFudHeHikvCvdBSKxTER69n463v3_1476111812": 0
+		"post-19WLkHBFudHeHikvCvdBSKxTER69n463v3_1476111812": 0,
+		"post-1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476817023": 1
 	},
 	"comment_like": {}
 }
