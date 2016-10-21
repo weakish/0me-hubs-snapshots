@@ -1,7 +1,7 @@
 {
 	"next_post_id": 81,
-	"next_comment_id": 100,
-	"next_follow_id": 19,
+	"next_comment_id": 103,
+	"next_follow_id": 20,
 	"avatar": "jpg",
 	"user_name": "meidan",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -405,7 +405,10 @@
 		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1476856537": 1476891976,
 		"1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1476980006": 1476997090,
 		"1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1477054764": 1477061469,
-		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1476988453": 1477061634
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1476988453": 1477061634,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1477078700": 1477084046,
+		"1ACc4pa2pJam33SkSE1zF1seF3LQKWR24v_1477071704": 1477084097,
+		"18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477075466": 1477084484
 	},
 	"comment": [
 		{
@@ -983,6 +986,24 @@
 			"body": "@Henur: Not sure what the problem is. ... I checked what I thought to be an error but other sites I can view show the same thing. ... ",
 			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1476983304",
 			"date_added": 1477078884
+		},
+		{
+			"comment_id": 100,
+			"body": "I've haven't grown them in skim milk before. But be careful when they start getting big. Mine are around a inch or so long and they are starting to split. I'm not sure how much sugar is in skim milk but that's pretty much what they feed on. \n\n I think maybe they are just rapidly digesting what sugars are in the skimmed milk to grow faster. That will probably make a thin kefir though. Mine always ends up a sour cream like consistency. Which I either keep or turn into a salty mozzarella like cheese.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1477078700",
+			"date_added": 1477084034
+		},
+		{
+			"comment_id": 101,
+			"body": "There's been outages for a few days at random times where I live. It's getting pretty annoying.",
+			"post_uri": "1ACc4pa2pJam33SkSE1zF1seF3LQKWR24v_1477071704",
+			"date_added": 1477084131
+		},
+		{
+			"comment_id": 102,
+			"body": "@Henur: Right now I'm trying to see if other's are having the same problem. If it persists, I'll just rebuild the entire site again from scratch next week. Also, I'll check on some other computers and browsers to see if that may be the issue.",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1476983304",
+			"date_added": 1477086557
 		}
 	],
 	"follow": [
@@ -1111,6 +1132,13 @@
 			"auth_address": "1KAfCgw4ECkqUccYQZDoPuTMhA2YPMaZwG",
 			"user_name": "Voruman",
 			"date_added": 1475702964
+		},
+		{
+			"follow_id": 19,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1ACc4pa2pJam33SkSE1zF1seF3LQKWR24v",
+			"user_name": "Punkcoder",
+			"date_added": 1477084180
 		}
 	],
 	"settings": {
