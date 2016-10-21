@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 3,
-	"next_follow_id": 5,
+	"next_comment_id": 4,
+	"next_follow_id": 6,
 	"avatar": "generate",
 	"user_name": "Erebus",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -26,6 +26,12 @@
 			"body": "How about AnimeBytes?",
 			"post_uri": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1476794693",
 			"date_added": 1476795368
+		},
+		{
+			"comment_id": 3,
+			"body": "@KosherX: private. much better than the one you know.",
+			"post_uri": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1476794693",
+			"date_added": 1477055763
 		}
 	],
 	"follow": [
@@ -56,6 +62,13 @@
 			"auth_address": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY",
 			"user_name": "KosherX",
 			"date_added": 1476795396
+		},
+		{
+			"follow_id": 5,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR",
+			"user_name": "weakish",
+			"date_added": 1477058747
 		}
 	]
 }

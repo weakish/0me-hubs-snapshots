@@ -1,7 +1,7 @@
 {
 	"next_post_id": 20,
-	"next_comment_id": 67,
-	"next_follow_id": 14,
+	"next_comment_id": 68,
+	"next_follow_id": 15,
 	"avatar": "jpg",
 	"user_name": "MilitaryRiotLab",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -494,9 +494,15 @@
 		},
 		{
 			"comment_id": 66,
-			"body": "@dmp1ce: This question just come out of my mind, not a philosophical question.\nLet's assume that Alice send a email to Bob in the internet, and \n* No log in all gateways / servers",
+			"body": "@dmp1ce: This question just come out of my mind, not a philosophical question.\nLet's assume that Alice want to send a email to Bob in the internet, and \n* No logging in all gateways / servers\n* No signing, only name and email address\n* No mitm\n* No physical attack ( someone else access the computer / account )",
 			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1477050903",
 			"date_added": 1477058403
+		},
+		{
+			"comment_id": 67,
+			"body": "測試什麼?",
+			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1477054148",
+			"date_added": 1477058649
 		}
 	],
 	"follow": [
@@ -583,6 +589,13 @@
 			"auth_address": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M",
 			"user_name": "Rainlime",
 			"date_added": 1476810495
+		},
+		{
+			"follow_id": 14,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY",
+			"user_name": "KosherX",
+			"date_added": 1477059007
 		}
 	],
 	"settings": {
