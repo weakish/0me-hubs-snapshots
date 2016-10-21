@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 74,
+	"next_comment_id": 77,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -452,6 +452,24 @@
 			"body": "@HelloArch: 我记得有折叠功能的啊。难道只对英文才有效？",
 			"post_uri": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1476943101",
 			"date_added": 1477039325
+		},
+		{
+			"comment_id": 74,
+			"body": "https://wiki.archlinux.org/index.php/time\nhttps://help.ubuntu.com/community/UbuntuTime\nhttp://tldp.org/HOWTO/Clock-2.html",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477094943",
+			"date_added": 1477064645
+		},
+		{
+			"comment_id": 75,
+			"body": "你只能用虚拟机，没法接触到实体机？那可能是虚拟机平台插件搞的鬼。你的实体机时间不对，强制同步给虚拟机了 http://askubuntu.com/questions/35566/how-do-i-manually-set-the-system-time-in-virtualbox",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477094943",
+			"date_added": 1477065176
+		},
+		{
+			"comment_id": 76,
+			"body": "关闭Hardware Clock use UTC呢？然后重启虚拟机",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477094943",
+			"date_added": 1477065322
 		}
 	],
 	"flags": {},
