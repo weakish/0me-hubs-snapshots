@@ -1,6 +1,6 @@
 {
 	"next_post_id": 28,
-	"next_comment_id": 13,
+	"next_comment_id": 15,
 	"next_follow_id": 11,
 	"avatar": "generate",
 	"user_name": "Firebox",
@@ -213,6 +213,18 @@
 			"body": "Yes. [ZeroMux](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/docs/)",
 			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1477016753",
 			"date_added": 1477034143
+		},
+		{
+			"comment_id": 13,
+			"body": "@Hexagon: Yes, exactly! Abstraction on data representation!\nThe big file is actually a group of small chunks plus some metadata on the big file.",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1477016753",
+			"date_added": 1477073341
+		},
+		{
+			"comment_id": 14,
+			"body": "@波多野结衣: \n1. Cut your files into small parts, and give each part a unique name, like cutting a piece of paper into smaller pieces, and putting numbers on them.\n2. Make a `file.json` that tells ZeroMux how to put the pieces together.\n(Use the python script at the end of [This Page](/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/docs/))\n3. Let ZeroMux put together the pieces of the file for you.\n(\"Registering Event Handlers\" section of [This Page](/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/docs/usage/making-file-downloader/))\n\n    \n    var events = initEventObj();\n    events.onfinish = finish;\n    function finish(blob)\n    {\n        // `blob` contains the reassembled big file\n        var url = URL.createObjectURL(blob);\n        location.href = url;\n    }\n    downloadBigFile(\"your/own/file.json\", events); // (jsonPath, events)",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1477016753",
+			"date_added": 1477074395
 		}
 	],
 	"follow": [
