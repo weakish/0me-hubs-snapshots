@@ -1,5 +1,5 @@
 {
-	"next_post_id": 37,
+	"next_post_id": 38,
 	"next_comment_id": 25,
 	"next_follow_id": 75,
 	"avatar": "jpg",
@@ -186,6 +186,11 @@
 			"post_id": 1476893197,
 			"body": "I finally started refurbishing my paragliding website. Since I want to host it on the Internet as well as on zeronet, I am using one of the static generators from  https://www.staticgen.com/. I chose hugo as it seems to be fairly new and I could install it with apt-get. \nAfter some trial and error, I managed to get the URLs and links behaving. But the carousel doesn't load in zeronet. It works perfectly when using the hugo server.\nThe site is at: [paraeasy.bit](/paraeasy.bit)\nAlso, I have the impression it tries to fetch stuff from the Internet even though it is supposed to be static.",
 			"date_added": 1476893161
+		},
+		{
+			"post_id": 1477055465,
+			"body": "Just wondering if it would be feasible to distribute this hash list with zeronet, and check the filter before displaying a pic. \nhttp://arstechnica.com/tech-policy/2016/10/internet-watch-foundation-child-sex-abuse-org-urges-hash-list/\nCould be a preemptive measure before the platform might be attacked by totalitarians with false accusations.\nIn case the list was abused for censorship, the filter could be relaxed again.",
+			"date_added": 1477055428
 		}
 	],
 	"post_like": {
