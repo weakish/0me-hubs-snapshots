@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 42,
+	"next_comment_id": 43,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -255,6 +255,12 @@
 			"body": "Chrome试试",
 			"post_uri": "12yaKkoqVKBUi66uB5pYXamWguKFaWdDnx_1475497922",
 			"date_added": 1475501643
+		},
+		{
+			"comment_id": 42,
+			"body": "~~理论上来讲你用kaffie.bit的ID是不能改简介的~~，因为 http://127.0.0.1:43110/1UDbADib99KE9d3qZ87NqJF2QLTHmMkoV/data/userdb/content.json 没有添加kaffie.bit的信息\nEDIT:简介也可以放在hub里，不放在userdb里，所以也能“改”简介，但是不能显示在全部用户列表里。",
+			"post_uri": "1Q3xYc3P8i2WDj621HvSbfEqTP4aMLpKYU_1476911439",
+			"date_added": 1476958701
 		}
 	],
 	"flags": {},

@@ -1,0 +1,32 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Geobor",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1476986363,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1476986414,
+			"body": "I'm from Belarus",
+			"date_added": 1476986412
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "14kxkh1pLNYuCwCZ161HCQkSjvWW29ybNz",
+			"user_name": "Geobor",
+			"date_added": 1477003718
+		}
+	]
+}

@@ -1,6 +1,6 @@
 {
-	"next_post_id": 26,
-	"next_comment_id": 11,
+	"next_post_id": 28,
+	"next_comment_id": 13,
 	"next_follow_id": 11,
 	"avatar": "generate",
 	"user_name": "Firebox",
@@ -126,6 +126,16 @@
 			"post_id": 1476682413,
 			"body": "Several variables are declared as global by mistake, causing potential name conflicts. Now this bug is fixed.\n\n[ZeroMux Demos](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/) and [Documentation](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/docs/)",
 			"date_added": 1476682388
+		},
+		{
+			"post_id": 1476936137,
+			"body": "I am writing a new page of documentation for ZeroMux. It is on working with fragmented data streams.\n\n```\nWhat we want:\n[################                       ]     \n0%                                      100%\n\nWhat we have:\n[########  #### #    #  ##       #    # ]\n0%                                      100%\n\nWhat will you do?\n```",
+			"date_added": 1476936111
+		},
+		{
+			"post_id": 1477016753,
+			"body": "It seems that someone thought I was the developer of ZeroNet. =) I am not! I am the developer of a program that is hosted on ZeroNet.",
+			"date_added": 1477016726
 		}
 	],
 	"post_like": {
@@ -191,6 +201,18 @@
 			"body": "Lossless",
 			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1476563926",
 			"date_added": 1476570360
+		},
+		{
+			"comment_id": 11,
+			"body": "@波多野结衣: http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/docs/\nIt is written in JavaScript. It will work if Firefox works on your Windows 10.",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1476936137",
+			"date_added": 1476937953
+		},
+		{
+			"comment_id": 12,
+			"body": "Yes. [ZeroMux](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/docs/)",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1477016753",
+			"date_added": 1477034143
 		}
 	],
 	"follow": [

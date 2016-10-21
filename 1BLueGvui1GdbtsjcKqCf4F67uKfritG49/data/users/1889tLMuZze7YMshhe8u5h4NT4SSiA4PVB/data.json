@@ -1,6 +1,6 @@
 {
 	"next_post_id": 8,
-	"next_comment_id": 5,
+	"next_comment_id": 6,
 	"next_follow_id": 38,
 	"avatar": "jpg",
 	"user_name": "Zanity",
@@ -65,6 +65,12 @@
 			"body": "Beep Bloop Blop",
 			"post_uri": "13GU1tjE8NpZocm8bZdSE83BmrbLfydR9V_1474390175",
 			"date_added": 1474390326
+		},
+		{
+			"comment_id": 5,
+			"body": "ZeroMe is the only place I follow myself! :D",
+			"post_uri": "12hfjFNEyB9vvoPKPKXRHqkvR57Rxaffqc_1476987991",
+			"date_added": 1476993892
 		}
 	],
 	"follow": [
@@ -299,5 +305,16 @@
 			"user_name": "Bashrc",
 			"date_added": 1473148104
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {
+		"post-1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1475578486": 0
+	},
+	"comment_like": {}
 }

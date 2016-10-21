@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 44,
+	"next_comment_id": 47,
 	"user_name": "Shellbound",
 	"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
 	"post_like": {
@@ -293,6 +293,24 @@
 			"body": "Have never used it... what errors do you get? One of the first things I do is ```strace -eopen <application name>``` when troubleshooting.. just to see if something is missing. Usually you will get the answer by either checking the package tracker on aur or by googling the error. ",
 			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1476437797",
 			"date_added": 1476823364
+		},
+		{
+			"comment_id": 44,
+			"body": "That one is using namecoin-legacy and has been deprecated for namecoin-core. Have you tried the other package in the AUR? The legacy github source is a couple of years old and not updated anymore.",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1476437797",
+			"date_added": 1476896393
+		},
+		{
+			"comment_id": 45,
+			"body": "@Dergatt: No, what they do is to point to the namecoin-core repo and in that repo you have the [gui](https://github.com/namecoin/namecoin-core/tree/master/src/qt). ;)",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1476437797",
+			"date_added": 1476913945
+		},
+		{
+			"comment_id": 46,
+			"body": "@Dergatt: Not easy? It's available through AUR as with most other stuff. Just search 'namecoin' and install the ```namecoin-core``` ;)",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1476437797",
+			"date_added": 1476983633
 		}
 	],
 	"flags": {

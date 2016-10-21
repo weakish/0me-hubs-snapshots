@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 20,
+	"next_comment_id": 25,
 	"user_name": "Durand",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {
@@ -120,6 +120,36 @@
 			"body": "I have a Dell XPS and use my touchscreen all the time. It's especially great for scrolling and navigating quickly. Also quite useful for pinch-to-zoom and in 3d graphics software like Blender.",
 			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1476787982",
 			"date_added": 1476827328
+		},
+		{
+			"comment_id": 20,
+			"body": "@ulrichard: That's true. I think GTK has some catching up to do. Works fine in browsers though!",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1476787982",
+			"date_added": 1476903312
+		},
+		{
+			"comment_id": 21,
+			"body": "I use hugo as well. It's pretty great :)\n\nYour relative urls are bad. That's probably why it doesn't work. For example, you have urls like this:\n>  <link href=\"/1ParaEza5Ew5ioT5c8zR2wSSvArqiSQbpT/1ParaEza5Ew5ioT5c8zR2wSSvArqiSQbpT/css/custom.css\" rel=\"stylesheet\">\n\nNote the extra 1ParaEza5Ew5ioT5c8zR2wSSvArqiSQbpT/\n\nInstead of using a baseURL, I make all the links relative by adding these two lines to the site config.\n> baseurl = \"\"\n> relativeurls = true\n\nThen I can use the same generated site with both github pages and zeronet with no tweaks :)\n\nI have a sample site here that you can see: [dldx.bit](http://127.0.0.1:43110/dldx.bit) with source [code here](https://github.com/dldx/hpstr-hugo-theme).",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1476893197",
+			"date_added": 1476903818
+		},
+		{
+			"comment_id": 22,
+			"body": "@ulrichard: Yeah, I think it's a problem with ZeroNet. I actually have a similar problem with disqus comments. If you check your error console, you get something like this:\n> Uncaught DOMException: Failed to read the 'cookie' property from 'Document': The document is sandboxed and lacks the 'allow-same-origin' flag.\n>    at Function.$.cookie \n\nThat's because the site is in a sandboxed iframe. I'm not sure how to fix it right now but I'm sure there's a solution.\n\nFor some reason, your site isn't updating for me anymore. Perhaps you turned off your computer?",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1476893197",
+			"date_added": 1476910715
+		},
+		{
+			"comment_id": 23,
+			"body": "I actually discovered that using `baseurl = \"\"` messes up things like opengraph and twitter cards. If you don't care about them, then it's fine but if you do, it's better to add one.",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1476893197",
+			"date_added": 1476935671
+		},
+		{
+			"comment_id": 24,
+			"body": "Welcome!",
+			"post_uri": "1DsnaA1SrqJM2VC7F6NptK2WPAsdFFWiFW_1476928232",
+			"date_added": 1476935745
 		}
 	],
 	"flags": {},

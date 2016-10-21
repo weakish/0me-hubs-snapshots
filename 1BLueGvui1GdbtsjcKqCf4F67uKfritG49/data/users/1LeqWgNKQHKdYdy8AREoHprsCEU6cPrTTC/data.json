@@ -1,6 +1,6 @@
 {
-	"next_post_id": 75,
-	"next_comment_id": 92,
+	"next_post_id": 79,
+	"next_comment_id": 98,
 	"next_follow_id": 19,
 	"avatar": "jpg",
 	"user_name": "meidan",
@@ -351,6 +351,21 @@
 			"post_id": 1476826624,
 			"body": "Massive internet power outages here. I can't even get data service. ",
 			"date_added": 1476826550
+		},
+		{
+			"post_id": 1476904970,
+			"body": "I've gotten just about an entire week of World Literature class finished today and it's a sped up class which doubles the workload. :)\nI'm also still doing Stoic Week and I've started attempting to read something in Esperanto everyday.",
+			"date_added": 1476904895
+		},
+		{
+			"post_id": 1476983304,
+			"body": "ZeroTalk Esperanto or ZeroParoli is now live on ZeroNet. :) http://127.0.0.1:43110/1EZGQs7uR9bETxaVwxVvqVuk4ceqyPmg67/",
+			"date_added": 1476983227
+		},
+		{
+			"post_id": 1476996881,
+			"body": "ZeroTalk aŭ  ZeroParoli estas sur ZeroNet en Esperanto! \nhttp://127.0.0.1:43110/1EZGQs7uR9bETxaVwxVvqVuk4ceqyPmg67/\n\n*If there are any translation errors etc. please let me know.",
+			"date_added": 1476996803
 		}
 	],
 	"post_like": {
@@ -376,7 +391,9 @@
 		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1475784449": 1476286580,
 		"18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6_1476376397": 1476389435,
 		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1476611937": 1476634940,
-		"13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1476814314": 1476826883
+		"13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1476814314": 1476826883,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1476856537": 1476891976,
+		"1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1476980006": 1476997090
 	},
 	"comment": [
 		{
@@ -902,16 +919,46 @@
 			"date_added": 1476805673
 		},
 		{
-			"comment_id": 90,
-			"body": "Just got it back for now. But I don't think it's fixed yet. ",
-			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1476826624",
-			"date_added": 1476826993
-		},
-		{
 			"comment_id": 91,
 			"body": "@Rooty: :)",
 			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1476805852",
 			"date_added": 1476827072
+		},
+		{
+			"comment_id": 92,
+			"body": "@Flyman: I agree. I think there needs to be an intermediate zone. For one thing some things required both your something of yourself and something from others. Such as acquiring knowledge. You have to have the curiosity to learn etc. but to some extent you are going to have to rely on others to gain that knowledge. Such as college etc. There's a tipping point so to speak. ",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1476805852",
+			"date_added": 1476892206
+		},
+		{
+			"comment_id": 93,
+			"body": "I should probably get some of next weeks done so I have time to write essays.",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1476904970",
+			"date_added": 1476904919
+		},
+		{
+			"comment_id": 94,
+			"body": "@Henur: Why not start our own instance? http://127.0.0.1:43110/1EZGQs7uR9bETxaVwxVvqVuk4ceqyPmg67 Here you go. Just speak only in Esperanto. :) I'm working on translating the entire site over to Esperanto still but it should be done today or tomorrow.",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1476904970",
+			"date_added": 1476973656
+		},
+		{
+			"comment_id": 95,
+			"body": "@KosherX: Make your own instance for Japanese. :) Just clone ZeroTalk and change the translations a little bit in html. Shouldn't be a problem. Then we can share the forums on ZeroTalk and hopefully get them linked. What do you think?",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1476904970",
+			"date_added": 1476974147
+		},
+		{
+			"comment_id": 96,
+			"body": "@Henur: Done.",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1476904970",
+			"date_added": 1476975100
+		},
+		{
+			"comment_id": 97,
+			"body": "@Henur: It's still seeding. Give it a day or two.",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1476983304",
+			"date_added": 1477015652
 		}
 	],
 	"follow": [

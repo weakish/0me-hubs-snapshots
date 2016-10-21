@@ -1,8 +1,8 @@
 {
-	"next_post_id": 3,
-	"next_comment_id": 8,
-	"next_follow_id": 8,
-	"avatar": "generate",
+	"next_post_id": 5,
+	"next_comment_id": 11,
+	"next_follow_id": 9,
+	"avatar": "jpg",
 	"user_name": "Nekocross",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"intro": "Random ZeroNet user",
@@ -16,6 +16,16 @@
 			"post_id": 1475083212,
 			"body": "Nyan~",
 			"date_added": 1475083210
+		},
+		{
+			"post_id": 1476962038,
+			"body": "求zerome plus的地址",
+			"date_added": 1476962035
+		},
+		{
+			"post_id": 1476967829,
+			"body": "什么时候zerome能上传图片就好了",
+			"date_added": 1476967825
 		}
 	],
 	"post_like": {},
@@ -61,6 +71,24 @@
 			"body": "你吼啊",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476493035",
 			"date_added": 1476499337
+		},
+		{
+			"comment_id": 8,
+			"body": "因为审查还不够严格",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476748864",
+			"date_added": 1476847609
+		},
+		{
+			"comment_id": 9,
+			"body": "@海德拉: 谢谢，我现在就在用zerome plus回复",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1476962038",
+			"date_added": 1476967717
+		},
+		{
+			"comment_id": 10,
+			"body": "Press button “everyone”，and you'll see all the posts",
+			"post_uri": "1JbbLwRjvoa3WnK9dp8DJuiLG4ywkeuuLx_2",
+			"date_added": 1476967960
 		}
 	],
 	"follow": [
@@ -113,5 +141,14 @@
 			"user_name": "PaintNinja",
 			"date_added": 1476499396
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": true,
+		"mute_spam": true,
+		"mute_blocked": true
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }

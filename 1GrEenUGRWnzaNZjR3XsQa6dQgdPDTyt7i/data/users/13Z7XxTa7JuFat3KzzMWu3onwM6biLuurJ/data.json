@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 53,
+	"next_comment_id": 74,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -11,7 +11,8 @@
 		"1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476461868": 1476463486,
 		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476817023": 1476794811,
 		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476903979": 1476873595,
-		"15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1476874038": 1476878600
+		"15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1476874038": 1476878600,
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476983833": 1476956931
 	},
 	"comment": [
 		{
@@ -325,6 +326,132 @@
 			"body": "这个贴由于来自未来，置顶了",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476903979",
 			"date_added": 1476878562
+		},
+		{
+			"comment_id": 53,
+			"body": "@Rainlime: 恩，一年多前的截图了，时间过得好快",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476903979",
+			"date_added": 1476940858
+		},
+		{
+			"comment_id": 54,
+			"body": "@Rainlime: 那你设置区的姿势不对。设置时区是改系统设置里的时区，而不是改时间。最简单的方法可以是选择你想要的时区后，设置时间自动同步。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476903979",
+			"date_added": 1476941081
+		},
+		{
+			"comment_id": 55,
+			"body": "比如呢？",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476978512",
+			"date_added": 1476941246
+		},
+		{
+			"comment_id": 56,
+			"body": "@HelloArch: comodo浏览器？不是跟chrome同内核吗",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476903979",
+			"date_added": 1476946606
+		},
+		{
+			"comment_id": 57,
+			"body": "作者已经merge你的PR，但是还有个问题：无需密码、基于 BIP32 的认证：用与比特币钱包相同的加密方法~~用~~来保护你的账户 ~~你的账户被使用和比特币钱包相同的加密方法~~ （需要删掉两处）",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476903979",
+			"date_added": 1476953418
+		},
+		{
+			"comment_id": 58,
+			"body": "@HelloArch: 掉书签是啥意思？chrome的个人数据默认存在C盘，所以要备份 `%LOCALAPPDATA%\\Google\\Chrome\\User Data`文件夹。最坑的不是书签，最坑的是扩展等数据哪怕你备份了Chrome也不认（迁移到别的机器也是这样），所以我转投Chromium了",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476903979",
+			"date_added": 1476955472
+		},
+		{
+			"comment_id": 59,
+			"body": "辛苦！粗略看了一下，没发现什么问题",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476983833",
+			"date_added": 1476957323
+		},
+		{
+			"comment_id": 60,
+			"body": "这里已经有网友翻译了一部分官方文档，望知晓 http://127.0.0.1:43110/wikicn.bit\n你这次翻译的FAQ刚好可以补充到这里： http://127.0.0.1:43110/wikicn.bit/?Page:docfaq",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476983833",
+			"date_added": 1476957698
+		},
+		{
+			"comment_id": 61,
+			"body": "你的系统时区问题还没弄好啊，总是置顶",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476984667",
+			"date_added": 1476957928
+		},
+		{
+			"comment_id": 62,
+			"body": "@HelloArch: Chromium好像也有便携版的。不过普通版本其实也能够指定数据文件夹，请看 http://127.0.0.1:43110/15gfg6DUVkp7ApLSMQvC2ig5qy8j91jXeW/2012/09/howto-prevent-hacker-attack-6.html 多实例一节",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476903979",
+			"date_added": 1476959202
+		},
+		{
+			"comment_id": 63,
+			"body": "@Woodsfirezyj: 在Everyone里已经过滤了这种未来推，但是followed users里还没有",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476984667",
+			"date_added": 1476960013
+		},
+		{
+			"comment_id": 64,
+			"body": "@HelloArch: 但是为什么会有之前的bug，comodo显示不出那个页面",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476903979",
+			"date_added": 1476960151
+		},
+		{
+			"comment_id": 65,
+			"body": "#ZeroNet-CN #测试 `#ZeroNet-CN` #ZeroNet",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476983833",
+			"date_added": 1476960212
+		},
+		{
+			"comment_id": 66,
+			"body": "http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Post/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib/9\n这条推的评论里ks告诉了下载方法",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477004765",
+			"date_added": 1476965494
+		},
+		{
+			"comment_id": 67,
+			"body": "你的系统时间设置非常令人抓狂，不仅仅是推置顶，而且你的新评论直接被前端过滤掉（我在后端你的data.json里看到了前端看不到的新评论）。ZeroNet的用户来自世界各地，除了你以外都没有时区问题。我在之前的评论里告诉了你时区正确设置方法。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477005020",
+			"date_added": 1476966819
+		},
+		{
+			"comment_id": 68,
+			"body": "现在有zite已经能在线播放视频了，是基于webtorrent的。webtorrent跟普通torrent不兼容，所以实用性打折扣。nofish说因为tor不支持BT的UDP，所以暂时不搞torrent了，等到搞完I2P的支持后再搞。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477010668",
+			"date_added": 1476977390
+		},
+		{
+			"comment_id": 69,
+			"body": "为什么要重装系统呢？不能设置时间/时区？",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477005020",
+			"date_added": 1476977521
+		},
+		{
+			"comment_id": 70,
+			"body": "@Rainlime: 恩，还没有实作利用这些功能",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476978512",
+			"date_added": 1477010983
+		},
+		{
+			"comment_id": 71,
+			"body": "@Rainlime: 你BIOS里显示的时间呢？在那里改呢？\n你用一个主流Linux发行版的Live CD引导系统，来同步时间时区呢？",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477005020",
+			"date_added": 1477011726
+		},
+		{
+			"comment_id": 72,
+			"body": "@HelloArch: 那个不是nofish的博客，是@Firefox的博客。nofish的博客是 http://127.0.0.1:43110/Blog.ZeroNetwork.bit/",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477010668",
+			"date_added": 1477038812
+		},
+		{
+			"comment_id": 73,
+			"body": "@HelloArch: 我记得有折叠功能的啊。难道只对英文才有效？",
+			"post_uri": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1476943101",
+			"date_added": 1477039325
 		}
 	],
 	"flags": {},

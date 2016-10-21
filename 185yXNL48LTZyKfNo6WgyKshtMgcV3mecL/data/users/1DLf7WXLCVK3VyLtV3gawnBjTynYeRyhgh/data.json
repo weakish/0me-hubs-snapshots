@@ -1,9 +1,9 @@
 {
-	"next_post_id": 13,
-	"next_comment_id": 6,
-	"next_follow_id": 219,
+	"next_post_id": 16,
+	"next_comment_id": 7,
+	"next_follow_id": 220,
 	"avatar": "png",
-	"user_name": "Zero",
+	"user_name": "0",
 	"hub": "185yXNL48LTZyKfNo6WgyKshtMgcV3mecL",
 	"intro": "¿Cuál es la probabilidad de...?",
 	"post": [
@@ -61,6 +61,21 @@
 			"post_id": 1476610620,
 			"body": "No hay nada muy interesante para hoy...",
 			"date_added": 1476610608
+		},
+		{
+			"post_id": 1476778748,
+			"body": "Al parecer, ni siquiera los usuarios de #Kaffie se pueden comunicar entre si dentro de #ZeroMe",
+			"date_added": 1476778735
+		},
+		{
+			"post_id": 1476975543,
+			"body": "Se pueden borrar mensajes ya posteados?",
+			"date_added": 1476975529
+		},
+		{
+			"post_id": 1477031212,
+			"body": "No sabia que [bittorrent](https://es.wikipedia.org/wiki/Bittorrent) fuera tan peligroso de usar, hasta que lei [este articulo sobre el tema](../procesos.bit/lab.html?Post:148)",
+			"date_added": 1477031197
 		}
 	],
 	"post_like": {},
@@ -94,6 +109,12 @@
 			"body": "@Talnicrom: Sorry, but where can I find the archiv `data.json`. \nWhere in `~/Zeronet/data/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/`?",
 			"post_uri": "1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh_1476089407",
 			"date_added": 1476301420
+		},
+		{
+			"comment_id": 6,
+			"body": "@Rapapobre: Incluso si ya hay comentarios? Y que sucede con los comentarios?",
+			"post_uri": "1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh_1476975543",
+			"date_added": 1477030244
 		}
 	],
 	"follow": [
@@ -1608,6 +1629,13 @@
 			"auth_address": "1Joo7YytZRnzbQoUYbRVcmMiQ1MF2tUFwH",
 			"user_name": "Susobaco",
 			"date_added": 1476125368
+		},
+		{
+			"follow_id": 219,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx",
+			"user_name": "ks",
+			"date_added": 1476893657
 		}
 	],
 	"settings": {

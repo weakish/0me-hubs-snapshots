@@ -1,7 +1,7 @@
 {
-	"next_post_id": 36,
-	"next_comment_id": 24,
-	"next_follow_id": 74,
+	"next_post_id": 37,
+	"next_comment_id": 25,
+	"next_follow_id": 75,
 	"avatar": "jpg",
 	"user_name": "ulrichard",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -181,6 +181,11 @@
 			"post_id": 1476868057,
 			"body": "How one moron can defeat one of the best places for apres-ski in Switzerland:\nhttp://www.20min.ch/panorama/news/story/30281652",
 			"date_added": 1476868022
+		},
+		{
+			"post_id": 1476893197,
+			"body": "I finally started refurbishing my paragliding website. Since I want to host it on the Internet as well as on zeronet, I am using one of the static generators from  https://www.staticgen.com/. I chose hugo as it seems to be fairly new and I could install it with apt-get. \nAfter some trial and error, I managed to get the URLs and links behaving. But the carousel doesn't load in zeronet. It works perfectly when using the hugo server.\nThe site is at: [paraeasy.bit](/paraeasy.bit)\nAlso, I have the impression it tries to fetch stuff from the Internet even though it is supposed to be static.",
+			"date_added": 1476893161
 		}
 	],
 	"post_like": {
@@ -324,6 +329,12 @@
 			"body": "@Durand: Scrolling only works on some applications. I didn't start up blender yet on that machine. I will definitively have a try in the next few days. It's a pity that the 3D CAD that I'm developing for doesn't run on any decent OS.",
 			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1476787982",
 			"date_added": 1476864122
+		},
+		{
+			"comment_id": 24,
+			"body": "@Durand: Cool! Thanks for the hint with the relative URLs.\n\nIt looks different now. The css is loaded, but the carousel still wont.\n\nThe carousel works if I right click -> this frame -> show only this frame. \nIs zeronet interfering with some functionality of the site?\n\nAlso, the contact form doesn't work for me. How do you handle the contacts form when you host a hugo site on zeronet?",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1476893197",
+			"date_added": 1476909561
 		}
 	],
 	"follow": [
@@ -837,6 +848,13 @@
 			"auth_address": "1AxLMGKjSdsL3Sxa2x1WHJmoap3Z93YdCm",
 			"user_name": "Hexagon",
 			"date_added": 1476642507
+		},
+		{
+			"follow_id": 74,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LFxK1BSHEnkJcXXb4qGszVUxEwqLVSJU8",
+			"user_name": "Hermes32",
+			"date_added": 1476945697
 		}
 	],
 	"settings": {
@@ -847,5 +865,7 @@
 	},
 	"blocked": [],
 	"flags": {},
-	"comment_like": {}
+	"comment_like": {
+		"12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_21": 1476909564
+	}
 }

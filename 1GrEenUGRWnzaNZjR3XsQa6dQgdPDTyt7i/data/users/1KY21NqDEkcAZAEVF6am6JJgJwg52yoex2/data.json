@@ -1,0 +1,32 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Kuikpocket",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1476896374,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1476896584,
+			"body": "Well lets make zero net better than google?\n",
+			"date_added": 1476896582
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "14Mum7sp4swvjkL3nRqgXPrkJLUZFDTuM4",
+			"user_name": "Prismkey",
+			"date_added": 1476896520
+		}
+	]
+}

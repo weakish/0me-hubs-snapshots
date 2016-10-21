@@ -1,7 +1,7 @@
 {
 	"next_post_id": 40,
-	"next_comment_id": 47,
-	"next_follow_id": 68,
+	"next_comment_id": 48,
+	"next_follow_id": 71,
 	"avatar": "jpg",
 	"user_name": "Woodsfirezyj",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -118,7 +118,8 @@
 		"15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1476113636": 1476123478,
 		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476493035": 1476531344,
 		"17F7Tv4U5FubX94o8SqGmM18bX6cpKbrXW_1": 1476531347,
-		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476817023": 1476777752
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476817023": 1476777752,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1476967829": 1476973818
 	},
 	"comment": [
 		{
@@ -378,6 +379,12 @@
 			"body": "没有手机版，zeronet活跃不起来，现在流行手机社交",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476748864",
 			"date_added": 1476764451
+		},
+		{
+			"comment_id": 47,
+			"body": "@P2P: 以前twister好像也有个这种BUG",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476984667",
+			"date_added": 1476958049
 		}
 	],
 	"follow": [
@@ -821,6 +828,27 @@
 			"auth_address": "13qFNgRy2iW2h17hSbKJSqWNSUQfFabLit",
 			"user_name": "Viceyy",
 			"date_added": 1476778205
+		},
+		{
+			"follow_id": 68,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1VU4YuLth4bBcRtxtGatSwBbQuLXNzgVk",
+			"user_name": "Freedomer",
+			"date_added": 1476886446
+		},
+		{
+			"follow_id": 69,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1Q3xYc3P8i2WDj621HvSbfEqTP4aMLpKYU",
+			"user_name": "Rainlime",
+			"date_added": 1476933757
+		},
+		{
+			"follow_id": 70,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "14139fxEEc7VuHVxvK2UqYSeX3rJqiADVY",
+			"user_name": "公用号(Public ID)",
+			"date_added": 1476933789
 		}
 	],
 	"settings": {

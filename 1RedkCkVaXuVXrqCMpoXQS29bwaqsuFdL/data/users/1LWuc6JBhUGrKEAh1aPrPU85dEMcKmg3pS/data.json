@@ -1,6 +1,6 @@
 {
-	"next_post_id": 17,
-	"next_comment_id": 25,
+	"next_post_id": 18,
+	"next_comment_id": 27,
 	"next_follow_id": 24,
 	"avatar": "jpg",
 	"user_name": "ZAlex",
@@ -76,6 +76,11 @@
 			"post_id": 1476797058,
 			"body": "Have you watched the cartoon \"Mary And Max\" (2009)?\nIf not, try it. And then share your impressions here, I really want to hear your opinion.",
 			"date_added": 1476797042
+		},
+		{
+			"post_id": 1476885164,
+			"body": "I hope this is only a temporary solution of registration by ZeroID (./js/js.all):\n`return $.post(\"https://demo.zeronet.io/ZeroID/request.php\"...`\nRegistration via BM also centralized because there is a script `./publisher-bitmessage/bitmessage.py`, and as I understand it, nofish runs this script to accept incoming requests.",
+			"date_added": 1476885147
 		}
 	],
 	"post_like": {
@@ -176,7 +181,8 @@
 		"1EZG8eDkCFvNkYxpHmr2WbGWcSxAsRfqTT_1476055246": 1476062357,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1476598642": 1476599180,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1476599111": 1476599753,
-		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1476682413": 1476698540
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1476682413": 1476698540,
+		"12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1476903289": 1476919407
 	},
 	"comment": [
 		{
@@ -316,6 +322,12 @@
 			"body": "Мне не очень понравился официальный дубляж на русский. В первый раз я смотрел этот мультфильм с пиратским одноголосным переводом, рекомендую разыскать именно такой вариант, оно того стоит.",
 			"post_uri": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_1476797058",
 			"date_added": 1476797167
+		},
+		{
+			"comment_id": 26,
+			"body": "Also, [\"Nanasi text board\"](http://127.0.0.1:43110/16KzwuSAjFnivNimSHuRdPrYd1pNPhuHqN/) uses `bitcoinjs` for generating certs. So, a fully decentralized registration service is possible.",
+			"post_uri": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_1476885164",
+			"date_added": 1476885462
 		}
 	],
 	"follow": [

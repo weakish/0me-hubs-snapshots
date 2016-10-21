@@ -1,6 +1,6 @@
 {
-	"next_post_id": 27,
-	"next_comment_id": 20,
+	"next_post_id": 28,
+	"next_comment_id": 26,
 	"next_follow_id": 59,
 	"avatar": "jpg",
 	"user_name": "Dergatt",
@@ -135,6 +135,11 @@
 			"post_id": 1476814314,
 			"body": "I'm so annoyed by events only hosted on Facebook. You can't even look at them properly without an account.",
 			"date_added": 1476814288
+		},
+		{
+			"post_id": 1476959631,
+			"body": "What a world we live in. I want to buy an ebook Terry Pratchets The Shepherds Crown but my next ebook reader probably won't be a kindle so I don't want to buy it on amazon because of DRM.\nBut after 20 minutes of searching I can't find a DRM free version which can be used on every device no matter which reader I choose to buy next.\nSo is my only option to pirate or not read a book I would enjoy?",
+			"date_added": 1476959604
 		}
 	],
 	"post_like": {
@@ -254,6 +259,42 @@
 			"body": "@Shellbound: I can't get namecoin-qt working on Arch and I don't have the time and energy to put hours into it. So If you find a fix let me know :D",
 			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1476437797",
 			"date_added": 1476791842
+		},
+		{
+			"comment_id": 20,
+			"body": "@Shellbound: It's not building correctly, neither the aur script or from github. More people have the same issue according to comments on [aur package](https://aur.archlinux.org/packages/namecoin-qt). Tried google with error message no luck there either.",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1476437797",
+			"date_added": 1476883115
+		},
+		{
+			"comment_id": 21,
+			"body": "@Shellbound: on all of their websites they point to this source as a gui client and i couldn't find an other source anywhere.",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1476437797",
+			"date_added": 1476912823
+		},
+		{
+			"comment_id": 22,
+			"body": "@Shellbound: Oh true haven't seen that. Still no easy way to just get it.\nThat's all I want all software easy accessible.",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1476437797",
+			"date_added": 1476948552
+		},
+		{
+			"comment_id": 23,
+			"body": "@KosherX: You can copy epup (non drm) to mobi without a problem but non those with drm. In order to do so I violate copyright, same as if I download the book illegal and I have to pay for it. If I pay I want a legal copy.",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1476959631",
+			"date_added": 1476974367
+		},
+		{
+			"comment_id": 24,
+			"body": "@Flyman: Same with movies if you own a legal copy you need to sit thru all this copying is stealing trailers at the beginning. On a illegal copy none of this annoying stuff.",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1476959631",
+			"date_added": 1476974544
+		},
+		{
+			"comment_id": 25,
+			"body": "@Flyman: I agree that most money doesn't go to the person actually creating the content and about your owning/loaning argument.\nBut even if the system is not the best if I like a Band author or whatever and I buy their \"creation\" I support future creation of similar works.\nDo I want that more money goes to the creator, Yes. That's why I always prefer to buy the smaller self published content if I have a choice.\nEven tho the current copyright laws are blown way out of proportion, 70 years after death of the author is way to long, I think copyright in some way is necessary.\nI'm not talking about the Anglo-American Law where copyright means right to copy and only cares about the profit.\nSpecially in France and Germany the concept of copyright is different. The work is part of the intellectual creation of the author and can't be detached from him. This way a wholesale of your creation is not possible. This way his creation can not be used out of context because it doesn't represent it in a correct way.",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1476959631",
+			"date_added": 1477035195
 		}
 	],
 	"follow": [

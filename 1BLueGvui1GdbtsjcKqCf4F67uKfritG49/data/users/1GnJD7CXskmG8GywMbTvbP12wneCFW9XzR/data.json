@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 42,
+	"next_comment_id": 43,
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -40,7 +40,8 @@
 		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1476699312": 1476798411,
 		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1476699516": 1476798426,
 		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1476708655": 1476801748,
-		"1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1476783681": 1476802510
+		"1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1476783681": 1476802510,
+		"1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1475495426": 1477045693
 	},
 	"comment": [
 		{
@@ -288,6 +289,12 @@
 			"body": "I do not know a book of gentle introduction on Japanese syntax. I guess you can pick up one Japanese course book and just read its grammar part.",
 			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1476708592",
 			"date_added": 1476801723
+		},
+		{
+			"comment_id": 42,
+			"body": "After downloading the binary and put it in '$PATH', run 'ipfs daemon' to start the service. Then check its status at <http://127.0.0.1:5001/webui>. Run `ipfs help` for help info.",
+			"post_uri": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1476495627",
+			"date_added": 1477045601
 		}
 	]
 }

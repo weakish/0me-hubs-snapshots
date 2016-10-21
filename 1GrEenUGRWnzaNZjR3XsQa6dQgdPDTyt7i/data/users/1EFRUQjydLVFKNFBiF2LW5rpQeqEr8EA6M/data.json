@@ -1,11 +1,11 @@
 {
-	"next_post_id": 9,
-	"next_comment_id": 24,
-	"next_follow_id": 53,
+	"next_post_id": 15,
+	"next_comment_id": 36,
+	"next_follow_id": 62,
 	"avatar": "jpg",
 	"user_name": "Rainlime",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"intro": "Zeronet user in China\n\nZeronet 中文用户\n\n翻译君\n\n[Rainlime`s Blog](http://127.0.0.1:43110/1eJpnj6gYswKH5dXH7N54XVL6A9oX7eMr/)\n\n[MoeSpace](http://127.0.0.1:43110/1EASVbkmLbnXwsu4jVybxD2ZixU69b7984/?Home)\n\n中二病晚期 拒绝治疗",
+	"intro": "Zeronet user in China\n\nZeronet 中文用户\n\n翻译君\n\n拒绝治疗的中二病晚期\n\n---------------\n\n[Rainlime`s Blog](http://127.0.0.1:43110/1eJpnj6gYswKH5dXH7N54XVL6A9oX7eMr/)\n[About.me](https://about.me/)\n[MoeSpace](http://127.0.0.1:43110/1EASVbkmLbnXwsu4jVybxD2ZixU69b7984/?Home)\n",
 	"post": [
 		{
 			"post_id": 1,
@@ -34,7 +34,7 @@
 		},
 		{
 			"post_id": 1476817023,
-			"body": "试着翻译了一下 Zeronet 的 ReadMe.md \n大家来看看还有什么问题吧～\n\nhttps://github.com/rainlime/ZeroNet/blob/master/README-zh-cn.md",
+			"body": "试着翻译了一下 Zeronet 的 ReadMe.md \n大家来看看还有什么问题吧～\n\nhttps://github.com/rainlime/ZeroNet/blob/master/README-zh-cn.md\n\n#ZeroNet-cn",
 			"date_added": 1476817017
 		},
 		{
@@ -46,6 +46,36 @@
 			"post_id": 1476903979,
 			"body": "Zeronet.io 简体中文翻译完毕 ～\nhttp://127.0.0.1:43110/1eJpnj6gYswKH5dXH7N54XVL6A9oX7eMr/website/zeronet.io-zh-cn/\n#ZeroNet-cn",
 			"date_added": 1476903971
+		},
+		{
+			"post_id": 1476978512,
+			"body": "ZeroNet 里还有好多隐藏功能没被人发现...\n",
+			"date_added": 1476978503
+		},
+		{
+			"post_id": 1476983833,
+			"body": "ZeroNet 常见问题解答翻译完毕～\n发现问题的话自己修改吧～\n\nhttp://127.0.0.1:43110/1PcTeSbVvCVuXhCSWgQFeBuxLhZ6HYoLme/?Page:faq\n\n#ZeroNet-CN",
+			"date_added": 1476983823
+		},
+		{
+			"post_id": 1476984667,
+			"body": "我现在快要认不出汉字了....",
+			"date_added": 1476984656
+		},
+		{
+			"post_id": 1477004765,
+			"body": "如何优雅的翻译 Google Docs 上的幻灯片？\n我想把 ZeroNet 官方的宣传幻灯片 Fork 一份来翻译.....\n然而没有找到下载链接什么的......并且我也没有 Google 帐号...",
+			"date_added": 1477004753
+		},
+		{
+			"post_id": 1477005020,
+			"body": "发现了一个可能是 Bug 的东西\n在编辑签名时如果内容比较多会挡住保存按钮...",
+			"date_added": 1477005007
+		},
+		{
+			"post_id": 1477010668,
+			"body": "现在的 ZeroNet 距离在线播放视频还有多远?",
+			"date_added": 1477010654
 		}
 	],
 	"post_like": {
@@ -54,7 +84,9 @@
 		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476817023": 1476821351,
 		"15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1476775900": 1476827255,
 		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476903979": 1476904043,
-		"1NHR4Gdv1dVLZS5HRwY6aJWfngk9jCLF87_1476863248": 1476911276
+		"1NHR4Gdv1dVLZS5HRwY6aJWfngk9jCLF87_1476863248": 1476911276,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1476962038": 1477009652,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1476967829": 1477009655
 	},
 	"comment": [
 		{
@@ -194,6 +226,78 @@
 			"body": "@P2P: 看起来是这样",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476903979",
 			"date_added": 1476918875
+		},
+		{
+			"comment_id": 24,
+			"body": "更新：网站中的链接已指向中文版的 README.md",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476903979",
+			"date_added": 1476919419
+		},
+		{
+			"comment_id": 25,
+			"body": "@P2P: 比如你之前所说的 content.json 可以嵌套",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476978512",
+			"date_added": 1476983015
+		},
+		{
+			"comment_id": 26,
+			"body": "建议以后改为附上原始链接而不是粘贴全部内容.....感觉这样会破坏版面......",
+			"post_uri": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1476943101",
+			"date_added": 1476983115
+		},
+		{
+			"comment_id": 27,
+			"body": "来这里的估计就没几个正常人（笑）",
+			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1475373673",
+			"date_added": 1476984877
+		},
+		{
+			"comment_id": 28,
+			"body": "我记得 Hexo 有个 wiki 主题，可以把 Hexo 作为 Wiki 使用，不知道是不是你要的？",
+			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1472088387",
+			"date_added": 1476984930
+		},
+		{
+			"comment_id": 29,
+			"body": "@P2P: 我已经放弃了 我现在把钱包单独开一台虚拟机运行 这个系统没法改....",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476984667",
+			"date_added": 1476998865
+		},
+		{
+			"comment_id": 30,
+			"body": "@64: :)",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476984667",
+			"date_added": 1476998873
+		},
+		{
+			"comment_id": 31,
+			"body": "@P2P: 补充进去啦～",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476983833",
+			"date_added": 1477003305
+		},
+		{
+			"comment_id": 32,
+			"body": "@HelloArch: 好像看多了中文就会这样....",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476984667",
+			"date_added": 1477003638
+		},
+		{
+			"comment_id": 33,
+			"body": "@P2P: Thanks～",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477004765",
+			"date_added": 1477005161
+		},
+		{
+			"comment_id": 34,
+			"body": "@P2P: 我也很抓狂....所有的设置看起来都是正确的，我也开启了自动对时，但似乎没办法用.....",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477005020",
+			"date_added": 1477009768
+		},
+		{
+			"comment_id": 35,
+			"body": "@P2P: 我打算明天直接重装这个系统..... 不过估计各种开发环境又要重新来一遍.....",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477005020",
+			"date_added": 1477009917
 		}
 	],
 	"follow": [
@@ -541,18 +645,53 @@
 			"date_added": 1476897130
 		},
 		{
-			"follow_id": 51,
-			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-			"auth_address": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M",
-			"user_name": "Rainlime",
-			"date_added": 1476905227
-		},
-		{
 			"follow_id": 52,
 			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 			"auth_address": "15CnUuQWHaW3h1vZuLTxQ5tEt1SzjeNdAP",
 			"user_name": "Rooty",
 			"date_added": 1476914299
+		},
+		{
+			"follow_id": 53,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS",
+			"user_name": "cnwfjsw",
+			"date_added": 1476984794
+		},
+		{
+			"follow_id": 54,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "13ZwzXj9cMRF9AZirKm5nk1enWWS9hHRw8",
+			"user_name": "Minko",
+			"date_added": 1476985822
+		},
+		{
+			"follow_id": 55,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1C6wnwa1pP57iRpyP3HWPP17rPVANwoj8i",
+			"user_name": "Cognacer",
+			"date_added": 1476985851
+		},
+		{
+			"follow_id": 56,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1JV3Fhq8uJZuJ3QAYAj1GAgX8s4u8D72Qi",
+			"user_name": "海德拉",
+			"date_added": 1476985856
+		},
+		{
+			"follow_id": 57,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "115zW3tHAZf1UL8MXdNdsqohY5cAgSXvSL",
+			"user_name": "Megumegu",
+			"date_added": 1476985874
+		},
+		{
+			"follow_id": 61,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M",
+			"user_name": "Rainlime",
+			"date_added": 1477011276
 		}
 	],
 	"settings": {
