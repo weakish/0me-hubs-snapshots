@@ -1,5 +1,5 @@
 {
-	"next_post_id": 80,
+	"next_post_id": 81,
 	"next_comment_id": 100,
 	"next_follow_id": 19,
 	"avatar": "jpg",
@@ -371,6 +371,11 @@
 			"post_id": 1477070352,
 			"body": "Currently Reading:\n\"Oroonoko\" by Aphra Behn \n\"The House of the Spirits\" by Isabel Allende\n\"Failures of the Presidents\" by Thomas J. Craughwell",
 			"date_added": 1477070273
+		},
+		{
+			"post_id": 1477083299,
+			"body": "Is this zite viewable to you? : http://127.0.0.1:43110/1EZGQs7uR9bETxaVwxVvqVuk4ceqyPmg67/ \n\nIt's the Esperanto forum I've been working on. Some users say that it's not viewable.",
+			"date_added": 1477083219
 		}
 	],
 	"post_like": {
@@ -975,7 +980,7 @@
 		},
 		{
 			"comment_id": 99,
-			"body": "@Henur: I think I found the problem. I'll have to look into it. \"Internal error: TypeError: actionSiteUpdate() got an unexpected keyword argument 'check_files\"",
+			"body": "@Henur: Not sure what the problem is. ... I checked what I thought to be an error but other sites I can view show the same thing. ... ",
 			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1476983304",
 			"date_added": 1477078884
 		}
