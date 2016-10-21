@@ -1,6 +1,6 @@
 {
 	"next_post_id": 5,
-	"next_comment_id": 11,
+	"next_comment_id": 13,
 	"next_follow_id": 23,
 	"avatar": "jpg",
 	"user_name": "dmp1ce",
@@ -95,6 +95,18 @@
 			"body": "Wait, this is philosophical question it sounds like. I guess, if no one else is getting the message besides then recipient then you could just sign the message to ensure it is coming from you, but how do you know only the recipient is able to see it if you do not encrypt it?",
 			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1477050903",
 			"date_added": 1477053998
+		},
+		{
+			"comment_id": 11,
+			"body": "Yes, this is why talking with someone in the middle of the forest with no recording devices is considered secure communication. However, with the internet or even radio, you are always trusting third parties and are broadcasting all over the world.",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1477050903",
+			"date_added": 1477071425
+		},
+		{
+			"comment_id": 12,
+			"body": "An email address is not enough to know that you are communicating with who you think you are. This is why PGP was invented.",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1477050903",
+			"date_added": 1477071471
 		}
 	],
 	"follow": [
