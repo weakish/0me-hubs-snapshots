@@ -1,6 +1,6 @@
 {
 	"next_post_id": 23,
-	"next_comment_id": 79,
+	"next_comment_id": 80,
 	"next_follow_id": 17,
 	"avatar": "png",
 	"user_name": "HelloArch",
@@ -503,9 +503,15 @@
 		},
 		{
 			"comment_id": 78,
-			"body": "研究下这个 https://bit.no.com:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/docs/",
+			"body": "看下这个 https://bit.no.com:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/docs/",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477010668",
 			"date_added": 1477046449
+		},
+		{
+			"comment_id": 79,
+			"body": "@43110: 这个网站太赞了，，，",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477010668",
+			"date_added": 1477048327
 		}
 	],
 	"follow": [
@@ -634,5 +640,7 @@
 		"post-19WLkHBFudHeHikvCvdBSKxTER69n463v3_1476111812": 0,
 		"post-1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476817023": 1
 	},
-	"comment_like": {}
+	"comment_like": {
+		"16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T_20": 1477047787
+	}
 }

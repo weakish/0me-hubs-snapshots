@@ -1,5 +1,5 @@
 {
-	"next_post_id": 40,
+	"next_post_id": 41,
 	"next_comment_id": 23,
 	"next_follow_id": 123,
 	"avatar": "png",
@@ -201,6 +201,11 @@
 			"post_id": 1476802770,
 			"body": "I prefer explicit else branch over fall through flow.\n\nFor example:\n\n```ceylon\nBoolean if_else(Integer x) {\n    if (x > 0) {\n        if (x < 10) {\n            return false;\n        }\n    } else if (x < -10) {\n        return false;\n    }\n    return true;\n}\n```\n\nIt is short, but difficult to figure out the control flow.\n\nRewrite it more explicitly, without omitting else branch:\n\n```ceylon\nBoolean if_else(Integer x) {\n    if (x > 0) {\n        // This is for demonstration only.\n        // `if (x > 0, x < 10)` is clearer.\n        // Pretend there were more complex branching here.\n        if (x < 10) {\n            return false;\n        } else {\n            return true;\n        }\n    } else if (x < -10) {\n        return false;\n    } else {\n        return true;\n    }\n}\n```\n\nAlso, avoid using `variable` to save else branch.\n\nFor example:\n\n```ceylon\nvariable Integer x = 0;\nif (condition) {\n    x = 1;\n}\n```\n\ncan be rewritten to\n\n```ceylon\nInteger x;\nif (condition) {\n    x = 1;\n} else {\n    x = 0;\n}\n```",
 			"date_added": 1476802731
+		},
+		{
+			"post_id": 1477050373,
+			"body": "In Ceylon, cases in `switch` need to be both disjoint and exhausted. Using a strict form helps to reduce bugs.\n\nFor example, suppose we have the following code:\n\n```ceylon\nPath path = current;\nif (is Directory path) { // typo, should be `path.resource`.\n    // ...\n} else { // dead code\n    // ...\n}\n```\n\nThere is a typo in the above code, `path` should be `path.resource`.\nSo the above code will never go into the else branch,\nsince a Path is always not a Directory.\n\nHowever, if we use switch with explicit cases:\n\n```ceylon\nswitch (path)\ncase (is Directory) {\n    // ...\n}\ncase (is File|Link|Nil) {\n    // ...\n}\n```\n\nThe compiler will refuse to compile, saying cases are not exhausted.",
+			"date_added": 1477050333
 		}
 	],
 	"post_like": {
