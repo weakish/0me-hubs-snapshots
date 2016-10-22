@@ -1,6 +1,6 @@
 {
-	"next_post_id": 5,
-	"next_comment_id": 5,
+	"next_post_id": 7,
+	"next_comment_id": 7,
 	"next_follow_id": 3,
 	"avatar": "generate",
 	"user_name": "Missingtwins",
@@ -24,8 +24,18 @@
 		},
 		{
 			"post_id": 1477077617,
-			"body": "not working well on remote server and access by ipad. can't upload profile picture, sometimes can't not post messages on billboard. can't delete twittes.",
+			"body": "not working well on remote server and access by ipad. can't upload profile picture, sometimes can't post messages on billboard. can't delete twittes.",
 			"date_added": 1477077613
+		},
+		{
+			"post_id": 1477106782,
+			"body": "does anyone have used bleep before? it's a good concept by using by network to deliver messages, it's a decentralized messager, but stop activities almost 1 year ago, pity.",
+			"date_added": 1477106777
+		},
+		{
+			"post_id": 1477107310,
+			"body": "every house should hold their own family server, hosts this kind of decentralized services, this will decrease internet traffic on backbone infrastructure after most of people get synchronized, due to most of the traffics are contributed by video streams.",
+			"date_added": 1477107304
 		}
 	],
 	"post_like": {},
@@ -53,6 +63,18 @@
 			"body": "There should be light.",
 			"post_uri": "1L3deY1C8BW1MkqHJNX4kdG12zuEGed42F_1477065574",
 			"date_added": 1477075532
+		},
+		{
+			"comment_id": 5,
+			"body": "me too",
+			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1474861633",
+			"date_added": 1477105991
+		},
+		{
+			"comment_id": 6,
+			"body": "不需要移动客户端的，pc上zeronet.py --ui_ip 0.0.0.0 通过手机浏览器就可以打开了",
+			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1474803831",
+			"date_added": 1477106143
 		}
 	],
 	"follow": [

@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 4,
-	"next_follow_id": 6,
+	"next_comment_id": 6,
+	"next_follow_id": 8,
 	"avatar": "generate",
 	"user_name": "Erebus",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -32,6 +32,18 @@
 			"body": "@KosherX: private. much better than the one you know.",
 			"post_uri": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1476794693",
 			"date_added": 1477055763
+		},
+		{
+			"comment_id": 4,
+			"body": "@KosherX: Actually I can provide one, but you should swear that you won't cheat and that you will obey the rules. In addition, you should find a secure way to send me your email address.",
+			"post_uri": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1476794693",
+			"date_added": 1477106026
+		},
+		{
+			"comment_id": 5,
+			"body": "You should find multiple good \"Internet Acceleration Service\" providers to avoid this issue.",
+			"post_uri": "1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP_1476271894",
+			"date_added": 1477106200
 		}
 	],
 	"follow": [
@@ -69,6 +81,20 @@
 			"auth_address": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR",
 			"user_name": "weakish",
 			"date_added": 1477058747
+		},
+		{
+			"follow_id": 6,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP",
+			"user_name": "R3df0x",
+			"date_added": 1477106109
+		},
+		{
+			"follow_id": 7,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ",
+			"user_name": "P2P",
+			"date_added": 1477106223
 		}
 	]
 }
