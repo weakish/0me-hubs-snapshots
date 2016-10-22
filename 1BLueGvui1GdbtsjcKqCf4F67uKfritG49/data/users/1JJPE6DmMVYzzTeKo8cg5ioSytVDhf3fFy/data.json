@@ -1,7 +1,7 @@
 {
 	"next_post_id": 3,
 	"next_comment_id": 1,
-	"next_follow_id": 1,
+	"next_follow_id": 3,
 	"avatar": "generate",
 	"user_name": "Pshaytraqw321",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -20,5 +20,20 @@
 	],
 	"post_like": {},
 	"comment": [],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EZG8eDkCFvNkYxpHmr2WbGWcSxAsRfqTT",
+			"user_name": "RiotPulv",
+			"date_added": 1477101483
+		},
+		{
+			"follow_id": 2,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "13bJknLwBVJ4nmEHLqovNhzyD8wVA6ez6C",
+			"user_name": "Dsmh",
+			"date_added": 1477101542
+		}
+	]
 }
