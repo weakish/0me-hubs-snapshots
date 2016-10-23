@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Quaint",
@@ -14,6 +14,13 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "There are always the disconnect buttons.",
+			"post_uri": "1HARvgaKsqgzbzE2kPvnFqLrrpnZw4nntB_1477125744",
+			"date_added": 1477192608
+		}
+	],
 	"follow": []
 }
