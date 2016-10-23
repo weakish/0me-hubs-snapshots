@@ -1,7 +1,7 @@
 {
 	"next_post_id": 9,
-	"next_comment_id": 12,
-	"next_follow_id": 27,
+	"next_comment_id": 13,
+	"next_follow_id": 28,
 	"avatar": "jpg",
 	"user_name": "Nekocross",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -110,6 +110,12 @@
 			"body": "@Woodsfirezyj: 移动版有三条思路：1.手机本地运行、2.用户自己搭建代理、3.云端代理。三个思路各有利弊。手机本地运行Zeronet客户端最方便，但流量、电量、性能、储存空间都得省着点。在移动网络下肯定不能总是加载比较大的资源。用户自己搭建代理要足够易用，包里面除了zerobundle之外还要集成nginx和ddns，最好能有个向导。云端代理可能对去中心化不利，并且要解决多用户问题。",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477151239",
 			"date_added": 1477187156
+		},
+		{
+			"comment_id": 12,
+			"body": "@Woodsfirezyj: 移动端目前两个问题最突出，一个是Python环境，二是站点没有移动页面。希望有大神能搞定",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477151239",
+			"date_added": 1477207737
 		}
 	],
 	"follow": [
@@ -287,6 +293,13 @@
 			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
 			"user_name": "Talnicrom",
 			"date_added": 1477194400
+		},
+		{
+			"follow_id": 27,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "17UbmvpS9j5p4YUVTERiXWJ5fwwEBAGbhR",
+			"user_name": "36",
+			"date_added": 1477206650
 		}
 	],
 	"settings": {

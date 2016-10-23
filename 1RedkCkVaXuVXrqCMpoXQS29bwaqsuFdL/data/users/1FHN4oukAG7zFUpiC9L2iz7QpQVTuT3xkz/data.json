@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 4,
+	"next_comment_id": 7,
 	"user_name": "Nekocross",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {},
@@ -21,6 +21,24 @@
 			"body": "价值观不同",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1473904568",
 			"date_added": 1477150245
+		},
+		{
+			"comment_id": 4,
+			"body": "这个问题可以分为两部分。一是手机要能访问Zeronet，二是站点要有移动版页面。解决第一个问题需要移动端的python（反正我没成功装上）。第二个问题需要前端大牛。",
+			"post_uri": "17UbmvpS9j5p4YUVTERiXWJ5fwwEBAGbhR_1477195868",
+			"date_added": 1477206616
+		},
+		{
+			"comment_id": 5,
+			"body": "win 10，chrome 55，zeronet 0.4.1，能正常加载",
+			"post_uri": "17UbmvpS9j5p4YUVTERiXWJ5fwwEBAGbhR_1477105543",
+			"date_added": 1477206728
+		},
+		{
+			"comment_id": 6,
+			"body": "事实上，绝大多数zn页面经过缩放，调整字号后再移动端上用起来还不错",
+			"post_uri": "17UbmvpS9j5p4YUVTERiXWJ5fwwEBAGbhR_1477195868",
+			"date_added": 1477207419
 		}
 	],
 	"flags": {},
