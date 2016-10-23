@@ -3,9 +3,9 @@
  "files": {},
  "ignore": ".*",
  "inner_path": "data/users/content.json",
- "modified": 1476957967.017,
+ "modified": 1477257797.177,
  "signs": {
-  "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i": "HC7Y14jPzVjObgJXkTCbtUh8rbtJq1HvuLdMDTtEJzDtZBZfQr1yfdzuBXA9iFMVenio7upuUXxD0sxXPosCaFg="
+  "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i": "G1H8pB/poeNw/H8RZmvzJERfYAvFd4H0RwYI5dBBrLIoeG1cFlPZik2F2kY0kBbBUO1QR4L6qXCNEXG2uuujLds="
  },
  "user_contents": {
   "archived": {"1MRSDFESsBXDGvNoZ5ifztA89XfEahA5ka": 1475024550},
@@ -24,6 +24,7 @@
   },
   "permissions": {
    "banexample@zeroid.bit": false,
+   "bwoi@zeroid.bit": {"max_size": 75000},
    "doom1@zeroid.bit": false,
    "doom1b@zeroid.bit": false,
    "nofish@zeroid.bit": {"max_size": 20000},
