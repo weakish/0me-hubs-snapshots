@@ -1,7 +1,7 @@
 {
-	"next_post_id": 28,
-	"next_comment_id": 15,
-	"next_follow_id": 11,
+	"next_post_id": 31,
+	"next_comment_id": 17,
+	"next_follow_id": 12,
 	"avatar": "generate",
 	"user_name": "Firebox",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -129,13 +129,28 @@
 		},
 		{
 			"post_id": 1476936137,
-			"body": "I am writing a new page of documentation for ZeroMux. It is on working with fragmented data streams.\n\n```\nWhat we want:\n[################                       ]     \n0%                                      100%\n\nWhat we have:\n[########  #### #    #  ##       #    # ]\n0%                                      100%\n\nWhat will you do?\n```",
+			"body": "I am writing a new page of documentation for ZeroMux. It is on working with fragmented data streams.\n\n```\nWhat we want:\n[################                       ]     \n0%                                      100%\n\nWhat we have:\n[########  #### #    #  ##       #    # ]\n0%                                      100%\n\n```",
 			"date_added": 1476936111
 		},
 		{
 			"post_id": 1477016753,
 			"body": "It seems that someone thought I was the developer of ZeroNet. =) I am not! I am the developer of a program that is hosted on ZeroNet.",
 			"date_added": 1477016726
+		},
+		{
+			"post_id": 1477115856,
+			"body": "ZeroMux Issue \\#-1  **Lossless Music Player**\n\n`[+]` Download FLAC file with ZeroMux.\n`[+]` Put FLAC stream into decoder and create sounds.\n`[+]` Support Seeking.\n`[+]` Finish [UI](/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/img/player.png).\n`[ ]` Finish documentation.",
+			"date_added": 1477115828
+		},
+		{
+			"post_id": 1477127340,
+			"body": "The Lossless Music Player is finally there!\nhttp://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/music/\n\nPlease wait until half of the file has been downloaded, otherwise the song will be interrupted. WebTorrent is NOT required.\n\nRemember to support [ZeroMux](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/) and [aurora.js](https://github.com/audiocogs/aurora.js/). Remember to seed, and enjoy the song!\n\n###雪ノ下雪乃(CV.早見沙織) 由比ヶ浜結衣(CV.東山奈央)\n###Everyday World",
+			"date_added": 1477127311
+		},
+		{
+			"post_id": 1477160424,
+			"body": "For those who cannot see this [music player demo](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/music/) working, please tell me what OS and browser you are using, and what you saw and heard.\n\n> Loading file......\n> Bad network connection! Please reload this page to resume buffering.\n@HelloArch: Hi! Only a few peers are hosting this file, so your ZeroNet client might have trouble finding enough peers. You can try reloading the demo page to resume buffering.\n\n> It's working. Can I uploads file on it ?\n@Militaryriotlab: Not yet. This is a very simple demo.\n\n> great job, but not working on mobile browser.\n@missingtwins: Hi there. What kind of OS and browser are you using? What did you see and hear?",
+			"date_added": 1477160394
 		}
 	],
 	"post_like": {
@@ -222,9 +237,21 @@
 		},
 		{
 			"comment_id": 14,
-			"body": "@波多野结衣: \n1. Cut your files into small parts, and give each part a unique name, like cutting a piece of paper into smaller pieces, and putting numbers on them.\n2. Make a `file.json` that tells ZeroMux how to put the pieces together.\n(Use the python script at the end of [This Page](/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/docs/))\n3. Let ZeroMux put together the pieces of the file for you.\n(\"Registering Event Handlers\" section of [This Page](/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/docs/usage/making-file-downloader/))\n\n    \n    var events = initEventObj();\n    events.onfinish = finish;\n    function finish(blob)\n    {\n        // `blob` contains the reassembled big file\n        var url = URL.createObjectURL(blob);\n        location.href = url;\n    }\n    downloadBigFile(\"your/own/file.json\", events); // (jsonPath, events)",
+			"body": "@43110: \n1. Cut your files into small parts, and give each part a unique name, like cutting a piece of paper into smaller pieces, and putting numbers on them.\n2. Make a `file.json` that tells ZeroMux how to put the pieces together.\n(Use the python script at the end of [This Page](/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/docs/))\n3. Let ZeroMux put together the pieces of the file for you.\n(\"Registering Event Handlers\" section of [This Page](/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/docs/usage/making-file-downloader/))\n\n    \n    var events = initEventObj();\n    events.onfinish = finish;\n    function finish(blob)\n    {\n        // `blob` contains the reassembled big file\n        var url = URL.createObjectURL(blob);\n        location.href = url;\n    }\n    downloadBigFile(\"your/own/file.json\", events); // (jsonPath, events)",
 			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1477016753",
 			"date_added": 1477074395
+		},
+		{
+			"comment_id": 15,
+			"body": "@43110: ZeroMux is a JavaScript library. I think you were looking for its demos. [Demo, ](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/music/) [Another Demo](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/?type=video/mp4&codecs=avc1.640028,mp4a.40.2&json=files/yrc_ed_mp4/file.json&moov=files/yrc_ed_mp4/yrcedmoov.dat&poster=files/yrc_ed_mp4/poster.jpg)",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1476936137",
+			"date_added": 1477161313
+		},
+		{
+			"comment_id": 16,
+			"body": "@Rainlime: Please update my site via the right side bar.",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1477127340",
+			"date_added": 1477168441
 		}
 	],
 	"follow": [
@@ -290,6 +317,13 @@
 			"auth_address": "1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9",
 			"user_name": "Shellbound",
 			"date_added": 1476676393
+		},
+		{
+			"follow_id": 11,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib",
+			"user_name": "megfault",
+			"date_added": 1477173115
 		}
 	],
 	"settings": {

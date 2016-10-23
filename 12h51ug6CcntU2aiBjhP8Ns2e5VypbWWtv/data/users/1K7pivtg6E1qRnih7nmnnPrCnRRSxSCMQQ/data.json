@@ -1,6 +1,6 @@
 {
-	"next_post_id": 5,
-	"next_comment_id": 8,
+	"next_post_id": 6,
+	"next_comment_id": 10,
 	"next_follow_id": 21,
 	"avatar": "jpg",
 	"user_name": "Lain",
@@ -26,6 +26,11 @@
 			"post_id": 1476413352,
 			"body": "we should get a https://file.io replacement on zeronet where after a file is dowloaded the key is discarded or something maybe using TOTP protocol (https://en.wikipedia.org/wiki/Time-based_One-time_Password_Algorithm)",
 			"date_added": 1476413348
+		},
+		{
+			"post_id": 1477109254,
+			"body": "have you nets been reading about the DDOS' on DynDNS today? twitter, github, paypal, and a bunch of other sites were down. seems like we're going full cyb real soon \nhttps://www.schneier.com/blog/archives/2016/09/someone_is_lear.html",
+			"date_added": 1477109249
 		}
 	],
 	"post_like": {},
@@ -71,6 +76,18 @@
 			"body": "@Flyman: well when im sharing a file from this computer to my other one typing out such a long string can be annoying. so i just post it to file.io and then type in 5 characters to download the file and i dont have to worry about seeding or about port being forwarded",
 			"post_uri": "1K7pivtg6E1qRnih7nmnnPrCnRRSxSCMQQ_1476413352",
 			"date_added": 1476458107
+		},
+		{
+			"comment_id": 8,
+			"body": "@megfault: syncthing is amazing ive been using it for some time now. been loving https://github.com/syncthing/syncthing-gtk \n@flyman you should consider the switch over. ",
+			"post_uri": "1K7pivtg6E1qRnih7nmnnPrCnRRSxSCMQQ_1476413352",
+			"date_added": 1477109400
+		},
+		{
+			"comment_id": 9,
+			"body": "@MilitaryRiotLab: have you tried getting help on the subreddit or irc channel #galliumos on freenode?",
+			"post_uri": "1K7pivtg6E1qRnih7nmnnPrCnRRSxSCMQQ_1476413284",
+			"date_added": 1477109450
 		}
 	],
 	"follow": [

@@ -1,0 +1,41 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 1,
+	"next_follow_id": 4,
+	"avatar": "generate",
+	"user_name": "Mogging",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1477141673,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1NVmy7v2J1aQEgja6HDSeDM8VaADP9zkpu",
+			"user_name": "BTSynChina.bit中文资源分享",
+			"date_added": 1477141744
+		},
+		{
+			"follow_id": 2,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1NmwA9EFPu94QaN7yMYpzu2iSg1dGAYV6n",
+			"user_name": "Alvin 獨財者",
+			"date_added": 1477141748
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1HJJEDiEo7ghxbpdDzXHFVv4gtrb53cUAu",
+			"user_name": "Maomihz",
+			"date_added": 1477141756
+		}
+	]
+}

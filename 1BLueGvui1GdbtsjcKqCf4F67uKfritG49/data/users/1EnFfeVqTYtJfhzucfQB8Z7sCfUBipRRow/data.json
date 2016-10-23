@@ -1,11 +1,14 @@
 {
-	"next_comment_id": 21,
+	"next_comment_id": 36,
 	"user_name": "Militaryriotlab",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {
 		"1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1476805852": 1476853928,
 		"16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T_1477047049": 1477050340,
-		"1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1477054764": 1477058984
+		"1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1477054764": 1477058984,
+		"1ACc4pa2pJam33SkSE1zF1seF3LQKWR24v_1477071704": 1477111835,
+		"18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477112336": 1477112418,
+		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1477146103": 1477148484
 	},
 	"comment": [
 		{
@@ -127,6 +130,96 @@
 			"body": "@Helloarch: 害怕什麼？",
 			"post_uri": "16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T_1476850521",
 			"date_added": 1476888223
+		},
+		{
+			"comment_id": 21,
+			"body": "You may consider adding UI password, or everyone can use your identify",
+			"post_uri": "18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477108005",
+			"date_added": 1477111241
+		},
+		{
+			"comment_id": 22,
+			"body": "@Helloarch: https://github.com/HelloZeroNet/ZeroNet/issues/91",
+			"post_uri": "18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477108005",
+			"date_added": 1477111401
+		},
+		{
+			"comment_id": 23,
+			"body": "@Helloarch: You need to login with a password to use the presonal proxy",
+			"post_uri": "18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477108005",
+			"date_added": 1477111449
+		},
+		{
+			"comment_id": 24,
+			"body": "@Missingtwins: Oh… I thought you server is public, not behind a firewall",
+			"post_uri": "18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477108005",
+			"date_added": 1477111558
+		},
+		{
+			"comment_id": 25,
+			"body": "but you can use nginx + basic auth + https to allow you access zeronet on the street",
+			"post_uri": "18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477108005",
+			"date_added": 1477111594
+		},
+		{
+			"comment_id": 26,
+			"body": "@Helloarch: 我也可以幫你渣翻譯…",
+			"post_uri": "18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477077617",
+			"date_added": 1477111821
+		},
+		{
+			"comment_id": 27,
+			"body": "Let there be light🔦",
+			"post_uri": "1L3deY1C8BW1MkqHJNX4kdG12zuEGed42F_1477065574",
+			"date_added": 1477111977
+		},
+		{
+			"comment_id": 28,
+			"body": "如果你用[代理](https://onlyzero.net)的話,用masterseed `48e7fca6cb5a47e8a2c4dfe5531d394408a2e42533db3026fc517599ec8e4bf8` 登入即可",
+			"post_uri": "14139fxEEc7VuHVxvK2UqYSeX3rJqiADVY_1477064594",
+			"date_added": 1477112125
+		},
+		{
+			"comment_id": 29,
+			"body": "@Militaryriotlab: If you use [public proxy](https://onlyzero.net), use the masterseed `48e7fca6cb5a47e8a2c4dfe5531d394408a2e42533db3026fc517599ec8e4bf8` to login",
+			"post_uri": "14139fxEEc7VuHVxvK2UqYSeX3rJqiADVY_1477064594",
+			"date_added": 1477112219
+		},
+		{
+			"comment_id": 30,
+			"body": "Try using chrome browser",
+			"post_uri": "18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477077617",
+			"date_added": 1477112318
+		},
+		{
+			"comment_id": 31,
+			"body": "@Missingtwins: good choice",
+			"post_uri": "18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477108005",
+			"date_added": 1477112349
+		},
+		{
+			"comment_id": 32,
+			"body": "@Missingtwins: unexpected! I mean try chrome on ipad",
+			"post_uri": "18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477077617",
+			"date_added": 1477113647
+		},
+		{
+			"comment_id": 33,
+			"body": "There is a [CDN](/1AMh6MG4K59ki1dPXX1PrgzeeqkMmZ1YKm/) site in ZeroNet, I don't know this is the one you talking about",
+			"post_uri": "18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477115392",
+			"date_added": 1477137544
+		},
+		{
+			"comment_id": 34,
+			"body": "Have you heard this before? https://youtu.be/dQLG0lwe_RM",
+			"post_uri": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1477146796",
+			"date_added": 1477148753
+		},
+		{
+			"comment_id": 35,
+			"body": "You reminded me this, http://www.dailymail.co.uk/news/article-3842428/Man-allegedly-high-LSD-breaks-house-save-dog-imaginary-fire.html",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1477146103",
+			"date_added": 1477149101
 		}
 	],
 	"flags": {},

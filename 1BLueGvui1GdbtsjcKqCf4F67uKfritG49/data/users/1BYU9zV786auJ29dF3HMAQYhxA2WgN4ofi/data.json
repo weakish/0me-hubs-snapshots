@@ -1,7 +1,7 @@
 {
-	"next_post_id": 19,
-	"next_comment_id": 13,
-	"next_follow_id": 18,
+	"next_post_id": 20,
+	"next_comment_id": 14,
+	"next_follow_id": 20,
 	"avatar": "jpg",
 	"user_name": "Eibriel",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -96,6 +96,11 @@
 			"post_id": 1477098810,
 			"body": "Just realized that the correct way to post a link to a ZeroNet site is `/1EMcXwk7qQdY3pbj86A98gZHjDBNRrscdL` instead of `http://127.0.0.1:43110/1EMcXwk7qQdY3pbj86A98gZHjDBNRrscdL`",
 			"date_added": 1477098792
+		},
+		{
+			"post_id": 1477149909,
+			"body": "Hi! Anyone knows how to add the **Read More...** button to ZeroBlog posts?",
+			"date_added": 1477149890
 		}
 	],
 	"post_like": {
@@ -107,7 +112,8 @@
 		"13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1476306517": 1476331859,
 		"1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp_1476510175": 1476534721,
 		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1476612615": 1476628039,
-		"13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1476814314": 1476874446
+		"13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1476814314": 1476874446,
+		"1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1477119922": 1477127545
 	},
 	"comment": [
 		{
@@ -175,6 +181,12 @@
 			"body": "It stops in \"Connecting...\", are you the owner? Do you have the port 15441 open for ZeroNet?",
 			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1477083299",
 			"date_added": 1477090074
+		},
+		{
+			"comment_id": 13,
+			"body": "@ZAlex: Yay! Thanks!",
+			"post_uri": "1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1477149909",
+			"date_added": 1477151601
 		}
 	],
 	"follow": [
@@ -289,6 +301,20 @@
 			"auth_address": "1JJPE6DmMVYzzTeKo8cg5ioSytVDhf3fFy",
 			"user_name": "Pshaytraqw321",
 			"date_added": 1477101760
+		},
+		{
+			"follow_id": 18,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1QFcL2PapA8NuvNWeHCafHaMPJcXgmb55i",
+			"user_name": "Juansantiago",
+			"date_added": 1477175126
+		},
+		{
+			"follow_id": 19,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1FBGD6TD5TRipcCoE58CSU6TpEM6LxjP7N",
+			"user_name": "Suso",
+			"date_added": 1477175153
 		}
 	]
 }

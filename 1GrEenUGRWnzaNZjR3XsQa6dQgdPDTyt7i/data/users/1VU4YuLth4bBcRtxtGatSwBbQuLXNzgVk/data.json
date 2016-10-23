@@ -1,7 +1,7 @@
 {
 	"next_post_id": 3,
 	"next_comment_id": 3,
-	"next_follow_id": 63,
+	"next_follow_id": 64,
 	"avatar": "generate",
 	"user_name": "Freedomer",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -469,6 +469,22 @@
 			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
 			"user_name": "PaintNinja",
 			"date_added": 1476874576
+		},
+		{
+			"follow_id": 63,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "17YSPyzn9UadARtdQXFAAoagz4NiRaRbrS",
+			"user_name": "Sllgic",
+			"date_added": 1477137709
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }

@@ -1,9 +1,22 @@
 {
-	"next_comment_id": 1,
+	"next_comment_id": 3,
 	"user_name": "Jabasukuriputo Wang",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {
 		"1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1477098810": 1477103488
 	},
-	"comment": []
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "However, for mobile & mobile data users, P2P may becoming a real pain. Just take a look at Tox.",
+			"post_uri": "18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477107419",
+			"date_added": 1477109131
+		},
+		{
+			"comment_id": 2,
+			"body": "ZeroBoard is another thing. It depends on clearnet access for posting content. Your content is being posted on the remote machine instead of your own ZeroNet node.",
+			"post_uri": "18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477108296",
+			"date_added": 1477140975
+		}
+	]
 }

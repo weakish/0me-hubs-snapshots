@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 6,
-	"next_follow_id": 8,
+	"next_comment_id": 7,
+	"next_follow_id": 9,
 	"avatar": "generate",
 	"user_name": "Erebus",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -44,6 +44,12 @@
 			"body": "You should find multiple good \"Internet Acceleration Service\" providers to avoid this issue.",
 			"post_uri": "1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP_1476271894",
 			"date_added": 1477106200
+		},
+		{
+			"comment_id": 6,
+			"body": "or try bitmessage?",
+			"post_uri": "18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477106782",
+			"date_added": 1477107375
 		}
 	],
 	"follow": [
@@ -95,6 +101,13 @@
 			"auth_address": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ",
 			"user_name": "P2P",
 			"date_added": 1477106223
+		},
+		{
+			"follow_id": 8,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "17UbmvpS9j5p4YUVTERiXWJ5fwwEBAGbhR",
+			"user_name": "36",
+			"date_added": 1477107389
 		}
 	]
 }

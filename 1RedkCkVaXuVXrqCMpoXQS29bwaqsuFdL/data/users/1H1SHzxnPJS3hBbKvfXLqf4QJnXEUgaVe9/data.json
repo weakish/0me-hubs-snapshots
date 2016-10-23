@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 181,
+	"next_comment_id": 183,
 	"user_name": "Shellbound",
 	"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
 	"post_like": {
@@ -1169,6 +1169,18 @@
 			"body": "@Antyhrabia: It depends a bit on the set up but you are right, Xfce and Lxqt are kinda similar in resource usage. Lxde is playing in it's own league though. So if you want lightness Lxde (or Openbox, Enlightenment) is the better option. It is really easy to script a solution like battery warning if that is something not supplied. I agree that SDDM is better than Lxdm. I don't really like any display manager though. ",
 			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1476220188",
 			"date_added": 1476642880
+		},
+		{
+			"comment_id": 181,
+			"body": "@Musickiller: Sorry, should have given more context... but Syncloud is meant to be run from a SBC like the RPi. So if you have and extra memory card it could be worth a try. ;) ",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1476532363",
+			"date_added": 1477169558
+		},
+		{
+			"comment_id": 182,
+			"body": "@Musickiller: That means a custom made ~/xInitrc to handle multiple wm's and ```startx``` in my case.. ;)\n.\nAnd what errors do you get when starting Minecraft? ",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1476220188",
+			"date_added": 1477170054
 		}
 	],
 	"flags": {},

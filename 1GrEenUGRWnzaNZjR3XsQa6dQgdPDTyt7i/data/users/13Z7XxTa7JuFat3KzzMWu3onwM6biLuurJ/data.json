@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 77,
+	"next_comment_id": 84,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -12,7 +12,10 @@
 		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476817023": 1476794811,
 		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476903979": 1476873595,
 		"15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1476874038": 1476878600,
-		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476983833": 1476956931
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476983833": 1476956931,
+		"1NVmy7v2J1aQEgja6HDSeDM8VaADP9zkpu_1": 1477136070,
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477181232": 1477157449,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477149962": 1477159482
 	},
 	"comment": [
 		{
@@ -470,6 +473,48 @@
 			"body": "关闭Hardware Clock use UTC呢？然后重启虚拟机",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477094943",
 			"date_added": 1477065322
+		},
+		{
+			"comment_id": 77,
+			"body": "@Eibriel: No, the recommend one is  http://127.0.0.1:43110/1EMcXwk7qQdY3pbj86A98gZHjDBNRrscdL , said the dev of ZeorNet. Relative link has incompatible issue indeed which looks like http://me.zeronetwork.bit/me.zeronetwork.bit/",
+			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1477103559",
+			"date_added": 1477135354
+		},
+		{
+			"comment_id": 78,
+			"body": "你说的API指哪方面？官方的开发指南里有说，后台提供ZeroFrame类似于API给前端。 https://zeronet.readthedocs.io/en/latest/site_development/zeroframe_api_reference/",
+			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1477112503",
+			"date_added": 1477135858
+		},
+		{
+			"comment_id": 79,
+			"body": "你的时区问题还没搞定啊，看下我在你前几推的评论",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477170480",
+			"date_added": 1477136041
+		},
+		{
+			"comment_id": 80,
+			"body": "@Rainlime: 你有没有试过hwclock命令的输出？ http://serverfault.com/questions/496076/how-to-set-hwclock-to-utc 你可以用替换法来定位问题，用不同的Linux发行版Live CD新建个虚拟机跑跑，再用实体机跑Live CD",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477170480",
+			"date_added": 1477159414
+		},
+		{
+			"comment_id": 81,
+			"body": "当然有意义！",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477151239",
+			"date_added": 1477159495
+		},
+		{
+			"comment_id": 82,
+			"body": "多谢！",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477149962",
+			"date_added": 1477159523
+		},
+		{
+			"comment_id": 83,
+			"body": "ZeroMe原生支持P2P分享图片的功能，不久将会推出。因为涉及optional files功能的改进，有图片分享功能的论坛都要对应改进，才能更有前途。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477149962",
+			"date_added": 1477159796
 		}
 	],
 	"flags": {},

@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 45,
+	"next_comment_id": 49,
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -43,7 +43,9 @@
 		"1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1476783681": 1476802510,
 		"1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1475495426": 1477045693,
 		"13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1476814314": 1477049299,
-		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1477035176": 1477050075
+		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1477035176": 1477050075,
+		"1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1477119922": 1477183242,
+		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1477146103": 1477183314
 	},
 	"comment": [
 		{
@@ -309,6 +311,30 @@
 			"body": "@R3df0x: 看看显卡驱动有没有问题。。除了VLC外，mpv用vo=opengl-hq (HD4000级别以上显卡）效果也不错，中高端独立显卡用 vo=opengl-hq:interpolation:scale=ewa_lanczossharp 画面放大效果更好.",
 			"post_uri": "1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP_1476838913",
 			"date_added": 1477049659
+		},
+		{
+			"comment_id": 45,
+			"body": "@波多野结衣: ipfs.pics 限制上传量?  ipfs.io 限制吗?",
+			"post_uri": "16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T_1476969772",
+			"date_added": 1477183668
+		},
+		{
+			"comment_id": 46,
+			"body": "@Missingtwins: 「日常」 means \"everyday\", not necessary \"private\". Photos of meals on the table, or flowers outside the road are everyday not private.",
+			"post_uri": "16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T_1476969772",
+			"date_added": 1477183837
+		},
+		{
+			"comment_id": 47,
+			"body": "我的照片暂时放在 flickr 上（缺点：1, 墙; 2, yahoo 关停服务的前科太多了; 3. 不支持 Raw 文件）。个人照片如果没什么人看的话，ipfs 很容易因为没有 peer 而无法访问吧？",
+			"post_uri": "16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T_1476969772",
+			"date_added": 1477184195
+		},
+		{
+			"comment_id": 48,
+			"body": "1T照片视频本地没删吧？否则360限速3个月根本来不及下啊。",
+			"post_uri": "16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T_1476969772",
+			"date_added": 1477184342
 		}
 	]
 }

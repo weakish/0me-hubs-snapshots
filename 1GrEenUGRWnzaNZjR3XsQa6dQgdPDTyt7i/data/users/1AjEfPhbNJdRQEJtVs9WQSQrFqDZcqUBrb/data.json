@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
 	"next_comment_id": 1,
-	"next_follow_id": 1,
+	"next_follow_id": 5,
 	"avatar": "generate",
 	"user_name": "Aft",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -15,5 +15,34 @@
 	],
 	"post_like": {},
 	"comment": [],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1",
+			"user_name": "Missingtwins",
+			"date_added": 1477111836
+		},
+		{
+			"follow_id": 2,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi",
+			"user_name": "Eibriel",
+			"date_added": 1477171804
+		},
+		{
+			"follow_id": 3,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow",
+			"user_name": "MilitaryRiotLab",
+			"date_added": 1477171846
+		},
+		{
+			"follow_id": 4,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY",
+			"user_name": "KosherX",
+			"date_added": 1477171907
+		}
+	]
 }

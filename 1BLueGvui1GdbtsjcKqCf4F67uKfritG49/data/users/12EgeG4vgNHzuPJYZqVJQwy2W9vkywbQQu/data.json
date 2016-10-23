@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 8,
+	"next_comment_id": 10,
 	"user_name": "PaintNinja",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -21,7 +21,8 @@
 		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1472678549": 1473016639,
 		"1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u_1474988792": 1475003311,
 		"1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1475519556": 1475520372,
-		"1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1476805852": 1476809619
+		"1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1476805852": 1476809619,
+		"18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477108005": 1477137517
 	},
 	"comment": [
 		{
@@ -65,8 +66,22 @@
 			"body": "@Gasp: Yes! See my profile for info :)",
 			"post_uri": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u_1474988792",
 			"date_added": 1477065219
+		},
+		{
+			"comment_id": 8,
+			"body": "ZeroNet peers work as a kind of CDN - except they can be closer to you than a CDN server as there's lots more peers than centralised CDN servers",
+			"post_uri": "18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477115392",
+			"date_added": 1477137419
+		},
+		{
+			"comment_id": 9,
+			"body": "@Missingtwins: Afaik, torrent-based protocols reduce load because of its load balancing. If there's a client on your local Wi-Fi, it'll connect to that and skip mobile data entirely. If there's 20 clients in your area hosting the content, it'll grab parts of content from each client. You're not downloading any more data than if you have a centralised approach - you're just grabbing the same data from more than one source simultaneously.\n\nStorage is becoming less and less of an issue. We don't need to do lossy compression on icons anymore and most mobile devices have around at least 32GB of storage nowadays, which is more than sufficient for a good buffer of hosted data (stuff not accessed by the user in over a month could be cleared from the buffer to make way for newer stuff to be hosted)",
+			"post_uri": "18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477115392",
+			"date_added": 1477139534
 		}
 	],
 	"flags": {},
-	"comment_like": {}
+	"comment_like": {
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_13": 1477137650
+	}
 }

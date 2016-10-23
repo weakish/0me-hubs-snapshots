@@ -1,17 +1,12 @@
 {
-	"next_post_id": 7,
-	"next_comment_id": 7,
-	"next_follow_id": 3,
-	"avatar": "generate",
+	"next_post_id": 14,
+	"next_comment_id": 20,
+	"next_follow_id": 6,
+	"avatar": "jpg",
 	"user_name": "Missingtwins",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
-	"intro": "Random ZeroNet user",
+	"intro": "INTJ Speak En Jp Cn\nYour can and only be able to upload profile picture from the same PC running zeronet service, after you have edited this text box.",
 	"post": [
-		{
-			"post_id": 1,
-			"date_added": 1477074746,
-			"body": "Hello ZeroMe! Can't delete this, click the confirmation button, no responses."
-		},
 		{
 			"post_id": 1477074785,
 			"body": "Eventually here will be another pirate bay?",
@@ -29,13 +24,48 @@
 		},
 		{
 			"post_id": 1477106782,
-			"body": "does anyone have used bleep before? it's a good concept by using by network to deliver messages, it's a decentralized messager, but stop activities almost 1 year ago, pity.",
+			"body": "does anyone have used bleep before? it's a good concept by using BT DHT network to deliver messages, it's a decentralized messager, but stop activities almost 1 year ago, pity.",
 			"date_added": 1477106777
 		},
 		{
 			"post_id": 1477107310,
 			"body": "every house should hold their own family server, hosts this kind of decentralized services, this will decrease internet traffic on backbone infrastructure after most of people get synchronized, due to most of the traffics are contributed by video streams.",
 			"date_added": 1477107304
+		},
+		{
+			"post_id": 1477107419,
+			"body": "This thing is doing really well, except some minor glitches, I think the twitter will be eating dust after a few years from now on.",
+			"date_added": 1477107412
+		},
+		{
+			"post_id": 1477108005,
+			"body": "I have a homeserver, i run \"zeronet.py --ui_ip 0.0.0.0\" on it, then access zeronet from every tablet or phone with web browser.",
+			"date_added": 1477107997
+		},
+		{
+			"post_id": 1477108296,
+			"body": "I experienced errors last night on zeroboard, I keep getting \"Message submit failed! Parsing parameters... Please try again later\", but I could post twittes here at meantime, I could only send another post successfully hours later.",
+			"date_added": 1477108287
+		},
+		{
+			"post_id": 1477112336,
+			"body": "I'm having more fun on zeronet than twitter.",
+			"date_added": 1477112326
+		},
+		{
+			"post_id": 1477115392,
+			"body": "For the best performance, there should be several network hubs for caching the contents, just like the CDN are doing, decentralized network cannot go fully isolated from central servers at all, especially for mobile devices. After thorough thought it's need a balance between central and decentral.",
+			"date_added": 1477115381
+		},
+		{
+			"post_id": 1477116873,
+			"body": "Can't delete this, click the confirmation button, no responses? You have to go the PC running zeronet service, open zeronet on browser and can only delete twitts by this way.",
+			"date_added": 1477116861
+		},
+		{
+			"post_id": 1477123592,
+			"body": "There should be a search engine for zeronet.",
+			"date_added": 1477123579
 		}
 	],
 	"post_like": {},
@@ -75,6 +105,84 @@
 			"body": "不需要移动客户端的，pc上zeronet.py --ui_ip 0.0.0.0 通过手机浏览器就可以打开了",
 			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1474803831",
 			"date_added": 1477106143
+		},
+		{
+			"comment_id": 7,
+			"body": "@36: thanks I'll try it.",
+			"post_uri": "18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477106782",
+			"date_added": 1477107746
+		},
+		{
+			"comment_id": 8,
+			"body": "@Erebus: I can't open the site, this part of internet is still down due to the DDOS",
+			"post_uri": "18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477106782",
+			"date_added": 1477110893
+		},
+		{
+			"comment_id": 9,
+			"body": "@Militaryriotlab: yes, only within my house, but the external internet cannot access my ui port, except someone wants to hack me, that's really scary.",
+			"post_uri": "18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477108005",
+			"date_added": 1477111465
+		},
+		{
+			"comment_id": 10,
+			"body": "@Militaryriotlab: I prefer VPN when I leaving my house, its safe and convenient.",
+			"post_uri": "18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477108005",
+			"date_added": 1477111742
+		},
+		{
+			"comment_id": 11,
+			"body": "@Jabasukuriputo Wang: that's why the home server is the best option, you can access your home server by VPN from everywhere without concerning  about the data plan and battery life. I had the same problems with bleep, it's hunger for battery and made my phone always warm.",
+			"post_uri": "18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477107419",
+			"date_added": 1477111935
+		},
+		{
+			"comment_id": 12,
+			"body": "@Militaryriotlab: Thanks",
+			"post_uri": "18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477108005",
+			"date_added": 1477112490
+		},
+		{
+			"comment_id": 13,
+			"body": "@Militaryriotlab: I am using chrome browser, except on a mobile device.",
+			"post_uri": "18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477077617",
+			"date_added": 1477112959
+		},
+		{
+			"comment_id": 14,
+			"body": "@Helloarch: thank you very much, you are very kind, i can read Chinese.",
+			"post_uri": "18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477077617",
+			"date_added": 1477113087
+		},
+		{
+			"comment_id": 15,
+			"body": "@Militaryriotlab: I have solved the issues, it's only working on the same pc running zeronet. Some functions are not working under remote access.",
+			"post_uri": "18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477077617",
+			"date_added": 1477123689
+		},
+		{
+			"comment_id": 16,
+			"body": "@Helloarch: Thank you!",
+			"post_uri": "18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477123592",
+			"date_added": 1477129217
+		},
+		{
+			"comment_id": 17,
+			"body": "@PaintNinja: but normal people don't have very large storage for buffering Or 24x7 power on time, especially it will overload mobile devices and cellphone networks after all. The official relay/hub/buffer must be there for acceptable loading delay and performance.",
+			"post_uri": "18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477115392",
+			"date_added": 1477138890
+		},
+		{
+			"comment_id": 18,
+			"body": "@Militaryriotlab: i was talking about network topology and how it could become a enjoyable suffering experience compare to normal full centralized web sites. ",
+			"post_uri": "18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477115392",
+			"date_added": 1477139499
+		},
+		{
+			"comment_id": 19,
+			"body": "@PaintNinja: Thanks i got the idea. ",
+			"post_uri": "18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477115392",
+			"date_added": 1477140299
 		}
 	],
 	"follow": [
@@ -84,6 +192,27 @@
 			"auth_address": "16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T",
 			"user_name": "波多野结衣",
 			"date_added": 1477075344
+		},
+		{
+			"follow_id": 3,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow",
+			"user_name": "MilitaryRiotLab",
+			"date_added": 1477114003
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib",
+			"user_name": "megfault",
+			"date_added": 1477119615
+		},
+		{
+			"follow_id": 5,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC",
+			"user_name": "Firebox",
+			"date_added": 1477136112
 		}
 	]
 }

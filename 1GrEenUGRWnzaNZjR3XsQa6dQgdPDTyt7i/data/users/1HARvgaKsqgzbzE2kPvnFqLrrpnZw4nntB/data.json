@@ -1,0 +1,53 @@
+{
+	"next_post_id": 4,
+	"next_comment_id": 2,
+	"next_follow_id": 3,
+	"avatar": "generate",
+	"user_name": "Rozruch",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1477124295,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1477124486,
+			"body": "I'm curious to see if there's more going on here than on Twister. Everyone there was slowly drifting towards ZeroNet.",
+			"date_added": 1477124484
+		},
+		{
+			"post_id": 1477125744,
+			"body": "Does / will ZeroMe implement any safeguards against harassment and abuse etc.? This is something that comes up when I mention blockchain social media on Twitter etc. since that is a very large part of many people's experience and a libertarian environment does not attract those who feel most vulnerable even where they acknowledge the benefits of not having a company or intermediary constructing their realities.",
+			"date_added": 1477125741
+		}
+	],
+	"post_like": {
+		"12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1476676975": 1477125143
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "I'll try and take a look at that. It sounds interesting, but I am concerned about the manipulation of uninformed voters that tends to take place with features of direct democracy, and about the trend towards illiberal outcomes.",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1476734316",
+			"date_added": 1477125231
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "15PZT6SDb3xX38PYQC5LH6NNWu7jD74KP2",
+			"user_name": "dmp1ce",
+			"date_added": 1477124874
+		},
+		{
+			"follow_id": 2,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx",
+			"user_name": "Durand",
+			"date_added": 1477125147
+		}
+	]
+}

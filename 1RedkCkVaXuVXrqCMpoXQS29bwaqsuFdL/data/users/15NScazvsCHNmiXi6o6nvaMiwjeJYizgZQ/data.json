@@ -1,6 +1,6 @@
 {
-	"next_post_id": 254,
-	"next_comment_id": 380,
+	"next_post_id": 258,
+	"next_comment_id": 389,
 	"next_follow_id": 27,
 	"avatar": "generate",
 	"user_name": "Musickiller",
@@ -1041,6 +1041,26 @@
 			"post_id": 1476532363,
 			"body": "So, we'll start with Raspberry Pi 3+, Waveshare 10 DOF, and screen 3.5' TFT\n\nLet's see where it takes us.",
 			"date_added": 1476532110
+		},
+		{
+			"post_id": 1477144943,
+			"body": "as a continuation of [that post](http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Post/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ/1476220188)\n\nNow I'm thinking of choosing a different dm than gdm. Gdm was easiest to install, so when I've only started with Arch, it was only logical to use it. Now, however, when I can handle a bit of stuff on my own, I can move to something else. Not like I'm dissatisfied with gdm, it worked fine. But since gnome is such a big fat thing, I start to worry that I can waste some extra MB of my precious memory on gdm.\n\nI've already switched to lxdm on my PC (coz gdm stopped working after another update) and now I think of a lighter dm for my notebook.\n\nNo time for googling and reading everything about everything, so just as usually, I just write about it here, so I could just read your advice on this topic.",
+			"date_added": 1477144689
+		},
+		{
+			"post_id": 1477145292,
+			"body": "Also I've switched to netctl from networkmanager on my PC (for the same reason - it has stopped working). And it's working nice. The setup was easy, since I've used wifi-menu.\n\nP.S. Looks like I can do anything if only it takes me away from tasks I should really do.\n\nBy the way, is anyone interested to read how I try to fit WaveShare 10 DOW IMU Sensor on Raspberry? I will write an article about it in Russian anyway =D I can also add some photos =)",
+			"date_added": 1477145037
+		},
+		{
+			"post_id": 1477146259,
+			"body": "I always try to write stuff in a teenager's language so that this blog would not look like an engineer's log book or something very official (which was the way I wrote when I actually was a teenager)). I think it's a good idea. Helps me to keep my mind fresh, light and creative, while when I write serious stuff, my mind is trying to emulate a computer-like thinking (efficient, but totally non-creative).\n\nBut this time, adding several extra emoji to my text, I've accidently looked a bit down and saw my mustache. And I thought: \"Damn! I'm a bearded 23 y.o. man, who's trying to write like a teenager. That should look creepy!\" Good news, I'm not fat or 43.. Or both.. Fat bearded 43 y.o. man who's trying to write as a teenager is not totally OK. Currently it should still be OK, but I feel depressed.\n\nAnd they ask me where do I find stress.. My head generates so much of it, that if I could collect those electrical impulses, I would be able to light my way to the toilet during night every day! At least with a weak luminodiode, I think... (I'm not good at biology, so it's just a guess)))\n\n/me imagining how it would look like to have a luminodiode and a capacitor plugged in my brain... not nice.",
+			"date_added": 1477146003
+		},
+		{
+			"post_id": 1477152505,
+			"body": "No IPFS for me =(\n\n19:01:15.900 ERROR core/serve: Path Resolve error: Failed to get block for QmU3o9bvfenhTKhxUakbYrLDnZU7HezAVxPM6Ehjw9Xjqy: context canceled gateway_handler.go:538",
+			"date_added": 1477152248
 		}
 	],
 	"post_like": {
@@ -3133,6 +3153,60 @@
 			"body": "@Shellbound: Just a little bit too late xD\n\n> И вот у нас есть Raspberry Pi 3+, платка Waveshare 10 DOF (БИНС про запас), и экран 3.5' TFT",
 			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1476118332",
 			"date_added": 1476531886
+		},
+		{
+			"comment_id": 380,
+			"body": "@Shellbound: are you sure you've commented in a right place?",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1476532363",
+			"date_added": 1477143288
+		},
+		{
+			"comment_id": 381,
+			"body": "@Antyhrabia: sorry. That was a bit faster to type than \"Because it was the only thing I have tried and did not vomit (like with XFCE). What are the benefits of LXQT?\"\nNot intended to be rude.",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1476220188",
+			"date_added": 1477143553
+		},
+		{
+			"comment_id": 382,
+			"body": "@Shellbound: \n> I don't really like any display manager though. \nWhat does that mean? =D",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1476220188",
+			"date_added": 1477143976
+		},
+		{
+			"comment_id": 383,
+			"body": "@Shellbound: @Antyhrabia: I find i3wm both sufficiently fast, light, easy to master and nice (I am tired of bulky window headers of gnome3...)\n\nHowever, for some reason, only gnome3 allows me to launch minecraft on my notebook. And since it's the favorite game of my lil'brother, I can't just remove gnome =(",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1476220188",
+			"date_added": 1477144263
+		},
+		{
+			"comment_id": 384,
+			"body": "@Flyman: an elephant? Your thought process is confusing.\n\nEDIT: Ah, the light from eyes! Funny =)",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1477146259",
+			"date_added": 1477149100
+		},
+		{
+			"comment_id": 385,
+			"body": "@ks: ..and has several warnings on the page you linked. no, thanks =D",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1477144943",
+			"date_added": 1477152292
+		},
+		{
+			"comment_id": 386,
+			"body": "@ks: sure =)\nand what about security updates?",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1477144943",
+			"date_added": 1477156710
+		},
+		{
+			"comment_id": 387,
+			"body": "@ks: brave and honorable Klaus will defend his computer from dangers near and far! =)",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1477144943",
+			"date_added": 1477162431
+		},
+		{
+			"comment_id": 388,
+			"body": "@ks: everything is. Everything is internet nowdays.",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1477144943",
+			"date_added": 1477162767
 		}
 	],
 	"follow": [

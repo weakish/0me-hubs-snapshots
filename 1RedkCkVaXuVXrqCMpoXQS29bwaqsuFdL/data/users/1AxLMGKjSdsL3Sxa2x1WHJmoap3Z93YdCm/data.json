@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 3,
+	"next_comment_id": 4,
 	"user_name": "Hexagon",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {
@@ -8,7 +8,9 @@
 		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1476474565": 1476476972,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1476520017": 1476534491,
 		"1K6HCsJskZENYG42GR7ocJXg9WjFbEq9hc_1476807354": 1476873564,
-		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1477016753": 1477070505
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1477016753": 1477070505,
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1477127340": 1477135359,
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1477115856": 1477135501
 	},
 	"comment": [
 		{
@@ -22,6 +24,12 @@
 			"body": "It seems to be an abstraction layer between big files (which cannot be shared on zeronet, bydesign), and Zeronet, making it possible to distribute it by splitting it into smaller pieces and setting up metadata. Am I on the right track? :)",
 			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1477016753",
 			"date_added": 1477070698
+		},
+		{
+			"comment_id": 3,
+			"body": "awesome, it works like charm!",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1477127340",
+			"date_added": 1477135451
 		}
 	]
 }

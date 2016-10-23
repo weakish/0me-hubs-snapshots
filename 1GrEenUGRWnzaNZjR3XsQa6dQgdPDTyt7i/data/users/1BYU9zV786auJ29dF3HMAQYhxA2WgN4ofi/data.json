@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 18,
+	"next_comment_id": 22,
 	"user_name": "Eibriel",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {
@@ -13,7 +13,8 @@
 		"1G22SgXJtdx9D6BfvXgjknD57Mi1wjnZX3_1474400148": 1475937905,
 		"1EHrBqNZLu3He8t98otjqezt5jRE8euGSA_1476217890": 1476238420,
 		"1AkE5mjeYRiQLGF8Q6NmGvpkm1kk1R6zMe_1476217947": 1476238422,
-		"15rVDNb7L1Kpzt3MCvkxFayqfMBw7yPxbk_1476153944": 1476239780
+		"15rVDNb7L1Kpzt3MCvkxFayqfMBw7yPxbk_1476153944": 1476239780,
+		"1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1477103559": 1477110348
 	},
 	"comment": [
 		{
@@ -111,6 +112,30 @@
 			"body": "*Nice Test*",
 			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1477054148",
 			"date_added": 1477090253
+		},
+		{
+			"comment_id": 18,
+			"body": "Your link \"original post\" is missing a bar \"/\" at the beginning XD",
+			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1477103559",
+			"date_added": 1477110446
+		},
+		{
+			"comment_id": 19,
+			"body": "@Jabasukuriputo Wang: It depends, to me looks like `http://127.0.0.1:43110/me.zeronetwork.bit/?Post/1BLueGvui1GdbtsjcKqCf4F67uKfritG49/1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi/1477098810`.\nNow is a relative link!",
+			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1477103559",
+			"date_added": 1477124392
+		},
+		{
+			"comment_id": 20,
+			"body": "Hi!",
+			"post_uri": "1FBGD6TD5TRipcCoE58CSU6TpEM6LxjP7N_1477119969",
+			"date_added": 1477124642
+		},
+		{
+			"comment_id": 21,
+			"body": "Esa! Ya estamos todos jaja",
+			"post_uri": "1QFcL2PapA8NuvNWeHCafHaMPJcXgmb55i_1477174801",
+			"date_added": 1477175146
 		}
 	]
 }

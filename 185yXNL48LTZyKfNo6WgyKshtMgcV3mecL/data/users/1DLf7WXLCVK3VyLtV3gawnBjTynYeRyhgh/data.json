@@ -1,6 +1,6 @@
 {
-	"next_post_id": 16,
-	"next_comment_id": 10,
+	"next_post_id": 17,
+	"next_comment_id": 12,
 	"next_follow_id": 220,
 	"avatar": "png",
 	"user_name": "0",
@@ -76,6 +76,11 @@
 			"post_id": 1477031212,
 			"body": "No sabia que [bittorrent](https://es.wikipedia.org/wiki/Bittorrent) fuera tan peligroso de usar, hasta que lei [este articulo sobre el tema](../procesos.bit/lab.html?Post:148)",
 			"date_added": 1477031197
+		},
+		{
+			"post_id": 1477153660,
+			"body": "Sorpresa! Todos los mensajes de mi cuenta de #ZeroMail borrados asi como los contactos. Que puede haber pasado? Es posible recuperarlos?",
+			"date_added": 1477153644
 		}
 	],
 	"post_like": {},
@@ -133,6 +138,18 @@
 			"body": "@Rapapobre: Muy buen Link, lo curioso es que hay una semana de diferencia entre ambos articulos.\n\nSi, yo tambien tengo esa impresion:\n> ...siempre q observo, q determinadas tecnologías salen a la luz es pq ya han sido superadas y sustituidas por otras...\n\nSi se refiere a las privativas o a las desarrolladas en instituciones oficiales... pero en cuanto a las tecnologias abiertas creadas por la comunidad hacker... como el propio Linux o los algoritmos de cifrado...",
 			"post_uri": "1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh_1477031212",
 			"date_added": 1477055201
+		},
+		{
+			"comment_id": 10,
+			"body": "@Rapapobre: Ok, reinstalar desde cero?\n\nEn mi caso yo no he reinstalado desde cero, simplemente movi la carpeta Zeronet y despues ha desaparecido todo, pero NO de golpe, sino gradualmente. Primero fueron los mensaje antiguos y despues fueron los + nuevos y por ultimo los contactos.\n\nEstos ultimos, los contactos, tampoco entendi nunca como los podia agregar a mi lista...\n\nGracias!",
+			"post_uri": "1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh_1477153660",
+			"date_added": 1477164054
+		},
+		{
+			"comment_id": 11,
+			"body": "@Rapapobre: O sea no hay forma de hacer un backup o exportarlos/importarlos ?",
+			"post_uri": "1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh_1477153660",
+			"date_added": 1477173995
 		}
 	],
 	"follow": [
