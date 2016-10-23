@@ -1,6 +1,6 @@
 {
 	"next_post_id": 81,
-	"next_comment_id": 103,
+	"next_comment_id": 106,
 	"next_follow_id": 20,
 	"avatar": "jpg",
 	"user_name": "meidan",
@@ -359,12 +359,12 @@
 		},
 		{
 			"post_id": 1476983304,
-			"body": "ZeroTalk Esperanto or ZeroParoli is now live on ZeroNet. :) http://127.0.0.1:43110/1EZGQs7uR9bETxaVwxVvqVuk4ceqyPmg67/",
+			"body": "ZeroTalk Esperanto or ZeroParoli is now live on ZeroNet. :) http://127.0.0.1:43110/1AYe1U2ae7nQe5N8zysQ3L4eGQyYEJnsa2/",
 			"date_added": 1476983227
 		},
 		{
 			"post_id": 1476996881,
-			"body": "ZeroTalk aŭ  ZeroParoli estas sur ZeroNet en Esperanto! \nhttp://127.0.0.1:43110/1EZGQs7uR9bETxaVwxVvqVuk4ceqyPmg67/\n\n*If there are any translation errors etc. please let me know.",
+			"body": "ZeroTalk aŭ  ZeroParoli estas sur ZeroNet en Esperanto! \nhttp://127.0.0.1:43110/1AYe1U2ae7nQe5N8zysQ3L4eGQyYEJnsa2/\n\n*If there are any translation errors etc. please let me know.",
 			"date_added": 1476996803
 		},
 		{
@@ -1004,6 +1004,24 @@
 			"body": "@Henur: Right now I'm trying to see if other's are having the same problem. If it persists, I'll just rebuild the entire site again from scratch next week. Also, I'll check on some other computers and browsers to see if that may be the issue.",
 			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1476983304",
 			"date_added": 1477086557
+		},
+		{
+			"comment_id": 103,
+			"body": "@Eibriel: I have no idea. I cloned it from the original ZeroTalk site and translated it. I'll set it up again and see what happens. Recloned it. Does this one work? http://127.0.0.1:43110/1AYe1U2ae7nQe5N8zysQ3L4eGQyYEJnsa2/ \n\nI've made two versions. Let me know if blue or orange work. http://127.0.0.1:43110/1FWWfgwTdgdNieQRpTgyMmJq7wZkjAvP5x",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1477083299",
+			"date_added": 1477243091
+		},
+		{
+			"comment_id": 104,
+			"body": "@Henur: Still working on it. Hopefully this one runs: http://127.0.0.1:43110/1AYe1U2ae7nQe5N8zysQ3L4eGQyYEJnsa2/",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1476983304",
+			"date_added": 1477243614
+		},
+		{
+			"comment_id": 105,
+			"body": "@ks: Yes. It does that when it is overprocessing. You can strain that version and heat it with a little salt and lime juice. Then strain it again and stick it in the fridge and you have cheese. You can also add a little olive oil and herbs to make a soft cheese spread if you want something different.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1477078700",
+			"date_added": 1477243705
 		}
 	],
 	"follow": [
