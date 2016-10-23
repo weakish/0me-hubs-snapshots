@@ -1,5 +1,5 @@
 {
-	"next_post_id": 41,
+	"next_post_id": 42,
 	"next_comment_id": 23,
 	"next_follow_id": 125,
 	"avatar": "png",
@@ -206,6 +206,11 @@
 			"post_id": 1477050373,
 			"body": "In Ceylon, cases in `switch` need to be both disjoint and exhausted. Using a strict form helps to reduce bugs.\n\nFor example, suppose we have the following code:\n\n```ceylon\nPath path = current;\nif (is Directory path) { // typo, should be `path.resource`.\n    // ...\n} else { // dead code\n    // ...\n}\n```\n\nThere is a typo in the above code, `path` should be `path.resource`.\nSo the above code will never go into the else branch,\nsince a Path is always not a Directory.\n\nHowever, if we use switch with explicit cases:\n\n```ceylon\nswitch (path)\ncase (is Directory) {\n    // ...\n}\ncase (is File|Link|Nil) {\n    // ...\n}\n```\n\nThe compiler will refuse to compile, saying cases are not exhausted.",
 			"date_added": 1477050333
+		},
+		{
+			"post_id": 1477184589,
+			"body": "citibank's \"change password\" gives misleading error info (\"must contain at least 1 digit and 1 letter\") if new password contains some special characters like `@`.",
+			"date_added": 1477184548
 		}
 	],
 	"post_like": {
