@@ -1,0 +1,67 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 7,
+	"avatar": "generate",
+	"user_name": "Montana",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1477262034,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1477262687,
+			"body": "Message submit failed!\nParsing parameters... Please try again later.\n\nor so says Zero Board. I must have been rude again.",
+			"date_added": 1477262685
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "19HxkvZX7eNWpbtLzcAwEzzCp7FkPhNnep",
+			"user_name": "Binerf",
+			"date_added": 1477262111
+		},
+		{
+			"follow_id": 2,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1DWE7kqCFMrUhaeAFZS559KWCy19351Jw6",
+			"user_name": "Lechat",
+			"date_added": 1477262160
+		},
+		{
+			"follow_id": 3,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS",
+			"user_name": "Openuser",
+			"date_added": 1477263472
+		},
+		{
+			"follow_id": 4,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1J5uFzQBpLpoyTZfH28Fv8KrThShewrF2d",
+			"user_name": "Lululatortue",
+			"date_added": 1477263474
+		},
+		{
+			"follow_id": 5,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "12zrxiG9gvvTDeCRpuRmdWQLVQ288YTwJB",
+			"user_name": "Luizof",
+			"date_added": 1477263503
+		},
+		{
+			"follow_id": 6,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "12siAdZevQ9xEBxZK9pRCyJV4wmKFZPkhW",
+			"user_name": "5thzhino",
+			"date_added": 1477263510
+		}
+	]
+}
