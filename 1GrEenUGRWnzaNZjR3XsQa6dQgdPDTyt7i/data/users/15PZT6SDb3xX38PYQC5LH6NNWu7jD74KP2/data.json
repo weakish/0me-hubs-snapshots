@@ -1,6 +1,6 @@
 {
 	"next_post_id": 5,
-	"next_comment_id": 13,
+	"next_comment_id": 14,
 	"next_follow_id": 23,
 	"avatar": "jpg",
 	"user_name": "dmp1ce",
@@ -33,7 +33,8 @@
 		"1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476276645": 1476281601,
 		"1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476461645": 1476588792,
 		"1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476577977": 1476622748,
-		"15CnUuQWHaW3h1vZuLTxQ5tEt1SzjeNdAP_1476824464": 1476879894
+		"15CnUuQWHaW3h1vZuLTxQ5tEt1SzjeNdAP_1476824464": 1476879894,
+		"1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1477112434": 1477191453
 	},
 	"comment": [
 		{
@@ -107,6 +108,12 @@
 			"body": "An email address is not enough to know that you are communicating with who you think you are. This is why PGP was invented.",
 			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1477050903",
 			"date_added": 1477071471
+		},
+		{
+			"comment_id": 13,
+			"body": "@MilitaryRiotLab: I don't think PGP has forward security. I think you would need to use  something like OTR or Signal protocol to get forward security.",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1477050903",
+			"date_added": 1477191358
 		}
 	],
 	"follow": [
