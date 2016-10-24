@@ -1,6 +1,6 @@
 {
-	"next_post_id": 82,
-	"next_comment_id": 108,
+	"next_post_id": 83,
+	"next_comment_id": 109,
 	"next_follow_id": 20,
 	"avatar": "jpg",
 	"user_name": "meidan",
@@ -369,13 +369,18 @@
 		},
 		{
 			"post_id": 1477083299,
-			"body": "Is this zite viewable to you? : http://127.0.0.1:43110/1EZGQs7uR9bETxaVwxVvqVuk4ceqyPmg67/ \n\nor \n\nhttp://127.0.0.1:43110/1FWWfgwTdgdNieQRpTgyMmJq7wZkjAvP5x\n\nIt's the Esperanto forum I've been working on. Some users say that it's not viewable.",
+			"body": "Is this zite viewable to you? : http://127.0.0.1:43110/1DJ7oYymDAuFwTX3rSDWs84M382Fq2qm4Y\nIt's the Esperanto forum I've been working on. Some users say that it's not viewable.",
 			"date_added": 1477083219
 		},
 		{
 			"post_id": 1477246371,
 			"body": "Research and reading all day today. ",
 			"date_added": 1477246290
+		},
+		{
+			"post_id": 1477270788,
+			"body": "I might take a few steps back from the Esperanto Forum for a while. For some reason ZeroNet allows me to clone zites but nothing is viewable to users. ...",
+			"date_added": 1477270706
 		}
 	],
 	"post_like": {
@@ -1013,7 +1018,7 @@
 		},
 		{
 			"comment_id": 104,
-			"body": "@Henur: Still working on it. Hopefully this one runs: http://127.0.0.1:43110/1AYe1U2ae7nQe5N8zysQ3L4eGQyYEJnsa2/",
+			"body": "@Henur: Still working on it. Hopefully this one runs: http://127.0.0.1:43110/1DJ7oYymDAuFwTX3rSDWs84M382Fq2qm4Y/",
 			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1476983304",
 			"date_added": 1477243614
 		},
@@ -1034,6 +1039,12 @@
 			"body": "@Eibriel: Yes. Port 15441 is opened. I rechecked it too.\nhttp://localhost:8080/ipfs/Qma4ex9E4u5hPjNJSw2fssTVRic29EzxfrR4nHwsZFuuwW",
 			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1477083299",
 			"date_added": 1477250415
+		},
+		{
+			"comment_id": 108,
+			"body": "Ok. I set this one up on another computer maybe after seeding for a few days this one will work. http://127.0.0.1:43110/1DJ7oYymDAuFwTX3rSDWs84M382Fq2qm4Y ",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1477083299",
+			"date_added": 1477269399
 		}
 	],
 	"follow": [
