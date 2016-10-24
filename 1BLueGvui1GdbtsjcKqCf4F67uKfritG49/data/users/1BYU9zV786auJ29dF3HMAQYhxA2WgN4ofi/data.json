@@ -1,6 +1,6 @@
 {
 	"next_post_id": 21,
-	"next_comment_id": 15,
+	"next_comment_id": 16,
 	"next_follow_id": 20,
 	"avatar": "jpg",
 	"user_name": "Eibriel",
@@ -198,6 +198,12 @@
 			"body": "@meidan: Same error for both sites, do you see the following on your ZeroHello page? http://gateway.ipfs.io/ipfs/QmWrfuWCzXZvKnRqAeHJZ7LuwVroPhKGnBpi2hiTV7AXCY",
 			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1477083299",
 			"date_added": 1477250377
+		},
+		{
+			"comment_id": 15,
+			"body": "You can test by yourself if the site is working using a proxy such as https://zero.acelewis.com/",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1477083299",
+			"date_added": 1477273540
 		}
 	],
 	"follow": [

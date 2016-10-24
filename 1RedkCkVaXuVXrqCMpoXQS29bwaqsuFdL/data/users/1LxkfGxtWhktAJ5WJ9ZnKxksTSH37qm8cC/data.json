@@ -1,5 +1,5 @@
 {
-	"next_post_id": 31,
+	"next_post_id": 32,
 	"next_comment_id": 18,
 	"next_follow_id": 12,
 	"avatar": "generate",
@@ -151,6 +151,11 @@
 			"post_id": 1477160424,
 			"body": "For those who cannot see this [music player demo](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/music/) working, please tell me what OS and browser you are using, and what you saw and heard.\n\n> Loading file......\n> Bad network connection! Please reload this page to resume buffering.\n@HelloArch: Hi! Only a few peers are hosting this file, so your ZeroNet client might have trouble finding enough peers. You can try reloading the demo page to resume buffering.\n\n> It's working. Can I uploads file on it ?\n@Militaryriotlab: Not yet. This is a very simple demo.\n\n> great job, but not working on mobile browser.\n@missingtwins: Hi there. What kind of OS and browser are you using? What did you see and hear?",
 			"date_added": 1477160394
+		},
+		{
+			"post_id": 1477272835,
+			"body": "I realized that, [ZeroMux](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/) is too difficult to use for people who want to share files but don't know much programming. To make ZeroMux simpler, I came up with some ideas to be implemented:\n\n- Create a link to download all necessary tools rather than telling people to find the site folder.\n- Write a Python program to help people split files and configure ZeroMux without having to write a line of code.\n- Create a permanent link for every big file.",
+			"date_added": 1477272804
 		}
 	],
 	"post_like": {
