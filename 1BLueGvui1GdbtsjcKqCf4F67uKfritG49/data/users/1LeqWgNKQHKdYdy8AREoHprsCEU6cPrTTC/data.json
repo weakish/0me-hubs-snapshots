@@ -1,6 +1,6 @@
 {
-	"next_post_id": 83,
-	"next_comment_id": 111,
+	"next_post_id": 84,
+	"next_comment_id": 113,
 	"next_follow_id": 20,
 	"avatar": "jpg",
 	"user_name": "meidan",
@@ -381,6 +381,11 @@
 			"post_id": 1477270788,
 			"body": "I might take a few steps back from the Esperanto Forum for a while. For some reason ZeroNet allows me to clone zites but nothing is viewable to users. ...",
 			"date_added": 1477270706
+		},
+		{
+			"post_id": 1477407574,
+			"body": "Watched Ghostbusters (the new one) for the first time last night. It was funny and a little cheesy. It was pretty cool how many actors from the original were sneaked into it though. ",
+			"date_added": 1477407491
 		}
 	],
 	"post_like": {
@@ -1051,6 +1056,18 @@
 			"body": "I followed it back to users/content.json I didn't see this in the file. So, I added it. ",
 			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1477083299",
 			"date_added": 1477324863
+		},
+		{
+			"comment_id": 111,
+			"body": "@Eibriel: Well. That's progress. I'll try to figure out why it's displaying in english.",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1477083299",
+			"date_added": 1477406724
+		},
+		{
+			"comment_id": 112,
+			"body": "Port is open and I can't get a decent zite cloned. Really strange. New errors keep popping up left and right.",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1477270788",
+			"date_added": 1477407391
 		}
 	],
 	"follow": [
