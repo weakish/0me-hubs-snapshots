@@ -1,7 +1,7 @@
 {
-	"next_post_id": 38,
-	"next_comment_id": 26,
-	"next_follow_id": 75,
+	"next_post_id": 39,
+	"next_comment_id": 28,
+	"next_follow_id": 77,
 	"avatar": "jpg",
 	"user_name": "ulrichard",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -191,6 +191,11 @@
 			"post_id": 1477055465,
 			"body": "Just wondering if it would be feasible to distribute this hash list with zeronet, and check the filter before displaying a pic. \nhttp://arstechnica.com/tech-policy/2016/10/internet-watch-foundation-child-sex-abuse-org-urges-hash-list/\nCould be a preemptive measure before the platform might be attacked by totalitarians with false accusations.\nIn case the list was abused for censorship, the filter could be relaxed again.",
 			"date_added": 1477055428
+		},
+		{
+			"post_id": 1477295315,
+			"body": "No surprise when you consider who owns linkedin.\nhttps://thestack.com/security/2016/10/06/linkedin-accesses-gmail-contacts-via-auto-authorization/",
+			"date_added": 1477295277
 		}
 	],
 	"post_like": {
@@ -346,6 +351,18 @@
 			"body": "Yes, namecoin should really be used more. It seems to me that not a lot has happened with namecoin in the last two years. Appart from zeronet OFC.",
 			"post_uri": "1PbCor9kCtnKaZAPnrxENbcraKtAEq8wA1_1477095440",
 			"date_added": 1477134918
+		},
+		{
+			"comment_id": 26,
+			"body": "@Zero: I didn't find it in the ubuntu repo. What are the advantages? Does it also work well for product pages?",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1476893197",
+			"date_added": 1477375775
+		},
+		{
+			"comment_id": 27,
+			"body": "@Durand: Could this be the same as mentioned here: \n\n[ZeroMe thought experiment](/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/?Profile/1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i/1QH1N2BcCN6bQu1J98yUovsnnkvHn8TKhC/enoch@zeroid.bit)\n\nhttps://bugzilla.mozilla.org/show_bug.cgi?id=1293316",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1476893197",
+			"date_added": 1477375846
 		}
 	],
 	"follow": [
@@ -866,6 +883,20 @@
 			"auth_address": "1LFxK1BSHEnkJcXXb4qGszVUxEwqLVSJU8",
 			"user_name": "Hermes32",
 			"date_added": 1476945697
+		},
+		{
+			"follow_id": 75,
+			"hub": "15mV5T1R1wxg3E1FPsvZw19bw6QzvRREfn",
+			"auth_address": "1HsUf1vzy65nR8BsMmJwLDi6j68HYY5F9e",
+			"user_name": "User0",
+			"date_added": 1477166548
+		},
+		{
+			"follow_id": 76,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1QH1N2BcCN6bQu1J98yUovsnnkvHn8TKhC",
+			"user_name": "Enoch",
+			"date_added": 1477375934
 		}
 	],
 	"settings": {

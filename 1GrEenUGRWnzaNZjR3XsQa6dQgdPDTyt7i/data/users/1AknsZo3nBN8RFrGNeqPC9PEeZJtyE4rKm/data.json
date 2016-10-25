@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
 	"next_comment_id": 3,
-	"next_follow_id": 1,
+	"next_follow_id": 2,
 	"avatar": "generate",
 	"user_name": "Swiggtyswoot",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -28,5 +28,13 @@
 			"date_added": 1477084032
 		}
 	],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1KRXEX6oD4HH4xwybvxnTBPW4DQm2HPdgj",
+			"user_name": "Splinterk",
+			"date_added": 1477348677
+		}
+	]
 }

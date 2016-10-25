@@ -1,6 +1,6 @@
 {
-	"next_post_id": 22,
-	"next_comment_id": 74,
+	"next_post_id": 23,
+	"next_comment_id": 80,
 	"next_follow_id": 17,
 	"avatar": "jpg",
 	"user_name": "MilitaryRiotLab",
@@ -111,6 +111,11 @@
 			"post_id": 1477147777,
 			"body": "Help needed regarding C++ Programming, please\n\nI have a huge string, format is fixed as 2 numbers and a English word, 3 charters consider as one unit\ne.g. `01A` or `99Z`\ne.g. the whole string can be `01A01A02D21S` and on\nI need to\n* select a specific unit from a given unit's number\n* remove the selected unit from the string",
 			"date_added": 1477147756
+		},
+		{
+			"post_id": 1477391375,
+			"body": "What is positive attitude actually?\n\nWhen I am ~16 and failed something, I try to undo my mistake.\ne.g. I don't have a girlfriend, I try very hard to know every girl in class to get one ( and failed )\n\nNow I am nearly 19, when things go south, I just do whatever I can to escape.\ne.g. I still don't have a gf, I am like `yeah, I don't give a shit` \n\nI used to feel depressed and now I learnt how to \"let go\", everyday I barely hold together.\n\nSo, it's it a bad attitude to escape? ",
+			"date_added": 1477391353
 		}
 	],
 	"post_like": {
@@ -121,7 +126,8 @@
 		"1NqBLri771MGN6eJLzUP6dqenvVqdC6b5L_1476186244": 1476186331,
 		"1MaFKfB2HzmRfYNREf4oQN6cWr8hr8jkce_1": 1476276354,
 		"15PZT6SDb3xX38PYQC5LH6NNWu7jD74KP2_1476371617": 1476372955,
-		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476817023": 1476810816
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476817023": 1476810816,
+		"1KRXEX6oD4HH4xwybvxnTBPW4DQm2HPdgj_1477324078": 1477329878
 	},
 	"comment": [
 		{
@@ -543,6 +549,42 @@
 			"body": "@43110: 啥意思？",
 			"post_uri": "1CqBHprWmyFvTec5gB4vJN8CZUX1wsjHSp_1477206070",
 			"date_added": 1477230172
+		},
+		{
+			"comment_id": 74,
+			"body": "汪 !",
+			"post_uri": "13mhHHJzVJc97KZnaAkWZbgDr3qhhJMYnd_1477293203",
+			"date_added": 1477307833
+		},
+		{
+			"comment_id": 75,
+			"body": "No peers found欸",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477308305",
+			"date_added": 1477308893
+		},
+		{
+			"comment_id": 76,
+			"body": "可以了, https://onlyzero.net/1C9TbjWJAosKtSEDgKvU8821N6VkYcBY8L/?Page:home",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477308305",
+			"date_added": 1477310580
+		},
+		{
+			"comment_id": 77,
+			"body": "但是好像對代理網站不友善，例如\n`http://127.0.0.1:43110/1C9TbjWJAosKtSEDgKvU8821N6VkYcBY8L/?Page:readme-zh-cn`\n鍵接一定指向127.0.01:43110, 可以改為 `/1C9TbjWJAosKtSEDgKvU8821N6VkYcBY8L/?Page:readme-zh-cn`",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477308305",
+			"date_added": 1477310772
+		},
+		{
+			"comment_id": 78,
+			"body": "你現實時間是什麼？",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477369336",
+			"date_added": 1477390554
+		},
+		{
+			"comment_id": 79,
+			"body": "@Flyman: Thank you",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1477391375",
+			"date_added": 1477393467
 		}
 	],
 	"follow": [
@@ -660,7 +702,8 @@
 	},
 	"blocked": [],
 	"flags": {
-		"post-19AAsU7HXRC1bmCAM8DeAcNjEvwSaKrB7u_1476365001": 0
+		"post-19AAsU7HXRC1bmCAM8DeAcNjEvwSaKrB7u_1476365001": 0,
+		"post-1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477321847": 0
 	},
 	"comment_like": {
 		"18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6_6": 1475803156,
@@ -669,6 +712,7 @@
 		"1M8Mbi3PX5RdWxeQUpG1C9yKgzT9ZGssny_5": 1476418746,
 		"1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_35": 1476539757,
 		"13ZwzXj9cMRF9AZirKm5nk1enWWS9hHRw8_1": 1476688438,
-		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_79": 1477147805
+		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_79": 1477147805,
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_38": 1477312827
 	}
 }

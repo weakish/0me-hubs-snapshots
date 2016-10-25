@@ -1,7 +1,7 @@
 {
-	"next_post_id": 18,
+	"next_post_id": 19,
 	"next_comment_id": 27,
-	"next_follow_id": 24,
+	"next_follow_id": 25,
 	"avatar": "jpg",
 	"user_name": "ZAlex",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -81,6 +81,11 @@
 			"post_id": 1476885164,
 			"body": "I hope this is only a temporary solution of registration by ZeroID (./js/js.all):\n`return $.post(\"https://demo.zeronet.io/ZeroID/request.php\"...`\nRegistration via BM also centralized because there is a script `./publisher-bitmessage/bitmessage.py`, and as I understand it, nofish runs this script to accept incoming requests.",
 			"date_added": 1476885147
+		},
+		{
+			"post_id": 1477353266,
+			"body": "I am checking ZeroMail every day but today suddenly I get some \"new\" emails that were sent in early October.\nO_o",
+			"date_added": 1477353248
 		}
 	],
 	"post_like": {
@@ -478,6 +483,13 @@
 			"auth_address": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx",
 			"user_name": "ks",
 			"date_added": 1476277942
+		},
+		{
+			"follow_id": 24,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1BidCEzNjETypKRCaRFQ6myvDo71o6FDyC",
+			"user_name": "Renha",
+			"date_added": 1477308120
 		}
 	],
 	"settings": {

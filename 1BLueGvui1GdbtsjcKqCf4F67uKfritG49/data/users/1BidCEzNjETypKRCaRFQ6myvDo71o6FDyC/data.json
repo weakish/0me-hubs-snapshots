@@ -1,6 +1,6 @@
 {
-	"next_post_id": 3,
-	"next_comment_id": 9,
+	"next_post_id": 6,
+	"next_comment_id": 12,
 	"next_follow_id": 2,
 	"avatar": "generate",
 	"user_name": "Renha",
@@ -16,6 +16,21 @@
 			"post_id": 1475496066,
 			"body": "Whoa, looks like ZeroMe is good enough alternative to juick.com, we just need to move some users",
 			"date_added": 1475496064
+		},
+		{
+			"post_id": 1477298497,
+			"body": "wait. Is there tags in ZeroMe?",
+			"date_added": 1477298494
+		},
+		{
+			"post_id": 1477316082,
+			"body": "While building my 3D printer, I realized that I need to use D1D40 SSR, and datasheet says that I need heatsink for it. How would I choose right one?",
+			"date_added": 1477316078
+		},
+		{
+			"post_id": 1477383132,
+			"body": "Are there some games in ZeroNet?",
+			"date_added": 1477383127
 		}
 	],
 	"post_like": {
@@ -73,6 +88,24 @@
 			"body": "hello",
 			"post_uri": "1CxsuwnKccbFXMoLx1VfAEHgQe2UAneH6H_1476807529",
 			"date_added": 1476871539
+		},
+		{
+			"comment_id": 9,
+			"body": "@Nekocross: oh, i see, i misspelled, i have meant not markdown/html tags, but kinda #hashtags or something",
+			"post_uri": "1BidCEzNjETypKRCaRFQ6myvDo71o6FDyC_1477298497",
+			"date_added": 1477301772
+		},
+		{
+			"comment_id": 10,
+			"body": "@ZAlex: thank you!",
+			"post_uri": "1BidCEzNjETypKRCaRFQ6myvDo71o6FDyC_1477298497",
+			"date_added": 1477304860
+		},
+		{
+			"comment_id": 11,
+			"body": "@Flyman: thank you!",
+			"post_uri": "1BidCEzNjETypKRCaRFQ6myvDo71o6FDyC_1477383132",
+			"date_added": 1477388332
 		}
 	],
 	"follow": [
@@ -83,5 +116,19 @@
 			"user_name": "Balancer73",
 			"date_added": 1475495226
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {
+		"1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_22": 1477304838,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_4": 1477315266,
+		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_73": 1477388310,
+		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_78": 1477389560
+	}
 }

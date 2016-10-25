@@ -1,5 +1,5 @@
 {
-	"next_post_id": 9,
+	"next_post_id": 10,
 	"next_comment_id": 15,
 	"next_follow_id": 21,
 	"avatar": "png",
@@ -36,6 +36,11 @@
 			"post_id": 1477062685,
 			"body": "Le Nouveau systeme de regulation d'espace c'est la taille du disque sur ( les utilisateur connecté plus les administrateur du site )\npar exemple :::\nont la openuser gudulf sick et admin du site avec un espace de 500GB calculer 500G/(3+1) fait 125GB pour chaque un utilisateur et adminstrateur.",
 			"date_added": 1477062677
+		},
+		{
+			"post_id": 1477339587,
+			"body": "I Successful to use BitMessage On Between Virtual Machine in internal network ! **with VirtualBox**\n\n1. open ./src/defaultknownodes.py\n2. remove ip by default on \"stream1\" and write your ip address of main virtual machine.",
+			"date_added": 1477339578
 		}
 	],
 	"post_like": {},

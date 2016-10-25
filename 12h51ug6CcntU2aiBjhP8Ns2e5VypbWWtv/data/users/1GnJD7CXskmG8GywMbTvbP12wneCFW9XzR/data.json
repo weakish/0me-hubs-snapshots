@@ -1,7 +1,7 @@
 {
-	"next_post_id": 42,
-	"next_comment_id": 24,
-	"next_follow_id": 141,
+	"next_post_id": 43,
+	"next_comment_id": 25,
+	"next_follow_id": 144,
 	"avatar": "png",
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -211,6 +211,11 @@
 			"post_id": 1477184589,
 			"body": "citibank's \"change password\" gives misleading error info (\"must contain at least 1 digit and 1 letter\") if new password contains some special characters like `@`.",
 			"date_added": 1477184548
+		},
+		{
+			"post_id": 1477398355,
+			"body": "The main audience of code is human beings, not tests. Improving testability should not harm readability.",
+			"date_added": 1477398313
 		}
 	],
 	"post_like": {
@@ -371,6 +376,12 @@
 			"body": "@P2P: 没碰到过`date`正常其他程序出错的问题。",
 			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1477184589",
 			"date_added": 1477199585
+		},
+		{
+			"comment_id": 24,
+			"body": "The post does not answer how is this possible? If the Linkedin managed to get the gmail contacts under the condition mentioned in the post, then it is not \"auto-authorization\", it is hijacking via 0day security holes of browsers!",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1477295315",
+			"date_added": 1477399137
 		}
 	],
 	"follow": [
@@ -1297,6 +1308,27 @@
 			"auth_address": "1JQCnij7UvWdvcAHnZ4eDnSA88UsQR8puQ",
 			"user_name": "timmyRS",
 			"date_added": 1477198903
+		},
+		{
+			"follow_id": 141,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1EJ7j6nGoz84S8eYsfEmYA6hF9vV4nKkR4",
+			"user_name": "Zerg",
+			"date_added": 1477400147
+		},
+		{
+			"follow_id": 142,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1EobjuQ5ig6BE9yu1tctgG6J53YnpefQNd",
+			"user_name": "Bravo",
+			"date_added": 1477400203
+		},
+		{
+			"follow_id": 143,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1AxLMGKjSdsL3Sxa2x1WHJmoap3Z93YdCm",
+			"user_name": "Hexagon",
+			"date_added": 1477400257
 		}
 	]
 }

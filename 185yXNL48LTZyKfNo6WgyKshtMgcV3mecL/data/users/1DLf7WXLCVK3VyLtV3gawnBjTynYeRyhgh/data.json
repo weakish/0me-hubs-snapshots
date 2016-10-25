@@ -1,11 +1,11 @@
 {
-	"next_post_id": 17,
-	"next_comment_id": 12,
-	"next_follow_id": 220,
-	"avatar": "png",
+	"next_post_id": 20,
+	"next_comment_id": 14,
+	"next_follow_id": 230,
+	"avatar": "jpg",
 	"user_name": "0",
 	"hub": "185yXNL48LTZyKfNo6WgyKshtMgcV3mecL",
-	"intro": "¿Cuál es la probabilidad de...?",
+	"intro": "Entusiasta de la #descentralizacion, #privacidad, #distribucion, el #GNU y el #español\n\n---\n\n* [0Talk-es](../165eqHdoQfyf7CVGqtVCGNDvMBZhwVSJBL)\n* [0Chat-es](../18nQPR4TCM4tQ8L7fm6dX6SGXLsj7wa8sv)\n* [0Paste](../1MgHVPCE1ve6QfKrgsqCURzRj72HrRWioz)\n* [0Wiki-es](../1FwbupJhHcnFWGXuu3bn5VxcRVW9tx2tDQ)\n* [KID](../id.kaffie.bit)\n* [KSearch](../kaffiene.bit)\n* [DarkbloG](../darkblog.bit/lab.html)\n* [PrivacyTools](../1Npv7cLAvU9u62ivgqhwwK5wHioM3wakgk)",
 	"post": [
 		{
 			"post_id": 1475781386,
@@ -81,9 +81,27 @@
 			"post_id": 1477153660,
 			"body": "Sorpresa! Todos los mensajes de mi cuenta de #ZeroMail borrados asi como los contactos. Que puede haber pasado? Es posible recuperarlos?",
 			"date_added": 1477153644
+		},
+		{
+			"post_id": 1477215035,
+			"body": "Al parecer varios usuarios han eliminado sus mensajes... sera que habran escrito algo de lo que se habran arrepentido!?",
+			"date_added": 1477215018
+		},
+		{
+			"post_id": 1477239718,
+			"body": "Y quien ha probado [Bote](../darkblog.bit/lab.html?Post:161) ?\n\nParece un proyecto muy prometedor.",
+			"date_added": 1477239700
+		},
+		{
+			"post_id": 1477244040,
+			"body": "_¿Se puede hablar de paranoia despues de la publicacion de tantos documentos que informan de la actividad de espionaje en contra de la poblacion civil?_\n\nNo, por supuesto que no, pero ¿Que importa perder el control sobre nuestra intimidad por gozar de ser parte de las grandes redes sociales como Face o Twitter?",
+			"date_added": 1477244021
 		}
 	],
-	"post_like": {},
+	"post_like": {
+		"1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh_1477215035": 1477234782,
+		"1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh_1477244040": 1477244059
+	},
 	"comment": [
 		{
 			"comment_id": 1,
@@ -150,6 +168,18 @@
 			"body": "@Rapapobre: O sea no hay forma de hacer un backup o exportarlos/importarlos ?",
 			"post_uri": "1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh_1477153660",
 			"date_added": 1477173995
+		},
+		{
+			"comment_id": 12,
+			"body": "@Rapapobre: No, me referia si no hay posibilidades de exp/imp los contactos/mensajes desde/a la misma ID, pero para una nueva (re-)instalacion...\n\nEn mi caso me vi forzado a volver a instalar ZN por cuestiones de almacenaje y cambio de HDD... y entonces simplemente hice copy/paste, pero al parecer perdi TODO lo referente a 0Mail",
+			"post_uri": "1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh_1477153660",
+			"date_added": 1477243533
+		},
+		{
+			"comment_id": 13,
+			"body": "@Rapapobre: No, me referia a 0Me... he observado que algunos usuarios han eliminado sus propios contenidos... ",
+			"post_uri": "1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh_1477215035",
+			"date_added": 1477243706
 		}
 	],
 	"follow": [
@@ -1671,6 +1701,69 @@
 			"auth_address": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx",
 			"user_name": "ks",
 			"date_added": 1476893657
+		},
+		{
+			"follow_id": 220,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "121gfMsFtgVef47mbhgWE48M5zKk5Hf4Dc",
+			"user_name": "darknet2",
+			"date_added": 1477218368
+		},
+		{
+			"follow_id": 221,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "121gfMsFtgVef47mbhgWE48M5zKk5Hf4Dc",
+			"user_name": "darknet2",
+			"date_added": 1477222683
+		},
+		{
+			"follow_id": 222,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1QFcL2PapA8NuvNWeHCafHaMPJcXgmb55i",
+			"user_name": "Juansantiago",
+			"date_added": 1477234596
+		},
+		{
+			"follow_id": 223,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "163sF1Kdsd5LdpjAXDKBshdEBNJH6PUqvg",
+			"user_name": "Zeronauta",
+			"date_added": 1477234658
+		},
+		{
+			"follow_id": 224,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EZG8eDkCFvNkYxpHmr2WbGWcSxAsRfqTT",
+			"user_name": "RiotPulv",
+			"date_added": 1477234713
+		},
+		{
+			"follow_id": 225,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GucgDmfpJrHZmG6ukrM1Wjq5Cs6oXevzu",
+			"user_name": "Xeers",
+			"date_added": 1477242298
+		},
+		{
+			"follow_id": 227,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1Pg3bGXNVV9uB2HnirHFU2vaJLvmK77Dox",
+			"user_name": "Ekodjtal",
+			"date_added": 1477244436
+		},
+		{
+			"follow_id": 228,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92",
+			"user_name": "fre3net",
+			"date_added": 1477330545
+		},
+		{
+			"follow_id": 229,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92",
+			"user_name": "fre3net",
+			"date_added": 1477330660
 		}
 	],
 	"settings": {

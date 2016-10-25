@@ -1,6 +1,6 @@
 {
 	"next_post_id": 15,
-	"next_comment_id": 11,
+	"next_comment_id": 13,
 	"next_follow_id": 16,
 	"avatar": "png",
 	"user_name": "Emeraude",
@@ -118,6 +118,18 @@
 			"body": "@Emeraude: And to like it.",
 			"post_uri": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1472676561",
 			"date_added": 1472677114
+		},
+		{
+			"comment_id": 11,
+			"body": "@Barbu: A lot of french media reacted to that. There are a lot of articles like [this one](http://www.nextinpact.com/news/101786-google-fr-bloque-pour-apologie-terrorisme-orange-invoque-erreur-humaine.htm)\n@Megfault: Since this happened only one day ago, lqdn hasn't made any public reaction yet",
+			"post_uri": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1476783681",
+			"date_added": 1476832761
+		},
+		{
+			"comment_id": 12,
+			"body": "Orange responded that it was due to a human error. It has been fixed about one hour after the beginning of the \"bug\".",
+			"post_uri": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1476783681",
+			"date_added": 1476832782
 		}
 	],
 	"follow": [
@@ -169,13 +181,6 @@
 			"auth_address": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib",
 			"user_name": "megfault",
 			"date_added": 1470924121
-		},
-		{
-			"follow_id": 9,
-			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
-			"auth_address": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ",
-			"user_name": "Musickiller",
-			"date_added": 1472328678
 		},
 		{
 			"follow_id": 13,

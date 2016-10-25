@@ -1,6 +1,6 @@
 {
 	"next_post_id": 21,
-	"next_comment_id": 16,
+	"next_comment_id": 18,
 	"next_follow_id": 20,
 	"avatar": "jpg",
 	"user_name": "Eibriel",
@@ -204,6 +204,18 @@
 			"body": "You can test by yourself if the site is working using a proxy such as https://zero.acelewis.com/",
 			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1477083299",
 			"date_added": 1477273540
+		},
+		{
+			"comment_id": 16,
+			"body": "And here is an error similar to yours on ZeroNet GitHub: https://github.com/HelloZeroNet/ZeroNet/issues/513 with the following response\n\n> donwload failed for me, but probably you don't have it added as include to the root content.json, example: https://github.com/HelloZeroNet/ZeroBlog/blob/master/content.json#L142",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1477083299",
+			"date_added": 1477300815
+		},
+		{
+			"comment_id": 17,
+			"body": "@meidan: Now I can see the site, a ZeroTalk clone, but is empty",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1477083299",
+			"date_added": 1477357927
 		}
 	],
 	"follow": [
