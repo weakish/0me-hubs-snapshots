@@ -1,9 +1,18 @@
 {
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"user_name": "ulrichard",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
 		"1JARuoKjvXanUeKyPTXU9cus2jRzi4DZU5_8": 1473589441
 	},
-	"comment": []
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "I didn't try it myself yet, bus this looks promising: https://github.com/okTurtles/dnschain",
+			"post_uri": "1HsUf1vzy65nR8BsMmJwLDi6j68HYY5F9e_1477144705",
+			"date_added": 1477296283
+		}
+	],
+	"flags": {},
+	"comment_like": {}
 }
