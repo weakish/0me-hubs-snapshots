@@ -1,8 +1,8 @@
 {
-	"next_post_id": 3,
+	"next_post_id": 4,
 	"next_comment_id": 1,
-	"next_follow_id": 1,
-	"avatar": "generate",
+	"next_follow_id": 2,
+	"avatar": "jpg",
 	"user_name": "Ervin",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"intro": "Random ZeroNet user",
@@ -16,11 +16,24 @@
 			"post_id": 1477055447,
 			"body": "how to use it",
 			"date_added": 1477055445
+		},
+		{
+			"post_id": 1477446746,
+			"body": "为什么 我把家里的user.json复制到公司的电脑上，只有公司电脑上看过的site，家里的没同步过来？",
+			"date_added": 1477446743
 		}
 	],
 	"post_like": {
 		"1571aschsT4z2GPgEPfgsb9C3D27sLQH9w_1": 1477055421
 	},
 	"comment": [],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1571aschsT4z2GPgEPfgsb9C3D27sLQH9w",
+			"user_name": "Ervin",
+			"date_added": 1477446784
+		}
+	]
 }

@@ -4,14 +4,18 @@
  "cert_sign": "GwJLa2Vo9WungdJMb36KoDDg8nhgZ8t/9jwIjvcp42fz8fD+Od5vAGONu6I0s2A2ibyL18udP4VJCQwTt1OvFeg=",
  "cert_user_id": "ervin@zeroid.bit",
  "files": {
+  "avatar.jpg": {
+   "sha512": "ab92b9db971243bff9f922c23a055cf903679370d89d50c468b776671e592ee1",
+   "size": 1579
+  },
   "data.json": {
-   "sha512": "0ac79679eab5008e2f15ca072f4704d3c68bbdabda7fcb1dead3fc35587884f3",
-   "size": 483
+   "sha512": "f729dc572d575e9fbc566b6de8fa7567b73ddace9e7e8e22e25b427c6f64259d",
+   "size": 871
   }
  },
  "inner_path": "data/users/1571aschsT4z2GPgEPfgsb9C3D27sLQH9w/content.json",
- "modified": 1477055445.288,
+ "modified": 1477446807.617,
  "signs": {
-  "1571aschsT4z2GPgEPfgsb9C3D27sLQH9w": "G0TB8YOyHRZ35i8s6ncbRxdLZT5b1TMzIOzYHs68AdiacKviEQe0BR0CIe88XrpJ3/QmMiBJzOKn6ThiouwV1OI="
+  "1571aschsT4z2GPgEPfgsb9C3D27sLQH9w": "G0TbFdkJW5jTdi8Qyal0XwVZLCJuk2Bo9u5+bMfi2oq8+/QCkhSe/+DLEG7Lzr9lOQzKWj1T9X62aY5c62u6C8g="
  }
 }
