@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"settings": {
@@ -20,8 +20,16 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Eibriel: Gracias!",
+			"post_uri": "1EPLXp3NkA2e8eiNUY4toZNkHmojgKriTj_1",
+			"date_added": 1477483714
+		}
+	],
 	"follow": [],
 	"flags": {},
-	"blocked": []
+	"blocked": [],
+	"comment_like": {}
 }
