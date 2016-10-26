@@ -1,0 +1,39 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 2,
+	"next_follow_id": 3,
+	"avatar": "generate",
+	"user_name": "R3ndom",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1477531068,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1477531089,
+			"body": "Freedom is what we are fighting for !",
+			"date_added": 1477531087
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Hi Sylex, you have any ideas regarding solving the problem of timing attacks ?",
+			"post_uri": "1GuQbrHBXABgjQ89CogjKVwEcgZ5DqnYgx_1475523334",
+			"date_added": 1477532557
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 2,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1GuQbrHBXABgjQ89CogjKVwEcgZ5DqnYgx",
+			"user_name": "Sylex",
+			"date_added": 1477532516
+		}
+	]
+}
