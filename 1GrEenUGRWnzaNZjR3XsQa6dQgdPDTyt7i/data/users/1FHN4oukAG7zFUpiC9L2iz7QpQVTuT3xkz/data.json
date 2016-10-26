@@ -1,6 +1,6 @@
 {
-	"next_post_id": 22,
-	"next_comment_id": 35,
+	"next_post_id": 23,
+	"next_comment_id": 39,
 	"next_follow_id": 37,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
@@ -106,6 +106,11 @@
 			"post_id": 1477471784,
 			"body": "将文件夹设置为optional文件夹的方法\n在content.json中添加字段：`\"optional\": \"(文件夹路径/.*)\"` \n所有放在此文件夹的文件都会签名为optional文件",
 			"date_added": 1477471763
+		},
+		{
+			"post_id": 1477483081,
+			"body": "我发现假如一个帐号加了几次HUB，那么这个帐号就会有几个Hello ZeroMe！",
+			"date_added": 1477483059
 		}
 	],
 	"post_like": {
@@ -316,6 +321,30 @@
 			"body": "@Erotic: 理论上可以让任何文件成为optional files。不过由于用户发的图全都以base64的形式存在他自己的data.json里面，所以加载了data.json就会加载该用户所有的图片。\n@P2P @Nassau @weakish ",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477471784",
 			"date_added": 1477478916
+		},
+		{
+			"comment_id": 35,
+			"body": "@Treegb: 这个网站（ZeroMe）相当于客户端程序，Hub相当于服务器。客户端可以连接多个服务器",
+			"post_uri": "12zuieLqnfp1kB3iGZmThs8FJhTqDaMWyk_1477435952",
+			"date_added": 1477480010
+		},
+		{
+			"comment_id": 36,
+			"body": "@Treegb: 还不是因为大陆的审查太严格了",
+			"post_uri": "15dw2ne2hZ5wdTpg39HRq4TGiwDY3LaAH7_1477477314",
+			"date_added": 1477481497
+		},
+		{
+			"comment_id": 37,
+			"body": "@Treegb: 只是个比方。你也可以认为ZeroMe是勺子，Hub是碗。建议去GFWtalk学习一些基础知识http://127.0.0.1:43110/gfwtalk.bit",
+			"post_uri": "12zuieLqnfp1kB3iGZmThs8FJhTqDaMWyk_1477435952",
+			"date_added": 1477481958
+		},
+		{
+			"comment_id": 38,
+			"body": "@Erotic: **理论上**只需要`\"optional\": \"(data/users/*/data.json)\"`。我不确定实际上会产生什么效果",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477471784",
+			"date_added": 1477493483
 		}
 	],
 	"follow": [
