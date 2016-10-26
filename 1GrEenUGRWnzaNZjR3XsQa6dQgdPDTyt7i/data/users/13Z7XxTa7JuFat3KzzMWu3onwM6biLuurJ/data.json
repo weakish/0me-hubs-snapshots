@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 93,
+	"next_comment_id": 95,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -18,7 +18,9 @@
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477149962": 1477159482,
 		"1KRXEX6oD4HH4xwybvxnTBPW4DQm2HPdgj_1477324078": 1477407240,
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477321847": 1477407719,
-		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477308305": 1477408000
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477308305": 1477408000,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477414170": 1477446513,
+		"15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1477412617": 1477446523
 	},
 	"comment": [
 		{
@@ -572,6 +574,18 @@
 			"body": " PDF 和 ODP 你好像都没有上传成功，请用proxies验证/做种",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477308305",
 			"date_added": 1477410594
+		},
+		{
+			"comment_id": 93,
+			"body": "在官方推出迁移功能之前，我不建议自行迁移。目前我还没见到完美迁移的案例（目前的迁移都不能迁移别人在你po下的评论）",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477413647",
+			"date_added": 1477446661
+		},
+		{
+			"comment_id": 94,
+			"body": "user.json只是帐号，网站信息在sites.json，要copy那个才会有网站记录",
+			"post_uri": "1571aschsT4z2GPgEPfgsb9C3D27sLQH9w_1477446746",
+			"date_added": 1477446996
 		}
 	],
 	"flags": {},

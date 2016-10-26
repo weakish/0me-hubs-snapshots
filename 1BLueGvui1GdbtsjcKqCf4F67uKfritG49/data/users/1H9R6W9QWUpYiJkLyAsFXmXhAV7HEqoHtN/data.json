@@ -1,6 +1,6 @@
 {
-	"next_post_id": 97,
-	"next_comment_id": 89,
+	"next_post_id": 98,
+	"next_comment_id": 90,
 	"next_follow_id": 30,
 	"avatar": "jpg",
 	"user_name": "Flyman",
@@ -381,6 +381,11 @@
 			"post_id": 1477402117,
 			"body": "Russian language: gender of numbers.\nRus nouns mostly have association with one of three genders: male, female, \"the-thing\" or \"it\". For example word \"book\" \"книга\" has \"female\" gender, word \"table\" \"стол\" has \"male\" gender, word \"window\" \"окно\" has \"thing\" gender. And when you count something, you adjust number words (one, two, three, e.t.c.) to be in proper gender form. In english you do not have to bother with that, it is simple: one book, two books, one table, two tables; but in russian you modify words \"one\", \"two\" and other numbers to match a noun. Male \"one\" is \"один\", female \"one\" is \"одна\", thing \"one\" is \"одно\", so you have \"одна книга\", \"один стол\", \"одно окно\". Same thing for other numbers. And \"gender\" is only one \"dimension\" to adjust one word to another. I will think about how to describe basic rules of how words adjust to one another, which dimensions you can consider when dealing with russian words in a sentence.",
 			"date_added": 1477402021
+		},
+		{
+			"post_id": 1477467816,
+			"body": "Russian language: gender of numbers part2.\nI was thinking about it yesterday and found one important thing I didn't figure out when I was writing \"part1\". It looks like only first two numbers have gander: one and two. But number three, four and so forth have no gender. Example \"three books\" \"три книги\" and \"three tables\" \"три стола\" have same number word. But now I figured out that there 3 points in dimension of countable quantity of nouns. In english you have two: one thing, and more than one thing. It seems like in russian you have 3 groups: one thing, 2-4 things, 5 and more things. Lets check this out: 1. one book - одна книга (\"книга\" is in (one)form), 2-4. two books - две книги, three books - три книги, four books - четыре книги (\"книги\" is in (2-4)form), 5+. five books - пять книг, six books - шесть книг, hundred books - сто книг (\"книг\" is in (5+)form). It works for round numbers and for numbers from 1 to 20. \"Twenty one books\" in russian is \"двадцать одна книга\" (\"книга\" is in (one)form). You can think about it as \"**twenty** books and **one** another **book**\" sentence where you have removed unnecessary words. So now you must consider gender of noun and pick proper form of word \"one\". Word \"книга\" has female gander as many other words which ends by \"-га\": нога (leg), телега (cart), слуга (personal clerk or slave), дорога (road, way, path). Same principle applies for all other numbers. Twenty two books - двадцать две книги; same for 23 and 24, then again twenty five will be \"дватцать пять книг\". So if number ends by digit 1 you make noun to be in (one)form, if number ends by digit 2to4 - it is 2nd form, all other numbers are in 3rd form. But if number ends by digits 11to19 noun must be in 3rd form, because numbers from 11 to 19 is some kind of special and they ends by \"-дцать\".\n.1. One - один (for male), одна (for female), одно (for \"middle\" gender), одни (for multiple). Another fun thing - multiple form of word \"one\". But I think english has something like that: word \"alone\", for example \"kids were left home alone\" - \"дети остались дома одни\".\n.2. Two - два/две/два. There is no difference between \"male\" and \"middle\" gender here.\n.3. Three - три. 4. Four - четыре. 5. Five - пять. 6. Six - шесть. 7. Seven - семь. 8. Eight - восемь. 9. Nine - девять. 10. Ten - десять.\n.11-19. Compare those numbers with 1-9, pattern is almost obvious. 11. одиннадцать, 12. двенадцать, 13. тринадцать, 14. четырнадцать, 15. пятнадцать, 16. шестнадцать, 17. семнадцать, 18. восемнадцать. 19. девятнадцать.\n.10N. numbers: It is similar to 11-19 where you take basis from 1-9 and add +\"на\" and +\"дцать\" prefixes (одинадцать (11) = один (1) + на + дцать), but here you do not add \"на\" prefix - just +\"дцать\" prefix. 20. двадцать, 30. тридцать. 40. сорок (that is exception). 50. пятьдесят (it is very common to say this word like \"пидисят\", it is like english \"twony\" instead of \"twenty\"). 60. шестьдесят. 70. семьдесят. 80. восемдесят. 90 девяносто. 100. сто. Oh, from 50 to 80 you add \"-десят\" (looks like \"десять\" (10), not \"дцать\").\nP.S. Strange, I thought it will be easy to describe thing like that which seemed to be easy before I started. Now I realize I wrote lots of text and just barely \"scratched the surface\". And I am not sure I've done all correctly - \"there might be mistakes I didn't notice\" feeling I have. So, why do I do this? And why little dogs are barking and threatening big automobiles? What are they thinking? Are they just stupid? Am I Stupid? Big mystery it is, indeed! :-]",
+			"date_added": 1477467719
 		}
 	],
 	"post_like": {
@@ -857,6 +862,12 @@
 			"body": "@Militaryriotlab: Thanks, I tested those things, now I can do that.",
 			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1477384249",
 			"date_added": 1477400027
+		},
+		{
+			"comment_id": 89,
+			"body": "@Renha: It doesn't matter. What I mean is word \"пятьдесят\" is often pronounced not as \"пятьдесят\" but something much shorter. And yes, your \"пейсят\" feels like very common too. But \"писят\" looks more like \"to pee\" verb.",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1477467816",
+			"date_added": 1477470403
 		}
 	],
 	"follow": [
