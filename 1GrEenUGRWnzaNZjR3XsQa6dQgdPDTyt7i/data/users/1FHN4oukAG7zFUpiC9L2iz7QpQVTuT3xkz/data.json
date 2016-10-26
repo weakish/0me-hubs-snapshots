@@ -1,7 +1,7 @@
 {
-	"next_post_id": 21,
-	"next_comment_id": 32,
-	"next_follow_id": 36,
+	"next_post_id": 22,
+	"next_comment_id": 35,
+	"next_follow_id": 37,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -101,6 +101,11 @@
 			"post_id": 1477414170,
 			"body": "ZeroNet和BT正好相反，ZeroNet大家都是争取上传数据，而BT大家争取下载数据",
 			"date_added": 1477414150
+		},
+		{
+			"post_id": 1477471784,
+			"body": "将文件夹设置为optional文件夹的方法\n在content.json中添加字段：`\"optional\": \"(文件夹路径/.*)\"` \n所有放在此文件夹的文件都会签名为optional文件",
+			"date_added": 1477471763
 		}
 	],
 	"post_like": {
@@ -293,6 +298,24 @@
 			"body": "@Jiudichengfo: 签名后还要update",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477396823",
 			"date_added": 1477470027
+		},
+		{
+			"comment_id": 32,
+			"body": "@Treegb: 其实你可以建立你自己的Hub，只要别人下载了那个Hub就可以在这个网站看到Hub里面的信息",
+			"post_uri": "12zuieLqnfp1kB3iGZmThs8FJhTqDaMWyk_1477435952",
+			"date_added": 1477478346
+		},
+		{
+			"comment_id": 33,
+			"body": "@Cxgreat2014: jet脑袋是什么",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477318475",
+			"date_added": 1477478661
+		},
+		{
+			"comment_id": 34,
+			"body": "@Erotic: 理论上可以让任何文件成为optional files。不过由于用户发的图全都以base64的形式存在他自己的data.json里面，所以加载了data.json就会加载该用户所有的图片。\n@P2P @Nassau @weakish ",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477471784",
+			"date_added": 1477478916
 		}
 	],
 	"follow": [
@@ -533,6 +556,13 @@
 			"auth_address": "1NmwA9EFPu94QaN7yMYpzu2iSg1dGAYV6n",
 			"user_name": "Alvin 獨財者",
 			"date_added": 1477470042
+		},
+		{
+			"follow_id": 36,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1Q3xYc3P8i2WDj621HvSbfEqTP4aMLpKYU",
+			"user_name": "Rainlime",
+			"date_added": 1477479788
 		}
 	],
 	"settings": {
