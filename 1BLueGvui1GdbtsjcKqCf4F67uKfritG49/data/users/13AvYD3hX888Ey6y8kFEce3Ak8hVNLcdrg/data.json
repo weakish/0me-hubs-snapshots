@@ -1,6 +1,6 @@
 {
 	"next_post_id": 29,
-	"next_comment_id": 26,
+	"next_comment_id": 29,
 	"next_follow_id": 59,
 	"avatar": "jpg",
 	"user_name": "Dergatt",
@@ -300,6 +300,24 @@
 			"body": "@Flyman: I agree that most money doesn't go to the person actually creating the content and about your owning/loaning argument.\nBut even if the system is not the best if I like a Band author or whatever and I buy their \"creation\" I support future creation of similar works.\nDo I want that more money goes to the creator, Yes. That's why I always prefer to buy the smaller self published content if I have a choice.\nEven tho the current copyright laws are blown way out of proportion, 70 years after death of the author is way to long, I think copyright in some way is necessary.\nI'm not talking about the Anglo-American Law where copyright means right to copy and only cares about the profit.\nSpecially in France and Germany the concept of copyright is different. The work is part of the intellectual creation of the author and can't be detached from him. This way a wholesale of your creation is not possible. This way his creation can not be used out of context because it doesn't represent it in a correct way.",
 			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1476959631",
 			"date_added": 1477035195
+		},
+		{
+			"comment_id": 26,
+			"body": "@meidan: Thanks, I already did that, there is a delete button, but it's not working. There is already a github issue about that.\nSo I thought maybe it's just the UI.",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1477405408",
+			"date_added": 1477415478
+		},
+		{
+			"comment_id": 27,
+			"body": "@Eibriel: Thanks a lot that helped a lot. I thought it would be linking back to the plain files I added or downloaded.\nDo you know what is the best way to set the config dir to another path? If I use the export function it doesn't stick after a reboot and if I add it to /etc/profile it doesn't recognizances it.\nI thought about putting it on my Pi and use it for sharing files. So I would like to store them on an USB drive.",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1477405408",
+			"date_added": 1477429005
+		},
+		{
+			"comment_id": 28,
+			"body": "@Ulrichard: I looks like that what I will do in the end. But that's the easy way.\nThe hard way you learn how this stuff actually works \nAt the moment I try to set the environment for my systemd file, could be useful in the future.",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1477405408",
+			"date_added": 1477431304
 		}
 	],
 	"follow": [

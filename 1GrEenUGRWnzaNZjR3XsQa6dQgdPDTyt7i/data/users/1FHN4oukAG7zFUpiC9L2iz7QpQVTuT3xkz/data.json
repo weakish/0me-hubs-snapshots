@@ -1,7 +1,7 @@
 {
-	"next_post_id": 18,
-	"next_comment_id": 18,
-	"next_follow_id": 30,
+	"next_post_id": 21,
+	"next_comment_id": 31,
+	"next_follow_id": 35,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -86,6 +86,21 @@
 			"post_id": 1477396888,
 			"body": "挂了代理之后节点变得好多啊",
 			"date_added": 1477396871
+		},
+		{
+			"post_id": 1477411171,
+			"body": "谁又弄了个kaffieHUB？",
+			"date_added": 1477411153
+		},
+		{
+			"post_id": 1477413647,
+			"body": "我在想要不要迁移到新hub去",
+			"date_added": 1477413628
+		},
+		{
+			"post_id": 1477414170,
+			"body": "ZeroNet和BT正好相反，ZeroNet大家都是争取上传数据，而BT大家争取下载数据",
+			"date_added": 1477414150
 		}
 	],
 	"post_like": {
@@ -194,6 +209,84 @@
 			"body": "@weakish: 可以减少更新频率，禁止下载optional files",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477151239",
 			"date_added": 1477400702
+		},
+		{
+			"comment_id": 18,
+			"body": "@weakish: 刚更新，估计还没发布到你那里",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477321847",
+			"date_added": 1477406411
+		},
+		{
+			"comment_id": 19,
+			"body": "@weakish: 建议点一下update",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477321847",
+			"date_added": 1477406601
+		},
+		{
+			"comment_id": 20,
+			"body": "@Nassau: 个体的自由与发展离不开一个合理的制度",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1477153918",
+			"date_added": 1477406702
+		},
+		{
+			"comment_id": 21,
+			"body": "@weakish: 现在应该好了",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477321847",
+			"date_added": 1477407402
+		},
+		{
+			"comment_id": 22,
+			"body": "@P2P:  之前我那个nullchan汉化的示例网站能正常打开，但拉出菜单的时候就出现这个错误。删除所有用户数据，sign并update后已经解决了。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477392653",
+			"date_added": 1477408437
+		},
+		{
+			"comment_id": 23,
+			"body": "@P2P: 好主意，可是我不是程序员，不知道具体该怎么操作",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477396823",
+			"date_added": 1477408793
+		},
+		{
+			"comment_id": 24,
+			"body": "@weakish: 也许是我的UE设置有问题，打个字好花好几秒，还经常无响应",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477318475",
+			"date_added": 1477411304
+		},
+		{
+			"comment_id": 25,
+			"body": "@weakish: 难道是js/下的那三个文件夹里面的东西编译出来的？那么我是不是应该修改那些文件，然后编译成nullchan.js？",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477318475",
+			"date_added": 1477411929
+		},
+		{
+			"comment_id": 26,
+			"body": "@weakish: 另外，还有个问题：最新（0.4.1）版本的[0chan](127.0.0.1:43110/0chan.bit)不兼容chrome50及以下的版本，这给众多只用手机或者国产浏览器的小白带来了非常大的麻烦",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477321847",
+			"date_added": 1477412194
+		},
+		{
+			"comment_id": 27,
+			"body": "@weakish: 这有点超出我目前的能力范围了，我还得学习一个",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477318475",
+			"date_added": 1477412521
+		},
+		{
+			"comment_id": 28,
+			"body": "@HelloArch: 我汉化这玩意就是为了能让更多的人能建立能用optional files发图的论坛。黄色内容仅仅是为了吸引用户，因为美食不受审查，其他人宁愿在微博上发美食。zerome的贴图功能很快就上线了。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477321847",
+			"date_added": 1477413508
+		},
+		{
+			"comment_id": 29,
+			"body": "我用proxy做种的时候，要在自己这点publish，然后在proxy那点update，再访问一下文件。来回几次才成功",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477308305",
+			"date_added": 1477414440
+		},
+		{
+			"comment_id": 30,
+			"body": "@Kaffie Good job",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477411171",
+			"date_added": 1477414669
 		}
 	],
 	"follow": [
@@ -392,6 +485,41 @@
 			"auth_address": "13ak56mPXaCQC7oXYz8YWKfnkU1rRhnXuB",
 			"user_name": "Zeromux",
 			"date_added": 1477314135
+		},
+		{
+			"follow_id": 30,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF",
+			"user_name": "Woodsfirezyj",
+			"date_added": 1477406674
+		},
+		{
+			"follow_id": 31,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR",
+			"user_name": "weakish",
+			"date_added": 1477411015
+		},
+		{
+			"follow_id": 32,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "13mhHHJzVJc97KZnaAkWZbgDr3qhhJMYnd",
+			"user_name": "Chenlefu",
+			"date_added": 1477411499
+		},
+		{
+			"follow_id": 33,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1477413800
+		},
+		{
+			"follow_id": 34,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp",
+			"user_name": "HelloArch",
+			"date_added": 1477414080
 		}
 	],
 	"settings": {

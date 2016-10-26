@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 11,
+	"next_comment_id": 13,
 	"user_name": "Ulrichard",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -74,6 +74,18 @@
 			"body": "Even \"The internet of money\" by Andreas Antonopoulus is only available for Kindle. On the bright side, all books from Cory Doctorow are available as DRM free epub. But he didn't put up a BitCoin donation address yet. ",
 			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1476959631",
 			"date_added": 1477026952
+		},
+		{
+			"comment_id": 11,
+			"body": "@Dergatt: maybe a symlink? Or if there is nothing else on the USB stick, you could even mount it to ~/.ipfs",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1477405408",
+			"date_added": 1477429741
+		},
+		{
+			"comment_id": 12,
+			"body": "On another note, I wonder how much longer we have to wait for an ipfs debian package.",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1477405408",
+			"date_added": 1477429771
 		}
 	],
 	"flags": {},

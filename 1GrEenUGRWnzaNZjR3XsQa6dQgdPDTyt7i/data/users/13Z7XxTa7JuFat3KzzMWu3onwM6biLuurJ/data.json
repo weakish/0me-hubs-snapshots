@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 84,
+	"next_comment_id": 93,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -15,7 +15,10 @@
 		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476983833": 1476956931,
 		"1NVmy7v2J1aQEgja6HDSeDM8VaADP9zkpu_1": 1477136070,
 		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477181232": 1477157449,
-		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477149962": 1477159482
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477149962": 1477159482,
+		"1KRXEX6oD4HH4xwybvxnTBPW4DQm2HPdgj_1477324078": 1477407240,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477321847": 1477407719,
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477308305": 1477408000
 	},
 	"comment": [
 		{
@@ -515,6 +518,60 @@
 			"body": "ZeroMe原生支持P2P分享图片的功能，不久将会推出。因为涉及optional files功能的改进，有图片分享功能的论坛都要对应改进，才能更有前途。",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477149962",
 			"date_added": 1477159796
+		},
+		{
+			"comment_id": 84,
+			"body": "@weakish: 我看到的发帖时间也是这个，如果这是po主的真实发帖时间，那么po主的系统时间终于正常了",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477369336",
+			"date_added": 1477407423
+		},
+		{
+			"comment_id": 85,
+			"body": "还有问题吗？具体说说情况",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477392653",
+			"date_added": 1477407465
+		},
+		{
+			"comment_id": 86,
+			"body": "那么大的JS文件应该是放进了很多库，你把不是库的部分复制出来编辑，应该不会卡死。最后再整合到一起。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477396823",
+			"date_added": 1477407677
+		},
+		{
+			"comment_id": 87,
+			"body": "你这条po里的hashtag在ZeroMePlus里识别正常，其他的po不行，很奇怪。好像是井号前面不能有回车",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477313912",
+			"date_added": 1477408200
+		},
+		{
+			"comment_id": 88,
+			"body": "@MilitaryRiotLab: 其实是zerowiki本身代码问题。按照zeronet作者的设想，不用贴相对路径，所有的zite都应该能自动转换链接兼容proxy。贴相对路径反而是作者反对的。  @Rainlime",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477308305",
+			"date_added": 1477409732
+		},
+		{
+			"comment_id": 89,
+			"body": "@Chenlefu: 你要成老司机啦",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477286940",
+			"date_added": 1477409873
+		},
+		{
+			"comment_id": 90,
+			"body": "@猫叉酱: 你去看weakish在你前几po的评论",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477396823",
+			"date_added": 1477409997
+		},
+		{
+			"comment_id": 91,
+			"body": " Virtualbox 的硬件时钟问题，具体是怎么解决的？留给后人参考",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477308305",
+			"date_added": 1477410205
+		},
+		{
+			"comment_id": 92,
+			"body": " PDF 和 ODP 你好像都没有上传成功，请用proxies验证/做种",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477308305",
+			"date_added": 1477410594
 		}
 	],
 	"flags": {},

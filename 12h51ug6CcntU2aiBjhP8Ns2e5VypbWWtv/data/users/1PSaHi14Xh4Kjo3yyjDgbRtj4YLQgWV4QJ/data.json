@@ -1,6 +1,6 @@
 {
-	"next_post_id": 39,
-	"next_comment_id": 28,
+	"next_post_id": 40,
+	"next_comment_id": 29,
 	"next_follow_id": 77,
 	"avatar": "jpg",
 	"user_name": "ulrichard",
@@ -196,6 +196,11 @@
 			"post_id": 1477295315,
 			"body": "No surprise when you consider who owns linkedin.\nhttps://thestack.com/security/2016/10/06/linkedin-accesses-gmail-contacts-via-auto-authorization/",
 			"date_added": 1477295277
+		},
+		{
+			"post_id": 1477429519,
+			"body": "Does somebody here have experience in packaging python projects? I would like to package zeronet for debian. But usually I take the python stuff directly from pypi, and they have working distutils setup.py files. \nI tried to create a setup.py file myself, but the resulting package is missing lots of source files. \nhttps://github.com/HelloZeroNet/ZeroNet/issues/417",
+			"date_added": 1477429480
 		}
 	],
 	"post_like": {
@@ -363,6 +368,12 @@
 			"body": "@Durand: Could this be the same as mentioned here: \n\n[ZeroMe thought experiment](/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/?Profile/1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i/1QH1N2BcCN6bQu1J98yUovsnnkvHn8TKhC/enoch@zeroid.bit)\n\nhttps://bugzilla.mozilla.org/show_bug.cgi?id=1293316",
 			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1476893197",
 			"date_added": 1477375846
+		},
+		{
+			"comment_id": 28,
+			"body": "A year or so ago, I read an article about a guy who placed an invisible linkedin widget on his page. That enabled him to know every visitor who was logged into linkedin on the same browser. Since then I usually log out from most services immediately after I'm done.",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1477295315",
+			"date_added": 1477430100
 		}
 	],
 	"follow": [

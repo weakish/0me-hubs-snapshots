@@ -1,6 +1,6 @@
 {
 	"next_post_id": 21,
-	"next_comment_id": 18,
+	"next_comment_id": 19,
 	"next_follow_id": 20,
 	"avatar": "jpg",
 	"user_name": "Eibriel",
@@ -216,6 +216,12 @@
 			"body": "@meidan: Now I can see the site, a ZeroTalk clone, but is empty",
 			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1477083299",
 			"date_added": 1477357927
+		},
+		{
+			"comment_id": 18,
+			"body": "1. -\n2. You can `ipfs pin add` the files you want to share forever, and `ipfs pin rm` files that you want to be eventually deleted from your cache. You can only `unpin` files you pined first.\n\n3. In my case is `~/.ipfs/`, but there are no files, only blocks.\n\n4. Yes, immediately.",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1477405408",
+			"date_added": 1477420557
 		}
 	],
 	"follow": [

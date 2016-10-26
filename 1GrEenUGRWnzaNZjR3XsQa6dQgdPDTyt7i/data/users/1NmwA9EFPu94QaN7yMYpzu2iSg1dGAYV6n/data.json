@@ -1,28 +1,58 @@
 {
 	"next_post_id": 5,
-	"next_comment_id": 1,
-	"next_follow_id": 4,
+	"next_comment_id": 2,
+	"next_follow_id": 7,
 	"avatar": "jpg",
 	"user_name": "Alvin 獨財者",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"intro": "http://127.0.0.1:43110/yangleitj.bit\nhttp://127.0.0.1:43110/btsynchina.bit",
+	"intro": "本是后山人， 偶做前堂客。\n醉舞经阁半卷书， 坐井说天阔。\n大志戏功名， 海斗量福祸。\n论到囊中羞涩时，怒指乾坤错。\nyangleitj.com\nyangleitj.bit",
 	"post": [],
 	"post_like": {},
-	"comment": [],
-	"follow": [
+	"comment": [
 		{
-			"follow_id": 1,
-			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-			"auth_address": "1NmwA9EFPu94QaN7yMYpzu2iSg1dGAYV6n",
-			"user_name": "Yangleitjbit",
-			"date_added": 1472677298
-		},
+			"comment_id": 1,
+			"body": "总结的太精辟了！",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477414170",
+			"date_added": 1477421512
+		}
+	],
+	"follow": [
 		{
 			"follow_id": 3,
 			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 			"auth_address": "1HJJEDiEo7ghxbpdDzXHFVv4gtrb53cUAu",
 			"user_name": "Maomihz",
 			"date_added": 1475774656
+		},
+		{
+			"follow_id": 4,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz",
+			"user_name": "猫叉酱",
+			"date_added": 1477421479
+		},
+		{
+			"follow_id": 5,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1NmwA9EFPu94QaN7yMYpzu2iSg1dGAYV6n",
+			"user_name": "Alvin 獨財者",
+			"date_added": 1477421629
+		},
+		{
+			"follow_id": 6,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1NVmy7v2J1aQEgja6HDSeDM8VaADP9zkpu",
+			"user_name": "BTSynChina.bit中文资源分享",
+			"date_added": 1477421640
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }

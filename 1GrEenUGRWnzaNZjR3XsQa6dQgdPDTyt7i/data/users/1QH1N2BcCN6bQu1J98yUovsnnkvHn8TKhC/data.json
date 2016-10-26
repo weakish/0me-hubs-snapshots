@@ -1,6 +1,6 @@
 {
 	"next_post_id": 4,
-	"next_comment_id": 1,
+	"next_comment_id": 3,
 	"next_follow_id": 11,
 	"avatar": "png",
 	"user_name": "Enoch",
@@ -24,7 +24,20 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Renha: It's a start. Cody Wilson's is still being threatened (in litigation) by the State department for a design that has long since gone to Timbuktu and back (underscoring the futility of gun control).",
+			"post_uri": "1QH1N2BcCN6bQu1J98yUovsnnkvHn8TKhC_1477368239",
+			"date_added": 1477407970
+		},
+		{
+			"comment_id": 2,
+			"body": "@Flyman: I think you are talking about relationships, I am talking about governments. Good, functional, relationships...particularly parent to child is something that could reduce the propensity for people to bow to the authoritarian state. Let me know when your article is up.",
+			"post_uri": "1QH1N2BcCN6bQu1J98yUovsnnkvHn8TKhC_1477368354",
+			"date_added": 1477413800
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 1,
