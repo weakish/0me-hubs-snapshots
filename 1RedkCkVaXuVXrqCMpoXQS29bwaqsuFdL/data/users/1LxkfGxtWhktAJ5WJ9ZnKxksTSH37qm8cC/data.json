@@ -1,5 +1,5 @@
 {
-	"next_post_id": 32,
+	"next_post_id": 33,
 	"next_comment_id": 18,
 	"next_follow_id": 12,
 	"avatar": "generate",
@@ -156,6 +156,11 @@
 			"post_id": 1477272835,
 			"body": "I realized that, [ZeroMux](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/) is too difficult to use for people who want to share files but don't know much programming. To make ZeroMux simpler, I came up with some ideas to be implemented:\n\n- Create a link to download all necessary tools rather than telling people to find the site folder.\n- Write a Python program to help people split files and configure ZeroMux without having to write a line of code.\n- Create a permanent link for every big file.",
 			"date_added": 1477272804
+		},
+		{
+			"post_id": 1477508606,
+			"body": "Hello Everyone,\n\nPlease help us to raise Mozilla's awareness of [this Firefox IFrame bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1293316).\n\nThis bug stops you from downloading files in a sandbox iframe.\n\nTake a screenshot of the error dialog appeared in this page: http://127.0.0.1:43110/1GaZYNPuLFN9KPz3nVAs2tojwiJjyGuA1Q/thankU.html\nor this page:\nhttp://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/firefox.html\n\nand point Mozilla's developers to these URLs:\nhttps://bit.no.com:43110/1GaZYNPuLFN9KPz3nVAs2tojwiJjyGuA1Q/thankU.html\nhttps://bit.no.com:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/firefox.html",
+			"date_added": 1477508574
 		}
 	],
 	"post_like": {
