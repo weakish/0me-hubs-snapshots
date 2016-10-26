@@ -148,7 +148,7 @@
 		},
 		{
 			"post_id": 1477475052,
-			"body": "My IPFS daemon is now running properly and links to a repository on my second HDD.\nUsing systemd and running ipfs as a user you have to edit `/etc/systemd/user.conf`\nuncomment and change following line\n`DefaultEnvironment=\"IPFS_PATH=path to your repository\"`.\nNext stop getting it working with the ipfs command.",
+			"body": "My IPFS daemon is now running properly and links to a repository on my second HDD.\nUsing systemd and running ipfs as a user you have to edit `/etc/systemd/user.conf`\nuncomment and change following line\n`DefaultEnvironment=\"IPFS_PATH=path to your repository\"`.\nNext stop getting it working with the ipfs command.\n\nIt looks like this also stets the environment, since this change the normal ipfs command reveres to the right path. Even if the daemon isn't running.",
 			"date_added": 1477475023
 		}
 	],
