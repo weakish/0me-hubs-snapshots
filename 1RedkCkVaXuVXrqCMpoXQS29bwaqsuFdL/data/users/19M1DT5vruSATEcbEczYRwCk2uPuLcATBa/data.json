@@ -1,7 +1,7 @@
 {
 	"next_post_id": 59,
-	"next_comment_id": 179,
-	"next_follow_id": 26,
+	"next_comment_id": 181,
+	"next_follow_id": 27,
 	"avatar": "png",
 	"user_name": "Talnicrom",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -1050,6 +1050,18 @@
 			"body": "@P2P: I wanted to give users a way to distinguish between posts that were irrelevant and gratuitous, like too many affiliate links, and posts that are really awful, like personal threats.",
 			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474917630",
 			"date_added": 1475547713
+		},
+		{
+			"comment_id": 179,
+			"body": "To merge two files users1.json and users2.json, first create a new file users3.json.  Now, copy the contents of users1.json into users3.json.  Delete the last `}`.  There will be another `}` on the line above.  Add a comma just after it: `},`.  Next, add the contents of users2.json (which begins with a `}` to the end of users3.json.  Delete that first `}` that I just mentioned.  Rename users3.json to users.json and put it in you ZeroNet data directory.  ",
+			"post_uri": "137PNA5gLgCTLZTBtzUqCmMoZ752NQGQSJ_1477514421",
+			"date_added": 1477516644
+		},
+		{
+			"comment_id": 180,
+			"body": "To use the UserSwitcher, you have to add `\"show_in_multi\": true,` to each user node.  User nodes in users.json have the structure `\"ADDRESS\" : { stuff }`, where stuff is a comma separated list of key-value pairs.  You can simply change the above to `\"ADDRESS\": { \"show_in_multi\": true, stuff }`.  Note: ADDRESS is just a placeholder and will be the user master address in your actual file.",
+			"post_uri": "137PNA5gLgCTLZTBtzUqCmMoZ752NQGQSJ_1477514421",
+			"date_added": 1477516826
 		}
 	],
 	"follow": [
@@ -1152,13 +1164,6 @@
 			"date_added": 1471886900
 		},
 		{
-			"follow_id": 19,
-			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
-			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
-			"user_name": "Talnicrom",
-			"date_added": 1471890237
-		},
-		{
 			"follow_id": 20,
 			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 			"auth_address": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx",
@@ -1199,6 +1204,13 @@
 			"auth_address": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u",
 			"user_name": "Lola",
 			"date_added": 1475026115
+		},
+		{
+			"follow_id": 26,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1476192003
 		}
 	],
 	"comment_order": 1,
