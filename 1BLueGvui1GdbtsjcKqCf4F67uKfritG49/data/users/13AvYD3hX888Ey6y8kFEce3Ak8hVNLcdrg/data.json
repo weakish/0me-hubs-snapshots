@@ -1,5 +1,5 @@
 {
-	"next_post_id": 29,
+	"next_post_id": 30,
 	"next_comment_id": 30,
 	"next_follow_id": 59,
 	"avatar": "jpg",
@@ -145,6 +145,11 @@
 			"post_id": 1477405408,
 			"body": "Who here is using #ipfs and can answer some of my questions?\n1. How can I see which files I actually share?\n1. How can I unshare a file?\n2. How can I see the path were these files are located on my machine?\n3. If I ipfs get a file Do I automatically share it if I have the daemon running?",
 			"date_added": 1477405380
+		},
+		{
+			"post_id": 1477475052,
+			"body": "My IPFS daemon is now running properly and links to a repository on my second HDD.\nUsing systemd and running ipfs as a user you have to edit `/etc/systemd/user.conf`\nuncomment and change following line\n`DefaultEnvironment=\"IPFS_PATH=path to your repository\"`.\nNext stop getting it working with the ipfs command.",
+			"date_added": 1477475023
 		}
 	],
 	"post_like": {
@@ -321,7 +326,7 @@
 		},
 		{
 			"comment_id": 29,
-			"body": "@meidan: The ´ipfs pin rm´ command is the delete command.\nAnd yea this would be some nice features.",
+			"body": "@meidan: The `ipfs pin rm` command is the delete command.\nAnd yea this would be some nice features.",
 			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1477405408",
 			"date_added": 1477465989
 		}

@@ -1,9 +1,9 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 1,
-	"next_follow_id": 2,
-	"avatar": "generate",
-	"user_name": "Madbid",
+	"next_comment_id": 2,
+	"next_follow_id": 3,
+	"avatar": "jpg",
+	"user_name": "AbouYasir",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"intro": "Random ZeroNet user",
 	"post": [
@@ -19,6 +19,13 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Flyman: yes",
+			"post_uri": "1LPe2GNAVSgjLVp8jJdUbs9jei1GG2KtKi_1477472015",
+			"date_added": 1477474596
+		}
+	],
 	"follow": []
 }

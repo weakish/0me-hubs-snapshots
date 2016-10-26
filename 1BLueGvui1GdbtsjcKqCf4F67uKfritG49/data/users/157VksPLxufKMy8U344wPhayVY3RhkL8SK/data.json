@@ -1,16 +1,21 @@
 {
-	"next_post_id": 2,
+	"next_post_id": 3,
 	"next_comment_id": 2,
-	"next_follow_id": 1,
-	"avatar": "generate",
-	"user_name": "lonely",
+	"next_follow_id": 2,
+	"avatar": "jpg",
+	"user_name": "怡红院",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
-	"intro": "Random ZeroNet user",
+	"intro": "我们的网址是:yihongyuan.bit",
 	"post": [
 		{
 			"post_id": 1,
 			"date_added": 1477281240,
 			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1477474380,
+			"body": "零网情色社区“怡红院”，无限上传图片，用户发言量无限，欢迎你来查找、贡献资源：http://127.0.0.1:43110/yihongyuan.bit",
+			"date_added": 1477474378
 		}
 	],
 	"post_like": {},
@@ -22,5 +27,13 @@
 			"date_added": 1477281314
 		}
 	],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "157VksPLxufKMy8U344wPhayVY3RhkL8SK",
+			"user_name": "怡红院",
+			"date_added": 1477474409
+		}
+	]
 }

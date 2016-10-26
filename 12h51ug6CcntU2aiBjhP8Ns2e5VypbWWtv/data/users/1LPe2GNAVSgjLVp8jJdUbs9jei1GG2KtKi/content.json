@@ -4,14 +4,18 @@
  "cert_sign": "HB+1ejgwqTvxO1Wr8NPtLnXkT4abMsAXpn0eoOBAjPWWHOv1xBbJkuucBlbRzgHRQs6nJHhwXWv1ucCrD+w+3f0=",
  "cert_user_id": "madbid@zeroid.bit",
  "files": {
+  "avatar.jpg": {
+   "sha512": "5566c64d658788f0deadcb3c87f7330088f585a4b6234d3c43c367bc0cf00a11",
+   "size": 1488
+  },
   "data.json": {
-   "sha512": "4e384f0b45d88309c4dc1159bdbb633d3759a06710a176efa61948916319595d",
-   "size": 431
+   "sha512": "48d4c5765756a0427d6b180a67c3b02dcf80083b996de3f80bcaba0d99424683",
+   "size": 578
   }
  },
  "inner_path": "data/users/1LPe2GNAVSgjLVp8jJdUbs9jei1GG2KtKi/content.json",
- "modified": 1477472089.874692,
+ "modified": 1477475072.531526,
  "signs": {
-  "1LPe2GNAVSgjLVp8jJdUbs9jei1GG2KtKi": "G3Tb/RwwVssxMqcNS9igq7r0ltfnElkTnouVM37R4Z21lefpKdubYshbSv1gwx+Xeiez5pQ9QcUEzp8IG9+czbo="
+  "1LPe2GNAVSgjLVp8jJdUbs9jei1GG2KtKi": "G3Etw3MHfr9gKldI99ieg5tLaHr2B+pwp2yrEvQrL9IXl2TXGjV4Ii0pUUnn1TjuHTF1/FliFipWcmHwpMeX6+A="
  }
 }
