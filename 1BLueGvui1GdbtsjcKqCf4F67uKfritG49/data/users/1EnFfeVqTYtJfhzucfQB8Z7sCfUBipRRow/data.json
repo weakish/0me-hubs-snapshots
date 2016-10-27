@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 41,
+	"next_comment_id": 42,
 	"user_name": "Militaryriotlab",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {
@@ -253,6 +253,12 @@
 			"body": "@Flyman: It's a markdown syntax\n** \\*\\*bold\\*\\* **\n[\\[link\\]\\(http://to-somewhere\\)](http://to-somewhere)\n> \\> Quote\n`highlight (code)`\n* \\* List",
 			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1477384249",
 			"date_added": 1477396999
+		},
+		{
+			"comment_id": 41,
+			"body": "add `127.0.0.1 whatever-hostname-you-like` to /etc/hosts and change zeronet port to 80",
+			"post_uri": "18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6_1477540555",
+			"date_added": 1477548376
 		}
 	],
 	"flags": {},
