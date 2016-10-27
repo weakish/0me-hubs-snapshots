@@ -1,5 +1,5 @@
 {
-	"next_post_id": 6,
+	"next_post_id": 7,
 	"next_comment_id": 15,
 	"next_follow_id": 23,
 	"avatar": "jpg",
@@ -31,6 +31,11 @@
 			"post_id": 1477267245,
 			"body": "I created an Arch Linux wiki entry for ZeroNet. Let me know if it needs any corrections. https://wiki.archlinux.org/index.php/ZeroNet",
 			"date_added": 1477267240
+		},
+		{
+			"post_id": 1477580069,
+			"body": "What is the right way to stay anonymous on ZeroNet? Obviously use only Tor to post content, but what about registering an ID?\n\nShould I not use ZeroID? Should I use ZeroVerse instead? There is also  [Nanasi](/16KzwuSAjFnivNimSHuRdPrYd1pNPhuHqN). How does Nanasi and ZeroVerse make my ID more anonymous.\n\nI have been reading [ZeroSecurity](/zerosecurity.bit/) which is very interesting, but I don't fully understand all the fixes or if the issue are up-to-date.\n\nDoes anyone have any tips?",
+			"date_added": 1477580063
 		}
 	],
 	"post_like": {
