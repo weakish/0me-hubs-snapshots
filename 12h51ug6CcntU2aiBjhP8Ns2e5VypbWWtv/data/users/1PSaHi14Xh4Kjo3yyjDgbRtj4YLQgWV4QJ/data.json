@@ -1,5 +1,5 @@
 {
-	"next_post_id": 40,
+	"next_post_id": 43,
 	"next_comment_id": 30,
 	"next_follow_id": 77,
 	"avatar": "jpg",
@@ -201,6 +201,21 @@
 			"post_id": 1477429519,
 			"body": "Does somebody here have experience in packaging python projects? I would like to package zeronet for debian. But usually I take the python stuff directly from pypi, and they have working distutils setup.py files. \nI tried to create a setup.py file myself, but the resulting package is missing lots of source files. \nhttps://github.com/HelloZeroNet/ZeroNet/issues/417",
 			"date_added": 1477429480
+		},
+		{
+			"post_id": 1477548644,
+			"body": "Attended another great talk from Andreas.\nhttp://www.meetup.com/Zurich-Blockchain-Meetup/events/233058629/ \nVideo coming soon\nhttp://bitcoinlectures.tv/\n",
+			"date_added": 1477548604
+		},
+		{
+			"post_id": 1477551596,
+			"body": "Divorced by apple:\nhttps://wp.josh.com/2016/10/26/divorced-by-apple-in-california/",
+			"date_added": 1477551555
+		},
+		{
+			"post_id": 1477573679,
+			"body": "https://www.eff.org/deeplinks/2016/10/samsung-sets-its-reputation-fire-bogus-dmca-takedown-notices",
+			"date_added": 1477573637
 		}
 	],
 	"post_like": {

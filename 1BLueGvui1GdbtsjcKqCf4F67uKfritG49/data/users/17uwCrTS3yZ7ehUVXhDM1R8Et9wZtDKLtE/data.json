@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 1,
 	"avatar": "jpg",
 	"user_name": "IneffablePower",
@@ -16,6 +16,13 @@
 	"post_like": {
 		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1477476871": 1477485442
 	},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Bravo: Doing quite well thank you.  Are there any good ZeroNet resources to get me started in my explorations that you know of?",
+			"post_uri": "17uwCrTS3yZ7ehUVXhDM1R8Et9wZtDKLtE_1",
+			"date_added": 1477576434
+		}
+	],
 	"follow": []
 }
