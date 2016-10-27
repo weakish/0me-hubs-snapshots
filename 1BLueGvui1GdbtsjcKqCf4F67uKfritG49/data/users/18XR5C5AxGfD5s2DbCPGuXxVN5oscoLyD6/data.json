@@ -1,6 +1,6 @@
 {
-	"next_post_id": 8,
-	"next_comment_id": 6,
+	"next_post_id": 10,
+	"next_comment_id": 7,
 	"next_follow_id": 8,
 	"avatar": "jpg",
 	"user_name": "Border0464fred",
@@ -41,12 +41,24 @@
 			"post_id": 1476376397,
 			"body": "http://tiddlywiki.com/ does this project could suit for #zeronet ? ",
 			"date_added": 1476376390
+		},
+		{
+			"post_id": 1477540208,
+			"body": "http://ici.radio-canada.ca/regions/abitibi/2016/10/25/010-fibre-optique-hydro-quebec-internet-reqions-quebec.shtml\n\n#  #quebec #canada #francophone",
+			"date_added": 1477540200
+		},
+		{
+			"post_id": 1477540555,
+			"body": " # #zeronet #linux \n\nIs there a way to edit my /etc/hosts  have fancy URL for zeronet \n\nlike  http://z/1Lj1oPnblablabla...\ninstead of 127.0.0.1:43110/1Lj1oPnblablabla...\n",
+			"date_added": 1477540546
 		}
 	],
 	"post_like": {
 		"18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6_1475245002": 1475245007,
 		"1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1475788508": 1475802676,
-		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1476258990": 1476376751
+		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1476258990": 1476376751,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1476856825": 1477444542,
+		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1477476871": 1477540018
 	},
 	"comment": [
 		{
@@ -78,6 +90,12 @@
 			"body": "\"Hans-Hermann Hoppe is a German-born American Austrian School economist, and libertarian/anarcho-capitalist philosopher. \" he donsen't look much frenchy to me",
 			"post_uri": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1475753274",
 			"date_added": 1475803030
+		},
+		{
+			"comment_id": 6,
+			"body": "he buffer overflow and crash. ",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1477476871",
+			"date_added": 1477540047
 		}
 	],
 	"follow": [
@@ -133,6 +151,8 @@
 	"blocked": [],
 	"flags": {},
 	"comment_like": {
-		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_31": 1475260010
+		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_31": 1475260010,
+		"1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_18": 1477540588,
+		"1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_78": 1477540589
 	}
 }
