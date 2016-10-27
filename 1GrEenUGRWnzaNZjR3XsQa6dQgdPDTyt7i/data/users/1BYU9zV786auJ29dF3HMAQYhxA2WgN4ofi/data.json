@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 36,
+	"next_comment_id": 39,
 	"user_name": "Eibriel",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {
@@ -226,6 +226,24 @@
 			"body": "Oooohhh!!! Welcome to ZeroMe!!",
 			"post_uri": "1A3iCjL2ePzzXgjcerXhHW7GGWXc6eV6r1_1477541230",
 			"date_added": 1477556561
+		},
+		{
+			"comment_id": 36,
+			"body": "Mmm, no que yo sepa, habría que ver si alguien hizo algo así usando WebTorrent ...\n**Is it possible to do live streaming with WebTorrent?**\n\n> WebTorrent cannot do live streaming out-of-the-box, however you can build a live streaming solution on top of WebTorrent.\n\n> Torrents are immutable. That means that once a torrent file is created, it cannot be changed without changing the info hash. So, how could one get around this limitation?\n\n> A naive approach would be this: The content producer could take every 10 seconds of live content and create a torrent for it. Viewers would follow this \"feed\" of torrent files (or info hashes) and download the content sequentially. Streamers would be around 10-20 seconds behind the live stream.\n\n> This approach can definitely be improved, though! Why not give that a shot yourself and share the code?",
+			"post_uri": "1QFcL2PapA8NuvNWeHCafHaMPJcXgmb55i_1477572929",
+			"date_added": 1477590823
+		},
+		{
+			"comment_id": 37,
+			"body": "Welcome Lemming!!",
+			"post_uri": "1LAsBBmqnyVwMcqqshZdFN5H9LPdgc9v3W_1",
+			"date_added": 1477598147
+		},
+		{
+			"comment_id": 38,
+			"body": "Never",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1477584227",
+			"date_added": 1477598169
 		}
 	]
 }
