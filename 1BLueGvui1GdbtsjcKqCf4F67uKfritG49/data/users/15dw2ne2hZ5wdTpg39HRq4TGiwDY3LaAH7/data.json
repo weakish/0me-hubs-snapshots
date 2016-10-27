@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 2,
+	"next_comment_id": 3,
 	"user_name": "Treegb",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {},
@@ -9,6 +9,12 @@
 			"body": "I don't know veracrypt but if you use linux you can chose cryptsetup too. Don't use truecrypt it has license problem thus \"not safe\".",
 			"post_uri": "1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1477526232",
 			"date_added": 1477562398
+		},
+		{
+			"comment_id": 2,
+			"body": "I just take a look with VeraCrypt lincense :\n{{VeraCrypt is multi-licensed under Apache License 2.0 and\nthe TrueCrypt License version 3.0, a verbatim copy of both\nlicenses can be found below.}}\n\nI don't consider this as open source, Truecrypt make his own license instead picking from current one.\nBut it's ok if you don't care about license, your data have no related with that.",
+			"post_uri": "1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1477526232",
+			"date_added": 1477566643
 		}
 	]
 }
