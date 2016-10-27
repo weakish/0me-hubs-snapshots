@@ -1,6 +1,6 @@
 {
 	"next_post_id": 23,
-	"next_comment_id": 22,
+	"next_comment_id": 23,
 	"next_follow_id": 21,
 	"avatar": "jpg",
 	"user_name": "Eibriel",
@@ -250,9 +250,15 @@
 		},
 		{
 			"comment_id": 21,
-			"body": "Yes, Is working!\n\nYou don't need to be constrained to the size limits of ZeroMe, you can use IPFS, for instance on [this post](/1EMcXwk7qQdY3pbj86A98gZHjDBNRrscdL/?Post:32:Blender+Institute+Podcast+041+-+Micropolygons) I've uploaded an entire Blender Institute podcast.\n\nCode:\n```\n<audio controls>\n  <source src=\"https://gateway.ipfs.io/ipfs/QmSoZN6vPuDsLJpJBv25MQZAeb1aPgD5TD5raUdLWZdGVW\" type=\"audio/ogg\">\n  <source src=\"https://gateway.ipfs.io/ipfs/QmbCBz6hLkgadk34YHpUWkDUcLHgN2SZ41kcfj73VEAiBE\" type=\"audio/mpeg\">\nYour browser does not support the audio element.\n</audio>\n```",
+			"body": "Yes, Is working!\n\nYou don't need to be constrained to the size limits of ZeroMe, you can use IPFS, for instance on [this post](/1EMcXwk7qQdY3pbj86A98gZHjDBNRrscdL/?Post:32:Blender+Institute+Podcast+041+-+Micropolygons) I've uploaded an entire Blender Institute podcast.\n\nI've uploaded the ogg file: https://gateway.ipfs.io/ipfs/Qmac2w8b2eT6iud6h4BEn4AXek56BQKbSGLKJgas7piffp\n\nCode (-edited- now it points to your file):\n```\n<audio controls>\n  <source src=\"https://gateway.ipfs.io/ipfs/Qmac2w8b2eT6iud6h4BEn4AXek56BQKbSGLKJgas7piffp\" type=\"audio/ogg\">\nYour browser does not support the audio element.\n</audio>\n```",
 			"post_uri": "1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp_1477519411",
 			"date_added": 1477526057
+		},
+		{
+			"comment_id": 22,
+			"body": "The same goes for pictures: https://gateway.ipfs.io/ipfs/QmW7kgk2nXu91UcCgzDLHRh8H3QCwGBbWnQsxKeHHs5ZC1",
+			"post_uri": "1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp_1477519411",
+			"date_added": 1477526641
 		}
 	],
 	"follow": [

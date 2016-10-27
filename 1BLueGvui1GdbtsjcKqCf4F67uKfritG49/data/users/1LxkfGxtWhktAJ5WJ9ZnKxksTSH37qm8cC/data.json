@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 14,
+	"next_comment_id": 15,
 	"user_name": "Firebox",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -84,6 +84,12 @@
 			"body": "@ks: That's why we are looking for peer caching and DHT support.",
 			"post_uri": "1ACc4pa2pJam33SkSE1zF1seF3LQKWR24v_1477071704",
 			"date_added": 1477121377
+		},
+		{
+			"comment_id": 14,
+			"body": "If you want to transfer even larger files within ZeroNet, you can use [ZeroMux](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/docs/), though it is not practical to make a site very big.",
+			"post_uri": "1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp_1477519411",
+			"date_added": 1477527145
 		}
 	]
 }
