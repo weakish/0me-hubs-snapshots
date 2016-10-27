@@ -2,7 +2,7 @@
 	"next_post_id": 2,
 	"next_comment_id": 1,
 	"next_follow_id": 1,
-	"avatar": "generate",
+	"avatar": "png",
 	"user_name": "Ling0",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"intro": "Random ZeroNet user",
@@ -13,7 +13,18 @@
 			"body": "Hello ZeroMe!"
 		}
 	],
-	"post_like": {},
+	"post_like": {
+		"1FUvBnNvrWehrnfPXfVQg9ts3oTUqkjUef_1477605530": 1477605559
+	},
 	"comment": [],
-	"follow": []
+	"follow": [],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }
