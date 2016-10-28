@@ -1,5 +1,5 @@
 {
-	"next_post_id": 11,
+	"next_post_id": 12,
 	"next_comment_id": 10,
 	"next_follow_id": 13,
 	"avatar": "jpg",
@@ -56,6 +56,11 @@
 			"post_id": 1477683178,
 			"body": "Para crear una página estática en zeronet, ademas de colmar un blog y quitarle todo  el resto ¿como se puede hacer? :)",
 			"date_added": 1477683168
+		},
+		{
+			"post_id": 1477685291,
+			"body": "zerome y zeromi+ comparten base de datos, pero, ¿en que se diferencian?",
+			"date_added": 1477685280
 		}
 	],
 	"post_like": {
@@ -204,5 +209,14 @@
 			"user_name": "Puppetmaster",
 			"date_added": 1477460732
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }
