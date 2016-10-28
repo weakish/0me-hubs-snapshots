@@ -4,14 +4,18 @@
  "cert_sign": "HJxuCDyBXdOHFUnFtPK7GRR/jwjXcuFep3s0JXwEN4CIJv9nNpbMkwxhD8nlj8pTE1p6mY8Cx7yxsKxow3bVFJM=",
  "cert_user_id": "hexagon@zeroid.bit",
  "files": {
+  "avatar.png": {
+   "sha512": "0fc12f8b1a2faa2c31ebfb3c2631145a50401bd70815b24877f5dc60f8aa07fa",
+   "size": 1384
+  },
   "data.json": {
-   "sha512": "3102d9913cb6282cf38eab99d47e219a34ad1402c64787a323b6f6d1c1bdb2b2",
-   "size": 17192
+   "sha512": "31367d7d0881c52690095cdd2cbdda1bb89b801585243c11d9514735522b4bdf",
+   "size": 20469
   }
  },
  "inner_path": "data/users/1AxLMGKjSdsL3Sxa2x1WHJmoap3Z93YdCm/content.json",
- "modified": 1477644194.880038,
+ "modified": 1477660486.215725,
  "signs": {
-  "1AxLMGKjSdsL3Sxa2x1WHJmoap3Z93YdCm": "HHzwFfT/vGtDVALUGeIiTTElmiwZmPGWckYhyfTMFwAqoI5hE5yCZe77zTofyHK8/2hy9PdKERCTwKdIngc3yv4="
+  "1AxLMGKjSdsL3Sxa2x1WHJmoap3Z93YdCm": "GytsW9b6X4bfEyDBY6ql5YGJFvprGk6sQkF1NgDzC1QPg3f5FZ7+UxM9MMTjQERJEpMQemsln6GkUj1zdHBFuWw="
  }
 }
