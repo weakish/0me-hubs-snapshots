@@ -1,11 +1,11 @@
 {
-	"next_post_id": 12,
+	"next_post_id": 13,
 	"next_comment_id": 55,
 	"next_follow_id": 14,
 	"avatar": "png",
 	"user_name": "PaintNinja",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
-	"intro": "[NinjaBeats](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/)",
+	"intro": "Author of ZeroNet's first decentralised music streaming service called \"NinjaBeats\".\n- [General info (slightly outdated)](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/)\n- [NinjaBeats streamer](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html)",
 	"post": [
 		{
 			"post_id": 1,
@@ -61,6 +61,11 @@
 			"post_id": 1476903289,
 			"body": "Lots of polish, front-end changes, a few new minor features and further work towards playlist support has been done today.\n\nPlaylist support is getting close now - just missing a UI for it",
 			"date_added": 1476903278
+		},
+		{
+			"post_id": 1477600936,
+			"body": "Sorry about the delay, I'm in the process of getting refunds for the mini servers that broke a while back and replacing them with LattePandas so that I can get some live demos up of the new streamer...\n\nAs I don't like making people wait too long, the new streamer's already published and working with all previous NinjaBeats stream links. I just didn't want to do an official announcement until I've got some demos up. Stay tuned and enjoy! ;)",
+			"date_added": 1477600924
 		}
 	],
 	"post_like": {

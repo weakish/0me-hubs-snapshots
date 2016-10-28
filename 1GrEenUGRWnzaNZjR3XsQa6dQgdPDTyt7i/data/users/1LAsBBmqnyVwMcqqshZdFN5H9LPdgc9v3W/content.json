@@ -1,0 +1,21 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "HFn1nACyTtM3tWflapSkkhe3htBmsLIJrYqC77BOIiG2SQX34Lyi70XDsd92Gdt0UhVQBaRbhHx9joybZUMFVSo=",
+ "cert_user_id": "lemming@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "00af204e9556e514ef2fbc429a9f4b9f8ce6cd6687560e40522d242aa6697d8b",
+   "size": 1571
+  },
+  "data.json": {
+   "sha512": "9e5da6b77250ac5b42d8877ff541f97029c82b6619a7d17ef8124af57b8c7a0c",
+   "size": 473
+  }
+ },
+ "inner_path": "data/users/1LAsBBmqnyVwMcqqshZdFN5H9LPdgc9v3W/content.json",
+ "modified": 1477588884.545913,
+ "signs": {
+  "1LAsBBmqnyVwMcqqshZdFN5H9LPdgc9v3W": "G6pgSH+BIpjCvwhRSPhgiu+9s1yHy2YvYUEGbWADPPNNMOTRNDDva1BwQDyQbTM9ONCYe9fpaO0PPOrlDEqk9RA="
+ }
+}

@@ -1,7 +1,7 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 13,
-	"next_follow_id": 3,
+	"next_comment_id": 15,
+	"next_follow_id": 5,
 	"avatar": "png",
 	"user_name": "Treegb",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -91,6 +91,18 @@
 			"body": "@Flyman: good view but I don't know what you talking about XD",
 			"post_uri": "1N7ZC4BJP5wXsHst7YjggMAd6tZc8howaz_1477531089",
 			"date_added": 1477561715
+		},
+		{
+			"comment_id": 13,
+			"body": "@Flyman: haha I have bad habit for using period, it's just a smile meaning like what you mention.",
+			"post_uri": "1N7ZC4BJP5wXsHst7YjggMAd6tZc8howaz_1477531089",
+			"date_added": 1477565899
+		},
+		{
+			"comment_id": 14,
+			"body": "@猫叉酱: 其實我前沒多久才思考過類似的問題, 到底是要開放資訊還是要加密資訊, 以下內容是我之前在 https://youtu.be/zlvJdGv8sPo 回覆的內容, 我複製到這裡因為你們可能看不到 youtube :\n\n>有時候我在思考究竟要開放資訊還是要堅持隱私. 關於 協作的事情或是 Libre source software 需要毫無考慮的開放甚至用版權限制一定要開放, 可是如果講到要避免政府審查個人言論的話要就要把所有上網行為都加密保護不透漏任何隱私. 這兩點雖然都是在維護基本自由的權利, 但好矛盾喔剛好相反我目前還在理解中.﻿\n----\n>開放來源碼軟體一樣可以加密通訊好嗎？並不是開放來源碼就要連使用者的資料也一起開放\n----\n>你誤會我的意思, 我的意思主要是在表達 \"人性\" 的問題不是 \"技術\" 的問題. 你會不會希望這個社會成元彼此戶相信任, 不需要有密碼甚至連銀行帳號的密碼都不需要? 這當然是最極端的狀態, 但是這是一個開放社會產生最大信任的結果 (不同意結果無所謂但至少是個方向), 大家不需要隱私, 因為彼此信任. 這也是開元協作的核心概念 (如果走到極端的話), 大家都被允許修改比如說 wiki, 甚至不用先問你是誰就先相信你是可以修補 wiki 內容的而不是要破壞. 又好比教育部的 xxx 字庫轉換到 moedict 這樣的資訊開放是往好的方向前進. 這個是站在資訊開放的角度. 然後另外一種極端是我們已經意識到大企業和政府註定要搞資訊監視, 或是其他目的我不知道, 總之蒐集資訊淺則廣告深則影響言論自由, 這種情況下我們當然要拒絕透漏隱私, 任何企業沒有資格知道你是誰做過哪些消費行為, 政府不能藉口治安理由監視一個公民私底下的通訊因為言論自由是民主的基礎. 這是站在堅持資訊隱私的角度. 我思考的問題是這 2 個問題所以很矛盾, 至於加密當然是用 opensource 才安全而且安全的密碼雜湊函式之類的應該都是大方公佈算法不過我不是要講這個而且我一點也不懂這些.",
+			"post_uri": "12zuieLqnfp1kB3iGZmThs8FJhTqDaMWyk_1477435952",
+			"date_added": 1477590680
 		}
 	],
 	"follow": [
@@ -100,6 +112,20 @@
 			"auth_address": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz",
 			"user_name": "猫叉酱",
 			"date_added": 1477477636
+		},
+		{
+			"follow_id": 3,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN",
+			"user_name": "Flyman",
+			"date_added": 1477562284
+		},
+		{
+			"follow_id": 4,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi",
+			"user_name": "Eibriel",
+			"date_added": 1477591268
 		}
 	]
 }

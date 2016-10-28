@@ -1,10 +1,18 @@
 {
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"user_name": "Devtest",
 	"hub": "195L3dUQaNbF2xyM9q9QHKcmgxRo5MtxCd",
 	"post_like": {
 		"1KRXEX6oD4HH4xwybvxnTBPW4DQm2HPdgj_1477324078": 1477326674,
-		"1KsUNPHJnWHdjPcWuAJreZfoQzVffk49Gk_1477344526": 1477347008
+		"1KsUNPHJnWHdjPcWuAJreZfoQzVffk49Gk_1477344526": 1477347008,
+		"1FieP4c1gxFme5webFJB9x5ZPBXdR6p3Fs_1477505380": 1477505438
 	},
-	"comment": []
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "If you use zeronet in tor browser (and register your account using that), then you are fine.",
+			"post_uri": "15PZT6SDb3xX38PYQC5LH6NNWu7jD74KP2_1477580069",
+			"date_added": 1477587349
+		}
+	]
 }
