@@ -1,5 +1,5 @@
 {
-	"next_post_id": 4,
+	"next_post_id": 5,
 	"next_comment_id": 2,
 	"next_follow_id": 1,
 	"avatar": "generate",
@@ -21,9 +21,25 @@
 			"post_id": 1473928584,
 			"body": "good day",
 			"date_added": 1473928581
+		},
+		{
+			"post_id": 1477656068,
+			"body": "hujhvgybuhjnhvyghbjnknhbhhhhhhhhhhhhhhhhh\n",
+			"date_added": 1477656064
 		}
 	],
-	"post_like": {},
+	"post_like": {
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1477082141": 1477103007
+	},
 	"comment": [],
-	"follow": []
+	"follow": [],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }

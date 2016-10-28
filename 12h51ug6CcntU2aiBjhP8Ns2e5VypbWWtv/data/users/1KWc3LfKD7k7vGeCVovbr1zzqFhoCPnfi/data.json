@@ -1,6 +1,6 @@
 {
-	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_post_id": 3,
+	"next_comment_id": 2,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Scorpion",
@@ -11,10 +11,22 @@
 			"post_id": 1,
 			"date_added": 1477498789,
 			"body": "Fuck ZeroMe!"
+		},
+		{
+			"post_id": 1477638778,
+			"body": "狗日的GFW！！",
+			"date_added": 1477638776
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Bravo: It just a test, I want to know if I'm able to edit my posts in zerome plus",
+			"post_uri": "1KWc3LfKD7k7vGeCVovbr1zzqFhoCPnfi_1",
+			"date_added": 1477639048
+		}
+	],
 	"follow": [],
 	"settings": {
 		"reverse_comment_order": false,

@@ -1,12 +1,13 @@
 {
-	"next_comment_id": 26,
+	"next_comment_id": 29,
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
 		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472926294": 1472985085,
 		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1473365832": 1473417016,
 		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476983833": 1477049944,
-		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477321847": 1477402143
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477321847": 1477402143,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477650825": 1477659536
 	},
 	"comment": [
 		{
@@ -101,7 +102,7 @@
 		},
 		{
 			"comment_id": 16,
-			"body": "确实选择不多了。Nexus 5P还是塑料壳，还有Windows Phone.",
+			"body": "确实选择不多了。Nexus 5X还是塑料壳，还有Windows Phone.",
 			"post_uri": "1JV3Fhq8uJZuJ3QAYAj1GAgX8s4u8D72Qi_1477314378",
 			"date_added": 1477399976
 		},
@@ -158,6 +159,24 @@
 			"body": "@猫叉酱: 咦。刚发现评论里不显示头像。这样也就需要显示关注的人的头像。optional files 确实可行。",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477151239",
 			"date_added": 1477402546
+		},
+		{
+			"comment_id": 26,
+			"body": "@猫叉酱: 是的。用了 react 和 webpack 技术。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477318475",
+			"date_added": 1477658481
+		},
+		{
+			"comment_id": 27,
+			"body": "@猫叉酱: 现在正常啦。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477321847",
+			"date_added": 1477659212
+		},
+		{
+			"comment_id": 28,
+			"body": "@猫叉酱: 路由器设置一下，开15441. 很多恶心的ISP为了解决ipv4不够的问题，不上ipv6，却分配局域网ip，没有公网ip就没办法了（联通、移动大部分没有公网ip，电信部分没有，不过据说可以投诉——不一定成功）。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477649849",
+			"date_added": 1477659453
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 10,
+	"next_comment_id": 11,
 	"user_name": "PaintNinja",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -79,6 +79,12 @@
 			"body": "@Missingtwins: Afaik, torrent-based protocols reduce load because of its load balancing. If there's a client on your local Wi-Fi, it'll connect to that and skip mobile data entirely. If there's 20 clients in your area hosting the content, it'll grab parts of content from each client. You're not downloading any more data than if you have a centralised approach - you're just grabbing the same data from more than one source simultaneously.\n\nStorage is becoming less and less of an issue. We don't need to do lossy compression on icons anymore and most mobile devices have around at least 32GB of storage nowadays, which is more than sufficient for a good buffer of hosted data (stuff not accessed by the user in over a month could be cleared from the buffer to make way for newer stuff to be hosted)",
 			"post_uri": "18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477115392",
 			"date_added": 1477139534
+		},
+		{
+			"comment_id": 10,
+			"body": "This is what I'm working on solving with NinjaBeats... A music streaming service is much harder and more expensive to make than it looks. :/",
+			"post_uri": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1477648779",
+			"date_added": 1477650148
 		}
 	],
 	"flags": {},

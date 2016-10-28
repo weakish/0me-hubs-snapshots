@@ -1,11 +1,11 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 1,
-	"next_follow_id": 1,
-	"avatar": "generate",
-	"user_name": "1989",
+	"next_comment_id": 2,
+	"next_follow_id": 5,
+	"avatar": "jpg",
+	"user_name": "孤岛",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"intro": "Random ZeroNet user",
+	"intro": "",
 	"post": [
 		{
 			"post_id": 1,
@@ -19,6 +19,35 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
-	"follow": []
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Erotic: 谢谢",
+			"post_uri": "1CvJRw6vBz5ogLQEkgsNtC3xadZC1H4YuF_1477623461",
+			"date_added": 1477647608
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 2,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1NVmy7v2J1aQEgja6HDSeDM8VaADP9zkpu",
+			"user_name": "BTSynChina.bit中文资源分享",
+			"date_added": 1477647678
+		},
+		{
+			"follow_id": 3,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "17F7Tv4U5FubX94o8SqGmM18bX6cpKbrXW",
+			"user_name": "64",
+			"date_added": 1477647705
+		},
+		{
+			"follow_id": 4,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1CvJRw6vBz5ogLQEkgsNtC3xadZC1H4YuF",
+			"user_name": "孤岛",
+			"date_added": 1477648321
+		}
+	]
 }
