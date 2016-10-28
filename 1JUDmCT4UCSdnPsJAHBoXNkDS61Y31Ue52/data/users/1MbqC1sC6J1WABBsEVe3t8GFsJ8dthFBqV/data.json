@@ -1,0 +1,60 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 6,
+	"avatar": "generate",
+	"user_name": "Fisteur",
+	"hub": "1JUDmCT4UCSdnPsJAHBoXNkDS61Y31Ue52",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1477511929,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1477512026,
+			"body": "Yo y'a des français?\n",
+			"date_added": 1477512024
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1JUDmCT4UCSdnPsJAHBoXNkDS61Y31Ue52",
+			"auth_address": "1MbqC1sC6J1WABBsEVe3t8GFsJ8dthFBqV",
+			"user_name": "Fisteur",
+			"date_added": 1477512002
+		},
+		{
+			"follow_id": 2,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1FieP4c1gxFme5webFJB9x5ZPBXdR6p3Fs",
+			"user_name": "Darkstratus",
+			"date_added": 1477512003
+		},
+		{
+			"follow_id": 3,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "14BQsJ3mqgm86sLjXGKwGqUG1Lgov8HN87",
+			"user_name": "Agorist",
+			"date_added": 1477512004
+		},
+		{
+			"follow_id": 4,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "14rTgGFp8TZLpUEAEFGBWWb4ZCFr1m6kKt",
+			"user_name": "Salvio",
+			"date_added": 1477512004
+		},
+		{
+			"follow_id": 5,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1akv1KqgpjJtNQZdwR44EBFwkGp7sjynH",
+			"user_name": "Darknight",
+			"date_added": 1477512005
+		}
+	]
+}
