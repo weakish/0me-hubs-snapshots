@@ -4,14 +4,18 @@
  "cert_sign": "G4EDOjNrHcgWM4xzJS/3PoHHOT0P6BnH36I1lPq9mKoAW4gkRlUpNk6HToMjC4yNJNsnEMOsa4eYYk4g+iGALCM=",
  "cert_user_id": "xeers@zeroid.bit",
  "files": {
+  "avatar.jpg": {
+   "sha512": "7201b4d5024615295d632c6d4319697fa1600cf25b1835351425c87e9826d16c",
+   "size": 1933
+  },
   "data.json": {
-   "sha512": "5152e7396926d7958a5107fa8e5851eeb15cfe61eeb307c2232d0e45babc4037",
-   "size": 3926
+   "sha512": "9860bc1939f8d727466e886391de7d9285accc26a81f7090744fe6af7d86d924",
+   "size": 4115
   }
  },
  "inner_path": "data/users/1GucgDmfpJrHZmG6ukrM1Wjq5Cs6oXevzu/content.json",
- "modified": 1477419409.949,
+ "modified": 1477675125.287,
  "signs": {
-  "1GucgDmfpJrHZmG6ukrM1Wjq5Cs6oXevzu": "HHQTQwdLguS6psmt+wWIfpdSbna9tzaz07f7+wLi/RzcyUPFrUyEO9nUF648bzIqUm1zRjVUzEpHRxsppwDFGHw="
+  "1GucgDmfpJrHZmG6ukrM1Wjq5Cs6oXevzu": "HAqE0DlrYfH9ndmqP1F8F8n++0nz+9GS474JFrE0vz+lh+CVSt0lRbNWeG6WDbZkqIwRJyy6iKTvIApNOgvetlI="
  }
 }
