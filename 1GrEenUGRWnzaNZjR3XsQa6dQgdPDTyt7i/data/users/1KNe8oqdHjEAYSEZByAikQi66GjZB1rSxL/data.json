@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_comment_id": 3,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Windonsurf",
@@ -14,6 +14,19 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "刚开始玩零网的时候，也感到很奇怪，发现地球仪上紫色的点与真实地址是一致的，但是下面的说明确是:onion,感觉矛盾了。后来，使用SS做tor的前置代理，发现紫色方块到了欧洲，就怀疑这个可能是定位的。下面的说明就不知道是怎么回事了。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477650825",
+			"date_added": 1477737325
+		},
+		{
+			"comment_id": 2,
+			"body": "话说回来，明明已经连接到零网了，如果柱高表示ping值的话，为什么，紫色块的柱高和蓝色的柱高是一样的呢，一样不是说明和蓝色块的ping相等，不就等同于表明没有连接吗？矛盾了。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477650825",
+			"date_added": 1477737876
+		}
+	],
 	"follow": []
 }
