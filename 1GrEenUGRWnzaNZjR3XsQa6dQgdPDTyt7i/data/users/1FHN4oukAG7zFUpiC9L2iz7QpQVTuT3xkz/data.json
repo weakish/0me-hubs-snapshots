@@ -1,6 +1,6 @@
 {
 	"next_post_id": 29,
-	"next_comment_id": 58,
+	"next_comment_id": 59,
 	"next_follow_id": 38,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
@@ -489,6 +489,12 @@
 			"body": "教你一个能大幅度减少zeronet/data文件夹大小的方法。右键→属性→高级→压缩→确定。由于巨量文件都是一样的，压缩过后只需要保留一份数据就行了。",
 			"post_uri": "18EGQdBKfSvtG1s1d8XCw7Puw7AKLrngN8_1477585032",
 			"date_added": 1477715003
+		},
+		{
+			"comment_id": 58,
+			"body": "@MilitaryRiotLab: 没被墙，但是我的地球仪上很少出现日本的节点。直接或者挂代理打开网页能打开，但是很慢。估计是你vps的问题",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477650825",
+			"date_added": 1477733916
 		}
 	],
 	"follow": [

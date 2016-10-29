@@ -1,6 +1,6 @@
 {
-	"next_post_id": 103,
-	"next_comment_id": 97,
+	"next_post_id": 104,
+	"next_comment_id": 98,
 	"next_follow_id": 31,
 	"avatar": "jpg",
 	"user_name": "Flyman",
@@ -411,6 +411,11 @@
 			"post_id": 1477663770,
 			"body": "MetaTimeStrategy video PC\\Win game \"Achron\": https://www.youtube.com/watch?v=AcrueaoOQ3o It is RTS with Time Travel mechanism built in as part of game process. I completed it 1-2 years ago. Is here anybody who played this game too? Or want to talk about it?",
 			"date_added": 1477663668
+		},
+		{
+			"post_id": 1477733890,
+			"body": "Question: How to mix two sound waves?\nSome times I try to g??gle answer to this question and I fail. Today is another that time. I always got something else, but not what I want. Maybe I use wrong words. So here is a problem. You have bunch of numbers form -32768 to +32767. Each 44100 of those numbers represent one second of sound. So you have 2 or 2+ groups of numbers, and want to create new one which will be represent all those sounds combined. I know about making average, but it makes loss of volume. How to combine sound waves without loss of volume?\nAnother similar problem. I can generate wave file out of nothing using assembler program I can write. For example I can generate 10 seconds of A of 1st octave - 440Hz wave file, and I can generate 10 seconds of A of 2nd octave - 880Hz wave file (simple sinus/cosine multiplied by 32K). How can I generate wave that sounds like both A of 1st and 2nd octaves?\nCan someone give me a links, please?",
+			"date_added": 1477733787
 		}
 	],
 	"post_like": {
@@ -935,6 +940,12 @@
 			"body": "First you fart, then you overweight, it is not OK, if you see fast food, stay the f??k away, it's not OK! I am 50% serious: https://www.youtube.com/watch?v=yQb1JVxv8ZE",
 			"post_uri": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1477646860",
 			"date_added": 1477648912
+		},
+		{
+			"comment_id": 97,
+			"body": "@KosherX: At the same time I am 50% kidding/joking. There is type of joke when you can't call it a joke 100% because part of it is \"serious thing\". Same thing with something \"serious\": things are serious only by some part of whole, other part is not serious, it is a joke. So I created this expression and think it is fun: \"I am 50% serious!\". You can imagine tree that have two branches at some point, lets call them left branch (50%) and right branch (50%). So this tree have left branch and it is 50% of whole tree.",
+			"post_uri": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1477646860",
+			"date_added": 1477727064
 		}
 	],
 	"follow": [
