@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 3,
+	"next_comment_id": 4,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Windonsurf",
@@ -26,6 +26,12 @@
 			"body": "话说回来，明明已经连接到零网了，如果柱高表示ping值的话，为什么，紫色块的柱高和蓝色的柱高是一样的呢，一样不是说明和蓝色块的ping相等，不就等同于表明没有连接吗？矛盾了。",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477650825",
 			"date_added": 1477737876
+		},
+		{
+			"comment_id": 3,
+			"body": "@猫叉酱: 我明白了，连接是连到零网中的某几个节点，要连接到的节点才会ping,没有连接到的，没有ping。thx。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477650825",
+			"date_added": 1477744591
 		}
 	],
 	"follow": []
