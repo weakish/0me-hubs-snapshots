@@ -1,5 +1,5 @@
 {
-	"next_post_id": 14,
+	"next_post_id": 15,
 	"next_comment_id": 10,
 	"next_follow_id": 55,
 	"avatar": "jpg",
@@ -61,6 +61,11 @@
 			"post_id": 1477745155,
 			"body": "感觉动漫花园好冷清...",
 			"date_added": 1477745142
+		},
+		{
+			"post_id": 1477747802,
+			"body": "[news_sync](https://github.com/ZeroNetscript/news_sync) 要怎么用？\n我希望同步 RSS 到一个 ZeroBlog 中，但不知道该怎么做，我目前把这个项目 clone 到了本地然后使用了 npm install ，那么，接下来呢？",
+			"date_added": 1477747788
 		}
 	],
 	"post_like": {},

@@ -1,6 +1,6 @@
 {
 	"next_post_id": 29,
-	"next_comment_id": 61,
+	"next_comment_id": 62,
 	"next_follow_id": 40,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
@@ -507,6 +507,12 @@
 			"body": "@Windonsurf: 逻辑是这样的：没ping的时候默认是0→连接到非自己节点时会ping一下→ping过之后的节点会有个高于0的值→根据ping值拉长并且着色。自己和没有连接的点自然不会ping，所以都是0",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477650825",
 			"date_added": 1477743704
+		},
+		{
+			"comment_id": 61,
+			"body": "我去，你也加了两个hub了?看来nofish得想个办法防止单个用户加多个hub",
+			"post_uri": "1KNe8oqdHjEAYSEZByAikQi66GjZB1rSxL_1",
+			"date_added": 1477747327
 		}
 	],
 	"follow": [
