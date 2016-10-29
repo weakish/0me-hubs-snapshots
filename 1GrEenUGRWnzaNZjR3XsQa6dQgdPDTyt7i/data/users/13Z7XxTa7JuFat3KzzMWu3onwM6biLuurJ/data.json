@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 95,
+	"next_comment_id": 98,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -20,7 +20,8 @@
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477321847": 1477407719,
 		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477308305": 1477408000,
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477414170": 1477446513,
-		"15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1477412617": 1477446523
+		"15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1477412617": 1477446523,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477650825": 1477669536
 	},
 	"comment": [
 		{
@@ -586,6 +587,24 @@
 			"body": "user.json只是帐号，网站信息在sites.json，要copy那个才会有网站记录",
 			"post_uri": "1571aschsT4z2GPgEPfgsb9C3D27sLQH9w_1477446746",
 			"date_added": 1477446996
+		},
+		{
+			"comment_id": 95,
+			"body": "@猫叉酱: 不同的图片站原理不一样，并不一定是base64形式，还有.jpg形式的，具体看中文论坛站务区我的帖子",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477471784",
+			"date_added": 1477496966
+		},
+		{
+			"comment_id": 96,
+			"body": "@猫叉酱: 比喻都不准确。应该是源数据（hub）和阅读器（merger site, e.g. ZeroMe） @Treegb",
+			"post_uri": "12zuieLqnfp1kB3iGZmThs8FJhTqDaMWyk_1477435952",
+			"date_added": 1477497352
+		},
+		{
+			"comment_id": 97,
+			"body": "@Windonsurf: 你确定是因为这个？这条是9月27号的推，也就是说1个月前你加了两个hub。注意时间点。",
+			"post_uri": "1KNe8oqdHjEAYSEZByAikQi66GjZB1rSxL_1",
+			"date_added": 1477756183
 		}
 	],
 	"flags": {},

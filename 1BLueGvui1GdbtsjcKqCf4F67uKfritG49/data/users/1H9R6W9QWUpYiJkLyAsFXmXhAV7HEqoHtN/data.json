@@ -1,6 +1,6 @@
 {
-	"next_post_id": 104,
-	"next_comment_id": 98,
+	"next_post_id": 105,
+	"next_comment_id": 99,
 	"next_follow_id": 31,
 	"avatar": "jpg",
 	"user_name": "Flyman",
@@ -416,6 +416,11 @@
 			"post_id": 1477733890,
 			"body": "Question: How to mix two sound waves?\nSome times I try to g??gle answer to this question and I fail. Today is another that time. I always got something else, but not what I want. Maybe I use wrong words. So here is a problem. You have bunch of numbers form -32768 to +32767. Each 44100 of those numbers represent one second of sound. So you have 2 or 2+ groups of numbers, and want to create new one which will be represent all those sounds combined. I know about making average, but it makes loss of volume. How to combine sound waves without loss of volume?\nAnother similar problem. I can generate wave file out of nothing using assembler program I can write. For example I can generate 10 seconds of A of 1st octave - 440Hz wave file, and I can generate 10 seconds of A of 2nd octave - 880Hz wave file (simple sinus/cosine multiplied by 32K). How can I generate wave that sounds like both A of 1st and 2nd octaves?\nCan someone give me a links, please?",
 			"date_added": 1477733787
+		},
+		{
+			"post_id": 1477775739,
+			"body": "I do not watch TV for years.\nSo I am \"+1\" to this guy! https://www.youtube.com/watch?v=LIIUg7WjGKA Watching TV makes you negative.",
+			"date_added": 1477775635
 		}
 	],
 	"post_like": {
@@ -946,6 +951,12 @@
 			"body": "@KosherX: At the same time I am 50% kidding/joking. There is type of joke when you can't call it a joke 100% because part of it is \"serious thing\". Same thing with something \"serious\": things are serious only by some part of whole, other part is not serious, it is a joke. So I created this expression and think it is fun: \"I am 50% serious!\". You can imagine tree that have two branches at some point, lets call them left branch (50%) and right branch (50%). So this tree have left branch and it is 50% of whole tree.",
 			"post_uri": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1477646860",
 			"date_added": 1477727064
+		},
+		{
+			"comment_id": 98,
+			"body": "@Eibriel: it is not just a sum, because in wave file (or inside memory that will be interpreted by your computer as a sound) there are words (1 word is 1 byte + 1 byte), words are just numbers from 0 to 65535 (can be interpreted as numbers from -32K to +32K). Imagine you making sum of two sounds and in some point 1st sound has 65535 and 2nd sound has 65535 too. Sum of 65535 + 65535 doesn't fit in two bytes! You can make sum and cut result to 65535 each time it is \"out of range\" but result sounds very bad (you can hear it). Someone told me to use something \"logarithmic bla-bla\" but I didn't understand and now I can't remember what it was.",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1477733890",
+			"date_added": 1477770273
 		}
 	],
 	"follow": [

@@ -1,7 +1,7 @@
 {
 	"next_post_id": 44,
-	"next_comment_id": 25,
-	"next_follow_id": 149,
+	"next_comment_id": 26,
+	"next_follow_id": 150,
 	"avatar": "png",
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -219,7 +219,7 @@
 		},
 		{
 			"post_id": 1477661427,
-			"body": "WTF! New generation of MacBook Pro!\n\nIt Pro so it does not need to be so thin that it uses  a painful to type keyboards on MacBook. Unified type-C is too cool to connect other devices. Even Apple self's devices does not unified, so you cannot charge iPhones without an adapter. Also replace MagSafe with type-C is obivously a regression. And the 13\" version only has two slots! Also the price is much expensive than older genrations. \n\nIn fact, Apple now effectly does not sell laptops. MacBook and MacBook Air only has 4 or 8GB unupgradable RAM. Now they ruied MacBook Pro, the only series of sufficient RAM.",
+			"body": "WTF! New generation of MacBook Pro!\n\nIt's Pro so it does not need to be so thin that it uses  a painful to type keyboard as on MacBook. Unified type-C is too cool to connect other devices. Even Apple self's devices are not unified, so you cannot charge iPhones without an adapter. Also replacing MagSafe with type-C is obivously a regression. And the 13\" version only has two slots! Also the price is much expensive than older genrations. \n\nIn fact, Apple now effectly does not sell laptops. MacBook and MacBook Air only has 4 or 8GB unupgradable RAM. Now they ruied MacBook Pro, the only series of sufficient RAM.",
 			"date_added": 1477661384
 		}
 	],
@@ -387,6 +387,12 @@
 			"body": "The post does not answer how is this possible? If the Linkedin managed to get the gmail contacts under the condition mentioned in the post, then it is not \"auto-authorization\", it is hijacking via 0day security holes of browsers!",
 			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1477295315",
 			"date_added": 1477399137
+		},
+		{
+			"comment_id": 25,
+			"body": "@MilitaryRiotLab: I do not think so. Only the pixel version has the sufficient performance but it has only 32GB to 64GB SSD. On the other side Dell has some laptops with Linux preinstalled.",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1477661427",
+			"date_added": 1477781814
 		}
 	],
 	"follow": [
@@ -1369,6 +1375,13 @@
 			"auth_address": "12hfjFNEyB9vvoPKPKXRHqkvR57Rxaffqc",
 			"user_name": "Koji3",
 			"date_added": 1477402400
+		},
+		{
+			"follow_id": 149,
+			"hub": "1JUDmCT4UCSdnPsJAHBoXNkDS61Y31Ue52",
+			"auth_address": "1M1Jbh98v974kTkYEiUsNtLpBf359HwaHW",
+			"user_name": "Kjl",
+			"date_added": 1477781163
 		}
 	]
 }

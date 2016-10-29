@@ -1,20 +1,33 @@
 {
-	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_post_id": 3,
+	"next_comment_id": 4,
 	"next_follow_id": 10,
 	"avatar": "generate",
 	"user_name": "Windonsurf",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"intro": "专政之下的反贼。",
-	"post": [
+	"post": [],
+	"post_like": {},
+	"comment": [
 		{
-			"post_id": 1,
-			"date_added": 1474942514,
-			"body": "Hello ZeroMe!"
+			"comment_id": 1,
+			"body": "在zerohello页面上，往左看，下拉，在相应的hub上，节点数右边，点击，会弹出拓展菜单，点击delete 就行了。",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1477738744",
+			"date_added": 1477755950
+		},
+		{
+			"comment_id": 2,
+			"body": "哪个followed users页面？我加了好多个hub,Activity feed 能看到别人的消息，别人的回复也能看到，zerohello页面由显示节点数，变成显示zerome消息。",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1477721842",
+			"date_added": 1477756174
+		},
+		{
+			"comment_id": 3,
+			"body": "在Hello的左边，有一个颜色很淡的铅笔，点进去，进入编辑模式就能删了。",
+			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1477756378",
+			"date_added": 1477756571
 		}
 	],
-	"post_like": {},
-	"comment": [],
 	"follow": [
 		{
 			"follow_id": 1,

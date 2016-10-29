@@ -1,6 +1,6 @@
 {
-	"next_post_id": 29,
-	"next_comment_id": 62,
+	"next_post_id": 30,
+	"next_comment_id": 72,
 	"next_follow_id": 40,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
@@ -141,6 +141,11 @@
 			"post_id": 1477652924,
 			"body": "[女装子福利](http://127.0.0.1:43110/1fu1iNKkkCZRwD37N6oB6mv1oHWiPVUCf)\n已经更新一波，把之前没有汉化的地方补全了。还换了个框架",
 			"date_added": 1477652896
+		},
+		{
+			"post_id": 1477754900,
+			"body": "解决现有网站发图的一个思路：\n-- 在zeronet中建立一个公共图床，用optional files的方式储存图片\n-- 其他网站允许添加zeronet中其他网站的外链\n-- 用户想要添加图片时，可以先上传到图床，然后在贴链接\n\n![123](http://127.0.0.1:43110/1fu1iNKkkCZRwD37N6oB6mv1oHWiPVUCf/data/users/1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz/5ebc08c8ebc21931fd63ef95887f3138-thumb.jpg)",
+			"date_added": 1477754871
 		}
 	],
 	"post_like": {
@@ -513,6 +518,66 @@
 			"body": "我去，你也加了两个hub了?看来nofish得想个办法防止单个用户加多个hub",
 			"post_uri": "1KNe8oqdHjEAYSEZByAikQi66GjZB1rSxL_1",
 			"date_added": 1477747327
+		},
+		{
+			"comment_id": 62,
+			"body": "这是明网链接图片，慎点  ![外链](http://tva3.sinaimg.cn/crop.0.0.750.750.50/406a9101jw8f2bdv396xzj20ku0kumy9.jpg)",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477754900",
+			"date_added": 1477755007
+		},
+		{
+			"comment_id": 63,
+			"body": "@Ysc3839: 现在的问题是，zeroTalk不支持optional files，更不支持上传",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477754900",
+			"date_added": 1477755057
+		},
+		{
+			"comment_id": 64,
+			"body": "@Ysc3839: 可以啊，但不是每个人都下载了你的网站",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477754900",
+			"date_added": 1477755299
+		},
+		{
+			"comment_id": 65,
+			"body": "@Ysc3839: 是这样的，你放在自己的网站上，没访问过你网站的人加载图片的时候就要把你网站非optional的部分全部下载一遍",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477754900",
+			"date_added": 1477755413
+		},
+		{
+			"comment_id": 66,
+			"body": "@Ysc3839: 正在申请，申请的域名是nekox.bit。现在还没回复",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477652924",
+			"date_added": 1477755550
+		},
+		{
+			"comment_id": 67,
+			"body": "@Ysc3839: 可是我不会用namecoin客户端，之前下载了一个，说要一百多周才能更新好，我就删了。要不直接在你那里更新吧",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477652924",
+			"date_added": 1477755772
+		},
+		{
+			"comment_id": 68,
+			"body": "@Ysc3839: 如果建立一个公共图床，非optional的部分尽量的小，这样大家访问起来就快了",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477754900",
+			"date_added": 1477755929
+		},
+		{
+			"comment_id": 69,
+			"body": "@Ysc3839: 我在等等吧，要是几天没回复我就自己搞一个客户端",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477652924",
+			"date_added": 1477756063
+		},
+		{
+			"comment_id": 70,
+			"body": "@Ysc3839: 只要不访问某人的图片，某人的图片就不会被下载，那他上传再多又有什么影响呢",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477754900",
+			"date_added": 1477756304
+		},
+		{
+			"comment_id": 71,
+			"body": "@Ysc3839: 对了，你用的是zerome plus吗？你能打开那两张图片吗？",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477754900",
+			"date_added": 1477756372
 		}
 	],
 	"follow": [
