@@ -1,0 +1,38 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 4,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "Luislazaro",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1477783895,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "No sé muy bien que hago aquí.",
+			"post_uri": "1MG4TqczE7MedSksrpXBGaibTPRDy51P48_1",
+			"date_added": 1477784060
+		},
+		{
+			"comment_id": 2,
+			"body": "Saludos para los que estais. ",
+			"post_uri": "1MG4TqczE7MedSksrpXBGaibTPRDy51P48_1",
+			"date_added": 1477784324
+		},
+		{
+			"comment_id": 3,
+			"body": "Espero saber integrarme.",
+			"post_uri": "1MG4TqczE7MedSksrpXBGaibTPRDy51P48_1",
+			"date_added": 1477784362
+		}
+	],
+	"follow": []
+}

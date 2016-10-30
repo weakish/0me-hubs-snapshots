@@ -1,7 +1,7 @@
 {
-	"next_post_id": 44,
-	"next_comment_id": 26,
-	"next_follow_id": 150,
+	"next_post_id": 45,
+	"next_comment_id": 29,
+	"next_follow_id": 151,
 	"avatar": "png",
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -221,6 +221,11 @@
 			"post_id": 1477661427,
 			"body": "WTF! New generation of MacBook Pro!\n\nIt's Pro so it does not need to be so thin that it uses  a painful to type keyboard as on MacBook. Unified type-C is too cool to connect other devices. Even Apple self's devices are not unified, so you cannot charge iPhones without an adapter. Also replacing MagSafe with type-C is obivously a regression. And the 13\" version only has two slots! Also the price is much expensive than older genrations. \n\nIn fact, Apple now effectly does not sell laptops. MacBook and MacBook Air only has 4 or 8GB unupgradable RAM. Now they ruied MacBook Pro, the only series of sufficient RAM.",
 			"date_added": 1477661384
+		},
+		{
+			"post_id": 1477782825,
+			"body": "mp3.163.com (a music distribution site in China) does not have any API. In fact it even encryptes post params with some home made algorithm (the algorithm is different on different clients and is evolving, the current API in web UI is based on AES, RSA and MD5) on HTTP (it does not support HTTPS). That's why I have never registered an account on it. ",
+			"date_added": 1477782781
 		}
 	],
 	"post_like": {
@@ -241,7 +246,8 @@
 		"12yaKkoqVKBUi66uB5pYXamWguKFaWdDnx_1475199416": 1475237961,
 		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1475217750": 1475238332,
 		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1475596777": 1475794009,
-		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1475647433": 1475794034
+		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1475647433": 1475794034,
+		"1Q3xYc3P8i2WDj621HvSbfEqTP4aMLpKYU_8": 1477783062
 	},
 	"comment": [
 		{
@@ -393,6 +399,24 @@
 			"body": "@MilitaryRiotLab: I do not think so. Only the pixel version has the sufficient performance but it has only 32GB to 64GB SSD. On the other side Dell has some laptops with Linux preinstalled.",
 			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1477661427",
 			"date_added": 1477781814
+		},
+		{
+			"comment_id": 26,
+			"body": "@Woodsfirezyj: 从今年下半年开始一路涨，国庆后又涨一波。估计双十一能优惠掉国庆后涨价的部分，但估计还是比上半年贵。",
+			"post_uri": "1Q3xYc3P8i2WDj621HvSbfEqTP4aMLpKYU_1477741978",
+			"date_added": 1477783156
+		},
+		{
+			"comment_id": 27,
+			"body": "@P2P: 是[这篇通过ZeroBlog快速建站](http://192.168.1.10:43110/1LcQTyUYkq3n458rkHVQxhHyvUdmSYFURd/?Post:4) ",
+			"post_uri": "1Q3xYc3P8i2WDj621HvSbfEqTP4aMLpKYU_1477747802",
+			"date_added": 1477783365
+		},
+		{
+			"comment_id": 28,
+			"body": "其实你还不如看下那blog, 然后用自己习惯的语言自己写。convert.js 是作者自用的，很多hardcode 同步的站点，并不方便直接用。",
+			"post_uri": "1Q3xYc3P8i2WDj621HvSbfEqTP4aMLpKYU_1477747802",
+			"date_added": 1477783576
 		}
 	],
 	"follow": [
@@ -1382,6 +1406,13 @@
 			"auth_address": "1M1Jbh98v974kTkYEiUsNtLpBf359HwaHW",
 			"user_name": "Kjl",
 			"date_added": 1477781163
+		},
+		{
+			"follow_id": 150,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1Q3xYc3P8i2WDj621HvSbfEqTP4aMLpKYU",
+			"user_name": "Rainlime",
+			"date_added": 1477783615
 		}
 	]
 }
