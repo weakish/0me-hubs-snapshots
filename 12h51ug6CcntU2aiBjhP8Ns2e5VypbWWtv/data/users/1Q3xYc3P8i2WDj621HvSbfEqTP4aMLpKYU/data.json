@@ -1,7 +1,7 @@
 {
-	"next_post_id": 15,
+	"next_post_id": 16,
 	"next_comment_id": 10,
-	"next_follow_id": 55,
+	"next_follow_id": 58,
 	"avatar": "jpg",
 	"user_name": "Rainlime",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -66,6 +66,11 @@
 			"post_id": 1477747802,
 			"body": "[news_sync](https://github.com/ZeroNetscript/news_sync) 要怎么用？\n我希望同步 RSS 到一个 ZeroBlog 中，但不知道该怎么做，我目前把这个项目 clone 到了本地然后使用了 npm install ，那么，接下来呢？",
 			"date_added": 1477747788
+		},
+		{
+			"post_id": 1477803906,
+			"body": "bit.no.com 的证书挂了？ 还是我浏览器的问题...\n![](https://cloud.githubusercontent.com/assets/22708180/19834614/b78eee1c-9e3c-11e6-8ef9-b088831a32ad.png)",
+			"date_added": 1477803891
 		}
 	],
 	"post_like": {},
@@ -496,6 +501,27 @@
 			"auth_address": "17gEFavobc7RsKNGbSzZwoSZ6jNB7hT2KN",
 			"user_name": "Fav",
 			"date_added": 1477744504
+		},
+		{
+			"follow_id": 55,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1477803268
+		},
+		{
+			"follow_id": 56,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1CvJRw6vBz5ogLQEkgsNtC3xadZC1H4YuF",
+			"user_name": "孤岛",
+			"date_added": 1477805463
+		},
+		{
+			"follow_id": 57,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP",
+			"user_name": "R3df0x",
+			"date_added": 1477805493
 		}
 	],
 	"settings": {
