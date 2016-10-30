@@ -3,10 +3,15 @@
  "cert_auth_type": "web",
  "cert_sign": "G8cNKloEEp3yA5BODtp65wLikCQV/WF9SbA2//AYc/l+OWSb/2h2DjIDZDmmFnduS7lwq5/0ONvI9ybf5CEh420=",
  "cert_user_id": "ysc3839@zeroid.bit",
- "files": {},
+ "files": {
+  "data.json": {
+   "sha512": "df91fa3d265683832eee08ec82cf8299f6d8d73c4b2a4e6ea3b37acb5d6d3263",
+   "size": 2185
+  }
+ },
  "inner_path": "data/users/13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB/content.json",
- "modified": 1477757378.861,
+ "modified": 1477792764.638,
  "signs": {
-  "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB": "G73JkJLqYfkyNLDedgozI/CVQ1BRj1dyxFUmept8gGrvo9/LF9GYPT9jvkM57gv672JqNyKt/z34y9O5D62IHgY="
+  "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB": "Gy5PQ/gtLkK7tt2jjO5ncGhRG7LjV+jy71e0f7HDxUPxxFKRaFRzL6DjGfItUDbb/sVm6v9RYPLgvEMw5cusWxQ="
  }
 }
