@@ -1,6 +1,6 @@
 {
 	"next_post_id": 105,
-	"next_comment_id": 99,
+	"next_comment_id": 101,
 	"next_follow_id": 31,
 	"avatar": "jpg",
 	"user_name": "Flyman",
@@ -957,6 +957,18 @@
 			"body": "@Eibriel: it is not just a sum, because in wave file (or inside memory that will be interpreted by your computer as a sound) there are words (1 word is 1 byte + 1 byte), words are just numbers from 0 to 65535 (can be interpreted as numbers from -32K to +32K). Imagine you making sum of two sounds and in some point 1st sound has 65535 and 2nd sound has 65535 too. Sum of 65535 + 65535 doesn't fit in two bytes! You can make sum and cut result to 65535 each time it is \"out of range\" but result sounds very bad (you can hear it). Someone told me to use something \"logarithmic bla-bla\" but I didn't understand and now I can't remember what it was.",
 			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1477733890",
 			"date_added": 1477770273
+		},
+		{
+			"comment_id": 99,
+			"body": ".1. What do you want exactly? And who stops you for doing it?\n.2. Words \"freedom\", \"force\", \"oppressor\" are empty structures. They make no sense unless someone fills them with his/her own experience. Imagine you are movie director. You can't just capture \"freedom\" on your video camera. To make movie \"We fight for our freedom\" you can make scenario where some \"bad\" guys locked some \"good\" friends in some dungeon inside some castle. \"Bad\" guys torture poor \"good\" guys. And other \"good\" people preparing and then executing assault of that castle, killing \"bad\" guys and rescue \"good\" guys. You can call that \"Freedom\", but this is one of those things that exists in your head only! There can be \"good\" guys, \"bad\" guys that involved in some activity (they do specific things).\n.3. With my own associations with your spectrum I more like to \"do nothing\". If someone successfuly stops me from doing one thing I want to do, then I most likely choose to do something else (from my list of things I want to do) to make this \"oppressor\" to do more hard work to stop me this time. Or I can seek for other ways to do same thing. And I prefer to detect how I support \"oppressor\" and at same time not aware of it. Best way to deal with oppressor is to stop feeding it. Eventually it will lose it's power and cease to exist.",
+			"post_uri": "1MdwjTFbwpWCLfyo2ZjeXzB7DbL7euNPBi_1477774571",
+			"date_added": 1477818287
+		},
+		{
+			"comment_id": 100,
+			"body": "@Militaryriotlab: Words are like variables in programming languages. If you use variable without filling it with some exact value, it will not work. Let me try fill those variables, but your teacher can have other meanings. Lets guess that \"Law\" is just list of \"rules\" - list of thing you can do and things you can avoid to do for being \"good\" guy for all people who agreed with this \"Law\". Word \"by\" used to show that someone is cause of some activity, so \"rule by law\" means \"law is ruling (people)\", so word \"rule\" is verb in this case. Word \"of\" used to connect two nouns, so \"rule of law\" means \"law has this rule\", so word \"rule\" is noun here.",
+			"post_uri": "1MdwjTFbwpWCLfyo2ZjeXzB7DbL7euNPBi_1477772920",
+			"date_added": 1477819248
 		}
 	],
 	"follow": [
