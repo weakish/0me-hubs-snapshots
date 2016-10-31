@@ -1,0 +1,17 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "G1olKNWlBcD3yDtjZaq3ddP+R6yrsMo/DW+UFWmWNvjWnmDkZagNR5v4wKc7kyQCl0mbHEkun3+Xzfe5I+3lGHs=",
+ "cert_user_id": "astroenu@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "704a46e87b320daa7d55f23b6364469700f3e3c2d5f6a7f23857e281afdcf46e",
+   "size": 525
+  }
+ },
+ "inner_path": "data/users/1M39C9AXXZ9zt2oighAg1kYNSmaEgUNpog/content.json",
+ "modified": 1477908131.934,
+ "signs": {
+  "1M39C9AXXZ9zt2oighAg1kYNSmaEgUNpog": "HIkbPB4q7qMoeRGSmNAmpygckyfN22m5QRmktztyhf9aIpr2ITxNns2Z/Kpa6Bh6z2CRWjvuM4DFm0sMVlVu3os="
+ }
+}

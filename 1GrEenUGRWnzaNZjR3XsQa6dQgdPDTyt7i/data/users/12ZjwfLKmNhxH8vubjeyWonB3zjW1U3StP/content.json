@@ -1,0 +1,21 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "Gz722lEblc1ZnIdnXVaKOCU/g/Z5hsZVauf0k99029fB3HQta2QaPPX47As8Ydqc86KGexC+Ar+QUUbd7bgAEaA=",
+ "cert_user_id": "marxist@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "ea4576f4cf8872b12dd5e8616c1ae8bb5b686e79e46ec95c2c97a427d9670bd6",
+   "size": 781
+  },
+  "data.json": {
+   "sha512": "9fd85f2618ff78848545f30ab0a010fbaacecacd73d6ef20d261dae55b16f565",
+   "size": 369
+  }
+ },
+ "inner_path": "data/users/12ZjwfLKmNhxH8vubjeyWonB3zjW1U3StP/content.json",
+ "modified": 1477909015.884,
+ "signs": {
+  "12ZjwfLKmNhxH8vubjeyWonB3zjW1U3StP": "G+v1Vps62aZy3CIupu0P+1CKHhFMDqvu4FhMHNpbyd8yHtgYfhMi4n0p6dXdVEQEdX/rrBIroMe+rFWwhO2bliY="
+ }
+}

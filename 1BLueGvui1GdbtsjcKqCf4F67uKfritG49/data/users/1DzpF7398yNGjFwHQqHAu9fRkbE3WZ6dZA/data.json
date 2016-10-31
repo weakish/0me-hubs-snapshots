@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 3,
+	"next_comment_id": 5,
 	"next_follow_id": 2,
 	"avatar": "generate",
 	"user_name": "P2pwave",
@@ -22,6 +22,18 @@
 			"body": "上网必翻墙，翻墙才是真的上网。貌似每天的我真的是这么做的。",
 			"post_uri": "1LHdPBTEdLuBDgLcfqZtNwSTMec3EgejiM_1",
 			"date_added": 1471003659
+		},
+		{
+			"comment_id": 3,
+			"body": "你的网站有着致命缺陷，就是随着用户发帖数量的增多，data.json这个文件会越来越大，也就越来越难同步。也就是说，以后会越来越难发帖。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1477919776",
+			"date_added": 1477925874
+		},
+		{
+			"comment_id": 4,
+			"body": "解决办法是，把data.json分拆，最好一贴一个json，或者像nullchan一样，图片直接以文件的形式保存，而不是以base64的形式存储。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1477919776",
+			"date_added": 1477926033
 		}
 	],
 	"follow": [
@@ -34,7 +46,7 @@
 		}
 	],
 	"settings": {
-		"reverse_comment_order": true,
+		"reverse_comment_order": false,
 		"mute_ugly": false,
 		"mute_spam": false,
 		"mute_blocked": false

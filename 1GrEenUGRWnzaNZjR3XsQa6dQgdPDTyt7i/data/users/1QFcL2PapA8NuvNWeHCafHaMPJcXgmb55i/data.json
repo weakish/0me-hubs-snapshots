@@ -1,6 +1,6 @@
 {
-	"next_post_id": 13,
-	"next_comment_id": 12,
+	"next_post_id": 15,
+	"next_comment_id": 16,
 	"next_follow_id": 13,
 	"avatar": "jpg",
 	"user_name": "Juansantiago",
@@ -66,6 +66,16 @@
 			"post_id": 1477778558,
 			"body": "Hola ¿pueden ver esto?\n http://127.0.0.1:43110/13MTG5zJ1MfErs3wg1Fwgs7pbywxK9xf4A/\n\nEs un expermiento de página estática en zeronet",
 			"date_added": 1477778546
+		},
+		{
+			"post_id": 1477856767,
+			"body": "Estoy con eso de crear sitios desde 0 aver  ver si ese se ve:  a ver ahora, pero me da que hay algo mal: http://127.0.0.1:43110/1PUP93A7wK3EnJcnWdBGzUB2chnCTJToQq",
+			"date_added": 1477856754
+		},
+		{
+			"post_id": 1477874044,
+			"body": "\nSobre las peripecias de un principiante para crear sitios http://127.0.0.1:43110/1EsymyEW97pFPJPQLqQairLdcDcVTxqKPR/?Post:9:tambi%C3%A9n+estamos+los+curiosos",
+			"date_added": 1477874030
 		}
 	],
 	"post_like": {
@@ -139,6 +149,30 @@
 			"body": "@Eibriel: Bueno, acabo de abrir el puerto se supone que ahora todo irá mejor",
 			"post_uri": "1QFcL2PapA8NuvNWeHCafHaMPJcXgmb55i_1477778558",
 			"date_added": 1477782837
+		},
+		{
+			"comment_id": 12,
+			"body": "A ver este??  a ver ahora, pero me da que hay algo mal: http://127.0.0.1:43110/1PUP93A7wK3EnJcnWdBGzUB2chnCTJToQq",
+			"post_uri": "1QFcL2PapA8NuvNWeHCafHaMPJcXgmb55i_1477778558",
+			"date_added": 1477856715
+		},
+		{
+			"comment_id": 13,
+			"body": "@Eibriel: ahora creo que el anterior tambien debe funcionar, era coa del router, del puerto y l la ip interna como dijiste, pero ¿por que entonces el blog clonado sin tanta modificacion si funcionaba? e' :)",
+			"post_uri": "1QFcL2PapA8NuvNWeHCafHaMPJcXgmb55i_1477856767",
+			"date_added": 1477865879
+		},
+		{
+			"comment_id": 14,
+			"body": "ahora funcionan los dos sitios :)",
+			"post_uri": "1QFcL2PapA8NuvNWeHCafHaMPJcXgmb55i_1477856767",
+			"date_added": 1477865992
+		},
+		{
+			"comment_id": 15,
+			"body": "luego post en el blog",
+			"post_uri": "1QFcL2PapA8NuvNWeHCafHaMPJcXgmb55i_1477856767",
+			"date_added": 1477866000
 		}
 	],
 	"follow": [

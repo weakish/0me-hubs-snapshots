@@ -1,7 +1,7 @@
 {
 	"next_post_id": 3,
 	"next_comment_id": 1,
-	"next_follow_id": 1,
+	"next_follow_id": 3,
 	"avatar": "generate",
 	"user_name": "Hmx",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -15,5 +15,20 @@
 	],
 	"post_like": {},
 	"comment": [],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "15EtpdfoyjLGCdhWu87cLHeEtUbUR6FRAi",
+			"user_name": "Hmx",
+			"date_added": 1477825297
+		},
+		{
+			"follow_id": 2,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1RkfirMWaepJTt1ETVFDkdC8ju2a9Sf3a",
+			"user_name": "S3prem9",
+			"date_added": 1477825347
+		}
+	]
 }

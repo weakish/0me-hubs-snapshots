@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 45,
+	"next_comment_id": 53,
 	"user_name": "Eibriel",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {
@@ -21,7 +21,8 @@
 		"1QFcL2PapA8NuvNWeHCafHaMPJcXgmb55i_1477343243": 1477420791,
 		"1PXtqwuku4Srxgk3kdHCEE9qqViv5BrfW4_1477494874": 1477526141,
 		"1FieP4c1gxFme5webFJB9x5ZPBXdR6p3Fs_1477505380": 1477533667,
-		"1QH1N2BcCN6bQu1J98yUovsnnkvHn8TKhC_1477643916": 1477651223
+		"1QH1N2BcCN6bQu1J98yUovsnnkvHn8TKhC_1477643916": 1477651223,
+		"1H5VKNWtkBA7RpJWyYuFw5bqjwbgjXoqKp_1477911924": 1477928885
 	},
 	"comment": [
 		{
@@ -281,6 +282,54 @@
 			"body": "Me da como error *No peers found*, pero seguramente justo intenté cuando tu ZeroNet estaba desconectado, después pruebo de nuevo",
 			"post_uri": "1QFcL2PapA8NuvNWeHCafHaMPJcXgmb55i_1477778558",
 			"date_added": 1477781804
+		},
+		{
+			"comment_id": 45,
+			"body": "Acá hice una publicación explicando como hacer un sitio en ZeroNet desde cero: [http://127.0.0.1:43110/1EMcXwk7qQdY3pbj86A98gZHjDBNRrscdL/?Post:38:Crear+un+sitio+en+ZeroNet+desde+0+en+2+minutos](/1EMcXwk7qQdY3pbj86A98gZHjDBNRrscdL/?Post:38:Crear+un+sitio+en+ZeroNet+desde+0+en+2+minutos)",
+			"post_uri": "1QFcL2PapA8NuvNWeHCafHaMPJcXgmb55i_1477778558",
+			"date_added": 1477853233
+		},
+		{
+			"comment_id": 46,
+			"body": "Welcome Spooks!!",
+			"post_uri": "1KTA1oKd6iLFuqyCLFP2nkfxp8y9YLFJdi_1",
+			"date_added": 1477860477
+		},
+		{
+			"comment_id": 47,
+			"body": "Funciona!!",
+			"post_uri": "1QFcL2PapA8NuvNWeHCafHaMPJcXgmb55i_1477856767",
+			"date_added": 1477865860
+		},
+		{
+			"comment_id": 48,
+			"body": "El anterior (13MTG5zJ1MfErs3wg1Fwgs7pbywxK9xf4A) sigue sin funcionar... seguramente quedó corrupto.\nQuizás solo hace falta el puerto abierto cuando uno es el dueño de un sitio (es decir que tiene una clave privada)",
+			"post_uri": "1QFcL2PapA8NuvNWeHCafHaMPJcXgmb55i_1477856767",
+			"date_added": 1477866151
+		},
+		{
+			"comment_id": 49,
+			"body": "Hello Lovelychian!",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1",
+			"date_added": 1477906358
+		},
+		{
+			"comment_id": 50,
+			"body": "I think you can run IPFS over Tor",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477905909",
+			"date_added": 1477906764
+		},
+		{
+			"comment_id": 51,
+			"body": "Welcome to ZeroNet! How do I welcome in chinese?",
+			"post_uri": "1FvKfKX8ipaqzETYwnhXjVXwRFHBsWz29r_1",
+			"date_added": 1477906926
+		},
+		{
+			"comment_id": 52,
+			"body": "Welcome again! Mmm there is a fork of ZeroMe now called ZeroMe Plus",
+			"post_uri": "1H5VKNWtkBA7RpJWyYuFw5bqjwbgjXoqKp_1477911924",
+			"date_added": 1477929023
 		}
 	]
 }

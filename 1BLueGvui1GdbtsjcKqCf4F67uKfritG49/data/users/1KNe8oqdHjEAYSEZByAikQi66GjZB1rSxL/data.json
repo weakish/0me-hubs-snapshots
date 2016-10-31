@@ -1,11 +1,11 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 4,
+	"next_comment_id": 5,
 	"next_follow_id": 10,
 	"avatar": "generate",
 	"user_name": "Windonsurf",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
-	"intro": "专政之下的反贼。",
+	"intro": "",
 	"post": [],
 	"post_like": {},
 	"comment": [
@@ -26,6 +26,12 @@
 			"body": "在Hello的左边，有一个颜色很淡的铅笔，点进去，进入编辑模式就能删了。",
 			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1477756378",
 			"date_added": 1477756571
+		},
+		{
+			"comment_id": 4,
+			"body": "@Rainlime: 我给笔记本装了debian,由于是新电脑，驱动问题十分蛋疼，导致屏幕亮度无法调整，都快亮瞎了",
+			"post_uri": "1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP_1476838913",
+			"date_added": 1477884674
 		}
 	],
 	"follow": [

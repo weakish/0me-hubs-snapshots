@@ -1,6 +1,6 @@
 {
-	"next_post_id": 25,
-	"next_comment_id": 28,
+	"next_post_id": 26,
+	"next_comment_id": 34,
 	"next_follow_id": 21,
 	"avatar": "jpg",
 	"user_name": "Eibriel",
@@ -89,7 +89,7 @@
 		},
 		{
 			"post_id": 1477098750,
-			"body": "[The Amazing World of Gumball - Animation+Stages](/1EMcXwk7qQdY3pbj86A98gZHjDBNRrscdL/?Post:34:The+Amazing+World+of+Gumball+-+Animation+Stages) (Video)",
+			"body": "# [The Amazing World of Gumball - Animation+Stages](/1EMcXwk7qQdY3pbj86A98gZHjDBNRrscdL/?Post:34:The+Amazing+World+of+Gumball+-+Animation+Stages)\n(Video)",
 			"date_added": 1477098733
 		},
 		{
@@ -104,12 +104,12 @@
 		},
 		{
 			"post_id": 1477264741,
-			"body": "[Machine Learning color selection](/1EMcXwk7qQdY3pbj86A98gZHjDBNRrscdL/?Post:35:Machine+Learning+color+selection) - Eibriel ZeroBlog -",
+			"body": "# [Machine Learning color selection](/1EMcXwk7qQdY3pbj86A98gZHjDBNRrscdL/?Post:35:Machine+Learning+color+selection)\nEibriel ZeroBlog",
 			"date_added": 1477264721
 		},
 		{
 			"post_id": 1477450964,
-			"body": "[Westworld - My firsts impressions](/1EMcXwk7qQdY3pbj86A98gZHjDBNRrscdL/?Post:36:Westworld+-+My+firsts+impressions)\nWe are on the Episode 04 of the series, time to do some firsts evaluations.",
+			"body": "# [Westworld - My firsts impressions](/1EMcXwk7qQdY3pbj86A98gZHjDBNRrscdL/?Post:36:Westworld+-+My+firsts+impressions)\nWe are on the Episode 04 of the series, time to do some firsts evaluations.",
 			"date_added": 1477450943
 		},
 		{
@@ -124,8 +124,13 @@
 		},
 		{
 			"post_id": 1477677074,
-			"body": "Guía para empezar a compartir archivos usando IPFS en 2 minutos:\n[http://127.0.0.1:43110/1EMcXwk7qQdY3pbj86A98gZHjDBNRrscdL/?Post:37:IPFS+-+2+min+intro](/1EMcXwk7qQdY3pbj86A98gZHjDBNRrscdL/?Post:37:IPFS+-+2+min+intro)",
+			"body": "# [IPFS en 2 minutos](/1EMcXwk7qQdY3pbj86A98gZHjDBNRrscdL/?Post:37:IPFS+en+2+minutos)\nGuía para empezar a compartir archivos usando IPFS en 2 minutos. IPFS tiene algunas ventajas que lo vuelven muy atractivo para mi para complementarlo con ZeroNet como \"servidor\" de archivos multimedia.",
 			"date_added": 1477677050
+		},
+		{
+			"post_id": 1477852783,
+			"body": "# [Crear un sitio en ZeroNet desde 0 en 2 minutos](/1EMcXwk7qQdY3pbj86A98gZHjDBNRrscdL/?Post:38:Crear+un+sitio+en+ZeroNet+desde+0+en+2+minutos)\nUna de las maneras mas comunes de crear un sitio en ZeroNet es clonando uno ya existente, pero a veces queremos simplemente crear un sitio desde cero, aquí te explico como.",
+			"date_added": 1477852758
 		}
 	],
 	"post_like": {
@@ -144,7 +149,8 @@
 		"1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp_1477519411": 1477525812,
 		"1FUvBnNvrWehrnfPXfVQg9ts3oTUqkjUef_1477605648": 1477624643,
 		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1477733890": 1477752608,
-		"1MG4TqczE7MedSksrpXBGaibTPRDy51P48_1": 1477792945
+		"1MG4TqczE7MedSksrpXBGaibTPRDy51P48_1": 1477792945,
+		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1477827792": 1477839036
 	},
 	"comment": [
 		{
@@ -302,6 +308,42 @@
 			"body": "Bienvenido a ZeroMe!!",
 			"post_uri": "1MG4TqczE7MedSksrpXBGaibTPRDy51P48_1",
 			"date_added": 1477792960
+		},
+		{
+			"comment_id": 28,
+			"body": "ipfs + zeronet",
+			"post_uri": "1HL2193iASWKcTtZF86Z5EZhvcysHo93xF_1477878569",
+			"date_added": 1477880871
+		},
+		{
+			"comment_id": 29,
+			"body": "[http://127.0.0.1:43110/1EMcXwk7qQdY3pbj86A98gZHjDBNRrscdL/?Post:28:Testing+the+Interplanetary+File+System](/1EMcXwk7qQdY3pbj86A98gZHjDBNRrscdL/?Post:28:Testing+the+Interplanetary+File+System)",
+			"post_uri": "1HL2193iASWKcTtZF86Z5EZhvcysHo93xF_1477878569",
+			"date_added": 1477881080
+		},
+		{
+			"comment_id": 30,
+			"body": "Welcome to ZeroMe!! :D",
+			"post_uri": "1Dr5NdZvVnLP9AbsL58kNrcRruozvzsTdV_1",
+			"date_added": 1477881138
+		},
+		{
+			"comment_id": 31,
+			"body": "Welcome to ZeroMe!!",
+			"post_uri": "1HL2193iASWKcTtZF86Z5EZhvcysHo93xF_1",
+			"date_added": 1477881168
+		},
+		{
+			"comment_id": 32,
+			"body": "ftw",
+			"post_uri": "1HL2193iASWKcTtZF86Z5EZhvcysHo93xF_1477877741",
+			"date_added": 1477881174
+		},
+		{
+			"comment_id": 33,
+			"body": "@Nekocross: Right now I'm using IPFS for everything, but I don't know if that is the best idea.",
+			"post_uri": "1HL2193iASWKcTtZF86Z5EZhvcysHo93xF_1477878569",
+			"date_added": 1477906564
 		}
 	],
 	"follow": [

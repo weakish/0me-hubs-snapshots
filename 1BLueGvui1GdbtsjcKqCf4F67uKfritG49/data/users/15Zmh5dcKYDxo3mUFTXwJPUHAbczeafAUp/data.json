@@ -1,9 +1,9 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 43,
+	"next_comment_id": 44,
 	"next_follow_id": 5,
 	"avatar": "png",
-	"user_name": "Helloarch",
+	"user_name": "HelloArch",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"intro": "Random ZeroNet user",
 	"post": [
@@ -17,7 +17,14 @@
 		"14139fxEEc7VuHVxvK2UqYSeX3rJqiADVY_1477064594": 1477101588,
 		"18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477108005": 1477108612
 	},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 43,
+			"body": "??",
+			"post_uri": "16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T_1477583039",
+			"date_added": 1477835405
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 1,

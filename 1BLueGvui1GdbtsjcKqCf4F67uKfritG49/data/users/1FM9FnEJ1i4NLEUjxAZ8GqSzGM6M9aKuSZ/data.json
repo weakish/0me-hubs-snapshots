@@ -1,6 +1,6 @@
 {
 	"next_post_id": 5,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 16,
 	"avatar": "jpg",
 	"user_name": "Nilet",
@@ -31,7 +31,14 @@
 	"post_like": {
 		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1476015306": 1476504523
 	},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Henur: hello, how are you? what kind of music do you like?",
+			"post_uri": "1FM9FnEJ1i4NLEUjxAZ8GqSzGM6M9aKuSZ_1",
+			"date_added": 1477833602
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 1,

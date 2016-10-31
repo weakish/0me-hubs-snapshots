@@ -1,13 +1,28 @@
 {
-	"next_post_id": 4,
+	"next_post_id": 8,
 	"next_comment_id": 1,
-	"next_follow_id": 2,
+	"next_follow_id": 4,
 	"avatar": "generate",
 	"user_name": "",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"intro": "Brasil",
-	"post": [],
+	"post": [
+		{
+			"post_id": 1477866411,
+			"body": "Hello World! BR por aqui?",
+			"date_added": 1477866404
+		}
+	],
 	"post_like": {},
 	"comment": [],
-	"follow": []
+	"follow": [],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }
