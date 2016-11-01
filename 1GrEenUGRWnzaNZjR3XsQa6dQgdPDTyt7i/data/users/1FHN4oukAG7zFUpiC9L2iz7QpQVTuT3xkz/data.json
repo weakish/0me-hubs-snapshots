@@ -1,6 +1,6 @@
 {
-	"next_post_id": 36,
-	"next_comment_id": 84,
+	"next_post_id": 38,
+	"next_comment_id": 87,
 	"next_follow_id": 41,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
@@ -176,6 +176,16 @@
 			"post_id": 1477929324,
 			"body": "哈哈哈，我的域名申请成功了：nekox.bit",
 			"date_added": 1477929289
+		},
+		{
+			"post_id": 1477977301,
+			"body": "封禁的正确姿势：\n1.删掉此人的文件夹\n2.在data/users/content.json中ban掉此人\n3.签名\n4.rebuild数据库\n5.publish",
+			"date_added": 1477977265
+		},
+		{
+			"post_id": 1477988924,
+			"body": "很多发图的网站都有这么一条留言：\n>ivebeencensored: JPEGS保留在浏览器历史记录中，GIF Time会在删除后在计算机上保留图像 \n这是什么意思呢？GIF Time里面都是mp4视频，怎么会有图像？",
+			"date_added": 1477988887
 		}
 	],
 	"post_like": {
@@ -680,6 +690,24 @@
 			"body": "@Woodsfirezyj: 是啊是啊，应该多建一些小黄网并安利给棒子。我倒要看看棒子国能不能把ZeroNet给和谐掉",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477909896",
 			"date_added": 1477929393
+		},
+		{
+			"comment_id": 84,
+			"body": "@Erotic: 已经添加",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477929324",
+			"date_added": 1477976674
+		},
+		{
+			"comment_id": 85,
+			"body": "@Woodsfirezyj: nofish要变成韩国人了OoO",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477909896",
+			"date_added": 1477976740
+		},
+		{
+			"comment_id": 86,
+			"body": "@MilitaryRiotLab: [GIF Time](http://127.0.0.1:43110/1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h) ",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477988924",
+			"date_added": 1477989878
 		}
 	],
 	"follow": [

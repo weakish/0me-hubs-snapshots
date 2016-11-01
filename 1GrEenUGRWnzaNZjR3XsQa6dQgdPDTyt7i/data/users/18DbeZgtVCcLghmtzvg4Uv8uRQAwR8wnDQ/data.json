@@ -11,11 +11,6 @@
 			"post_id": 1475426574,
 			"body": "Nice to see \"foreign\" languages here. Some day it could be nice with a ZeroNet version of google translate in here :-)",
 			"date_added": 1475426570
-		},
-		{
-			"post_id": 1477832168,
-			"body": "Where can I find more info about \"preg pattern\"? Used in ZeroFrame API. \nTrying to allow image upload to \"user\" directory in ZeroNet. Upload and publish works for data.json, status.json, avatar.png and avatar.jpg. \nI can not get upload and publish with some kind of image* wildcard to work.\nHave tried all possible and impossible pattern in files_allowed. \nI am getting either invalid file, publish failed or invalid private key when uploading image* files.\nCan see that preg pattern in files_allowed are not a normal regular expression.\n\nAnyone with a quick answer?\n\nMy content.json is:\n {\n \"address\": \"1JeHa67QEvrrFpsSow82fLypw8LoRcmCXk\",\n \"files\": {},\n \"ignore\": \".*\",\n \"inner_path\": \"data/users/content.json\",\n \"modified\": 1477833097.705338,\n \"signs\": {\n  \"1JeHa67QEvrrFpsSow82fLypw8LoRcmCXk\": \"G6QfB9uphIAzk9dm6JtkPDtN77LPqV+HhIQweHpr1veWuyv7Th8ALxkcHeLM7vYzsrxRwBF3986GTe4W++Ml/LQ=\"\n },\n \"user_contents\": {\n  \"cert_signers\": {\n   \"moneynetwork\": [ \"1D2f1XV3zEDDvhDjcD9ugehNJEzv68Dhmf\" ],\n   \"nanasi\": [ \"16PmAP6z2MCJX9jNjvMrteMfnqX4KeDRNT\" ],\n   \"zeroid.bit\": [ \"1iD5ZQJMNXu43w1qLB8sfdHVKppVMduGz\" ]\n  },\n  \"permission_rules\": {\n   \".*\": {\n    \"files_allowed\": \"((data|status).json|avatar.(jpg|png)|image.*.(jpg|png|tif|gif))\",\n    \"max_size\": 100000\n   }\n  },\n  \"permissions\": {}\n }\n}",
-			"date_added": 1477832163
 		}
 	],
 	"post_like": {
@@ -137,12 +132,6 @@
 			"body": "Decentralization and impossible to shutdown. There are NO privacy in here. Everything is public and unencrypted unless site developers has chosen to encrypt.",
 			"post_uri": "15PZT6SDb3xX38PYQC5LH6NNWu7jD74KP2_1476819218",
 			"date_added": 1476848531
-		},
-		{
-			"comment_id": 23,
-			"body": "@Ysc3839: Thank you. It would have been nice if normal regular expressions were allowed in \"files_allowed\" field.",
-			"post_uri": "18DbeZgtVCcLghmtzvg4Uv8uRQAwR8wnDQ_1477832168",
-			"date_added": 1477845755
 		}
 	],
 	"follow": [
