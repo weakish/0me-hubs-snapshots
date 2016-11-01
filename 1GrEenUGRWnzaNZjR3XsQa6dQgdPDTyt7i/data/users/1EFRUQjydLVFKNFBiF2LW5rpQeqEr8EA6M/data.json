@@ -1,7 +1,7 @@
 {
-	"next_post_id": 24,
+	"next_post_id": 26,
 	"next_comment_id": 41,
-	"next_follow_id": 71,
+	"next_follow_id": 74,
 	"avatar": "jpg",
 	"user_name": "Rainlime",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -111,6 +111,11 @@
 			"post_id": 1477369336,
 			"body": "所以...我的时间现在对吗？\n",
 			"date_added": 1477369313
+		},
+		{
+			"post_id": 1477978539,
+			"body": "好了 看起来我的 ZeroID 恢复正常了 ：）\n\n我备份 sites.json 和 users.json 然后删除了 ZeroNet 文件夹，再重新运行 ZeroNet.sh 初始化了一下 ",
+			"date_added": 1477978514
 		}
 	],
 	"post_like": {
@@ -818,6 +823,27 @@
 			"auth_address": "1BRxp6o8c8k6qJzQTCZ3rRucySWatrnHCy",
 			"user_name": "Quad",
 			"date_added": 1477369587
+		},
+		{
+			"follow_id": 71,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5",
+			"user_name": "Lovelychian",
+			"date_added": 1477980862
+		},
+		{
+			"follow_id": 72,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1BgqiduD5yMiySpgVzw7N9PHvojhFr3zZx",
+			"user_name": "Weirdo",
+			"date_added": 1477980891
+		},
+		{
+			"follow_id": 73,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "157Bh49UyzWKSdfgZnN5ShuEFunubzhTP3",
+			"user_name": "Deaththekid",
+			"date_added": 1477980897
 		}
 	],
 	"settings": {
