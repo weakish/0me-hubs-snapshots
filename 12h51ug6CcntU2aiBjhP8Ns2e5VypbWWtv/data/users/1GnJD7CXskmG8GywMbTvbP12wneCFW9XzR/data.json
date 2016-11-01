@@ -1,6 +1,6 @@
 {
-	"next_post_id": 45,
-	"next_comment_id": 29,
+	"next_post_id": 46,
+	"next_comment_id": 31,
 	"next_follow_id": 151,
 	"avatar": "png",
 	"user_name": "weakish",
@@ -226,6 +226,11 @@
 			"post_id": 1477782825,
 			"body": "mp3.163.com (a music distribution site in China) does not have any API. In fact it even encryptes post params with some home made algorithm (the algorithm is different on different clients and is evolving, the current API in web UI is based on AES, RSA and MD5) on HTTP (it does not support HTTPS). That's why I have never registered an account on it. ",
 			"date_added": 1477782781
+		},
+		{
+			"post_id": 1477955823,
+			"body": "The email to onfirm email address on dida365.com (Chinese version of TickTick) does not show any explicit url link. The link it is hide in HTML. It is wrong to assume every email client renders HTML correctly.",
+			"date_added": 1477955778
 		}
 	],
 	"post_like": {
@@ -247,7 +252,8 @@
 		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1475217750": 1475238332,
 		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1475596777": 1475794009,
 		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1475647433": 1475794034,
-		"1Q3xYc3P8i2WDj621HvSbfEqTP4aMLpKYU_8": 1477783062
+		"1Q3xYc3P8i2WDj621HvSbfEqTP4aMLpKYU_8": 1477783062,
+		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1477856036": 1477955528
 	},
 	"comment": [
 		{
@@ -408,7 +414,7 @@
 		},
 		{
 			"comment_id": 27,
-			"body": "@P2P: 是[这篇通过ZeroBlog快速建站](http://192.168.1.10:43110/1LcQTyUYkq3n458rkHVQxhHyvUdmSYFURd/?Post:4) ",
+			"body": "@P2P: 是[这篇通过ZeroBlog快速建站](/1LcQTyUYkq3n458rkHVQxhHyvUdmSYFURd/?Post:4) ",
 			"post_uri": "1Q3xYc3P8i2WDj621HvSbfEqTP4aMLpKYU_1477747802",
 			"date_added": 1477783365
 		},
@@ -417,6 +423,18 @@
 			"body": "其实你还不如看下那blog, 然后用自己习惯的语言自己写。convert.js 是作者自用的，很多hardcode 同步的站点，并不方便直接用。",
 			"post_uri": "1Q3xYc3P8i2WDj621HvSbfEqTP4aMLpKYU_1477747802",
 			"date_added": 1477783576
+		},
+		{
+			"comment_id": 29,
+			"body": "@P2P: Thanks. Fixed.",
+			"post_uri": "1Q3xYc3P8i2WDj621HvSbfEqTP4aMLpKYU_1477747802",
+			"date_added": 1477955089
+		},
+		{
+			"comment_id": 30,
+			"body": "@猫叉酱: 主要是因为封闭。",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1477782825",
+			"date_added": 1477955210
 		}
 	],
 	"follow": [
