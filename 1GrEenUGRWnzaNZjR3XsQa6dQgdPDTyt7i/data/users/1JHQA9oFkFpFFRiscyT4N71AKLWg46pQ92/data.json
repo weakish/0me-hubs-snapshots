@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 5,
+	"next_comment_id": 6,
 	"user_name": "Cer",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -24,6 +24,12 @@
 			"body": "Hay 2 caminos: Clonar un blog existente o usar crear una a partir de cero... aqui te recomiendo mirar la documentacion de [ZN](https://zeronet.readthedocs.io/en/latest/using_zeronet/create_new_site)",
 			"post_uri": "1QFcL2PapA8NuvNWeHCafHaMPJcXgmb55i_1477683178",
 			"date_added": 1477724788
+		},
+		{
+			"comment_id": 5,
+			"body": "`proxychains .ipfs daemon`",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477905909",
+			"date_added": 1478016378
 		}
 	],
 	"flags": {
