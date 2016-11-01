@@ -1,6 +1,6 @@
 {
-	"next_post_id": 38,
-	"next_comment_id": 87,
+	"next_post_id": 40,
+	"next_comment_id": 90,
 	"next_follow_id": 41,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
@@ -186,6 +186,16 @@
 			"post_id": 1477988924,
 			"body": "很多发图的网站都有这么一条留言：\n>ivebeencensored: JPEGS保留在浏览器历史记录中，GIF Time会在删除后在计算机上保留图像 \n这是什么意思呢？GIF Time里面都是mp4视频，怎么会有图像？",
 			"date_added": 1477988887
+		},
+		{
+			"post_id": 1477995392,
+			"body": "似乎国内有个朋友在阿里云上建了个节点。想法是好的，但请注意安全，毕竟马云的节操信不过。要是万一被查了，大家发的东西可能都会算在你头上。\n1.访问要用Https\n2.放zeronet的磁盘务必加密\n3.自己用就行了，千万别拿国内的节点当公共代理",
+			"date_added": 1477995354
+		},
+		{
+			"post_id": 1478013537,
+			"body": "在zeronet中，有哪些地方使用了区块链呢",
+			"date_added": 1478013498
 		}
 	],
 	"post_like": {
@@ -708,6 +718,24 @@
 			"body": "@MilitaryRiotLab: [GIF Time](http://127.0.0.1:43110/1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h) ",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477988924",
 			"date_added": 1477989878
+		},
+		{
+			"comment_id": 87,
+			"body": "@MilitaryRiotLab: 我也不知道",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477988924",
+			"date_added": 1478012522
+		},
+		{
+			"comment_id": 88,
+			"body": "@P2pwave: 139开头的，139.x.x.x",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477995392",
+			"date_added": 1478012548
+		},
+		{
+			"comment_id": 89,
+			"body": "@Erotic: 很快，韩国的历史发明家们将会宣布，匈牙利历史上是韩国领土",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477909896",
+			"date_added": 1478012786
 		}
 	],
 	"follow": [
