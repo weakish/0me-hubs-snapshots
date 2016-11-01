@@ -1,6 +1,6 @@
 {
 	"next_post_id": 75,
-	"next_comment_id": 127,
+	"next_comment_id": 128,
 	"next_follow_id": 216,
 	"avatar": "jpg",
 	"user_name": "ks",
@@ -1089,6 +1089,12 @@
 			"body": "Thanks, guys, but by “nameserver software” I meant actual software that I run on my own server(s). I.e., self-hosted DNS.",
 			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1478011914",
 			"date_added": 1478023294
+		},
+		{
+			"comment_id": 127,
+			"body": "I think I'm gonna go with NSD, it's just what I need and it's [included in Arch](https://www.archlinux.org/packages/?q=nsd).",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1478011914",
+			"date_added": 1478034595
 		}
 	],
 	"follow": [
