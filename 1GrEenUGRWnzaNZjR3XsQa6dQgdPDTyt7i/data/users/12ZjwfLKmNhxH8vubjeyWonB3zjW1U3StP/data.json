@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_comment_id": 3,
 	"next_follow_id": 1,
 	"avatar": "png",
 	"user_name": "Marxist",
@@ -14,6 +14,19 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Oh I'm not",
+			"post_uri": "12ZjwfLKmNhxH8vubjeyWonB3zjW1U3StP_1",
+			"date_added": 1477991895
+		},
+		{
+			"comment_id": 2,
+			"body": "*Not green to Zeronet... just green to ZeroMe",
+			"post_uri": "12ZjwfLKmNhxH8vubjeyWonB3zjW1U3StP_1",
+			"date_added": 1477991915
+		}
+	],
 	"follow": []
 }
