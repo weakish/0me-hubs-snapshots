@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 3,
+	"next_comment_id": 5,
 	"user_name": "Cer",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -20,6 +20,18 @@
 			"body": "https://www.opennicproject.org ?",
 			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1478011914",
 			"date_added": 1478016303
+		},
+		{
+			"comment_id": 3,
+			"body": "<code>$ apt-cache search DNS\n...\ndns-root-data - DNS root data including root zone and DNSSEC key\n...\nmaas - \"Metal as a Service\" is a physical cloud and IPAM\nmaas-dns - MAAS DNS server\n...</code>",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1478011914",
+			"date_added": 1478031807
+		},
+		{
+			"comment_id": 4,
+			"body": "Depende de tu OS. En Linux en el \"system monitor\" con solo buscar por ZN me da inmediatamente los procesos que estan corriendo... y con un kill :D",
+			"post_uri": "18EjLHTadBR6ci3XRWyMfsGeWVtXTR8xx_1477759700",
+			"date_added": 1478031922
 		}
 	],
 	"flags": {},

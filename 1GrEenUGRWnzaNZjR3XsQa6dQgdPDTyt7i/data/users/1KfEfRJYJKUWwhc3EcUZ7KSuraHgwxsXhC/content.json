@@ -1,0 +1,17 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "HMgjZgxhcUK4KTvKVi0YfdLVrk8wf31nkRM/etuQoRE0sYnAGzJZm7NCxtnInkzkwd33eDDVsGFbs93EOl0o+GQ=",
+ "cert_user_id": "nitrod@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "50052303b9aa73f5ada5cfac5c21226469e0166cb033ed1e9fd39ef52ae9c554",
+   "size": 338
+  }
+ },
+ "inner_path": "data/users/1KfEfRJYJKUWwhc3EcUZ7KSuraHgwxsXhC/content.json",
+ "modified": 1478030769.091151,
+ "signs": {
+  "1KfEfRJYJKUWwhc3EcUZ7KSuraHgwxsXhC": "HFwrGHMSXjNM7CApebrgnCvwmX6qCsJhBbKo1g/uVTKK5BHhNh36vmqp6rXmiSDuySY4HNclo/00JadbA0gRR2k="
+ }
+}

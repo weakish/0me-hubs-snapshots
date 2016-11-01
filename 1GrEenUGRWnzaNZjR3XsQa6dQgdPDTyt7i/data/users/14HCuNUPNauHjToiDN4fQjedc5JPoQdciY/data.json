@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 6,
+	"next_comment_id": 7,
 	"user_name": "Bot032",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -38,6 +38,12 @@
 			"body": "据我所知，只使用了p2p，没有使用区块链，但是网站地址使用了比特币地址和对应的公钥私钥。区块链比较重，也不一定合适。网站域名使用了NMC但是没有用NMC区块链，具体怎么把名字解析到地址的我也不太清楚，估计使用了中心化服务。还请大牛解疑。",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478013537",
 			"date_added": 1478029488
+		},
+		{
+			"comment_id": 6,
+			"body": "找到了解释。简单说就是中心化的管理，但是用去中心化的技术做到NMC集成（集成本身是靠1Name2NXVi1RDPDgf5617UoW7xA6YrhM9F的拥有者完成的）。https://www.reddit.com/r/zeronet/comments/30vgtr/namecoin_bit_domains_support_added_in_latest/cpwm5as/",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478013537",
+			"date_added": 1478031468
 		}
 	],
 	"flags": {},

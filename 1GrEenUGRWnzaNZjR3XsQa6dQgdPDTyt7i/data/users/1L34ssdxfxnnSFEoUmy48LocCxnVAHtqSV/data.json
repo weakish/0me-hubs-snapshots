@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_comment_id": 4,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Cnocg",
@@ -14,6 +14,25 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "zeronet 不加 tor 的话和 p2p 一样的安全性。建站者的 ip 是可以查的到的。。所以说还是要挂tor",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477995392",
+			"date_added": 1478032285
+		},
+		{
+			"comment_id": 2,
+			"body": "@64: 比如ehentai之类的",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477909896",
+			"date_added": 1478032387
+		},
+		{
+			"comment_id": 3,
+			"body": "对啊 你平时 zeronet 的安全隐私都是怎么处理的 虚拟机挂tor吗",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477995392",
+			"date_added": 1478032702
+		}
+	],
 	"follow": []
 }
