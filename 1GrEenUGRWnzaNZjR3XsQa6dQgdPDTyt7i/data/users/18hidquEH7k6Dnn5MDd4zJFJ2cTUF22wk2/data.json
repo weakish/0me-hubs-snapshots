@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 15,
+	"next_comment_id": 21,
 	"user_name": "Cxgreat2014",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {
@@ -92,6 +92,42 @@
 			"body": "@莱文倩: 并非爱国。有想法付诸实践才是最重要，否则只能是白日梦。",
 			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1478058234",
 			"date_added": 1478066347
+		},
+		{
+			"comment_id": 15,
+			"body": "@莱文倩: 那就是吹水啦~哈哈，有想法挺好，倒不如自己在现有规则之内想办法去改变，实际才是根本",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1478058234",
+			"date_added": 1478074955
+		},
+		{
+			"comment_id": 16,
+			"body": "@Freedomchina: 的确是我叙述不严谨，说解密实际上并不正确，区块链使用的是ECDSA算法（椭圆曲线数字签名），详细算法在这里：[百度文库](http://wenku.baidu.com/link?url=xUVcm96zP8kWA_E9PCD4JZ3nA3uK4Tg6p5RxjITbYdQ6pTb0SnK-nxIE9m4zFHjrLdn_EqJGdFHBNapOW1VDaRJhGRejy9WLGlN2MySpcgG) [新浪博客](http://blog.sina.com.cn/s/blog_4e37c87d0100cuo4.html)，在zn里的消息都是经过签名再发出去，在被其他节点接收时都会进行签名验证，在上面文档的链接内有详述",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478013537",
+			"date_added": 1478075661
+		},
+		{
+			"comment_id": 17,
+			"body": "@猫叉酱: 整个分布式记账技术就叫区块链",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478013537",
+			"date_added": 1478076150
+		},
+		{
+			"comment_id": 18,
+			"body": "@猫叉酱: 每条消息就是一个块",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478013537",
+			"date_added": 1478076262
+		},
+		{
+			"comment_id": 19,
+			"body": "@莱文倩: 额。。。汗。。。虽然妹子好，但也没必要自己变妹子。。。拔掉丁丁这种事。。。想起来就疼",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477995392",
+			"date_added": 1478076348
+		},
+		{
+			"comment_id": 20,
+			"body": "@R3df0x: 好像。。主要是猫叉酱把潜水的都给炸出来了，以前我也一直在没事上来看看，但是不知道发什么。。",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1478068744",
+			"date_added": 1478076686
 		}
 	]
 }
