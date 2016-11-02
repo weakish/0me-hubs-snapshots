@@ -1,7 +1,7 @@
 {
-	"next_post_id": 6,
+	"next_post_id": 7,
 	"next_comment_id": 1,
-	"next_follow_id": 30,
+	"next_follow_id": 31,
 	"avatar": "generate",
 	"user_name": "Yvesrogne",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -31,6 +31,11 @@
 			"post_id": 1476225586,
 			"body": "qui sont les Français sur Zerome? ;)",
 			"date_added": 1476225581
+		},
+		{
+			"post_id": 1478119462,
+			"body": "I love Wikileaks",
+			"date_added": 1478119456
 		}
 	],
 	"post_like": {},
@@ -231,6 +236,13 @@
 			"auth_address": "1DWE7kqCFMrUhaeAFZS559KWCy19351Jw6",
 			"user_name": "Lechat",
 			"date_added": 1477854395
+		},
+		{
+			"follow_id": 30,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1EJ7j6nGoz84S8eYsfEmYA6hF9vV4nKkR4",
+			"user_name": "Zerg",
+			"date_added": 1478119313
 		}
 	]
 }
