@@ -1,5 +1,5 @@
 {
-	"next_post_id": 5,
+	"next_post_id": 6,
 	"next_comment_id": 9,
 	"next_follow_id": 8,
 	"avatar": "jpg",
@@ -26,6 +26,11 @@
 			"post_id": 1478007147,
 			"body": "怡红院：[yihongyuan.bit](http://127.0.0.1:43110/yihongyuan.bit)\n\n\n已改用[@nekocross（猫叉酱）](http://127.0.0.1:43110/Mail.ZeroNetwork.bit/?to=nekocross)修改的nullchan版本。发现非常好用，就搬过来了。-_-",
 			"date_added": 1478007143
+		},
+		{
+			"post_id": 1478063767,
+			"body": "为什么之前的用户data数据还能在节点之间流传？\n\n我自己本机已经没有了，且rebuild 过数据库，sian & publish了。我本机[yihongyuan.bit](http://127.0.0.1:43110/yihongyuan.bit)首页右上角显示只有356.69kb，而别的地方访问显示2.76Mb，是因为之前的用户数据还在传播。我已经重新签过名，且发布了，怎么之前的数据还能传播呢？我看了下别处访问下载的content.json，与我本机的一样。求解",
+			"date_added": 1478063762
 		}
 	],
 	"post_like": {},
