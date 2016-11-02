@@ -1,7 +1,7 @@
 {
-	"next_post_id": 16,
-	"next_comment_id": 26,
-	"next_follow_id": 22,
+	"next_post_id": 17,
+	"next_comment_id": 30,
+	"next_follow_id": 23,
 	"avatar": "jpg",
 	"user_name": "Cxgreat2014",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -66,6 +66,11 @@
 			"post_id": 1478077063,
 			"body": "话说要不在zeronet上复刻一个知乎？招聘程序员志愿者开发，有小鱼干",
 			"date_added": 1478077048
+		},
+		{
+			"post_id": 1478077720,
+			"body": "话说zeronet的10mb限制好蛋疼。。另外有个想法，我觉得貌似可以实现，在zeronet里内置一个php解析器，这样php应用就可以大批量移植到zeronet上来了，数据存储依然是用sqlite，只要在执行提交数据库的操作时就调用zeronet来签名更新就能做到了，嗯。。至于普通php应用的那些用户表转换成php的公钥私钥倒是有些麻烦。。而且内置php在解析执行的时候还要做好限制防范跨站跨目录啥。。估计php还要重写一遍。。一个想法，集思广益\n",
+			"date_added": 1478077704
 		}
 	],
 	"post_like": {
@@ -211,6 +216,30 @@
 			"body": "@Woodsfirezyj: 这句话看得我好心疼。。。/笑cry，哎。。。现在国家昏乱，也只有魁宝还在那待人寻了",
 			"post_uri": "1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1478064552",
 			"date_added": 1478077196
+		},
+		{
+			"comment_id": 26,
+			"body": "@HelloArch: +1，知乎用户的话语导向性好严重。。热点问题经常会上知乎讨论，我猜这是现在统治者所不希望的",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478077063",
+			"date_added": 1478077772
+		},
+		{
+			"comment_id": 27,
+			"body": "@HelloArch: 一旦大于10MB用户第一次访问时就会好蛋疼。。各种卡和加载困难，五月份我在我的博客[cxg2014](/cxg2014.bit)里放了两个背景音乐文件一共有14MB（大概），结果好多用户访问我的网站申请的都是50MB，甚至100MB的权限，吓cry，现在这个问题不知道解决了没有",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478077720",
+			"date_added": 1478078109
+		},
+		{
+			"comment_id": 28,
+			"body": "@HelloArch: 而且我看@p2p 写的教程好像也不赞成文件大于10MB",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478077720",
+			"date_added": 1478078192
+		},
+		{
+			"comment_id": 29,
+			"body": "I can see it. :)",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1478078020",
+			"date_added": 1478078431
 		}
 	],
 	"follow": [
@@ -360,6 +389,13 @@
 			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
 			"user_name": "Talnicrom",
 			"date_added": 1476404943
+		},
+		{
+			"follow_id": 22,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1478078535
 		}
 	],
 	"settings": {
