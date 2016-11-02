@@ -29,7 +29,7 @@
 		},
 		{
 			"comment_id": 4,
-			"body": "Depende de tu OS. En Linux en el \"system monitor\" con solo buscar por ZN me da inmediatamente los procesos que estan corriendo... y con un kill :D",
+			"body": "Depende de tu OS. En Linux en el \"system monitor\" con solo buscar por ZN me da inmediatamente los procesos que estan corriendo... y con un kill :D\n\nY para conocer los procesos que ya se inician con el arranque es suficiente con un `crontab -e`",
 			"post_uri": "18EjLHTadBR6ci3XRWyMfsGeWVtXTR8xx_1477759700",
 			"date_added": 1478031922
 		}
