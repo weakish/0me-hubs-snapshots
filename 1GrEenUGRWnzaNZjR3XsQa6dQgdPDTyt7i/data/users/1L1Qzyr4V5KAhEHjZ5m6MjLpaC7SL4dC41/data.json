@@ -1,0 +1,69 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 1,
+	"next_follow_id": 8,
+	"avatar": "generate",
+	"user_name": "Anymous",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1478115440,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "18KXbkpmLmtWDn472HKF8SLoaEN9mmWbjs",
+			"user_name": "Sergiolfernandes",
+			"date_added": 1478115445
+		},
+		{
+			"follow_id": 2,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1Fe92sgioKDdbXMQST6WnUXwGcHnA82Wip",
+			"user_name": "Mauros",
+			"date_added": 1478115505
+		},
+		{
+			"follow_id": 3,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1MG4TqczE7MedSksrpXBGaibTPRDy51P48",
+			"user_name": "Luislazaro",
+			"date_added": 1478115508
+		},
+		{
+			"follow_id": 4,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1NmSgRfn4AkyjHeET7PzTafmKppihoD6nK",
+			"user_name": "",
+			"date_added": 1478115552
+		},
+		{
+			"follow_id": 5,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "19a377ARxUgjzrFjWAN2JPDEEnEZzDShSK",
+			"user_name": "Ericksoares3",
+			"date_added": 1478115557
+		},
+		{
+			"follow_id": 6,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "17GoSBQa419SCrJkj4djvTAgRFCDWHKuM3",
+			"user_name": "Brkaka",
+			"date_added": 1478115565
+		},
+		{
+			"follow_id": 7,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1Kz1uZrEtodpWQJEsqf7VGgaUQbcpqBh5R",
+			"user_name": "Anymus",
+			"date_added": 1478115580
+		}
+	]
+}

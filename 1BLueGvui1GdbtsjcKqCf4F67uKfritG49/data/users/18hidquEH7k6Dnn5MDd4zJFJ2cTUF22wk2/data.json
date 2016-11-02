@@ -1,6 +1,6 @@
 {
 	"next_post_id": 17,
-	"next_comment_id": 30,
+	"next_comment_id": 31,
 	"next_follow_id": 23,
 	"avatar": "jpg",
 	"user_name": "Cxgreat2014",
@@ -240,6 +240,12 @@
 			"body": "I can see it. :)",
 			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1478078020",
 			"date_added": 1478078431
+		},
+		{
+			"comment_id": 30,
+			"body": "@weakish: 能否内置一份编译好的php可执行文件而非用Python或js去实现呢？当用户访问php文件时自动交由php处理后再反馈给用户",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478077720",
+			"date_added": 1478114626
 		}
 	],
 	"follow": [

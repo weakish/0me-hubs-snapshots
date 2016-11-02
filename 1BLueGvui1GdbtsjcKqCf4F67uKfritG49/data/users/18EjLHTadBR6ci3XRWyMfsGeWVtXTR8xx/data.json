@@ -1,7 +1,7 @@
 {
 	"next_post_id": 11,
-	"next_comment_id": 8,
-	"next_follow_id": 31,
+	"next_comment_id": 9,
+	"next_follow_id": 32,
 	"avatar": "jpg",
 	"user_name": "Thekiller66",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -47,7 +47,9 @@
 		"1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1474593775": 1474610683,
 		"1GucgDmfpJrHZmG6ukrM1Wjq5Cs6oXevzu_1476977185": 1477761735,
 		"1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1477677074": 1477762314,
-		"1HcK5Hw1rPZeYdgTmqJGrVG2tSyR9Ke2Gt_1476886630": 1477929070
+		"1HcK5Hw1rPZeYdgTmqJGrVG2tSyR9Ke2Gt_1476886630": 1477929070,
+		"1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1478064552": 1478115356,
+		"1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1477852783": 1478115852
 	},
 	"comment": [
 		{
@@ -91,6 +93,12 @@
 			"body": "Thanks dude :)",
 			"post_uri": "1GucgDmfpJrHZmG6ukrM1Wjq5Cs6oXevzu_1476977185",
 			"date_added": 1477762051
+		},
+		{
+			"comment_id": 8,
+			"body": "@Cer: Uso Windows 7 ya que no soy el unico que usa la Pc en mi familia y no se quieren arriesgar a probar alguna distro GNU/Linux (aunque ya he probado algunas derivadas de Debian), ademas de que las que son \"mas faciles de usar\" (parecidas a Windows para mi familia) carecen de algunas caracteristicas que busco (como el compartir mi red WiFi (si tienen la opcion, pero no tengo de momento 2 tarjetas de red  y no encuentro ninguna opcion que me deje usar 1 como repetidor y recibidor) Aiuda :'v)",
+			"post_uri": "18EjLHTadBR6ci3XRWyMfsGeWVtXTR8xx_1477759700",
+			"date_added": 1478116021
 		}
 	],
 	"follow": [
@@ -296,6 +304,13 @@
 			"auth_address": "1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi",
 			"user_name": "Eibriel",
 			"date_added": 1477803287
+		},
+		{
+			"follow_id": 31,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi",
+			"user_name": "Eibriel",
+			"date_added": 1478115233
 		}
 	],
 	"settings": {
