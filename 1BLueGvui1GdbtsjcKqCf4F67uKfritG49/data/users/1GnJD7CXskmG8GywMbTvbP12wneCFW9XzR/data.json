@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 55,
+	"next_comment_id": 57,
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -373,6 +373,18 @@
 			"body": "mother of wife is \"mother-in-law\" in English.",
 			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1478000462",
 			"date_added": 1478093499
+		},
+		{
+			"comment_id": 55,
+			"body": "内置php解析器，Zeronet只有Python和JavaScript，用Python或JavaScript实现PHP不现实。",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478077720",
+			"date_added": 1478095493
+		},
+		{
+			"comment_id": 56,
+			"body": "在我的电脑上看到的是Total:2719kB，User Data:2397kB，也就是说大头是User Data，User Data是用户（别人）在你的站点上发的内容，你sign & publish只是你自己的，不包括别人的。现在还没有管理界面。[#354](https://github.com/HelloZeroNet/ZeroNet/issues/354) 手工的话，你需要改`data/users/[useraddress]/content.json`，然后以你的名义发布，`zeronet.py siteSign [yoursiteaddress] --inner_path data/users/[useraddress]/content.json --publish`",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478063767",
+			"date_added": 1478096482
 		}
 	]
 }

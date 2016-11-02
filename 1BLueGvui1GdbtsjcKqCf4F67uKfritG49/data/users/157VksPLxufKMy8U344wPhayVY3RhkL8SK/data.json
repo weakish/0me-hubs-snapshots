@@ -1,6 +1,6 @@
 {
-	"next_post_id": 6,
-	"next_comment_id": 11,
+	"next_post_id": 7,
+	"next_comment_id": 12,
 	"next_follow_id": 8,
 	"avatar": "jpg",
 	"user_name": "怡红院",
@@ -31,6 +31,11 @@
 			"post_id": 1478063767,
 			"body": "为什么之前的用户data数据还能在节点之间流传？\n\n我自己本机已经没有了，且rebuild 过数据库，sian & publish了。我本机[yihongyuan.bit](http://127.0.0.1:43110/yihongyuan.bit)首页右上角显示只有356.69kb，而别的地方访问显示2.76Mb，是因为之前的用户数据还在传播。我已经重新签过名，且发布了，怎么之前的数据还能传播呢？我看了下别处访问下载的content.json，与我本机的一样。求解",
 			"date_added": 1478063762
+		},
+		{
+			"post_id": 1478095926,
+			"body": "\"怡红院\"暂时就这样了，删除之前的users data数据问题无法决解，有将近2.3Mb的无用数据。不过已经可以流畅使用了。欢迎来分享资源，索取资源。[yihongyuan.bit](http://127.0.0.1:43110/yihongyuan.bit)\n***\nPS：发帖后，最好找公用代理访问一下自己发的图片，这样子就不需要你等到有人为你做种。\n[GFWtalk上整理的代理网站](http://127.0.0.1:43110/gfwtalk.bit/?Topic:12_1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA/ZeroNet)\n[ZeroWiKi上整理的代理网站](http://127.0.0.1:43110/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP/?Page:proxies)",
+			"date_added": 1478095920
 		}
 	],
 	"post_like": {},
@@ -94,6 +99,12 @@
 			"body": "纳尼！",
 			"post_uri": "1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1478064552",
 			"date_added": 1478090473
+		},
+		{
+			"comment_id": 11,
+			"body": "@64: 先做来玩玩",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478095926",
+			"date_added": 1478098304
 		}
 	],
 	"follow": [

@@ -1,7 +1,7 @@
 {
-	"next_post_id": 46,
+	"next_post_id": 47,
 	"next_comment_id": 31,
-	"next_follow_id": 152,
+	"next_follow_id": 157,
 	"avatar": "png",
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -231,6 +231,11 @@
 			"post_id": 1477955823,
 			"body": "The email to onfirm email address on dida365.com (Chinese version of TickTick) does not show any explicit url link. The link it is hide in HTML. It is wrong to assume every email client renders HTML correctly.",
 			"date_added": 1477955778
+		},
+		{
+			"post_id": 1478095615,
+			"body": "Although Python still does not understand type hints, at least IDEs will give a warning. Or you can check types via `mypy`.",
+			"date_added": 1478095569
 		}
 	],
 	"post_like": {
@@ -1438,6 +1443,41 @@
 			"auth_address": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5",
 			"user_name": "莱文倩",
 			"date_added": 1478091449
+		},
+		{
+			"follow_id": 152,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "144GQ5Uz9dYQJ1MwjSFWWboLgHwdGpv21x",
+			"user_name": "Mzero",
+			"date_added": 1478095592
+		},
+		{
+			"follow_id": 153,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1BFh4e3Ln78uq8ccfvz8ADVNv2NWGh7Hgo",
+			"user_name": "koyuawsmbrtn",
+			"date_added": 1478095605
+		},
+		{
+			"follow_id": 154,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "19SMDgYNqtZfSS3XSAWceB6S6JDtHA5c2B",
+			"user_name": "Xiemx",
+			"date_added": 1478095608
+		},
+		{
+			"follow_id": 155,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi",
+			"user_name": "Eibriel",
+			"date_added": 1478095668
+		},
+		{
+			"follow_id": 156,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1958F7oCppj78MP966AfojMQwHg2WUupzq",
+			"user_name": "Lmath",
+			"date_added": 1478096007
 		}
 	]
 }
