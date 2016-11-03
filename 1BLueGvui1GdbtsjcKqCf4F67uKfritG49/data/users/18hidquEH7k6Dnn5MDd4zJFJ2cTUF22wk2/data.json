@@ -1,5 +1,5 @@
 {
-	"next_post_id": 17,
+	"next_post_id": 18,
 	"next_comment_id": 34,
 	"next_follow_id": 23,
 	"avatar": "jpg",
@@ -71,6 +71,11 @@
 			"post_id": 1478077720,
 			"body": "话说zeronet的10mb限制好蛋疼。。另外有个想法，我觉得貌似可以实现，在zeronet里内置一个php解析器，这样php应用就可以大批量移植到zeronet上来了，数据存储依然是用sqlite，只要在执行提交数据库的操作时就调用zeronet来签名更新就能做到了，嗯。。至于普通php应用的那些用户表转换成php的公钥私钥倒是有些麻烦。。而且内置php在解析执行的时候还要做好限制防范跨站跨目录啥。。估计php还要重写一遍。。一个想法，集思广益\n",
 			"date_added": 1478077704
+		},
+		{
+			"post_id": 1478149345,
+			"body": "我发现貌似zeronet上的消息普遍存在3到7分钟左右的延时。。有办法提升速度吗？",
+			"date_added": 1478149328
 		}
 	],
 	"post_like": {
@@ -261,7 +266,7 @@
 		},
 		{
 			"comment_id": 33,
-			"body": "@Lovelychian: 蛤？这可好，哈哈，不过我没开发啥，吐槽两句应该不会被他们盯得态势，还没完全是1984",
+			"body": "@Lovelychian: 蛤？这可好，哈哈，不过我没开发啥，吐槽两句应该不会被他们盯得太死，还没完全是1984",
 			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478066504",
 			"date_added": 1478136424
 		}

@@ -1,5 +1,5 @@
 {
-	"next_post_id": 3,
+	"next_post_id": 4,
 	"next_comment_id": 4,
 	"next_follow_id": 3,
 	"avatar": "generate",
@@ -16,6 +16,11 @@
 			"post_id": 1477064594,
 			"body": "Hi,I am a public ID.(嗨，我是一个公用号。)\n\n```\n\"1MUJ6DQupnvWGUwosUGZwrjBi3Q9vjaD9m\": {\n    \"certs\": {\n      \"zeroid.bit\": {\n        \"auth_address\": \"14139fxEEc7VuHVxvK2UqYSeX3rJqiADVY\", \n        \"auth_privatekey\": \"5JYjA6xs4z1HeuJtkVgUbKd4dXMu6YdDmpps3eyyFe7ydQscrqr\", \n        \"auth_type\": \"web\", \n        \"auth_user_name\": \"freedomchina\", \n        \"cert_sign\": \"G2pdexXq1SXyCVE4fPMCkfwqRpxcb8OXlIswrIcQTerR2YvuIP3Jx/klJlZJox5MsUblDXYcHFaOIwAlLPoZZEo=\"\n      }\n    }, \n    \"master_seed\": \"48e7fca6cb5a47e8a2c4dfe5531d394408a2e42533db3026fc517599ec8e4bf8\", \n    \"sites\": {\n      \"1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D\": {\n        \"auth_address\": \"15yoZrcH5mykW9LBCaooD4bUDr6HzxWQxR\", \n        \"auth_privatekey\": \"5KGasejkH4sWYvmXzkMmEodUjuUD27HTmUW1c79MZ9UqxDD8Hr3\"\n      }, \n      \"1MaiL5gfBM1cyb4a8e3iiL8L5gXmoAJu27\": {\n        \"auth_address\": \"1FfbgaYBXjXSGpogz1kSvgrnsDqv4wFjnU\", \n        \"auth_privatekey\": \"5HxWbqoakTGPFj9fS8D6yqjMmXpCcCJSrXg4cT8c411aehHjXMf\", \n        \"cert\": \"zeroid.bit\"\n      }, \n      \"1iD5ZQJMNXu43w1qLB8sfdHVKppVMduGz\": {\n        \"auth_address\": \"14139fxEEc7VuHVxvK2UqYSeX3rJqiADVY\", \n        \"auth_privatekey\": \"5JYjA6xs4z1HeuJtkVgUbKd4dXMu6YdDmpps3eyyFe7ydQscrqr\"\n      }\n    }\n  }\n}\n```\nCreate an empty txt ,then copy above code in it ,save as the name of `users.json` ,then move the `users.json` to `ZeroBundle\\ZeroNet\\data`,then you can use the ID.(新建一个空txt文档，把上面的代码复制进去，保存，把名字改为`users.json`，把它移到`ZeroBundle\\ZeroNet\\data`目录下，就可以用这个账号了。)",
 			"date_added": 1477064592
+		},
+		{
+			"post_id": 1478149145,
+			"body": "貌似本地时间会影响zeronet上显示的发布时间。。",
+			"date_added": 1478149142
 		}
 	],
 	"post_like": {
@@ -50,5 +55,14 @@
 			"user_name": "公众号(Public ID)",
 			"date_added": 1476892057
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }

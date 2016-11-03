@@ -1,6 +1,6 @@
 {
 	"next_post_id": 7,
-	"next_comment_id": 12,
+	"next_comment_id": 13,
 	"next_follow_id": 8,
 	"avatar": "jpg",
 	"user_name": "怡红院",
@@ -105,6 +105,12 @@
 			"body": "@64: 先做来玩玩",
 			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478095926",
 			"date_added": 1478098304
+		},
+		{
+			"comment_id": 12,
+			"body": "@Lovelychian: 你可以参考一下这个zeromux，可以实现碎片化下载，边下边播：http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/docs/\n\n这里是他的\n[例子1](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/?type=video/mp4&codecs=avc1.640028,mp4a.40.2&json=files/sora_op_mp4/file.json&moov=files/sora_op_mp4/soraopmoov.dat&poster=files/sora_op_mp4/poster.png)\n[例子2](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/?type=video/mp4&codecs=avc1.640028,mp4a.40.2&json=files/yrc_op_mp4/file.json&poster=files/yrc_op_mp4/poster.png)\n\n还有这个webtorrent的demon:https://instant.io/",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478095926",
+			"date_added": 1478147469
 		}
 	],
 	"follow": [
