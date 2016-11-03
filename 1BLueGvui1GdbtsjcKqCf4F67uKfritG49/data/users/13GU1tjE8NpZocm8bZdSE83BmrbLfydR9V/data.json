@@ -1,7 +1,7 @@
 {
 	"next_post_id": 3,
 	"next_comment_id": 4,
-	"next_follow_id": 1,
+	"next_follow_id": 3,
 	"avatar": "generate",
 	"user_name": "It's a test!",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -19,7 +19,8 @@
 		}
 	],
 	"post_like": {
-		"1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1473959134": 1474529145
+		"1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1473959134": 1474529145,
+		"18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6_1": 1478180577
 	},
 	"comment": [
 		{
@@ -41,5 +42,20 @@
 			"date_added": 1474529095
 		}
 	],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1478181249
+		},
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib",
+			"user_name": "megfault",
+			"date_added": 1478181265
+		}
+	]
 }

@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 32,
+	"next_comment_id": 34,
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -10,7 +10,8 @@
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477650825": 1477659536,
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477909896": 1477955608,
 		"1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1478058234": 1478091513,
-		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477977301": 1478092017
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477977301": 1478092017,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478172715": 1478178999
 	},
 	"comment": [
 		{
@@ -198,6 +199,18 @@
 			"body": "@HelloArch: 共济会，英文为Freemasonry，直译就是自由石匠工会",
 			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1478058234",
 			"date_added": 1478091668
+		},
+		{
+			"comment_id": 32,
+			"body": "不用高中数学，初中数学即可。学好英语，看[《The Little Schemer》](https://www.amazon.com/Little-Schemer-Daniel-P-Friedman/dp/0262560992)，一个周末（3个晚上加2个白天）即可入门。如果嫌《The Little Schemer》贵，次选是[《CoffeeScript Ristretto》](https://leanpub.com/coffeescript-ristretto)，大致是《The Little Schemer》的 CoffeeScript 版本，网上可免费阅读，或者[《How to Design Programs 》](http://htdp.org/2003-09-26/Book/)，同样网上可免费阅读，这书可能需要一周（7天7夜，不一定准，因为我当初是每天抽一点时间，断断续续读了2-3周，而且跳过了很多习题），相比前面两本书的缺点是：比较啰嗦（或者说不那么浓缩），深度也差一点，而且是用编写游戏的形式入门，如果对写游戏不感兴趣读起来就比较枯燥。以上三书中，如果英文程度不够，推荐《The Little Schemer》，难以想象，只有200页不到，大部分是代码和图画，每页没有几行字，从0基础一直讲到柯里化、高阶函数、丘奇编码、计算器解释器、停机问题、lambda算子的递归和不动点、Continuation、CPS、Y组合子、哥德尔不完备定理，最后一章是实现一个简化的程序语言的解释器。如果英文完全不通，那《How to Design Programs 》有中译本《程序设计方法》，人民邮电出的，比较早了，现在基本买不到了，可以去图书馆碰碰运气。另外，《The Little Schemer》也有网友翻译的[中文版](https://uternet.github.io/TLS/)，可惜的是版式和图画都没有了（其中版式对此书是极其关键的）。",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1478170817",
+			"date_added": 1478181365
+		},
+		{
+			"comment_id": 33,
+			"body": "看完就基本入门了。就像数学理解了自然数、四则运算、函数、集合等。接下来就是如何使用计算器、如何查对数表、如何套公式之类的非核心部分了，这个可以直接上手写点小程序，边写边搜索积累就可以了。",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1478170817",
+			"date_added": 1478181559
 		}
 	]
 }

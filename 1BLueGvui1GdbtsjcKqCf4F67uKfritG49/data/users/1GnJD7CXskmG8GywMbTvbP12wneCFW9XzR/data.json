@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 57,
+	"next_comment_id": 59,
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -47,7 +47,8 @@
 		"1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1477119922": 1477183242,
 		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1477146103": 1477183314,
 		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1477994438": 1478093255,
-		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1477996218": 1478093388
+		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1477996218": 1478093388,
+		"1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP_1478178279": 1478179040
 	},
 	"comment": [
 		{
@@ -385,6 +386,18 @@
 			"body": "在我的电脑上看到的是Total:2719kB，User Data:2397kB，也就是说大头是User Data，User Data是用户（别人）在你的站点上发的内容，你sign & publish只是你自己的，不包括别人的。现在还没有管理界面。[#354](https://github.com/HelloZeroNet/ZeroNet/issues/354) 手工的话，你需要改`data/users/[useraddress]/content.json`，然后以你的名义发布，`zeronet.py siteSign [yoursiteaddress] --inner_path data/users/[useraddress]/content.json --publish`",
 			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478063767",
 			"date_added": 1478096482
+		},
+		{
+			"comment_id": 57,
+			"body": "@Cxgreat2014: 那样一个是安装包会大很大，而且php的很多操作都是不安全的，如果要安全，需要js或python预处理，过滤不安全语句，这和用js或python实现php也差不多了。",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478077720",
+			"date_added": 1478178604
+		},
+		{
+			"comment_id": 58,
+			"body": "@Cxgreat2014: 还有一种选择就是本地跑php，通过http通讯，不考虑安全性（因为只在站长机子上跑），缺点是不分布了。",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478077720",
+			"date_added": 1478178718
 		}
 	]
 }

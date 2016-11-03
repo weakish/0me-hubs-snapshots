@@ -1,5 +1,5 @@
 {
-	"next_post_id": 47,
+	"next_post_id": 48,
 	"next_comment_id": 31,
 	"next_follow_id": 157,
 	"avatar": "png",
@@ -236,6 +236,11 @@
 			"post_id": 1478095615,
 			"body": "Although Python still does not understand type hints, at least IDEs will give a warning. Or you can check types via `mypy`.",
 			"date_added": 1478095569
+		},
+		{
+			"post_id": 1478179185,
+			"body": "All Linux distributions where UEFI Secure Boot works out of the box (e.g. Fedora, OpenSuse, Ubuntu) are using systemd! #WTF",
+			"date_added": 1478179138
 		}
 	],
 	"post_like": {
