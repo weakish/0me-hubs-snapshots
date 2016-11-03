@@ -1,7 +1,7 @@
 {
-	"next_post_id": 48,
+	"next_post_id": 49,
 	"next_comment_id": 31,
-	"next_follow_id": 157,
+	"next_follow_id": 159,
 	"avatar": "png",
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -241,6 +241,11 @@
 			"post_id": 1478179185,
 			"body": "All Linux distributions where UEFI Secure Boot works out of the box (e.g. Fedora, OpenSuse, Ubuntu) are using systemd! #WTF",
 			"date_added": 1478179138
+		},
+		{
+			"post_id": 1478184567,
+			"body": "For any one want to pick up programming language , I recommend [The Little Schemer](https://www.amazon.com/Little-Schemer-Daniel-P-Friedman/dp/0262560992)，less than 200 pages and can be finished in a weekend. It starts from zero and gradually introduces concepts like recursion, higher-order functions, curry, Church encoding, halting problem, lambda calculus,  fixed point, Y combinator, continuation, CPS, Godel Incompleteness Theorem, and a basic interperator for a simplified progarmming language. \n\nIf you think The Little Schemer is expensive, you can try [CoffeeScript Ristretto](https://leanpub.com/coffeescript-ristretto), somehow a translation of The Little Schemer to CoffeeScript, which can be read on line for free. \n\nDo not worry the above books do not use a language you are going to use in your work. After all, the right approach to pick the certain programming language you are going to use is to focus on  semantics, instead of syntax; focus on concepts, instead of concrete details; focus on good parts, instead of all parts; also learning the implemantation of the language is a good way, since modeling is an effective way of learning (no need a full implement, also not worry about performance, just implement basic and import concepts).  The Littele Schemer fully conforms to this approach. Once you learned the scheme language with it, you know how to learn a new languge, and you know essential concepts of programing language. Then you can just pick up any language you are going to use in the same way. And because you only need to understand new semantics and concepts of the new language, it will be fast. For syntax, just use a good IDE or setup your editor properly.\n",
+			"date_added": 1478184519
 		}
 	],
 	"post_like": {
@@ -1483,6 +1488,20 @@
 			"auth_address": "1958F7oCppj78MP966AfojMQwHg2WUupzq",
 			"user_name": "Lmath",
 			"date_added": 1478096007
+		},
+		{
+			"follow_id": 157,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF",
+			"user_name": "Woodsfirezyj",
+			"date_added": 1478183251
+		},
+		{
+			"follow_id": 158,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1BgqiduD5yMiySpgVzw7N9PHvojhFr3zZx",
+			"user_name": "屁股蛋",
+			"date_added": 1478183300
 		}
 	]
 }
