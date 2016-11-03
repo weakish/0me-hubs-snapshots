@@ -1,6 +1,6 @@
 {
 	"next_post_id": 43,
-	"next_comment_id": 111,
+	"next_comment_id": 116,
 	"next_follow_id": 48,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
@@ -204,12 +204,12 @@
 		},
 		{
 			"post_id": 1478169680,
-			"body": "Firefox的开发者模式真他妈好用，点一下就知道元素叫什么了",
+			"body": "开发者模式真他妈好用，点一下就知道元素叫什么了",
 			"date_added": 1478169639
 		},
 		{
 			"post_id": 1478172715,
-			"body": "我真心觉得大家应该看看我这一天的成果：[点这里](http://127.0.0.1:43110/nekox.bit) 虽然一大半颜值都是背景贡献的",
+			"body": "我真心觉得大家应该看看我这一天的成果：[点这里](http://127.0.0.1:43110/nekox.bit) 虽然一大半颜值都是背景贡献的。大家访问时记得重新加载一下框架",
 			"date_added": 1478172673
 		}
 	],
@@ -877,6 +877,36 @@
 			"body": "我干脆把Nullchan的CSS用注释一下吧，方便后来人修改，不必做重复的工作了",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478169680",
 			"date_added": 1478170180
+		},
+		{
+			"comment_id": 111,
+			"body": "似乎有点难",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1478170817",
+			"date_added": 1478174970
+		},
+		{
+			"comment_id": 112,
+			"body": "@Cxgreat2014: 原来Chrome也有",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478169680",
+			"date_added": 1478175125
+		},
+		{
+			"comment_id": 113,
+			"body": "@Cxgreat2014: 我既喜欢软软的真妹子也喜欢女装子，各有各的萌点。骨架、喉结和丁丁是萌点之一",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478172715",
+			"date_added": 1478176701
+		},
+		{
+			"comment_id": 114,
+			"body": "@Cxgreat2014: 看了一下IE11的开发者模式，明显没有Chrome和Firefox的好用",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478169680",
+			"date_added": 1478176771
+		},
+		{
+			"comment_id": 115,
+			"body": "用公共代理做完种，绝大多数人应该能正确显示了",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478172715",
+			"date_added": 1478177794
 		}
 	],
 	"follow": [

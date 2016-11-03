@@ -1,6 +1,6 @@
 {
-	"next_post_id": 18,
-	"next_comment_id": 37,
+	"next_post_id": 20,
+	"next_comment_id": 40,
 	"next_follow_id": 23,
 	"avatar": "jpg",
 	"user_name": "Cxgreat2014",
@@ -76,12 +76,24 @@
 			"post_id": 1478149345,
 			"body": "我发现貌似zeronet上的消息普遍存在3到7分钟左右的延时。。有办法提升速度吗？",
 			"date_added": 1478149328
+		},
+		{
+			"post_id": 1478175765,
+			"body": "突然发现好像有的不是消息延时的问题，而是各人主机时间不一致的问题，@p2p 要不你去开个反馈要求启动时自动从tracker或者啥地方请求当前时间并与自己主机时间进行计算得到时间差，然后之后发消息都经过时间差修正再发出去？",
+			"date_added": 1478175747
+		},
+		{
+			"post_id": 1478175885,
+			"body": "。。。。几个小时没上，当我把回复与自己想要回答的帖子一一回复了之后突然发现页面右侧Activity feed已经被我刷屏了怎么破。。。/捂脸",
+			"date_added": 1478175866
 		}
 	],
 	"post_like": {
 		"1GK3hKWZufWUHfUwnye7o1s4E6UfaB8nCk_3": 1471219886,
 		"1BTK7LKA1LrvCjNqVrPmBtySWhSaHnG97Q_10": 1471439156,
-		"1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP_1473945406": 1473953111
+		"1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP_1473945406": 1473953111,
+		"18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478175765": 1478175935,
+		"18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478175885": 1478175937
 	},
 	"comment": [
 		{
@@ -287,6 +299,24 @@
 			"body": "@Lmath: 这个torrent我在vps上安装的transmission可以下载，六个udp服务器都能连上",
 			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1477966768",
 			"date_added": 1478149473
+		},
+		{
+			"comment_id": 37,
+			"body": "@P2P: 他人发表的消息往往要三分钟到七分钟才能在自己电脑上看到，没用代理，就是这么慢。。",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478149345",
+			"date_added": 1478174657
+		},
+		{
+			"comment_id": 38,
+			"body": "@P2P: +1",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478066504",
+			"date_added": 1478174803
+		},
+		{
+			"comment_id": 39,
+			"body": "@P2P: 貌似不行。。在vps上下载可以，在vps上开启vpn自己电脑连上下载就无法连上tracker了\n",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1477966768",
+			"date_added": 1478174853
 		}
 	],
 	"follow": [
