@@ -1,11 +1,11 @@
 {
-	"next_post_id": 3,
+	"next_post_id": 4,
 	"next_comment_id": 2,
-	"next_follow_id": 1,
-	"avatar": "generate",
+	"next_follow_id": 3,
+	"avatar": "png",
 	"user_name": "Alex539",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
-	"intro": "Random ZeroNet user",
+	"intro": "P2P net is the future.",
 	"post": [
 		{
 			"post_id": 1,
@@ -16,6 +16,11 @@
 			"post_id": 1474598280,
 			"body": "Meow",
 			"date_added": 1474598278
+		},
+		{
+			"post_id": 1478158579,
+			"body": "Sirf Delhi de ek banda Indian hain kya?",
+			"date_added": 1478158576
 		}
 	],
 	"post_like": {},
@@ -27,5 +32,20 @@
 			"date_added": 1474598378
 		}
 	],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "121woSxfB7K9TSKEpUCaUEqx1C7Cnz4ZBX",
+			"user_name": "NooitAf",
+			"date_added": 1478158820
+		},
+		{
+			"follow_id": 2,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1NVUgbwvjhhszrQdG9dNGZAcJuQfpRUQSj",
+			"user_name": "Flyingfish",
+			"date_added": 1478158831
+		}
+	]
 }
