@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 59,
+	"next_comment_id": 61,
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -48,7 +48,8 @@
 		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1477146103": 1477183314,
 		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1477994438": 1478093255,
 		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1477996218": 1478093388,
-		"1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP_1478178279": 1478179040
+		"1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP_1478178279": 1478179040,
+		"1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1477443149": 1478188363
 	},
 	"comment": [
 		{
@@ -398,6 +399,18 @@
 			"body": "@Cxgreat2014: 还有一种选择就是本地跑php，通过http通讯，不考虑安全性（因为只在站长机子上跑），缺点是不分布了。",
 			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478077720",
 			"date_added": 1478178718
+		},
+		{
+			"comment_id": 59,
+			"body": "@Cxgreat2014: 富文本编辑器肯定是用JavaScript写的呀，就算是PHP网站也得用JavaScript写这个，否则加粗一下就重载页面谁受得了？",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478077720",
+			"date_added": 1478186103
+		},
+		{
+			"comment_id": 60,
+			"body": "Currently only the site owner can delete posts and block users. Maybe besides `like`, there need to be a  `flag as spam` icon, if a post receives >n flag report, it will be hidden.",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1477472719",
+			"date_added": 1478188225
 		}
 	]
 }

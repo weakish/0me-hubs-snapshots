@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 35,
+	"next_comment_id": 42,
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -217,6 +217,48 @@
 			"body": "@猫叉酱: 英语四级就够了，专业词汇在阅读中慢慢积累。会C, 如果是基本语法的话，一般不超过2年。如果能用C写一些不是太简单的程序（包括基本会用指针，克服C的常见的坑），那不超过半年，因为这个基本就是合格计算机专业毕业生的水平了，那虽然这C的水平算不上专业（其实这也勉强够了，如果单位肯培训的话，关键是需求C的岗位少，很少因为有因为很缺人而先招苗子自己训练的单位），但学一门市场需求大一点、坑少一点的语言，半年足以。这里的专业指普通码农的水准。但是非计算机专业，会有歧视，这要有心理准备。大公司不好进（即使部门主管看中你，也会因为学历问题被HR挡下）。然后相对来说前端歧视少一点，一个是前端需求很大，一个是历史上很多「前端」原来常年重构HTML，不会JavaScript，本身就不专业，当然现在前端的要求高多了，但相对而言还是少歧视。其次是移动应用开发（Android或iOS），需求也比较大，歧视比前端稍高。前端和移动端的好处是，如果一时找不到工作，网上相对比较好接外包，实在接不到外包也可以在业余时间自己写个网站或应用，说不定就赚钱成独立开发者了，即使赚不了钱，也可以作为作品在以后应聘的时候展示。",
 			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1478170817",
 			"date_added": 1478183139
+		},
+		{
+			"comment_id": 35,
+			"body": "@猫叉酱: 机械、电气转的例子很多。",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1478170817",
+			"date_added": 1478185901
+		},
+		{
+			"comment_id": 36,
+			"body": "都不用https，不知道咋想的。",
+			"post_uri": "17F7Tv4U5FubX94o8SqGmM18bX6cpKbrXW_1478095621",
+			"date_added": 1478185984
+		},
+		{
+			"comment_id": 37,
+			"body": "@Usyoung: 没有客户端。不过有人在root了的安卓上跑zeronet python.",
+			"post_uri": "18EGQdBKfSvtG1s1d8XCw7Puw7AKLrngN8_1477585032",
+			"date_added": 1478186844
+		},
+		{
+			"comment_id": 38,
+			"body": "@Usyoung: 会删除。偶尔上的网站可以放收藏夹后删除。常上的就只能保留了，现在硬盘越来越便宜，然后大多数站点都在10MB以下，一些存储空间交换高速访问和离线可浏览还是划算的。",
+			"post_uri": "18EGQdBKfSvtG1s1d8XCw7Puw7AKLrngN8_1477585032",
+			"date_added": 1478186972
+		},
+		{
+			"comment_id": 39,
+			"body": "\"Physical love is unthinkable without violence.\" -- Milan Kundera, \"The Unbearable Lightness of Being\"",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1477584227",
+			"date_added": 1478187239
+		},
+		{
+			"comment_id": 40,
+			"body": "@dmp1ce: If you are using bitmessage, probably no (unless nofish had hidden a backdoor ZeroNet). You can check the code of ZeroID site and ZeroNet yourself. But if you register via `http`, then the message is send via http, even assuming we trust nofish will not record it, your ISP or the host provider of nofish or any node inbetween may record your IP.",
+			"post_uri": "15PZT6SDb3xX38PYQC5LH6NNWu7jD74KP2_1477580069",
+			"date_added": 1478187506
+		},
+		{
+			"comment_id": 41,
+			"body": "@Treegb: 目前绝大多数人注册的是zeroid.bit, 基本上所有站点也都支持这个zeroid.bit. 你也可以自建id服务。现在还有一个kaffee id，有少部分站点使用。",
+			"post_uri": "12zuieLqnfp1kB3iGZmThs8FJhTqDaMWyk_1477435952",
+			"date_added": 1478188504
 		}
 	]
 }
