@@ -1,5 +1,5 @@
 {
-	"next_post_id": 34,
+	"next_post_id": 35,
 	"next_comment_id": 19,
 	"next_follow_id": 12,
 	"avatar": "generate",
@@ -166,6 +166,11 @@
 			"post_id": 1477633037,
 			"body": "https://github.com/Bilibili/flv.js\nThis looks promising... The only downside is that it does not support an abstract stream.",
 			"date_added": 1477633004
+		},
+		{
+			"post_id": 1478128320,
+			"body": "Issue \\#-2 ZeroMux for beginners\n\nCreate a link to download all necessary tools rather than telling people to find the site folder.\n- `[+]` Make the UI\n- `[ ]` Write actual code\n\nWrite a Python program to help people split files and configure ZeroMux without having to write a line of code.\n- `[+]` Command line options\n- `[ ]` Managing files and folders\n\nCreate a permanent link for every big file.\n- `[+]` Files and folders are identified by random string IDs.\n- `[ ]` Make the UI",
+			"date_added": 1478128286
 		}
 	],
 	"post_like": {
