@@ -1,7 +1,7 @@
 {
-	"next_post_id": 23,
+	"next_post_id": 24,
 	"next_comment_id": 102,
-	"next_follow_id": 115,
+	"next_follow_id": 116,
 	"avatar": "jpg",
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -116,6 +116,11 @@
 			"post_id": 1476338831,
 			"body": "继续推荐一下 [@talnicrom](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/?Profile/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/19M1DT5vruSATEcbEczYRwCk2uPuLcATBa/talnicrom@zeroid.bit) 搞的 [ZeroMe \"Plus\"](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/) ，这几天又增加了Tooltip功能，即鼠标悬停在Activity feed里的某条，能够显示对应帖子/留言的更多内容。ZeroMe \"Plus\"的用法见我上上条推。",
 			"date_added": 1476338809
+		},
+		{
+			"post_id": 1478161999,
+			"body": "作者说ZeroNet 0.5 准备出来了，支持ZeroMe原生传图",
+			"date_added": 1478161976
 		}
 	],
 	"post_like": {
@@ -143,7 +148,8 @@
 		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1474917630": 1475452529,
 		"1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd_1475976512": 1476105641,
 		"1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib_9": 1476965542,
-		"1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd_1477551693": 1477670197
+		"1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd_1477551693": 1477670197,
+		"1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd_1477968172": 1478162477
 	},
 	"comment": [
 		{
@@ -1516,6 +1522,13 @@
 			"auth_address": "1L34ssdxfxnnSFEoUmy48LocCxnVAHtqSV",
 			"user_name": "Cnocg",
 			"date_added": 1478158083
+		},
+		{
+			"follow_id": 115,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB",
+			"user_name": "Ysc3839",
+			"date_added": 1478160271
 		}
 	],
 	"settings": {

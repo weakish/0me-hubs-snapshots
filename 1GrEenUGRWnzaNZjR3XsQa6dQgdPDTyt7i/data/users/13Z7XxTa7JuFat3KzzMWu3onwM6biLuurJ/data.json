@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 98,
+	"next_comment_id": 101,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -21,7 +21,8 @@
 		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477308305": 1477408000,
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477414170": 1477446513,
 		"15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1477412617": 1477446523,
-		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477650825": 1477669536
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477650825": 1477669536,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477929324": 1478159422
 	},
 	"comment": [
 		{
@@ -605,6 +606,24 @@
 			"body": "@Windonsurf: 你确定是因为这个？这条是9月27号的推，也就是说1个月前你加了两个hub。注意时间点。",
 			"post_uri": "1KNe8oqdHjEAYSEZByAikQi66GjZB1rSxL_1",
 			"date_added": 1477756183
+		},
+		{
+			"comment_id": 98,
+			"body": "@Cxgreat2014: 你对区块链的含义有误解。其重点其实是**链**。后一个块里包含前一个块的信息，一个扣一个形成链，使得其具有不可更改性。zeronet里目前没有区块链。twister的用户名注册部分是区块链，而帖子、消息并不是。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478013537",
+			"date_added": 1478159124
+		},
+		{
+			"comment_id": 99,
+			"body": "请贴出那个英文原文",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477988924",
+			"date_added": 1478159412
+		},
+		{
+			"comment_id": 100,
+			"body": "你之前做了什么导致异常？",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477978539",
+			"date_added": 1478162709
 		}
 	],
 	"flags": {},

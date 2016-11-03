@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 19,
+	"next_comment_id": 20,
 	"next_follow_id": 1,
 	"avatar": "jpg",
 	"user_name": "Erotic",
@@ -118,6 +118,12 @@
 			"body": "@Woodsfirezyj: zeronet是匈牙利的@nofish发明的",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477909896",
 			"date_added": 1478009630
+		},
+		{
+			"comment_id": 19,
+			"body": "你可以参考一下这个zeromux，可以实现碎片化下载，边下边播：http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/docs/\n\n这里是他的\n[例子1](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/?type=video/mp4&codecs=avc1.640028,mp4a.40.2&json=files/sora_op_mp4/file.json&moov=files/sora_op_mp4/soraopmoov.dat&poster=files/sora_op_mp4/poster.png)\n[例子2](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/?type=video/mp4&codecs=avc1.640028,mp4a.40.2&json=files/yrc_op_mp4/file.json&poster=files/yrc_op_mp4/poster.png)\n\n还有这个webtorrent的demon:https://instant.io/",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1478156562",
+			"date_added": 1478163347
 		}
 	],
 	"follow": [],
