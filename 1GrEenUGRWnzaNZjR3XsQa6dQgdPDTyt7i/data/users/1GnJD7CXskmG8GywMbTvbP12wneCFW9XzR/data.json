@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 42,
+	"next_comment_id": 49,
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -11,7 +11,9 @@
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477909896": 1477955608,
 		"1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1478058234": 1478091513,
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477977301": 1478092017,
-		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478172715": 1478178999
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478172715": 1478178999,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477414170": 1478189782,
+		"1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1477391375": 1478189972
 	},
 	"comment": [
 		{
@@ -259,6 +261,48 @@
 			"body": "@Treegb: 目前绝大多数人注册的是zeroid.bit, 基本上所有站点也都支持这个zeroid.bit. 你也可以自建id服务。现在还有一个kaffee id，有少部分站点使用。",
 			"post_uri": "12zuieLqnfp1kB3iGZmThs8FJhTqDaMWyk_1477435952",
 			"date_added": 1478188504
+		},
+		{
+			"comment_id": 42,
+			"body": "@Treegb: 节点之间通讯是加密的（除非你用的是非常非常老的ZeroNet版本）。加密私人信息的站点有ZeroMail,所有人的邮件保存在所有访问ZeroMail的人的电脑上，但只有本人才能解密（包括站长都不能解密，当然站长在站点里加入后门，所以你如果非常警惕的话每次站长更新站点都先审计代码）。现在缺乏的私密站点，现在是只要知道地址，每个人都能访问。未来会支持私密站点，只向特定用户开放。相关进度见[#62](https://github.com/HelloZeroNet/ZeroNet/issues/62)",
+			"post_uri": "12zuieLqnfp1kB3iGZmThs8FJhTqDaMWyk_1477435952",
+			"date_added": 1478188888
+		},
+		{
+			"comment_id": 43,
+			"body": "@Treegb: 开放和加密并不矛盾。开放的是公共信息，比如wiki都是公共信息（没听说有哪个wiki专门收集世界上所有人的情书吧？像维基解密，也是因为政府、大企业的秘密和公共利益相关）。然后你每个月和谁打了电话，这是私人信息，不是公共信息，当然应该保密。如果你想公开那你自己贴出来也可以，但电话公司是要替你保密的，只能你自愿放弃，不能预设每个用户都打算公开私人信息。换个角度说，在没有版权的年代，你抄写一本书，书的作者会很高兴，因为帮助知识传播，但你要是天天逢人就说邻居的家长里短，邻居恐怕不会高兴吧。版权、保密，最初是为了鼓励创造，但是后来发现恐怕害处比好处多，阻碍知识传播，所以倒退回前版权时代，因此而开放，并不是为开放而开放。开放并不是终极价值，是手段。",
+			"post_uri": "12zuieLqnfp1kB3iGZmThs8FJhTqDaMWyk_1477435952",
+			"date_added": 1478189542
+		},
+		{
+			"comment_id": 44,
+			"body": "@Treegb: 所有你「做种」（已下载）的站点的基本信息。",
+			"post_uri": "1571aschsT4z2GPgEPfgsb9C3D27sLQH9w_1477446746",
+			"date_added": 1478189686
+		},
+		{
+			"comment_id": 45,
+			"body": "@P2P: 如果自建hub迁移问题不大，别人的评论可以复制过来，然后以站长的名义签名发布。如果是别人建的hub，那必须站长帮忙。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477413647",
+			"date_added": 1478189852
+		},
+		{
+			"comment_id": 46,
+			"body": "Not sure if escaping is a bad attitude. But I would say it cannot be the worst. It's rainning! Attitude 1: Why is it rainning! I will remove the clouds to other place. Attitude 2: I will find some place to hide. Attitued 3: I enjoy walking in the rain. For your example, attitude 3 would be `Thank godness! I am free from a gf!`. So if you think escaping good, then it is fine. Else if you think escaping is bad, then at least it is not the worst. ;-)",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1477391375",
+			"date_added": 1478190341
+		},
+		{
+			"comment_id": 47,
+			"body": "@P2pwave: 如果只是一般的电视软件，全站不加密有行，关键这是某组织搞的，其中大量电视台都是被封的。不上https实在说不过去。",
+			"post_uri": "17F7Tv4U5FubX94o8SqGmM18bX6cpKbrXW_1478095621",
+			"date_added": 1478191271
+		},
+		{
+			"comment_id": 48,
+			"body": "@Lmath: 就是成本而已。邮件对你私密，对网易可不私密。百度都全站https了，被运营商劫持怕了，运营商卖广告搞推广倒赚了不少，百度搜索广告收入就减少了。什么时候运营商劫持网易邮箱，插入替换广告，网易邮箱就会上https了。https的推进，运营商劫持功不可没，真是以毒攻毒。就像苹果高度封闭的应用API限制、发布渠道限制，制约了一大堆流氓软件，",
+			"post_uri": "17F7Tv4U5FubX94o8SqGmM18bX6cpKbrXW_1478095621",
+			"date_added": 1478191652
 		}
 	]
 }
