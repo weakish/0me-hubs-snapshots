@@ -1,6 +1,6 @@
 {
-	"next_post_id": 22,
-	"next_comment_id": 66,
+	"next_post_id": 24,
+	"next_comment_id": 71,
 	"next_follow_id": 23,
 	"avatar": "jpg",
 	"user_name": "Cxgreat2014",
@@ -96,6 +96,16 @@
 			"post_id": 1478223997,
 			"body": "[谷歌又双叒叕曝光Windows的0day漏洞，微软很不开心](http://www.freebuf.com/news/118699.html)/笑cry，这还让我们以后怎么用windows？前有windows本地提权，后有linux高危脏牛，我看我还是用livecd吧",
 			"date_added": 1478223976
+		},
+		{
+			"post_id": 1478269157,
+			"body": "吃鲸。。刚刚在用[代理](https://onlyzero.net/)访问zeronet时碰上证书不对疑似被中间人攻击了，当我看到之后第一件事情是点开看证书签发，是一个啥island签的，过期时间是2020年，手抖勾了向谷歌报告然后就点重新加载忘记截图了，大家注意防范。网络情况是hotspot shield美国免费节点。![吃了一鲸](/nekox.bit/data/users/18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2/2ba8f410d4d6c41af89606648f087235.jpg)",
+			"date_added": 1478269135
+		},
+		{
+			"post_id": 1478269355,
+			"body": "又遇到了，补图：![疑似MITM](/0chan.bit/data/users/18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2/7cca4290af9da11c31eb6ef2776807d8.jpg)",
+			"date_added": 1478269332
 		}
 	],
 	"post_like": {
@@ -484,6 +494,36 @@
 			"body": "@Ysc3839: 加上一个实时渲染，的确不难做。。但是要做好却真的很难",
 			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478077720",
 			"date_added": 1478267941
+		},
+		{
+			"comment_id": 66,
+			"body": "@Ysc3839: 这个。。也是没办法。。但是代码兼容、查错以及亢余提示啥的只有在IDE里才有",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478263717",
+			"date_added": 1478268091
+		},
+		{
+			"comment_id": 67,
+			"body": "@Ysc3839: 还没到不能忍要自己撸袖子上的地步。。除非日后zeronet越来越好，否则大不了换个地方开博客就是",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478077720",
+			"date_added": 1478268471
+		},
+		{
+			"comment_id": 68,
+			"body": "@Ysc3839:\n ![证书路径](/0chan.bit/data/users/18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2/cd25e4d738050cb6c333cac48cabef66.jpg)\n![详细信息](/0chan.bit/data/users/18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2/37ae3c227e8c0d89cc68791f71929329.jpg)",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478269355",
+			"date_added": 1478269898
+		},
+		{
+			"comment_id": 69,
+			"body": "@Ysc3839: 两种可能，第一种我的电脑开着hotspot shield因为啥奇葩的原因无法验证这个证书，不过目前上youtube1080P基本没问题，二则是MITM",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478269355",
+			"date_added": 1478270118
+		},
+		{
+			"comment_id": 70,
+			"body": "@Ysc3839: 基本确定MITM，正常连接的证书详细信息如下：![详细信息](/0chan.bit/data/users/18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2/192714440ed2e99844847aa0dca8992d.jpg)",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478269355",
+			"date_added": 1478270613
 		}
 	],
 	"follow": [
@@ -650,5 +690,7 @@
 	},
 	"blocked": [],
 	"flags": {},
-	"comment_like": {}
+	"comment_like": {
+		"13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_4": 1478268490
+	}
 }
