@@ -1,6 +1,6 @@
 {
-	"next_post_id": 12,
-	"next_comment_id": 20,
+	"next_post_id": 13,
+	"next_comment_id": 25,
 	"next_follow_id": 8,
 	"avatar": "jpg",
 	"user_name": "怡红院",
@@ -61,6 +61,11 @@
 			"post_id": 1478263717,
 			"body": "怡红院[yihongyuan.bit](http://127.0.0.1:43110/yihongyuan.bit)加了一张背景，不知道体验怎么样。觉得不好，再换吧。求教修改style.css哪里可以做到所有贴居中且美观一些。",
 			"date_added": 1478263706
+		},
+		{
+			"post_id": 1478265998,
+			"body": "发现nullchan模板可以按热度排序的，跟百度的贴吧一样。爽",
+			"date_added": 1478265986
 		}
 	],
 	"post_like": {},
@@ -178,6 +183,36 @@
 			"body": "@Nekocross: 把格式保存为utf-8无BOM格式就可以了",
 			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478230744",
 			"date_added": 1478249452
+		},
+		{
+			"comment_id": 20,
+			"body": "日本跟韩国的轮着用",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478262455",
+			"date_added": 1478265742
+		},
+		{
+			"comment_id": 21,
+			"body": "@P2pwave: 习惯用notepad++了。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478263717",
+			"date_added": 1478265844
+		},
+		{
+			"comment_id": 22,
+			"body": "@P2pwave: 好的，回头装来试试，谢谢",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478263717",
+			"date_added": 1478266409
+		},
+		{
+			"comment_id": 23,
+			"body": "@Hakai: 别撤回，我看到了，哈哈",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478263717",
+			"date_added": 1478267257
+		},
+		{
+			"comment_id": 24,
+			"body": "@Ysc3839: 其实notepad++装好插件，也还凑合。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478263717",
+			"date_added": 1478267479
 		}
 	],
 	"follow": [

@@ -1,11 +1,12 @@
 {
-	"next_comment_id": 6,
+	"next_comment_id": 11,
 	"user_name": "Ysc3839",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
 		"1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP_1477835148": 1477836340,
 		"1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1478064552": 1478080440,
-		"157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478063767": 1478080451
+		"157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478063767": 1478080451,
+		"15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1478243422": 1478267628
 	},
 	"comment": [
 		{
@@ -37,11 +38,43 @@
 			"body": "@Cxgreat2014: 我不相信只有这一个开源的编辑器。没有这些功能你就不能自己写吗？非得别人来做。另外[这个](https://github.com/zeronetscript/ZeroBlog)修改版的博客有分类功能",
 			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478077720",
 			"date_added": 1478262268
+		},
+		{
+			"comment_id": 6,
+			"body": "@weakish: 我觉得markdown编辑器自己写都不麻烦，无非就是点击按钮加入语句",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478077720",
+			"date_added": 1478267323
+		},
+		{
+			"comment_id": 7,
+			"body": "@P2pwave: 我不建议用这个，一般我都是用VSCode写html的",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478263717",
+			"date_added": 1478267374
+		},
+		{
+			"comment_id": 8,
+			"body": "@怡红院: 另外你可以用浏览器自带的开发者工具修改样式，改好了再复制到style.css里面",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478263717",
+			"date_added": 1478267487
+		},
+		{
+			"comment_id": 9,
+			"body": "有墙很正常，各国都有屏蔽一些违法信息的",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478262455",
+			"date_added": 1478267560
+		},
+		{
+			"comment_id": 10,
+			"body": "@Cxgreat2014: 我还是习惯在浏览器里面改，IDE实时调试还是有点延迟的",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478263717",
+			"date_added": 1478267845
 		}
 	],
 	"flags": {},
 	"comment_like": {
 		"18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_23": 1478080436,
-		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_20": 1478262190
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_20": 1478262190,
+		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_61": 1478267269,
+		"18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_58": 1478267449
 	}
 }
