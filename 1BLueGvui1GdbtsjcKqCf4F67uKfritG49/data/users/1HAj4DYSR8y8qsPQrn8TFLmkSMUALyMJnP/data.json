@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
 	"next_comment_id": 1,
-	"next_follow_id": 1,
+	"next_follow_id": 2,
 	"avatar": "generate",
 	"user_name": "Dawn31415",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -15,5 +15,13 @@
 	],
 	"post_like": {},
 	"comment": [],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1HAj4DYSR8y8qsPQrn8TFLmkSMUALyMJnP",
+			"user_name": "Dawn31415",
+			"date_added": 1478297758
+		}
+	]
 }
