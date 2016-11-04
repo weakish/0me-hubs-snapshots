@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
 	"next_comment_id": 3,
-	"next_follow_id": 65,
+	"next_follow_id": 66,
 	"avatar": "generate",
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -472,10 +472,17 @@
 			"auth_address": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow",
 			"user_name": "MilitaryRiotLab",
 			"date_added": 1478277827
+		},
+		{
+			"follow_id": 65,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1V7usnfmabQXPSNC2zrCpF2ed2jDZaujS",
+			"user_name": "Bingyuhuo",
+			"date_added": 1478286219
 		}
 	],
 	"settings": {
-		"reverse_comment_order": false,
+		"reverse_comment_order": true,
 		"mute_ugly": false,
 		"mute_spam": false,
 		"mute_blocked": false
