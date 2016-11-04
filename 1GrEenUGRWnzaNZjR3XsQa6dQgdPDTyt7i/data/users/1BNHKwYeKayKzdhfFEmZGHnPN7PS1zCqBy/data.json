@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"settings": {
@@ -20,8 +20,16 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "哈哈，知乎段子，注明出处",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1478247392",
+			"date_added": 1478251310
+		}
+	],
 	"follow": [],
 	"flags": {},
-	"blocked": []
+	"blocked": [],
+	"comment_like": {}
 }
