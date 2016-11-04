@@ -1,5 +1,5 @@
 {
-	"next_post_id": 113,
+	"next_post_id": 114,
 	"next_comment_id": 113,
 	"next_follow_id": 31,
 	"avatar": "jpg",
@@ -431,6 +431,11 @@
 			"post_id": 1478079443,
 			"body": "Question: How to manage Limit (of text you can write) of ZeroMe?\nHere is a problem: \"Content sign failed: invalid private key.\" message started to appear every time I post or comment something, or edit and save on ZeroMe. I had a conversation with SickBird when same thing happened to him. And it looks like it is because of Limit. Should I delete my old posts to be able to write new ones? I deleted some and \"sign fail\" message stopped to appear. Should I delete every comment in the past I wrote on other people posts? Is there some automatic way to start from \"blank\"? And what if I comment someone's post and then author of post deletes it then what happens with my comment? Is it becomes deleted or is it becomes stuck in the timeline? In last case am I doomed to eventually become unable to do/write anything in long term? I do not want to create new ID like Flyman1, Flyman2, Flyman3 and so on. Is there a way to kill Flyman profile entirely and create new one? And how to check my usage of Limit?",
 			"date_added": 1478079331
+		},
+		{
+			"post_id": 1478256716,
+			"body": "Question: Coordinates inside jpg file. How to detect, read, remove, edit them?\nTimes to times I hear about modern photo cameras and cell phones add coordinates of where picture was made (when picture was made). Surprise (I hate them)! So now I want to know how to deal with this fact. I want to know my photos doesn't contain coordinates. Simple idea is to convert jpg file into bmp file, check size of bmp (it must be header + 3 * X * Y) to be sure this bmp has no \"additional\" data, then convert this bmp into jpg file back. But it causes loss of quality. So where exactly in jpg file are those coordinates? How can I read them from my and other's photos, and how can I \"zero\" them?\nP.S. this video inspired me to ask this question: https://www.youtube.com/watch?v=fSErHToV8IU&index=2&list=PLOGi5-fAu8bGbhMeeCBndw_q9cbajYo5z",
+			"date_added": 1478256603
 		}
 	],
 	"post_like": {

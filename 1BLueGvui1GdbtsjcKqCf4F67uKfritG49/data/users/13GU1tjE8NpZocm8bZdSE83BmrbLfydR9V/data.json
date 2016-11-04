@@ -1,7 +1,7 @@
 {
-	"next_post_id": 3,
+	"next_post_id": 4,
 	"next_comment_id": 4,
-	"next_follow_id": 3,
+	"next_follow_id": 4,
 	"avatar": "generate",
 	"user_name": "It's a test!",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -16,6 +16,11 @@
 			"post_id": 1474390175,
 			"body": "Is it working?",
 			"date_added": 1474390173
+		},
+		{
+			"post_id": 1478254164,
+			"body": "For what it's worse, I'm more or less back on 0net.",
+			"date_added": 1478254161
 		}
 	],
 	"post_like": {
@@ -56,6 +61,13 @@
 			"auth_address": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib",
 			"user_name": "megfault",
 			"date_added": 1478181265
+		},
+		{
+			"follow_id": 3,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u",
+			"user_name": "Lola",
+			"date_added": 1478254168
 		}
 	]
 }
