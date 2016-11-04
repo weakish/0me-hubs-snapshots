@@ -1,5 +1,5 @@
 {
-	"next_post_id": 114,
+	"next_post_id": 115,
 	"next_comment_id": 115,
 	"next_follow_id": 31,
 	"avatar": "jpg",
@@ -436,6 +436,11 @@
 			"post_id": 1478256716,
 			"body": "Question: Coordinates inside jpg file. How to detect, read, remove, edit them?\nTimes to times I hear about modern photo cameras and cell phones add coordinates of where picture was made (when picture was made). Surprise (I hate them)! So now I want to know how to deal with this fact. I want to know my photos doesn't contain coordinates. Simple idea is to convert jpg file into bmp file, check size of bmp (it must be header + 3 * X * Y) to be sure this bmp has no \"additional\" data, then convert this bmp into jpg file back. But it causes loss of quality. So where exactly in jpg file are those coordinates? How can I read them from my and other's photos, and how can I \"zero\" them?\nP.S. this video inspired me to ask this question: https://www.youtube.com/watch?v=fSErHToV8IU&index=2&list=PLOGi5-fAu8bGbhMeeCBndw_q9cbajYo5z",
 			"date_added": 1478256603
+		},
+		{
+			"post_id": 1478261211,
+			"body": "YT Parody:\n.1. Simpsons + Game of Thrones: https://www.youtube.com/watch?v=ZcSSpw7t044\n.2. \"Game of Thrones\" 2D/Old RPG: https://www.youtube.com/watch?v=hftnySHVnF0",
+			"date_added": 1478261097
 		}
 	],
 	"post_like": {
@@ -455,7 +460,8 @@
 		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1477078700": 1477145408,
 		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1477336379": 1477377912,
 		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1477335413": 1477386059,
-		"1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1478037467": 1478076719
+		"1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1478037467": 1478076719,
+		"1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1478263741": 1478263849
 	},
 	"comment": [
 		{

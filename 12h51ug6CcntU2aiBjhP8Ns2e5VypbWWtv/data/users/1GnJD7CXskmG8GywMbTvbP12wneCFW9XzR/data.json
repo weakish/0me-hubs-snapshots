@@ -1,7 +1,7 @@
 {
-	"next_post_id": 49,
+	"next_post_id": 50,
 	"next_comment_id": 32,
-	"next_follow_id": 164,
+	"next_follow_id": 165,
 	"avatar": "png",
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -246,6 +246,11 @@
 			"post_id": 1478184567,
 			"body": "For any one want to pick up programming language , I recommend [The Little Schemer](https://www.amazon.com/Little-Schemer-Daniel-P-Friedman/dp/0262560992)，less than 200 pages and can be finished in a weekend. It starts from zero and gradually introduces concepts like recursion, higher-order functions, curry, Church encoding, halting problem, lambda calculus,  fixed point, Y combinator, continuation, CPS, Godel Incompleteness Theorem, and a basic interperator for a simplified progarmming language. \n\nIf you think The Little Schemer is expensive, you can try [CoffeeScript Ristretto](https://leanpub.com/coffeescript-ristretto), somehow a translation of The Little Schemer to CoffeeScript, which can be read on line for free. \n\nDo not worry the above books do not use a language you are going to use in your work. After all, the right approach to pick the certain programming language you are going to use is to focus on  semantics, instead of syntax; focus on concepts, instead of concrete details; focus on good parts, instead of all parts; also learning the implemantation of the language is a good way, since modeling is an effective way of learning (no need a full implement, also not worry about performance, just implement basic and import concepts).  The Littele Schemer fully conforms to this approach. Once you learned the scheme language with it, you know how to learn a new languge, and you know essential concepts of programing language. Then you can just pick up any language you are going to use in the same way. And because you only need to understand new semantics and concepts of the new language, it will be fast. For syntax, just use a good IDE or setup your editor properly.\n",
 			"date_added": 1478184519
+		},
+		{
+			"post_id": 1478263258,
+			"body": "A quick review of germ.io:\n\nWhat is cool:\n\n- Distinguish ideation with action.\n- Distinguish completed with not taken.\n- Nested sub list.\n- In action view, tasks(germs) with sub-tasks actionable are marked with a lock icon.\n\nMissing:\n\n- No export data.\n- No mobile client.\n- Status (Ideation, action, etc) is unclikable on overview.\n- Note markup is Rich text, no option for markdown.\n- No markup for code block.\n- When change status from ideation to action, assign to no one by default, should assign to the one change status by default.\n- No way to hide completed and not taken tasks.\n",
+			"date_added": 1478263209
 		}
 	],
 	"post_like": {
@@ -269,7 +274,8 @@
 		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1475647433": 1475794034,
 		"1Q3xYc3P8i2WDj621HvSbfEqTP4aMLpKYU_8": 1477783062,
 		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1477856036": 1477955528,
-		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1477551596": 1478187815
+		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1477551596": 1478187815,
+		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1478252237": 1478263055
 	},
 	"comment": [
 		{
@@ -1544,6 +1550,13 @@
 			"auth_address": "1571aschsT4z2GPgEPfgsb9C3D27sLQH9w",
 			"user_name": "Ervin",
 			"date_added": 1478189697
+		},
+		{
+			"follow_id": 164,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1D2z5mzZroraX6Hin5eH5zukCUuAnYiS72",
+			"user_name": "Mindaslab",
+			"date_added": 1478262371
 		}
 	]
 }

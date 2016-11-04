@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 5,
+	"next_comment_id": 6,
 	"next_follow_id": 2,
 	"avatar": "generate",
 	"user_name": "P2pwave",
@@ -34,6 +34,12 @@
 			"body": "解决办法是，把data.json分拆，最好一贴一个json，或者像nullchan一样，图片直接以文件的形式保存，而不是以base64的形式存储。",
 			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1477919776",
 			"date_added": 1477926033
+		},
+		{
+			"comment_id": 5,
+			"body": "用Dreamweaver修改一下看看。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478263717",
+			"date_added": 1478264185
 		}
 	],
 	"follow": [
