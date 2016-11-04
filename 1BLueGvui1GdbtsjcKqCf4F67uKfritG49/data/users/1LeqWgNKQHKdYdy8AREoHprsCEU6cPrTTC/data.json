@@ -486,7 +486,8 @@
 		"18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1477075466": 1477084484,
 		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1477827792": 1477840869,
 		"1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1478064552": 1478102716,
-		"1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1478200556": 1478202007
+		"1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1478200556": 1478202007,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1478277653": 1478280892
 	},
 	"comment": [
 		{
@@ -1415,7 +1416,11 @@
 		"mute_spam": false,
 		"mute_blocked": false
 	},
-	"blocked": [],
-	"flags": {},
+	"blocked": [
+		"157VksPLxufKMy8U344wPhayVY3RhkL8SK"
+	],
+	"flags": {
+		"post-157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478263717": 2
+	},
 	"comment_like": {}
 }
