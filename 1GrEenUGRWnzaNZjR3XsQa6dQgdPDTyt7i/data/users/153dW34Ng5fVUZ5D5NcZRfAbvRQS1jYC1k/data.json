@@ -1,6 +1,6 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 3,
 	"avatar": "generate",
 	"user_name": "Schiz0",
@@ -19,7 +19,14 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Eibriel: thanks",
+			"post_uri": "153dW34Ng5fVUZ5D5NcZRfAbvRQS1jYC1k_1478194921",
+			"date_added": 1478244109
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 1,
