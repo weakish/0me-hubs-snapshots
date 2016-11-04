@@ -1,0 +1,62 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 4,
+	"next_follow_id": 3,
+	"avatar": "generate",
+	"user_name": "Binero",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Message me! :)",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1478289839,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1478290463,
+			"body": "There seems to be a lot of people here who don't really do much. Anyone want to have a chat? ",
+			"date_added": 1478290461
+		}
+	],
+	"post_like": {
+		"17ac9ybVj5CtUpBvi5NeP1EwNZjfJoZWvt_1": 1478290485,
+		"17ac9ybVj5CtUpBvi5NeP1EwNZjfJoZWvt_1478290463": 1478290486,
+		"1HN5pCyG5g1483VcFueZNvGv4MkA7yxjw1_1478119462": 1478292381
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Hello! :P",
+			"post_uri": "16tKBkWoW5gVPCcTAMkvnfqYnJ5xqJgFmr_1",
+			"date_added": 1478290564
+		},
+		{
+			"comment_id": 2,
+			"body": "@Yvesrogne: I don't know! I am new to this. :P",
+			"post_uri": "17ac9ybVj5CtUpBvi5NeP1EwNZjfJoZWvt_1478290463",
+			"date_added": 1478292342
+		},
+		{
+			"comment_id": 3,
+			"body": "@Yvesrogne: I'm rather impressed by Zeronet. Feels very moders and it is very responsive. ",
+			"post_uri": "17ac9ybVj5CtUpBvi5NeP1EwNZjfJoZWvt_1478290463",
+			"date_added": 1478292371
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC",
+			"user_name": "Firebox",
+			"date_added": 1478291194
+		},
+		{
+			"follow_id": 2,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1HN5pCyG5g1483VcFueZNvGv4MkA7yxjw1",
+			"user_name": "Yvesrogne",
+			"date_added": 1478292396
+		}
+	]
+}

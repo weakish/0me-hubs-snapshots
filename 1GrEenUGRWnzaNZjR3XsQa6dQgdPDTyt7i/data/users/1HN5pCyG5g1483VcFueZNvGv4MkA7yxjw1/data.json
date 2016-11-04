@@ -1,7 +1,7 @@
 {
 	"next_post_id": 7,
-	"next_comment_id": 1,
-	"next_follow_id": 31,
+	"next_comment_id": 2,
+	"next_follow_id": 33,
 	"avatar": "generate",
 	"user_name": "Yvesrogne",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -39,7 +39,14 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Hi! Where do you to chat with me? I hope you like Zeronet ;) ",
+			"post_uri": "17ac9ybVj5CtUpBvi5NeP1EwNZjfJoZWvt_1478290463",
+			"date_added": 1478292136
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 1,
@@ -243,6 +250,20 @@
 			"auth_address": "1EJ7j6nGoz84S8eYsfEmYA6hF9vV4nKkR4",
 			"user_name": "Zerg",
 			"date_added": 1478119313
+		},
+		{
+			"follow_id": 31,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "17ac9ybVj5CtUpBvi5NeP1EwNZjfJoZWvt",
+			"user_name": "Binero",
+			"date_added": 1478292080
+		},
+		{
+			"follow_id": 32,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1HL2193iASWKcTtZF86Z5EZhvcysHo93xF",
+			"user_name": "Mgck",
+			"date_added": 1478292225
 		}
 	]
 }
