@@ -1,6 +1,6 @@
 {
 	"next_post_id": 22,
-	"next_comment_id": 48,
+	"next_comment_id": 53,
 	"next_follow_id": 23,
 	"avatar": "jpg",
 	"user_name": "Cxgreat2014",
@@ -376,6 +376,36 @@
 			"body": "@weakish: 因此，我觉得一个个去移植php应用程序并不是一个好想法，还不如直接移植php",
 			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478077720",
 			"date_added": 1478235495
+		},
+		{
+			"comment_id": 48,
+			"body": "@怡红院: 虽然很想说用ipfs来存，但是不知道ipfs的项目开发者会不会来打我。。bittorrent资源经常没peer，相反ipfs基本上没这个缺点",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478230744",
+			"date_added": 1478235813
+		},
+		{
+			"comment_id": 49,
+			"body": "@怡红院: 资源分享是一个大问题啊。。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478230744",
+			"date_added": 1478235848
+		},
+		{
+			"comment_id": 50,
+			"body": "@怡红院: btsync和bt其实有着一样的问题，所有文件所有者都下线/离线/不可达时文件就没了",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478230744",
+			"date_added": 1478236348
+		},
+		{
+			"comment_id": 51,
+			"body": "@怡红院: 其实蛮想搞个分布式p2p网盘的，然而。。一直都没找到这种项目",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478230744",
+			"date_added": 1478236421
+		},
+		{
+			"comment_id": 52,
+			"body": "@怡红院: 自己去写又没有那么多时间，只能等大神了",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478230744",
+			"date_added": 1478236454
 		}
 	],
 	"follow": [
