@@ -1,6 +1,6 @@
 {
 	"next_post_id": 114,
-	"next_comment_id": 113,
+	"next_comment_id": 115,
 	"next_follow_id": 31,
 	"avatar": "jpg",
 	"user_name": "Flyman",
@@ -1009,6 +1009,18 @@
 			"body": "@KosherX: I didn't know, I tried to download this japan video via \"ss\" method. It doesn't work for me too.",
 			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1477990219",
 			"date_added": 1478246490
+		},
+		{
+			"comment_id": 113,
+			"body": "@ZAlex: https://en.wikipedia.org/wiki/Exif Yes, that is what I am talking about. EXIF or TAG or whatever. How to edit/read/remove it? Any software, or algorithm (I can do hex-edit)?",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1478256716",
+			"date_added": 1478257424
+		},
+		{
+			"comment_id": 114,
+			"body": "@ZAlex: Thank you, ExifToll looks promising, because it is command line and I like to be doing things via FAR.",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1478256716",
+			"date_added": 1478260138
 		}
 	],
 	"follow": [
