@@ -1,6 +1,6 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 8,
+	"next_comment_id": 9,
 	"next_follow_id": 3,
 	"avatar": "generate",
 	"user_name": "Binero",
@@ -59,6 +59,12 @@
 			"body": "Hello! ^^",
 			"post_uri": "187MekXwjvcp1w6TJs5ytBo6TZuZ5aqxFF_1478304011",
 			"date_added": 1478305657
+		},
+		{
+			"comment_id": 8,
+			"body": "@Durand: Thanks for the heads up! It seems really hard to find websites on Zeronet other than the ones linked to on the ZeroHello page. ",
+			"post_uri": "17ac9ybVj5CtUpBvi5NeP1EwNZjfJoZWvt_1478290463",
+			"date_added": 1478347663
 		}
 	],
 	"follow": [
@@ -76,5 +82,17 @@
 			"user_name": "Yvesrogne",
 			"date_added": 1478292396
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {
+		"12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_27": 1478347605,
+		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_31": 1478348071
+	}
 }

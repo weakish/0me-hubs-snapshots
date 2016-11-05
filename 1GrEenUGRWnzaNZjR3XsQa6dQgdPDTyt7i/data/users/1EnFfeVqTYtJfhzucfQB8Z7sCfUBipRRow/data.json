@@ -1,5 +1,5 @@
 {
-	"next_post_id": 26,
+	"next_post_id": 27,
 	"next_comment_id": 92,
 	"next_follow_id": 18,
 	"avatar": "jpg",
@@ -131,6 +131,11 @@
 			"post_id": 1478330775,
 			"body": "# URGENT: STOP SPAMMING\nIt seems that whatever methods used to stop spammer have failed, \nwe need to\n* truncate too long content\n* filter out repeating word (maybe)\n* rate-limit (maybe)\n* global blacklist / reputation system (controversial, maybe well be abused) reference from [ZeroTalk](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:4_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH/We+need+a+reputation+system)\n",
 			"date_added": 1478330750
+		},
+		{
+			"post_id": 1478347958,
+			"body": "Question:\nIt it beneficial to create a news bot in ZeroMe(Plus), e.g. raw news feed from RT or NY Times or whatever ?",
+			"date_added": 1478347932
 		}
 	],
 	"post_like": {
