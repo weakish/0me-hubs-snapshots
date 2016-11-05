@@ -1,0 +1,21 @@
+{
+ "address": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+ "cert_auth_type": "web",
+ "cert_sign": "IBmHbCpkMzIe41wn9a7eIb5QEGIOeHFCROwGBLdORXbfDALPamLVaVJtjKMLXo2GpNGieun+2KiN8rRHK918GeM=",
+ "cert_user_id": "nekocross@kaffie.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "61c0de0a3fbc923a90eaeb23b2c4fd6fce78889e884a63aeb13696138bb9cd97",
+   "size": 1998
+  },
+  "data.json": {
+   "sha512": "8e97c6b5f4c03f4c171fc44112f0e581e5130a74977e98bf04d9960e558b59bd",
+   "size": 591
+  }
+ },
+ "inner_path": "data/users/1Nf7y77nKezA8BveiFhirUuS6kg66doRUY/content.json",
+ "modified": 1478328731.3,
+ "signs": {
+  "1Nf7y77nKezA8BveiFhirUuS6kg66doRUY": "HAF9FXelbf43UH3oG3nIJiFBNOPWsjIF+mmKrXhliW1WVLo+nFOyxd/aYOrW++XHQ8Im9lHJbVTlcV/xfJf6IqU="
+ }
+}

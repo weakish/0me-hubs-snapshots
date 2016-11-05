@@ -1,5 +1,5 @@
 {
-	"next_post_id": 24,
+	"next_post_id": 25,
 	"next_comment_id": 28,
 	"next_follow_id": 15,
 	"avatar": "jpg",
@@ -113,9 +113,9 @@
 			"date_added": 1478322333
 		},
 		{
-			"post_id": 1478325227,
-			"body": "看Nullchan代码的时候看到这个\n```\n  \"permission_rules\": {\n   \".*\": {\n    \"files_allowed\": \"(data.json|test.txt)\",\n    \"files_allowed_optional\": \".*\\\\.(png|jpg|gif)\",\n    \"max_size\": 5000000,\n    \"max_size_optional\": 200000000\n   }\n```\n怎么心里拔凉拔凉的（\n",
-			"date_added": 1478325204
+			"post_id": 1478329086,
+			"body": "倒是藏在自己的hub有个坏处\n别人如果不点开你的profile根本不会连到你的Hub也不会看到你的任何message（",
+			"date_added": 1478329062
 		}
 	],
 	"post_like": {
