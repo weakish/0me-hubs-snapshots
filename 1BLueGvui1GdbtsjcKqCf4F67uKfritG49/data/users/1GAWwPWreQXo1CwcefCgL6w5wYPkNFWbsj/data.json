@@ -85,10 +85,13 @@
 	"settings": {
 		"reverse_comment_order": false,
 		"mute_ugly": false,
-		"mute_spam": false,
+		"mute_spam": true,
 		"mute_blocked": false
 	},
 	"blocked": [],
-	"flags": {},
+	"flags": {
+		"post-1aKE86erdBaK2dKXd6uLEXbn2GBoptohG_1478314274": 1,
+		"post-1aKE86erdBaK2dKXd6uLEXbn2GBoptohG_1478314403": 1
+	},
 	"comment_like": {}
 }
