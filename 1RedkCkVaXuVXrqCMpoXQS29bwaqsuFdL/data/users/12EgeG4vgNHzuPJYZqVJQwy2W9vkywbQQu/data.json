@@ -1,6 +1,6 @@
 {
-	"next_post_id": 13,
-	"next_comment_id": 55,
+	"next_post_id": 15,
+	"next_comment_id": 56,
 	"next_follow_id": 14,
 	"avatar": "png",
 	"user_name": "PaintNinja",
@@ -66,6 +66,16 @@
 			"post_id": 1477600936,
 			"body": "Sorry about the delay, I'm in the process of getting refunds for the mini servers that broke a while back and replacing them with LattePandas so that I can get some live demos up of the new streamer...\n\nAs I don't like making people wait too long, the new streamer's already published and working with all previous NinjaBeats stream links. I just didn't want to do an official announcement until I've got some demos up. Stay tuned and enjoy! ;)",
 			"date_added": 1477600924
+		},
+		{
+			"post_id": 1478368305,
+			"body": "## Announcing the new NinjaBeats streamer\nWhat's new? A lot. While at first glance it might not look like much has changed, the more you use it the more you'll discover... ;)\n\nI'll be showing off a new highlight of the update on a regular basis until all the main features have been showcased.",
+			"date_added": 1478368292
+		},
+		{
+			"post_id": 1478368568,
+			"body": "*Stream more than just music* with NinjaBeats: Stream photos, videos, text or even a mix of them, without the need of any special file or additional URL arguments.\n\nHere's some demos, including some requested by the community:\n- Stream the [Buffalo Soldier music video](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html?ID=28d93895e6854d1590a68064e1c0537a3af1fc4f)\n- Stream [a photo](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html?ID=e76ea4d9ef6f4b3c4cbbb3f814e457933dbc26e6)",
+			"date_added": 1478368554
 		}
 	],
 	"post_like": {
@@ -416,6 +426,12 @@
 			"body": "@Splinterk: Thanks for your offer, however I have already finished refining my adaptive in-house framework that I'm now using for NinjaBeats.",
 			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1476903289",
 			"date_added": 1477413783
+		},
+		{
+			"comment_id": 55,
+			"body": "@Binero: The example link is currently non-functioning and is just used to show the formatting of the URL (it's: audio.html?ID=infohashhere ). I'll update the example link and fix ZeroNet's forbidden bug in the near future, thanks for reporting",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1478368305",
+			"date_added": 1478368648
 		}
 	],
 	"follow": [
