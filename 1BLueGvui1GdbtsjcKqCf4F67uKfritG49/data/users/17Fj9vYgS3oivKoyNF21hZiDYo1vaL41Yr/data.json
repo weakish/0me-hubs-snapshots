@@ -1,0 +1,27 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 1,
+	"next_follow_id": 2,
+	"avatar": "jpg",
+	"user_name": "torsteed",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "c'est scandaleux",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1478386456,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1NQvmcUkean3BWS9N88P9dKYnP1TAB5kHz",
+			"user_name": "Meylody",
+			"date_added": 1478386557
+		}
+	]
+}
