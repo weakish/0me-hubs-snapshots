@@ -1,0 +1,21 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "G713ovIT+XuOI1vf2utdlpzwKJ5QtQzMZXhfiBdOtT36mGxR+jVCzjtOnx1JLImhCDhppGJAC3B46S0K0nKixAU=",
+ "cert_user_id": "thejumono@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "a714f50ae348bdf044eb24f8103ec6200e39fe831659f41bb5c3275962bcfb9e",
+   "size": 1482
+  },
+  "data.json": {
+   "sha512": "181f0f8d6b8181e5adb137688fc165a8987eac301d785b92bf465cc36ff8e5f5",
+   "size": 5569
+  }
+ },
+ "inner_path": "data/users/1M5S5iwDzmj3yvzaf753c9qDckz3Vx5Qxo/content.json",
+ "modified": 1478312612.078,
+ "signs": {
+  "1M5S5iwDzmj3yvzaf753c9qDckz3Vx5Qxo": "G+lXU3MBKm1nbCQdhsS5wA/2DS681VpcAT3vkPBu4Nl8g8V+c1Td/SGljUw6DUMdYGfwIvN3eKSEayRH5I3t7Q0="
+ }
+}

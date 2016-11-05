@@ -1,6 +1,6 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Hellblazer",
@@ -19,6 +19,13 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@HelloArch: 你好，很高兴认识你",
+			"post_uri": "1Czert3m7Hyfg23Z8ppNQdtCrBnwRjnbmK_1478241349",
+			"date_added": 1478312071
+		}
+	],
 	"follow": []
 }
