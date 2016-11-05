@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 3,
+	"next_comment_id": 4,
 	"next_follow_id": 3,
 	"avatar": "generate",
 	"user_name": "Xyzos",
@@ -26,6 +26,12 @@
 			"body": "手机要怎么玩zeronet",
 			"post_uri": "14MrxSzhaSXiFwsAbyhwtipmU3Lh55Xcrr_1473251667",
 			"date_added": 1473348969
+		},
+		{
+			"comment_id": 3,
+			"body": "每个人不都有自己的主页吗,何必要占用整个HUB",
+			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1478329086",
+			"date_added": 1478329208
 		}
 	],
 	"follow": [
@@ -43,5 +49,7 @@
 			"user_name": "Kaffie",
 			"date_added": 1471787260
 		}
-	]
+	],
+	"flags": {},
+	"comment_like": {}
 }

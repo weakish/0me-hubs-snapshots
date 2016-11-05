@@ -1,6 +1,6 @@
 {
-	"next_post_id": 25,
-	"next_comment_id": 90,
+	"next_post_id": 26,
+	"next_comment_id": 92,
 	"next_follow_id": 18,
 	"avatar": "jpg",
 	"user_name": "MilitaryRiotLab",
@@ -126,6 +126,11 @@
 			"post_id": 1477810087,
 			"body": "Any decent torrent sites to replace kat.cr ?",
 			"date_added": 1477810063
+		},
+		{
+			"post_id": 1478330775,
+			"body": "# URGENT: STOP SPAMMING\nIt seems that whatever methods used to stop spammer have failed, \nwe need to\n* truncate too long content\n* filter out repeating word (maybe)\n* rate-limit (maybe)\n* global blacklist / reputation system (controversial, maybe well be abused) reference from [ZeroTalk](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:4_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH/We+need+a+reputation+system)\n",
+			"date_added": 1478330750
 		}
 	],
 	"post_like": {
@@ -658,6 +663,18 @@
 			"body": "What is it?",
 			"post_uri": "1NsCkeze59nUxnbLwbYCez9yKr7YVrKxSH_1478101673",
 			"date_added": 1478101772
+		},
+		{
+			"comment_id": 90,
+			"body": "上街抗爭不是唯一出路",
+			"post_uri": "1JVtiH7RA45sc7efV5Xdpai4gwUvHm18fm_1478318858",
+			"date_added": 1478330451
+		},
+		{
+			"comment_id": 91,
+			"body": "@Nofish I hope you can do something though it's hard, but it's getting worse",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478330775",
+			"date_added": 1478331040
 		}
 	],
 	"follow": [
@@ -776,11 +793,14 @@
 	],
 	"settings": {
 		"reverse_comment_order": false,
-		"mute_ugly": false,
-		"mute_spam": false,
-		"mute_blocked": false
+		"mute_ugly": true,
+		"mute_spam": true,
+		"mute_blocked": true
 	},
-	"blocked": [],
+	"blocked": [
+		"1aKE86erdBaK2dKXd6uLEXbn2GBoptohG",
+		"1NQvmcUkean3BWS9N88P9dKYnP1TAB5kHz"
+	],
 	"flags": {
 		"post-19AAsU7HXRC1bmCAM8DeAcNjEvwSaKrB7u_1476365001": 0,
 		"post-1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477321847": 0

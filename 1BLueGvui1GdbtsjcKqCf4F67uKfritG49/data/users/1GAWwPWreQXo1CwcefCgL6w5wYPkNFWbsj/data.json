@@ -1,7 +1,7 @@
 {
 	"next_post_id": 5,
-	"next_comment_id": 7,
-	"next_follow_id": 1,
+	"next_comment_id": 8,
+	"next_follow_id": 2,
 	"avatar": "jpg",
 	"user_name": "西木野真姬",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -65,7 +65,30 @@
 			"body": "中华文化博大精深 岂是一日间就能学成？\n（chinese culture is profound，Not a day will be able to learn）",
 			"post_uri": "1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1478064552",
 			"date_added": 1478104546
+		},
+		{
+			"comment_id": 7,
+			"body": "@Durand: thanks but when i click the zerome button it's take me into the blueMe can't choose another one = =",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1478104670",
+			"date_added": 1478167214
 		}
 	],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj",
+			"user_name": "西木野真姬",
+			"date_added": 1478167534
+		}
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }
