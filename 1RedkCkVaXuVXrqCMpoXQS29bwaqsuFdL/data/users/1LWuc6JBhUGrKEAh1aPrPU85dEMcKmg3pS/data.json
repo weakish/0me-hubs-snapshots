@@ -1,5 +1,5 @@
 {
-	"next_post_id": 21,
+	"next_post_id": 22,
 	"next_comment_id": 27,
 	"next_follow_id": 25,
 	"avatar": "jpg",
@@ -96,6 +96,11 @@
 			"post_id": 1478181803,
 			"body": "Today I went to the bank to cash out my first scholarship. The bank employee said that I need *government permission* to cash any money from **my** account, since I'm not 18 years old. I have no right to get my money. I need to collect a bunch of references. I need to apply to the guardianship. I need lots of time to stand in queues to collect these documents.\nRussia is a country of \"great\" opportunities.\n\nThat's why I love cryptocurrencies (Bitcoin, etc.). It's based on math, not on \"paper\". My wallet isn't dependents on government and banks. I am the **only** owner of my money.",
 			"date_added": 1478181783
+		},
+		{
+			"post_id": 1478324125,
+			"body": "Remember, remember the [fifth of November](https://en.wikipedia.org/wiki/Guy_Fawkes_Night)...",
+			"date_added": 1478324104
 		}
 	],
 	"post_like": {
@@ -505,14 +510,17 @@
 	"settings": {
 		"reverse_comment_order": false,
 		"mute_ugly": true,
-		"mute_spam": false,
+		"mute_spam": true,
 		"mute_blocked": true
 	},
 	"flags": {
 		"post-1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1474903876": 2,
 		"post-1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_10": 0
 	},
-	"blocked": [],
+	"blocked": [
+		"1aKE86erdBaK2dKXd6uLEXbn2GBoptohG",
+		"1NQvmcUkean3BWS9N88P9dKYnP1TAB5kHz"
+	],
 	"comment_like": {
 		"1L5rGDgTs4W2V7gekSvJNhKa7XaHkVwotD_33": 1475373954,
 		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_95": 1475455815,
