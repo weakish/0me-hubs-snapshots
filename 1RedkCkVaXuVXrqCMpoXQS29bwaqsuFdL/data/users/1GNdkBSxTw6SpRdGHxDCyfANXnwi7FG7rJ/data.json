@@ -1,7 +1,7 @@
 {
 	"next_post_id": 11,
 	"next_comment_id": 5,
-	"next_follow_id": 12,
+	"next_follow_id": 13,
 	"avatar": "png",
 	"user_name": "TeddyDD",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -66,7 +66,8 @@
 		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_109": 1471961897,
 		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1474727485": 1475074047,
 		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1475532740": 1476041197,
-		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1475531968": 1476041287
+		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1475531968": 1476041287,
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1478319468": 1478351535
 	},
 	"comment": [
 		{
@@ -171,6 +172,22 @@
 			"auth_address": "1H4xoahmzZ8UNyXLNogcDu39NhNENaEyJk",
 			"user_name": "Vanta",
 			"date_added": 1473785419
+		},
+		{
+			"follow_id": 12,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1478351785
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }
