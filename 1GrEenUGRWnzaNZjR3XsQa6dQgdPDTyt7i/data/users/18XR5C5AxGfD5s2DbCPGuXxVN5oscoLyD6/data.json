@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 10,
+	"next_comment_id": 13,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Border0464fred",
@@ -74,9 +74,31 @@
 			"body": "@fungos you could fall in love with me :p",
 			"post_uri": "1D9QsHensQn9n4kZGomMC4NfMBBzivoCxg_1476326404",
 			"date_added": 1478053883
+		},
+		{
+			"comment_id": 10,
+			"body": "humm that wouls be cool indeed but would cerate a lot of traphics, We maybe miss a bit of filtering mecanism fot this yet. ",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478347958",
+			"date_added": 1478358406
+		},
+		{
+			"comment_id": 11,
+			"body": "@Jike: yes it's free to use. in fact no one can prevent you of using it, it's in the design.\n\n",
+			"post_uri": "15ANYSsjScSzTqt4L6WreCyr3SBvQ15xc4_1475293330",
+			"date_added": 1478358892
+		},
+		{
+			"comment_id": 12,
+			"body": "sketchy link, im not clicking this ",
+			"post_uri": "1NsCkeze59nUxnbLwbYCez9yKr7YVrKxSH_1478101673",
+			"date_added": 1478359234
 		}
 	],
 	"follow": [],
-	"flags": {},
-	"comment_like": {}
+	"flags": {
+		"post-1NsCkeze59nUxnbLwbYCez9yKr7YVrKxSH_1478101673": 1
+	},
+	"comment_like": {
+		"1BCYg5bc55JQm2oVKhByhFtfu3fNhNevbg_4": 1478358923
+	}
 }
