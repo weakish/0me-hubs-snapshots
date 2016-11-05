@@ -1,6 +1,6 @@
 {
-	"next_post_id": 35,
-	"next_comment_id": 19,
+	"next_post_id": 36,
+	"next_comment_id": 20,
 	"next_follow_id": 13,
 	"avatar": "generate",
 	"user_name": "Firebox",
@@ -104,7 +104,7 @@
 		},
 		{
 			"post_id": 1476247331,
-			"body": "[Take a peek](/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/img/player.png) at what I am working on.\n##### If link doesn't work, try copying and pasting URL.",
+			"body": "[Take a peek](/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/img/redirect.html?player.png) at what I am working on.\n##### If link doesn't work, try copying and pasting URL.",
 			"date_added": 1476247310
 		},
 		{
@@ -171,6 +171,11 @@
 			"post_id": 1478128320,
 			"body": "**Issue \\#-2** ZeroMux for beginners\nLet's make a Dropbox for ZeroNet!\n\nCreate a link to download all necessary tools rather than telling people to find the site folder.\n- `[+]` Make the UI\n- `[ ]` Write actual code\n\nWrite a Python program to help people split files and configure ZeroMux without having to write a line of code.\n- `[+]` Command line options\n- `[ ]` Managing files and folders\n\nCreate a permanent link for every big file.\n- `[+]` Files and folders are identified by random string IDs.\n- `[ ]` Make the UI",
 			"date_added": 1478128286
+		},
+		{
+			"post_id": 1478310645,
+			"body": "Let's make a Dropbox for ZeroNet!\nHow about this UI?\n\n[Screenshot](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/img/redirect.html?dxxxbox.png)",
+			"date_added": 1478310610
 		}
 	],
 	"post_like": {
@@ -284,6 +289,12 @@
 			"body": "@Bravo: Thanks. Use <a href=\"address\" target=\"_top\"> to bypass, but then the file will not be renamed according to the \"download\" attribute.",
 			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1477508606",
 			"date_added": 1477538055
+		},
+		{
+			"comment_id": 19,
+			"body": "@Binero: I know. Don't upload personal files onto ZeroNet. If you want to share files privately, encrypt them first.",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1478310645",
+			"date_added": 1478310864
 		}
 	],
 	"follow": [
