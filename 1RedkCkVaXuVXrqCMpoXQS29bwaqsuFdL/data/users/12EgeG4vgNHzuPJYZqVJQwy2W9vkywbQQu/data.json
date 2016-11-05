@@ -1,6 +1,6 @@
 {
 	"next_post_id": 15,
-	"next_comment_id": 57,
+	"next_comment_id": 58,
 	"next_follow_id": 14,
 	"avatar": "png",
 	"user_name": "PaintNinja",
@@ -438,6 +438,12 @@
 			"body": "@Sirenyc: \n@Jro: \nTo infinity and beyond! It turns out that having an ampersand (&) in the filename causes problems. I've renamed the file and updated the link and it's working now.",
 			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1478368568",
 			"date_added": 1478374933
+		},
+		{
+			"comment_id": 57,
+			"body": "@Jro:\nI can confirm the issue you're having also occurs in Chromium 56.0.2902.0. Looking at the console, this is definitely a Chrome/Chromium bug and not a bug on my end. Chrome/Chromium is blocking local resources from being loaded (stuff on 127.0.0.1 or localhost is considered local) and hence prevents the video from being played.\n\n@Jro:\n@Binero:\nThe download speed varies on the amount of peers seeding the file on the NinjaBeats network and their combined upload speed. Assuming that only I am seeding the file, the download will be slow as my upload speed is very poor. Next highlight I will show how to seed when the page is closed, which should help with the download speeds a lot if some of you help seed the files :)",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1478368568",
+			"date_added": 1478378360
 		}
 	],
 	"follow": [
