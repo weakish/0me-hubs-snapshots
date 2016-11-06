@@ -1,5 +1,5 @@
 {
-	"next_post_id": 36,
+	"next_post_id": 38,
 	"next_comment_id": 20,
 	"next_follow_id": 13,
 	"avatar": "generate",
@@ -176,6 +176,16 @@
 			"post_id": 1478310645,
 			"body": "Let's make a Dropbox for ZeroNet!\nHow about this UI?\n\n[Screenshot](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/img/redirect.html?dxxxbox.png)",
 			"date_added": 1478310610
+		},
+		{
+			"post_id": 1478319468,
+			"body": "##Dealing with spammers\nIf you run a website on ZeroNet, please ban these 3 ZeroMe spammers:\n```\n\"meylody@zeroid.bit\": false,\n\"plac@zeroid.bit\": false,\n\"thejumono@zeroid.bit\": false\n```\n\nAdd them to `data/users/content.json` and sign this file. [Example](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/img/redirect.html?../data/users/content.json)",
+			"date_added": 1478319432
+		},
+		{
+			"post_id": 1478422171,
+			"body": "I put together some very interesting ideas on how to deal with spammers in a distributed network. Many of them are still ideas:\n\n- **Proof of Work:** A hard problem takes a few seconds to solve.\n- **Decentralized CAPTCHA:** Everyone generates a CAPTCHA according to the rule of this game.\n- **Proof of Contribution:** Want to seed? Want to store? Want to donate?\n- **Centralized Approval:** An imperial order by the site moderators.\n\nTo proof yourself in a distributed network, you have to give out some information that is not only unique to your state but also easy for everyone to check.\n\nThings to check:\n1. The peer is following the common rules.\n2. The peer has given out information that can reliably imply what we want it to have.\n\nExample: Decentralized CAPTCHA\n1. The peer is generating legit CAPTCHAs. It is not generating random, illegible noises. It is not reusing old CAPTCHAs.\n2. Solving the CAPTCHA using a computer is hard, but checking the answer is easy. In this way, giving out the answer implies that a real human being, rather than spammer bots, is writing a post. Everyone can effectively conclude that, because it is easy to check the validity of an answer.\n\nProblem with a Decentralized CAPTCHA idea on ZeroTalk:\n1. There is no easy way to check if a CAPTCHA is legit.",
+			"date_added": 1478422134
 		}
 	],
 	"post_like": {

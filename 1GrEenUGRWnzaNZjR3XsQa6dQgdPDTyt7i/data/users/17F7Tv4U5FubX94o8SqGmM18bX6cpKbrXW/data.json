@@ -1,7 +1,7 @@
 {
 	"next_post_id": 8,
-	"next_comment_id": 16,
-	"next_follow_id": 6,
+	"next_comment_id": 24,
+	"next_follow_id": 7,
 	"avatar": "jpg",
 	"user_name": "64",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -125,6 +125,54 @@
 			"body": "@Woodsfirezyj: 一開始看美國之音需要個適應期，看多了就不會了。",
 			"post_uri": "17F7Tv4U5FubX94o8SqGmM18bX6cpKbrXW_1478095621",
 			"date_added": 1478099418
+		},
+		{
+			"comment_id": 16,
+			"body": "不可能所有外網都連不上吧？連那些沒被牆的網站都上不了嗎？",
+			"post_uri": "14Uu69Rsj5RcsSRSJvxtuGbFPCHyrNyC8Y_1478418595",
+			"date_added": 1478419300
+		},
+		{
+			"comment_id": 17,
+			"body": "@Lmath: 應該是全國範圍內都有人為限制國際出口帶寬。",
+			"post_uri": "14Uu69Rsj5RcsSRSJvxtuGbFPCHyrNyC8Y_1478418595",
+			"date_added": 1478419390
+		},
+		{
+			"comment_id": 18,
+			"body": "前幾年，雞大大還沒有上臺的時候，我用hosts來看youtube，直接1080P，無需緩衝，用的還是是12M的ADSL. 現在，情況急劇惡化，連開個github頁面都要將近一分鐘。",
+			"post_uri": "14Uu69Rsj5RcsSRSJvxtuGbFPCHyrNyC8Y_1478418595",
+			"date_added": 1478419769
+		},
+		{
+			"comment_id": 19,
+			"body": "@西木野真姬: 不止三根国际海缆吧？我覺得每個口岸或者接壤的周邊國家，都應該有光纜連接。比如深圳到香港，珠海到澳門。",
+			"post_uri": "14Uu69Rsj5RcsSRSJvxtuGbFPCHyrNyC8Y_1478418595",
+			"date_added": 1478420000
+		},
+		{
+			"comment_id": 20,
+			"body": "@HelloArch:  你難道不知道習包子的各個小組長頭銜了 ？中共中央网络安全和信息化领导小组組長啊！http://www.bbc.com/zhongwen/trad/china/2014/02/140227_china_xi_web_security",
+			"post_uri": "14Uu69Rsj5RcsSRSJvxtuGbFPCHyrNyC8Y_1478418595",
+			"date_added": 1478420553
+		},
+		{
+			"comment_id": 21,
+			"body": "@HelloArch: 無論是誰，都得看他主子的意思。",
+			"post_uri": "14Uu69Rsj5RcsSRSJvxtuGbFPCHyrNyC8Y_1478418595",
+			"date_added": 1478420740
+		},
+		{
+			"comment_id": 22,
+			"body": "@西木野真姬: 現在廣州電信已經全面IPV6了。",
+			"post_uri": "14Uu69Rsj5RcsSRSJvxtuGbFPCHyrNyC8Y_1478418595",
+			"date_added": 1478420850
+		},
+		{
+			"comment_id": 23,
+			"body": "2b? So good is your name !",
+			"post_uri": "1Q2soFVDYR3B5Mr4ATib2iJsiGhJW789Ck_1",
+			"date_added": 1478421530
 		}
 	],
 	"follow": [
@@ -155,6 +203,13 @@
 			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
 			"user_name": "Talnicrom",
 			"date_added": 1476768885
+		},
+		{
+			"follow_id": 6,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1GFoYtbVUuTbgVr9isV1wuXnAceHiPB3EU",
+			"user_name": "Plutonic23",
+			"date_added": 1478421473
 		}
 	],
 	"settings": {
@@ -164,6 +219,8 @@
 		"mute_blocked": false
 	},
 	"blocked": [],
-	"flags": {},
+	"flags": {
+		"post-14Uu69Rsj5RcsSRSJvxtuGbFPCHyrNyC8Y_1478418595": 0
+	},
 	"comment_like": {}
 }

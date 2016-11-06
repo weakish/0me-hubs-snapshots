@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 127,
+	"next_comment_id": 129,
 	"user_name": "ks",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {
@@ -54,7 +54,8 @@
 		"1HJJEDiEo7ghxbpdDzXHFVv4gtrb53cUAu_1474114624": 1474118434,
 		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1476125491": 1476126433,
 		"1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib_1476290236": 1476290988,
-		"1EZG8eDkCFvNkYxpHmr2WbGWcSxAsRfqTT_1476416431": 1476426956
+		"1EZG8eDkCFvNkYxpHmr2WbGWcSxAsRfqTT_1476416431": 1476426956,
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1478422171": 1478422400
 	},
 	"comment": [
 		{
@@ -800,6 +801,18 @@
 			"body": "@Musickiller: SLiM is not listening to any ports. If an intruder gains access to my box by other means, I have bigger problems than a local security flaw in SLiM.",
 			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1477144943",
 			"date_added": 1477165094
+		},
+		{
+			"comment_id": 127,
+			"body": "I like the idea of PoW/hashcash and PoC (although I don't know how to implement the latter). Decentralized CAPTCHAs is also a good idea.\nI'm not sure I like the idea of centralized approval, although I recognize a zite owner's right to ban anyone from posting on their zite.",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1478422171",
+			"date_added": 1478422536
+		},
+		{
+			"comment_id": 128,
+			"body": "About the CAPTCHA: it could be a simple math problem, like adding two random integers.",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1478422171",
+			"date_added": 1478422628
 		}
 	]
 }

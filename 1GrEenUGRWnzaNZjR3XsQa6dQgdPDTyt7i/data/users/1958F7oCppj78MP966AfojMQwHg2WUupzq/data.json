@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 31,
+	"next_comment_id": 42,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -180,6 +180,72 @@
 			"body": "@人生输家: 目前来看是这样，也许需要重启 ZeroNet ？",
 			"post_uri": "14Uu69Rsj5RcsSRSJvxtuGbFPCHyrNyC8Y_1478418820",
 			"date_added": 1478419192
+		},
+		{
+			"comment_id": 31,
+			"body": "@西木野真姬: 目前电信下性能比较好的翻墙软件还有 Lantern 和 XX-Net ，另外无界性能不看视频还过得去，你可以试试。",
+			"post_uri": "14Uu69Rsj5RcsSRSJvxtuGbFPCHyrNyC8Y_1478418595",
+			"date_added": 1478419277
+		},
+		{
+			"comment_id": 32,
+			"body": "@西木野真姬: 除了上海电信，目前貌似广东电信也这样了。",
+			"post_uri": "14Uu69Rsj5RcsSRSJvxtuGbFPCHyrNyC8Y_1478418595",
+			"date_added": 1478419305
+		},
+		{
+			"comment_id": 33,
+			"body": "@人生输家: 由于目前电信原则上不卖给个人用户了，所以性能还可以。",
+			"post_uri": "14Uu69Rsj5RcsSRSJvxtuGbFPCHyrNyC8Y_1478418595",
+			"date_added": 1478419480
+		},
+		{
+			"comment_id": 34,
+			"body": "@人生输家: 网上有一些 Shadowsock 帐号会在国内中转，所以速度还可以。Lantern 和 XX-Net 也有类似原理。不过我一直推荐抽风地区电信用户直接放弃电信，何必浪费这钱让电信以为我再差你也会用我的网络不可呢？反正电信不看重电信用户。",
+			"post_uri": "14Uu69Rsj5RcsSRSJvxtuGbFPCHyrNyC8Y_1478418595",
+			"date_added": 1478419620
+		},
+		{
+			"comment_id": 35,
+			"body": "@64: 这几年网络封锁是很严重，不过我还是想说这锅鸡大大不背，因为联通和移动这两年性能并没下降。",
+			"post_uri": "14Uu69Rsj5RcsSRSJvxtuGbFPCHyrNyC8Y_1478418595",
+			"date_added": 1478419942
+		},
+		{
+			"comment_id": 36,
+			"body": "@西木野真姬: 一起建服务器实在没必要，因为电信的企业宽带的价格相比移动联通的个人宽带的价格贵多了，但是出口体验基本相同，何必浪费钱呢？最多要玩游戏时买个小流量的电信 VPN 好了。",
+			"post_uri": "14Uu69Rsj5RcsSRSJvxtuGbFPCHyrNyC8Y_1478418595",
+			"date_added": 1478420088
+		},
+		{
+			"comment_id": 37,
+			"body": "@西木野真姬: 你们上海不是在筹划 IPv6 了么？目前的情况下至少被 NAT 了还可以打电话要求公网 IP ，至少现在哪家好用用哪家呗！",
+			"post_uri": "14Uu69Rsj5RcsSRSJvxtuGbFPCHyrNyC8Y_1478418595",
+			"date_added": 1478420186
+		},
+		{
+			"comment_id": 38,
+			"body": "@西木野真姬: 广东移动被套 NAT 了？我这边还没有。其实真的是 IP 数量的问题的话，IPv6 还是可以期待的，因为 IPv6 标准放弃了强制 IPSec ，所以墙以前在 IPv4 上搞的方法只要少量修改依然都可以用在 IPv6 上，至少 GFW 友好了。\n另外广东移动和联通合并了？移动宽带前身不是铁通么？",
+			"post_uri": "14Uu69Rsj5RcsSRSJvxtuGbFPCHyrNyC8Y_1478418595",
+			"date_added": 1478420385
+		},
+		{
+			"comment_id": 39,
+			"body": "@西木野真姬: 一般这种情况你还是可以说你需要公网 IP 打电话要求的，毕竟打电话的人是少数。",
+			"post_uri": "14Uu69Rsj5RcsSRSJvxtuGbFPCHyrNyC8Y_1478418595",
+			"date_added": 1478420898
+		},
+		{
+			"comment_id": 40,
+			"body": "@64: 我知道，所以目前各大网站的评论“与中央精神高度统一”，而且名字也非常整齐（字数都一样）。",
+			"post_uri": "14Uu69Rsj5RcsSRSJvxtuGbFPCHyrNyC8Y_1478418595",
+			"date_added": 1478421049
+		},
+		{
+			"comment_id": 41,
+			"body": "@Ysc3839: \n@HelloArch: 这种可能要更改 ZeroNet 的结构，包括我不想看到它就不给它做种。",
+			"post_uri": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1478410096",
+			"date_added": 1478421738
 		}
 	],
 	"flags": {},
