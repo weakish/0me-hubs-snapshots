@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 31,
+	"next_comment_id": 35,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -158,7 +158,7 @@
 		},
 		{
 			"comment_id": 27,
-			"body": "@HelloArch: 首先，投票删除这种做法应该是 ZeroMe 的一种机制（包括投票的门槛限制），而不应该是投票后再人工删除，因为难以保障实施而且增加使用的人力成本。而且我不太认同投票删除，因为少数人的权利也是权利。",
+			"body": "@Cxgreat2014: 首先，投票删除这种做法应该是 ZeroMe 的一种机制（包括投票的门槛限制），而不应该是投票后再人工删除，因为难以保障实施而且增加使用的人力成本。而且我不太认同投票删除，因为少数人的权利也是权利。",
 			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478408033",
 			"date_added": 1478421970
 		},
@@ -179,6 +179,30 @@
 			"body": "@Cxgreat2014: 类似于人大常委会？那样的话刚开始还是挺好的，长久以来又是一个新官僚体制，长久以来不完全维护人民利益了。",
 			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478415857",
 			"date_added": 1478422686
+		},
+		{
+			"comment_id": 31,
+			"body": "@西木野真姬: 但是 Tmobile 信号不好啊！AT&T 贵是因为它没把手机什么的终端设备捆绑销售，看起来就贵了。你用过运营商的定制机就知道我在说什么了（插其他卡直接没信号或者 2G）。",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1478422551",
+			"date_added": 1478422845
+		},
+		{
+			"comment_id": 32,
+			"body": "@西木野真姬: 有线宽带我还真的不清楚，好像你说得没错有线宽带是 AT&T 屌一点。",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1478422551",
+			"date_added": 1478422981
+		},
+		{
+			"comment_id": 33,
+			"body": "@HelloArch: 抱歉没看清 @ 错了，真要限制创造无限个帐号投票的方法目前还是有的，比如类似于比特币的工作量证明，由你做种的时间和数据量来给投票加权，或者 Freenet 的 FMS 中引入的创建一个帐号并真正投入使用需要填写大量验证码（从分布式节点获得，需要一定量节点认可），增加投票成本。",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478408033",
+			"date_added": 1478423733
+		},
+		{
+			"comment_id": 34,
+			"body": "@HelloArch: 其实 ZeroNet 也不是完全的去中心化，至少相比 Freenet 来说，管理上没去中心化，Freenet 上真是发出去的东西就没法按照个人意志删除了，不过中心化有它的好处，去中心化有它的缺点，就比如 Freenet 性能很差一样，不过对于社交网络来说，我觉得他的方案管得太多了，差不多已经在 ZeroNet 上复制了 GFW 外的常规的互联网的体验，所以我觉得他去政治比较自由的国家的论坛差不多就可以了，不必再造一个相同的轮子。",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478415857",
+			"date_added": 1478426362
 		}
 	],
 	"flags": {
