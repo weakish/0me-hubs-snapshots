@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
 	"next_comment_id": 1,
-	"next_follow_id": 3,
+	"next_follow_id": 4,
 	"avatar": "generate",
 	"user_name": "Yay",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -13,7 +13,9 @@
 			"body": "Hello ZeroMe!"
 		}
 	],
-	"post_like": {},
+	"post_like": {
+		"1JVtiH7RA45sc7efV5Xdpai4gwUvHm18fm_1478318858": 1478443870
+	},
 	"comment": [],
 	"follow": [
 		{
@@ -29,6 +31,13 @@
 			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
 			"user_name": "PaintNinja",
 			"date_added": 1478341331
+		},
+		{
+			"follow_id": 3,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1JVtiH7RA45sc7efV5Xdpai4gwUvHm18fm",
+			"user_name": "Philosophyking",
+			"date_added": 1478443877
 		}
 	]
 }

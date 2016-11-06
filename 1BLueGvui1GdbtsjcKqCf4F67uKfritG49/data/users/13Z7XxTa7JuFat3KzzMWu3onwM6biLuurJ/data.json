@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 57,
+	"next_comment_id": 58,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -347,6 +347,12 @@
 			"body": "@Smallorange: 核心就nofish一个人啊。想要参与开发必须非常熟悉zeronet后台代码，目前还没人",
 			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478425521",
 			"date_added": 1478439455
+		},
+		{
+			"comment_id": 57,
+			"body": "@Nekocross: 严格来说tor不行，i2p可以。但是到.onion的通信虽然经过了exit node但是没有出tor网络，仍然可以认为在tor网络内部。所以tor也能不经过明网相互通信。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478425521",
+			"date_added": 1478441513
 		}
 	],
 	"flags": {},
