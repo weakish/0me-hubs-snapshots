@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 118,
+	"next_comment_id": 120,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -727,6 +727,18 @@
 			"body": "@Lmath: 如果是第一次上那种网站，都不知是线路问题还是网站自身问题，很尴尬。我一直在想为什么浏览器代理切换插件都没有自动检测并切换的功能。检测到网页显示不出就自动地通过预设的代理通道尝试啊，实现上很难么",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478272781",
 			"date_added": 1478311956
+		},
+		{
+			"comment_id": 118,
+			"body": "@Cxgreat2014: 多谢，cow挺有意思的，第一次访问被墙网站也能自动走代理是吧？就是配置稍繁琐，要有时间折腾下。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478272781",
+			"date_added": 1478435574
+		},
+		{
+			"comment_id": 119,
+			"body": "@Cxgreat2014: 看来自动切换的功能的确很多人想要。switchOmega的作者有没有理解你说的意思呢？我想不通为什么不能自动切换。手动点击或者快捷键都可以，为什么自动就不行？ @Lmath @Ysc3839 @weakish 来看看这个issue",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478272781",
+			"date_added": 1478435806
 		}
 	],
 	"flags": {},
