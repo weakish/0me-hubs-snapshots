@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 131,
+	"next_comment_id": 132,
 	"user_name": "ks",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {
@@ -825,6 +825,12 @@
 			"body": "@Binero: what a drag!",
 			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1478422171",
 			"date_added": 1478446731
+		},
+		{
+			"comment_id": 131,
+			"body": "2) Either `scp` the file from the RPi or install a webserver on the RPi and fetch the file with e.g. `wget` or `curl`.",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1478454497",
+			"date_added": 1478455519
 		}
 	]
 }

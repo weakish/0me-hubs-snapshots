@@ -5,7 +5,7 @@
 	"avatar": "generate",
 	"user_name": "Antilibrary",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
-	"intro": "Random ZeroNet user",
+	"intro": "Your unread books",
 	"post": [
 		{
 			"post_id": 1,
@@ -15,5 +15,14 @@
 	],
 	"post_like": {},
 	"comment": [],
-	"follow": []
+	"follow": [],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }
