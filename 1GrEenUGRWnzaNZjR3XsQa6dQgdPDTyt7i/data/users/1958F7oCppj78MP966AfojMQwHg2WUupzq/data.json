@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 13,
+	"next_comment_id": 22,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -77,6 +77,54 @@
 			"body": "这么老的东西都被扒出来了……",
 			"post_uri": "1V7usnfmabQXPSNC2zrCpF2ed2jDZaujS_1478180638",
 			"date_added": 1478286245
+		},
+		{
+			"comment_id": 13,
+			"body": "@Cxgreat2014: 其实有这个限制的，如果你连续发好几个东西你会发现内容不是立即被发布而是有延迟的。",
+			"post_uri": "1BNHKwYeKayKzdhfFEmZGHnPN7PS1zCqBy_1478396781",
+			"date_added": 1478404946
+		},
+		{
+			"comment_id": 14,
+			"body": "@Cxgreat2014: 不会等待三十秒全发出去而是每隔三十秒发一帖吧！",
+			"post_uri": "1BNHKwYeKayKzdhfFEmZGHnPN7PS1zCqBy_1478396781",
+			"date_added": 1478405491
+		},
+		{
+			"comment_id": 15,
+			"body": "@Cxgreat2014: 还真是等三十秒全发出去了……",
+			"post_uri": "1BNHKwYeKayKzdhfFEmZGHnPN7PS1zCqBy_1478396781",
+			"date_added": 1478405682
+		},
+		{
+			"comment_id": 16,
+			"body": "@Cxgreat2014: 由于目前的 ZeroMe 的管理还是中心化的，问题还不是很大，毕竟 Hub 的创建者可以删消息。用过 Freenet 的 Frost 的遇到刷屏的真是毫无办法，只能自己默默删掉，但是每个人都要这么操作一次，后来 Freenet 上又搞了个新的 FMS 消息系统，使用了一种复杂的信任机制才解决一些问题，不过这种信任机制导致了第一次使用一个身份发言前需要输入大量的验证码。",
+			"post_uri": "1BNHKwYeKayKzdhfFEmZGHnPN7PS1zCqBy_1478396781",
+			"date_added": 1478406003
+		},
+		{
+			"comment_id": 18,
+			"body": "我理想中的社区：\n- 没有板块，只能加 tag\n- 板块入口：搜索 + 用户收藏 tag + 用户关注\n- 无人能对内容本身管理，用户可自创屏蔽列表允许别人订阅，无人阅读或者被多数人标记为垃圾的内容自然淘汰\n- 缩略图，点开显示大图\n- 自带版本控制",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478406945",
+			"date_added": 1478407418
+		},
+		{
+			"comment_id": 19,
+			"body": "@猫叉酱: 但是折叠的算法是官方指定而不是去中心化的，在 ZeroNet 里做成可根据个人需求自定义比较好。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478406945",
+			"date_added": 1478407544
+		},
+		{
+			"comment_id": 20,
+			"body": "@Cxgreat2014: 但是知乎有不友善内容 + 不宜讨论的政治内容，还有服务器提了个问题和问题找不到了。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478406945",
+			"date_added": 1478407658
+		},
+		{
+			"comment_id": 21,
+			"body": "@Cxgreat2014: 所以我觉得管理员才是最大的作恶人，应该去除管理员机制，但是传统的站点有它的优点，应该保留。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478406945",
+			"date_added": 1478408201
 		}
 	],
 	"flags": {},

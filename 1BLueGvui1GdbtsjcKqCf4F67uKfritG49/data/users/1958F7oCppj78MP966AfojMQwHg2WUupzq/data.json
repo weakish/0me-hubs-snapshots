@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 9,
+	"next_comment_id": 17,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -47,6 +47,54 @@
 			"body": "这个网站不可能被关闭，但是数据可能被删，2333",
 			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478403013",
 			"date_added": 1478404664
+		},
+		{
+			"comment_id": 9,
+			"body": "@Cxgreat2014: 我觉得还有可能从被关闭的节点中捞回来，公共代理估计不太现实了。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478403013",
+			"date_added": 1478404827
+		},
+		{
+			"comment_id": 10,
+			"body": "@Cxgreat2014: 感谢解析。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478403013",
+			"date_added": 1478404997
+		},
+		{
+			"comment_id": 11,
+			"body": "@Nekocross: 所以觉得 ZeroNet 还少了版本控制和存档的功能，应该保存之前的记录一段时间，不过听 P2P 说以后作者要做 ZeroNet 上的 GitHub ，应该会加吧！",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478403013",
+			"date_added": 1478405237
+		},
+		{
+			"comment_id": 12,
+			"body": "在这里问基本不可能了，因为要打开 ZeroNet 才会看到这条消息，但是一旦看到这条消息基本已经被更新了，也许你应该到 GFW Talk 首页的 QQ 群里去问问。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478404943",
+			"date_added": 1478406133
+		},
+		{
+			"comment_id": 13,
+			"body": "@Cxgreat2014: 不必长时间保留的，比如保留 7 天，这样磁盘占用一般还是可以接受的。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478403013",
+			"date_added": 1478406210
+		},
+		{
+			"comment_id": 14,
+			"body": "@HelloArch: 貌似站点目录里没啥指纹文件，因为即使你在目录里也没有你的签名而证明是你。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478404943",
+			"date_added": 1478407838
+		},
+		{
+			"comment_id": 15,
+			"body": "我的理解是只要你不把站点目录外的数据带进去就可以了。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478404943",
+			"date_added": 1478407892
+		},
+		{
+			"comment_id": 16,
+			"body": "@HelloArch: 我的感觉是文件的时间戳倒是可能泄露你的身份，因为不同的人同步时间不同，应该处理下。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478404943",
+			"date_added": 1478408027
 		}
 	],
 	"flags": {

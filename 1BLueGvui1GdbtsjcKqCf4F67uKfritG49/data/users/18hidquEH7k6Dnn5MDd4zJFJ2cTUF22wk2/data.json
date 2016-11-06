@@ -1,6 +1,6 @@
 {
-	"next_post_id": 25,
-	"next_comment_id": 74,
+	"next_post_id": 26,
+	"next_comment_id": 87,
 	"next_follow_id": 23,
 	"avatar": "jpg",
 	"user_name": "Cxgreat2014",
@@ -111,6 +111,11 @@
 			"post_id": 1478314500,
 			"body": "完了，刷屏党出现。。得出查看全部以及反spam功能了",
 			"date_added": 1478314476
+		},
+		{
+			"post_id": 1478408033,
+			"body": "我理想中的社区：\n* UI漂亮\n* rss支持\n* 编辑器所见即所得，同时支持markdown、数学公式、html源代码、代码块等\n* 管理员可以删除或屏蔽、折叠、移动到其他版块与板块中其他大部分人意见不一的言论，删除之后会邮件通知。\n* 缩略图，点开大图\n* 主题支持用户更换\n* 全平台App\n* 私人空间\n想了一下。。除了三个功能之外这不就segmentfault吗？/笑cry",
+			"date_added": 1478408008
 		}
 	],
 	"post_like": {
@@ -547,6 +552,84 @@
 			"body": "@怡红院: 可能还能捞回来，快去各个代理那看看吧，如果有更新延迟的说不定数据还在，得赶快",
 			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478403013",
 			"date_added": 1478404694
+		},
+		{
+			"comment_id": 74,
+			"body": "@Lmath: +1",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478403013",
+			"date_added": 1478404842
+		},
+		{
+			"comment_id": 75,
+			"body": "@怡红院: 抓得到啊，开浏览器开发者模式跟踪network流量，WebSocket里的带param的就是",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478403013",
+			"date_added": 1478404958
+		},
+		{
+			"comment_id": 76,
+			"body": "{\"cmd\": \"setSiteInfo\", \"params\": {\"tasks\": 3, \"size_limit\": 10, \"address\": \"1HNjT7PfBKpRgxq7b48z7iKchpYG4F5o5T\", \"next_size_limit\": 10, \"auth_address\": \"14fV7LAvQskgJifzSsWjfwZjZAQm41ZBkn\", \"event\": [\"file_started\", true], \"auth_key_sha512\": \"c0c6882b7959e4dce13b9bba70ed5ba46cf1e20a4fd34862a865c6f963e7a1c8\", \"content\": {\"files\": 7, \"inner_path\": \"content.json\", \"domain\": \"yihongyuan.bit\", \"description\": \"\\u6021\\u7ea2\\u9662\", \"title\": \"\\u6021\\u7ea2\\u9662\", \"files_optional\": 0, \"address\": \"1HNjT7PfBKpRgxq7b48z7iKchpYG4F5o5T\", \"signs_required\": 1, \"modified\": 1478403926.343, \"includes\": 1, \"ignore\": \"(.git|data/users|node_modules|js/index.js|data/0chan.db|webpack.config.js|update_files.rb|package.json|content.example.json|data/settings.example.json|LICENSE|README.md|js/engine/.*|js/templates|js/libs)\", \"zeronet_version\": \"0.4.1\"}, \"peers\": 40, \"auth_key\": \"6727d810a1def5bb4927046b5b7b6501c6b5fede578abeb642fd2b71893532d1\", \"settings\": {\"peers\": 31, \"serving\": true, \"bytes_recv\": 2184881, \"cache\": {}, \"modified\": 1478403926.343, \"own\": false, \"domain\": \"yihongyuan.bit\", \"size\": 629603, \"added\": 1478404570, \"permissions\": []}, \"bad_files\": 3, \"workers\": 0, \"cert_user_id\": null, \"started_task_num\": 3, \"content_updated\": 1478404572.172}, \"id\": 7}",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478403013",
+			"date_added": 1478404980
+		},
+		{
+			"comment_id": 77,
+			"body": "咯，就这种",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478403013",
+			"date_added": 1478404987
+		},
+		{
+			"comment_id": 78,
+			"body": "恭喜。。貌似过去太久，能找到的节点都更新了",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478403013",
+			"date_added": 1478405184
+		},
+		{
+			"comment_id": 79,
+			"body": "@Lmath: 这样太耗磁盘了。。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478403013",
+			"date_added": 1478405470
+		},
+		{
+			"comment_id": 80,
+			"body": "@怡红院: 。。我猜可能是女装子的锅。。可能是代码里把删除部分链接写死了。。建议去看下相关代码逻辑。。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478403013",
+			"date_added": 1478405558
+		},
+		{
+			"comment_id": 81,
+			"body": "@怡红院: 而且zeronet可能存在跨站漏洞。。并不安全",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478403013",
+			"date_added": 1478405587
+		},
+		{
+			"comment_id": 82,
+			"body": "@Nekocross: 得看代码才知道。过去我克隆博客时就发现了一个问题，我把我网站上克隆来源站的donate二维码删了又回来删了又回来，最后发现虽然我把文件删除了，但页面上只要有调用到那个资源的代码若是自己站点上没有那个文件就会去上一级clone来源尝试拉取。。。我猜他的站点是不是在删除那有问题",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478403013",
+			"date_added": 1478406171
+		},
+		{
+			"comment_id": 83,
+			"body": "@Nekocross: 我猜是不是拉资源时触发了什么魔法代码。。然后数据库就被gank了",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478403013",
+			"date_added": 1478406392
+		},
+		{
+			"comment_id": 84,
+			"body": "@HelloArch: 打个包然后ipfs？",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478404943",
+			"date_added": 1478406477
+		},
+		{
+			"comment_id": 85,
+			"body": "@HelloArch: 改个后缀名上传图床？",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478404943",
+			"date_added": 1478406529
+		},
+		{
+			"comment_id": 86,
+			"body": "但貌似没有一家能完整支持以上的。。",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478408033",
+			"date_added": 1478408033
 		}
 	],
 	"follow": [

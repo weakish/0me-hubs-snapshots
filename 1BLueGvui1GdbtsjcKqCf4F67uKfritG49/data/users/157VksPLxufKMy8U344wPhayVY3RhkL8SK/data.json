@@ -1,6 +1,6 @@
 {
-	"next_post_id": 15,
-	"next_comment_id": 29,
+	"next_post_id": 16,
+	"next_comment_id": 40,
 	"next_follow_id": 8,
 	"avatar": "jpg",
 	"user_name": "怡红院",
@@ -76,6 +76,11 @@
 			"post_id": 1478403013,
 			"body": "不知道出了什么状况，我发到[yihongyuan.bit](http://127.0.0.1:43110/yihongyuan.bit/)的所有数据没了，奇怪+伤心，白搞了那么久。",
 			"date_added": 1478402999
+		},
+		{
+			"post_id": 1478404943,
+			"body": "谁的节点保存有怡红院的数据。。。。。。。。。。求救阿，别更新！",
+			"date_added": 1478404928
 		}
 	],
 	"post_like": {},
@@ -247,6 +252,72 @@
 			"body": "@Nekocross: 我刚才在女装子尝试删除自己的贴，怎么会对我的网站有影响呢？我的站的文件没动过的，然后再发一个贴，前面的数据就全没了。",
 			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478403013",
 			"date_added": 1478404421
+		},
+		{
+			"comment_id": 29,
+			"body": "@Cxgreat2014: 代理只能看而已，抓不到数据吧",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478403013",
+			"date_added": 1478404834
+		},
+		{
+			"comment_id": 30,
+			"body": "@Cxgreat2014: @Cxgreat2014: 不行了不行了，我发过消息了，相当于sign过了，",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478403013",
+			"date_added": 1478405259
+		},
+		{
+			"comment_id": 31,
+			"body": "主要是现在我还不知道什么原因导致的。zeroNet现在是每发一条消息，都会给你的全部消息再sign一遍，应该增量sign，我觉得这是个bug。这样太容易把所有数据弄丢了",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478403013",
+			"date_added": 1478405323
+		},
+		{
+			"comment_id": 32,
+			"body": "@Cxgreat2014: 看来有可能，我要装到虚拟机里玩了。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478403013",
+			"date_added": 1478405828
+		},
+		{
+			"comment_id": 33,
+			"body": "@Nekocross: 11：30前没开过zeronet的节点才有可能存有了，一打开zeronet就会自动更新了",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478404943",
+			"date_added": 1478405952
+		},
+		{
+			"comment_id": 34,
+			"body": "@HelloArch: 这个可以，还有数据吗？",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478404943",
+			"date_added": 1478406207
+		},
+		{
+			"comment_id": 35,
+			"body": "@HelloArch: 你打包一下我的数据ok了，users\\157Vks*****这个文件夹",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478404943",
+			"date_added": 1478407648
+		},
+		{
+			"comment_id": 36,
+			"body": "只是我的数据丢失而已，其他人的还在",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478404943",
+			"date_added": 1478407672
+		},
+		{
+			"comment_id": 37,
+			"body": "@HelloArch: 是的",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478404943",
+			"date_added": 1478407804
+		},
+		{
+			"comment_id": 38,
+			"body": "@Lmath: 站点文件夹是公开的，每个节点的都一样",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478404943",
+			"date_added": 1478407884
+		},
+		{
+			"comment_id": 39,
+			"body": "好的",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478404943",
+			"date_added": 1478407956
 		}
 	],
 	"follow": [
