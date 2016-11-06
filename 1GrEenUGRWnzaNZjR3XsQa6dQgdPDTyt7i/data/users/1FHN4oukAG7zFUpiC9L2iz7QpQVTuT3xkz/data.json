@@ -1,6 +1,6 @@
 {
 	"next_post_id": 47,
-	"next_comment_id": 150,
+	"next_comment_id": 154,
 	"next_follow_id": 51,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
@@ -1131,6 +1131,30 @@
 			"body": "@Cxgreat2014: 默认订阅预先设定好的规则。如果可以对optional file进行更深层次的控制就好了，可以选择拒绝接受某用户的所有optional files，可以删除并永不保留某个optional files。这样的话某些人爱怎么样怎么样，不会影响到其他用户",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478406945",
 			"date_added": 1478411071
+		},
+		{
+			"comment_id": 150,
+			"body": "@HelloArch: 不是要言论管制，而是希望用户之间能共享一下屏蔽列表对付像“爆吧”这种行为。默认订阅一些规则是防止新用户一登入网站就被spam冲击。想言论自由可以订阅其他人的规则，甚至可以clone社区",
+			"post_uri": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1478410096",
+			"date_added": 1478412027
+		},
+		{
+			"comment_id": 151,
+			"body": "@HelloArch: 我之前的想法和你一样，但是刷屏者的出现让我的想法稍稍有了改变。规则还是要存在的，但用户可以选择使用谁的规则，还可以自己创造规则供别人使用。",
+			"post_uri": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1478410096",
+			"date_added": 1478412132
+		},
+		{
+			"comment_id": 152,
+			"body": "@Lmath: 有人滥用就创建自己的规则啊。比如某tag被爆了，那就`tag:某 -user:spamer1`这样就让客户端自动拒绝spamer1的文件",
+			"post_uri": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1478410096",
+			"date_added": 1478412317
+		},
+		{
+			"comment_id": 153,
+			"body": "@Lmath: 或者可以这样，用户第一次登入社区时，允许选择默认规则，按照订阅数量排序",
+			"post_uri": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1478410096",
+			"date_added": 1478412450
 		}
 	],
 	"follow": [

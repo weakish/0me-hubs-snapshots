@@ -1,12 +1,18 @@
 {
-	"next_post_id": 3,
-	"next_comment_id": 3,
+	"next_post_id": 4,
+	"next_comment_id": 4,
 	"next_follow_id": 22,
 	"avatar": "generate",
 	"user_name": "Ysc3839",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"intro": "My Blog: [Blog.ysc3839.bit](/Blog.ysc3839.bit)",
-	"post": [],
+	"post": [
+		{
+			"post_id": 1478414812,
+			"body": "宣传一下我自己修改的 [ZeroBlog](https://github.com/ysc3839/ZeroBlog/)\n代码是CoffeeScript，而不是直接修改all.js\n翻译成了中文 (可能有漏掉的)\n最后修改 ([参考](/1LcQTyUYkq3n458rkHVQxhHyvUdmSYFURd/?Post:10))\n添加可编辑footer\n加入响应式设计，适配移动设备\n测试站点: http://127.0.0.1:43110/19qHLGN2KEoU6CJipGbSK1hxDvUNKBWHGc",
+			"date_added": 1478414809
+		}
+	],
 	"post_like": {
 		"13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1477792253": 1477792254,
 		"1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1478356485": 1478356588,
@@ -26,6 +32,12 @@
 			"body": "@猫叉酱: ~~叫网站管理员及时更新~~ 刚才去看已经好了",
 			"post_uri": "1Q3xYc3P8i2WDj621HvSbfEqTP4aMLpKYU_1477803906",
 			"date_added": 1477811678
+		},
+		{
+			"comment_id": 3,
+			"body": "下一步打算加个背景图片，类似 [cxg2014.bit](/cxg2014.bit)",
+			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1478414812",
+			"date_added": 1478415030
 		}
 	],
 	"follow": [
