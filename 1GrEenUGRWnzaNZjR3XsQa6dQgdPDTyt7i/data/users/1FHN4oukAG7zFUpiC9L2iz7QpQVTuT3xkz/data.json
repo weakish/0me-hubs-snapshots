@@ -1,7 +1,7 @@
 {
 	"next_post_id": 47,
-	"next_comment_id": 142,
-	"next_follow_id": 50,
+	"next_comment_id": 150,
+	"next_follow_id": 51,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -1083,6 +1083,54 @@
 			"body": "@Lmath: 官方的折叠列表可以作为一个源，用户可以自己编写表达式，比如`-(官方 -user:路人甲) -user:路人乙 -tag:蛋糕`",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478406945",
 			"date_added": 1478407629
+		},
+		{
+			"comment_id": 142,
+			"body": "@Lmath: 可以默认让用户添加管理员发布的规则，用户也可以移除管理员的规则",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478406945",
+			"date_added": 1478408461
+		},
+		{
+			"comment_id": 143,
+			"body": "@Cxgreat2014: 我不知道啊，反正有个人被举报了多次，我这只显示一个数字，我点击了spam之后才隐藏",
+			"post_uri": "1BNHKwYeKayKzdhfFEmZGHnPN7PS1zCqBy_1478396781",
+			"date_added": 1478408604
+		},
+		{
+			"comment_id": 144,
+			"body": "@Cxgreat2014: 那就再添加一条：允许创建私有tag（创建者可以授权使用，没授权的不准用）",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478406945",
+			"date_added": 1478408802
+		},
+		{
+			"comment_id": 145,
+			"body": "@Cxgreat2014: 要不联系一下恶俗wiki的站长，让他把恶俗wiki搬到zeronet上面来吧",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478406945",
+			"date_added": 1478408849
+		},
+		{
+			"comment_id": 146,
+			"body": "@Lmath: 要是能迁移一部分数据就更好了",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478406945",
+			"date_added": 1478409376
+		},
+		{
+			"comment_id": 147,
+			"body": "@Lmath: 安卓碎成这个样子不照样好好的",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478406945",
+			"date_added": 1478409489
+		},
+		{
+			"comment_id": 148,
+			"body": "@Cxgreat2014:  @Lmath:  换个思路，我们让人人都能成为管理者，通过发布规则表达式的方式进行管理，让用户自己决定订阅谁的表达式",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478406945",
+			"date_added": 1478409691
+		},
+		{
+			"comment_id": 149,
+			"body": "@Cxgreat2014: 默认订阅预先设定好的规则。如果可以对optional file进行更深层次的控制就好了，可以选择拒绝接受某用户的所有optional files，可以删除并永不保留某个optional files。这样的话某些人爱怎么样怎么样，不会影响到其他用户",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478406945",
+			"date_added": 1478411071
 		}
 	],
 	"follow": [
@@ -1414,6 +1462,13 @@
 			"auth_address": "1A1gyFFvUvA4rZTyTsokab41jnh3xWVLEM",
 			"user_name": "Problem233",
 			"date_added": 1478328814
+		},
+		{
+			"follow_id": 50,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp",
+			"user_name": "Helloarch",
+			"date_added": 1478410635
 		}
 	],
 	"settings": {

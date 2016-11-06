@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 17,
+	"next_comment_id": 20,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -95,6 +95,24 @@
 			"body": "@HelloArch: 我的感觉是文件的时间戳倒是可能泄露你的身份，因为不同的人同步时间不同，应该处理下。",
 			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478404943",
 			"date_added": 1478408027
+		},
+		{
+			"comment_id": 17,
+			"body": "其实不支持 HTML 什么的主要是历史的进程，以前 HTML5 出现前没什么 Sandbox 机制，用户的代码可能会影响整个页面的安全，所以像 Freenet 这种要求匿名性的东西甚至禁止了 JavaScript 。",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478408033",
+			"date_added": 1478409102
+		},
+		{
+			"comment_id": 18,
+			"body": "@Cxgreat2014: HTML 标签和属性这么多，而且不同浏览器支持程度都不同又经常更新，过滤起来有点麻烦，我还是比较支持带 sandbox 属性的 iframe 。\n况且当时的历史背景是 IE 占浏览器绝对主流，由于没像现在使用了系统的一些权限机制经常出安全漏洞。\nDiscuz! 可以发 HTML ，但是目前也是提示出于安全考虑默认关闭并推荐只开发给核心用户（好吧！Discuz! 直到最近才支持 HTML5 的图片展示页，跟不上时代了）",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478408033",
+			"date_added": 1478409737
+		},
+		{
+			"comment_id": 19,
+			"body": "@Cxgreat2014: 我分析了一下 Freenet 慢的原因，发现除了网络结构（相当于强行自带 Tor 但是不同于 Tor）原因外，ZeroNet 做了一件事，就是把所有页面在用户没访问时订阅的站点已经下载下来了。所以我访问 Freenet 时只能采用一次性后台开一堆页面然后慢慢看的浏览方法。",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478408033",
+			"date_added": 1478410282
 		}
 	],
 	"flags": {

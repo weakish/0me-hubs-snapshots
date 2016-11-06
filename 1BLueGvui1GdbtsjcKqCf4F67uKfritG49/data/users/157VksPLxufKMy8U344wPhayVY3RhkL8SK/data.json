@@ -1,6 +1,6 @@
 {
 	"next_post_id": 16,
-	"next_comment_id": 40,
+	"next_comment_id": 41,
 	"next_follow_id": 8,
 	"avatar": "jpg",
 	"user_name": "怡红院",
@@ -318,6 +318,12 @@
 			"body": "好的",
 			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478404943",
 			"date_added": 1478407956
+		},
+		{
+			"comment_id": 40,
+			"body": "@HelloArch: 谢谢，不过我发现本地的图片它会随content.json,的更新而自动删除了。应该恢复无望了",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478404943",
+			"date_added": 1478409084
 		}
 	],
 	"follow": [
