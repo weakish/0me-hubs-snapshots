@@ -1,7 +1,7 @@
 {
-	"next_post_id": 26,
+	"next_post_id": 27,
 	"next_comment_id": 107,
-	"next_follow_id": 120,
+	"next_follow_id": 121,
 	"avatar": "jpg",
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -131,6 +131,11 @@
 			"post_id": 1478279381,
 			"body": "Everyone下的时间线和Activity feed长时间被中文占满了，再这样下去感觉老外会疯。估计不久就要像论坛一样克隆出一套ZeoMeCN，给中文用户自嗨。\n",
 			"date_added": 1478279356
+		},
+		{
+			"post_id": 1478447607,
+			"body": "今天白天的时候大家讨论得很热烈啊，关于自己理想中的网络社区。我刚才看了下，还没时间完全看完，就先收藏了几位的帖子有时间再看。大家相互交流，观点的碰撞，是极好的。大方向大家基本是统一的，具体的东西我建议是走一步看一步，因为经常是计划赶不上变化。经历过一些事后，自己的观点都会有变化。比如说之前ZeroNet作者说ZeroMe的老帖子会把hub撑大，要提供一键删除旧贴功能，让用户自己删，否则达到空间限额后发不了贴他不会帮提限额了。我当时强烈建议他用optional files来存旧贴，他当时说optional files有缺点啊，会搞得太复杂啊，不想搞啊。大概两个月后，也就是前几天，他就在github的某issue里说，新版本的改进版optional files可以用来存旧贴。",
+			"date_added": 1478447581
 		}
 	],
 	"post_like": {
@@ -159,7 +164,9 @@
 		"1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd_1475976512": 1476105641,
 		"1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib_9": 1476965542,
 		"1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd_1477551693": 1477670197,
-		"1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd_1477968172": 1478162477
+		"1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd_1477968172": 1478162477,
+		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1478417725": 1478444922,
+		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1478423200": 1478445509
 	},
 	"comment": [
 		{
@@ -1597,6 +1604,13 @@
 			"auth_address": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS",
 			"user_name": "Jabasukuriputo Wang",
 			"date_added": 1478365504
+		},
+		{
+			"follow_id": 120,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1KZM4Jyphcs28aEma3VVQBb4GQKFw1w99w",
+			"user_name": "Danielhuo",
+			"date_added": 1478447928
 		}
 	],
 	"settings": {
