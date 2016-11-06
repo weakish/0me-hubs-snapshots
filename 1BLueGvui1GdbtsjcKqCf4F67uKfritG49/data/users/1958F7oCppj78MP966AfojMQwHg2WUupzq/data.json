@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 20,
+	"next_comment_id": 24,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -113,6 +113,30 @@
 			"body": "@Cxgreat2014: 我分析了一下 Freenet 慢的原因，发现除了网络结构（相当于强行自带 Tor 但是不同于 Tor）原因外，ZeroNet 做了一件事，就是把所有页面在用户没访问时订阅的站点已经下载下来了。所以我访问 Freenet 时只能采用一次性后台开一堆页面然后慢慢看的浏览方法。",
 			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478408033",
 			"date_added": 1478410282
+		},
+		{
+			"comment_id": 20,
+			"body": "虽然要注册要付费，但是目前来看付费很便宜。使用 NameCoin 付费，实际上并没有付费给某个人，而是付费给 NameCoin 的矿工了，而 NameCoin 矿工维护了节点（相当于 NameServer），所以支付少量 NameCoin 并没有问题。",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1478416178",
+			"date_added": 1478416839
+		},
+		{
+			"comment_id": 21,
+			"body": "@西木野真姬: 以前轮子一直在推 Freenet ，然后在 2001 年的时候 Freenet 被 GFW 认证（通过协议特征）了。后来 Freenet 使用更强的加密和混淆理论复活后，貌似并没有再于 Freenet  有过多的活动，估计是推广不好。",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478415857",
+			"date_added": 1478417036
+		},
+		{
+			"comment_id": 22,
+			"body": "@西木野真姬: 实际上 ZeroNet 上 ISP之间的通讯阻断、被套NAT、封端口还是会在一定程度上恶化网络质量的。另外我发现表网上的封端口并不是部分地区封特定端口入站这么简单。比如我这里 ISP 不封端口但是还是有人上我的站点上不去，但是我开了一个非常规端口，他就能访问了，所以我推测是对面的 ISP 已经有一定白名单的趋势（封掉非白名单站点的特定出站端口）。",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1478416178",
+			"date_added": 1478418361
+		},
+		{
+			"comment_id": 23,
+			"body": "@Cxgreat2014: 我们平时之所以说邪教是邪教，是因为它是反科学的，所以我们尽可以让它们的言论在这里秀下限，然后把它们批判得五体投地。如果我们刻意限制什么，不是意味着我们依据不足而狗急跳墙了？在 ZeroNet 以外还是有很多地方可以宣传这种，我们不让别人看到又有什么用呢？",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478415857",
+			"date_added": 1478419061
 		}
 	],
 	"flags": {
@@ -126,6 +150,7 @@
 	"comment_like": {
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_27": 1478374596,
 		"1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_7": 1478374600,
-		"1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_61": 1478375061
+		"1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_61": 1478375061,
+		"15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_74": 1478418717
 	}
 }

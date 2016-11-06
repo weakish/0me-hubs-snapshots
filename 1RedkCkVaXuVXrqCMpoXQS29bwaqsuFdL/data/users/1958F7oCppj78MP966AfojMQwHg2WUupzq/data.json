@@ -1,7 +1,7 @@
 {
-	"next_post_id": 2,
-	"next_comment_id": 4,
-	"next_follow_id": 70,
+	"next_post_id": 3,
+	"next_comment_id": 6,
+	"next_follow_id": 71,
 	"avatar": "png",
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -11,11 +11,17 @@
 			"post_id": 1,
 			"date_added": 1471104717,
 			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1478417725,
+			"body": "目前 ZeroMe 上的一个限制：只能点❤️来表示支持，没有相同简便度的方法来表示反对。\n这与党媒和官媒的逻辑是一样的：你只能支持我或者不支持我（政治用语：拥护我），但是就是不能反对我。\n我不认为一条有很多人支持也有很多人反对的消息与没什么人支持也没什么人反对的消息是一样的，所以还应该分开统计。\n顺带说一句：最近知乎的评论也从只能点“赞”变成可以点“赞”也可以点“踩”了。",
+			"date_added": 1478417723
 		}
 	],
 	"post_like": {
 		"1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd_1477551693": 1477956261,
-		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1478181754": 1478185615
+		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1478181754": 1478185615,
+		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1478417725": 1478417763
 	},
 	"comment": [
 		{
@@ -35,6 +41,18 @@
 			"body": "@Helloarch: 你可能是电信垃圾 DNS 的受害者，果断换掉。",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1478279381",
 			"date_added": 1478375144
+		},
+		{
+			"comment_id": 4,
+			"body": "@Ysc3839: 如果你发现一个博文下面有很多人反对，你是不是看着很不舒服？访客看了是不是也觉得博文有点扯了？所以很多个人博客也会选择这么做。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478417725",
+			"date_added": 1478417984
+		},
+		{
+			"comment_id": 5,
+			"body": "@西木野真姬: Bad Ugly 只能适用于主消息，不适用于评论，而且明显不与❤️平等地位（想象下国产软件卸载界面上大大的“继续使用”按钮和边上小小的“我要卸载”按钮）。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478417725",
+			"date_added": 1478418618
 		}
 	],
 	"follow": [
@@ -513,6 +531,13 @@
 			"auth_address": "1Cj94xYhjEj8jrk3c94V8s1QzpzVksGYBd",
 			"user_name": "P0rt4v0x",
 			"date_added": 1478412761
+		},
+		{
+			"follow_id": 70,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "14Uu69Rsj5RcsSRSJvxtuGbFPCHyrNyC8Y",
+			"user_name": "人生输家",
+			"date_added": 1478419114
 		}
 	],
 	"settings": {

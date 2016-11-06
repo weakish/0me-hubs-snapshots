@@ -1,7 +1,7 @@
 {
 	"next_post_id": 16,
-	"next_comment_id": 22,
-	"next_follow_id": 74,
+	"next_comment_id": 24,
+	"next_follow_id": 76,
 	"avatar": "png",
 	"user_name": "Mzero",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -210,6 +210,18 @@
 			"body": "你好，不知道該叫臺灣，還是台灣",
 			"post_uri": "13dUD5qbY6LaXH9pfh5iDgXHgKjCZPxvZV_2",
 			"date_added": 1478333990
+		},
+		{
+			"comment_id": 22,
+			"body": "facebook不就不能點反對或不喜歡麼",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478417725",
+			"date_added": 1478418144
+		},
+		{
+			"comment_id": 23,
+			"body": "@西木野真姬: 後來只是豐富了表達按鈕（包括悲傷、憤怒等），但就是沒有反對或dislike之類的。扎克說，不想讓facebook充斥負面的東西。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478417725",
+			"date_added": 1478418464
 		}
 	],
 	"follow": [
@@ -723,6 +735,20 @@
 			"auth_address": "1JTB7scTEVetovDW3srftKQECZbyATWuNw",
 			"user_name": "Xihang9559",
 			"date_added": 1478350334
+		},
+		{
+			"follow_id": 74,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB",
+			"user_name": "Ysc3839",
+			"date_added": 1478416502
+		},
+		{
+			"follow_id": 75,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1Cj94xYhjEj8jrk3c94V8s1QzpzVksGYBd",
+			"user_name": "P0rt4v0x",
+			"date_added": 1478416510
 		}
 	]
 }

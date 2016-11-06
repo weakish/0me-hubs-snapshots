@@ -1,6 +1,6 @@
 {
 	"next_post_id": 4,
-	"next_comment_id": 4,
+	"next_comment_id": 6,
 	"next_follow_id": 22,
 	"avatar": "generate",
 	"user_name": "Ysc3839",
@@ -9,7 +9,7 @@
 	"post": [
 		{
 			"post_id": 1478414812,
-			"body": "宣传一下我自己修改的 [ZeroBlog](https://github.com/ysc3839/ZeroBlog/)\n代码是CoffeeScript，而不是直接修改all.js\n翻译成了中文 (可能有漏掉的)\n最后修改 ([参考](/1LcQTyUYkq3n458rkHVQxhHyvUdmSYFURd/?Post:10))\n添加可编辑footer\n加入响应式设计，适配移动设备\n测试站点: http://127.0.0.1:43110/19qHLGN2KEoU6CJipGbSK1hxDvUNKBWHGc",
+			"body": "宣传一下我自己修改的 [ZeroBlog](https://github.com/ysc3839/ZeroBlog/)\n代码是CoffeeScript，而不是直接修改all.js\n翻译成了中文 (可能有漏掉的)\n最后修改时间 ([参考](/1LcQTyUYkq3n458rkHVQxhHyvUdmSYFURd/?Post:10))\n添加可编辑footer\n加入响应式设计，适配移动设备\n测试站点: http://127.0.0.1:43110/19qHLGN2KEoU6CJipGbSK1hxDvUNKBWHGc",
 			"date_added": 1478414809
 		}
 	],
@@ -38,6 +38,18 @@
 			"body": "下一步打算加个背景图片，类似 [cxg2014.bit](/cxg2014.bit)",
 			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1478414812",
 			"date_added": 1478415030
+		},
+		{
+			"comment_id": 4,
+			"body": "@猫叉酱: 这是我故意设置的 `\"demo\": true`",
+			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1478414812",
+			"date_added": 1478416024
+		},
+		{
+			"comment_id": 5,
+			"body": "@Cxgreat2014: 有的，刚才已经更新了一个测试文章",
+			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1478414812",
+			"date_added": 1478417652
 		}
 	],
 	"follow": [
