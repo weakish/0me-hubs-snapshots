@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 36,
+	"next_comment_id": 42,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -209,6 +209,42 @@
 			"body": "@HelloArch: 蓝屏应该不是 Freenet 的锅吧！我看了下近年高危漏洞中能影响到 Freenet 的也不多（与 Freenet 变态的过滤机制有关，然而也就是这个影响了使用体验和性能）。",
 			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478415857",
 			"date_added": 1478428922
+		},
+		{
+			"comment_id": 36,
+			"body": "@怡红院: 目前的公共代理都要手工点才会更新么？",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478425521",
+			"date_added": 1478437876
+		},
+		{
+			"comment_id": 37,
+			"body": "@怡红院: 对哦！公共代理不能打开那个做种所有文件的选项。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478425521",
+			"date_added": 1478438046
+		},
+		{
+			"comment_id": 38,
+			"body": "@Smallorange: 所以还是不建议日常都用公共代理解决的，特别是电信。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478425521",
+			"date_added": 1478438149
+		},
+		{
+			"comment_id": 39,
+			"body": "@怡红院: 我这里的部分网络环境下也这样，检查后发现 DNS 被污染，所以请使用 DNS 反污染手段，我比较推荐 Pcap_DNSProxy 。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478425521",
+			"date_added": 1478438409
+		},
+		{
+			"comment_id": 40,
+			"body": "@Smallorange: 我来说说 I2P 的使用体验，首先，由于内置 NetDB 被墙，第一次肯定不能裸连，你用多数网上的公开代理也不行，因为 NetDB 曾经被 DDoS 的原因，根本不返回结果，但是用挂 VPN 可以直接连上 I2P 然后等个一二十分钟发现足够节点后就可以断开 VPN 了，以后只要不长时间关闭 I2P 就一直能连上。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478425521",
+			"date_added": 1478439677
+		},
+		{
+			"comment_id": 41,
+			"body": "@怡红院: Tor 推荐中国用户使用 meek 网桥的，根据我的经验要连 obfs4 网桥要换 IP 获取好几次才能获取到两三个。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478425521",
+			"date_added": 1478439846
 		}
 	],
 	"flags": {

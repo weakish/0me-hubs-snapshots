@@ -1,5 +1,5 @@
 {
-	"next_post_id": 4,
+	"next_post_id": 5,
 	"next_comment_id": 7,
 	"next_follow_id": 23,
 	"avatar": "generate",
@@ -11,6 +11,11 @@
 			"post_id": 1478414812,
 			"body": "宣传一下我自己修改的 [ZeroBlog](https://github.com/ysc3839/ZeroBlog/)\n代码是CoffeeScript，而不是直接修改all.js\n翻译成了中文 (可能有漏掉的)\n最后修改时间 ([参考](/1LcQTyUYkq3n458rkHVQxhHyvUdmSYFURd/?Post:10))\n添加可编辑footer\n加入响应式设计，适配移动设备\n测试站点: http://127.0.0.1:43110/19qHLGN2KEoU6CJipGbSK1hxDvUNKBWHGc",
 			"date_added": 1478414809
+		},
+		{
+			"post_id": 1478439303,
+			"body": "http://127.0.0.1:43110/docs.ysc3839.bit/using_zeronet/create_new_site/\nhttps://github.com/ysc3839/Documentation-zh\nZeroNet 中文文档，目前还没翻译完，如果有兴趣的话一起翻译吧~~\n说明一下：这是基于官方的ZeroNet修改的。**原版里面加载了一个比特币捐赠的脚本，会访问https://block.io**",
+			"date_added": 1478439299
 		}
 	],
 	"post_like": {
@@ -18,7 +23,8 @@
 		"1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1478356485": 1478356588,
 		"1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1478355972": 1478356591,
 		"1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1478337589": 1478356742,
-		"1Nf7y77nKezA8BveiFhirUuS6kg66doRUY_2": 1478356784
+		"1Nf7y77nKezA8BveiFhirUuS6kg66doRUY_2": 1478356784,
+		"13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1478439303": 1478439822
 	},
 	"comment": [
 		{

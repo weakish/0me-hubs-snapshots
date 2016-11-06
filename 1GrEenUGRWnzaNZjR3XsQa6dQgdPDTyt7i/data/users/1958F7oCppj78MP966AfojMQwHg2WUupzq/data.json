@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 43,
+	"next_comment_id": 46,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -252,6 +252,24 @@
 			"body": "@P2P: 根据我的体验，配置并不复杂，但是导致了网页打开缓慢的问题。还有很多网站明明被墙了也学习不到（v0.98）。",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478272781",
 			"date_added": 1478437016
+		},
+		{
+			"comment_id": 43,
+			"body": "@P2P: 看了相关的一些 issue ，作者的大致意思是 SwitchyOmega 作为一个扩展由于 API 限制并不能指定某个元素使用一个哪个代理，只能设置一个全局的 PAC 规则，然后由浏览器处理，这种情况下想要在检测到加载失败后必须重新加载整个页面，而在部分元素被墙的情况下重新加载整个页面会使页面上的一些会话信息比如表单丢失，为了避免这种情况，决定还是让用户手工操作好了。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478272781",
+			"date_added": 1478437395
+		},
+		{
+			"comment_id": 44,
+			"body": "@Cxgreat2014: 不是超时时间的问题，是只要使用 cow 访问都能明显感受到 cow 的慢，学习不到的问题你可以看看 Issue ，从 v0.97 开始的 Bug 。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478272781",
+			"date_added": 1478438519
+		},
+		{
+			"comment_id": 45,
+			"body": "@Cxgreat2014: 我这移动网比较奇葩，很多网站其他运营商没墙它墙了，其他运营商墙了它没墙，所以 GFWList 适用性不是太好（但是大多数网站差不多）。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478272781",
+			"date_added": 1478438727
 		}
 	],
 	"flags": {},
