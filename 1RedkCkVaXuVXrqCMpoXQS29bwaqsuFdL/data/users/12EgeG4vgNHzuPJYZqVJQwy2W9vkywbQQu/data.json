@@ -1,6 +1,6 @@
 {
-	"next_post_id": 16,
-	"next_comment_id": 59,
+	"next_post_id": 17,
+	"next_comment_id": 61,
 	"next_follow_id": 14,
 	"avatar": "png",
 	"user_name": "PaintNinja",
@@ -81,6 +81,11 @@
 			"post_id": 1478436568,
 			"body": "*Seed even with the page closed* with NinjaBeats: You can now seed even without needing to leave the player open.\n\nSimply follow these steps:\n1) Get [WebTorrent Desktop](https://webtorrent.io/desktop/) if you haven't got it already\n2) Open a NinjaBeats stream and copy the ID from the URL (e.g. if the link is `audio.html?ID=4af525066b62ab54732155523dd1ecb73acd9102` , you select `4af525066b62ab54732155523dd1ecb73acd9102` and press Ctrl + C or right click + copy)\n3) Open up WebTorrent Desktop and press Ctrl + V, you will now be seeding the stream.\n\nI welcome people to seed NinjaBeats demos in order to improve the overall speed and reliability, enjoy! :)",
 			"date_added": 1478436553
+		},
+		{
+			"post_id": 1478551863,
+			"body": "*Easily share multimedia* with NinjaBeats: In just two steps, you can upload just about any format (or even a mix of different kinds of files), without needing to go to any special upload page or do any changes to your files.\n\nTo share content, it's as simple as:\n1) Open up the streamer and drag a file or a group of files onto the page\n2) Copy the share link and share!\n3) You can also *optionally* seed with the page closed by pasting the provided infohash into WebTorrent Desktop.\n\nThe streamer is smart enough to know what kind of content you're trying to share and to adapt the UI and UX accordingly when the file(s) are played, so you don't need to manually tell it anything for it to work (e.g. if you include a video and a picture, it treats it as an \"immersive\" music player; If you include a PDF on its own, you get a nice PDF reader UI; If you include an audio file and a picture, you get a normal music player, etc...)\n\nFeel free to share some links in the comments!",
+			"date_added": 1478551847
 		}
 	],
 	"post_like": {
@@ -457,6 +462,18 @@
 			"body": "@Technoshaman777: As the player said, there weren't any peers seeding when you tried the demos, probably because my computer was off at the time. The idea of having a centralised fallback is a good idea, I'll consider it for a future update. :)\n\nTry the demos now, they should work at least in Firefox.\n\n@Nofish: Thanks for the info, I hope it gets fixed soon too!",
 			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1478368568",
 			"date_added": 1478436016
+		},
+		{
+			"comment_id": 59,
+			"body": "@Jro: Thanks! If you have any feature requests or more feedback, feel free to let me know. :)",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1478436568",
+			"date_added": 1478549716
+		},
+		{
+			"comment_id": 60,
+			"body": "There's a known bug in the share link atm... just remove the `?wrapper_nonce=(hash)` inbetween audio.html and the `?ID=` as a workaround for now.\n\nSome stuff I'm sharing because it shows off the background effect quite well:\n- [Pumped Up Kicks by Foster The People](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html?ID=df0407738c27663941efd5a1b897b3dbd9b06ce5)\n- [Someone that loves you by HONNE & Izzy Bizu](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html?ID=752aae0291d6eaeede2b03df147d396453d0b900)\n- [My Way by Calvin Harris](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html?ID=74b199b65d6e1ea6209319de24555f2fa36f4c7f)",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1478551863",
+			"date_added": 1478552614
 		}
 	],
 	"follow": [
@@ -557,6 +574,7 @@
 	],
 	"flags": {},
 	"comment_like": {
-		"137PNA5gLgCTLZTBtzUqCmMoZ752NQGQSJ_10": 1475518482
+		"137PNA5gLgCTLZTBtzUqCmMoZ752NQGQSJ_10": 1475518482,
+		"18DbeZgtVCcLghmtzvg4Uv8uRQAwR8wnDQ_4": 1478549674
 	}
 }
