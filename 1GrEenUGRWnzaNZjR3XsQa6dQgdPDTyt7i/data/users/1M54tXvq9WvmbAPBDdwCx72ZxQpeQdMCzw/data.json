@@ -1,13 +1,15 @@
 {
 	"next_post_id": 2,
 	"next_comment_id": 1,
-	"next_follow_id": 19,
+	"next_follow_id": 24,
 	"avatar": "generate",
 	"user_name": "Vinyl",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"intro": "A ZeroNet user",
 	"post": [],
-	"post_like": {},
+	"post_like": {
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478406945": 1478505735
+	},
 	"comment": [],
 	"follow": [
 		{
@@ -135,6 +137,50 @@
 			"auth_address": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB",
 			"user_name": "Ysc3839",
 			"date_added": 1478505594
+		},
+		{
+			"follow_id": 19,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz",
+			"user_name": "猫叉酱",
+			"date_added": 1478505701
+		},
+		{
+			"follow_id": 20,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1958F7oCppj78MP966AfojMQwHg2WUupzq",
+			"user_name": "Lmath",
+			"date_added": 1478505781
+		},
+		{
+			"follow_id": 21,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "157VksPLxufKMy8U344wPhayVY3RhkL8SK",
+			"user_name": "怡红院",
+			"date_added": 1478506320
+		},
+		{
+			"follow_id": 22,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "14139fxEEc7VuHVxvK2UqYSeX3rJqiADVY",
+			"user_name": "公用号(Public ID)",
+			"date_added": 1478506492
+		},
+		{
+			"follow_id": 23,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1MZ6f3V1cBuhNwzajMVPu8vb1wRt1p6dpt",
+			"user_name": "ChinaNet",
+			"date_added": 1478506582
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }

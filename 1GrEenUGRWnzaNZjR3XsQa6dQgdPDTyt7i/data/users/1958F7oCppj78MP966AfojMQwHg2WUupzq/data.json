@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 51,
+	"next_comment_id": 53,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -244,7 +244,7 @@
 		},
 		{
 			"comment_id": 41,
-			"body": "@Ysc3839: \n@HelloArch: 这种可能要更改 ZeroNet 的结构，包括我不想看到它就不给它做种。",
+			"body": "@Ysc3839: \n@HelloArch: 这种可能要更改 ZeroNet 的结构，包括我不想看到它就不给它做种。\n目前的方法就是每个人自建 Hub 然后在 Hub 层面上控制。",
 			"post_uri": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1478410096",
 			"date_added": 1478421738
 		},
@@ -301,6 +301,18 @@
 			"body": "@HelloArch: 这就涉及到跨域的问题了，需要相应的 RSS 源配合吧！",
 			"post_uri": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1478488866",
 			"date_added": 1478490217
+		},
+		{
+			"comment_id": 51,
+			"body": "@HelloArch: 我估计原理差不多是这样的，你准备一台主机写个脚本定期抓取指定 Blog 的 RSS ，然后把抓取后的数据用 ZeroNet 的 API 给 Publish 到 ZeroBlog 去。所以抓取这个过程依然是中心化的。",
+			"post_uri": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1478488866",
+			"date_added": 1478505827
+		},
+		{
+			"comment_id": 52,
+			"body": "@猫叉酱: 设置密码并公开的做法，有点像百度网盘里的私密分享并公开密码，照样会被投诉停机（相当于网盘分享被取消）。",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478495090",
+			"date_added": 1478507313
 		}
 	],
 	"flags": {},
