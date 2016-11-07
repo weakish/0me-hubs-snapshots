@@ -4,14 +4,18 @@
  "cert_sign": "G0SFzU9zXwJn0MFgT2TIHXfosSgXMTsV6XxpURPQ8NOQXnyMJSAAiRiVtAqnZlmUIuJdj0n2yz51ESxV4JHEn/U=",
  "cert_user_id": "erotica@zeroid.bit",
  "files": {
+  "avatar.jpg": {
+   "sha512": "901d429e3f0c750c8ccc79e3edc6911301fc3ad863eb0b582c5dc38e60b73aea",
+   "size": 1483
+  },
   "data.json": {
-   "sha512": "d6f35015fed33ddec266e3cadeed03e40345c2d6de6051f30e531392595c746b",
-   "size": 498
+   "sha512": "2b4e77f556fa0acf0811a3895bac9ecce7826fdf73480aa653bee62070ae7566",
+   "size": 496
   }
  },
  "inner_path": "data/users/1FDrFZmXjeojsKpfaENyn7Tai8PPeghY9E/content.json",
- "modified": 1478494187.789,
+ "modified": 1478512045.683,
  "signs": {
-  "1FDrFZmXjeojsKpfaENyn7Tai8PPeghY9E": "G5cfBjEy12zefDZLCFKmPNepH5pQFlYQYXub+Nqrv3FTqupyZqupTTyPuGBTFQLpeJf3TVw2Jd0nNXWY1vZiiOU="
+  "1FDrFZmXjeojsKpfaENyn7Tai8PPeghY9E": "HC+bSyk2Z7Vj+yj05lLRaD8ggArox1DAdoP8lu8etDhCiTacMOd5NW1LaHHNsl8ZvtNiaoR+XlYDylJO9pplQgw="
  }
 }
