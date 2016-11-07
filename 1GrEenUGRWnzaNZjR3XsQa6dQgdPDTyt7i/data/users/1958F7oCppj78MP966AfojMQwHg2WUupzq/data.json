@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 59,
+	"next_comment_id": 60,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -349,6 +349,12 @@
 			"body": "@猫叉酱: 我刚刚测试了下我这里还是原来的性能。你这是电信吧！不过要是哪天 GitHub 被封也没什么奇怪的，毕竟目前想到下翻墙软件就直接去 GitHub 了。还记得是怎么封一个曾经市场占有率超 30% 的搜索引擎—— Google 的么？先让它不稳定，等很多人受不了网络不稳定转而被迫用其他搜索引擎时，就直接 Block 了，我估计 GFW 对 GitHub 也想采取这个策略。",
 			"post_uri": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1478488866",
 			"date_added": 1478522314
+		},
+		{
+			"comment_id": 59,
+			"body": "@P2P: 不知道，但是我目测是代理本身的资源消耗。因为我无论访问墙内还是墙外网站都比直接使用 Shadowsocks 有明显感知得慢。也有可能是并发不行。",
+			"post_uri": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1478488866",
+			"date_added": 1478527181
 		}
 	],
 	"flags": {},
