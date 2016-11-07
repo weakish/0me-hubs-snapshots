@@ -1,5 +1,5 @@
 {
-	"next_post_id": 27,
+	"next_post_id": 28,
 	"next_comment_id": 109,
 	"next_follow_id": 122,
 	"avatar": "jpg",
@@ -136,6 +136,11 @@
 			"post_id": 1478447607,
 			"body": "今天白天的时候大家讨论得很热烈啊，关于自己理想中的网络社区。我刚才看了下，还没时间完全看完，就先收藏了几位的帖子有时间再看。大家相互交流，观点的碰撞，是极好的。大方向大家基本是统一的，具体的东西我建议是走一步看一步，因为经常是计划赶不上变化。经历过一些事后，自己的观点都会有变化。比如说之前ZeroNet作者说ZeroMe的老帖子会把hub撑大，要提供一键删除旧贴功能，让用户自己删，否则达到空间限额后发不了贴他不会帮提限额了。我当时强烈建议他用optional files来存旧贴，他当时说optional files有缺点啊，会搞得太复杂啊，不想搞啊。大概两个月后，也就是前几天，他就在github的某issue里说，新版本的改进版optional files可以用来存旧贴。",
 			"date_added": 1478447581
+		},
+		{
+			"post_id": 1478522484,
+			"body": "这个网站是ZeroMe Plus作者之前搞的，可以查询谁@了你 ZeroMeMention: http://127.0.0.1:43110/1JouSggdhsEZ9tWN5oiQArjdAA8wkCcxuR/",
+			"date_added": 1478522457
 		}
 	],
 	"post_like": {
