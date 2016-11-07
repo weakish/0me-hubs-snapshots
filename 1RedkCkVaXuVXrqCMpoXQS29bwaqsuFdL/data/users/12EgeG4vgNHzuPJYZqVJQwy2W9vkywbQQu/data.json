@@ -1,6 +1,6 @@
 {
 	"next_post_id": 17,
-	"next_comment_id": 61,
+	"next_comment_id": 62,
 	"next_follow_id": 14,
 	"avatar": "png",
 	"user_name": "PaintNinja",
@@ -471,9 +471,15 @@
 		},
 		{
 			"comment_id": 60,
-			"body": "There's a known bug in the share link atm... just remove the `?wrapper_nonce=(hash)` inbetween audio.html and the `?ID=` as a workaround for now.\n\nSome stuff I'm sharing because it shows off the background effect quite well:\n- [Pumped Up Kicks by Foster The People](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html?ID=df0407738c27663941efd5a1b897b3dbd9b06ce5)\n- [Someone that loves you by HONNE & Izzy Bizu](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html?ID=752aae0291d6eaeede2b03df147d396453d0b900)\n- [My Way by Calvin Harris](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html?ID=74b199b65d6e1ea6209319de24555f2fa36f4c7f)",
+			"body": "There's a known bug in the share link atm... just remove the `?wrapper_nonce=(hash)` inbetween `audio.html` and the `?ID=` as a workaround for now.\n\nSome stuff I'm sharing because it shows off the background effect quite well:\n- [Pumped Up Kicks by Foster The People](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html?ID=df0407738c27663941efd5a1b897b3dbd9b06ce5)\n- [Someone That Loves You by HONNE & Izzy Bizu](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html?ID=752aae0291d6eaeede2b03df147d396453d0b900)\n- [My Way by Calvin Harris](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html?ID=74b199b65d6e1ea6209319de24555f2fa36f4c7f)",
 			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1478551863",
 			"date_added": 1478552614
+		},
+		{
+			"comment_id": 61,
+			"body": "@Zanity: Because currently ZeroNet has limitations on the amount of files per site (although that can be worked around with the new merger sites feature) and can be problematic with large file transfers as there's no file splitting support yet.\nWhile you could use ZeroMux there's still the issue of where to host the content and how you can streamline that as much as possible for the end user.",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1478436568",
+			"date_added": 1478554061
 		}
 	],
 	"follow": [

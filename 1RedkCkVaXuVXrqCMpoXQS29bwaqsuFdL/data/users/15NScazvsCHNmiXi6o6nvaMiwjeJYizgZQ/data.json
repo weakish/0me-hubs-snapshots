@@ -1,6 +1,6 @@
 {
 	"next_post_id": 260,
-	"next_comment_id": 394,
+	"next_comment_id": 395,
 	"next_follow_id": 27,
 	"avatar": "generate",
 	"user_name": "Musickiller",
@@ -3248,6 +3248,12 @@
 			"body": "@Shellbound: ugh.. sorry for not answering.",
 			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1476220188",
 			"date_added": 1478536530
+		},
+		{
+			"comment_id": 394,
+			"body": "Actually I think now that if we make it work with ZeroNet, it can send parts of a file, and that way it would be possible to append new data to an old file, without creating a new file every time data should be sent.\n\nCurrently, we have decided to create a new file for each part of data. Which means sending new file every few seconds (or second). As you can see, web server/ZeroNet is more interesting anyway.",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1478454497",
+			"date_added": 1478553045
 		}
 	],
 	"follow": [
