@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 18,
+	"next_comment_id": 19,
 	"user_name": "Waterrabbit",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -109,6 +109,12 @@
 			"body": "You can use ZeroNet in Tor Browser to register for a ZeroID.",
 			"post_uri": "15PZT6SDb3xX38PYQC5LH6NNWu7jD74KP2_1477580069",
 			"date_added": 1477593685
+		},
+		{
+			"comment_id": 18,
+			"body": "If ignoring a complaint makes the whole server go down, I would choose to take down that .bit address. (Before deleting it, put it onto other proxies).\n\n\nbut you can also download another copy of ZeroNet onto your VPS and configure that copy of ZeroNet to always use Tor.",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478495090",
+			"date_added": 1478504046
 		}
 	]
 }
