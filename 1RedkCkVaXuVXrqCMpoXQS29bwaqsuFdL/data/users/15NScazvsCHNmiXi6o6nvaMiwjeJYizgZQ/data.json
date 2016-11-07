@@ -1,6 +1,6 @@
 {
-	"next_post_id": 259,
-	"next_comment_id": 389,
+	"next_post_id": 260,
+	"next_comment_id": 392,
 	"next_follow_id": 27,
 	"avatar": "generate",
 	"user_name": "Musickiller",
@@ -1066,6 +1066,11 @@
 			"post_id": 1478454497,
 			"body": "Whow.. I'm back. At least for a minute. I have 2 questions for you all:\n1) What's up? =D\n2) What do you recommend if I need to transfer an XML file (with data from sensors) from Raspberry to PC?\n\nYea, by the way, the project (now called Onyx) is accepted and if we do a great presentation (AND VERY LUCKY), may be we're gonna get some money ^_^",
 			"date_added": 1478454239
+		},
+		{
+			"post_id": 1478475406,
+			"body": "Another day is lost.\n\nGood night.",
+			"date_added": 1478475147
 		}
 	],
 	"post_like": {
@@ -1080,7 +1085,8 @@
 		"1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R_8": 1471016601,
 		"1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_6": 1471204677,
 		"1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_1472345808": 1472388632,
-		"1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_1476019022": 1476117616
+		"1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_1476019022": 1476117616,
+		"12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1478436568": 1478475057
 	},
 	"comment": [
 		{
@@ -3212,6 +3218,24 @@
 			"body": "@ks: everything is. Everything is internet nowdays.",
 			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1477144943",
 			"date_added": 1477162767
+		},
+		{
+			"comment_id": 389,
+			"body": "@ks: thanks!",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1478454497",
+			"date_added": 1478474323
+		},
+		{
+			"comment_id": 390,
+			"body": "@ulrichard: ugh... that's a bit too untraditional, I guess... ZeroNet - maybe (I'll even mention this idea), but certainly not IPFS - too slow (and I only count time needed to make that dag thing..)",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1478454497",
+			"date_added": 1478474495
+		},
+		{
+			"comment_id": 391,
+			"body": "@ks: scp... what about rsync? is there a difference? =D",
+			"post_uri": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1478454497",
+			"date_added": 1478474751
 		}
 	],
 	"follow": [
