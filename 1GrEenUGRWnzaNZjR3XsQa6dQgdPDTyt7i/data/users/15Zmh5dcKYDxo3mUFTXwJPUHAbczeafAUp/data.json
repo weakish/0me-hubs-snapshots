@@ -1,6 +1,6 @@
 {
-	"next_post_id": 32,
-	"next_comment_id": 134,
+	"next_post_id": 33,
+	"next_comment_id": 137,
 	"next_follow_id": 23,
 	"avatar": "png",
 	"user_name": "HelloArch",
@@ -36,6 +36,11 @@
 			"post_id": 1478485863,
 			"body": "大家协同合作翻译 ZeroNet 中文文档 - ZeroNet    http://127.0.0.1:43110/docs.ysc3839.bit/\n也许通过以上内容共享 能建立出若干个 自动中转新闻的网站 ",
 			"date_added": 1478485832
+		},
+		{
+			"post_id": 1478488866,
+			"body": "怎么样改造这个 <twitter同步 - 中文聊天室>http://127.0.0.1:43110/16mQo7Q449ZHkqjjqJeP7dXM3xnEuczxsr/\n达到中转自己定义的想要的频道和网站内容呢???",
+			"date_added": 1478488834
 		}
 	],
 	"post_like": {
@@ -298,6 +303,18 @@
 			"body": "666",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478439975",
 			"date_added": 1478486928
+		},
+		{
+			"comment_id": 134,
+			"body": "@Lmath: 如果这个能自己定义源的接收,那可以是一个RSS播放器",
+			"post_uri": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1478488866",
+			"date_added": 1478489404
+		},
+		{
+			"comment_id": 136,
+			"body": "@Lmath: 我是这样想的,既然这个网站的作者能同步twitter的内容,那么同步RSS内容应该也是类似的原理,只要能准确修改到地址源就,我的想法可能简单了",
+			"post_uri": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1478488866",
+			"date_added": 1478490392
 		}
 	],
 	"follow": [

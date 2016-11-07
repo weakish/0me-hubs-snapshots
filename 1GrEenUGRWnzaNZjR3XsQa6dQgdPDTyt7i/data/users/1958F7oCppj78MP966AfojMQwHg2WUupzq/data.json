@@ -1,10 +1,11 @@
 {
-	"next_comment_id": 48,
+	"next_comment_id": 51,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
 		"1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1478247392": 1478249478,
-		"15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1478410096": 1478410456
+		"15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1478410096": 1478410456,
+		"1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1478482443": 1478489009
 	},
 	"comment": [
 		{
@@ -282,6 +283,24 @@
 			"body": "好有画面感……",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478439975",
 			"date_added": 1478441791
+		},
+		{
+			"comment_id": 48,
+			"body": "这个貌似是有服务端配合的。",
+			"post_uri": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1478488866",
+			"date_added": 1478488986
+		},
+		{
+			"comment_id": 49,
+			"body": "有谁把 ZeroNet 本身的消息翻译下？不过似乎作者还没做好多语言支持？",
+			"post_uri": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1478485863",
+			"date_added": 1478489079
+		},
+		{
+			"comment_id": 50,
+			"body": "@HelloArch: 这就涉及到跨域的问题了，需要响应的 RSS 源配合吧！",
+			"post_uri": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1478488866",
+			"date_added": 1478490217
 		}
 	],
 	"flags": {},
