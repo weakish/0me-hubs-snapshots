@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 60,
+	"next_comment_id": 63,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -355,6 +355,24 @@
 			"body": "@P2P: 不知道，但是我目测是代理本身的资源消耗。因为我无论访问墙内还是墙外网站都比直接使用 Shadowsocks 有明显感知得慢。也有可能是并发不行。",
 			"post_uri": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1478488866",
 			"date_added": 1478527181
+		},
+		{
+			"comment_id": 60,
+			"body": "@西木野真姬: 基本上靠一个人审计这种数量级的源码不太现实，所以我只能在网上找找被质疑有问题的地方看看，如果确实存在刻意的后门但是没人讨论，我只能从我不是高价值目标的角度自我安慰了。",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478495090",
+			"date_added": 1478527697
+		},
+		{
+			"comment_id": 61,
+			"body": "@P2P: 时刻都感觉慢（网页加载速度来讲），貌似下载速度没什么影响，我说的资源消耗是指占用 CPU 时间。不过我现在想想还是并发性能不好比较靠谱点。",
+			"post_uri": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1478488866",
+			"date_added": 1478528740
+		},
+		{
+			"comment_id": 62,
+			"body": "@P2P: 本机，作为 Shadowsocks C# 的二级代理。",
+			"post_uri": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1478488866",
+			"date_added": 1478529478
 		}
 	],
 	"flags": {},
