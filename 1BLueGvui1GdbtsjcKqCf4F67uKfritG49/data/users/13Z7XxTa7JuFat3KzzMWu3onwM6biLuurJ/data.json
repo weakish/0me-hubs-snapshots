@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 58,
+	"next_comment_id": 60,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -355,6 +355,18 @@
 			"body": "@Nekocross: 严格来说tor不行，i2p可以。但是到.onion的通信虽然经过了exit node但是没有出tor网络，仍然可以认为在tor网络内部。所以tor也能不经过明网相互通信。",
 			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478425521",
 			"date_added": 1478441513
+		},
+		{
+			"comment_id": 58,
+			"body": "这个问题我一个月前就向nofish反馈了，好像没有彻底解决。有些人误加入多个hub也是这个原因。大家有什么解决思路吗？",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478484964",
+			"date_added": 1478485642
+		},
+		{
+			"comment_id": 59,
+			"body": "@HelloArch: 加入(Join)跟下载(Download) hub是不同的，你全新安装一个ZeroNet重新感受一下",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478484964",
+			"date_added": 1478486628
 		}
 	],
 	"flags": {},
