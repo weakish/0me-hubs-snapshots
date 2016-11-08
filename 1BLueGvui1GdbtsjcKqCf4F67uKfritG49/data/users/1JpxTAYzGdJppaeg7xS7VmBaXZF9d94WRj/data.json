@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 1,
-	"next_follow_id": 1,
+	"next_comment_id": 2,
+	"next_follow_id": 8,
 	"avatar": "generate",
 	"user_name": "Skylakexts",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -14,6 +14,56 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
-	"follow": []
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Thank you :D@Eibriel: ",
+			"post_uri": "1JpxTAYzGdJppaeg7xS7VmBaXZF9d94WRj_1",
+			"date_added": 1478625238
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1KoY1ipDRSFtKQ7w5sj1SYBb3yodjLpdeP",
+			"user_name": "John Byte",
+			"date_added": 1478625246
+		},
+		{
+			"follow_id": 3,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1AfUx1vEUBbKuZM68btdTpdQEeWa6XREx",
+			"user_name": "Twelves",
+			"date_added": 1478625248
+		},
+		{
+			"follow_id": 4,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1LivJDWwEYWJxb3RMQNJfoiffdL4NZtTjT",
+			"user_name": "C3",
+			"date_added": 1478625248
+		},
+		{
+			"follow_id": 5,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1BQvNSWCcYGmToHZWuwJzCo2FoukNM5A9D",
+			"user_name": "Mrch4os",
+			"date_added": 1478625249
+		},
+		{
+			"follow_id": 6,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1Aki4mM1xSPBjfXwZ7GpTS3EDYvutY6eNa",
+			"user_name": "COMMSHLD",
+			"date_added": 1478625250
+		},
+		{
+			"follow_id": 7,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6",
+			"user_name": "Emeraude",
+			"date_added": 1478625255
+		}
+	]
 }
