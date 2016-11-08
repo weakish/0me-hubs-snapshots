@@ -1,7 +1,7 @@
 {
 	"next_post_id": 15,
-	"next_comment_id": 13,
-	"next_follow_id": 16,
+	"next_comment_id": 15,
+	"next_follow_id": 17,
 	"avatar": "png",
 	"user_name": "Emeraude",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -130,6 +130,18 @@
 			"body": "Orange responded that it was due to a human error. It has been fixed about one hour after the beginning of the \"bug\".",
 			"post_uri": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1476783681",
 			"date_added": 1476832782
+		},
+		{
+			"comment_id": 13,
+			"body": "The matrix has you.",
+			"post_uri": "1AfUx1vEUBbKuZM68btdTpdQEeWa6XREx_1478604192",
+			"date_added": 1478606417
+		},
+		{
+			"comment_id": 14,
+			"body": "Follow the white rabbit.",
+			"post_uri": "1AfUx1vEUBbKuZM68btdTpdQEeWa6XREx_1478604192",
+			"date_added": 1478606429
 		}
 	],
 	"follow": [
@@ -202,6 +214,13 @@
 			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
 			"user_name": "Talnicrom",
 			"date_added": 1475494569
+		},
+		{
+			"follow_id": 16,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1AfUx1vEUBbKuZM68btdTpdQEeWa6XREx",
+			"user_name": "Twelves",
+			"date_added": 1478607132
 		}
 	],
 	"settings": {
@@ -213,7 +232,9 @@
 	"blocked": [
 		"14fdwxPt83nTw5vFaXTCR7KQkAxkXuGbAR"
 	],
-	"flags": {},
+	"flags": {
+		"post-1AfUx1vEUBbKuZM68btdTpdQEeWa6XREx_1478604192": 0
+	},
 	"comment_like": {
 		"1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_19": 1476541418
 	}

@@ -1,5 +1,5 @@
 {
-	"next_post_id": 3,
+	"next_post_id": 5,
 	"next_comment_id": 1,
 	"next_follow_id": 1,
 	"avatar": "jpg",
@@ -16,9 +16,21 @@
 			"post_id": 1478604791,
 			"body": "ZeroNet (and Russian analog called Nanoboard) feels like Web 1.0, when users watch gifs instead of videos, post only text with images",
 			"date_added": 1478604789
+		},
+		{
+			"post_id": 1478608627,
+			"body": "How are ZeroNet data transmitted throught Internet? Does ZeroNet use png or jpg stego container for packet hiding?",
+			"date_added": 1478608624
+		},
+		{
+			"post_id": 1478608703,
+			"body": "How can I post my own site to ZeroNet?",
+			"date_added": 1478608699
 		}
 	],
-	"post_like": {},
+	"post_like": {
+		"1KoY1ipDRSFtKQ7w5sj1SYBb3yodjLpdeP_1478604791": 1478608337
+	},
 	"comment": [],
 	"follow": []
 }

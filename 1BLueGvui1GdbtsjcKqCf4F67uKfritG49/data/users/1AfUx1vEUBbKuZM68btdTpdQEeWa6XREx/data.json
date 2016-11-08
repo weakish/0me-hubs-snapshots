@@ -1,7 +1,7 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 1,
-	"next_follow_id": 2,
+	"next_comment_id": 3,
+	"next_follow_id": 3,
 	"avatar": "jpg",
 	"user_name": "Twelves",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -18,8 +18,24 @@
 			"date_added": 1478604190
 		}
 	],
-	"post_like": {},
-	"comment": [],
+	"post_like": {
+		"1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1476783681": 1478606537,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1478600286": 1478606668
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Emeraude: and I have your ass",
+			"post_uri": "1AfUx1vEUBbKuZM68btdTpdQEeWa6XREx_1478604192",
+			"date_added": 1478606504
+		},
+		{
+			"comment_id": 2,
+			"body": "@Nutomic: they always do",
+			"post_uri": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1472116229",
+			"date_added": 1478606870
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 1,
@@ -27,6 +43,24 @@
 			"auth_address": "1AfUx1vEUBbKuZM68btdTpdQEeWa6XREx",
 			"user_name": "Twelves",
 			"date_added": 1478604408
+		},
+		{
+			"follow_id": 2,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6",
+			"user_name": "Emeraude",
+			"date_added": 1478606530
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {
+		"1FEikAyxCNPJcW996B69r5UFg29yfq579m_4": 1478606860
+	}
 }
