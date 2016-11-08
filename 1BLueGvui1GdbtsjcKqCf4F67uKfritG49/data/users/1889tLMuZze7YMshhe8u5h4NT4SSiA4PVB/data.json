@@ -1,7 +1,7 @@
 {
 	"next_post_id": 8,
-	"next_comment_id": 7,
-	"next_follow_id": 40,
+	"next_comment_id": 9,
+	"next_follow_id": 41,
 	"avatar": "jpg",
 	"user_name": "Zanity",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -77,6 +77,18 @@
 			"body": "Windows has a boot sound? Are you on Windows XP or Vista?",
 			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1478598137",
 			"date_added": 1478598646
+		},
+		{
+			"comment_id": 7,
+			"body": "@Lmath: Most popular Linux distributions don't have a boot sound by default or they can be turned off easily. I use Ubuntu as of now and used Elementary OS before. They both don't have a boot sound.",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1478598137",
+			"date_added": 1478601209
+		},
+		{
+			"comment_id": 8,
+			"body": "@Lmath: Is the internal error related to a boot sound? When was the last time you used Ubuntu? I'm currently using Ubuntu 16.04. I've never seen such an error since I installed it. As for the Hibernation, on Ubuntu you can use Suspend instead.",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1478598137",
+			"date_added": 1478602059
 		}
 	],
 	"follow": [
@@ -310,6 +322,13 @@
 			"auth_address": "1P7F9po18mshkbRG5zEVV47vHtLEX19QJa",
 			"user_name": "Bashrc",
 			"date_added": 1473148104
+		},
+		{
+			"follow_id": 40,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1478599222
 		}
 	],
 	"settings": {
