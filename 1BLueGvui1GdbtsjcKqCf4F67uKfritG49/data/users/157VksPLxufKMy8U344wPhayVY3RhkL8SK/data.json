@@ -1,6 +1,6 @@
 {
-	"next_post_id": 19,
-	"next_comment_id": 65,
+	"next_post_id": 20,
+	"next_comment_id": 66,
 	"next_follow_id": 8,
 	"avatar": "jpg",
 	"user_name": "怡红院",
@@ -96,6 +96,11 @@
 			"post_id": 1478570474,
 			"body": "v0.5版出来了！问题是怎么传图？",
 			"date_added": 1478570456
+		},
+		{
+			"post_id": 1478580078,
+			"body": "更新到v0.5 rev1700版后，启动速度慢了好多，而且时不时出现`Connection with UiServer Websocket was lost. Reconnecting...`，很久都不能重新连接。谨慎更新！",
+			"date_added": 1478580059
 		}
 	],
 	"post_like": {},
@@ -483,6 +488,12 @@
 			"body": "根本就没手机版",
 			"post_uri": "17wD81Tgg4Tr1heE3b35rNfrXYwhnJRsP5_1478542443",
 			"date_added": 1478571314
+		},
+		{
+			"comment_id": 65,
+			"body": "@P2P: 这样子？赶紧跟上",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478580078",
+			"date_added": 1478580216
 		}
 	],
 	"follow": [
