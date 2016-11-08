@@ -1,7 +1,7 @@
 {
 	"next_post_id": 33,
-	"next_comment_id": 27,
-	"next_follow_id": 15,
+	"next_comment_id": 29,
+	"next_follow_id": 16,
 	"avatar": "jpg",
 	"user_name": "Juansantiago",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -332,6 +332,18 @@
 			"body": "@Juansantiago: Añá Membî, me ha fallado la instalación de zeronet en el portatil de mi padre con linuxmint, luego actualizando y mirando la terminal como vaca mirando pasar el tren he visto que ese mint es de 32bit y recordé que hace mucho tiempo instalé ese mint “provisoriamete”  poruqe era la unica iso que tenía, así que lo de instalar otra zeronet será cuando mi viejo esté durmiendo y le meta otra distro a su portátil :)",
 			"post_uri": "1QFcL2PapA8NuvNWeHCafHaMPJcXgmb55i_1478561076",
 			"date_added": 1478636447
+		},
+		{
+			"comment_id": 27,
+			"body": "@PaintNinja: ni tanto :) lo he solucionado pausando el semillado en webtorrent una vez había otras semillas, accediendo desde iceweasel y lugo reanudando semilla desde webtorrent, ahora todo ok",
+			"post_uri": "1QFcL2PapA8NuvNWeHCafHaMPJcXgmb55i_1478628811",
+			"date_added": 1478644166
+		},
+		{
+			"comment_id": 28,
+			"body": "@PaintNinja: era pequeña pelea de recursos entre webtorret  e iceawesel",
+			"post_uri": "1QFcL2PapA8NuvNWeHCafHaMPJcXgmb55i_1478628811",
+			"date_added": 1478644223
 		}
 	],
 	"follow": [
@@ -432,6 +444,13 @@
 			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
 			"user_name": "PaintNinja",
 			"date_added": 1478553821
+		},
+		{
+			"follow_id": 15,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "17prrkPs3v2SSPbDB6zv8fLK1HMayfGrB8",
+			"user_name": "Dcapelett",
+			"date_added": 1478643988
 		}
 	],
 	"settings": {
