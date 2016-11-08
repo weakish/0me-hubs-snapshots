@@ -1,5 +1,5 @@
 {
-	"next_post_id": 17,
+	"next_post_id": 18,
 	"next_comment_id": 63,
 	"next_follow_id": 14,
 	"avatar": "png",
@@ -86,6 +86,11 @@
 			"post_id": 1478551863,
 			"body": "*Easily share multimedia* with NinjaBeats: In just two steps, you can upload just about any format (or even a mix of different kinds of files), without needing to go to any special upload page or do any changes to your files.\n\nTo share content, it's as simple as:\n1) Open up the streamer and drag a file or a group of files onto the page\n2) Copy the share link and share!\n3) You can also *optionally* seed with the page closed by pasting the provided infohash into WebTorrent Desktop.\n\nThe streamer is smart enough to know what kind of content you're trying to share and to adapt the UI and UX accordingly when the file(s) are played, so you don't need to manually tell it anything for it to work (e.g. if you include a video and a picture, it treats it as an \"immersive\" music player; If you include a PDF on its own, you get a nice PDF reader UI; If you include an audio file and a picture, you get a normal music player, etc...)\n\nFeel free to share some links in the comments!",
 			"date_added": 1478551847
+		},
+		{
+			"post_id": 1478633137,
+			"body": "*Cross-compatibility* with NinjaBeats: All Bwoi Music links \"just work\" on NinjaBeats - just copy the ID and paste it into NinjaBeats. The autoplay option is also supported on NinjaBeats, except that you put `&autoplay=no` rather than `&autoplay=0`.\n\nOn top of that, NinjaBeats and Bwoi Music peers still seed content with each-other as if they were both on the same service, further promoting freedom of choice.",
+			"date_added": 1478633120
 		}
 	],
 	"post_like": {
