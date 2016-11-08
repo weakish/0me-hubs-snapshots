@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 51,
+	"next_comment_id": 52,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -285,7 +285,7 @@
 		},
 		{
 			"comment_id": 48,
-			"body": "@P2P: 我知道 Freenet 的自动更新有一个吊销机制防止密钥泄露后被滥用，你说的证书体系是指 KPI 那种？",
+			"body": "@P2P: 我知道 Freenet 的自动更新有一个吊销机制防止密钥泄露后被滥用，你说的证书体系是指 PKI 那种？",
 			"post_uri": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1478572022",
 			"date_added": 1478583565
 		},
@@ -300,6 +300,12 @@
 			"body": "@HelloArch: 不用急，反正还没正式发布，ZeroMe 的原生传图功能也还没做好。",
 			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478580078",
 			"date_added": 1478584449
+		},
+		{
+			"comment_id": 51,
+			"body": "@P2P: 发错，PKI 。",
+			"post_uri": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1478572022",
+			"date_added": 1478594382
 		}
 	],
 	"flags": {
