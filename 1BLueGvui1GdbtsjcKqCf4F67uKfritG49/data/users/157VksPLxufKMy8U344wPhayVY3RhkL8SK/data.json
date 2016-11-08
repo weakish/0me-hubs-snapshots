@@ -1,5 +1,5 @@
 {
-	"next_post_id": 20,
+	"next_post_id": 21,
 	"next_comment_id": 66,
 	"next_follow_id": 8,
 	"avatar": "jpg",
@@ -101,6 +101,11 @@
 			"post_id": 1478580078,
 			"body": "更新到v0.5 rev1700版后，启动速度慢了好多，而且时不时出现`Connection with UiServer Websocket was lost. Reconnecting...`，很久都不能重新连接。谨慎更新！",
 			"date_added": 1478580059
+		},
+		{
+			"post_id": 1478581492,
+			"body": "新闻网站爬虫：http://127.0.0.1:43110/1139zZM5AEsk3J48n75gojC9XpD318mxEB/?Topic:10_15RzGDnzJD4sUKbL4FgiMG8ULi69qGbyvh/+v2ex+HN+Reddit+Medium+Github+trending",
+			"date_added": 1478581472
 		}
 	],
 	"post_like": {},
