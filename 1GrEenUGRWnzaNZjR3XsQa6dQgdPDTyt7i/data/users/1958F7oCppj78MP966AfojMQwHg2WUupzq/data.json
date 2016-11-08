@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 74,
+	"next_comment_id": 77,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -440,6 +440,24 @@
 			"body": "@Ysc3839: 一般来说有向相关部门报批后接入不通过墙的线路的方法，但是对于小公司的话比较麻烦，一般是租用海外的主机然后由苦逼的网管设置转发使得特定流量自动通过海外主机的 VPN 什么的，一般企业用的不对外开放也不怎么会被墙盯上。",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478602971",
 			"date_added": 1478615119
+		},
+		{
+			"comment_id": 74,
+			"body": "已 23.5 小时做种，顺便说下阿里云节点不是我的。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478620932",
+			"date_added": 1478621009
+		},
+		{
+			"comment_id": 75,
+			"body": "@西木野真姬: 话说你想怎么浪？",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478620932",
+			"date_added": 1478622888
+		},
+		{
+			"comment_id": 76,
+			"body": "@西木野真姬: 当年 Freenet 被检查出流量特征后就被墙了，结果是完全重写，连原来 Freenet 0.5 的键值也不再兼容，而 Tor 采用了一些流量混淆插件的方法，有点担心 ZeroNet 的未来。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478620932",
+			"date_added": 1478623722
 		}
 	],
 	"flags": {},

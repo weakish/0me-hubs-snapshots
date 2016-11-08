@@ -1,7 +1,7 @@
 {
 	"next_post_id": 32,
-	"next_comment_id": 115,
-	"next_follow_id": 124,
+	"next_comment_id": 119,
+	"next_follow_id": 125,
 	"avatar": "jpg",
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -160,7 +160,7 @@
 		},
 		{
 			"post_id": 1478620701,
-			"body": "发图后用代理 https://onlyzero.net/Me.ZeroNetwork.bit 访问，点一下Show Image，就能很快上传，别的节点也更快能看到。有时候自己机子上看别人的图总是Loading，F5刷新一下页面，就能看到了。",
+			"body": "发图后用代理 https://onlyzero.net/Me.ZeroNetwork.bit 访问，点一下Show Image，就能很快上传，别的节点也更快能看到。有时候自己机子上看别人的图总是Loading，F5刷新一下页面，就能看到了。\n~~##一劳永逸的办法是到代理对你自己打开Help distribute this user's images~~\n#我已经在那代理打开了几个hub的全站做种，不需要每个人去打开了",
 			"date_added": 1478620670
 		}
 	],
@@ -193,7 +193,8 @@
 		"1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd_1477968172": 1478162477,
 		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1478417725": 1478444922,
 		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1478423200": 1478445509,
-		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1478569342": 1478570777
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1478569342": 1478570777,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1478620854": 1478620898
 	},
 	"comment": [
 		{
@@ -879,6 +880,30 @@
 			"body": "@梦里乾坤大: 镜像站也下载不来？还是bug？那你等推送吧，预计明天",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1478615816",
 			"date_added": 1478619730
+		},
+		{
+			"comment_id": 115,
+			"body": "GREAT! THX!",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1478620854",
+			"date_added": 1478620923
+		},
+		{
+			"comment_id": 116,
+			"body": "@Lmath: 我已经在那代理打开了几个hub的全站做钟，不需要每个人去打开了",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1478620701",
+			"date_added": 1478622272
+		},
+		{
+			"comment_id": 117,
+			"body": "@Lmath: chrome左键也可以打开的吧。你的chrome好像不是稳定版，你换个版本试试",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1478620701",
+			"date_added": 1478622719
+		},
+		{
+			"comment_id": 118,
+			"body": "what does \"pin\" feature use for?",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1478620854",
+			"date_added": 1478623755
 		}
 	],
 	"follow": [
@@ -1707,6 +1732,13 @@
 			"auth_address": "1GMNmr2bDPbT4c8yVnyCoDHke52CNCdqAa",
 			"user_name": "Apuar",
 			"date_added": 1478612118
+		},
+		{
+			"follow_id": 124,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1H1hwt7A7uZmX751ZaCBFosP5A72TenKbJ",
+			"user_name": "Lmath",
+			"date_added": 1478623801
 		}
 	],
 	"settings": {

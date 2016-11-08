@@ -1,6 +1,6 @@
 {
 	"next_post_id": 17,
-	"next_comment_id": 62,
+	"next_comment_id": 63,
 	"next_follow_id": 14,
 	"avatar": "png",
 	"user_name": "PaintNinja",
@@ -118,7 +118,8 @@
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1477127340": 1477136571,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1477272835": 1477307452,
 		"12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1478368568": 1478436118,
-		"12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1478368305": 1478436565
+		"12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1478368305": 1478436565,
+		"12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1478551863": 1478624047
 	},
 	"comment": [
 		{
@@ -480,6 +481,12 @@
 			"body": "@Zanity: Because currently ZeroNet has limitations on the amount of files per site (although that can be worked around with the new merger sites feature) and can be problematic with large file transfers as there's no file splitting support yet.\nWhile you could use ZeroMux there's still the issue of where to host the content and how you can streamline that as much as possible for the end user.",
 			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1478436568",
 			"date_added": 1478554061
+		},
+		{
+			"comment_id": 62,
+			"body": "@Juansantiago:\n1) Sí, ¡puedes seguir semillando sin el navegador! Simplemente copias el infohash o ID y pega en el cliente (WebTorrent Desktop)[https://webtorrent.io/desktop/]\n2) Si tienes un link/ID/infohash y no hay nadie semillando ese archivo, obviamente no funcionará el link. *Pero* si gente se semilla el mismo archivo, ese mismo link funcionará sin necesitar cambiarlo o recargar la página",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1478551863",
+			"date_added": 1478624038
 		}
 	],
 	"follow": [

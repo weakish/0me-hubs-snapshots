@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 4,
+	"next_comment_id": 6,
 	"user_name": "Hexagon",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {
@@ -13,7 +13,8 @@
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1477115856": 1477135501,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1477272835": 1477301255,
 		"1K6HCsJskZENYG42GR7ocJXg9WjFbEq9hc_1478110348": 1478177803,
-		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1478585870": 1478601725
+		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1478585870": 1478601725,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1478620854": 1478621320
 	},
 	"comment": [
 		{
@@ -33,6 +34,18 @@
 			"body": "awesome, it works like charm!",
 			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1477127340",
 			"date_added": 1477135451
+		},
+		{
+			"comment_id": 4,
+			"body": "woww! it's amazing! :)",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1478620854",
+			"date_added": 1478621339
+		},
+		{
+			"comment_id": 5,
+			"body": "I just had to docker-compose pull; docker-compose up -d (using your image from docker registry) and tadaaa... everything works like charm (nofish/zeronet)",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1478620854",
+			"date_added": 1478621411
 		}
 	]
 }

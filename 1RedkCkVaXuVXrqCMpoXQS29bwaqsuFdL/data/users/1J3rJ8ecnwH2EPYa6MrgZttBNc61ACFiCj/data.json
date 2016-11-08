@@ -1,5 +1,5 @@
 {
-	"next_post_id": 18,
+	"next_post_id": 19,
 	"next_comment_id": 96,
 	"next_follow_id": 27,
 	"avatar": "png",
@@ -86,6 +86,12 @@
 			"post_id": 1475134633,
 			"body": "> https://www.kickstarter.com/projects/gotenna/gotenna-mesh-off-grid-people-powered-connectivity\n> Communicate without cell, wifi & satellites using your existing smartphone. Relay messages through other users to extend range! \n\nSound interesting for us, is there any open (and cheaper) alternative to this?",
 			"date_added": 1475134616
+		},
+		{
+			"post_id": 1478620854,
+			"body": "New version 0.5.0:\n - Many optional file enhancements and new API commands\n - Manage optional files and limit optional file HDD usage using ZeroHello\n - Image uploading to ZeroMe\n - Save peers to database to keep them between restarts\n\nFull changelog on [ZeroBlog](http://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:96:Changelog,+November+8,+2016)\n\nTo upload an image it's recommended to have opened port or tor connection and you have to keep your computer running for a while after the upload. (you can see the peer number and the number of uploads for your files of ZeroHello)\n\nYou can help distributing other user's optional files by checking \"Help distribute this user's images\" on user's profile page or you can distribute everyone's new file on the hub by checking \"Help distribute all new files\" on ZeroHello.\n",
+			"date_added": 1478620836,
+			"meta": "{\"img\":\"900,514,225125335668a9a99acbcddeeeedddccdfff,0001111112000000020022345222226778878789A88BB8B8B8A88BB8B8B8\"}"
 		}
 	],
 	"post_like": {
