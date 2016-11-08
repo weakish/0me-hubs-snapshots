@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 60,
+	"next_comment_id": 63,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -11,7 +11,8 @@
 		"18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478065431": 1478162862,
 		"15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1478243422": 1478268534,
 		"18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478408033": 1478444884,
-		"18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478415857": 1478446122
+		"18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478415857": 1478446122,
+		"157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478570474": 1478570655
 	},
 	"comment": [
 		{
@@ -367,6 +368,24 @@
 			"body": "@HelloArch: 加入(Join)跟下载(Download) hub是不同的，你全新安装一个ZeroNet重新感受一下",
 			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478484964",
 			"date_added": 1478486628
+		},
+		{
+			"comment_id": 60,
+			"body": "真的出来了，稍安勿躁，ZeroMe前端可能还没更新",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478570474",
+			"date_added": 1478570755
+		},
+		{
+			"comment_id": 61,
+			"body": "@怡红院: 最新版Rev1700 没通过Travis CI build自动构建，可能有bug，不急着更新",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478570474",
+			"date_added": 1478571074
+		},
+		{
+			"comment_id": 62,
+			"body": "这个问题已经有人跟作者说过，他说如果ZeroNet出现了安全漏洞，必须靠外网更新来安全地修复。否则依靠自身网络来升级，容易被恶意利用。",
+			"post_uri": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1478572022",
+			"date_added": 1478572672
 		}
 	],
 	"flags": {},

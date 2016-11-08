@@ -1,6 +1,6 @@
 {
-	"next_post_id": 18,
-	"next_comment_id": 63,
+	"next_post_id": 19,
+	"next_comment_id": 65,
 	"next_follow_id": 8,
 	"avatar": "jpg",
 	"user_name": "怡红院",
@@ -91,6 +91,11 @@
 			"post_id": 1478484964,
 			"body": "我知道[怡红院](http://127.0.0.1:43110/yihongyuan.bit)数据丢失的原因了。\n原因是我换电脑登陆了，而且没有同步完上一台电脑发布的消息我就发了消息，相当于我sign了当前空的user目录，导致把所有数据删了。\n所以啊，自己的数据还没同步完就发消息，是很危险的。",
 			"date_added": 1478484947
+		},
+		{
+			"post_id": 1478570474,
+			"body": "v0.5版出来了！问题是怎么传图？",
+			"date_added": 1478570456
 		}
 	],
 	"post_like": {},
@@ -466,6 +471,18 @@
 			"body": "@P2P: 建议每个网站都强制用户同步自己的数据。",
 			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478484964",
 			"date_added": 1478486142
+		},
+		{
+			"comment_id": 63,
+			"body": "@P2P: 作者可能现在正在弄，才出来一个多小时",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478570474",
+			"date_added": 1478570894
+		},
+		{
+			"comment_id": 64,
+			"body": "根本就没手机版",
+			"post_uri": "17wD81Tgg4Tr1heE3b35rNfrXYwhnJRsP5_1478542443",
+			"date_added": 1478571314
 		}
 	],
 	"follow": [
