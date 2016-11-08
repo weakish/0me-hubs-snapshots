@@ -1,6 +1,6 @@
 {
 	"next_post_id": 18,
-	"next_comment_id": 63,
+	"next_comment_id": 65,
 	"next_follow_id": 14,
 	"avatar": "png",
 	"user_name": "PaintNinja",
@@ -74,22 +74,22 @@
 		},
 		{
 			"post_id": 1478368568,
-			"body": "*Stream more than just music* with NinjaBeats: Stream photos, videos, text or even a mix of them, without the need of any special file or additional URL arguments.\n\nHere's some demos, including some requested by the community:\n- Stream the [Buffalo Soldier music video by Bob Marley](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html?ID=4af525066b62ab54732155523dd1ecb73acd9102)\n- Stream [a photo](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html?ID=e76ea4d9ef6f4b3c4cbbb3f814e457933dbc26e6)\n- Stream a video as music (video + album art image) - [Slowly by Amon Tobin](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html?ID=db066b0abd17ea44afc0061d98e6d1cea129e0ca)\n\nNote that some demos may not work in Chrome due to a browser bug that blocks locally stored videos from being loaded within a webpage.",
+			"body": "*Stream more than just music* with [NinjaBeats](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html): Stream photos, videos, text or even a mix of them, without the need of any special file or additional URL arguments.\n\nHere's some demos, including some requested by the community:\n- Stream the [Buffalo Soldier music video by Bob Marley](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html?ID=4af525066b62ab54732155523dd1ecb73acd9102)\n- Stream [a photo](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html?ID=e76ea4d9ef6f4b3c4cbbb3f814e457933dbc26e6)\n- Stream a video as music (video + album art image) - [Slowly by Amon Tobin](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html?ID=db066b0abd17ea44afc0061d98e6d1cea129e0ca)\n\nNote that some demos may not work in Chrome due to a browser bug that blocks locally stored videos from being loaded within a webpage.",
 			"date_added": 1478368554
 		},
 		{
 			"post_id": 1478436568,
-			"body": "*Seed even with the page closed* with NinjaBeats: You can now seed even without needing to leave the player open.\n\nSimply follow these steps:\n1) Get [WebTorrent Desktop](https://webtorrent.io/desktop/) if you haven't got it already\n2) Open a NinjaBeats stream and copy the ID from the URL (e.g. if the link is `audio.html?ID=4af525066b62ab54732155523dd1ecb73acd9102` , you select `4af525066b62ab54732155523dd1ecb73acd9102` and press Ctrl + C or right click + copy)\n3) Open up WebTorrent Desktop and press Ctrl + V, you will now be seeding the stream.\n\nI welcome people to seed NinjaBeats demos in order to improve the overall speed and reliability, enjoy! :)",
+			"body": "*Seed even with the page closed* with [NinjaBeats](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html): You can now seed even without needing to leave the player open.\n\nSimply follow these steps:\n1) Get [WebTorrent Desktop](https://webtorrent.io/desktop/) if you haven't got it already\n2) Open a NinjaBeats stream and copy the ID from the URL (e.g. if the link is `audio.html?ID=4af525066b62ab54732155523dd1ecb73acd9102` , you select `4af525066b62ab54732155523dd1ecb73acd9102` and press Ctrl + C or right click + copy)\n3) Open up WebTorrent Desktop and press Ctrl + V, you will now be seeding the stream.\n\nI welcome people to seed NinjaBeats demos in order to improve the overall speed and reliability, enjoy! :)",
 			"date_added": 1478436553
 		},
 		{
 			"post_id": 1478551863,
-			"body": "*Easily share multimedia* with NinjaBeats: In just two steps, you can upload just about any format (or even a mix of different kinds of files), without needing to go to any special upload page or do any changes to your files.\n\nTo share content, it's as simple as:\n1) Open up the streamer and drag a file or a group of files onto the page\n2) Copy the share link and share!\n3) You can also *optionally* seed with the page closed by pasting the provided infohash into WebTorrent Desktop.\n\nThe streamer is smart enough to know what kind of content you're trying to share and to adapt the UI and UX accordingly when the file(s) are played, so you don't need to manually tell it anything for it to work (e.g. if you include a video and a picture, it treats it as an \"immersive\" music player; If you include a PDF on its own, you get a nice PDF reader UI; If you include an audio file and a picture, you get a normal music player, etc...)\n\nFeel free to share some links in the comments!",
+			"body": "*Easily share multimedia* with [NinjaBeats](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html): In just two steps, you can upload just about any format (or even a mix of different kinds of files), without needing to go to any special upload page or do any changes to your files.\n\nTo share content, it's as simple as:\n1) Open up the streamer and drag a file or a group of files onto the page\n2) Copy the share link and share!\n3) You can also *optionally* seed with the page closed by pasting the provided infohash into WebTorrent Desktop.\n\nThe streamer is smart enough to know what kind of content you're trying to share and to adapt the UI and UX accordingly when the file(s) are played, so you don't need to manually tell it anything for it to work (e.g. if you include a video and a picture, it treats it as an \"immersive\" music player; If you include a PDF on its own, you get a nice PDF reader UI; If you include an audio file and a picture, you get a normal music player, etc...)\n\nFeel free to share some links in the comments!",
 			"date_added": 1478551847
 		},
 		{
 			"post_id": 1478633137,
-			"body": "*Cross-compatibility* with NinjaBeats: All Bwoi Music links \"just work\" on NinjaBeats - just copy the ID and paste it into NinjaBeats. The autoplay option is also supported on NinjaBeats, except that you put `&autoplay=no` rather than `&autoplay=0`.\n\nOn top of that, NinjaBeats and Bwoi Music peers still seed content with each-other as if they were both on the same service, further promoting freedom of choice.",
+			"body": "*Cross-compatibility* with [NinjaBeats](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html): All Bwoi Music links \"just work\" on NinjaBeats - just copy the ID and paste it into NinjaBeats. The autoplay option is also supported on NinjaBeats, except that you put `&autoplay=no` rather than `&autoplay=0`.\n\nOn top of that, NinjaBeats and Bwoi Music peers still seed content with each-other as if they were both on the same service, further promoting freedom of choice.",
 			"date_added": 1478633120
 		}
 	],
@@ -493,6 +493,18 @@
 			"body": "@Juansantiago:\n1) Sí, ¡puedes seguir semillando sin el navegador! Simplemente copias el infohash o ID y pega en el cliente [WebTorrent Desktop](https://webtorrent.io/desktop/)\n2) Si tienes un link/ID/infohash y no hay nadie semillando ese archivo, obviamente no funcionará el link. *Pero* si gente se semilla el mismo archivo, ese mismo link funcionará sin necesitar cambiarlo o recargar la página",
 			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1478551863",
 			"date_added": 1478624038
+		},
+		{
+			"comment_id": 63,
+			"body": "@Border0464fred: Thanks for your interest.\nIf you look at the URL, near or at the end it has `?ID=(hashhere)`. You can copy that ID from a Bwoi Music page and paste it at the end of a NinjaBeats URL and it'll start playing.\nI've got [some demos](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/?Post/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu/1478368568)  running of the service which you can try out, and you can also [share some stuff of your own](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/?Post/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu/1478551863) if you like. You can find more info about NinjaBeats on my profile. :)",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1478633137",
+			"date_added": 1478636162
+		},
+		{
+			"comment_id": 64,
+			"body": "@Border0464fred: Steps have been taken to ensure good privacy and security despite a couple of resources being accessed from the clearnet. First off, the only two clearnet resources are official third-party library repositories, so that when an update is pushed for a library I don't need to update the code to implement the new version.\nThe two libraries are WebTorrent.js and moment.js, both of which are transferred securely using HTTPS and additionally have their referrer anonymised so that they can't see that you've accessed the resource from NinjaBeats.\nClearnet trackers are normal but if you know of any darknet trackers feel free to let me know so I can add them in. Afaik, even ZeroNet uses some clearnet trackers so it should be fine.\nI do not host any of the ZeroNet NinjaBeats content on a clearnet server, the UI and code is transferred using ZeroNet and none of the trackers are hosted by me.",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1478633137",
+			"date_added": 1478637214
 		}
 	],
 	"follow": [
@@ -594,6 +606,7 @@
 	"flags": {},
 	"comment_like": {
 		"137PNA5gLgCTLZTBtzUqCmMoZ752NQGQSJ_10": 1475518482,
-		"18DbeZgtVCcLghmtzvg4Uv8uRQAwR8wnDQ_4": 1478549674
+		"18DbeZgtVCcLghmtzvg4Uv8uRQAwR8wnDQ_4": 1478549674,
+		"12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_60": 1478636001
 	}
 }
