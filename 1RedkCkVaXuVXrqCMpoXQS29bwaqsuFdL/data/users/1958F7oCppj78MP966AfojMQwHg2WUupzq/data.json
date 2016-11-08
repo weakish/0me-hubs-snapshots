@@ -1,5 +1,5 @@
 {
-	"next_post_id": 5,
+	"next_post_id": 6,
 	"next_comment_id": 9,
 	"next_follow_id": 114,
 	"avatar": "png",
@@ -26,6 +26,11 @@
 			"post_id": 1478550149,
 			"body": "我目前的 ZeroNet 体验是所有跨 zite 的链接都不能单击左键打开，只能点击中键在新标签页打开，控制台输出一条 save scrollTop 的信息，Natwork 可以抓到一个 Status 为 (canceled) 的请求。\n操作系统：Windows 10 1607 浏览器：Chrome 56.0.2906.0 dev (64-bit) 启用了：`chrome://flags/#reduced-referrer-granularity`\n在 Microsoft Edge 与 Internet Explorer 中可以正常点击左键打开。",
 			"date_added": 1478550145
+		},
+		{
+			"post_id": 1478615622,
+			"body": "Rev1702：https://github.com/HelloZeroNet/ZeroNet/commit/93866f9abfc5b0b95bccc2d067963f4584170b1e\n所以这是个纯版本号更新么？",
+			"date_added": 1478615617
 		}
 	],
 	"post_like": {

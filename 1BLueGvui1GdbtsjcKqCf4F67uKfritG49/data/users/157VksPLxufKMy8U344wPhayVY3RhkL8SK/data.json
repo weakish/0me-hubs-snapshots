@@ -1,6 +1,6 @@
 {
-	"next_post_id": 22,
-	"next_comment_id": 66,
+	"next_post_id": 24,
+	"next_comment_id": 72,
 	"next_follow_id": 9,
 	"avatar": "jpg",
 	"user_name": "怡红院",
@@ -111,6 +111,17 @@
 			"post_id": 1478611347,
 			"body": "~~我又发现了一个问题，更新v0.5 rev1701后，网站的`optional files`没有计算已下载量了。~~",
 			"date_added": 1478611326
+		},
+		{
+			"post_id": 1478616499,
+			"body": "匈牙利现在的时间是15：47'，作者可能会弄好再睡觉的",
+			"date_added": 1478616477
+		},
+		{
+			"post_id": 1478616755,
+			"body": "test IMG",
+			"date_added": 1478616732,
+			"meta": "{\"img\":\"900,600,502713924a35643533b47834954946ca8b97a86754877412,01122222111223345221123678453223698AB5322368CAAD2123678BED2112333C8F00\"}"
 		}
 	],
 	"post_like": {},
@@ -504,6 +515,42 @@
 			"body": "@P2P: 这样子？赶紧跟上",
 			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478580078",
 			"date_added": 1478580216
+		},
+		{
+			"comment_id": 66,
+			"body": "~~这些选项在哪里?~~找到了，可能现在作者在不停地sign，时而出现`New version of this page has just released.\nReload to see the modified content.`",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1478613138",
+			"date_added": 1478614452
+		},
+		{
+			"comment_id": 67,
+			"body": "现在版本更新到v0.5 Rev1702了，首页的files能查看网站的每一个optional file的节点数。默认使用zerobudle所在磁盘空闲空间的10%来储存数据。",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1478613138",
+			"date_added": 1478615037
+		},
+		{
+			"comment_id": 68,
+			"body": "@Lmath: 还有各大毒枭，军火商，走私商人，偷渡者，洗钱人....",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1478615704",
+			"date_added": 1478615904
+		},
+		{
+			"comment_id": 69,
+			"body": " 一直loading，可能你用的代理不行。不能把optional的文件发出来。",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1478616423",
+			"date_added": 1478616549
+		},
+		{
+			"comment_id": 70,
+			"body": "@Apuar: 换代理。我的你能看到吗？",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1478616423",
+			"date_added": 1478616847
+		},
+		{
+			"comment_id": 71,
+			"body": "@Apuar: 这就不懂了",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1478616423",
+			"date_added": 1478616906
 		}
 	],
 	"follow": [

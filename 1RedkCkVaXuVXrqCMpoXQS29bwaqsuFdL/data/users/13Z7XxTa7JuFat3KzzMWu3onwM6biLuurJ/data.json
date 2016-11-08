@@ -1,6 +1,6 @@
 {
-	"next_post_id": 29,
-	"next_comment_id": 109,
+	"next_post_id": 31,
+	"next_comment_id": 114,
 	"next_follow_id": 124,
 	"avatar": "jpg",
 	"user_name": "P2P",
@@ -146,6 +146,17 @@
 			"post_id": 1478612090,
 			"body": "作者已经推送了新的ZeroHello页面，手动升级到Rev1071的同学应该看得到一个FILES标签页，很炫的，显示分享的文件。",
 			"date_added": 1478612062
+		},
+		{
+			"post_id": 1478614784,
+			"body": "test，发图片测试，看到的吱声",
+			"date_added": 1478614755,
+			"meta": "{\"img\":\"900,675,11122244246acb476479cdd3aadaa2714c15b36956e8ac68,0123214451136632777212686599921ABC2295911BBBD111111CECA252111CEF1255011111000111\"}"
+		},
+		{
+			"post_id": 1478615816,
+			"body": "[手动升级ZeroNet方法](http://127.0.0.1:43110/1Nse6WcodQ5Mj6ZwvZvuyCVvQESwuxbCUy/?Topic:10_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ/) 补充：下载升级文件时被干扰，可以试试点OK确认更新的同时断网（拔网线什么的），等个几秒钟再插回去，这样程序就会尝试从镜像仓库下载新代码",
+			"date_added": 1478615786
 		}
 	],
 	"post_like": {
@@ -827,6 +838,36 @@
 			"body": "@Nassau: 少数族裔需要政策适当倾斜，这挺正常的。",
 			"post_uri": "1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd_1478187670",
 			"date_added": 1478485238
+		},
+		{
+			"comment_id": 109,
+			"body": "@梦里乾坤大: 需要手动更新到最新版，而且使用ZeroMe原版看图（不能使用ZeroMe Plus）",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1478614784",
+			"date_added": 1478614947
+		},
+		{
+			"comment_id": 110,
+			"body": "@梦里乾坤大: ~~是的~~已经有1702了",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1478614784",
+			"date_added": 1478615029
+		},
+		{
+			"comment_id": 111,
+			"body": "@Nekocross: ZeroMe原版在发推文的框里右边有个传图的按钮",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1478614784",
+			"date_added": 1478615229
+		},
+		{
+			"comment_id": 112,
+			"body": "@梦里乾坤大: 可以试试点更新的同时断网（拔网线什么的），等个几秒钟再插回去，这样程序就会尝试从镜像仓库下载新代码",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1478614784",
+			"date_added": 1478615337
+		},
+		{
+			"comment_id": 113,
+			"body": "这个commit之前还有两个commit改代码的",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478615622",
+			"date_added": 1478615860
 		}
 	],
 	"follow": [
