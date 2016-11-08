@@ -1,5 +1,5 @@
 {
-	"next_post_id": 8,
+	"next_post_id": 10,
 	"next_comment_id": 10,
 	"next_follow_id": 42,
 	"avatar": "jpg",
@@ -36,6 +36,16 @@
 			"post_id": 1472918087,
 			"body": "Is it possible to embed Clearnet links on a Zeronet zite?",
 			"date_added": 1472918081
+		},
+		{
+			"post_id": 1478611562,
+			"body": "My favorite sites list get reset after a browser restart. Anybody else has this issue?",
+			"date_added": 1478611554
+		},
+		{
+			"post_id": 1478612260,
+			"body": "Did ZeroHello just get updated? It has a new tab for files now! <3",
+			"date_added": 1478612251
 		}
 	],
 	"post_like": {
@@ -350,9 +360,12 @@
 		"mute_spam": false,
 		"mute_blocked": false
 	},
-	"blocked": [],
+	"blocked": [
+		"157VksPLxufKMy8U344wPhayVY3RhkL8SK"
+	],
 	"flags": {
-		"post-1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1475578486": 0
+		"post-1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1475578486": 0,
+		"post-157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478611347": 2
 	},
 	"comment_like": {}
 }

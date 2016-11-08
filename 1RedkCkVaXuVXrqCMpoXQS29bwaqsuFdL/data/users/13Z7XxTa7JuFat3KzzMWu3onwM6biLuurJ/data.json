@@ -1,7 +1,7 @@
 {
-	"next_post_id": 28,
+	"next_post_id": 29,
 	"next_comment_id": 109,
-	"next_follow_id": 123,
+	"next_follow_id": 124,
 	"avatar": "jpg",
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -141,6 +141,11 @@
 			"post_id": 1478522484,
 			"body": "这个网站是ZeroMe Plus作者之前搞的，可以查询谁@了你 ZeroMeMention: http://127.0.0.1:43110/1JouSggdhsEZ9tWN5oiQArjdAA8wkCcxuR/",
 			"date_added": 1478522457
+		},
+		{
+			"post_id": 1478612090,
+			"body": "作者已经推送了新的ZeroHello页面，手动升级到Rev1071的同学应该看得到一个FILES标签页，很炫的，显示分享的文件。",
+			"date_added": 1478612062
 		}
 	],
 	"post_like": {
@@ -1643,6 +1648,13 @@
 			"auth_address": "17wD81Tgg4Tr1heE3b35rNfrXYwhnJRsP5",
 			"user_name": "Alienzero",
 			"date_added": 1478571928
+		},
+		{
+			"follow_id": 123,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1GMNmr2bDPbT4c8yVnyCoDHke52CNCdqAa",
+			"user_name": "Apuar",
+			"date_added": 1478612118
 		}
 	],
 	"settings": {

@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 68,
+	"next_comment_id": 71,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -416,6 +416,24 @@
 			"body": "@HelloArch: 你可以试试点更新的同时断网（拔网线什么的），等个几秒钟再插回去，这样程序就会尝试从镜像仓库下载新代码",
 			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478580078",
 			"date_added": 1478591579
+		},
+		{
+			"comment_id": 68,
+			"body": "@Lmath: 应该是可以的。保险起见备份users.json",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478580078",
+			"date_added": 1478612748
+		},
+		{
+			"comment_id": 69,
+			"body": "@Lmath: 应该还可以用PGP、GPG之类的",
+			"post_uri": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1478572022",
+			"date_added": 1478613197
+		},
+		{
+			"comment_id": 70,
+			"body": "@Nekocross: 能管理啊，点最左边的复选框后会出现删除按钮。在待会儿推送新版ZeroMe之后，作者会马上发一篇博文讲怎么用。",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1478613138",
+			"date_added": 1478613439
 		}
 	],
 	"flags": {},
