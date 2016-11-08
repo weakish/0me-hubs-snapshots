@@ -5,13 +5,20 @@
  "cert_user_id": "lmath@kaffie.bit",
  "files": {
   "data.json": {
-   "sha512": "1d1e36431512dcd89b5afc1492d5ce58df4fba8dae7d8c0b08451f0da4592db7",
-   "size": 337
+   "sha512": "5984e9911bec4044f72344314575a894bbf6b878954420f77938f965c6bc5968",
+   "size": 790
+  }
+ },
+ "files_optional": {
+  "1478620799.jpg": {
+   "sha512": "36468cf43c5f0bcc30fa3ae179df63210012e1d2597c5b5ad6eeec157d7d37b7",
+   "size": 53805
   }
  },
  "inner_path": "data/users/1H1hwt7A7uZmX751ZaCBFosP5A72TenKbJ/content.json",
- "modified": 1478332955.912,
+ "modified": 1478620797.816,
+ "optional": "(?!avatar).*jpg",
  "signs": {
-  "1H1hwt7A7uZmX751ZaCBFosP5A72TenKbJ": "G1J1nA9BMGAxgEwyzpaf5tLFxf6oJ2WrmH4y+6LQekedi/TwPqKR/ykpAweSRyWuGrxvhmtH0u1nOYMPP4XGRjI="
+  "1H1hwt7A7uZmX751ZaCBFosP5A72TenKbJ": "HKAgIcRe1efTDN5xnpkefx0wysoS2ABMlDwZMT22Ws2FcDKFy/8SGiH5V4b8GwlSVKnWUR9L5yP8T/93u0A89bc="
  }
 }

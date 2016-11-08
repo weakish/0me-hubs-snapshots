@@ -1,6 +1,6 @@
 {
-	"next_post_id": 6,
-	"next_comment_id": 9,
+	"next_post_id": 7,
+	"next_comment_id": 10,
 	"next_follow_id": 114,
 	"avatar": "png",
 	"user_name": "Lmath",
@@ -31,6 +31,12 @@
 			"post_id": 1478615622,
 			"body": "Rev1702：https://github.com/HelloZeroNet/ZeroNet/commit/93866f9abfc5b0b95bccc2d067963f4584170b1e\n所以这是个纯版本号更新么？",
 			"date_added": 1478615617
+		},
+		{
+			"post_id": 1478620143,
+			"body": "还是没推送更新，依然提示最新版是 0.41 ，只好自己更新了。测试发图。",
+			"date_added": 1478620137,
+			"meta": "{\"img\":\"900,506,eeea65b99bbb865644987dddc428325897228bd29a666433,0012134562736682456632218145646631899564623A4BB46423CDE5FE66\"}"
 		}
 	],
 	"post_like": {
@@ -81,6 +87,12 @@
 			"body": "没升级的用户表示也看见了，就是点不进去。",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1478612090",
 			"date_added": 1478612429
+		},
+		{
+			"comment_id": 9,
+			"body": "我发现一个问题，即使浏览过了还是要点下“SHOW IMAGE”才显示清晰的图。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478620143",
+			"date_added": 1478620267
 		}
 	],
 	"follow": [

@@ -1,7 +1,7 @@
 {
-	"next_post_id": 55,
-	"next_comment_id": 170,
-	"next_follow_id": 52,
+	"next_post_id": 59,
+	"next_comment_id": 172,
+	"next_follow_id": 53,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -272,6 +272,23 @@
 			"body": "测试GIF",
 			"date_added": 1478616016,
 			"meta": "{\"img\":\"900,400,b5ab6aa6ab67a55834b79978656867c88b75a77c99a68856,01222344456789AB4BB57799CB4555DDEFE34455\"}"
+		},
+		{
+			"post_id": 1478617558,
+			"body": "ZeroNet没有使用DHT，那么怎么发现其他节点",
+			"date_added": 1478617503
+		},
+		{
+			"post_id": 1478619250,
+			"body": "@36 @p2pwave @43110 你们在女装子福利上传图片时，是怎么让节点那么多的？我的图片用了5个代理做种才有6个节点。（别问我怎么知道的，这玩意的匿名是坑爹的）",
+			"date_added": 1478619194,
+			"meta": "{\"img\":\"557,700,fffeeeededddcccdeeefe,01230110000100000044051000000000000100000000000000000000011306000000000002240610\"}"
+		},
+		{
+			"post_id": 1478620259,
+			"body": "事实证明，那种超长的刷屏图是发不出来的，如果有人能看到，请留言",
+			"date_added": 1478620201,
+			"meta": "{\"img\":\"\"}"
 		}
 	],
 	"post_like": {
@@ -1293,6 +1310,18 @@
 			"body": "Just like BitTorrent, but the data is crypted",
 			"post_uri": "1KoY1ipDRSFtKQ7w5sj1SYBb3yodjLpdeP_1478608627",
 			"date_added": 1478613005
+		},
+		{
+			"comment_id": 170,
+			"body": "@西木野真姬: 确实不能动",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478616070",
+			"date_added": 1478617396
+		},
+		{
+			"comment_id": 171,
+			"body": "@P2P: 那么有办法让ZeroNet使用DHT吗",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478617558",
+			"date_added": 1478618752
 		}
 	],
 	"follow": [
@@ -1638,6 +1667,13 @@
 			"auth_address": "17wD81Tgg4Tr1heE3b35rNfrXYwhnJRsP5",
 			"user_name": "Alien",
 			"date_added": 1478598029
+		},
+		{
+			"follow_id": 52,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA",
+			"user_name": "P2pwave",
+			"date_added": 1478619789
 		}
 	],
 	"settings": {

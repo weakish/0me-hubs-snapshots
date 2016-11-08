@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
 	"next_comment_id": 1,
-	"next_follow_id": 1,
+	"next_follow_id": 2,
 	"avatar": "generate",
 	"user_name": "Smallorange",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -15,5 +15,13 @@
 	],
 	"post_like": {},
 	"comment": [],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp",
+			"user_name": "HelloArch",
+			"date_added": 1478620143
+		}
+	]
 }

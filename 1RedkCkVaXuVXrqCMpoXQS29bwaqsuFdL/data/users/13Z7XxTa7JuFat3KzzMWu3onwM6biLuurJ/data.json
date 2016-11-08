@@ -1,6 +1,6 @@
 {
-	"next_post_id": 31,
-	"next_comment_id": 114,
+	"next_post_id": 32,
+	"next_comment_id": 115,
 	"next_follow_id": 124,
 	"avatar": "jpg",
 	"user_name": "P2P",
@@ -157,6 +157,11 @@
 			"post_id": 1478615816,
 			"body": "[手动升级ZeroNet方法](http://127.0.0.1:43110/1Nse6WcodQ5Mj6ZwvZvuyCVvQESwuxbCUy/?Topic:10_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ/) 补充：下载升级文件时被干扰，可以试试点OK确认更新的同时断网（拔网线什么的），等个几秒钟再插回去，这样程序就会尝试从镜像仓库下载新代码",
 			"date_added": 1478615786
+		},
+		{
+			"post_id": 1478620701,
+			"body": "发图后用代理 https://onlyzero.net/Me.ZeroNetwork.bit 访问，点一下Show Image，就能很快上传，别的节点也更快能看到。有时候自己机子上看别人的图总是Loading，F5刷新一下页面，就能看到了。",
+			"date_added": 1478620670
 		}
 	],
 	"post_like": {
@@ -868,6 +873,12 @@
 			"body": "这个commit之前还有两个commit改代码的",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478615622",
 			"date_added": 1478615860
+		},
+		{
+			"comment_id": 114,
+			"body": "@梦里乾坤大: 镜像站也下载不来？还是bug？那你等推送吧，预计明天",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1478615816",
+			"date_added": 1478619730
 		}
 	],
 	"follow": [

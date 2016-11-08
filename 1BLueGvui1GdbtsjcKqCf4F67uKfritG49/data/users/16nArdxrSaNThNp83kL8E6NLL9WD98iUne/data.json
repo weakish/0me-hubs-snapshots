@@ -1,7 +1,7 @@
 {
-	"next_post_id": 25,
-	"next_comment_id": 89,
-	"next_follow_id": 37,
+	"next_post_id": 27,
+	"next_comment_id": 92,
+	"next_follow_id": 38,
 	"avatar": "png",
 	"user_name": "Jayofthezero",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -111,6 +111,17 @@
 			"post_id": 1472516408,
 			"body": "Anybody else having issues with ZeroMail? I checked it today and noticed I had a message, but when I tried to reply the submit button was greyed out. Tab+Enter would let me finally press the button, but the message never actually gets sent. Also I can't view my sent messages either.\n\nI've tried wiping browser cache, using a different browser, and even deleting and re-downloading ZeroMail, but I still get the same issue.",
 			"date_added": 1472516384
+		},
+		{
+			"post_id": 1478617466,
+			"body": "Test",
+			"date_added": 1478617441,
+			"meta": "{\"img\":\"757,700,ff4dd38f60fc1882c76eaafb2117727c33554336b8482aa5,00102345670189A5BB67018CCCBBD7018B4BD4B7019DDDDEF701F7FBBFF71F1F999A70001EFFEA070099FEE107\"}"
+		},
+		{
+			"post_id": 1478619249,
+			"body": "Yes, I'm updating Dark ZeroMe with the new ZeroMe features if anyone was wondering.",
+			"date_added": 1478619223
 		}
 	],
 	"post_like": {
@@ -606,6 +617,24 @@
 			"body": "The article on TorrentFreak did the same thing. Kind of annoying.",
 			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1473258675",
 			"date_added": 1473280321
+		},
+		{
+			"comment_id": 89,
+			"body": "@P2P: Yep. Though I'm not sure that's the only reason it's fast.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1478617466",
+			"date_added": 1478617900
+		},
+		{
+			"comment_id": 90,
+			"body": "@Militaryriotlab: I'm going to look into maybe adding some of ZeroMe Plus' features in the future, but I'm a bit busy at the moment so it'll have to wait. I at least want to keep in-line with the official ZeroMe in functionality. ",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1478619249",
+			"date_added": 1478619561
+		},
+		{
+			"comment_id": 91,
+			"body": "And Updates are Published",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1478619249",
+			"date_added": 1478619572
 		}
 	],
 	"follow": [
@@ -846,6 +875,13 @@
 			"auth_address": "1FE7qxxvZDhoyhpadqWNCgT9X96hEQKEYM",
 			"user_name": "Aarocka",
 			"date_added": 1472759143
+		},
+		{
+			"follow_id": 37,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow",
+			"user_name": "MilitaryRiotLab",
+			"date_added": 1478620187
 		}
 	]
 }
