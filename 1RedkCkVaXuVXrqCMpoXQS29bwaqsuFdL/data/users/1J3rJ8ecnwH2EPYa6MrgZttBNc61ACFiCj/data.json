@@ -1,6 +1,6 @@
 {
 	"next_post_id": 19,
-	"next_comment_id": 96,
+	"next_comment_id": 99,
 	"next_follow_id": 27,
 	"avatar": "png",
 	"user_name": "Nofish",
@@ -661,6 +661,24 @@
 			"body": "@PaintNinja: There is issues with Chrome and ZeroNet from version 55. The developers accepted the [issue](https://bugs.chromium.org/p/chromium/issues/detail?id=658530&start=100&num=100) as \"blocker\", so hopefully they will fix it before it hits the stable channel.",
 			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1478368568",
 			"date_added": 1478433901
+		},
+		{
+			"comment_id": 96,
+			"body": "@P2P: Pinned files will not be deleted even if you run out of limit",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1478620854",
+			"date_added": 1478639836
+		},
+		{
+			"comment_id": 97,
+			"body": "@Xeers: You can ignore it, it's fake detection. If you don't trust ZeroBundle's python.exe you can download it from https://www.python.org/downloads/ (you need 2.7.x)",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1478620854",
+			"date_added": 1478640225
+		},
+		{
+			"comment_id": 98,
+			"body": "@Sirenyc: Only sites with optional files are displayed on that list. We does not store  statistics for normal files, so can't display them.",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1478620854",
+			"date_added": 1478640667
 		}
 	],
 	"follow": [

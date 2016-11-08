@@ -1,6 +1,6 @@
 {
-	"next_post_id": 6,
-	"next_comment_id": 5,
+	"next_post_id": 9,
+	"next_comment_id": 7,
 	"next_follow_id": 16,
 	"avatar": "jpg",
 	"user_name": "Xeers",
@@ -26,6 +26,18 @@
 			"post_id": 1478567216,
 			"body": "Zeronet Version 0.5.0, Rev1700",
 			"date_added": 1478567211
+		},
+		{
+			"post_id": 1478639237,
+			"body": "¡Atención! Malwarebytes Anti-Ransomware b.0.9.17.661 detecta como ataque rasonware a Zeronet (actualización 0.5.0, Rev1702)\n",
+			"date_added": 1478639230,
+			"meta": "{\"img\":\"900,641,eeeacd6ac69c59c59b69bcdedeecddddefffbcd,00000000001233445657879A888880000000000000000000000BBBB00000000009CC90\"}"
+		},
+		{
+			"post_id": 1478639876,
+			"body": "¡Atención! Malwarebytes Anti-Ransomware b.0.9.17.661 detecta como ataque rasonware a Zeronet (actualización 0.5.0, Rev1702).\n\nUn ransomware (del inglés ransom, 'rescate', y ware, por software) es un tipo de programa informático malintencionado que restringe el acceso a determinadas partes o archivos del sistema infectado, y pide un rescate a cambio de quitar esta restricción.\n",
+			"date_added": 1478639868,
+			"meta": "{\"img\":\"900,138,334445cccfffeefcde223bbbaaa,01233334556077777788\"}"
 		}
 	],
 	"post_like": {},
@@ -53,6 +65,18 @@
 			"body": "User pedophile\n\nhttp://127.0.0.1:43110/16yRT9mW5kUFr6v5GJywU3v9s4b7krEDCa/?Topic:5_1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk/Tabl+n+p+blico+anti+ped+filos",
 			"post_uri": "1C5MYmLiDvfZcuN4Mta3CpJkNGiJRhSfVi_1",
 			"date_added": 1478451453
+		},
+		{
+			"comment_id": 5,
+			"body": "Nofish @Xeers: You can ignore it, it's fake detection. If you don't trust ZeroBundle's python.exe you can download it from https://www.python.org/downloads/ (you need 2.7.x)",
+			"post_uri": "1GucgDmfpJrHZmG6ukrM1Wjq5Cs6oXevzu_1478639876",
+			"date_added": 1478640597
+		},
+		{
+			"comment_id": 6,
+			"body": "Nofish @Xeers: You can ignore it, it's fake detection. If you don't trust ZeroBundle's python.exe you can download it from https://www.python.org/downloads/ (you need 2.7.x)\n",
+			"post_uri": "1GucgDmfpJrHZmG6ukrM1Wjq5Cs6oXevzu_1478639237",
+			"date_added": 1478640613
 		}
 	],
 	"follow": [
