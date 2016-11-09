@@ -1,5 +1,5 @@
 {
-	"next_post_id": 6,
+	"next_post_id": 7,
 	"next_comment_id": 24,
 	"next_follow_id": 12,
 	"avatar": "jpg",
@@ -11,6 +11,11 @@
 			"post_id": 1475426574,
 			"body": "Nice to see \"foreign\" languages here. Some day it could be nice with a ZeroNet version of google translate in here :-)",
 			"date_added": 1475426570
+		},
+		{
+			"post_id": 1478712915,
+			"body": "Anything we have to worry about?\n\nSite:1JeHa6..mCXk Signing content.json...\nSite:1JeHa6..mCXk Saving to content.json...\nSite:1JeHa6..mCXk File content.json signed!\n- Loading site...\n- Creating FileServer....\n- Unhandled exception\nTraceback (most recent call last):\n  File \"/Disk-0/OLAP-hosting/ZeroBundle/lib/python2.7/site-packages/gevent/greenlet.py\", line 534, in run\n    result = self._run(*self.args, **self.kwargs)\n  File \"plugins/OptionalManager/ContentDbPlugin.py\", line 96, in loadFilesOptional\n    site = self.sites[site_address]\nKeyError: u'1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL'\nTraceback (most recent call last):\n  File \"/Disk-0/OLAP-hosting/ZeroBundle/lib/python2.7/site-packages/gevent/greenlet.py\", line 534, in run\n    result = self._run(*self.args, **self.kwargs)\n  File \"plugins/OptionalManager/ContentDbPlugin.py\", line 96, in loadFilesOptional\n    site = self.sites[site_address]\n",
+			"date_added": 1478712909
 		}
 	],
 	"post_like": {
