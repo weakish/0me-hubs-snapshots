@@ -1,12 +1,19 @@
 {
-	"next_post_id": 2,
+	"next_post_id": 5,
 	"next_comment_id": 1,
 	"next_follow_id": 1,
 	"avatar": "jpg",
 	"user_name": "Def1",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"intro": "Random ZeroNet user",
-	"post": [],
+	"intro": "",
+	"post": [
+		{
+			"post_id": 1478686887,
+			"body": "test...",
+			"date_added": 1478686885,
+			"meta": "{\"img\":\"900,588,bb8ba7aa6a95aa8997996985885886984a96873863,01233333324567888773456798888923AAAA8AA8BAAAAAAACAACCCCCCCDCACCCCDDDDC\"}"
+		}
+	],
 	"post_like": {},
 	"comment": [],
 	"follow": []

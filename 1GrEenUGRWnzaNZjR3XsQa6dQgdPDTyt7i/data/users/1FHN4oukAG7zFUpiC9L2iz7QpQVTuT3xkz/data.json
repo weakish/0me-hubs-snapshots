@@ -1,6 +1,6 @@
 {
 	"next_post_id": 61,
-	"next_comment_id": 174,
+	"next_comment_id": 175,
 	"next_follow_id": 53,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
@@ -1344,6 +1344,12 @@
 			"body": "@Lmath: SAE不能部署，因为限制每个请求执行时间（300S），不能写入",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478663518",
 			"date_added": 1478680004
+		},
+		{
+			"comment_id": 174,
+			"body": "@Lmath: BAE有个python worker模版，专为后台程序设计，能自动重启进程。我正在研究中",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478663518",
+			"date_added": 1478688963
 		}
 	],
 	"follow": [
