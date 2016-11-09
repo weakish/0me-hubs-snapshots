@@ -5,13 +5,24 @@
  "cert_user_id": "squarezero@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "c15a3403ce0c82beeb260e5efc96f32f50777c34034389fbe0e4af9aa75ac713",
-   "size": 1985
+   "sha512": "338193f564c98a4cbc638901c41ab7fe30a280c87be43964828c89149bfb86d8",
+   "size": 4213
+  }
+ },
+ "files_optional": {
+  "1478728968.jpg": {
+   "sha512": "70f7953b961f57a01680bc4ce226b39cd8f4b635ee9e32603a0741986271142f",
+   "size": 57860
+  },
+  "1478729762.jpg": {
+   "sha512": "671eb53cb01764bba67d6e0cf4f458bf1cca74d9723eebcb661883009c87dc15",
+   "size": 70106
   }
  },
  "inner_path": "data/users/1EvWEgpVuMdbKTJR5vWZTV9LP1hBjMfyMd/content.json",
- "modified": 1478728818.153406,
+ "modified": 1478729758.077125,
+ "optional": "(?!avatar).*jpg",
  "signs": {
-  "1EvWEgpVuMdbKTJR5vWZTV9LP1hBjMfyMd": "G0y+KbQ4vFhvA0eM88sVvJI0nxa8Mffyu2S+DPB5fg+v+qvzQGiTMnGSRx9ByuQxV/snDrkju0aA/P7s/xU34qc="
+  "1EvWEgpVuMdbKTJR5vWZTV9LP1hBjMfyMd": "HFmk57MtA7VGgMfFPjcKmDI+ohhqVG/GdcZqR3paFgTxclqajzWFbCJ88BDtFSiGEs4Anmi66Apu83Vk2zJtpsU="
  }
 }
