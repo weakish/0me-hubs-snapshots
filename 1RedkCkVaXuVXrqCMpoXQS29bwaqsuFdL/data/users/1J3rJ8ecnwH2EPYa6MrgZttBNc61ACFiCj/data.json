@@ -1,7 +1,7 @@
 {
 	"next_post_id": 19,
-	"next_comment_id": 100,
-	"next_follow_id": 28,
+	"next_comment_id": 101,
+	"next_follow_id": 29,
 	"avatar": "png",
 	"user_name": "Nofish",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -685,6 +685,12 @@
 			"body": "You can try stop, delete data/content.db, start again",
 			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1478658543",
 			"date_added": 1478686321
+		},
+		{
+			"comment_id": 100,
+			"body": "Normally ZeroNet cleans up peers that not returned by tracker or via pex in the last 1-4 hour (depends on how many peers on the site)\nPinging every peer would be slow (we using tcp only) and measuring the recent contribution is also hard in trust-less p2p way\nThe peer number is only one factor on [cleanup algorithm](https://github.com/HelloZeroNet/ZeroNet/blob/master/plugins/OptionalManager/ContentDbPlugin.py#L276-L330), to avoid re-downloading often accessed resources the client's last access time (via the web interface) is more important factor.",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1478679877",
+			"date_added": 1478692757
 		}
 	],
 	"follow": [
@@ -841,6 +847,13 @@
 			"auth_address": "1889tLMuZze7YMshhe8u5h4NT4SSiA4PVB",
 			"user_name": "Zanity",
 			"date_added": 1478649436
+		},
+		{
+			"follow_id": 28,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC",
+			"user_name": "Firebox",
+			"date_added": 1478692373
 		}
 	]
 }

@@ -5,8 +5,8 @@
  "cert_user_id": "helloarch@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "fddcc2ed03f90da311775a7b81efb1aef8b094f1c4cee83405641e7e7ca86bc4",
-   "size": 15641
+   "sha512": "f77dfc970de7c608e03e2853d44f2bc5a3a15803542e5db5fe54dad87222895b",
+   "size": 9662
   }
  },
  "files_optional": {
@@ -16,9 +16,9 @@
   }
  },
  "inner_path": "data/users/15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp/content.json",
- "modified": 1478675974.455,
+ "modified": 1478692795.915,
  "optional": "(?!avatar).*jpg",
  "signs": {
-  "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp": "G1yxPFm1AnLA24s3Wa51QIlB1ACcGt2RKkr8TC2fg3MlRHMZa2AxAC6dKbQcGcr4zrUtowff7ANU83KRX4MjhLg="
+  "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp": "G8bjoIMzAST9cQxJRu/yP9sPY+xzKsZydTs8Z3VIq3mx3cqopICmJcK/7o5MmJQ1A/SNoaFZlDvCDLOpWvaapzw="
  }
 }
