@@ -1,5 +1,5 @@
 {
-	"next_post_id": 34,
+	"next_post_id": 35,
 	"next_comment_id": 29,
 	"next_follow_id": 16,
 	"avatar": "jpg",
@@ -171,6 +171,11 @@
 			"post_id": 1478652743,
 			"body": "¡¡¡¡ Por San Richard de GNU y todos sus santos apócrifos predicando en twitter !!!\nComo tarda en arrancar nuestra amiga rev 0.5.0 rev1702",
 			"date_added": 1478652710
+		},
+		{
+			"post_id": 1478724470,
+			"body": "¿Alguien revisa a diario su bandeja de entrada de #ZeroMail? Sería una buena costumbre",
+			"date_added": 1478724436
 		}
 	],
 	"post_like": {
@@ -464,7 +469,9 @@
 		"mute_spam": false,
 		"mute_blocked": false
 	},
-	"blocked": [],
+	"blocked": [
+		"19Mn6dCwtPj7NFsLTDWMuDK4jU5WKBkDdm"
+	],
 	"flags": {},
 	"comment_like": {
 		"1GucgDmfpJrHZmG6ukrM1Wjq5Cs6oXevzu_3": 1477748270,
