@@ -1,6 +1,6 @@
 {
 	"next_post_id": 15,
-	"next_comment_id": 15,
+	"next_comment_id": 16,
 	"next_follow_id": 8,
 	"avatar": "jpg",
 	"user_name": "Border0464fred",
@@ -172,6 +172,12 @@
 			"body": "hi whats up",
 			"post_uri": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1478620118",
 			"date_added": 1478637258
+		},
+		{
+			"comment_id": 15,
+			"body": "@Nofish: Where can I enable that ? ",
+			"post_uri": "1PEDSBg5uGTYZTqent5mCi8u2kKgLBB4rn_1478699243",
+			"date_added": 1478708047
 		}
 	],
 	"follow": [
@@ -225,7 +231,9 @@
 		"mute_blocked": false
 	},
 	"blocked": [],
-	"flags": {},
+	"flags": {
+		"post-1Q1bLJPDs9mwvu3fXkDkK7omiPq4Kn2HMj_1478705585": 1
+	},
 	"comment_like": {
 		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_31": 1475260010,
 		"1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_18": 1477540588,
