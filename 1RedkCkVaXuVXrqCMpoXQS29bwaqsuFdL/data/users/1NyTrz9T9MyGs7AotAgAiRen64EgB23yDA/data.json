@@ -1,12 +1,25 @@
 {
-	"next_comment_id": 1,
+	"next_comment_id": 3,
 	"user_name": "Annehome",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {
 		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1478161999": 1478169107,
 		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1478447607": 1478481489
 	},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "我现在的 ZeroHello是【version 0.4.1 rev(1536)】,是不是就点技这个菜单项，就能开始自动升级了？",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1478653787",
+			"date_added": 1478654584
+		},
+		{
+			"comment_id": 2,
+			"body": "@P2P: 收到推送，已更新成功了 :)",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1478653787",
+			"date_added": 1478655834
+		}
+	],
 	"flags": {},
 	"comment_like": {}
 }
