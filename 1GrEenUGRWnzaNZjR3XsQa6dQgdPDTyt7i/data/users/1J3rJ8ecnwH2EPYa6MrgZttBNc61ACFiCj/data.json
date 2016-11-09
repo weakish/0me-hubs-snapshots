@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 19,
+	"next_comment_id": 21,
 	"user_name": "Nofish",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -120,6 +120,18 @@
 			"body": "There is a half-working pull request for it, but the problem is even if its working you wont be able to reach any current sites with it, since i2p has no possibility to talk non-i2p peers.",
 			"post_uri": "1MzWT1C1LwRZmABNthcryXfsVKxP6Si5Ev_1476560501",
 			"date_added": 1476695877
+		},
+		{
+			"comment_id": 19,
+			"body": "if you running in tor always mode or without opened port, then it could take some time to generate new hidden service for every site",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478688898",
+			"date_added": 1478692928
+		},
+		{
+			"comment_id": 20,
+			"body": "@MilitaryRiotLab: Then i dont think its related to zeronet",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478688898",
+			"date_added": 1478693588
 		}
 	]
 }
