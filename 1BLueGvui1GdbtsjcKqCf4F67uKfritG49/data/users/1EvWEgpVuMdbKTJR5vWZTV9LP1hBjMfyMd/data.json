@@ -1,0 +1,76 @@
+{
+	"next_post_id": 4,
+	"next_comment_id": 5,
+	"next_follow_id": 4,
+	"avatar": "generate",
+	"user_name": "Squarezero",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Old user coming back anew. Sort of Zero².",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1478728113,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1478728170,
+			"body": "New profile, new computer, new me. So many new things.",
+			"date_added": 1478728168
+		},
+		{
+			"post_id": 1478728610,
+			"body": "If Mexico has a tiny little bit of humor, they'd offer to pay Canada a lovely wall on their southern border :)",
+			"date_added": 1478728607
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "At some point today, news reports were starting to mix up in my head, and I'm pretty certain I saw one where California voted to legalize Canada.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1478700532",
+			"date_added": 1478728224
+		},
+		{
+			"comment_id": 2,
+			"body": "Hey, ZeroYou! :)",
+			"post_uri": "1HQ8XgxtabgN9qLhPvbwWzUQsoTPRsmeLs_1",
+			"date_added": 1478728339
+		},
+		{
+			"comment_id": 3,
+			"body": "Et comme il se doit, Hello ZeroYou :)",
+			"post_uri": "1EDNFA5nGGzHuMPb6nfLKGM1oZYWdihcVm_1",
+			"date_added": 1478728488
+		},
+		{
+			"comment_id": 4,
+			"body": "ZeroYou! Toi zici!",
+			"post_uri": "17Fj9vYgS3oivKoyNF21hZiDYo1vaL41Yr_1",
+			"date_added": 1478728519
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "17Fj9vYgS3oivKoyNF21hZiDYo1vaL41Yr",
+			"user_name": "torsteed",
+			"date_added": 1478728435
+		},
+		{
+			"follow_id": 2,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1NQvmcUkean3BWS9N88P9dKYnP1TAB5kHz",
+			"user_name": "Meylody",
+			"date_added": 1478728448
+		},
+		{
+			"follow_id": 3,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1EDNFA5nGGzHuMPb6nfLKGM1oZYWdihcVm",
+			"user_name": "Kowdady",
+			"date_added": 1478728818
+		}
+	]
+}

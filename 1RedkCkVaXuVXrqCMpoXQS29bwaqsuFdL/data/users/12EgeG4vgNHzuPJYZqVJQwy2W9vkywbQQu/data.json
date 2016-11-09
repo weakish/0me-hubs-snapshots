@@ -1,6 +1,6 @@
 {
 	"next_post_id": 18,
-	"next_comment_id": 65,
+	"next_comment_id": 66,
 	"next_follow_id": 14,
 	"avatar": "png",
 	"user_name": "PaintNinja",
@@ -125,7 +125,8 @@
 		"12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1478368568": 1478436118,
 		"12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1478368305": 1478436565,
 		"12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1478551863": 1478624047,
-		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1475134633": 1478628362
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1475134633": 1478628362,
+		"1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_1478699644": 1478725505
 	},
 	"comment": [
 		{
@@ -505,6 +506,12 @@
 			"body": "@Border0464fred: Steps have been taken to ensure good privacy and security despite a couple of resources being accessed from the clearnet. First off, the only two clearnet resources are official third-party library repositories, so that when an update is pushed for a library I don't need to update the code to implement the new version.\nThe two libraries are WebTorrent.js and moment.js, both of which are transferred securely using HTTPS and additionally have their referrer anonymised so that they can't see that you've accessed the resource from NinjaBeats.\nClearnet trackers are normal but if you know of any darknet trackers feel free to let me know so I can add them in. Afaik, even ZeroNet uses some clearnet trackers so it should be fine.\nI do not host any of the ZeroNet NinjaBeats content on a clearnet server, the UI and code is transferred using ZeroNet and none of the trackers are hosted by me.",
 			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1478633137",
 			"date_added": 1478637214
+		},
+		{
+			"comment_id": 65,
+			"body": "@Juansantiago: Usas el mismo formato y el cliente se detecta automáticamente el tipo de contenido. :)",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1478551863",
+			"date_added": 1478725349
 		}
 	],
 	"follow": [
@@ -607,6 +614,7 @@
 	"comment_like": {
 		"137PNA5gLgCTLZTBtzUqCmMoZ752NQGQSJ_10": 1475518482,
 		"18DbeZgtVCcLghmtzvg4Uv8uRQAwR8wnDQ_4": 1478549674,
-		"12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_60": 1478636001
+		"12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_60": 1478636001,
+		"1QFcL2PapA8NuvNWeHCafHaMPJcXgmb55i_8": 1478726393
 	}
 }
