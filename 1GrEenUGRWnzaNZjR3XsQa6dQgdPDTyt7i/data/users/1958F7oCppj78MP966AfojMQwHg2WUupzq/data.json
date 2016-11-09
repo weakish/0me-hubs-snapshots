@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 77,
+	"next_comment_id": 78,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -7,7 +7,8 @@
 		"15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1478410096": 1478410456,
 		"1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1478482443": 1478489009,
 		"1NqBLri771MGN6eJLzUP6dqenvVqdC6b5L_1476186244": 1478601859,
-		"1V7usnfmabQXPSNC2zrCpF2ed2jDZaujS_1478608805": 1478626519
+		"1V7usnfmabQXPSNC2zrCpF2ed2jDZaujS_1478608805": 1478626519,
+		"14MrxSzhaSXiFwsAbyhwtipmU3Lh55Xcrr_1478676611": 1478676766
 	},
 	"comment": [
 		{
@@ -459,6 +460,12 @@
 			"body": "@西木野真姬: 当年 Freenet 被检查出流量特征后就被墙了，结果是完全重写，连原来 Freenet 0.5 的键值也不再兼容，而 Tor 采用了一些流量混淆插件的方法，有点担心 ZeroNet 的未来。",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478620932",
 			"date_added": 1478623722
+		},
+		{
+			"comment_id": 77,
+			"body": "很多 APP Engine 中的 Python 环境是经过修改的，可能 ZeroNet 也要修改才能运行，不过我建议你去试一试。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478663518",
+			"date_added": 1478663823
 		}
 	],
 	"flags": {},
