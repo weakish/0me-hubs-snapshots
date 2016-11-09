@@ -1,6 +1,6 @@
 {
-	"next_post_id": 3,
-	"next_comment_id": 3,
+	"next_post_id": 4,
+	"next_comment_id": 4,
 	"next_follow_id": 3,
 	"avatar": "jpg",
 	"user_name": "Twelves",
@@ -16,6 +16,11 @@
 			"post_id": 1478604192,
 			"body": "wake up @Emeraude",
 			"date_added": 1478604190
+		},
+		{
+			"post_id": 1478698763,
+			"body": "YEAAAAAAAAAAAAAAAAAAAARHHH TRUUUUMP !!!",
+			"date_added": 1478698760
 		}
 	],
 	"post_like": {
@@ -34,6 +39,12 @@
 			"body": "@Nutomic: they always do",
 			"post_uri": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1472116229",
 			"date_added": 1478606870
+		},
+		{
+			"comment_id": 3,
+			"body": "Do you prefer an agressive democracy, which bomb other contries for oil ?",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1478683982",
+			"date_added": 1478698903
 		}
 	],
 	"follow": [
@@ -59,7 +70,9 @@
 		"mute_blocked": false
 	},
 	"blocked": [],
-	"flags": {},
+	"flags": {
+		"post-13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1478683982": 2
+	},
 	"comment_like": {
 		"1FEikAyxCNPJcW996B69r5UFg29yfq579m_4": 1478606860
 	}

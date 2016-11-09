@@ -1,6 +1,6 @@
 {
-	"next_post_id": 23,
-	"next_comment_id": 27,
+	"next_post_id": 25,
+	"next_comment_id": 30,
 	"next_follow_id": 28,
 	"avatar": "jpg",
 	"user_name": "ZAlex",
@@ -101,6 +101,18 @@
 			"post_id": 1478324125,
 			"body": "Remember, remember the [fifth of November](https://en.wikipedia.org/wiki/Guy_Fawkes_Night)...",
 			"date_added": 1478324104
+		},
+		{
+			"post_id": 1478698452,
+			"body": "Oh my God, it finally supports uploading of images...",
+			"date_added": 1478698429,
+			"meta": "{\"img\":\"882,700,ddebdebcedeeeeecddcdecccdddbcdacd,01111122134344405564444443003444444444440784459A93444444444444444444444444444444\"}"
+		},
+		{
+			"post_id": 1478699644,
+			"body": "Have you seen my [photo album](http://127.0.0.1:43110/zalex.bit/photos/index.html) at [ZAlex.bit](http://127.0.0.1:43110/zalex.bit)? :D",
+			"date_added": 1478699620,
+			"meta": "{\"img\":\"900,675,4748b78c96a67a66a74959b8585373384352364241131,012222134355122236471583223341399A3115156552121115151111214815555360BC330CBBBDEB\"}"
 		}
 	],
 	"post_like": {
@@ -207,7 +219,8 @@
 		"12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1478368305": 1478400865,
 		"15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ_1478475406": 1478477144,
 		"1ByuEoBeryNCZXqRArMfDiAL9bFTqmM5yN_1": 1478606703,
-		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1478620854": 1478684759
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1478620854": 1478684759,
+		"1ByuEoBeryNCZXqRArMfDiAL9bFTqmM5yN_1478693356": 1478697296
 	},
 	"comment": [
 		{
@@ -353,6 +366,24 @@
 			"body": "Also, [\"Nanasi text board\"](http://127.0.0.1:43110/16KzwuSAjFnivNimSHuRdPrYd1pNPhuHqN/) uses `bitcoinjs` for generating certs. So, a fully decentralized registration service is possible.",
 			"post_uri": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_1476885164",
 			"date_added": 1476885462
+		},
+		{
+			"comment_id": 27,
+			"body": "Goodbye, [Zatogra](http://127.0.0.1:43110/zatogra.bit), because now we have ZeroMe with **full** images support!",
+			"post_uri": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_1478698452",
+			"date_added": 1478698673
+		},
+		{
+			"comment_id": 28,
+			"body": "What height and width is the most optimal?",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1478620854",
+			"date_added": 1478698848
+		},
+		{
+			"comment_id": 29,
+			"body": "And will you merge some features (blocklist, tags, comment liking) from ZeroMe Plus?",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1478620854",
+			"date_added": 1478699223
 		}
 	],
 	"follow": [
