@@ -1,11 +1,11 @@
 {
 	"next_post_id": 44,
-	"next_comment_id": 23,
+	"next_comment_id": 24,
 	"next_follow_id": 13,
 	"avatar": "generate",
 	"user_name": "Firebox",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
-	"intro": "I reserved the \"Firefox\" zeroid for you.\n\n[ZeroMux](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/docs/)\nWorking on [ZeroMux Dropbox](http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Post/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC/1478128320)",
+	"intro": "I reserved the \"Firefox\" zeroid for you.\n\n[ZeroMux](/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/docs/)\nWorking on [ZeroMux Dropbox](/Me.ZeroNetwork.bit/?Post/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC/1478128320)\n\n**Join the discussion!** An open question on optional file [cleanup algorithm](/Me.ZeroNetwork.bit/?Post/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC/1478679877).",
 	"post": [
 		{
 			"post_id": 1472390574,
@@ -204,13 +204,13 @@
 		},
 		{
 			"post_id": 1478659676,
-			"body": "Strange optional file stats. All optional files of ZeroBlog Lab are saved on the disk, but none of them are shown here. Does this button really mean \"download and help distribute all **new** files\"?",
+			"body": "Strange optional file stats. All optional files of ZeroBlog Lab are saved on the disk, but none of them are shown here. Does this button really mean \"download and help distribute all **new** files\"?\n\nEdit: Stop ZeroNet, delete `data/content.db` and start ZeroNet again.",
 			"date_added": 1478659634,
 			"meta": "{\"img\":\"666,700,22534623633599accd668557266344aaa333222666fff454,0122231000033000000045555555553111111111667780913300000000007711111117A9BCCCCCDEABBCBCCCDEAFCCCCCCDE\"}"
 		},
 		{
 			"post_id": 1478679877,
-			"body": "An Open Question to Every ZeroNet Contributor\n\n## How to maintain a reasonable balance between storage availability and data availability, using algorithms?\n\nWhen I read the homepage of bit.no.com, the ZeroNet proxy, I noticed that the proxy found more peers than my own ZeroNet client did. When I clicked on my ZeroMux website to see the peers bit.no.com found, I saw many points that I could not find on my own map. I believe that those extra points were computers that were no longer reachable.\n\nSeveral days ago, the owner of https://onlyzero.net/ , a ZeroNet proxy, received a takedown complaint from a Hong Kong company, forcing the site owner to take down a software cracking site hosted on the proxy. This complaint is the first takedown complaint that makes us be aware of peer reliability in ZeroNet.\n\nZeroNet chooses which optional file to recycle according to the number of peers the file has. ZeroNet may have included the peers that are \"dead,\" unreachable and very slow, or have other incorrect assumptions on peer reliability. To make a more accurate calculation, ZeroNet's corresponding algorithm should apply a weight to every peer.\n\n### How to define the weight?\nConcerns:\n- We cannot rely on peers that are \"dead,\" slow and unlikely to **contribute**.\n- We cannot rely too much on **major seeders**. When someone tries to take down certain content, he or she will take down the major seeders first.\n\nAspects to take in, including but not limited to:\n- **Connectivity:** the \"ping\" value of a peer __(but adds to data transfer)__; the speed a peer __(but has insufficient data)__; the ratio of the number of successful connections to the number of all connections made __(requires bigger sample size)__.\n- **Contribution:** recent contributions of a peer __(but varies with respect to network environment)__.\n\nMathematical Fairness:\n- Since we cannot rely too much on major seeders, the weight should not be greater than 1. This cut off avoid over-evaluating certain peers.\n- Since ZeroNet evaluates data availability based on its observation of its own network environment, ZeroNet may run into some false positives. We should also find a way to cross validate evaluations. (Hard)",
+			"body": "An Open Question to Every ZeroNet Contributor\n\n## How to maintain a reasonable balance between storage availability and data availability, using algorithms?\n\nWhen I read the homepage of bit.no.com, the ZeroNet proxy, I noticed that the proxy found more peers than my own ZeroNet client did. When I clicked on my ZeroMux website to see the peers bit.no.com found, I saw many points that I could not find on my own map. I believe that those extra points were computers that were no longer reachable. (Correction: peer list is updated every 1~4 hours)\n\nSeveral days ago, the owner of https://onlyzero.net/ , a ZeroNet proxy, received a takedown complaint from a Hong Kong company, forcing the site owner to take down a software cracking site hosted on the proxy. This complaint is the first takedown complaint that makes us be aware of peer reliability in ZeroNet.\n\nZeroNet chooses which optional file to recycle according to the number of peers the file has. ZeroNet may have included the peers that are \"dead,\" unreachable and very slow, or have other incorrect assumptions on peer reliability. To make a more accurate calculation, ZeroNet's corresponding algorithm should apply a weight to every peer.\n\n### How to define the weight?\nConcerns:\n- We cannot rely on peers that are \"dead,\" slow and unlikely to **contribute**.\n- We cannot rely too much on **major seeders**. When someone tries to take down certain content, he or she will take down the major seeders first.\n\nAspects to take in, including but not limited to:\n- **Connectivity:** the \"ping\" value of a peer __(but adds to data transfer)__; the speed a peer __(but has insufficient data)__; the ratio of the number of successful connections to the number of all connections made __(requires bigger sample size)__.\n- **Contribution:** recent contributions of a peer __(but varies with respect to network environment)__.\n\nMathematical Fairness:\n- Since we cannot rely too much on major seeders, the weight should not be greater than 1. This cut off avoid over-evaluating certain peers.\n- Since ZeroNet evaluates data availability based on its observation of its own network environment, ZeroNet may run into some false positives. We should also find a way to cross validate evaluations. (Hard)",
 			"date_added": 1478679834
 		}
 	],
@@ -349,6 +349,12 @@
 			"body": "Just an advice, can the interpolation algorithm for displaying thumbnails be changed to make the image show clear pixels with sharp edges?",
 			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1478620854",
 			"date_added": 1478658786
+		},
+		{
+			"comment_id": 23,
+			"body": "@Nofish: It works. The Db takes a long time to build.",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1478658543",
+			"date_added": 1478719302
 		}
 	],
 	"follow": [
