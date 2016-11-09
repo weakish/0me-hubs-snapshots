@@ -5,13 +5,20 @@
  "cert_user_id": "nassau@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "aa192e0f4978cc2e13ca924fb3c36c6c8f3eb3dc14ab1296661d09edb55f2d38",
-   "size": 9428
+   "sha512": "f86f0ebd8915c20d17821e92eb7731d4355250658c19c5a8dcb8eada48dcaa65",
+   "size": 9694
+  }
+ },
+ "files_optional": {
+  "1478661555.jpg": {
+   "sha512": "da589dd828705dbc9bf1516f0823279c67cba87ea03a6846e4daf379bf5cca22",
+   "size": 64100
   }
  },
  "inner_path": "data/users/1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd/content.json",
- "modified": 1478500028.476,
+ "modified": 1478661544.258,
+ "optional": "(?!avatar).*jpg",
  "signs": {
-  "1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd": "HMHQVN160DguI38hQig2OjjC8d6Pb0leJIprXaggNGlX0+x0q9irGdvCSncQTn1AlW1u5cgULo/sibB9HSKHQbk="
+  "1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd": "G+f1DnLdV6uzo0DlOnx7VtA3mDApKthTPxRL8WD30WAQ4Y1kss8vyJDjV9wtcVNW+JIJLVUYSpH9YF0llH7ZPK0="
  }
 }
