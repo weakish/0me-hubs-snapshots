@@ -5,13 +5,20 @@
  "cert_user_id": "waterrabbit@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "1296557c53ac32624fd98bfcc3255de3b475cee43cbb4a86fd16f94f70a4bacd",
-   "size": 25799
+   "sha512": "f774a0585ab6c465bad9a17b51db2ec6cc12f458790cc602f7577d7cf3feef86",
+   "size": 26777
+  }
+ },
+ "files_optional": {
+  "1478659676.jpg": {
+   "sha512": "5833ea8a82b86f06ab1941e67bb5bfc5a64d421073d8af04e1af2ec3aa245d96",
+   "size": 44001
   }
  },
  "inner_path": "data/users/1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC/content.json",
- "modified": 1478593094.527,
+ "modified": 1478659790.253,
+ "optional": "(?!avatar).*jpg",
  "signs": {
-  "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC": "G8WsoIHyRybqRYGN92do+HAPbGQFc2zOcw4z30jn+rlK5X/fYb3NHMM1qKrNVB57slo14m3BtM5FTnra6oTTctM="
+  "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC": "HCe+lJEtR3UshFgvARob/w9+aki/cW603SVEpxyG3uApRFmR1TFiWnP+2xxTA/eJpOkMLC0tqJOQtYR2t9F6Rkg="
  }
 }

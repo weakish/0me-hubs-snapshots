@@ -1,6 +1,6 @@
 {
-	"next_post_id": 41,
-	"next_comment_id": 22,
+	"next_post_id": 43,
+	"next_comment_id": 23,
 	"next_follow_id": 13,
 	"avatar": "generate",
 	"user_name": "Firebox",
@@ -196,6 +196,17 @@
 			"post_id": 1478581931,
 			"body": "Does ZeroNet has an API on optional file peer numbers?",
 			"date_added": 1478581891
+		},
+		{
+			"post_id": 1478658543,
+			"body": "For optional files hosted on my computer before ZeroNet v0.5 is released, there is no record I can see in the file manager UI, but they are on the disk. For optional files published later on today, I can see their records, though. @Nofish: ??",
+			"date_added": 1478658502
+		},
+		{
+			"post_id": 1478659676,
+			"body": "Strange optional file stats. All optional files of ZeroBlog Lab are saved on the disk, but none of them are shown here.",
+			"date_added": 1478659634,
+			"meta": "{\"img\":\"666,700,22534623633599accd668557266344aaa333222666fff454,0122231000033000000045555555553111111111667780913300000000007711111117A9BCCCCCDEABBCBCCCDEAFCCCCCCDE\"}"
 		}
 	],
 	"post_like": {
@@ -327,6 +338,12 @@
 			"body": "@Jro: On my own ZeroNet client, Nofish's Blog seems to be not updated.",
 			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1478581931",
 			"date_added": 1478584812
+		},
+		{
+			"comment_id": 22,
+			"body": "Just an advice, can the interpolation algorithm for displaying thumbnails be changed to make the image show clear pixels with sharp edges?",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1478620854",
+			"date_added": 1478658786
 		}
 	],
 	"follow": [

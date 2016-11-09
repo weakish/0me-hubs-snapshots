@@ -1,11 +1,11 @@
 {
 	"next_post_id": 2,
 	"next_comment_id": 1,
-	"next_follow_id": 1,
+	"next_follow_id": 15,
 	"avatar": "generate",
 	"user_name": "DullSkull",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"intro": "Random ZeroNet user",
+	"intro": "中文用户。",
 	"post": [
 		{
 			"post_id": 1,
@@ -15,5 +15,104 @@
 	],
 	"post_like": {},
 	"comment": [],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp",
+			"user_name": "HelloArch",
+			"date_added": 1478659148
+		},
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ",
+			"user_name": "P2P",
+			"date_added": 1478659188
+		},
+		{
+			"follow_id": 3,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1NyTrz9T9MyGs7AotAgAiRen64EgB23yDA",
+			"user_name": "Annehome",
+			"date_added": 1478659198
+		},
+		{
+			"follow_id": 4,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "157VksPLxufKMy8U344wPhayVY3RhkL8SK",
+			"user_name": "怡红院",
+			"date_added": 1478659216
+		},
+		{
+			"follow_id": 5,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "13Y7yydemDV2ZDR5QYC9gsbbNr5oqYqGH7",
+			"user_name": "Kenan43110",
+			"date_added": 1478659226
+		},
+		{
+			"follow_id": 6,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "18EGQdBKfSvtG1s1d8XCw7Puw7AKLrngN8",
+			"user_name": "Usyoung",
+			"date_added": 1478659229
+		},
+		{
+			"follow_id": 7,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz",
+			"user_name": "猫叉酱",
+			"date_added": 1478659234
+		},
+		{
+			"follow_id": 8,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp",
+			"user_name": "HelloArch",
+			"date_added": 1478659236
+		},
+		{
+			"follow_id": 9,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1Nbt7FB5ChZWm2sEdn2yyGQyQhjsKtqW1N",
+			"user_name": "Fido",
+			"date_added": 1478659256
+		},
+		{
+			"follow_id": 10,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1MZ6f3V1cBuhNwzajMVPu8vb1wRt1p6dpt",
+			"user_name": "ChinaNet",
+			"date_added": 1478659262
+		},
+		{
+			"follow_id": 11,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj",
+			"user_name": "西木野真姬",
+			"date_added": 1478659290
+		},
+		{
+			"follow_id": 12,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1GMNmr2bDPbT4c8yVnyCoDHke52CNCdqAa",
+			"user_name": "Apuar",
+			"date_added": 1478659391
+		},
+		{
+			"follow_id": 13,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2",
+			"user_name": "Cxgreat2014",
+			"date_added": 1478659405
+		},
+		{
+			"follow_id": 14,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12yaKkoqVKBUi66uB5pYXamWguKFaWdDnx",
+			"user_name": "狗蛋",
+			"date_added": 1478659767
+		}
+	]
 }
