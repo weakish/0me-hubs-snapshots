@@ -1,16 +1,21 @@
 {
-	"next_post_id": 2,
+	"next_post_id": 4,
 	"next_comment_id": 1,
 	"next_follow_id": 1,
-	"avatar": "generate",
-	"user_name": "Ajs",
+	"avatar": "jpg",
+	"user_name": "ajs",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"intro": "Random ZeroNet user",
+	"intro": "PGP: http://ajsantos.site/key.asc  Fingerprint: 8EFB A03F F63E 4E79 BA3A C7E0 9CDB 815E 4EF0 D3F1 Bitmessage: BM-2cXxy5vv4qaEkEFwbeVwKgPYNr1qyNvQFT\nhttps://keybase.io/ajsantos",
 	"post": [
 		{
-			"post_id": 1,
-			"date_added": 1478649643,
-			"body": "Hello ZeroMe!"
+			"post_id": 1478649718,
+			"body": "Hello world!",
+			"date_added": 1478649716
+		},
+		{
+			"post_id": 1478651922,
+			"body": "Test.. send me an email at ajs@zeroid.bit",
+			"date_added": 1478651919
 		}
 	],
 	"post_like": {},
