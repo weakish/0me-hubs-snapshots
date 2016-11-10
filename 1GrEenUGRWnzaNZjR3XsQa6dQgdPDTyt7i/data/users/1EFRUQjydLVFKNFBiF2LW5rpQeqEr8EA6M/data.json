@@ -1,6 +1,6 @@
 {
-	"next_post_id": 30,
-	"next_comment_id": 54,
+	"next_post_id": 32,
+	"next_comment_id": 56,
 	"next_follow_id": 75,
 	"avatar": "jpg",
 	"user_name": "Rainlime",
@@ -136,6 +136,16 @@
 			"post_id": 1478395859,
 			"body": "完全看不懂文档后半段在说啥...",
 			"date_added": 1478395830
+		},
+		{
+			"post_id": 1478783801,
+			"body": "ZeroNet 升级了呢\n\n新增了 File 页面 可以清晰的看到各个站点所需占用的空间\n\n![1](https://cloud.githubusercontent.com/assets/22708180/20178099/c365b556-a71d-11e6-81b7-57529f24ab22.png)\n",
+			"date_added": 1478783771
+		},
+		{
+			"post_id": 1478786327,
+			"body": "大家看得见我的论坛的背景吗？\n我在本地签名&发布了，但公共代理里一直提示 missing file 并且看不见更改\nhttp://127.0.0.1:43110/1EASVbkmLbnXwsu4jVybxD2ZixU69b7984",
+			"date_added": 1478786296
 		}
 	],
 	"post_like": {
@@ -471,6 +481,18 @@
 			"body": "@Cxgreat2014: 看得懂英文 看不懂代码..",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478395859",
 			"date_added": 1478398608
+		},
+		{
+			"comment_id": 54,
+			"body": "试试手动创建那个站点地址的文件夹然后设置权限为不可写",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478510471",
+			"date_added": 1478785491
+		},
+		{
+			"comment_id": 55,
+			"body": "@猫叉酱: 其实只是偷偷出来冒个泡～",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478783801",
+			"date_added": 1478785659
 		}
 	],
 	"follow": [

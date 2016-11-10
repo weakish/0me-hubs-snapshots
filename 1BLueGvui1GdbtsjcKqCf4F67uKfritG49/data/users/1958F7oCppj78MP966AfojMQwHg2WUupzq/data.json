@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 93,
+	"next_comment_id": 99,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -555,6 +555,42 @@
 			"body": "一般是除了系统更新或者维护停电这种情况，长期挂着。",
 			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1478774823",
 			"date_added": 1478776081
+		},
+		{
+			"comment_id": 93,
+			"body": "1000 份冗余？~~顺便说下看不到图。~~",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478784353",
+			"date_added": 1478784435
+		},
+		{
+			"comment_id": 94,
+			"body": "@Kha: 真白名单了还不如去菲律宾算了。",
+			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1478762636",
+			"date_added": 1478784703
+		},
+		{
+			"comment_id": 95,
+			"body": "@怡红院: 已经看到了，主要是刚才我切换到电信大内网去导致 ZeroNet 检测到我的端口也关了。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478784353",
+			"date_added": 1478784771
+		},
+		{
+			"comment_id": 96,
+			"body": "@怡红院: 如果你获取到的不是内网 IP 的话，建议在路由器上设置下端口转发，对性能有好处。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478784353",
+			"date_added": 1478784906
+		},
+		{
+			"comment_id": 97,
+			"body": "make cleanup more aggressive 应该不等同于只保留这些吧！应该是达到限额时考虑优先清理，如果没达到就不管。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478784353",
+			"date_added": 1478785002
+		},
+		{
+			"comment_id": 98,
+			"body": "@怡红院: 是的，之前我端口开着一直挺快的，刚才连被检测到端口关了一下子发条消息都好几秒，图片都不容易加载出来。你非要开端口的话，就只能找个分配公网 IP 的 VPN 了，应该标明支持 P2P 下载的都可以，就是价格比较贵。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478784353",
+			"date_added": 1478785227
 		}
 	],
 	"flags": {

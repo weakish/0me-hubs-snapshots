@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 97,
+	"next_comment_id": 100,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -581,6 +581,24 @@
 			"body": "@猫叉酱: 想太多，断网的话还有这个可能，如果经常停电的话请自备 UPS （已经成为一些晚上断电的学校寝室标配）。",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478696456",
 			"date_added": 1478774691
+		},
+		{
+			"comment_id": 97,
+			"body": "@猫叉酱: 低安全模式是将主密钥保存在一个文件中，在启动时自动加载，如果遇到紧急情况点紧急按钮或者擦除主密钥即可，高安全模式下是每次手工输入密钥，密钥保存在内存中，紧急情况时关闭节点或断电即可。",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1478748325",
+			"date_added": 1478782871
+		},
+		{
+			"comment_id": 98,
+			"body": "@猫叉酱: Freenet 上实际并不能修改文件，你只能修改后重新插入键值并定位到新的 USK 上，老的文件只能指望没人访问才会被删除。而插入的过程就是要先加密的。",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1478748325",
+			"date_added": 1478784227
+		},
+		{
+			"comment_id": 99,
+			"body": "@Ken622202: 根本不是一回事好么……",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478439975",
+			"date_added": 1478784810
 		}
 	],
 	"flags": {},
@@ -604,6 +622,7 @@
 		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_96": 1478550973,
 		"18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1_1": 1478570953,
 		"1V7usnfmabQXPSNC2zrCpF2ed2jDZaujS_43": 1478612480,
-		"157VksPLxufKMy8U344wPhayVY3RhkL8SK_28": 1478612493
+		"157VksPLxufKMy8U344wPhayVY3RhkL8SK_28": 1478612493,
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_54": 1478785822
 	}
 }
