@@ -4,18 +4,22 @@
  "cert_sign": "HDuz4NE83kbxzRrOk7puYtuSjKvTyhDiVxwhDMHB8cClp1uc1BpRzhY90wcJwdHDgxkD5TYFOwrDrWK79yzoQS8=",
  "cert_user_id": "cer@zeroid.bit",
  "files": {
+  "avatar.jpg": {
+   "sha512": "93eb39d163a8841953c0d5a826971105bd3d07d3d32d65b533f925687ec23dc0",
+   "size": 1832
+  },
   "avatar.png": {
    "sha512": "63d35fd56fdda717087d59f2a3d654c6faaffaad23cd7770f3e5a3dfbc0bd164",
    "size": 112
   },
   "data.json": {
-   "sha512": "6bb9780bdf92e2e7d4433aa72a149b5754b55d1d12c81e377d72999680e0fb4e",
-   "size": 23539
+   "sha512": "9f66287e0bddaca23dfc4c1db877fecb6e1c942f1efb03a84d9e43d0126fb3f3",
+   "size": 23785
   }
  },
  "inner_path": "data/users/1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92/content.json",
- "modified": 1478766723.449474,
+ "modified": 1478776554.666766,
  "signs": {
-  "1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92": "HIFxyNyF9SvUYY/OXHnPfHv9OySlj6Hp8qhW7STfNCfIDQDltV95p3EIngJbWUyLIbrSNT2ZglD/u1TD6t0QGxA="
+  "1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92": "G/kPOeOhArc7iMVHHh+wn6JWoauqBGIaqFdst2CkpOqOmyaLdbqlHPm0k6QNwUACwuUCOvY2DX/gMOJhXG4//bA="
  }
 }

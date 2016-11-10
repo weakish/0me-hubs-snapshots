@@ -217,5 +217,21 @@
 			"user_name": "Sirenyc",
 			"date_added": 1478681319
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": true,
+		"mute_spam": true,
+		"mute_blocked": true
+	},
+	"blocked": [
+		"1Es2paeGva7jHwDwnJHvWZw4RQDysK9tbV",
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz",
+		"1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj",
+		"1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA",
+		"18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2",
+		"1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92"
+	],
+	"flags": {},
+	"comment_like": {}
 }
