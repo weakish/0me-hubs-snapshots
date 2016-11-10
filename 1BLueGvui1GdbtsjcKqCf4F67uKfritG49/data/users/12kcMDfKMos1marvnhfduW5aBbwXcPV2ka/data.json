@@ -1,7 +1,7 @@
 {
-	"next_post_id": 8,
-	"next_comment_id": 22,
-	"next_follow_id": 59,
+	"next_post_id": 10,
+	"next_comment_id": 23,
+	"next_follow_id": 65,
 	"avatar": "generate",
 	"user_name": "Kha",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -41,6 +41,16 @@
 			"post_id": 1478762636,
 			"body": "如果墙国实行白名单：\nZeroNet是否还能全功能运行？\n新用户是否能进入？\n墙内用户之间是否仍能互相通讯？",
 			"date_added": 1478762629
+		},
+		{
+			"post_id": 1478795615,
+			"body": "\nzeronet新用户获取节点的方式到底是啥？\n如果大陆与外界切断 那么对新用户（已有客户端）的影响有多大？\n如果是一群已经稳定的连接过某一墙内0站的用户又会如何？",
+			"date_added": 1478795607
+		},
+		{
+			"post_id": 1478796997,
+			"body": "我的站\nhttp://127.0.0.1:43110/1Mg82NHKBLzgnzp199NT1Mh8rUdXw2ij1h/\n总显示有一个文件更新失败 但是我完全不知道为啥= =",
+			"date_added": 1478796988
 		}
 	],
 	"post_like": {},
@@ -140,6 +150,12 @@
 			"body": "@Lmath: 那么在白名单之前我会喊一些人调整进入“墙内模式”",
 			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1478762636",
 			"date_added": 1478784478
+		},
+		{
+			"comment_id": 22,
+			"body": "@Bot032: zeronet寻找节点的方式是啥呢",
+			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1478762636",
+			"date_added": 1478794952
 		}
 	],
 	"follow": [
@@ -501,13 +517,6 @@
 			"date_added": 1478762390
 		},
 		{
-			"follow_id": 56,
-			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
-			"auth_address": "1Es2paeGva7jHwDwnJHvWZw4RQDysK9tbV",
-			"user_name": "Disney",
-			"date_added": 1478762638
-		},
-		{
 			"follow_id": 57,
 			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 			"auth_address": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2",
@@ -520,6 +529,48 @@
 			"auth_address": "1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA",
 			"user_name": "P2pwave",
 			"date_added": 1478762817
+		},
+		{
+			"follow_id": 59,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1AjXnH1CT9hX32MM16gBdXWSsQ6wiN8V8m",
+			"user_name": "大龙虾",
+			"date_added": 1478795189
+		},
+		{
+			"follow_id": 60,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "14Uu69Rsj5RcsSRSJvxtuGbFPCHyrNyC8Y",
+			"user_name": "人生输家",
+			"date_added": 1478795193
+		},
+		{
+			"follow_id": 61,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "19SMDgYNqtZfSS3XSAWceB6S6JDtHA5c2B",
+			"user_name": "Xiemx",
+			"date_added": 1478795198
+		},
+		{
+			"follow_id": 62,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "157VksPLxufKMy8U344wPhayVY3RhkL8SK",
+			"user_name": "怡红院",
+			"date_added": 1478795240
+		},
+		{
+			"follow_id": 63,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1CvJRw6vBz5ogLQEkgsNtC3xadZC1H4YuF",
+			"user_name": "孤岛",
+			"date_added": 1478795847
+		},
+		{
+			"follow_id": 64,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1AuXf8vz9sdxYkmTQRqUC4AQEwJHhxqN5M",
+			"user_name": "D",
+			"date_added": 1478795864
 		}
 	],
 	"settings": {
