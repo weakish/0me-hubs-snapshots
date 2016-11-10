@@ -1,0 +1,44 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "G9+C0YM3a6NBSma2o9WWFXDOzwnqcyQBlmVwvbeQ5z2Eizx8+1UHURm/wTJGPBr3O88BAuUVVvt9IEaOUiHchNc=",
+ "cert_user_id": "disney@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "41fa37c99980daae3240c4d7f23dc1ea834e90312f0ccc659cc9ece7ac0deaa0",
+   "size": 1549
+  },
+  "data.json": {
+   "sha512": "1fe59babd46f4e653ec8f55bab87b85ad2cc09083cde7cf1795394b42c6757c8",
+   "size": 1806
+  }
+ },
+ "files_optional": {
+  "1478762633.jpg": {
+   "sha512": "886e348aa01f21dde2123c2b5d1c19474ffeda70a1e2b7222cb65e51db5cb16b",
+   "size": 38505
+  },
+  "1478763901.jpg": {
+   "sha512": "d9524e8819b378536adae82ad39454347a7a4a9215f54501bb74fe0e16eeddf9",
+   "size": 42464
+  },
+  "1478763954.jpg": {
+   "sha512": "b865ece7d0f6ccd7cd70b5f85f9b831c0fdc690b49883d494ff8e18365c41c13",
+   "size": 58394
+  },
+  "1478763994.jpg": {
+   "sha512": "bf390acaf4cbab1bc804e955019dc5565d1951d110b16b922c7636d53e52addf",
+   "size": 36084
+  },
+  "1478764103.jpg": {
+   "sha512": "2ae44eb5852f7154278fb704206fabbddd4e3241f4244390008e75b2dfff261f",
+   "size": 27696
+  }
+ },
+ "inner_path": "data/users/1Es2paeGva7jHwDwnJHvWZw4RQDysK9tbV/content.json",
+ "modified": 1478764221.906,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1Es2paeGva7jHwDwnJHvWZw4RQDysK9tbV": "G5qmymBaeHhd1ozLGYXkd+00YswDEBzNQpAxeVML8WXFRVBb22FnCtsKMle66lUVmg/U7K3R6EuVXMjWBlj4cgs="
+ }
+}
