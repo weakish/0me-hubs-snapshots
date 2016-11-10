@@ -1,7 +1,7 @@
 {
-	"next_post_id": 9,
-	"next_comment_id": 27,
-	"next_follow_id": 15,
+	"next_post_id": 10,
+	"next_comment_id": 30,
+	"next_follow_id": 16,
 	"avatar": "jpg",
 	"user_name": "Durand",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -46,11 +46,19 @@
 			"post_id": 1476734316,
 			"body": "Reading about [Liquid Democracy](https://medium.com/@DomSchiener/liquid-democracy-true-democracy-for-the-21st-century-7c66f5e53b6f#.oyr5d477d), a cross between direct democracy and representative democracy. Sounds interesting but I'm not sure how it would prevent ignorant voters from voting against their interests (eg. Brexit).",
 			"date_added": 1476734308
+		},
+		{
+			"post_id": 1478747906,
+			"body": "In light of recent events, here's something I wrote a few weeks ago.\n\nIf you think the current refugee crisis in Europe is bad with barely a few million people, in the next twenty years, over a *billion* people will be forced to leave their homes in search of food and fresh water.\n\n\nThere are hundreds of millions of people presently living in delicate ecosystems, where fresh water is scarce and food security is non-existent. In California, for example, drought will become an increasingly severe problem (it already has water shortages).  200 million people depend on glacial meltwater for survival. 600 million people live near the coast and will have to migrate to higher land when flood defences get too expensive. 1 billion people around the globe rely on coral reefs for food, many of which are dead or dying. Climate Change is the #1 threat to national security, according to the US Department of Defense due to all the conflict it would trigger.\n\n\nWe think of climate change as a one-dimensional issue, of the world becoming warmer and sea levels rising. But the reality is so much more complicated than that. What about fossilised diseases frozen in the Arctic melting? Or mosquitos increasing in range and spreading deadly infections (eg. Zika)? Or trapped methane in the permafrost escaping and causing runaway global warming with a 6-degree rise in average temperatures? Humans have *never* lived in a world of more than a 2-degree rise. How will we cope with this? How will we cope with 2/3 of all wildlife going extinct by 2020? Or extreme wildfires and hurricanes? In the UK, we can barely handle a flood or two a year and it's going to get much worse if we don't change our behaviour.\n\n\nWe first discovered climate change and the greenhouse effect 120 years ago in 1896. Since then we've debated the science and gone into denial. Instead of throwing away that packet of cigarettes when doctors told us that they will kill us, we've decided to attach them directly to our lungs and double down. We'd rather debate about where to build walls and how many refugees to keep out than about how to protect our only home for our children and grandchildren.\n\n\nAs it stands right now, there are clear solutions that we can take. We can push for cheap renewable and nuclear energy and stop subsidising coal and gas companies. We can reduce how much meat (especially beef) we eat and how much we drive and fly. And we can support a price on carbon that will adequately price the damages we do to our planet, which allows our economy to invest in clean energy. The best part is that this is all far cheaper that having to deal with the devastation that climate change will bring! We really, really need to start now.",
+			"date_added": 1478747897,
+			"meta": "{\"img\":\"700,700,8775785539be8aa5999986643341123224ab6bc9de7cd28a,01112333334566106606664617277774888777729A6627A27215461BBCDE1281AFF5FB42178551F5A8906446152011060060\"}"
 		}
 	],
 	"post_like": {
 		"161PCrxHPg6RVU2o83863vKy1NoZi59hMq_1472840264": 1472847910,
-		"1Hw2n6KUQ2ppnLbiwb6hqnUdRRcrKwHUy6_1477683553": 1477762021
+		"1Hw2n6KUQ2ppnLbiwb6hqnUdRRcrKwHUy6_1477683553": 1477762021,
+		"19ev8HmfPQ2VC8aWDA4Ck7E2vLYDYFgw9P_1478311564": 1478321563,
+		"13Jo6eFeig3usqrZvDVvYychPecgRV3cu7_1478747731": 1478747755
 	},
 	"comment": [
 		{
@@ -202,6 +210,24 @@
 			"body": "@Rozruch: I'm also concerned about that. That's why I'm not convinced about either Liquid Democracy or Direct Democracy yet.",
 			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1476734316",
 			"date_added": 1477191288
+		},
+		{
+			"comment_id": 27,
+			"body": "Hi! I'm here to talk :) ZeroNet is probably a bit confusing at first but you'll get used to it. Be sure to use [ZeroMePlus](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6) instead because it has a few more features you might appreciate - like the ability to flag spam and block unwanted people.",
+			"post_uri": "17ac9ybVj5CtUpBvi5NeP1EwNZjfJoZWvt_1478290463",
+			"date_added": 1478320935
+		},
+		{
+			"comment_id": 28,
+			"body": "Just like twitter.",
+			"post_uri": "15ug5RbSdRTRBRKcXyhsqpTMKp89FTn9uX_1478313939",
+			"date_added": 1478321589
+		},
+		{
+			"comment_id": 29,
+			"body": "Hi!",
+			"post_uri": "13Jo6eFeig3usqrZvDVvYychPecgRV3cu7_1478747731",
+			"date_added": 1478747758
 		}
 	],
 	"follow": [
@@ -295,6 +321,13 @@
 			"auth_address": "1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi",
 			"user_name": "Eibriel",
 			"date_added": 1478032077
+		},
+		{
+			"follow_id": 15,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "17ac9ybVj5CtUpBvi5NeP1EwNZjfJoZWvt",
+			"user_name": "Binero",
+			"date_added": 1478320995
 		}
 	],
 	"settings": {
@@ -305,7 +338,11 @@
 	},
 	"blocked": [
 		"1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY",
-		"1MdwjTFbwpWCLfyo2ZjeXzB7DbL7euNPBi"
+		"1MdwjTFbwpWCLfyo2ZjeXzB7DbL7euNPBi",
+		"1aKE86erdBaK2dKXd6uLEXbn2GBoptohG",
+		"1M5S5iwDzmj3yvzaf753c9qDckz3Vx5Qxo",
+		"1NQvmcUkean3BWS9N88P9dKYnP1TAB5kHz",
+		"1JVtiH7RA45sc7efV5Xdpai4gwUvHm18fm"
 	],
 	"flags": {},
 	"comment_like": {}
