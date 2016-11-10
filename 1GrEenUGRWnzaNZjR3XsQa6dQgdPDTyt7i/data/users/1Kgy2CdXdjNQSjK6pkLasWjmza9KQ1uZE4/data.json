@@ -1,7 +1,7 @@
 {
 	"next_post_id": 7,
 	"next_comment_id": 4,
-	"next_follow_id": 6,
+	"next_follow_id": 8,
 	"avatar": "jpg",
 	"user_name": "Linxon",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -20,7 +20,8 @@
 		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476493035": 1476590564,
 		"1NS9qMabhcMJpQqeqeFy14j3z9DkqNCWzS_1476569063": 1476590625,
 		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477181232": 1477295865,
-		"1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478617787": 1478756650
+		"1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478617787": 1478756650,
+		"1NHR4Gdv1dVLZS5HRwY6aJWfngk9jCLF87_1478705888": 1478781885
 	},
 	"comment": [
 		{
@@ -70,6 +71,13 @@
 			"auth_address": "13ZwzXj9cMRF9AZirKm5nk1enWWS9hHRw8",
 			"user_name": "Minko",
 			"date_added": 1476682529
+		},
+		{
+			"follow_id": 7,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC",
+			"user_name": "Firebox",
+			"date_added": 1478781727
 		}
 	],
 	"settings": {
