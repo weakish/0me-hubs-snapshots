@@ -1,0 +1,34 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 2,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "3f",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1478668110,
+			"body": "Hello World!"
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Border0464fred: Hello! :)",
+			"post_uri": "194s76UVb14yWQdUm5p3tNhBGUtPUKb4RH_1",
+			"date_added": 1478750674
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "194s76UVb14yWQdUm5p3tNhBGUtPUKb4RH",
+			"user_name": "3f",
+			"date_added": 1478668183
+		}
+	]
+}

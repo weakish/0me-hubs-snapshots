@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 83,
+	"next_comment_id": 85,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -493,6 +493,18 @@
 			"body": "@怡红院: 我觉得大规律是通过社工手段或者临侦手段的，媒体的新闻都不太准，你看媒体说的从来只知道查 IP 地址一个方法，为了以后侦查的方便相关机关也不会透露是怎么找到的。我认为出口节点是蜜罐的作用也是有限的，因为蜜罐节点只能看见你的数据，并不能看见你的 IP ，所以如果数据里不包含相关个人身份信息就很难查到，要是中转节点都是钓鱼节点倒是可以查到，但是要发生这种情况要控制一大块 Tor 节点才行，不太容易。但是如果在暗网使用表网一样的用户名，或者在里面泄露了相关信息，那么很容易就能知道你的身份了，以前还看到过有人在 .onion 网站晒日志暴露身份的。还有就是像现在的 QQ 啊迅雷啊都会加载自己的驱动（内核权限），这样一来即使你用 Tor Browser 也可以在里面插点东西，更别说之前真的看到有很多人使用猎豹浏览器甚至 360 安全浏览器来访问 .onion 网站。从服务器角度来看的话，其实你的 .onion 网站如果放在主机商的 VPS 上都不太安全，因为你支付时总会透露你的一些个人信息（别提比特币，比特币并没有专门设计用来匿名），而主机商一般是对 VPS 上的内容有监控的，所以根本不需要顺着 Tor 的连接找到你你就暴露了。",
 			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1478689101",
 			"date_added": 1478734131
+		},
+		{
+			"comment_id": 83,
+			"body": "@Lovelychian: 没有必要，毕竟没儿童色情啥的。管不过来。",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1478689101",
+			"date_added": 1478753225
+		},
+		{
+			"comment_id": 84,
+			"body": "好像 ZeroMe 是不用的，而且也没“DISTRIBUTE FILES”这个选项。",
+			"post_uri": "1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA_1478752143",
+			"date_added": 1478753485
 		}
 	],
 	"flags": {

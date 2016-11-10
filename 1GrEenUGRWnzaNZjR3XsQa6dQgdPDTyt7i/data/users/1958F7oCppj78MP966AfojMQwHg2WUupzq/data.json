@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 79,
+	"next_comment_id": 81,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -472,6 +472,18 @@
 			"body": "@猫叉酱: BAE 这种貌似已经类似于轻量化虚拟机了，可以试试。",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478663518",
 			"date_added": 1478680292
+		},
+		{
+			"comment_id": 79,
+			"body": "@HelloArch: 由于 Freenet 使用了 Java 自带的安全机制，而美国限制了高强度加密产品的出口，所以 Freenet 官网上说好像可以给 Java 打个补丁来增加安全性。",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1478748325",
+			"date_added": 1478753614
+		},
+		{
+			"comment_id": 80,
+			"body": "@猫叉酱: 我觉得 Freenet 的效率差不是主要不是因为 Java ，而是网络结构上就要进过多次中转来获得匿名性，而且不想 ZeroNet 那样预先获取订阅的内容，还有 Freenet 在本机存储的数据默认自带加密。而 ZeroNet 节点间如果不使用 Tor 是默认直接连接的，内容是预取的，想要存储数据加密也要自己使用加密工具，所以开销小了许多。",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1478748325",
+			"date_added": 1478753944
 		}
 	],
 	"flags": {},
