@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 80,
+	"next_comment_id": 83,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -475,6 +475,24 @@
 			"body": "迅雷打算把你的电脑当作 CDN 啊！就像我们搞 ZeroNet 一样。参见：http://xycdn.com/",
 			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478671065",
 			"date_added": 1478676853
+		},
+		{
+			"comment_id": 80,
+			"body": "@西木野真姬: 然而 ZeroNet 目前也是通过 Tor 来实现匿名性。放表网的好处是可以通过设置权限来敛财，.onion 可以看作表网的结构，不过是传输层加了层混淆，如果使用 Freenet 或者 ZeroNet ，那么现在来看传播不太好控制，最多加个密码，密码被传开的成本过低，而且 Freenet 要实现上传文件的门槛不低。还有其实这几年表网上的儿童色情网站真的少了，以前随便找找就一大堆。",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1478689101",
+			"date_added": 1478732831
+		},
+		{
+			"comment_id": 81,
+			"body": "@P2pwave: 你一定要知道 ZeroNet 在不启用 Tor 的情况下匿名性是很弱的，没有专门考虑，而且目前 ZeroNet 并没有过滤 ZeroNet 的元素，如果启用 Tor 也要注意，规避方法是最好用 Tor Browser 保证 ZeroNet 外的元素也走 Tor ，或者干脆访问 ZeroNet 时屏蔽外部元素。",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1478689101",
+			"date_added": 1478733362
+		},
+		{
+			"comment_id": 82,
+			"body": "@怡红院: 我觉得大规律是通过社工手段或者临侦手段的，媒体的新闻都不太准，你看媒体说的从来只知道查 IP 地址一个方法，为了以后侦查的方便相关机关也不会透露是怎么找到的。我认为出口节点是蜜罐的作用也是有限的，因为蜜罐节点只能看见你的数据，并不能看见你的 IP ，所以如果数据里不包含相关个人身份信息就很难查到，要是中转节点都是钓鱼节点倒是可以查到，但是要发生这种情况要控制一大块 Tor 节点才行，不太容易。但是如果在暗网使用表网一样的用户名，或者在里面泄露了相关信息，那么很容易就能知道你的身份了，以前还看到过有人在 .onion 网站晒日志暴露身份的。还有就是像现在的 QQ 啊迅雷啊都会加载自己的驱动（内核权限），这样一来即使你用 Tor Browser 也可以在里面插点东西，更别说之前真的看到有很多人使用猎豹浏览器甚至 360 安全浏览器来访问 .onion 网站。从服务器角度来看的话，其实你的 .onion 网站如果放在主机商的 VPS 上都不太安全，因为你支付时总会透露你的一些个人信息（别提比特币，比特币并没有专门设计用来匿名），而主机商一般是对 VPS 上的内容有监控的，所以根本不需要顺着 Tor 的连接找到你你就暴露了。",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1478689101",
+			"date_added": 1478734131
 		}
 	],
 	"flags": {
