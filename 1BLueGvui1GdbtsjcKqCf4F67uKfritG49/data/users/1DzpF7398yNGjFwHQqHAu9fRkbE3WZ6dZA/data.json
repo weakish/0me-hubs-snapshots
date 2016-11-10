@@ -1,6 +1,6 @@
 {
-	"next_post_id": 7,
-	"next_comment_id": 16,
+	"next_post_id": 8,
+	"next_comment_id": 17,
 	"next_follow_id": 2,
 	"avatar": "generate",
 	"user_name": "P2pwave",
@@ -29,6 +29,11 @@
 			"body": "我找到一种方法来自动显示Zerome的图片，无需点击“显示图像”。\n只需为Zerome hubs和http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Home 设置一个较大的SIZE LIMIT（网站大小限制）和DISTRIBUTE FILES（分发文件） 即可\n然后点击更新，等待一段时间，Zerome的图片就会自动显示。",
 			"date_added": 1478752137,
 			"meta": "{\"img\":\"516,700,222653322332432232243434ed5984333883873,001232000400000555550000000060000000000000000000037777892A300001BC0000\"}"
+		},
+		{
+			"post_id": 1478754571,
+			"body": "Zerome should support one more pictures uploaded!\nAnd not just pictures,videos,files etc should be supported!",
+			"date_added": 1478754564
 		}
 	],
 	"post_like": {
@@ -124,6 +129,12 @@
 			"body": "@Lmath: 那就设置一个较大的SIZE LIMIT吧！",
 			"post_uri": "1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA_1478752143",
 			"date_added": 1478753725
+		},
+		{
+			"comment_id": 16,
+			"body": "@Lmath: 我觉得还是要用像体验Twitter一样，所有用户的图片都能够自动显示。到时候网站大小限制满了后，应该会自动覆盖吧？",
+			"post_uri": "1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA_1478752143",
+			"date_added": 1478756830
 		}
 	],
 	"follow": [
