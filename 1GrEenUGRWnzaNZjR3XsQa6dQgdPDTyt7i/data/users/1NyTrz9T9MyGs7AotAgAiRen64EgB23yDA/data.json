@@ -240,20 +240,6 @@
 			"date_added": 1477640307
 		},
 		{
-			"follow_id": 30,
-			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-			"auth_address": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5",
-			"user_name": "莱文倩",
-			"date_added": 1478073441
-		},
-		{
-			"follow_id": 31,
-			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-			"auth_address": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5",
-			"user_name": "莱文倩",
-			"date_added": 1478079622
-		},
-		{
 			"follow_id": 32,
 			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 			"auth_address": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS",
@@ -288,7 +274,9 @@
 		"mute_spam": false,
 		"mute_blocked": false
 	},
-	"blocked": [],
+	"blocked": [
+		"1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5"
+	],
 	"flags": {},
 	"comment_like": {}
 }
