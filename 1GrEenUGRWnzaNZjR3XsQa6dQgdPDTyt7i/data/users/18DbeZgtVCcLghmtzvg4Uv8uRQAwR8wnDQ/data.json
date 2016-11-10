@@ -1,6 +1,6 @@
 {
 	"next_post_id": 8,
-	"next_comment_id": 24,
+	"next_comment_id": 25,
 	"next_follow_id": 12,
 	"avatar": "jpg",
 	"user_name": "Jro",
@@ -142,6 +142,12 @@
 			"body": "Decentralization and impossible to shutdown. There are NO privacy in here. Everything is public and unencrypted unless site developers has chosen to encrypt.",
 			"post_uri": "15PZT6SDb3xX38PYQC5LH6NNWu7jD74KP2_1476819218",
 			"date_added": 1476848531
+		},
+		{
+			"comment_id": 24,
+			"body": "Workaround: cat lib/*.js > all.js",
+			"post_uri": "18DbeZgtVCcLghmtzvg4Uv8uRQAwR8wnDQ_1478784386",
+			"date_added": 1478787289
 		}
 	],
 	"follow": [
