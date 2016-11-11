@@ -1,5 +1,5 @@
 {
-	"next_post_id": 80,
+	"next_post_id": 81,
 	"next_comment_id": 130,
 	"next_follow_id": 219,
 	"avatar": "jpg",
@@ -331,6 +331,11 @@
 			"post_id": 1478713917,
 			"body": "If you haven't seen the series Westworld, please do! http://www.imdb.com/title/tt0475784/",
 			"date_added": 1478713838
+		},
+		{
+			"post_id": 1478875191,
+			"body": "How can I prevent IPFS from connecting to, say, IPv4 _at all_?\nEven if I tell IPFS to listen on IPv6 _only_, it happily connects to any and all IPv4 addresses it hears about.\nCan I e.g. tell it to listen to a certain _interface_ only, rather than certain IP addresses?\nOther solutions?",
+			"date_added": 1478875111
 		}
 	],
 	"post_like": {
