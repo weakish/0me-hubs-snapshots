@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 105,
+	"next_comment_id": 107,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -600,7 +600,7 @@
 		},
 		{
 			"comment_id": 100,
-			"body": "又是发完图就关节点跑了么？表示没有节点看不到图。",
+			"body": "又是发完图就关节点跑了么？~~表示没有节点看不到图。~~",
 			"post_uri": "1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA_1478834491",
 			"date_added": 1478835688
 		},
@@ -627,6 +627,18 @@
 			"body": "@Kha: Freenet 的节点发现机制不错，只是它的 UPnP 插件比较坑，经常端口映射失败，又不提示用户手工开放端口，Firechat 的网络结构我觉得能传输的信息带宽很小。",
 			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1478795615",
 			"date_added": 1478850475
+		},
+		{
+			"comment_id": 105,
+			"body": "@深夜海钓核潜艇: 因为现在在大家都能连上的情况下，没几个人会去手工加一个 tracker 。",
+			"post_uri": "1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA_1478839325",
+			"date_added": 1478853863
+		},
+		{
+			"comment_id": 106,
+			"body": "@自由之潮 P2pwave: 不要太担心，DHT 是在 ZeroNet 的开发计划中的。",
+			"post_uri": "1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA_1478839325",
+			"date_added": 1478853939
 		}
 	],
 	"flags": {

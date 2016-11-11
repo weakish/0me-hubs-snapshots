@@ -5,8 +5,8 @@
  "cert_user_id": "p2pwave@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "d632348040200368b5626b99abf53971099092ccdde5bbce8d301e5ad543029b",
-   "size": 10464
+   "sha512": "ba5a5834e8a7fb1789e34e50e1fe42c0cba8d9b4328dafd3e887f8b4e2b58b00",
+   "size": 10680
   }
  },
  "files_optional": {
@@ -36,9 +36,9 @@
   }
  },
  "inner_path": "data/users/1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA/content.json",
- "modified": 1478843424.857,
+ "modified": 1478852393.686,
  "optional": "(?!avatar).*jpg",
  "signs": {
-  "1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA": "HBn6z1mUEWFxxStwp5ViGxTeDynLGuUSpCRH3ec+Gncp7lLcGqlrAziGmR8Ju+FCGR1WX0Rg2kJ2GIpybu7Ucr0="
+  "1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA": "HMY/mRiqnrf1jrV5VQ1A+09CDJY+webEm1Rt0/bfGJfwldeDqCkySc+znF5+yEo7S5Zk+gry+bPYpM1lLHAwXHE="
  }
 }

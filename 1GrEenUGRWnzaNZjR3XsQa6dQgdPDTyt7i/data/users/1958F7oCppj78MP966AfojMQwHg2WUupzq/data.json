@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 104,
+	"next_comment_id": 106,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -623,6 +623,18 @@
 			"body": "将图片转换成 base64 地址，然后插在内容中，由于 base64 编码的原因，体积占用更大。",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478848590",
 			"date_added": 1478849464
+		},
+		{
+			"comment_id": 104,
+			"body": "@西木野真姬: 首先 tar 和 gz 是两个东西，tar 是打包工具，gz 才是压缩工具，然后常见的 JPEG 与 PNG 等格式已经经过压缩，二次压缩意义不大而占用计算资源。\n如果你说的是 base64 ，由于本身有冗余，是可以压缩一下。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478848590",
+			"date_added": 1478853348
+		},
+		{
+			"comment_id": 105,
+			"body": "@莱文倩: 一般来说男孩的那种还是比较少关注哈！",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1478836269",
+			"date_added": 1478853662
 		}
 	],
 	"flags": {},
