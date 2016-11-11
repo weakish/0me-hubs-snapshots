@@ -5,13 +5,20 @@
  "cert_user_id": "eosphor@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "c6d7fc12068826dea04fe506e7aca90ef0bfc077fc87a0f54897e92c328f8f7e",
-   "size": 432
+   "sha512": "3f8a48d9401196fdcfdd036cfb08b6c778b5d74d9a9630883b6ebf05a57ee1e1",
+   "size": 641
+  }
+ },
+ "files_optional": {
+  "1478825082.jpg": {
+   "sha512": "c5a5608fd7dba9abefc7c3c4af1589055087e3edc6f9a364aff5ccd993650c0f",
+   "size": 68242
   }
  },
  "inner_path": "data/users/1789XcRxNBxCsCTWFhhGsbmjrmg4XX4QPL/content.json",
- "modified": 1471820318.847484,
+ "modified": 1478825079.529499,
+ "optional": "(?!avatar).*jpg",
  "signs": {
-  "1789XcRxNBxCsCTWFhhGsbmjrmg4XX4QPL": "G7hgHyE0lpc4q0+Yb7bB2RiLdYTOgUP5j34Iw6E2U4TuGF4ZDI9cc3kLJQ58th/QL+AEKK9tTqVJH7GEZEIoDC0="
+  "1789XcRxNBxCsCTWFhhGsbmjrmg4XX4QPL": "G6HyvkjEN2MdTHzYCH1zthiBpeVT2VsGWxnk046whCRyhhZYT8m/Pvii7X8YSI2C6b8wSv9EgfiBK5ZoQSrk2es="
  }
 }
