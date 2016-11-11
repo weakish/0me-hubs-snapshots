@@ -1,6 +1,6 @@
 {
-	"next_post_id": 64,
-	"next_comment_id": 208,
+	"next_post_id": 67,
+	"next_comment_id": 211,
 	"next_follow_id": 57,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
@@ -315,6 +315,21 @@
 			"post_id": 1478865377,
 			"body": "Termux is not convinent enough to run ZeroNet:\n1.`apt install python`will install python3, no version 2.7\n2.Package for python2.7 is `python2`\n3.no easy-install\n4.no gcc",
 			"date_added": 1478865314
+		},
+		{
+			"post_id": 1478871447,
+			"body": "很好，zeronet的相关文件都在storage里，就是nginx还在data里面，不好配置（我不会用vi）",
+			"date_added": 1478871383
+		},
+		{
+			"post_id": 1478871532,
+			"body": "其实我没学过js，css，更没学过linux，python，折腾Zeronet这一个月我学到的东西真他喵的多",
+			"date_added": 1478871467
+		},
+		{
+			"post_id": 1478871741,
+			"body": "我擦，我在手机浏览器里面成功拉出了隐藏菜单，内核是Chrome 46",
+			"date_added": 1478871675
 		}
 	],
 	"post_like": {
@@ -1564,6 +1579,24 @@
 			"body": "@Zanity: no pip",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478865377",
 			"date_added": 1478868517
+		},
+		{
+			"comment_id": 208,
+			"body": "@P2P: 你说得对，装好后占了517M的空间",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478865377",
+			"date_added": 1478869467
+		},
+		{
+			"comment_id": 209,
+			"body": "@Rainlime: 暴政醒悟人民",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478871532",
+			"date_added": 1478872537
+		},
+		{
+			"comment_id": 210,
+			"body": "@Rainlime: \n@MilitaryRiotLab: \n@Cxgreat2014: 配置好了，我用的是RE浏览器的编辑器",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478871447",
+			"date_added": 1478872604
 		}
 	],
 	"follow": [

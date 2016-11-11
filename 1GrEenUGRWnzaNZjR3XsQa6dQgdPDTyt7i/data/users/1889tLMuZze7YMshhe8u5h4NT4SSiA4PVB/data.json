@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 8,
+	"next_comment_id": 9,
 	"user_name": "Zanity",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {
@@ -52,6 +52,12 @@
 			"body": "@猫叉酱: Doesn't ```pip2 install <package>``` work?",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478865377",
 			"date_added": 1478868291
+		},
+		{
+			"comment_id": 8,
+			"body": "@猫叉酱: Isn't pip available for Termux? ```apt install python-pip``` should install pip",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478865377",
+			"date_added": 1478870176
 		}
 	]
 }
