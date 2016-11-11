@@ -1,16 +1,21 @@
 {
-	"next_post_id": 2,
+	"next_post_id": 3,
 	"next_comment_id": 1,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Yolt",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"intro": "Random ZeroNet user",
+	"intro": "My [blog](http://127.0.0.1:43110/1HEF5H6reZNUwqeKcEWGLwraRWAzXPzJ1M/)\nReally enthusiastic about Zeronet!",
 	"post": [
 		{
 			"post_id": 1,
 			"date_added": 1478788409,
 			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1478868335,
+			"body": "Hey there, how knows about [LQDN?](https://www.laquadrature.net/) They [need our help](https://soutien.laquadrature.net/) for their great job!",
+			"date_added": 1478868333
 		}
 	],
 	"post_like": {},

@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 94,
+	"next_comment_id": 96,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -576,6 +576,18 @@
 			"body": "@Nassau: 会不会对比特币进一步打压？例如端掉或者限制交易平台",
 			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478831311",
 			"date_added": 1478865352
+		},
+		{
+			"comment_id": 94,
+			"body": "@Kha: 墙内有公网IP的ZeroNet节点能配置成bootstrapper啊，墙内其他节点再以这些bootstrapper来引导（通过设定启动参数）。0.5版的zeronet好像会保存节点信息到硬盘了，下次启动不需要引导也能连上部分节点。",
+			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1478795615",
+			"date_added": 1478865765
+		},
+		{
+			"comment_id": 95,
+			"body": "搞移动端APP",
+			"post_uri": "1MCxA3K1czJ7TpjBXAT9DSFJEXhMJ1ifBu_1478865941",
+			"date_added": 1478868204
 		}
 	],
 	"flags": {},

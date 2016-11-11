@@ -1,6 +1,6 @@
 {
-	"next_post_id": 3,
-	"next_comment_id": 5,
+	"next_post_id": 6,
+	"next_comment_id": 10,
 	"next_follow_id": 1,
 	"avatar": "jpg",
 	"user_name": "深夜海钓核潜艇",
@@ -16,6 +16,21 @@
 			"post_id": 1478841780,
 			"body": "大家好，这里很像 weibo 呀",
 			"date_added": 1478841778
+		},
+		{
+			"post_id": 1478865679,
+			"body": "有没有一种用户之间端口撮合机制，当网络端口43110被封住了，用户之间也可以撮合协议达到动态选择最佳端口互联，这样也就避免了大规模封堵目标端口的事件发生了\n",
+			"date_added": 1478865676
+		},
+		{
+			"post_id": 1478865941,
+			"body": "现在新用户想用zeronet的成本挺高的，很难逾越那个山峰了，就我们这些人在呵呵的聊天，，，，，还有什么简单的得到zeronet客户端的方法吗?",
+			"date_added": 1478865937
+		},
+		{
+			"post_id": 1478868486,
+			"body": "【小心！女子吃糖炒栗子，刚放进嘴就炸了[衰]】4日，浙江海宁的沈女士拿了一个刚出锅的板栗放嘴里咬，不料栗子炸了！栗子肉碎成粉末，所幸沈女士伤势不重。",
+			"date_added": 1478868481
 		}
 	],
 	"post_like": {
@@ -45,6 +60,36 @@
 			"body": "那为什么不去弄呀，等封了，再弄是不是太晚了呀",
 			"post_uri": "1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA_1478839325",
 			"date_added": 1478843104
+		},
+		{
+			"comment_id": 5,
+			"body": "@Cxgreat2014: 你这个方法只是一时的，也是要被封的，就没有一种分布式升级法呢？",
+			"post_uri": "1MCxA3K1czJ7TpjBXAT9DSFJEXhMJ1ifBu_1478865941",
+			"date_added": 1478867362
+		},
+		{
+			"comment_id": 6,
+			"body": "就没人关心ISP未来大规模封堵43110特征端口吗？  依靠依赖一个端口是非常脆弱的",
+			"post_uri": "1MCxA3K1czJ7TpjBXAT9DSFJEXhMJ1ifBu_1478865679",
+			"date_added": 1478867542
+		},
+		{
+			"comment_id": 7,
+			"body": "@西木野真姬: 一套到目前为止不太可能被特征的加密算法！ 在加上“用户间端口撮合机制”",
+			"post_uri": "1MCxA3K1czJ7TpjBXAT9DSFJEXhMJ1ifBu_1478865679",
+			"date_added": 1478868633
+		},
+		{
+			"comment_id": 8,
+			"body": "@P2P: 移动端APP对传播是有利的，多了一个选择，至少APP下载平台很多。",
+			"post_uri": "1MCxA3K1czJ7TpjBXAT9DSFJEXhMJ1ifBu_1478865941",
+			"date_added": 1478868717
+		},
+		{
+			"comment_id": 9,
+			"body": "@Militaryriotlab: 难道開發者 就一个人吗，不是一个小组和社区吗，单靠一个人开发一个平行网络，这个好像有点像登月呀，他大可以组建社区开发呀",
+			"post_uri": "1MCxA3K1czJ7TpjBXAT9DSFJEXhMJ1ifBu_1478865679",
+			"date_added": 1478868936
 		}
 	],
 	"follow": []

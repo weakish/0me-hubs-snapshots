@@ -1,7 +1,7 @@
 {
-	"next_post_id": 34,
+	"next_post_id": 35,
 	"next_comment_id": 125,
-	"next_follow_id": 126,
+	"next_follow_id": 131,
 	"avatar": "jpg",
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -172,6 +172,11 @@
 			"post_id": 1478664884,
 			"body": "川普拿下很多关键州，胜选无悬念了。川普当总统，我心理真是要适应一下。",
 			"date_added": 1478664851
+		},
+		{
+			"post_id": 1478866453,
+			"body": "最新版的Rev1703已经支持各zite自定义网站图标favicon，zerome已经换了新favicon，如果升级了zeronet就能看到。 https://github.com/HelloZeroNet/ZeroNet/commits/master\nhttps://github.com/HelloZeroNet/ZeroMe/commits/master",
+			"date_added": 1478866419
 		}
 	],
 	"post_like": {
@@ -1792,6 +1797,41 @@
 			"auth_address": "1DiBurSdqEiCRkakrWMtemNZeXj6F1MLkS",
 			"user_name": "Lengchenyang1",
 			"date_added": 1478758212
+		},
+		{
+			"follow_id": 126,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1MCxA3K1czJ7TpjBXAT9DSFJEXhMJ1ifBu",
+			"user_name": "深夜海钓核潜艇",
+			"date_added": 1478842999
+		},
+		{
+			"follow_id": 127,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1Hj5otUqQHcxxctK92dVCzhZQSM8p2xKUy",
+			"user_name": "Coder",
+			"date_added": 1478843864
+		},
+		{
+			"follow_id": 128,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1D6JTFd6et7AMotZSjcc9eaBbWKQRMiiC4",
+			"user_name": "Sqbing",
+			"date_added": 1478844430
+		},
+		{
+			"follow_id": 129,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1E6DXcJ5sugwGvTjQxgdF5GoV5xJS1Zd24",
+			"user_name": "Flowerish",
+			"date_added": 1478865137
+		},
+		{
+			"follow_id": 130,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "14T3eLC8AxBjjWsyq6SDKKHXxA1ZLEPxo1",
+			"user_name": "Inroot",
+			"date_added": 1478866477
 		}
 	],
 	"settings": {
