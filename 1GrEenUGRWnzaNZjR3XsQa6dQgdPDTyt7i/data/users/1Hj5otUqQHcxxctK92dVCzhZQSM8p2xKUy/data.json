@@ -1,6 +1,6 @@
 {
 	"next_post_id": 4,
-	"next_comment_id": 2,
+	"next_comment_id": 3,
 	"next_follow_id": 1,
 	"avatar": "jpg",
 	"user_name": "Coder",
@@ -30,6 +30,12 @@
 			"body": "杜绝！",
 			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1478836269",
 			"date_added": 1478836536
+		},
+		{
+			"comment_id": 2,
+			"body": "@Lmath: 对base64进行gzip压缩一下呢？",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478848590",
+			"date_added": 1478856773
 		}
 	],
 	"follow": []
