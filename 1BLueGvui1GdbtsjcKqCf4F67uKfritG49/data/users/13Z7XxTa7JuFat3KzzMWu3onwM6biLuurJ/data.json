@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 87,
+	"next_comment_id": 89,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -533,6 +533,18 @@
 			"body": "@怡红院: 你连不上网的情况，首先要仔细看编程随想的教程，对照检查各项设置。实在不行原博文下的评论区看看，或许能找到解决线索。",
 			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478766144",
 			"date_added": 1478828600
+		},
+		{
+			"comment_id": 87,
+			"body": "@Nassau: 是要小心。如果按照编程随想说的做法去做，就能防范绝大多数攻击了。本身如果不是高价值目标，就没必要担心APT这种定点攻击。至于造价值，技侦跟审讯往往不是同一个人，之后还经过检察院、法院，所以捏造出来的价值可能会露出破绽，造价值的可能性不大。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478766144",
+			"date_added": 1478842931
+		},
+		{
+			"comment_id": 88,
+			"body": "@Nekocross: 在启动参数里指定现有的tracker，应该就行了，不需要额外部署。tracker是大家都用相同的几个才有意义的，否则只有你自己到某个tracker自嗨没意义。其他常识，请看中文论坛首页FAQ",
+			"post_uri": "1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA_1478839325",
+			"date_added": 1478843679
 		}
 	],
 	"flags": {},
