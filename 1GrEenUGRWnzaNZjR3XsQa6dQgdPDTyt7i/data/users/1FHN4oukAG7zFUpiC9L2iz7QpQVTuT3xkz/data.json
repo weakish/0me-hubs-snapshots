@@ -1,5 +1,5 @@
 {
-	"next_post_id": 63,
+	"next_post_id": 64,
 	"next_comment_id": 203,
 	"next_follow_id": 55,
 	"avatar": "jpg",
@@ -310,6 +310,11 @@
 			"post_id": 1478774513,
 			"body": "在我看来，希拉里和川普二人都不配当总统，很难分出谁更不配。然而广大墙内人民别忘了，这二位并没有差到哪里去。希拉里勾结绿教，却没有让受害者无处伸张正义；川普歧视女性，却没有将女人拴在家里（甚至在他的《飞黄腾达》之中，相当比例的获胜者是女性）。希拉里将反对她的官员灭口，而没有屠杀百姓；川普要修墙阻止非法移民，但没有要修GFW阻止人民获取真相。现在一群墙民看到川普当选或为美国人民默哀，或嘲笑美国民主不靠谱，却从来不思考一下自己处在什么样的境地中。",
 			"date_added": 1478774451
+		},
+		{
+			"post_id": 1478865377,
+			"body": "Termux is not convinent enough to run ZeroNet:\n1.`apt install python`will install python3, no version 2.7\n2.Package for python2.7 is `python2`\n3.no easy-install\n4.no gcc",
+			"date_added": 1478865314
 		}
 	],
 	"post_like": {
