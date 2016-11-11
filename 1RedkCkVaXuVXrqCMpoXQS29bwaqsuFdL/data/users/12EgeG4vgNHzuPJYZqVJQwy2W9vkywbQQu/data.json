@@ -1,6 +1,6 @@
 {
-	"next_post_id": 18,
-	"next_comment_id": 66,
+	"next_post_id": 19,
+	"next_comment_id": 68,
 	"next_follow_id": 14,
 	"avatar": "png",
 	"user_name": "PaintNinja",
@@ -91,6 +91,11 @@
 			"post_id": 1478633137,
 			"body": "*Cross-compatibility* with [NinjaBeats](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html): All Bwoi Music links \"just work\" on NinjaBeats - just copy the ID and paste it into NinjaBeats. The autoplay option is also supported on NinjaBeats, except that you put `&autoplay=no` rather than `&autoplay=0`.\n\nOn top of that, NinjaBeats and Bwoi Music peers still seed content with each-other as if they were both on the same service, further promoting freedom of choice.",
 			"date_added": 1478633120
+		},
+		{
+			"post_id": 1478890231,
+			"body": "*Basic playlist support* now on [NinjaBeats](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html): Share an album of photos with your family, a compilation of your favourite music with your friends and more.\n\nTo make a playlist on NinjaBeats, separate your IDs with a comma and put \"?playlistIDs=\" instead of just \"?ID=\". Additionally, put \"&track=\" to choose which ID in the list is played.\n\nExample: http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html?playlistIDs=4af525066b62ab54732155523dd1ecb73acd9102,e76ea4d9ef6f4b3c4cbbb3f814e457933dbc26e6,df0407738c27663941efd5a1b897b3dbd9b06ce5&track=3\n\nThere's 3 seeds on that example link, each separated by a comma. At the end of the link, the track number specifies which seed to play. Playlist support is currently considered basic as you have to manually switch to the next track.",
+			"date_added": 1478890213
 		}
 	],
 	"post_like": {
@@ -512,6 +517,18 @@
 			"body": "@Juansantiago: Usas el mismo formato y el cliente se detecta automáticamente el tipo de contenido. :)",
 			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1478551863",
 			"date_added": 1478725349
+		},
+		{
+			"comment_id": 66,
+			"body": "@Technoshaman777: No record is kept on what is seeded - not even a counter how many seeds have been made so far (although thinking about it, it could be interesting for statistical purposes). Your seeded file(s) are only accessible by people who have the infohash or your share link.",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1478551863",
+			"date_added": 1478888683
+		},
+		{
+			"comment_id": 67,
+			"body": "@Border0464fred: It's okay, I'm fine with any question related to NinjaBeats.\nAs NinjaBeats is hosted on ZeroNet, I don't need a CDN because every visitor is a seeder so obviously I don't use Cloudflare. ;)",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1478633137",
+			"date_added": 1478890419
 		}
 	],
 	"follow": [
