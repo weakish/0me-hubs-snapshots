@@ -1,6 +1,6 @@
 {
 	"next_post_id": 20,
-	"next_comment_id": 71,
+	"next_comment_id": 73,
 	"next_follow_id": 14,
 	"avatar": "png",
 	"user_name": "PaintNinja",
@@ -552,6 +552,18 @@
 			"body": "@Border0464fred: As for CDNs on ZeroNet, I am aware of one on ZeroNet however it's aim is to reduce duplication of a couple of common libraries like jquery across multiple sites in order to save disk space - it does not concern the actual distribution of content any different from normal ZeroNet sites. As NinjaBeats uses plain vanilla js, I can't really use that \"CDN\" ;)",
 			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1478897343",
 			"date_added": 1478897838
+		},
+		{
+			"comment_id": 71,
+			"body": "@Firebox: I am already specifying no-referrer in the head of the audio.html document",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1478897343",
+			"date_added": 1478902251
+		},
+		{
+			"comment_id": 72,
+			"body": "@Border0464fred: setting postmessage_nonce_security to false didn't seem to fix it, so I set it back to true :/",
+			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1478897343",
+			"date_added": 1478903462
 		}
 	],
 	"follow": [

@@ -81,7 +81,7 @@
 		},
 		{
 			"comment_id": 13,
-			"body": "This URL fail:\nhttp://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html?wrapper_nonce=21bc524c7359120cfbd84138a3ef4463b8fec12ba0bd708c629359cbcc5de443?audioFileID=e795562093b4044fb0852e26cb0426fc0bd7cbb8",
+			"body": "This URL fail:\nhttp://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html?wrapper_nonce=21bc524c7359120cfbd84138a3ef4463b8fec12ba0bd708c629359cbcc5de443?audioFileID=e795562093b4044fb0852e26cb0426fc0bd7cbb8\n\nthis one sucess:\nhttp://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html?audioFileID=e795562093b4044fb0852e26cb0426fc0bd7cbb8\n\nlooks like wrapper_nonce is guilty \n\nHave you dried to set false on postmessage_nonce_security  at the bottom of audio.html ",
 			"post_uri": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1478897343",
 			"date_added": 1478901424
 		}
