@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Sqbing",
@@ -14,6 +14,13 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@怡红院: 代理开着的时候，不要登录，以免中间人攻击",
+			"post_uri": "1DiBurSdqEiCRkakrWMtemNZeXj6F1MLkS_1478831013",
+			"date_added": 1478834016
+		}
+	],
 	"follow": []
 }
