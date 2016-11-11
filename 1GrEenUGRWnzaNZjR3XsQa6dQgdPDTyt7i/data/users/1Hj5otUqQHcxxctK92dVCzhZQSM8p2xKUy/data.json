@@ -1,21 +1,24 @@
 {
-	"next_post_id": 2,
+	"next_post_id": 3,
 	"next_comment_id": 1,
-	"next_follow_id": 2,
+	"next_follow_id": 1,
 	"avatar": "generate",
-	"user_name": "Zmgis",
+	"user_name": "Coder",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"intro": "Random ZeroNet user",
 	"post": [
 		{
 			"post_id": 1,
-			"date_added": 1478825515,
+			"date_added": 1478826310,
 			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1478826505,
+			"body": "光棍节快乐。。。",
+			"date_added": 1478826503
 		}
 	],
-	"post_like": {
-		"13KqC9pBAm5QXhggc2qe6HQwFzMqLEAGig_1": 1478825686
-	},
+	"post_like": {},
 	"comment": [],
 	"follow": []
 }
