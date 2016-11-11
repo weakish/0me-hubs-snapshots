@@ -1,0 +1,24 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "Gzz51cWGOcDS4NiuGq8ZSp9pJjRq63lSXy5SQpjZ+INyKt/oxcaGNi+tnR7xN6m32aHFP3yaw/TCbVk/CCILcvg=",
+ "cert_user_id": "flowerish@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "31bbab6800ca5b4349226a255e1d1316f1f02eb8647caa0b36e4568839415712",
+   "size": 867
+  }
+ },
+ "files_optional": {
+  "1478850735.jpg": {
+   "sha512": "4d80e2eb0278762d399ea8d42e1f08de99e15e61ba35b4a67e4b74ec32146ae4",
+   "size": 51040
+  }
+ },
+ "inner_path": "data/users/1E6DXcJ5sugwGvTjQxgdF5GoV5xJS1Zd24/content.json",
+ "modified": 1478850859.907,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1E6DXcJ5sugwGvTjQxgdF5GoV5xJS1Zd24": "G5dZEaClDOcoFmh1hANraE/Ohn3TLa0G/A/QSZKFf1R6s01jMnztt2/YWbIhN/AdcZUehuBkMtDiHvsPNGoRe2g="
+ }
+}
