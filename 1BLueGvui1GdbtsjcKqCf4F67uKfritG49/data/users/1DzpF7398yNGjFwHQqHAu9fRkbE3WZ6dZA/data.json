@@ -1,6 +1,6 @@
 {
-	"next_post_id": 14,
-	"next_comment_id": 20,
+	"next_post_id": 15,
+	"next_comment_id": 21,
 	"next_follow_id": 3,
 	"avatar": "generate",
 	"user_name": "自由之潮 P2pwave",
@@ -61,6 +61,12 @@
 			"body": "I'LL BE BACK !\n\nhttps://twitter.com/remonwangxt/status/796259751805845504",
 			"date_added": 1478834479,
 			"meta": "{\"img\":\"900,676,eeeddd333000cba555222111cb9665589876aaa766444,00011123331140115667884004926788A848B523C4400156661C4118222204101D733301018D2E26\"}"
+		},
+		{
+			"post_id": 1478839325,
+			"body": "给大家看一下Zeronet的trackers。\n用的工具是Fiddler。\n有志者可以尝试去搭建一个tracker。在墙内搭建tracker应该会很危险，很快就会被端掉。\n更好的是期待Zeronet的DHT和kad出来。这样的话就不怕tracker被墙了，但是可能没有tracker这么高效。",
+			"date_added": 1478839311,
+			"meta": "{\"img\":\"900,486,bbbaaabbaabadddeeefeffffccc,00012111334565444455457544884645758488464575448856\"}"
 		}
 	],
 	"post_like": {
@@ -180,6 +186,12 @@
 			"body": "@Lmath: 没有关啊，我是一直开着的。有着一定的延迟。多刷新等待一下。如果你为hub做种了，速度就会很快的。",
 			"post_uri": "1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA_1478834491",
 			"date_added": 1478835910
+		},
+		{
+			"comment_id": 20,
+			"body": "@Nekocross: 这个不清楚。应该是没有问题的。部署tracker需要一定的技术功底及资金。现在zeronet的tracker就相当于DNS解析一样，zeronet一直不停地跟tracker连接。",
+			"post_uri": "1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA_1478839325",
+			"date_added": 1478839804
 		}
 	],
 	"follow": [
