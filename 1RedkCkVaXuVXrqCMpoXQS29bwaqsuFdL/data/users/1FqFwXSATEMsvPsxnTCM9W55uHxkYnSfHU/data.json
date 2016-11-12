@@ -1,6 +1,6 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 2,
 	"avatar": "generate",
 	"user_name": "A7ic7",
@@ -19,7 +19,14 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Rainlime: 本来想建个基佬黄站的，但是研究了一下想要完全匿名、稳定做种、申请域名什么的还挺麻烦的，还是等别人搞出来我帮忙做种好了……",
+			"post_uri": "1FqFwXSATEMsvPsxnTCM9W55uHxkYnSfHU_1478880051",
+			"date_added": 1478937173
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 1,
