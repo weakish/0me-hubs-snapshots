@@ -5,8 +5,8 @@
  "cert_user_id": "zmgiser@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "00d6392ae55a865e05b714017e29fdb764ecb6c9ebcbcd26e00b459d283cc8f0",
-   "size": 757
+   "sha512": "9e052600b2a3d6025dedd4a8d8a8738885d79b9b979a20d604084082ca5ff480",
+   "size": 1146
   }
  },
  "files_optional": {
@@ -16,9 +16,9 @@
   }
  },
  "inner_path": "data/users/1B9rbo2fbK5YNW2aKBwHsgj9VDyrdEzHJn/content.json",
- "modified": 1478961505.814,
+ "modified": 1478970133.328,
  "optional": "(?!avatar).*jpg",
  "signs": {
-  "1B9rbo2fbK5YNW2aKBwHsgj9VDyrdEzHJn": "G40wxA1RDt9O+bYEWJinf6PUbuFsEGk+qeutPrONpg41FC5lX0DDki96cc7RV1KeSaZKYDaP3JJUYc/fkyHoNr4="
+  "1B9rbo2fbK5YNW2aKBwHsgj9VDyrdEzHJn": "HMTtuedTM3YBVTqONDVNszP7yBlikTO5UfEcB64W1VDjp+iMkqWC2YK//tBck3vXQNd8jInjaVDmJ9YOZlUROTg="
  }
 }
