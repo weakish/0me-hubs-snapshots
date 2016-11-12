@@ -1,6 +1,6 @@
 {
 	"next_post_id": 19,
-	"next_comment_id": 104,
+	"next_comment_id": 105,
 	"next_follow_id": 29,
 	"avatar": "png",
 	"user_name": "Nofish",
@@ -709,6 +709,12 @@
 			"body": "@P2P: animated gifs are huge (1MB-30MB) so it's not realy good for p2p storage/distirbution. mp4 is much smaller (used on giftime) could be possible, but then everyone has to convert it for him/herself",
 			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1478620854",
 			"date_added": 1478944230
+		},
+		{
+			"comment_id": 104,
+			"body": "@P2P: Maybe it's possible with javascript, but the library is huge (30MB) and very slow (takes minutes to convert some second gif)",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1478620854",
+			"date_added": 1478945567
 		}
 	],
 	"follow": [
