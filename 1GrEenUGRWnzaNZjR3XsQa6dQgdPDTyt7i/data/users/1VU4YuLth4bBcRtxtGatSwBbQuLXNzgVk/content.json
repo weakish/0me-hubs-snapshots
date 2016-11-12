@@ -5,13 +5,14 @@
  "cert_user_id": "freedomer@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "afc1dfca4d9eac8a23e552e9d9ed94db34e3fe44c7f222a34991582ebd21e65a",
-   "size": 13692
+   "sha512": "d11a19b88f264592861cf0af2de967448a9b24cc8c1604374e7b0a043ee2b2a5",
+   "size": 14450
   }
  },
  "inner_path": "data/users/1VU4YuLth4bBcRtxtGatSwBbQuLXNzgVk/content.json",
- "modified": 1477317415.33,
+ "modified": 1478929151.779,
+ "optional": "(?!avatar).*jpg",
  "signs": {
-  "1VU4YuLth4bBcRtxtGatSwBbQuLXNzgVk": "G5t/BTBdGg7PIQZ11hAn9NgmokhtqYQEeTHfz6vNo6YoHtKfb38S4VD4PD2g8N3In66a7nSPiJc/JSAtr+fCM8w="
+  "1VU4YuLth4bBcRtxtGatSwBbQuLXNzgVk": "G/7GFeiukGPer3aQao5wUnTaunzJWjsvMtqKlkhrM/sdZ44S9tN7WINsM5/oBZCZiTCPZfvwJuZfZE3NSF/Dorg="
  }
 }
