@@ -1,6 +1,6 @@
 {
 	"next_post_id": 35,
-	"next_comment_id": 132,
+	"next_comment_id": 134,
 	"next_follow_id": 137,
 	"avatar": "jpg",
 	"user_name": "P2P",
@@ -997,6 +997,18 @@
 			"body": "@Lmath: 可能会有。因为有些库作者都不维护了，用这些库的人只能用2。有自动2 to 3 的工具，照理说2 to 3应该很方便，难道是隐藏有很多坑？",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478963408",
 			"date_added": 1478965961
+		},
+		{
+			"comment_id": 132,
+			"body": "@Lmath: python这样折腾，而且放弃向下兼容，主要是为了提升性能吧",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478963408",
+			"date_added": 1478967103
+		},
+		{
+			"comment_id": 133,
+			"body": "@Lmath: 如果是那样就有点瞎折腾了，有些语句强制加对括号，难道不加有歧义？",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478963408",
+			"date_added": 1478969539
 		}
 	],
 	"follow": [

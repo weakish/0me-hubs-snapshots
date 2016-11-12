@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 162,
+	"next_comment_id": 164,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -996,6 +996,18 @@
 			"body": "@深夜海钓核潜艇: Nofish · nofish@zeroid.bit ― 5 hours agoReply\n@P2P: Opened an issue for it: https://discuss.gogs.io/t/mirror-function-stopped-working-on-try-gogs-io/779/1\nBitbucket does not support live git sync as far as i know.\nP2P · p2p@zeroid.bit ― 5 hours agoReply\n@Nofish: https://try.gogs.io/ZeroNet/ZeroNet this mirror is not updated. Some users in China reported that (s)he is not able to update ZeroNet. Gitlab is blocked in some area of China, and gogs mirror is not updated. More mirrors needed? https://bitbucket.org/ is widely used in China.",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478962259",
 			"date_added": 1478965603
+		},
+		{
+			"comment_id": 162,
+			"body": "@深夜海钓核潜艇: 这个问题已经有人跟作者说过，他说如果ZeroNet出现了安全漏洞，必须靠外网更新来安全地修复。否则依靠自身网络来升级，容易被恶意利用。我自己又想了一下，用BT Sync什么的其他P2P网络来升级，或许可以。不过需要另外装软件了 。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478962259",
+			"date_added": 1478966722
+		},
+		{
+			"comment_id": 163,
+			"body": "@深夜海钓核潜艇: PT BT自带验证机制吗？能确保数据不被篡改吗",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478962259",
+			"date_added": 1478967395
 		}
 	],
 	"flags": {},

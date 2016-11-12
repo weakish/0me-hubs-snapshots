@@ -1,7 +1,7 @@
 {
-	"next_post_id": 22,
-	"next_comment_id": 85,
-	"next_follow_id": 35,
+	"next_post_id": 25,
+	"next_comment_id": 86,
+	"next_follow_id": 36,
 	"avatar": "jpg",
 	"user_name": "Mynameislegion",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -111,6 +111,21 @@
 			"post_id": 1475087537,
 			"body": "Hi guys, @Talnicrom: does some great work on #ZeroMePlus with adding new features to ZeroMe : Hashtags, blocking, reverse comment order and more.  Please check out ZeroMePlus on: http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/",
 			"date_added": 1475087516
+		},
+		{
+			"post_id": 1478959244,
+			"body": "Is there any way to find out whether a purchased ebook has watermarking? ",
+			"date_added": 1478959222
+		},
+		{
+			"post_id": 1478959962,
+			"body": "Everyone is losing their minds about IPFS - are some file sharing sites already using it? Is it safer than P2P?",
+			"date_added": 1478959939
+		},
+		{
+			"post_id": 1478960097,
+			"body": "The picture upload feature here could include an EXIF stripper ;)",
+			"date_added": 1478960073
 		}
 	],
 	"post_like": {
@@ -143,7 +158,8 @@
 		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1471946844": 1472250876,
 		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1472296735": 1472347059,
 		"1EZG8eDkCFvNkYxpHmr2WbGWcSxAsRfqTT_1474690450": 1474718000,
-		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1474865123": 1474871285
+		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1474865123": 1474871285,
+		"1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_1478699644": 1478968696
 	},
 	"comment": [
 		{
@@ -625,6 +641,12 @@
 			"body": "I found out that I can now like comments. How cool is that :) I appreciate your hard work",
 			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1475013181",
 			"date_added": 1475087229
+		},
+		{
+			"comment_id": 85,
+			"body": "Nice :)",
+			"post_uri": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_1478699644",
+			"date_added": 1478968702
 		}
 	],
 	"follow": [
@@ -802,6 +824,13 @@
 			"auth_address": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx",
 			"user_name": "ks",
 			"date_added": 1475775546
+		},
+		{
+			"follow_id": 35,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS",
+			"user_name": "ZAlex",
+			"date_added": 1478959977
 		}
 	],
 	"comment_order": 0,
@@ -815,7 +844,8 @@
 	"blocked": [
 		"12uT4vU8m2CkuLW8ymLz5kpAyFQZ3Jj8XH",
 		"1D7FEnVEfqgt5ExcAvuZfRczaXDScKCrMT",
-		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M"
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M",
+		"1MjZcMbobAu1roNu2pbpQCH68SsynsfQzR"
 	],
 	"comment_like": {}
 }
