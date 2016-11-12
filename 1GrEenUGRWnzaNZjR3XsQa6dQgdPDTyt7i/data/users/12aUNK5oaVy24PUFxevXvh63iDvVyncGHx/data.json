@@ -1,6 +1,6 @@
 {
 	"next_post_id": 11,
-	"next_comment_id": 35,
+	"next_comment_id": 36,
 	"next_follow_id": 16,
 	"avatar": "jpg",
 	"user_name": "Durand",
@@ -265,6 +265,12 @@
 			"body": "@Eibriel: I realise that but considering how people just randomly click on links on ZeroNet, there's also the possibility that they will accidentally distribute RansomWare. It's only a matter of time before we get people hijacking popular zeronet sites to distribute viruses, spread spam and create DDOS attacks. I use linux so I don't really worry about getting ransomware but I do worry about accidentally spreading it to other people!\n\n@Flyman: If you use Windows, you should definitely get antivirus. Even MS' own anti-virus is good enough these days. But for ransomware, I think the best solution is actually just to keep backups of your data because you wouldn't want to pay money to someone to get your files back!",
 			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1478842319",
 			"date_added": 1478855066
+		},
+		{
+			"comment_id": 35,
+			"body": "@Flyman: So how do you transfer data to it? Viruses can be transmitted through usb too..",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1478842319",
+			"date_added": 1478932383
 		}
 	],
 	"follow": [
@@ -382,5 +388,7 @@
 		"1JVtiH7RA45sc7efV5Xdpai4gwUvHm18fm"
 	],
 	"flags": {},
-	"comment_like": {}
+	"comment_like": {
+		"1AxLMGKjSdsL3Sxa2x1WHJmoap3Z93YdCm_6": 1478932397
+	}
 }
