@@ -1,11 +1,11 @@
 {
 	"next_post_id": 35,
-	"next_comment_id": 126,
+	"next_comment_id": 129,
 	"next_follow_id": 137,
 	"avatar": "jpg",
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
-	"intro": "P2P user from China. 中文用户。ZeroNet老司机：）请务必看[中文论坛](http://127.0.0.1:43110/GFWtalk.bit)频繁更新的**置顶贴**，包含最新的ZeroMe、ZeroNet使用技巧和注意事项。推荐一下 [@talnicrom](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/?Profile/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/19M1DT5vruSATEcbEczYRwCk2uPuLcATBa/talnicrom@zeroid.bit) 搞的 [ZeroMe \"Plus\"](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/) （有很多增强功能，包括话题、贴图、收藏页……）和[ZeroMeMention](http://127.0.0.1:43110/1JouSggdhsEZ9tWN5oiQArjdAA8wkCcxuR)（查询谁@ 了你、谁@ 了谁）",
+	"intro": "P2P user from China. 中文用户。ZeroNet老司机：）请务必看[中文论坛](http://127.0.0.1:43110/GFWtalk.bit)频繁更新的**置顶贴**和**FAQ**，包含最新的ZeroMe、ZeroNet使用技巧、注意事项和疑问解答。推荐一下 [@talnicrom](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/?Profile/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/19M1DT5vruSATEcbEczYRwCk2uPuLcATBa/talnicrom@zeroid.bit) 搞的 [ZeroMe \"Plus\"](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/) （有很多增强功能，包括话题、贴图、收藏页……）和[ZeroMeMention](http://127.0.0.1:43110/1JouSggdhsEZ9tWN5oiQArjdAA8wkCcxuR)（查询谁@ 了你、谁@ 了谁）",
 	"post": [
 		{
 			"post_id": 1,
@@ -961,6 +961,24 @@
 			"body": "@Nofish: what's your next major goal of ZeroNet dev? Android APP? or multiple languages UI? ( we can translate the UI into Chinese, for example )",
 			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1478620854",
 			"date_added": 1478869520
+		},
+		{
+			"comment_id": 126,
+			"body": "@DullSkull: 更新太快了",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1478866453",
+			"date_added": 1478941680
+		},
+		{
+			"comment_id": 127,
+			"body": "@Nofish: what about Animated GIF in ZeroMe? They  become static after shared on ZeroMe.",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1478620854",
+			"date_added": 1478942208
+		},
+		{
+			"comment_id": 128,
+			"body": "@Nofish: is it possible to convert it automatically via JS in browser or via python backend?",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1478620854",
+			"date_added": 1478944745
 		}
 	],
 	"follow": [
