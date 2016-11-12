@@ -5,13 +5,20 @@
  "cert_user_id": "zmgiser@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "6ec1106881e09d30852981e70ec51cd23c2477d7324af6dfb67b3c78d7cdf3e7",
-   "size": 339
+   "sha512": "00d6392ae55a865e05b714017e29fdb764ecb6c9ebcbcd26e00b459d283cc8f0",
+   "size": 757
+  }
+ },
+ "files_optional": {
+  "1478961409.jpg": {
+   "sha512": "67a0d43f64d7bc683dd66291c80ccbabe652f5d44497a45e6cc93556f670ab75",
+   "size": 97570
   }
  },
  "inner_path": "data/users/1B9rbo2fbK5YNW2aKBwHsgj9VDyrdEzHJn/content.json",
- "modified": 1478882657.331,
+ "modified": 1478961505.814,
+ "optional": "(?!avatar).*jpg",
  "signs": {
-  "1B9rbo2fbK5YNW2aKBwHsgj9VDyrdEzHJn": "HCNOpKF8jgvQg8aDTx3or9hAi3Z5FdEoq6PJAvtHe/COt9axKPpBYUwJlmcjmrHi/uqdxmOnHDWO3VFuvF80MPs="
+  "1B9rbo2fbK5YNW2aKBwHsgj9VDyrdEzHJn": "G40wxA1RDt9O+bYEWJinf6PUbuFsEGk+qeutPrONpg41FC5lX0DDki96cc7RV1KeSaZKYDaP3JJUYc/fkyHoNr4="
  }
 }

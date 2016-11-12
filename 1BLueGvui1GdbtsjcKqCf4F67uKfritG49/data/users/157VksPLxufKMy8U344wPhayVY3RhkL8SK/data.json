@@ -1,7 +1,7 @@
 {
-	"next_post_id": 34,
-	"next_comment_id": 112,
-	"next_follow_id": 12,
+	"next_post_id": 35,
+	"next_comment_id": 119,
+	"next_follow_id": 13,
 	"avatar": "jpg",
 	"user_name": "怡红院",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -176,6 +176,11 @@
 			"post_id": 1478917047,
 			"body": "悲剧咯，不知道搞到什么了，我自己的网站我自己发不了帖了，提示我的秘钥不对，还自动在我的用户目录下创建了一个data.json-old。看来又得瞎折腾一番了。\n***\n 这回更加悲剧，数据又删了。我得换个马甲把数据补回来，有空再搞了。这个号还是发不了消息。",
 			"date_added": 1478917014
+		},
+		{
+			"post_id": 1478962262,
+			"body": "哪里还能下旧版的ZeroNet？不是ZeroBudle。是黑窗口自动下载的那个包。\n\n***\n发现github现在的第一条issues很像我现在遇到的问题，但是作者的回答是`可能自己手动改过json的id数值`，但我没改过。。。。。。",
+			"date_added": 1478962228
 		}
 	],
 	"post_like": {},
@@ -842,9 +847,51 @@
 		},
 		{
 			"comment_id": 111,
-			"body": "@P2P:限额是够的，我在1703版可以浏览所有文件，唯独在1704版，以新用户打开，我的数据有丢失，不知道是什么原因了，我怀疑是1704版有问题。我在代理访问，发现所有文件都还在，他们的版本都是1703或以下的。",
+			"body": "@P2P:限额是够的，我在1703版可以浏览所有文件，唯独在1704版，以新用户打开，我的数据丢失，不知道是什么原因了，我怀疑是1704版有问题。我在代理访问，发现所有文件都还在，他们的版本都是1703或以下的。",
 			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478917047",
 			"date_added": 1478958190
+		},
+		{
+			"comment_id": 112,
+			"body": "@Lmath: 可以排除没同步好。你移开我网站的数据，再重新以新用户打开看看？还有你用的是1704版吗？",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478917047",
+			"date_added": 1478958560
+		},
+		{
+			"comment_id": 113,
+			"body": "@Lmath: 如果你需要删掉自己的帖子，你可以删掉自己的用户文件夹，你的是`1958F7o*****`这个文件夹，再重新随意发一条消息就能删完你之前的帖子了。。。。如果你要删某一条帖子，你要知道相应的格式，进去删掉相应的消息，再重新发一条，之前的就删掉了。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478917047",
+			"date_added": 1478959365
+		},
+		{
+			"comment_id": 114,
+			"body": "@Lmath: 这个我还不会弄。。。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478917047",
+			"date_added": 1478960223
+		},
+		{
+			"comment_id": 115,
+			"body": "@Lmath: 你以新用户打开看到的是有我的帖子吗？",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478917047",
+			"date_added": 1478960808
+		},
+		{
+			"comment_id": 116,
+			"body": "@Lmath: 你看到网站的数据量有多大？如果首页看到的是549.76kb，optional 77.73Mb那就正常。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478917047",
+			"date_added": 1478961283
+		},
+		{
+			"comment_id": 117,
+			"body": "@Lmath: 看来是出问题了。就是新节点同步不了我的数据，但旧节点update后都还有。这就有点蒙了。我使用网站的私钥签名我的文件夹，或把我的用户数据放进新用户的用户文件夹再签名，也还是提示私钥不对，但私钥确定是没错的。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478917047",
+			"date_added": 1478961503
+		},
+		{
+			"comment_id": 118,
+			"body": "@Lmath: OK，真棒",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478962262",
+			"date_added": 1478962645
 		}
 	],
 	"follow": [
@@ -924,6 +971,13 @@
 			"auth_address": "1958F7oCppj78MP966AfojMQwHg2WUupzq",
 			"user_name": "Lmath",
 			"date_added": 1478784486
+		},
+		{
+			"follow_id": 12,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz",
+			"user_name": "猫叉酱",
+			"date_added": 1478958314
 		}
 	],
 	"settings": {

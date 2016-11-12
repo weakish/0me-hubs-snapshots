@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 110,
+	"next_comment_id": 111,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -10,7 +10,8 @@
 		"1V7usnfmabQXPSNC2zrCpF2ed2jDZaujS_1478608805": 1478626519,
 		"14MrxSzhaSXiFwsAbyhwtipmU3Lh55Xcrr_1478676611": 1478676766,
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478774513": 1478774561,
-		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478865377": 1478867181
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478865377": 1478867181,
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478960018": 1478960432
 	},
 	"comment": [
 		{
@@ -660,6 +661,12 @@
 			"body": "@P2P: 什么情况下数据会串？",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478953100",
 			"date_added": 1478959029
+		},
+		{
+			"comment_id": 110,
+			"body": "Psiphon / Lantern 这几天在部分网络下的可连接性不好。如果是为 Tor 服务的，我建议捆绑 Tor Browser ，因为目前 ZeroNet 并没屏蔽 ZeroNet 外的元素，对于匿名性来说是致命的。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478962259",
+			"date_added": 1478962669
 		}
 	],
 	"flags": {},

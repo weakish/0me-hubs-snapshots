@@ -1,6 +1,6 @@
 {
-	"next_post_id": 38,
-	"next_comment_id": 74,
+	"next_post_id": 41,
+	"next_comment_id": 77,
 	"next_follow_id": 79,
 	"avatar": "jpg",
 	"user_name": "Rainlime",
@@ -172,6 +172,21 @@
 			"body": "图片测试",
 			"date_added": 1478953079,
 			"meta": "{\"img\":\"700,700,ffffedfeeedbdcbcbb755645cbaaaa977a99878bbb988666,00123454201224245520226755899412774A489022672318B1219C5013D144DB44E252125519E233242428F9222343249542\"}"
+		},
+		{
+			"post_id": 1478960018,
+			"body": "分享一段很喜欢的话\n\n如果天空是黑暗的，那就摸黑生存；如果发出声音是危险的，那就保持沉默；如果自觉无力发光的，那就蜷伏于墙角。但不要习惯了黑暗就为黑暗辩护；不要为自己的苟且而得意；不要嘲讽那些比自己更勇敢热情的人们。我们可以卑微如尘土，不可扭曲如蛆虫。",
+			"date_added": 1478959980
+		},
+		{
+			"post_id": 1478961331,
+			"body": "感觉中文用户已经占领了 ZeroMe 的半壁江山了 233333",
+			"date_added": 1478961292
+		},
+		{
+			"post_id": 1478962259,
+			"body": "有没有必要制作一个用于在中国大陆使用的 ZeroNet 套件？\n基于 Chrome，捆绑 ZeroNet ，Psiphon/Lantern 和配置好的 Tor，再做一个方便的启动脚本什么的",
+			"date_added": 1478962219
 		}
 	],
 	"post_like": {
@@ -188,7 +203,8 @@
 		"1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1477103559": 1477143519,
 		"1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1477111815": 1477162078,
 		"1KsUNPHJnWHdjPcWuAJreZfoQzVffk49Gk_1477344526": 1477369112,
-		"1E6DXcJ5sugwGvTjQxgdF5GoV5xJS1Zd24_1478850862": 1478859166
+		"1E6DXcJ5sugwGvTjQxgdF5GoV5xJS1Zd24_1478850862": 1478859166,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478961286": 1478961253
 	},
 	"comment": [
 		{
@@ -628,6 +644,24 @@
 			"body": "@P2P: 为什么这个链接的端口是 53110 ... 不应该是 43110 么？",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478953100",
 			"date_added": 1478954302
+		},
+		{
+			"comment_id": 74,
+			"body": "@猫叉酱: 梁山...是什么梗？",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478961331",
+			"date_added": 1478962039
+		},
+		{
+			"comment_id": 75,
+			"body": "@Lmath: 的确 TB 具有更好的安全性，但我感觉 ZeroNet 在 Chrome 下体验更好",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478962259",
+			"date_added": 1478962741
+		},
+		{
+			"comment_id": 76,
+			"body": "@Lmath: 这个包的目的在于让新手更方便的入门，打算捆绑的翻墙工具有 Lantern / Psiphon / SSR",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478962259",
+			"date_added": 1478962802
 		}
 	],
 	"follow": [
@@ -1144,6 +1178,9 @@
 		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_112": 1478276251,
 		"18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_62": 1478398081,
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_209": 1478873336,
-		"1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_27": 1478873819
+		"1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_27": 1478873819,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_219": 1478961213,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_220": 1478962025,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_221": 1478962222
 	}
 }
