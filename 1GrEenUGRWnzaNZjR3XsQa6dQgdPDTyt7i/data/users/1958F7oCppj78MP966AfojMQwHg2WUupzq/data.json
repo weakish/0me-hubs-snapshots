@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 111,
+	"next_comment_id": 119,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -667,6 +667,54 @@
 			"body": "Psiphon / Lantern 这几天在部分网络下的可连接性不好。如果是为 Tor 服务的，我建议捆绑 Tor Browser ，因为目前 ZeroNet 并没屏蔽 ZeroNet 外的元素，对于匿名性来说是致命的。",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478962259",
 			"date_added": 1478962669
+		},
+		{
+			"comment_id": 111,
+			"body": "@Rainlime: Tor Browser 还有一点好，就是可以使用性能一般但是稳定性不错的 meek 网桥。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478962259",
+			"date_added": 1478962858
+		},
+		{
+			"comment_id": 112,
+			"body": "还有一个问题就是 ZeroNet 界面本身没中文，而很多人一直表示一点英文都看不懂。所以是否可以把界面本身翻译下？并且要保证内置的 Google 翻译可用？",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478962259",
+			"date_added": 1478962977
+		},
+		{
+			"comment_id": 113,
+			"body": "@Rainlime: 实际上我发现如果使用 SwitchyOmega 来切换代理的话，谷歌翻译有时是不可用的。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478962259",
+			"date_added": 1478963198
+		},
+		{
+			"comment_id": 114,
+			"body": "我认为默认还是不要启用 Tor Always 模式的比较好，因为启用 Tor 会造成性能缓慢的不良体验，而且从增加节点数的角度来讲也是不利的。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478962259",
+			"date_added": 1478963541
+		},
+		{
+			"comment_id": 115,
+			"body": "因为 P2P 大佬发起的，不敢不资瓷啊！",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478963469",
+			"date_added": 1478963622
+		},
+		{
+			"comment_id": 116,
+			"body": "@深夜海钓核潜艇: 你这边是是在新疆地区么？彻底不通外网了？那我是不是要考虑在 ZeroNet 里做个 ZeroNet 的镜像？",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478962259",
+			"date_added": 1478965088
+		},
+		{
+			"comment_id": 117,
+			"body": "@P2P: 所以这 ZeroMe 上的人这么热闹都是假象，都是你用不同的小号发的？(#滑稽)",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478953100",
+			"date_added": 1478965237
+		},
+		{
+			"comment_id": 118,
+			"body": "@Rainlime: 所以我给你什么链接了？",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478963469",
+			"date_added": 1478965410
 		}
 	],
 	"flags": {},

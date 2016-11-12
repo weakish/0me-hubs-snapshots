@@ -1,6 +1,6 @@
 {
-	"next_post_id": 8,
-	"next_comment_id": 17,
+	"next_post_id": 9,
+	"next_comment_id": 19,
 	"next_follow_id": 120,
 	"avatar": "png",
 	"user_name": "Lmath",
@@ -42,6 +42,11 @@
 			"post_id": 1478784424,
 			"body": "给这几天不用输入服务器和帐号（自动发现服务器）类型的梯子失效的临时不靠谱复活方法：使用能正常连上的环境（比如手机热点名）连一次，然后连回一直连不上的网络中。",
 			"date_added": 1478784417
+		},
+		{
+			"post_id": 1478963408,
+			"body": "我很好奇一个问题，平时常见的撕 Python 2 还是 Python 3 的人怎么不见了呢？不是说 Python 2 再过两年要停止维护了吗？",
+			"date_added": 1478963400
 		}
 	],
 	"post_like": {
@@ -141,6 +146,18 @@
 			"body": "好像不开放端口的情况下有明显延迟。",
 			"post_uri": "1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd_1478826804",
 			"date_added": 1478829381
+		},
+		{
+			"comment_id": 17,
+			"body": "@P2P: 我看貌似好多人貌似挺喜欢 Python 2 的，会不会官方维护到期后继续有人 fork 个分支继续维护？",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478963408",
+			"date_added": 1478965353
+		},
+		{
+			"comment_id": 18,
+			"body": "@P2P: 在语法上，Python 3 也没有 Python 2 任性了。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478963408",
+			"date_added": 1478966349
 		}
 	],
 	"follow": [

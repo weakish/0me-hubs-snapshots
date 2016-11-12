@@ -1,6 +1,6 @@
 {
 	"next_post_id": 35,
-	"next_comment_id": 130,
+	"next_comment_id": 132,
 	"next_follow_id": 137,
 	"avatar": "jpg",
 	"user_name": "P2P",
@@ -985,6 +985,18 @@
 			"body": "@Nofish: https://try.gogs.io/ZeroNet/ZeroNet this mirror is not updated. Some users in China reported that (s)he is not able to update ZeroNet. Gitlab is blocked in some area of China, and gogs mirror is not updated. More mirrors needed? https://bitbucket.org/ is widely used in China.",
 			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1478620854",
 			"date_added": 1478946607
+		},
+		{
+			"comment_id": 130,
+			"body": "反正早晚要2 to 3的。好像主要因为很多库还是用2，所以很多人不愿意用3",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478963408",
+			"date_added": 1478965222
+		},
+		{
+			"comment_id": 131,
+			"body": "@Lmath: 可能会有。因为有些库作者都不维护了，用这些库的人只能用2。有自动2 to 3 的工具，照理说2 to 3应该很方便，难道是隐藏有很多坑？",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478963408",
+			"date_added": 1478965961
 		}
 	],
 	"follow": [

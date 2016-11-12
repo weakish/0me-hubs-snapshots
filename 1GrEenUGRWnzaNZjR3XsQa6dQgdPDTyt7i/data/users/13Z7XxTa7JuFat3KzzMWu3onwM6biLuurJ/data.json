@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 157,
+	"next_comment_id": 162,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -26,7 +26,9 @@
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478179494": 1478180569,
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478406945": 1478444875,
 		"15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1478410096": 1478444895,
-		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478774513": 1478797018
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478774513": 1478797018,
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478960018": 1478964662,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478961286": 1478964694
 	},
 	"comment": [
 		{
@@ -964,6 +966,36 @@
 			"body": "@Rainlime: 我机子上跑了几个zeronet实例，设置了不同端口，这样数据不会串",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478953100",
 			"date_added": 1478954409
+		},
+		{
+			"comment_id": 157,
+			"body": "是你自己说什么“大家有什么要问的”，一种求撩的感觉",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478963469",
+			"date_added": 1478964498
+		},
+		{
+			"comment_id": 158,
+			"body": "@Lmath: 不同帐号在同一个端口登录",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478953100",
+			"date_added": 1478964614
+		},
+		{
+			"comment_id": 159,
+			"body": "不错，动画在背景了",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478964931",
+			"date_added": 1478965089
+		},
+		{
+			"comment_id": 160,
+			"body": "@Lmath: 被你发现了",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478953100",
+			"date_added": 1478965348
+		},
+		{
+			"comment_id": 161,
+			"body": "@深夜海钓核潜艇: Nofish · nofish@zeroid.bit ― 5 hours agoReply\n@P2P: Opened an issue for it: https://discuss.gogs.io/t/mirror-function-stopped-working-on-try-gogs-io/779/1\nBitbucket does not support live git sync as far as i know.\nP2P · p2p@zeroid.bit ― 5 hours agoReply\n@Nofish: https://try.gogs.io/ZeroNet/ZeroNet this mirror is not updated. Some users in China reported that (s)he is not able to update ZeroNet. Gitlab is blocked in some area of China, and gogs mirror is not updated. More mirrors needed? https://bitbucket.org/ is widely used in China.",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478962259",
+			"date_added": 1478965603
 		}
 	],
 	"flags": {},
