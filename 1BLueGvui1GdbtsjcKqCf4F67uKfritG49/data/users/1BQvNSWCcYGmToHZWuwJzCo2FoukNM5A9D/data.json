@@ -1,7 +1,7 @@
 {
-	"next_post_id": 2,
+	"next_post_id": 3,
 	"next_comment_id": 3,
-	"next_follow_id": 3,
+	"next_follow_id": 4,
 	"avatar": "jpg",
 	"user_name": "Mrch4os",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -11,6 +11,11 @@
 			"post_id": 1,
 			"date_added": 1478566944,
 			"body": "hola anybody's alife here?"
+		},
+		{
+			"post_id": 1478910422,
+			"body": "What is the truth?\nWhy are we living and for what reason we live?",
+			"date_added": 1478910420
 		}
 	],
 	"post_like": {},
@@ -35,6 +40,13 @@
 			"auth_address": "1MjZcMbobAu1roNu2pbpQCH68SsynsfQzR",
 			"user_name": "Islam News",
 			"date_added": 1478566964
+		},
+		{
+			"follow_id": 3,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6",
+			"user_name": "Border0464fred",
+			"date_added": 1478910330
 		}
 	]
 }
