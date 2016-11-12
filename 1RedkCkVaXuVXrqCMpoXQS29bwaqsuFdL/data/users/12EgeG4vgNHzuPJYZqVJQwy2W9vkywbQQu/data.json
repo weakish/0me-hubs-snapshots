@@ -1,5 +1,5 @@
 {
-	"next_post_id": 20,
+	"next_post_id": 21,
 	"next_comment_id": 73,
 	"next_follow_id": 14,
 	"avatar": "png",
@@ -74,7 +74,7 @@
 		},
 		{
 			"post_id": 1478368568,
-			"body": "*Stream more than just music* with [NinjaBeats](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html): Stream photos, videos, text or even a mix of them, without the need of any special file or additional URL arguments.\n\nHere's some demos, including some requested by the community:\n- Stream the [Buffalo Soldier music video by Bob Marley](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html?ID=4af525066b62ab54732155523dd1ecb73acd9102)\n- Stream [a photo](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html?ID=e76ea4d9ef6f4b3c4cbbb3f814e457933dbc26e6)\n- Stream a video as music (video + album art image) - [Slowly by Amon Tobin](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html?ID=db066b0abd17ea44afc0061d98e6d1cea129e0ca)\n\nNote that some demos may not work in Chrome due to a browser bug that blocks locally stored videos from being loaded within a webpage.",
+			"body": "*Stream more than just music* with [NinjaBeats](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html): Stream photos, videos, text or even a mix of them, without the need of any special file or additional URL arguments.\n\nHere's some demos, including some requested by the community:\n- Stream the [Buffalo Soldier music video by Bob Marley](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html?ID=4af525066b62ab54732155523dd1ecb73acd9102)\n- Stream [a photo](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html?ID=e76ea4d9ef6f4b3c4cbbb3f814e457933dbc26e6)\n- Stream a video as music (video + album art image) - [Slowly by Amon Tobin](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/audio.html?ID=db066b0abd17ea44afc0061d98e6d1cea129e0ca)\n\nNote that some demos may not work in Chrome due to a browser bug that blocks locally stored videos from being loaded within a webpage. Edit: The browser bug has been fixed by the Chromium team.",
 			"date_added": 1478368554
 		},
 		{
@@ -101,6 +101,11 @@
 			"post_id": 1478897343,
 			"body": "Just a quick update to the streamer: The example links are no longer dummy links and actually work... still haven't fixed the ZeroNet forbidden error yet though. Any suggestions on how to go about fixing that? :/",
 			"date_added": 1478897324
+		},
+		{
+			"post_id": 1478984039,
+			"body": "That's all the major features in the NinjaBeats Streamer v2.3 update showcased now... There's still more stuff I didn't cover but I'll leave the full changelog for anyone interested [here](http://127.0.0.1:43110/15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk/stream/v2.3/changelog.txt) (previous officially announced version was v2.0).\n\nNext update, I'm working on:\n- Better UI scaling for better mobile and tablet support\n- A centralised fallback option for when WebRTC isn't supported (such as iOS and Windows Phone devices) or when no peers are seeding the requested song - suggested by @Technoshaman777\n- Better performance in some scenarios on slow and/or cheap phones/tablets\n- New homepage and website\n- *Possibly* a QR code generator for the share link when seeding a file\n- *Possibly* read the ID tags directly from an included audio file to show the artist name, track number, album name, year, etc...\n\nI've looked into epub support and decided to give it a miss as it seems like too much code would be needed considering the main focus of NinjaBeats is music. Sorry! :/",
+			"date_added": 1478984019
 		}
 	],
 	"post_like": {
