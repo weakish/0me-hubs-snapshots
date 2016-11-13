@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 16,
+	"next_comment_id": 17,
 	"user_name": "ZAlex",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -26,7 +26,8 @@
 		"1NHR4Gdv1dVLZS5HRwY6aJWfngk9jCLF87_1476954429": 1476971528,
 		"1NHR4Gdv1dVLZS5HRwY6aJWfngk9jCLF87_1476951420": 1476971529,
 		"1NHR4Gdv1dVLZS5HRwY6aJWfngk9jCLF87_1478705888": 1478768839,
-		"1H5VKNWtkBA7RpJWyYuFw5bqjwbgjXoqKp_1478844041": 1478854855
+		"1H5VKNWtkBA7RpJWyYuFw5bqjwbgjXoqKp_1478844041": 1478854855,
+		"1NHR4Gdv1dVLZS5HRwY6aJWfngk9jCLF87_1479033972": 1479038325
 	},
 	"comment": [
 		{
@@ -112,6 +113,12 @@
 			"body": "@Flyman: OS? (Windows\\MacOS\\\\*nix\\etc?)",
 			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1478842319",
 			"date_added": 1478854665
+		},
+		{
+			"comment_id": 16,
+			"body": "Лучше вставляй ссылки в полном формате:\n`[link](http://127.0.0.1:43110/brom.bit)`\nТак ссылка автоматически преобразится к нужному виду (для тех, у кого работают Zero-адреса вида `http://brom.bit` и `http:// zero/brom.bit`)\nТвоя ссылка сейчас ведет меня на `http://me.zeronetwork.bit/brom.bit/`",
+			"post_uri": "1NHR4Gdv1dVLZS5HRwY6aJWfngk9jCLF87_1479033972",
+			"date_added": 1479038120
 		}
 	],
 	"flags": {

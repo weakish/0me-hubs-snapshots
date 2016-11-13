@@ -4,9 +4,13 @@
  "cert_sign": "HFVGHvYiLxftMCIQHmj5/5Dy3PoF2pZhbISphDONfdsZlWpcZ3XGEVi7mHNsJfdnawJEQNT2N0NtKxef372/o9o=",
  "cert_user_id": "megavolt@zeroid.bit",
  "files": {
+  "avatar.jpg": {
+   "sha512": "c1aa5e9ace753523015ad0f21f994a305f638a5a7782ce7ff91d62d90883bd40",
+   "size": 1311
+  },
   "data.json": {
-   "sha512": "aa5bc92a12dbc9eb6c5432a5c55fddccf246abbbebc2733b2084ca70640318ee",
-   "size": 595
+   "sha512": "45696730f137ed34ebb9bb5a22d3256d2c2c5c0e3d5c8309b0c63c38f61f4172",
+   "size": 590
   }
  },
  "files_optional": {
@@ -16,9 +20,9 @@
   }
  },
  "inner_path": "data/users/18P7HcmnENFWkpQFtPjnjHv6x9p2eHa6rp/content.json",
- "modified": 1479001223.171,
+ "modified": 1479006339.484,
  "optional": "(?!avatar).*jpg",
  "signs": {
-  "18P7HcmnENFWkpQFtPjnjHv6x9p2eHa6rp": "G4nCySeHx/J8/JfWdLEBzxRVJDC7qp4m3qrhqxC9ljxS/Y59IqrRM2J/Ako8VlcWtvaTfWhMgsL0xhpM9BQTM7c="
+  "18P7HcmnENFWkpQFtPjnjHv6x9p2eHa6rp": "G3QnOr1qftL32hl16SLQIhHRM9W1gm1QI1T0DFRiZUwBgTkBw0Z7Owthi5OT6vHL7OIJXRiKU18k4lYq7aApz0k="
  }
 }

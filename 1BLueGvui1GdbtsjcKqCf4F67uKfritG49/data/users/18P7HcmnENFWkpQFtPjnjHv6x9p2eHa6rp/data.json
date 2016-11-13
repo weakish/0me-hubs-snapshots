@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
 	"next_comment_id": 1,
-	"next_follow_id": 1,
+	"next_follow_id": 3,
 	"avatar": "generate",
 	"user_name": "Megavolt",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -17,5 +17,20 @@
 		"1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1478920519": 1479001934
 	},
 	"comment": [],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "18P7HcmnENFWkpQFtPjnjHv6x9p2eHa6rp",
+			"user_name": "Megavolt",
+			"date_added": 1479006307
+		},
+		{
+			"follow_id": 2,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "18P7HcmnENFWkpQFtPjnjHv6x9p2eHa6rp",
+			"user_name": "Megavolt",
+			"date_added": 1479006309
+		}
+	]
 }
