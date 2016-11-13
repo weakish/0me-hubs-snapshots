@@ -1,7 +1,7 @@
 {
 	"next_post_id": 11,
-	"next_comment_id": 25,
-	"next_follow_id": 132,
+	"next_comment_id": 26,
+	"next_follow_id": 133,
 	"avatar": "png",
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -205,6 +205,12 @@
 			"body": "@Ysc3839: 还真是，很多人反映输出中文就乱码。",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478963408",
 			"date_added": 1479028541
+		},
+		{
+			"comment_id": 25,
+			"body": "@Cxgreat2014: 你想想 XP 这种安全性差功能不满足现在的需求的老不死还活着，你就能明白 Python 2 不会死得那么快了。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478963408",
+			"date_added": 1479033983
 		}
 	],
 	"follow": [
@@ -1110,6 +1116,13 @@
 			"auth_address": "166nBYFqT3oXk8QHgn8ZEUNwQZNGumVmKQ",
 			"user_name": "Dayifu",
 			"date_added": 1479013711
+		},
+		{
+			"follow_id": 132,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1PhQbukw1g6fBmDNhBNTzBTmZ7BhWhysDE",
+			"user_name": "Fifa2003",
+			"date_added": 1479033697
 		}
 	],
 	"settings": {
