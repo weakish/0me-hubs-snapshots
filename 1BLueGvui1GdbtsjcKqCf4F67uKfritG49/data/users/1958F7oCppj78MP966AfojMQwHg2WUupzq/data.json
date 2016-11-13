@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 125,
+	"next_comment_id": 134,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -7,7 +7,8 @@
 		"157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478484964": 1478488300,
 		"15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1478658815": 1478660697,
 		"1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA_1478771167": 1478771859,
-		"1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA_1478769033": 1478771885
+		"1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA_1478769033": 1478771885,
+		"157VksPLxufKMy8U344wPhayVY3RhkL8SK_1479000658": 1479001787
 	},
 	"comment": [
 		{
@@ -747,6 +748,60 @@
 			"body": "0chan?",
 			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1478972390",
 			"date_added": 1478974824
+		},
+		{
+			"comment_id": 125,
+			"body": "@P2P: 我试了下，貌似如果必需文件 + optional 的文件超过限额，就会 sign 错误。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478917047",
+			"date_added": 1479001006
+		},
+		{
+			"comment_id": 126,
+			"body": "@P2P: ZeroNet 本身没有放到 ZeroBundle 里是因为作者希望第一次启动时的 ZeroNet 总是最新的？",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478917047",
+			"date_added": 1479001097
+		},
+		{
+			"comment_id": 127,
+			"body": "@怡红院: 限额就是设定的限额？",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478917047",
+			"date_added": 1479001114
+		},
+		{
+			"comment_id": 128,
+			"body": "@怡红院: 有可能吧！是不是要删？",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478917047",
+			"date_added": 1479001129
+		},
+		{
+			"comment_id": 129,
+			"body": "@怡红院: 还是删了吧！",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478917047",
+			"date_added": 1479001220
+		},
+		{
+			"comment_id": 130,
+			"body": "@怡红院: 我也想试试，所以我删了。图片确实是 QQ 弄来的。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478917047",
+			"date_added": 1479001609
+		},
+		{
+			"comment_id": 131,
+			"body": "@怡红院: 所以前几天说什么被儿童色情案被破获，其实根本不需要什么给 Tor 建立蜜罐节点啊……直接查 QQ 群记录即可。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478917047",
+			"date_added": 1479001707
+		},
+		{
+			"comment_id": 132,
+			"body": "@怡红院: 这个名字一般就是保存图片的时间，不特别查的话不是特别敏感。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478917047",
+			"date_added": 1479001767
+		},
+		{
+			"comment_id": 133,
+			"body": "不不不！我凌晨也想嗨，你们一帮魂淡不陪我嗨。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478998981",
+			"date_added": 1479001839
 		}
 	],
 	"flags": {

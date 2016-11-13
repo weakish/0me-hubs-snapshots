@@ -1,12 +1,18 @@
 {
-	"next_post_id": 2,
+	"next_post_id": 3,
 	"next_comment_id": 1,
 	"next_follow_id": 14,
 	"avatar": "png",
 	"user_name": "Xeers",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"intro": "Random ZeroNet user",
-	"post": [],
+	"post": [
+		{
+			"post_id": 1479002270,
+			"body": "Zeronet Rev1704, FIx siteSign error",
+			"date_added": 1479002268
+		}
+	],
 	"post_like": {},
 	"comment": [],
 	"follow": [
