@@ -1,7 +1,7 @@
 {
-	"next_post_id": 50,
+	"next_post_id": 51,
 	"next_comment_id": 33,
-	"next_follow_id": 165,
+	"next_follow_id": 167,
 	"avatar": "png",
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -251,6 +251,11 @@
 			"post_id": 1478263258,
 			"body": "A quick review of germ.io:\n\nWhat is cool:\n\n- Distinguish ideation with action.\n- Distinguish completed with not taken.\n- Nested sub list.\n- In action view, tasks(germs) with sub-tasks actionable are marked with a lock icon.\n\nMissing:\n\n- No export data.\n- No mobile client.\n- Status (Ideation, action, etc) is unclikable on overview.\n- Note markup is Rich text, no option for markdown.\n- No markup for code block.\n- When change status from ideation to action, assign to no one by default, should assign to the one change status by default.\n- No way to hide completed and not taken tasks.\n",
 			"date_added": 1478263209
+		},
+		{
+			"post_id": 1479051315,
+			"body": "Use registery to swap keys under Windows.\n\nFor example, use Caps Lock key as an addtional Escape key.\n\n```reg\nWindows Registry Editor Version 5.00\n\n[HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layout]\n\"Scancode Map\"=hex:00,00,00,00,00,00,00,00,02,00,00,00,01,00,3a,00,00,00,00,00\n```\n\nNotes:\n\n- `00,00,00,00,00,00,00,00`: header.\n- `02`: data length (`n + 1` where `n` is numer of mapped keys).\n- `00,00,00`: end of data length.\n- `01,00`: Esc.\n- `3a,00`: Caps.\n- `00,00,00,00,00`: end.",
+			"date_added": 1479051265
 		}
 	],
 	"post_like": {
@@ -1563,6 +1568,20 @@
 			"auth_address": "1D2z5mzZroraX6Hin5eH5zukCUuAnYiS72",
 			"user_name": "Mindaslab",
 			"date_added": 1478262371
+		},
+		{
+			"follow_id": 165,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1AG2v85TBuczc51Crwod1K254WCwiGM2p8",
+			"user_name": "Sadkitten",
+			"date_added": 1479050748
+		},
+		{
+			"follow_id": 166,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "18gK4zjhJbd2sKs3CfmqZQ6E9Di3qQFfAz",
+			"user_name": "Yolt",
+			"date_added": 1479050757
 		}
 	]
 }
