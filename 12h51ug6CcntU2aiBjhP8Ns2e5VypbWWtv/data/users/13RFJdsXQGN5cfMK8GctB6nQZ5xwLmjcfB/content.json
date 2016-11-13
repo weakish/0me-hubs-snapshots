@@ -4,14 +4,25 @@
  "cert_sign": "G8cNKloEEp3yA5BODtp65wLikCQV/WF9SbA2//AYc/l+OWSb/2h2DjIDZDmmFnduS7lwq5/0ONvI9ybf5CEh420=",
  "cert_user_id": "ysc3839@zeroid.bit",
  "files": {
+  "avatar.png": {
+   "sha512": "1cedaf5fbb9711a10f0b75b287db67d3e431be9684ba88c0b935bfbe42c02546",
+   "size": 536
+  },
   "data.json": {
-   "sha512": "8b8bc5faa9b0b42d6d04631284a2d34ab4f862e49f8f70e97903a14e936b3f0b",
-   "size": 7674
+   "sha512": "4ab199fa785f03afb66e3ccb884ffd7c0b567f662699ceefcb56d95474e1dabf",
+   "size": 8812
+  }
+ },
+ "files_optional": {
+  "1479025118.jpg": {
+   "sha512": "78b6b632d42bcd38d1543c61ecb8c0cccffc41a76c606443c1919bc04472f196",
+   "size": 30297
   }
  },
  "inner_path": "data/users/13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB/content.json",
- "modified": 1479002825.773,
+ "modified": 1479027050.436,
+ "optional": "(?!avatar).*jpg",
  "signs": {
-  "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB": "HA++06mVN5+MVpxTnUTWJ3eeKeOnR7l2kCizEwx/98C14ak71z1uImJLiqRDR+kRU+iLsXAmWT38Jbw+LUTptxs="
+  "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB": "HE8LKKuf+WtmAgriUIKFWc8g0DD2EhXNpzs88tSV6G8ZkP7Ob6rFYTXTOzud0yUEJ2pNmp0iyX1MnpP2Wqi9ZfA="
  }
 }

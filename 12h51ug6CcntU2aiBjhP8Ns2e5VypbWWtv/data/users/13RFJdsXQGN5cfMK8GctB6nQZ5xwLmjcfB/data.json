@@ -1,8 +1,8 @@
 {
-	"next_post_id": 6,
-	"next_comment_id": 9,
+	"next_post_id": 8,
+	"next_comment_id": 12,
 	"next_follow_id": 23,
-	"avatar": "generate",
+	"avatar": "png",
 	"user_name": "Ysc3839",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"intro": "My Blog: [Blog.ysc3839.bit](/Blog.ysc3839.bit)",
@@ -19,8 +19,19 @@
 		},
 		{
 			"post_id": 1478954415,
-			"body": "Why ZeroMe only support jpgs?",
+			"body": "~~Why ZeroMe only support jpgs?~~",
 			"date_added": 1478954410
+		},
+		{
+			"post_id": 1479025118,
+			"body": "ZeroNet with multi-language support. (Only .py files)\n\nZeroNet 多语言支持 (只是翻译了.py文件)\n\nhttps://github.com/ysc3839/ZeroNet/tree/gettext",
+			"date_added": 1479025112,
+			"meta": "{\"img\":\"464,700,8abcccaaa999222ddd888dcc878444332322b68556967445,012223456444445644444564444478444445694A9B56AAAAB78BBB44CD9BB49EF4A4B4\"}"
+		},
+		{
+			"post_id": 1479026331,
+			"body": "问一下，有讨论 ZeroNet 的 Telegram 群吗？",
+			"date_added": 1479026324
 		}
 	],
 	"post_like": {
@@ -30,7 +41,8 @@
 		"1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1478337589": 1478356742,
 		"1Nf7y77nKezA8BveiFhirUuS6kg66doRUY_2": 1478356784,
 		"13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1478439303": 1478439822,
-		"13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1478954415": 1478955408
+		"13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1478954415": 1478955408,
+		"13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479026331": 1479027026
 	},
 	"comment": [
 		{
@@ -80,6 +92,24 @@
 			"body": "@Zanity: Yes.",
 			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1478954415",
 			"date_added": 1479002825
+		},
+		{
+			"comment_id": 9,
+			"body": "@Lmath: https://github.com/ysc3839/ZeroNet/tree/gettext",
+			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479025118",
+			"date_added": 1479025252
+		},
+		{
+			"comment_id": 10,
+			"body": "@Lmath: 上传的代码中不包含.po文件",
+			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479025118",
+			"date_added": 1479025288
+		},
+		{
+			"comment_id": 11,
+			"body": "@Lmath: 是的，但是你还需要.po文件",
+			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479025118",
+			"date_added": 1479025558
 		}
 	],
 	"follow": [

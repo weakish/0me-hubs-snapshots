@@ -1,6 +1,6 @@
 {
 	"next_post_id": 11,
-	"next_comment_id": 23,
+	"next_comment_id": 24,
 	"next_follow_id": 132,
 	"avatar": "png",
 	"user_name": "Lmath",
@@ -193,6 +193,12 @@
 			"body": "@Erotic: 突然想到不用抓。\nConfig.py 文件里：\ntrackers = [\n            \"zero://boot3rdez4rzn36x.onion:15441\",\n            \"zero://boot.zeronet.io#f36ca555bee6ba216b14d10f38c16f7769ff064e0e37d887603548cc2e64191d:15441\",\n            \"udp://tracker.coppersurfer.tk:6969\",\n            \"udp://tracker.leechers-paradise.org:6969\",\n            \"udp://9.rarbg.com:2710\",\n            \"http://tracker.tordb.ml:6881/announce\",\n            \"http://explodie.org:6969/announce\",\n            \"http://tracker1.wasabii.com.tw:6969/announce\"\n        ]\n你 ping 一下看看通不通就知道了吧！",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479003104",
 			"date_added": 1479003855
+		},
+		{
+			"comment_id": 23,
+			"body": "@Ysc3839: 我觉得动态类型的解释性语言条条框框那么多，不如用静态类型的编译性语言了。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478963408",
+			"date_added": 1479027236
 		}
 	],
 	"follow": [
