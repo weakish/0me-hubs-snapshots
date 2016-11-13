@@ -1,6 +1,6 @@
 {
-	"next_post_id": 73,
-	"next_comment_id": 226,
+	"next_post_id": 74,
+	"next_comment_id": 227,
 	"next_follow_id": 57,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
@@ -360,8 +360,14 @@
 		},
 		{
 			"post_id": 1479006661,
-			"body": "GNIroot安装ZeroNet的几点注意点:\n1.挂个靠谱的代理，否则无法安装包\n2.不要妄图换源\n3.不需要wget下载zeronet的压缩包，只需要把电脑中的zeronet目录完整复制到内部储存的GNUroot/home中就可以了\n4.所有的配置文件都可以用root explorer找到并编辑，比vi方便多了",
+			"body": "GNURoot安装ZeroNet的几点注意点:\n1.挂个靠谱的代理，否则无法安装包\n2.不要妄图换源\n3.不需要wget下载zeronet的压缩包，只需要把电脑中的zeronet目录完整复制到内部储存的GNUroot/home中就可以了\n4.所有的配置文件都可以用root explorer找到并编辑，比vi方便多了",
 			"date_added": 1479006589
+		},
+		{
+			"post_id": 1479019003,
+			"body": "差不多一比一，川普稍微多一点。有一半多一点的美国人要被砸烂狗头了",
+			"date_added": 1479018930,
+			"meta": "{\"img\":\"900,538,fffeeedeecdeddeddd,000000000000111111000222314510001324110001123221100001111011\"}"
 		}
 	],
 	"post_like": {
@@ -1720,6 +1726,12 @@
 			"body": "@西木野真姬: 有啊，另一只伪娘，不过他不肯发言，似乎对暗网还有些戒心",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478963469",
 			"date_added": 1478975750
+		},
+		{
+			"comment_id": 226,
+			"body": "@深夜海钓核潜艇: 当然可以",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479019003",
+			"date_added": 1479019499
 		}
 	],
 	"follow": [
