@@ -1,7 +1,7 @@
 {
-	"next_post_id": 10,
-	"next_comment_id": 20,
-	"next_follow_id": 120,
+	"next_post_id": 11,
+	"next_comment_id": 23,
+	"next_follow_id": 121,
 	"avatar": "png",
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -52,6 +52,12 @@
 			"post_id": 1479002380,
 			"body": "@怡红院: 突然发现怡红院节点数已经超过 GFW Talk 了，说说你是怎么做到的？",
 			"date_added": 1479002371
+		},
+		{
+			"post_id": 1479003104,
+			"body": "@怡红院: 可是我这里是这么显示的啊！难道这个节点数是指发现的节点数？可是 ZeroNet 目前不是使用 Tracker 来发现节点的吗？或者我们可以推测其实一些 Tracker 已经被封了？",
+			"date_added": 1479003094,
+			"meta": "{\"img\":\"764,700,334344223233445,011002220300000022030110002203044000223200000022230410000040040003334300000333030440020003\"}"
 		}
 	],
 	"post_like": {
@@ -169,6 +175,24 @@
 			"body": "@P2P: 我觉得是为了规范结构，减少坑。",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478963408",
 			"date_added": 1478969299
+		},
+		{
+			"comment_id": 20,
+			"body": "@Erotic: 现在是 Tracker 又不是 DHT ，节点信息不应该是请求后一起传过来么？\n所以你可以说说如何将站点的节点数做到这么多的了。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479003104",
+			"date_added": 1479003366
+		},
+		{
+			"comment_id": 21,
+			"body": "@Erotic: 你抓下包看看是不是一些 Tracker 在你这里已经被墙了？",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479003104",
+			"date_added": 1479003542
+		},
+		{
+			"comment_id": 22,
+			"body": "@Erotic: 突然想到不用抓。\nConfig.py 文件里：\ntrackers = [\n            \"zero://boot3rdez4rzn36x.onion:15441\",\n            \"zero://boot.zeronet.io#f36ca555bee6ba216b14d10f38c16f7769ff064e0e37d887603548cc2e64191d:15441\",\n            \"udp://tracker.coppersurfer.tk:6969\",\n            \"udp://tracker.leechers-paradise.org:6969\",\n            \"udp://9.rarbg.com:2710\",\n            \"http://tracker.tordb.ml:6881/announce\",\n            \"http://explodie.org:6969/announce\",\n            \"http://tracker1.wasabii.com.tw:6969/announce\"\n        ]\n你 ping 一下看看通不通就知道了吧！",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479003104",
+			"date_added": 1479003855
 		}
 	],
 	"follow": [
@@ -990,6 +1014,13 @@
 			"auth_address": "1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R",
 			"user_name": "Scrub",
 			"date_added": 1478942943
+		},
+		{
+			"follow_id": 120,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB",
+			"user_name": "Ysc3839",
+			"date_added": 1479003425
 		}
 	],
 	"settings": {
