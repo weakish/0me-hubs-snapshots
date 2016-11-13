@@ -1,0 +1,17 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "G47pCH7PsTge+VWsTLAKwXk5uTRn0CHnX24c1Inwiv3dXoyV3DZ7JW+wqrwRkSYJFHwcOisOHfA7lNL5uJyYsXM=",
+ "cert_user_id": "jonasgroth@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b9fa725a5512b5e94c396fe11f4ec1da9a01bed2494b671f0cbaae18509346aa",
+   "size": 342
+  }
+ },
+ "inner_path": "data/users/1KHaKJGT6eJegKycTrDnFNyqzKE6KYXr9t/content.json",
+ "modified": 1479055153.969694,
+ "signs": {
+  "1KHaKJGT6eJegKycTrDnFNyqzKE6KYXr9t": "G5ENi7ejuSyt/SZDYxLMKevzTnN2SIxWBeTB2o2JD9rXVv6ldTT8WfPmos2yV4DkruhlfP2uQSZO+j8FxHpEgGE="
+ }
+}

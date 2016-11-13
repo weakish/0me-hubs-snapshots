@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 126,
+	"next_comment_id": 129,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -758,6 +758,18 @@
 			"body": "@P2P: 你的意思我明白了，ZeroMail 的原理是注册时生成一个密钥对并将公钥作为用户数据插入站点，然后别人发信时是使用我的公钥加密信息后作为他的用户数据插入这个站点，然后由于我有自己的密钥，所以我能解密自己的消息而不能解密别人的消息，而由于是作为别人的用户数据插入站点的，所以我只能隐藏消息而发送者可以删除消息，是这样吗？",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1479008247",
 			"date_added": 1479040138
+		},
+		{
+			"comment_id": 126,
+			"body": "@Erotic: 对于固定 IP 节点的来说，并不是一件好事，因为本来能在联网时利用上次的节点信息的，而且对于不支持 UPnP 的路由器来说还要每次手动打开端口，很不方便。我更倾向于在初始化时随机确定一个端口，以后保持这个端口不变。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478968425",
+			"date_added": 1479053495
+		},
+		{
+			"comment_id": 128,
+			"body": "@P2P: 如果把 ZeroMail 改成提取消息后在本地保存，并通知对方删除消息，这样的话，有效空间不是大大利用了？我觉得在 ZeroNet 里强行搞一个并不怎么适应这个架构的应用不太合适。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1479008247",
+			"date_added": 1479054064
 		}
 	],
 	"flags": {},
