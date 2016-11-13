@@ -5,24 +5,20 @@
  "cert_user_id": "sicktab@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "deb4ac5d1f097c3d14ba4efda86700c969bee6668f742691acd16909df052f5a",
-   "size": 4826
+   "sha512": "dbc7ad654ba7ce1ef8ce53be8b51de3ced7f93789b96e41ba05c41f11e201f05",
+   "size": 4593
   }
  },
  "files_optional": {
   "1478781227.jpg": {
    "sha512": "7a9c7be70afc96db2bae7418d1b8d028b70715ba9271e3b1acd7840b3ef2a506",
    "size": 57988
-  },
-  "1479035539.jpg": {
-   "sha512": "9f991decf215ab9ee38bec58981a1c9437648696c4f9493997944a2193fb956f",
-   "size": 36002
   }
  },
  "inner_path": "data/users/1F2yDqB1hQTXx9jxPu6s39qvcN7aJecEQk/content.json",
- "modified": 1479035598.804,
+ "modified": 1479043015.491,
  "optional": "(?!avatar).*jpg",
  "signs": {
-  "1F2yDqB1hQTXx9jxPu6s39qvcN7aJecEQk": "GynanSx0KJr2I2jdvM70N8vkdOe5grvuEawbShKwYXCOge+8dtE640h+q3GXWpqUCbFp2SoyopufJeOHzi5EkRU="
+  "1F2yDqB1hQTXx9jxPu6s39qvcN7aJecEQk": "HLr5zdbF/z6S55I1s5MtqB8W3Dry8G5Jr2DFBAbQf2yRhH691MUiieA0K8rpOE13bS8s18xZcBlmx6OuN1POeTI="
  }
 }
