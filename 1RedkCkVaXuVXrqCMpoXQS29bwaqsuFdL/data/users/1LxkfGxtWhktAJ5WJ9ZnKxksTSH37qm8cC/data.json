@@ -1,6 +1,6 @@
 {
 	"next_post_id": 46,
-	"next_comment_id": 29,
+	"next_comment_id": 31,
 	"next_follow_id": 14,
 	"avatar": "generate",
 	"user_name": "Firebox",
@@ -395,6 +395,18 @@
 			"body": "Sometimes people like to ask but don't like to give. When most people don't know about how peer-to-peer works, they will blame file sharing software for stealing their \"precious\" bandwidth.",
 			"post_uri": "1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_1478959962",
 			"date_added": 1479029572
+		},
+		{
+			"comment_id": 29,
+			"body": "@Xeers: You don't need a download manager for ZeroMux. \"Blob\" means that the whole file is saved in RAM and can be written to hard disk quickly.",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479022235",
+			"date_added": 1479062594
+		},
+		{
+			"comment_id": 30,
+			"body": "@Militaryriotlab: On the MIME type and the extension: there is a [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1313268) that prevents the JavaScript program from renaming the file. If you use Chrome, the file will be renamed properly.",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479022235",
+			"date_added": 1479062771
 		}
 	],
 	"follow": [

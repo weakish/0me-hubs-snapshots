@@ -1,6 +1,6 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 2,
+	"next_comment_id": 3,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Homer",
@@ -25,6 +25,12 @@
 			"body": "Thank you :)\nBut I don't get the password --'",
 			"post_uri": "1DPK3APZ7uRHGYpzDbfvgQiCn4AzB1oDbQ_1471978811",
 			"date_added": 1471987162
+		},
+		{
+			"comment_id": 2,
+			"body": "Update: the correct URL starts with 127.0.0.1, then it's: http://127.0.0.1:43110/blog.kaffie.bit/?Post:25:How+to+change+your+ZeroMe+Hub",
+			"post_uri": "1DPK3APZ7uRHGYpzDbfvgQiCn4AzB1oDbQ_1471978811",
+			"date_added": 1479062823
 		}
 	],
 	"follow": []
