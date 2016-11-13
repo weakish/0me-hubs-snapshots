@@ -1,7 +1,7 @@
 {
 	"next_post_id": 46,
-	"next_comment_id": 27,
-	"next_follow_id": 13,
+	"next_comment_id": 29,
+	"next_follow_id": 14,
 	"avatar": "generate",
 	"user_name": "Firebox",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -220,7 +220,7 @@
 		},
 		{
 			"post_id": 1479022235,
-			"body": "Have a look at the **front-end** of the self hosted ZeroMux **big file sharing service**. Tell me about how fast was your download!\nhttp://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/sample-loader\n\nWant a permalink for a file? It will look like this:\nhttp://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/sample-loader/?1DmTVdhy\n\nThis is still unfinished, though.",
+			"body": "No WebRTC, No IPFS, No plugins are required.\n\nHave a look at the **front-end** of the self hosted [ZeroMux **big file sharing service**](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/sample-loader). Tell me about how fast was your download!\n\n\nWant a permalink for a file? It will look like this:\nhttp://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/sample-loader/?1DmTVdhy\n\nThis is still unfinished, though.",
 			"date_added": 1479022190
 		}
 	],
@@ -380,9 +380,21 @@
 		},
 		{
 			"comment_id": 26,
-			"body": "@Militaryriotlab: ZeroNet will put the file into your optional file folder. The JavaScript program will save it to the RAM.",
+			"body": "@Militaryriotlab: ZeroNet will put the file into your optional file folder. The JavaScript program will save it to RAM.",
 			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479022235",
 			"date_added": 1479025720
+		},
+		{
+			"comment_id": 27,
+			"body": "@Erotic: Yes, if you have downloaded the file before, it will be loaded directly from hard disk, which allows you to pause and resume the progress by simply closing the page and reopening the page next time.",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479022235",
+			"date_added": 1479028099
+		},
+		{
+			"comment_id": 28,
+			"body": "Sometimes people like to ask but don't like to give. When most people don't know about how peer-to-peer works, they will blame file sharing software for stealing their \"precious\" bandwidth.",
+			"post_uri": "1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_1478959962",
+			"date_added": 1479029572
 		}
 	],
 	"follow": [
@@ -462,6 +474,13 @@
 			"auth_address": "1GuQbrHBXABgjQ89CogjKVwEcgZ5DqnYgx",
 			"user_name": "Sylex",
 			"date_added": 1478200483
+		},
+		{
+			"follow_id": 13,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6",
+			"user_name": "Emeraude",
+			"date_added": 1479029769
 		}
 	],
 	"settings": {

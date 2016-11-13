@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 21,
+	"next_comment_id": 22,
 	"user_name": "Waterrabbit",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -127,6 +127,12 @@
 			"body": "GNURoot",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479006661",
 			"date_added": 1479007128
+		},
+		{
+			"comment_id": 21,
+			"body": "When you are not using `target='_top'`, the link will be opened in ZeroNet's sandbox. Using `target='_blank'` will not make the GitHub page escape the sandbox.",
+			"post_uri": "18DbeZgtVCcLghmtzvg4Uv8uRQAwR8wnDQ_1478973882",
+			"date_added": 1479028708
 		}
 	]
 }

@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 7,
+	"next_comment_id": 10,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Ysc3839",
@@ -62,6 +62,24 @@
 			"body": "@P2P: 我觉得像print加上括号还是好的，不加感觉很特殊",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478963408",
 			"date_added": 1479026237
+		},
+		{
+			"comment_id": 7,
+			"body": "@Cxgreat2014: Python不支持Windows控制台的UTF-8？",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478963408",
+			"date_added": 1479028146
+		},
+		{
+			"comment_id": 8,
+			"body": "@Lmath: 用途不一样的，可比性不大",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478963408",
+			"date_added": 1479028168
+		},
+		{
+			"comment_id": 9,
+			"body": "@Lmath: 这是他们没切换控制台输出编码，用chcp 65001，不过切换后会提示cp65001的错误，可以修改文件将cp65001映射到utf-8",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478963408",
+			"date_added": 1479028613
 		}
 	],
 	"follow": [],
