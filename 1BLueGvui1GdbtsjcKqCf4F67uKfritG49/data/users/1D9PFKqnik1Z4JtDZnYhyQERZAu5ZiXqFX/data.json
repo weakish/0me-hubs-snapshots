@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 1,
-	"next_follow_id": 2,
+	"next_comment_id": 2,
+	"next_follow_id": 3,
 	"avatar": "generate",
 	"user_name": "frog",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -14,7 +14,14 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "It does not work for me, I've turned DISTRITUTE FILES on and set SIZE LIMIT to 64mb for both hubs, 128mb for zerome.bit, but images still don't show up automatically.",
+			"post_uri": "1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA_1478751900",
+			"date_added": 1479022694
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 1,

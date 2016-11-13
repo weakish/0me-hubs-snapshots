@@ -1,5 +1,5 @@
 {
-	"next_post_id": 45,
+	"next_post_id": 46,
 	"next_comment_id": 26,
 	"next_follow_id": 13,
 	"avatar": "generate",
@@ -217,6 +217,11 @@
 			"post_id": 1478945358,
 			"body": "A progress report on ZeroMux File Sharing Service:\nI added a new [screenshot](/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/?Post:6).\nRead the full report [here](/Me.ZeroNetwork.bit/?Post/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC/1478128320)",
 			"date_added": 1478945314
+		},
+		{
+			"post_id": 1479022235,
+			"body": "Have a look at the **front-end** of the self hosted ZeroMux **big file sharing service**. Tell me about how fast was your download!\nhttp://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/sample-loader\n\nWant a permalink for a file? It will look like this:\nhttp://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/sample-loader/?1DmTVdhy\n\nThis is still unfinished, though.",
+			"date_added": 1479022190
 		}
 	],
 	"post_like": {
