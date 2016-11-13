@@ -5,13 +5,20 @@
  "cert_user_id": "megavolt@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "456762752ef0b73fd75fcd6e568e24d479360ce7508d06fcdaf51900924d9c82",
-   "size": 783
+   "sha512": "541c4fabaa5d6d11ecc02adf19e08eec9da3f0f7f4793b596ab1439db166f577",
+   "size": 1315
+  }
+ },
+ "files_optional": {
+  "1479065015.jpg": {
+   "sha512": "b9609720a77d9240ef64f129b2a81a291e87077c6bc94102cdd02e8f2b7474e4",
+   "size": 12073
   }
  },
  "inner_path": "data/users/18P7HcmnENFWkpQFtPjnjHv6x9p2eHa6rp/content.json",
- "modified": 1479006310.593,
+ "modified": 1479066495.015,
+ "optional": "(?!avatar).*jpg",
  "signs": {
-  "18P7HcmnENFWkpQFtPjnjHv6x9p2eHa6rp": "HEYdZ4kCC3xwCwaChT3JCt96WU06A4yzSJa6snnmOZrtz+hSWtDo2TF/HRzVNjsUDP79TAjSJCmpyT4bcphzm/s="
+  "18P7HcmnENFWkpQFtPjnjHv6x9p2eHa6rp": "HA275TQlRbh45XMYU6e0JOyM7RfnkEA92PQ8kb1lRZZKH18a7dmqFz+HP5On/hHcV/6/StelE9Pk8pdVemlHpKM="
  }
 }

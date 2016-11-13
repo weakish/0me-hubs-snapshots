@@ -1,16 +1,17 @@
 {
-	"next_post_id": 2,
+	"next_post_id": 3,
 	"next_comment_id": 1,
-	"next_follow_id": 3,
-	"avatar": "generate",
+	"next_follow_id": 5,
+	"avatar": "jpg",
 	"user_name": "Megavolt",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
-	"intro": "Random ZeroNet user",
+	"intro": "Strom und Technik",
 	"post": [
 		{
-			"post_id": 1,
-			"date_added": 1479001255,
-			"body": "Hello ZeroMe!"
+			"post_id": 1479065015,
+			"body": "Hey ZeroMe! Sind auch Deutsch sprechende Menschen hier?",
+			"date_added": 1479065013,
+			"meta": "{\"img\":\"900,540,000200b00d10e90fc0,000000000011111111112222222222333333333344444444445555555555\"}"
 		}
 	],
 	"post_like": {
@@ -31,6 +32,20 @@
 			"auth_address": "18P7HcmnENFWkpQFtPjnjHv6x9p2eHa6rp",
 			"user_name": "Megavolt",
 			"date_added": 1479006309
+		},
+		{
+			"follow_id": 3,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "17paaSTiaD8G7aa2aiejS4YsYBCg7Bvqh2",
+			"user_name": "ajs",
+			"date_added": 1479064601
+		},
+		{
+			"follow_id": 4,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi",
+			"user_name": "Eibriel",
+			"date_added": 1479064764
 		}
 	]
 }
