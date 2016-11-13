@@ -1,6 +1,6 @@
 {
 	"next_post_id": 35,
-	"next_comment_id": 119,
+	"next_comment_id": 121,
 	"next_follow_id": 13,
 	"avatar": "jpg",
 	"user_name": "怡红院",
@@ -174,12 +174,12 @@
 		},
 		{
 			"post_id": 1478917047,
-			"body": "悲剧咯，不知道搞到什么了，我自己的网站我自己发不了帖了，提示我的秘钥不对，还自动在我的用户目录下创建了一个data.json-old。看来又得瞎折腾一番了。\n***\n 这回更加悲剧，数据又删了。我得换个马甲把数据补回来，有空再搞了。这个号还是发不了消息。",
+			"body": "~~悲剧咯，不知道搞到什么了，我自己的网站我自己发不了帖了，提示我的秘钥不对，还自动在我的用户目录下创建了一个data.json-old。看来又得瞎折腾一番了。~~\n***\n~~这回更加悲剧，数据又删了。我得换个马甲把数据补回来，有空再搞了。这个号还是发不了消息。~~\n***\n已解决。",
 			"date_added": 1478917014
 		},
 		{
 			"post_id": 1478962262,
-			"body": "哪里还能下旧版的ZeroNet？不是ZeroBudle。是黑窗口自动下载的那个包。\n\n***\n发现github现在的第一条issues很像我现在遇到的问题，但是作者的回答是`可能自己手动改过json的id数值`，但我没改过。。。。。。",
+			"body": "哪里还能下旧版的ZeroNet？不是ZeroBudle。是黑窗口自动下载的那个包。\n\n***\n~~发现github现在的第一条issues很像我现在遇到的问题，但是作者的回答是`可能自己手动改过json的id数值`，但我没改过。。。。。。~~",
 			"date_added": 1478962228
 		}
 	],
@@ -892,6 +892,18 @@
 			"body": "@Lmath: OK，真棒",
 			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478962262",
 			"date_added": 1478962645
+		},
+		{
+			"comment_id": 119,
+			"body": "@P2P: 还是老大的方法牛，提升自己的发言量，一切迎刃而解：）。最后我发现，签名时计算的发言大小，optional的文件大小也会加进去的。你可以去github回答一下那条issuse，叫他提升一下自己的发言量。。。。。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478917047",
+			"date_added": 1478998192
+		},
+		{
+			"comment_id": 120,
+			"body": "@P2P: 发现，如果zeronet被墙不能自动下载时，手动下好ZeroBundle+ZeroNet，再把`ZeroBundle+ZeroNet+zeronet.cmd`放到同一文件夹，也能一切完美运行。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478917047",
+			"date_added": 1478998550
 		}
 	],
 	"follow": [
