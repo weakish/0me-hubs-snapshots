@@ -1,7 +1,7 @@
 {
 	"next_post_id": 4,
 	"next_comment_id": 8,
-	"next_follow_id": 10,
+	"next_follow_id": 12,
 	"avatar": "generate",
 	"user_name": "It's a test!",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -128,6 +128,20 @@
 			"auth_address": "1NQvmcUkean3BWS9N88P9dKYnP1TAB5kHz",
 			"user_name": "Meylody",
 			"date_added": 1478786015
+		},
+		{
+			"follow_id": 10,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1GuQbrHBXABgjQ89CogjKVwEcgZ5DqnYgx",
+			"user_name": "Sylex",
+			"date_added": 1479122559
+		},
+		{
+			"follow_id": 11,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC",
+			"user_name": "Firebox",
+			"date_added": 1479122648
 		}
 	]
 }
