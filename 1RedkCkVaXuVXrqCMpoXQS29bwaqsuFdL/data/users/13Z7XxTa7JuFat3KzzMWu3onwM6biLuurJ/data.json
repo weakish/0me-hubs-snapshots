@@ -1,5 +1,5 @@
 {
-	"next_post_id": 36,
+	"next_post_id": 37,
 	"next_comment_id": 149,
 	"next_follow_id": 141,
 	"avatar": "jpg",
@@ -182,6 +182,11 @@
 			"post_id": 1479107381,
 			"body": "还在用百毒网盘分享文件？不要这么low好么？500M以下的文件分享新方法——ZeroMux，看其作者的[这篇帖子](http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Post/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC/1479022235)，点击里面的长链接，下载它测一下速度。",
 			"date_added": 1479107346
+		},
+		{
+			"post_id": 1479127084,
+			"body": "这里面有gevent msgpack-python（zeronet的依赖），理论上应该可以打包APK，谁来打包个？ https://github.com/kivy/python-for-android/tree/master/pythonforandroid/recipes 文档：http://python-for-android.readthedocs.io/en/latest/",
+			"date_added": 1479127048
 		}
 	],
 	"post_like": {

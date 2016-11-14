@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 24,
+	"next_comment_id": 25,
 	"user_name": "Militaryriotlab",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {
@@ -154,6 +154,12 @@
 			"body": "That's strange, I keep downloading the same file even after I have finished downloaded it.\nEDIT: \nWhen you download the file, the name (and extension+MIME as well) is wrong\nScreen capture[self-host]: https://onlyzero.net/onlyzero/ZeroMux_cap.png",
 			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479022235",
 			"date_added": 1479039989
+		},
+		{
+			"comment_id": 24,
+			"body": "When I download a file from a https proxy, browsers determine the file tried to download is a mixed content (from http plaint text connection), so it requires user to allow the download manually.\nEDIT: when you allow the mixed content, you need to refresh the page, resulted in loss of all data, the file cannot be downloaded",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479022235",
+			"date_added": 1479127933
 		}
 	],
 	"flags": {},

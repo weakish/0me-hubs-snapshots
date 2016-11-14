@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 171,
+	"next_comment_id": 172,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -1053,6 +1053,12 @@
 			"body": "@Lmath: 还是不希望越搞越复杂，需要叮嘱小白的越来越多。什么时候论坛置顶贴能够缩减到几行，那就真正走向大众了。",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1479008247",
 			"date_added": 1479113447
+		},
+		{
+			"comment_id": 171,
+			"body": "@Rainlime: 这里面有gevent msgpack-python（zeronet的依赖），理论上应该可以打包APK https://github.com/kivy/python-for-android/tree/master/pythonforandroid/recipes",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1479122844",
+			"date_added": 1479125030
 		}
 	],
 	"flags": {},
