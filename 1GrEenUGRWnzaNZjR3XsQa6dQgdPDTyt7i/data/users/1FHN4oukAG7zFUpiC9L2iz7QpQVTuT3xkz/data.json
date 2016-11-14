@@ -1,6 +1,6 @@
 {
 	"next_post_id": 77,
-	"next_comment_id": 243,
+	"next_comment_id": 244,
 	"next_follow_id": 58,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
@@ -1843,6 +1843,12 @@
 			"body": "@Lmath: apt-get update，apt-get upgrade，python update.py这三个命令不挂代理成功率会很低。我考虑过换中科大的源，但是效果会更坑爹么还不如默认的",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479104948",
 			"date_added": 1479106734
+		},
+		{
+			"comment_id": 243,
+			"body": "@Lmath: 是啊，很多镜像站都没有ARM的资源",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479104948",
+			"date_added": 1479108575
 		}
 	],
 	"follow": [

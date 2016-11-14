@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 138,
+	"next_comment_id": 140,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -824,6 +824,18 @@
 			"body": "@猫叉酱: 你说的更新是指拉取 GitHub 上的文件？我这里 GitHub 虽然不快但是还是挺稳定的。",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479104948",
 			"date_added": 1479106659
+		},
+		{
+			"comment_id": 138,
+			"body": "@猫叉酱: 然后你说不要妄想换源？是没什么镜像站有 ARM 源的问题吗？",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479104948",
+			"date_added": 1479106804
+		},
+		{
+			"comment_id": 139,
+			"body": "@猫叉酱: 你试过 HTTPS 的源吗？很多运营商的缓存机制存在问题，HTTPS 没法在运营商那里进行缓存劫持。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479104948",
+			"date_added": 1479106923
 		}
 	],
 	"flags": {},
