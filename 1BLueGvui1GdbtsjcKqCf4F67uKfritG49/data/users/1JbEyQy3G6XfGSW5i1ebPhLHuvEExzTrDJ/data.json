@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 1,
-	"next_follow_id": 3,
+	"next_comment_id": 2,
+	"next_follow_id": 5,
 	"avatar": "jpg",
 	"user_name": "ElectrcNINJA",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -14,7 +14,14 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "That's a good question :U",
+			"post_uri": "13GU1tjE8NpZocm8bZdSE83BmrbLfydR9V_1474390175",
+			"date_added": 1479160205
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 1,
@@ -29,6 +36,20 @@
 			"auth_address": "1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi",
 			"user_name": "Eibriel",
 			"date_added": 1479099590
+		},
+		{
+			"follow_id": 3,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "13GU1tjE8NpZocm8bZdSE83BmrbLfydR9V",
+			"user_name": "It's a test!",
+			"date_added": 1479159837
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1479159964
 		}
 	]
 }
