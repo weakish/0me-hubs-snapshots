@@ -1,7 +1,7 @@
 {
-	"next_post_id": 37,
+	"next_post_id": 38,
 	"next_comment_id": 149,
-	"next_follow_id": 141,
+	"next_follow_id": 142,
 	"avatar": "jpg",
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -185,8 +185,13 @@
 		},
 		{
 			"post_id": 1479127084,
-			"body": "这里面有gevent msgpack-python（zeronet的依赖），理论上应该可以打包APK，谁来打包个？ https://github.com/kivy/python-for-android/tree/master/pythonforandroid/recipes 文档：http://python-for-android.readthedocs.io/en/latest/",
+			"body": "这里面有gevent msgpack-python（zeronet的依赖），理论上应该可以打包APK，谁来打包个？ https://github.com/kivy/python-for-android/tree/master/pythonforandroid/recipes 文档：http://python-for-android.readthedocs.io/en/latest/ GFW Talk[讨论贴](http://127.0.0.1:43110/gfwtalk.bit/?Topic:49_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ/+ZeroNet+APK+python+for+android)，Discussion [in ZeroTalk](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:9_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ/)",
 			"date_added": 1479127048
+		},
+		{
+			"post_id": 1479128843,
+			"body": "With all ZeroNet's dependency (gevent msgpack-python) already built in here, could anyone please package an APK of ZeroNet? https://github.com/kivy/python-for-android/tree/master/pythonforandroid/recipes Docs: http://python-for-android.readthedocs.io/en/latest/ Discussion [in ZeroTalk](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:9_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ/)",
+			"date_added": 1479128806
 		}
 	],
 	"post_like": {
@@ -2059,6 +2064,13 @@
 			"auth_address": "113YuyBFsrMZ8Mh1AY4c8VqyW64xeZhxmm",
 			"user_name": "盗帅留香",
 			"date_added": 1479124701
+		},
+		{
+			"follow_id": 141,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE",
+			"user_name": "gfwbot79",
+			"date_added": 1479129933
 		}
 	],
 	"settings": {

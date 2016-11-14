@@ -1,7 +1,7 @@
 {
-	"next_post_id": 49,
+	"next_post_id": 50,
 	"next_comment_id": 30,
-	"next_follow_id": 79,
+	"next_follow_id": 80,
 	"avatar": "jpg",
 	"user_name": "ulrichard",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -246,6 +246,11 @@
 			"post_id": 1479122596,
 			"body": "I have been trying to bundle \"MS SQL Server 2014\" into a WiX Burn bootstrapper for hours. It used to work with 2012. There is no documentation for this unbelievable piece of crap. Or if there is documentation, it is so well hidden that no human being could ever find it.",
 			"date_added": 1479122548
+		},
+		{
+			"post_id": 1479129668,
+			"body": "I wonder if anybody ever succeeded compiling an MFC based project with this: https://www.winehq.org/docs/winelib-guide/mfc-compiling",
+			"date_added": 1479129619
 		}
 	],
 	"post_like": {
@@ -973,6 +978,13 @@
 			"auth_address": "1MzWT1C1LwRZmABNthcryXfsVKxP6Si5Ev",
 			"user_name": "Dobrosketch",
 			"date_added": 1478993713
+		},
+		{
+			"follow_id": 79,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1EobjuQ5ig6BE9yu1tctgG6J53YnpefQNd",
+			"user_name": "Bravo",
+			"date_added": 1479129419
 		}
 	],
 	"settings": {

@@ -4,14 +4,18 @@
  "cert_sign": "G8fyOI+qhLAUthH/y6zc/IF07u9991Frd4UK5v4v4ySImyI5KeX8NeHCiM47JdN2WyT+/20zwgbFdi8qsnrO52A=",
  "cert_user_id": "gfwbot79@zeroid.bit",
  "files": {
+  "avatar.jpg": {
+   "sha512": "0395255f8f7291340ec84cb4b116923ad1623ba1f2f275338b7739d4e58f5b0b",
+   "size": 1431
+  },
   "data.json": {
-   "sha512": "80f59b194e5a03edfd80a8ebb8be9666b7717eb7848bf88704f35791dd3a8f21",
-   "size": 1873
+   "sha512": "b3d6a1e0fb325bbbdf8d32460664e011322cf82a826be289b604e4721ff84364",
+   "size": 2522
   }
  },
  "inner_path": "data/users/13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE/content.json",
- "modified": 1479128399.155511,
+ "modified": 1479131198.342779,
  "signs": {
-  "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE": "HFeagTa++VqxkmVKS1CSgskh1gfmNUOg4w0Y2vS1IczE+DCWrtBL+9wqFRdHaHkAo3Ahu1mzq+UYG1inZBaHspc="
+  "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE": "HLaZhRTav3MjmU4MG2zDEI4Q8NBumG1aFWMhbZ7NUV/8RjEzTgDXoMjQQOt2DA9Ffk4dNJMwb91Acc3HNaPd5Ik="
  }
 }
