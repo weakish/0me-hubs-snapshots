@@ -1,7 +1,7 @@
 {
-	"next_post_id": 3,
-	"next_comment_id": 3,
-	"next_follow_id": 3,
+	"next_post_id": 4,
+	"next_comment_id": 7,
+	"next_follow_id": 5,
 	"avatar": "jpg",
 	"user_name": "rw",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -16,6 +16,11 @@
 			"post_id": 2,
 			"body": "Does it support _markdown_?",
 			"date_added": 1471798408
+		},
+		{
+			"post_id": 1474836670,
+			"body": "September the 25th, 2016, and I still wonder if my zeroid is hot or \"domain\" parking.",
+			"date_added": 1474836667
 		}
 	],
 	"post_like": {},
@@ -25,6 +30,30 @@
 			"body": "In the _answers_ too? (No, apparently.)",
 			"post_uri": "1NbaJh8RrnVZU4VDBxoyUUkDcWHTM6SH7h_2",
 			"date_added": 1471798432
+		},
+		{
+			"comment_id": 3,
+			"body": "Though some *decent* security is still good (and that's why I'm still interested in Qubes OS and TOR), I just want to make clear that you can't achieve NSA-proof without separate hardware: you'd need a Raspberry Pi 2/3 and one Raspberry Pi Zero to get real privacy; and separate hardware, both bought in cash (so one couldn't track you from your serial number), + a delayer (which means another Raspberry Pi Zero), so one couldn't track you from your keyboard fingerprint, to get real anonymity.",
+			"post_uri": "156HySyXH37jFXXqKCwVq8HqsrZLZzy8Qx_1474817917",
+			"date_added": 1474834498
+		},
+		{
+			"comment_id": 4,
+			"body": "As I can't pay $200 to get all of that (and because some software needs to be done so it would transparently work), a Bitmessage instance in a Qubes OS container with a strong firewall (drops every input/output, save UDP and TCP 8444) is quite enough. Compiling Qubes OS by myself and having an open hardware processor would be good too.",
+			"post_uri": "156HySyXH37jFXXqKCwVq8HqsrZLZzy8Qx_1474817917",
+			"date_added": 1474834725
+		},
+		{
+			"comment_id": 5,
+			"body": "Hello! Which projects are you involved in? What are your languages?",
+			"post_uri": "1F8FQhrqzBj3TP1YH5MGpa1qNptyoKQtTn_1474918798",
+			"date_added": 1474974209
+		},
+		{
+			"comment_id": 6,
+			"body": "Why would I trust an encrypted ZeroNet chat site when I already have Freenet and Bitmessage?",
+			"post_uri": "18DbeZgtVCcLghmtzvg4Uv8uRQAwR8wnDQ_1479115273",
+			"date_added": 1479140791
 		}
 	],
 	"follow": [
@@ -34,6 +63,20 @@
 			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
 			"user_name": "Nofish",
 			"date_added": 1471815213
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EZG8eDkCFvNkYxpHmr2WbGWcSxAsRfqTT",
+			"user_name": "RiotPulv",
+			"date_added": 1471942502
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1471942513
 		}
 	]
 }

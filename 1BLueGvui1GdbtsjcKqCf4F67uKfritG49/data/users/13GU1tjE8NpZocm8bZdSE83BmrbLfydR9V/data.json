@@ -1,11 +1,11 @@
 {
 	"next_post_id": 4,
-	"next_comment_id": 8,
-	"next_follow_id": 12,
+	"next_comment_id": 9,
+	"next_follow_id": 14,
 	"avatar": "generate",
 	"user_name": "It's a test!",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
-	"intro": "Itsrandom ZeroNet User :>",
+	"intro": "Badly seeded random ZeroNet User",
 	"post": [
 		{
 			"post_id": 1,
@@ -70,6 +70,12 @@
 			"body": "ZeroMe is actually a pretty nice place to hangout, UI-wise.",
 			"post_uri": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1472108563",
 			"date_added": 1478765629
+		},
+		{
+			"comment_id": 8,
+			"body": "Hello, ZeroYou!",
+			"post_uri": "1JbEyQy3G6XfGSW5i1ebPhLHuvEExzTrDJ_1",
+			"date_added": 1479139240
 		}
 	],
 	"follow": [
@@ -142,6 +148,20 @@
 			"auth_address": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC",
 			"user_name": "Firebox",
 			"date_added": 1479122648
+		},
+		{
+			"follow_id": 12,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1BAAgotwK2Noy6kz9BNeywZve2nvADfjXE",
+			"user_name": "Bashrc2",
+			"date_added": 1479141131
+		},
+		{
+			"follow_id": 13,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1DSVWXJjaSa3wDMjDLhsAP8W3a9ZMV49Mj",
+			"user_name": "Troll !!!",
+			"date_added": 1479141135
 		}
 	]
 }
