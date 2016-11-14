@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 147,
+	"next_comment_id": 148,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -873,6 +873,12 @@
 			"body": "@P2P: 据说 Python 支持多核，但是不能同时跑满 。",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479137740",
 			"date_added": 1479142411
+		},
+		{
+			"comment_id": 147,
+			"body": "@P2P: 即使支持，还是有 GIL 锁限制，除非用增加很多复杂度和额外开销的多进程架构。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479137740",
+			"date_added": 1479144695
 		}
 	],
 	"flags": {},
