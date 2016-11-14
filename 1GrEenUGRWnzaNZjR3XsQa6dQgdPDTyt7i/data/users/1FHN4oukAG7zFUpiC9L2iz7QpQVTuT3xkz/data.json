@@ -1,6 +1,6 @@
 {
-	"next_post_id": 76,
-	"next_comment_id": 233,
+	"next_post_id": 77,
+	"next_comment_id": 243,
 	"next_follow_id": 58,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
@@ -378,6 +378,11 @@
 			"post_id": 1479101772,
 			"body": "部署在手机上的ZeroNet访问起来非常快。PC有的时候会因为硬盘读写会卡，但手机不存在这个问题。唯一的问题是受WiFi速度限制，打开图片有点慢。\n下一步就是部署BTSync了。",
 			"date_added": 1479101697
+		},
+		{
+			"post_id": 1479104948,
+			"body": "在安卓机上架设家庭服务器的方法：\n1.找个闲置的靠谱的安卓机\n2.刷个比较原生的系统\n3.安装GNURoot debian\n4.安装并配置一大堆东西\n  \n优点：\n1.自带UPS，功耗极低，大约能续航30个小时\n2.自带显示器，可以用GUI搞定一大堆事情，root后还可以用root explorer修改配置文件\n3.wifi不需要布线\n\n缺点：\n1.稳定性，一周需要重启一次\n2.性能低，但对于zeronet完全够用了\n3.储存空间小，读写速度慢\n4.wifi速度慢",
+			"date_added": 1479104872
 		}
 	],
 	"post_like": {
@@ -1778,6 +1783,66 @@
 			"body": "@Rainlime: 完全承受的住，负载从来没高过0.25",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479101772",
 			"date_added": 1479102305
+		},
+		{
+			"comment_id": 233,
+			"body": "@Lmath: 理论连接速度和现实有较大差距，实测只有10Mbps。一是信道拥挤，二是设备比较多",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479101772",
+			"date_added": 1479104986
+		},
+		{
+			"comment_id": 234,
+			"body": "@Lmath: 电脑上写好脚本，放手机上一运行就行了",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479104948",
+			"date_added": 1479105494
+		},
+		{
+			"comment_id": 235,
+			"body": "@Lmath: 一百多个吧，点击全部更新的时候用3c toolbox看最高只有20%",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479101772",
+			"date_added": 1479105593
+		},
+		{
+			"comment_id": 236,
+			"body": "@Lmath: apq8064",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479101772",
+			"date_added": 1479105772
+		},
+		{
+			"comment_id": 237,
+			"body": "@Lmath: #! / bin/sh\napt-get update\napt-get upgrade\napt-get install msgpack-python python-gevent\ncd home/ZeroNet\npython update.py",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479104948",
+			"date_added": 1479105939
+		},
+		{
+			"comment_id": 238,
+			"body": "@Lmath: 在这之前，你需要挂代理（连proxy chain都不需要），并把PC中的ZeroNet文件夹放在内部储存/GNURoot/home中",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479104948",
+			"date_added": 1479105997
+		},
+		{
+			"comment_id": 239,
+			"body": "@Lmath: ~~是啊，我这里的宽带确实挺坑爹的~~我不认为是带宽的问题，端口开不了，并且节点也不多（开ZeroNet的时候没挂代理），所以每次更新时连接数大概只有120个",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479101772",
+			"date_added": 1479106155
+		},
+		{
+			"comment_id": 240,
+			"body": "@Lmath: 笔误，代理是用来更新的，传文件用USB线就行了。放在Storage/GNURoot/home",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479104948",
+			"date_added": 1479106371
+		},
+		{
+			"comment_id": 241,
+			"body": "@Lmath: 是啊，我这没有独立IP，在家里倒是能打开UPnP",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479101772",
+			"date_added": 1479106664
+		},
+		{
+			"comment_id": 242,
+			"body": "@Lmath: apt-get update，apt-get upgrade，python update.py这三个命令不挂代理成功率会很低。我考虑过换中科大的源，但是效果会更坑爹么还不如默认的",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479104948",
+			"date_added": 1479106734
 		}
 	],
 	"follow": [

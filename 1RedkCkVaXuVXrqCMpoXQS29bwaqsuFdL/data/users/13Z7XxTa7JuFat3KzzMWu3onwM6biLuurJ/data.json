@@ -1,6 +1,6 @@
 {
 	"next_post_id": 35,
-	"next_comment_id": 140,
+	"next_comment_id": 142,
 	"next_follow_id": 140,
 	"avatar": "jpg",
 	"user_name": "P2P",
@@ -210,7 +210,9 @@
 		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1478423200": 1478445509,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1478569342": 1478570777,
 		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1478620854": 1478620898,
-		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479099939": 1479101808
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479099939": 1479101808,
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479022235": 1479103873,
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1478128320": 1479103970
 	},
 	"comment": [
 		{
@@ -1046,6 +1048,18 @@
 			"body": "Twister在tor下限制连接数为8，而且推文全部需要那8个节点中转，性能可想而知",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479097880",
 			"date_added": 1479101974
+		},
+		{
+			"comment_id": 140,
+			"body": "@Lmath: 你居然这都不知道？你自己上twister官网，看完所有博文你就有个大概了解了。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479097880",
+			"date_added": 1479103614
+		},
+		{
+			"comment_id": 141,
+			"body": "about 100KB/s via tor. pretty good:) thx!",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479022235",
+			"date_added": 1479106643
 		}
 	],
 	"follow": [

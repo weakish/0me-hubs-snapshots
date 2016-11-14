@@ -4,14 +4,18 @@
  "cert_sign": "G5vMKL94kOsjCSxBQ6klVncEVkzClJ5aqs9GXvOmWkj074w/BJAunbumdlsnCsej5Tybn1dGnj6rrLxOOI5G8d4=",
  "cert_user_id": "cyxxs@zeroid.bit",
  "files": {
+  "avatar.jpg": {
+   "sha512": "5da0dbb03450e8bf591992c69766cbb90cb64994a92856747e0ac7d96e4a290e",
+   "size": 1590
+  },
   "data.json": {
-   "sha512": "b1498e44f6f0a79398397e295a06a8a3f7d5841f1333ca2f8d547591c8bf4fca",
-   "size": 1486
+   "sha512": "37b1fd3c5cd30a5f70dceecc12ec747a0e397c366c6cf4d92ab533b831531fcb",
+   "size": 1502
   }
  },
  "inner_path": "data/users/113YuyBFsrMZ8Mh1AY4c8VqyW64xeZhxmm/content.json",
- "modified": 1479095450.234,
+ "modified": 1479103480.328,
  "signs": {
-  "113YuyBFsrMZ8Mh1AY4c8VqyW64xeZhxmm": "HMwohtmId85t3f35SkI+citWqU43IsweFpBssMOhbJsn9+iixoxPSm2kZEm5vECe3mVkS85tS1OOZf937GhOpm0="
+  "113YuyBFsrMZ8Mh1AY4c8VqyW64xeZhxmm": "HF8ash3TlVKE4VldCPM2E3mcMEPOrCVmDeCV48FLSLrrCgtVcO6518e9jFtHHQdnAtfTvTLU7WfRN81utI7prDQ="
  }
 }

@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 129,
+	"next_comment_id": 138,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -770,6 +770,60 @@
 			"body": "@P2P: 如果把 ZeroMail 改成提取消息后在本地保存，并通知对方删除消息，这样的话，有效空间不是大大利用了？我觉得在 ZeroNet 里强行搞一个并不怎么适应这个架构的应用不太合适。",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1479008247",
 			"date_added": 1479054064
+		},
+		{
+			"comment_id": 129,
+			"body": "首先，你的 PC 需要 SSD ，然后手机受到 Wi-Fi 速度限制是什么鬼？难道你的手机的 Wi-Fi 模块只支持 54Mbps ？",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479101772",
+			"date_added": 1479104901
+		},
+		{
+			"comment_id": 130,
+			"body": "说实话，我几乎不想在安卓机上输入一条命令，这体验真痛苦。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479104948",
+			"date_added": 1479105304
+		},
+		{
+			"comment_id": 131,
+			"body": "@猫叉酱: 你需要 5G 频段。还有你说的这负载是挂了多少站点？多少大小？",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479101772",
+			"date_added": 1479105332
+		},
+		{
+			"comment_id": 132,
+			"body": "@猫叉酱: 求分享脚本，不想自己写。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479104948",
+			"date_added": 1479105538
+		},
+		{
+			"comment_id": 133,
+			"body": "@猫叉酱: 机器配置呢？",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479101772",
+			"date_added": 1479105711
+		},
+		{
+			"comment_id": 134,
+			"body": "@猫叉酱: 那看来资源消耗真的不高。不过根据我使用其他 P2P 工具的经验，基本上这类工具在带宽跑得比较高的时候就开始占用大量 CPU 了，不知道是不是你这里带宽太低造成了这个假象。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479101772",
+			"date_added": 1479105958
+		},
+		{
+			"comment_id": 135,
+			"body": "@猫叉酱: PC 中的 ZeroNet 文件夹传到手机为什么需要挂代理？我手机开个 ftpd 不行吗？还有我还是不太明白是怎么挂代理放文件的。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479104948",
+			"date_added": 1479106121
+		},
+		{
+			"comment_id": 136,
+			"body": "@猫叉酱: 话说如果 ZeroNet 跑在手机上还能使用 UPnP 打开端口吗？你这端口开不了应该是运营商限制吧！另外 Tor 的 Hidden Service 下倒是可以被动连接。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479101772",
+			"date_added": 1479106543
+		},
+		{
+			"comment_id": 137,
+			"body": "@猫叉酱: 你说的更新是指拉取 GitHub 上的文件？我这里 GitHub 虽然不快但是还是挺稳定的。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479104948",
+			"date_added": 1479106659
 		}
 	],
 	"flags": {},

@@ -1,6 +1,6 @@
 {
 	"next_post_id": 12,
-	"next_comment_id": 30,
+	"next_comment_id": 31,
 	"next_follow_id": 137,
 	"avatar": "png",
 	"user_name": "Lmath",
@@ -240,6 +240,12 @@
 			"body": "@P2P: 那是不是可以预编译下，比如编辑完了把不带括号的 print 语句转换成带括号的，这样的话也不影响运行的性能了。",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478963408",
 			"date_added": 1479093775
+		},
+		{
+			"comment_id": 30,
+			"body": "@P2P: Twister 难道不是网络结构自带匿名？还需要 Tor 来完成匿名？",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479097880",
+			"date_added": 1479103379
 		}
 	],
 	"follow": [
