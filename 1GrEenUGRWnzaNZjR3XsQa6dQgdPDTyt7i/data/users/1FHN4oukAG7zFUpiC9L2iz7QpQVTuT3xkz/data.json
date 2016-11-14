@@ -1,6 +1,6 @@
 {
-	"next_post_id": 77,
-	"next_comment_id": 244,
+	"next_post_id": 79,
+	"next_comment_id": 245,
 	"next_follow_id": 58,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
@@ -383,6 +383,17 @@
 			"post_id": 1479104948,
 			"body": "在安卓机上架设家庭服务器的方法：\n1.找个闲置的靠谱的安卓机\n2.刷个比较原生的系统\n3.安装GNURoot debian\n4.安装并配置一大堆东西\n  \n优点：\n1.自带UPS，功耗极低，大约能续航30个小时\n2.自带显示器，可以用GUI搞定一大堆事情，root后还可以用root explorer修改配置文件\n3.wifi不需要布线\n\n缺点：\n1.稳定性，一周需要重启一次\n2.性能低，但对于zeronet完全够用了\n3.储存空间小，读写速度慢\n4.wifi速度慢",
 			"date_added": 1479104872
+		},
+		{
+			"post_id": 1479137740,
+			"body": "由于占用资源太低，我都把电源模式从性能调成平衡了。即使这样，CPU还占不满。\n\n|     场景     |  频率  | 占用率 | 持续时间 |\n|   ---------   |    ----    |   -------   |  ---------  |\n| 更新全部站点 |    1G   |    52%   |       长      |\n| 发送ZeroMail |  1.5G  |    38%   |       短      |\n|     首页搜索     |    1G   |    50%   |       中      |\n| NullChan发图 |  0.7G  |     8%    |       短      |\n|  ZeroMe发帖  |  1.5G  |    10%   |       短      |\n| 论坛发帖 |  0.2G  |     2%    |        -        |",
+			"date_added": 1479137663
+		},
+		{
+			"post_id": 1479139015,
+			"body": "新手机访问旧手机",
+			"date_added": 1479138937,
+			"meta": "{\"img\":\"795,700,777444eee555222111667bbc323233fff000,01111222223455536722388849172A355559172A15BBB917AA35BBB917AA35B5B9172A345551372A011112222A\"}"
 		}
 	],
 	"post_like": {
@@ -1849,6 +1860,12 @@
 			"body": "@Lmath: 是啊，很多镜像站都没有ARM的资源",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479104948",
 			"date_added": 1479108575
+		},
+		{
+			"comment_id": 244,
+			"body": "忽然意识到一个问题，平衡模式不是四核全开的，也就是说这个表不准",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479137740",
+			"date_added": 1479137869
 		}
 	],
 	"follow": [
