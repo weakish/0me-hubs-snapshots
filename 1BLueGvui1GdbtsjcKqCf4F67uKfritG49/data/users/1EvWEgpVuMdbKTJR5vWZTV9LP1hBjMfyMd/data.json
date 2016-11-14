@@ -1,7 +1,7 @@
 {
-	"next_post_id": 11,
-	"next_comment_id": 11,
-	"next_follow_id": 20,
+	"next_post_id": 13,
+	"next_comment_id": 14,
+	"next_follow_id": 21,
 	"avatar": "png",
 	"user_name": "Squarezero",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -59,6 +59,17 @@
 			"post_id": 1479159920,
 			"date_added": 1479159910,
 			"meta": "{\"img\":\"467,700,fffedcdcb999cde5441383478accba333965566998bc9888,00100001010000023400001560000237800029AB00C3DDD992EEE3BF2EE9F5CEE3CFFF\"}"
+		},
+		{
+			"post_id": 1479163229,
+			"date_added": 1479163218,
+			"meta": "{\"img\":\"474,700,110321332221442643532753653100432431666665,001223011422410515600014730002280309022909337A2133131B11221232111121CD\"}"
+		},
+		{
+			"post_id": 1479164059,
+			"body": "FUN: Just because you laugh doesn't mean you're enjoying yourself.",
+			"date_added": 1479164047,
+			"meta": "{\"img\":\"900,609,432332445322666876654755a98baaa99222ccb111,012200345675440628984A9A5575AA41B50038CA421BDD3ACA6541264584DBDB313DDD\"}"
 		}
 	],
 	"post_like": {
@@ -125,6 +136,18 @@
 			"body": "It sure will : it's fun, convenient, full of interesting (though a little on the crazy side) people...",
 			"post_uri": "1MMHsdQdm448P5tHtvS6UkmfVrUEHemYkW_1479157704",
 			"date_added": 1479158278
+		},
+		{
+			"comment_id": 12,
+			"body": "Run it as a specific user (say \"ipfsuser\"), and add iptables rules - matching that user - that forbid all IPv4 traffic. It's similar to how you force a given user's traffic to go through tor, only simpler.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1478875191",
+			"date_added": 1479162508
+		},
+		{
+			"comment_id": 13,
+			"body": "@ElectrcNINJA: I've been there a few years ago, but haven't really improved over time. So now, I'm that far from being a madman ;)",
+			"post_uri": "1MMHsdQdm448P5tHtvS6UkmfVrUEHemYkW_1479157704",
+			"date_added": 1479162946
 		}
 	],
 	"follow": [
@@ -260,6 +283,13 @@
 			"auth_address": "1GCsW9TFfjDsvcdmKPADq1n8Q3ha72UtDQ",
 			"user_name": "Mod",
 			"date_added": 1479159357
+		},
+		{
+			"follow_id": 20,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx",
+			"user_name": "ks",
+			"date_added": 1479162692
 		}
 	]
 }
