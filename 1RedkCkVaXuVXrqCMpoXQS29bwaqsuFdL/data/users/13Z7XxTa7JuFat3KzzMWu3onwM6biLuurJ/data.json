@@ -1,6 +1,6 @@
 {
 	"next_post_id": 35,
-	"next_comment_id": 139,
+	"next_comment_id": 140,
 	"next_follow_id": 140,
 	"avatar": "jpg",
 	"user_name": "P2P",
@@ -209,7 +209,8 @@
 		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1478417725": 1478444922,
 		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1478423200": 1478445509,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1478569342": 1478570777,
-		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1478620854": 1478620898
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1478620854": 1478620898,
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479099939": 1479101808
 	},
 	"comment": [
 		{
@@ -1039,6 +1040,12 @@
 			"body": "@Lmath: 搞完了print的兼容，就会有人来说XX语句也兼容一下吧，结果没完没了。2to3的坑也不是直接转换下就搞定的。解释器越来越复杂，体积越来越大，也是不想看到的。",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478963408",
 			"date_added": 1479095081
+		},
+		{
+			"comment_id": 139,
+			"body": "Twister在tor下限制连接数为8，而且推文全部需要那8个节点中转，性能可想而知",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479097880",
+			"date_added": 1479101974
 		}
 	],
 	"follow": [

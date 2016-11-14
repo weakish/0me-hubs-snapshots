@@ -1,6 +1,6 @@
 {
-	"next_post_id": 75,
-	"next_comment_id": 230,
+	"next_post_id": 76,
+	"next_comment_id": 233,
 	"next_follow_id": 58,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
@@ -373,6 +373,11 @@
 			"post_id": 1479020904,
 			"body": "等中国民主了，第一件事就是取消一切政治正确特权，刁民特权还有赵家特权",
 			"date_added": 1479020830
+		},
+		{
+			"post_id": 1479101772,
+			"body": "部署在手机上的ZeroNet访问起来非常快。PC有的时候会因为硬盘读写会卡，但手机不存在这个问题。唯一的问题是受WiFi速度限制，打开图片有点慢。\n下一步就是部署BTSync了。",
+			"date_added": 1479101697
 		}
 	],
 	"post_like": {
@@ -1755,6 +1760,24 @@
 			"body": "@Windonsurf: 我学过法律，老师告诉我这是重罪。但从一个人的良知上来说，我认为这是轻罪",
 			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1478836269",
 			"date_added": 1479087957
+		},
+		{
+			"comment_id": 230,
+			"body": "@Rainlime: 手机连了LTE电脑就访问不了了",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479101772",
+			"date_added": 1479102079
+		},
+		{
+			"comment_id": 231,
+			"body": "@Rainlime: 用不起",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479101772",
+			"date_added": 1479102261
+		},
+		{
+			"comment_id": 232,
+			"body": "@Rainlime: 完全承受的住，负载从来没高过0.25",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479101772",
+			"date_added": 1479102305
 		}
 	],
 	"follow": [

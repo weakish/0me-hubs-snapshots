@@ -1,5 +1,5 @@
 {
-	"next_post_id": 46,
+	"next_post_id": 47,
 	"next_comment_id": 31,
 	"next_follow_id": 14,
 	"avatar": "generate",
@@ -169,7 +169,7 @@
 		},
 		{
 			"post_id": 1478128320,
-			"body": "**Issue \\#-2** ZeroMux for beginners\nLet's make a Dropbox for ZeroNet!\n\nCreate a link to download all necessary tools rather than telling people to find the site folder.\n- `[+]` Make the UI\n- `[ ]` Write actual code\n\nWrite a Python program to help people split files and configure ZeroMux without having to write a line of code.\n- `[+]` Command line options\n- `[ ]` Managing files and folders\n    - `[+]` Find files and folders\n    - `[+]` Add new file\n    - `[+]` Add new folder\n    - `[+]` Rename file / folder\n    - `[+]` Move file / folder\n    - `[+]` Delete file / folder\n    - `[+]` Front-end: Display files and folders\n    - `[+]` Front-end: Checkboxes\n    - `[ ]` Front-end: Use the back-end to manage files and folders\n    - `[+]` Front-end: Make a UI for uploading new file\n\nCreate a permanent link for every big file.\n- `[+]` Files and folders are identified by random string IDs.\n- `[+]` Make a UI to parse permanent links and show their corresponding files.\n\nThe Python part is finished. I am now working on the front-end.",
+			"body": "**Issue \\#-2** ZeroMux for beginners\nLet's make a Dropbox for ZeroNet!\n\nCreate a link to download all necessary tools rather than telling people to find the site folder.\n- `[+]` Make the UI\n- `[ ]` Write actual code\n\nWrite a Python program to help people split files and configure ZeroMux without having to write a line of code.\n- `[+]` Command line options\n- `[ ]` Managing files and folders\n    - `[+]` Find files and folders\n    - `[+]` Add new file\n    - `[+]` Add new folder\n    - `[+]` Rename file / folder\n    - `[+]` Move file / folder\n    - ~~`[+]` Delete file / folder~~ Testing\n    - `[+]` Front-end: Display files and folders\n    - `[+]` Front-end: Checkboxes\n    - `[+]` Front-end: Use the back-end to add new folder\n    - `[ ]` Front-end: Use the back-end to rename files and folders\n    - ~~`[ ]` Front-end: Use the back-end to delete files and folders~~\n    - `[ ]` Front-end: Use the back-end to move files and folders\n    - `[+]` Front-end: Make a UI for uploading new file\n\nCreate a permanent link for every big file.\n- `[+]` Files and folders are identified by random string IDs.\n- `[+]` Make a UI to parse permanent links and show their corresponding files.",
 			"date_added": 1478128286
 		},
 		{
@@ -222,6 +222,11 @@
 			"post_id": 1479022235,
 			"body": "No WebRTC, No IPFS, No plugins are required.\n\nHave a look at the **front-end** of the self hosted [ZeroMux **big file sharing service**](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/sample-loader). Tell me about how fast was your download!\n\n\nWant a permalink for a file? It will look like this:\nhttp://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/sample-loader/?1DmTVdhy\n\nThis is still unfinished, though.",
 			"date_added": 1479022190
+		},
+		{
+			"post_id": 1479099939,
+			"body": "Tested ZeroMux on a 430MB file. Integrity check took 30 seconds but the file can be saved without being damaged.",
+			"date_added": 1479099893
 		}
 	],
 	"post_like": {

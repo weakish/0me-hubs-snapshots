@@ -1,6 +1,6 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 20,
 	"avatar": "jpg",
 	"user_name": "Megavolt",
@@ -15,9 +15,17 @@
 		}
 	],
 	"post_like": {
-		"1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1478920519": 1479001934
+		"1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1478920519": 1479001934,
+		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1479065696": 1479101496
 	},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@mls: hammer :-D Also ist schon was Feines, dieses ZeroNet. Kein zentraler Server und kryptographisch abgesichert.",
+			"post_uri": "18P7HcmnENFWkpQFtPjnjHv6x9p2eHa6rp_1479065015",
+			"date_added": 1479100076
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 1,
