@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 14,
 	"avatar": "generate",
 	"user_name": "Poco",
@@ -14,7 +14,14 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "这话的意思是中国未来会民主咯",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479020904",
+			"date_added": 1479133837
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 2,
