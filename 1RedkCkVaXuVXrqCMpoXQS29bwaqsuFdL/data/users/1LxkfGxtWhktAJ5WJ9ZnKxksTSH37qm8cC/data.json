@@ -1,6 +1,6 @@
 {
 	"next_post_id": 47,
-	"next_comment_id": 33,
+	"next_comment_id": 34,
 	"next_follow_id": 14,
 	"avatar": "generate",
 	"user_name": "Firebox",
@@ -425,6 +425,12 @@
 			"body": "@Militaryriotlab: Sandboxed Iframe + Web Worker = Cross Origin Error\nSandboxed Iframe + Web Worker using Blob = Fine\nChrome + HTTPS + Sandboxed Iframe + Web Worker with Blobs  = Mixed content error.\n\nThe temporary solution is to run your own ZeroNet instance, or stick to Firefox if you want to use a proxy.",
 			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479022235",
 			"date_added": 1479148946
+		},
+		{
+			"comment_id": 33,
+			"body": "@Lmath: File upload depends on a program that serves as a back-end. It is not finished yet.",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479099939",
+			"date_added": 1479151344
 		}
 	],
 	"follow": [
