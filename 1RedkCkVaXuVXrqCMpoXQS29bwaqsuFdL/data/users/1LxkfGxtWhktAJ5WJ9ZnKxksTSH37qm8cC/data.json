@@ -1,6 +1,6 @@
 {
 	"next_post_id": 47,
-	"next_comment_id": 32,
+	"next_comment_id": 33,
 	"next_follow_id": 14,
 	"avatar": "generate",
 	"user_name": "Firebox",
@@ -419,6 +419,12 @@
 			"body": "Hello. If you are using Firefox, there is a [bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1313268) that prevents the browser from renaming the file. This bug should be fixed in Firefox 53.",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479107381",
 			"date_added": 1479111441
+		},
+		{
+			"comment_id": 32,
+			"body": "@Militaryriotlab: Sandboxed Iframe + Web Worker = Cross Origin Error\nSandboxed Iframe + Web Worker using Blob = Fine\nChrome + HTTPS + Sandboxed Iframe + Web Worker with Blobs  = Mixed content error.\n\nThe temporary solution is to run your own ZeroNet instance, or stick to Firefox if you want to use a proxy.",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479022235",
+			"date_added": 1479148946
 		}
 	],
 	"follow": [

@@ -1,6 +1,6 @@
 {
-	"next_post_id": 81,
-	"next_comment_id": 133,
+	"next_post_id": 82,
+	"next_comment_id": 135,
 	"next_follow_id": 219,
 	"avatar": "jpg",
 	"user_name": "ks",
@@ -336,6 +336,11 @@
 			"post_id": 1478875191,
 			"body": "How can I prevent IPFS from connecting to, say, IPv4 _at all_?\nEven if I tell IPFS to listen on IPv6 _only_, it happily connects to any and all IPv4 addresses it hears about.\nCan I e.g. tell it to listen to a certain _interface_ only, rather than certain IP addresses?\nOther solutions?",
 			"date_added": 1478875111
+		},
+		{
+			"post_id": 1479131637,
+			"body": "￼ Full super #moon",
+			"date_added": 1479131556
 		}
 	],
 	"post_like": {
@@ -1158,6 +1163,18 @@
 			"body": "Two months… Is that until Trump moves into the White House?",
 			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1478886527",
 			"date_added": 1478936497
+		},
+		{
+			"comment_id": 133,
+			"body": "@Mynameislegion: also here…",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1479131637",
+			"date_added": 1479136399
+		},
+		{
+			"comment_id": 134,
+			"body": "@Mynameislegion: I think it would be overkill to use a VM to accomplish the task, but a firewall could be a possibility (if it exists).\n\nHowever, it turns out what I was thinking of will be a bad idea. What I wanted to accomplish was to have IPFS exchange data with fc00::/8 (Hyperboria / cjdns). But if I were able to do that, IPFS would only be able to download files from peers on cjdns only. I thought IPFS was a mesh. It's not, apparently.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1478875191",
+			"date_added": 1479147008
 		}
 	],
 	"follow": [
