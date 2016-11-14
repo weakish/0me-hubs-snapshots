@@ -1,6 +1,6 @@
 {
 	"next_post_id": 35,
-	"next_comment_id": 138,
+	"next_comment_id": 139,
 	"next_follow_id": 140,
 	"avatar": "jpg",
 	"user_name": "P2P",
@@ -1033,6 +1033,12 @@
 			"body": "@Lmath: 当然要考虑性能，如果zeronet很卡、占用资源很多你会用吗？生成语法抽象树也是需要时间的。况且作为动态语言，生成一次语法抽象树就OK了？",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478963408",
 			"date_added": 1479088597
+		},
+		{
+			"comment_id": 138,
+			"body": "@Lmath: 搞完了print的兼容，就会有人来说XX语句也兼容一下吧，结果没完没了。2to3的坑也不是直接转换下就搞定的。解释器越来越复杂，体积越来越大，也是不想看到的。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478963408",
+			"date_added": 1479095081
 		}
 	],
 	"follow": [

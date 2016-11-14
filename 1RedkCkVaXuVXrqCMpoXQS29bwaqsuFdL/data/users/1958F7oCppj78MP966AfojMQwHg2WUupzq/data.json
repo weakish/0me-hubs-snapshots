@@ -1,7 +1,7 @@
 {
 	"next_post_id": 11,
-	"next_comment_id": 29,
-	"next_follow_id": 135,
+	"next_comment_id": 30,
+	"next_follow_id": 137,
 	"avatar": "png",
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -229,6 +229,12 @@
 			"body": "@P2P: 解释性语言不就是便捷性迁就的吗？况且解释性语言一般也是先生成语法抽象树然后运行的，感觉性能影响很小。",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478963408",
 			"date_added": 1479053185
+		},
+		{
+			"comment_id": 29,
+			"body": "@P2P: 那是不是可以预编译下，比如编辑完了把不带括号的 print 语句转换成带括号的，这样的话也不影响运行的性能了。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478963408",
+			"date_added": 1479093775
 		}
 	],
 	"follow": [
@@ -1155,6 +1161,20 @@
 			"auth_address": "1FqFwXSATEMsvPsxnTCM9W55uHxkYnSfHU",
 			"user_name": "A7ic7",
 			"date_added": 1479082143
+		},
+		{
+			"follow_id": 135,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1479094082
+		},
+		{
+			"follow_id": 136,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib",
+			"user_name": "megfault",
+			"date_added": 1479094091
 		}
 	],
 	"settings": {
