@@ -1,6 +1,6 @@
 {
 	"next_post_id": 35,
-	"next_comment_id": 137,
+	"next_comment_id": 138,
 	"next_follow_id": 140,
 	"avatar": "jpg",
 	"user_name": "P2P",
@@ -1027,6 +1027,12 @@
 			"body": "@weakish: twister就有按语言过滤，设置过滤参数就很纠结，会被逼出强迫症",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1478279381",
 			"date_added": 1479053317
+		},
+		{
+			"comment_id": 137,
+			"body": "@Lmath: 当然要考虑性能，如果zeronet很卡、占用资源很多你会用吗？生成语法抽象树也是需要时间的。况且作为动态语言，生成一次语法抽象树就OK了？",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478963408",
+			"date_added": 1479088597
 		}
 	],
 	"follow": [

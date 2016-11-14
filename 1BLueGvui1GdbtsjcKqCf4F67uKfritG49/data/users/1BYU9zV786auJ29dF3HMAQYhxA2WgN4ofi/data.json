@@ -1,6 +1,6 @@
 {
 	"next_post_id": 38,
-	"next_comment_id": 69,
+	"next_comment_id": 70,
 	"next_follow_id": 28,
 	"avatar": "jpg",
 	"user_name": "Eibriel",
@@ -636,6 +636,12 @@
 			"body": "Welcome to ZeroMe!",
 			"post_uri": "1B1dCFuNTFA3evXuuZpZyrvdRA7vmxvfxZ_1",
 			"date_added": 1479050291
+		},
+		{
+			"comment_id": 69,
+			"body": "You can upload the .mp4 file to IPFS and add the video tag to the blog post, for instance:\n```\n<video controls style=\"max-width: 100%\">\n  <source src=\"https://gateway.ipfs.io/ipfs/QmdTfmiWPLKVpXDrwGwpj1itJNvqd6SNLuDXKhwNvjHmLu\" type=\"video/mp4\">\nYour browser does not support the video element.\n</video> \n```\n\nYou can see an example on http://127.0.0.1:43110/15ThY8kpAbjidWNfXHeyDT48noj6ArYjmz/?Post:6:Valerian+and+the+City+of+a+Thousand+Planets+(Luc+Besson)+-+First+Trailer",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1479065696",
+			"date_added": 1479088410
 		}
 	],
 	"follow": [
