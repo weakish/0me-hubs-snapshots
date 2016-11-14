@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 65,
+	"next_comment_id": 66,
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -463,6 +463,12 @@
 			"body": "@P2P: 2到3绝大部分都是语法的差异，兼容一点语法完全不影响性能，也不影响体积。Python的性能问题主要是对象太灵活，还有没上JIT.",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478963408",
 			"date_added": 1479117580
+		},
+		{
+			"comment_id": 65,
+			"body": "@Lmath: 2to3就相当于预编译，像print这种简单的转换没问题。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478963408",
+			"date_added": 1479117633
 		}
 	]
 }

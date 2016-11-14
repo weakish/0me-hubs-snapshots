@@ -1,7 +1,7 @@
 {
-	"next_post_id": 51,
+	"next_post_id": 52,
 	"next_comment_id": 33,
-	"next_follow_id": 167,
+	"next_follow_id": 168,
 	"avatar": "png",
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -256,6 +256,11 @@
 			"post_id": 1479051315,
 			"body": "Use registery to swap keys under Windows.\n\nFor example, use Caps Lock key as an addtional Escape key.\n\n```reg\nWindows Registry Editor Version 5.00\n\n[HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layout]\n\"Scancode Map\"=hex:00,00,00,00,00,00,00,00,02,00,00,00,01,00,3a,00,00,00,00,00\n```\n\nNotes:\n\n- `00,00,00,00,00,00,00,00`: header.\n- `02`: data length (`n + 1` where `n` is numer of mapped keys).\n- `00,00,00`: end of data length.\n- `01,00`: Esc.\n- `3a,00`: Caps.\n- `00,00,00,00,00`: end.",
 			"date_added": 1479051265
+		},
+		{
+			"post_id": 1479118734,
+			"body": "Windows 8.1's Microsoft Pinyin input method:\n\n1. cannot change double pinyin schema\n2. no keyboard shortcut to switch between traditional Chinese and simplified Chinese\n3. no option to set default to English",
+			"date_added": 1479118683
 		}
 	],
 	"post_like": {
@@ -1582,6 +1587,13 @@
 			"auth_address": "18gK4zjhJbd2sKs3CfmqZQ6E9Di3qQFfAz",
 			"user_name": "Yolt",
 			"date_added": 1479050757
+		},
+		{
+			"follow_id": 167,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1P15HPD9wDNsudUPjAnriC2VdoTEidajQZ",
+			"user_name": "Pionx",
+			"date_added": 1479117715
 		}
 	]
 }
