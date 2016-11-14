@@ -1,6 +1,6 @@
 {
 	"next_post_id": 47,
-	"next_comment_id": 31,
+	"next_comment_id": 32,
 	"next_follow_id": 14,
 	"avatar": "generate",
 	"user_name": "Firebox",
@@ -220,7 +220,7 @@
 		},
 		{
 			"post_id": 1479022235,
-			"body": "No WebRTC, No IPFS, No plugins are required.\n\nHave a look at the **front-end** of the self hosted [ZeroMux **big file sharing service**](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/sample-loader). Tell me about how fast was your download!\n\n\nWant a permalink for a file? It will look like this:\nhttp://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/sample-loader/?1DmTVdhy\n\nThis is still unfinished, though.",
+			"body": "No WebRTC, No IPFS, No plugins are required.\n\nHave a look at the **front-end** of the self hosted [ZeroMux **big file sharing service**](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/sample-loader/). Tell me about how fast was your download!\n\n\nWant a permalink for a file? It will look like this:\nhttp://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/sample-loader/?1DmTVdhy\n\nThis is still unfinished, though.",
 			"date_added": 1479022190
 		},
 		{
@@ -413,6 +413,12 @@
 			"body": "@Militaryriotlab: On the MIME type and the extension: there is a [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1313268) that prevents the JavaScript program from renaming the file. If you use Chrome, the file will be renamed properly.",
 			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479022235",
 			"date_added": 1479062771
+		},
+		{
+			"comment_id": 31,
+			"body": "Hello. If you are using Firefox, there is a [bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1313268) that prevents the browser from renaming the file. This bug should be fixed in Firefox 53.",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479107381",
+			"date_added": 1479111441
 		}
 	],
 	"follow": [
