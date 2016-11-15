@@ -1,0 +1,20 @@
+{
+	"next_comment_id": 3,
+	"user_name": "Alien",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "不需要双开啊，直接multiuser就行了",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1479192670",
+			"date_added": 1479201830
+		},
+		{
+			"comment_id": 2,
+			"body": "plugins文件夹下面的disabled-Multiuser，把前面的disabled-去掉，然后启动的时候加上--multiuser参数",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1479192670",
+			"date_added": 1479201910
+		}
+	]
+}
