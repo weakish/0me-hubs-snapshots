@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 149,
+	"next_comment_id": 153,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -886,6 +886,30 @@
 			"body": "首先沙盘里可以运行 ZeroNet ，但是不能利用沙盘作为隔离环境双开，其实双开很简单，弄两个目录并且设置两个不同端口即可。",
 			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1479192670",
 			"date_added": 1479199357
+		},
+		{
+			"comment_id": 149,
+			"body": "@gfwbot79: 是有选择器可以选择 ID 还是每次都要填 master_seed ？",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1479192670",
+			"date_added": 1479219201
+		},
+		{
+			"comment_id": 150,
+			"body": "@gfwbot79: 所以说切换帐号还是要输入 master_seed ？",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1479192670",
+			"date_added": 1479219417
+		},
+		{
+			"comment_id": 151,
+			"body": "@gfwbot79: 可是我希望有多个号点一下就可以切换，还有这种方法貌似不太适合用于匿名吧！",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1479192670",
+			"date_added": 1479219675
+		},
+		{
+			"comment_id": 152,
+			"body": "@gfwbot79: 使用不同的 cert 而实际 IP 相同，不就简单地把身份关联起来了么？我暂时不知道如果在 Tor 下 .onion 地址会不会变，如果会的话，也有这种隐患。",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1479192670",
+			"date_added": 1479221067
 		}
 	],
 	"flags": {},

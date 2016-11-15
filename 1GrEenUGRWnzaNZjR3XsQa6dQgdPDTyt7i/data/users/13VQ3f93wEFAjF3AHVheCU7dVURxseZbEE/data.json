@@ -1,6 +1,6 @@
 {
-	"next_post_id": 5,
-	"next_comment_id": 8,
+	"next_post_id": 6,
+	"next_comment_id": 14,
 	"next_follow_id": 17,
 	"avatar": "jpg",
 	"user_name": "gfwbot79",
@@ -21,6 +21,11 @@
 			"post_id": 1479190174,
 			"body": "尝试使用hexo部署博客到zeronet，运行倒是正常，但是每次generate之后要手动拷贝public目录到网站目录……很尴尬。",
 			"date_added": 1479190170
+		},
+		{
+			"post_id": 1479220366,
+			"body": "杜汶泽的《选老顶》\n\n怎么说呢，脑子里留下的印象就是\n黑社会要选老大，由四个大佬指定候选人，然后由老大和各个分帮帮主投票。然后杜汶泽觉得这样自己选不上，要求一人一票。\n\n我要真普选～\n\n可是后来当他跟另一个候选人准备火拼的时候又不拿自己说的一人一票当回事了23333“我不是要公平，我是要做话事人！”\n\nIMDB 5.6，我给3分。",
+			"date_added": 1479220361
 		}
 	],
 	"post_like": {},
@@ -51,7 +56,7 @@
 		},
 		{
 			"comment_id": 5,
-			"body": "@Alien: 慎用！试了一下，每次打开zerohello都会生成一个新的master key，写入users.json。关键是它把我原本的zeroid cert弄没了！要不是有时光机后果很严重…",
+			"body": "@Alien: \n~~慎用！~~试了一下，每次打开zerohello都会生成一个新的master key，写入users.json。关键是它把我原本的zeroid cert弄没了！要不是有时光机后果很严重…",
 			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1479192670",
 			"date_added": 1479204597
 		},
@@ -63,9 +68,45 @@
 		},
 		{
 			"comment_id": 7,
-			"body": "@Alien: 奇怪，重新尝试一下，我的users.json不会被改写了。。什么毛病",
+			"body": "@Alien: 奇怪，重新尝试一下，我的users.json不会被改写了。。什么毛病\n——发现是运行时没有带上--multiuser_local参数。重新访问zeroid得到了cert。",
 			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1479192670",
 			"date_added": 1479207633
+		},
+		{
+			"comment_id": 8,
+			"body": "@Alien: 没问题了。看来还是要学习一个！",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1479192670",
+			"date_added": 1479218413
+		},
+		{
+			"comment_id": 9,
+			"body": "@Lmath: 第一次试的时候不知道什么情况，每次重新访问zerohello就会生成新的masterseed。现在可以固定了",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1479192670",
+			"date_added": 1479219308
+		},
+		{
+			"comment_id": 10,
+			"body": "成立中央反共委员会？233",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479208979",
+			"date_added": 1479219393
+		},
+		{
+			"comment_id": 11,
+			"body": "@Lmath: 是啊。……诶难道不是的吗？",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1479192670",
+			"date_added": 1479219490
+		},
+		{
+			"comment_id": 12,
+			"body": "@Lmath: 我能想到的方法就是不断复制粘贴master seed了。其实如果真的每次运行local server都生成新的seed不是匿名性更强吗？虽然要想说话会比较不现实。",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1479192670",
+			"date_added": 1479219920
+		},
+		{
+			"comment_id": 13,
+			"body": "回头看了一下，真正的老大角色设计也很有意思：\n幕后操纵一切，挑拨候选人之间的关系，意图让两个人火拼而死自己继续掌权\n患前列腺癌，死时失禁，死在自己的大小便里233\n\n总觉得政治意味太过明显。最近的港片都是这样的吗",
+			"post_uri": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE_1479220366",
+			"date_added": 1479220385
 		}
 	],
 	"follow": [
