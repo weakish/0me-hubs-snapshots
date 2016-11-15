@@ -1,6 +1,6 @@
 {
 	"next_post_id": 82,
-	"next_comment_id": 135,
+	"next_comment_id": 136,
 	"next_follow_id": 219,
 	"avatar": "jpg",
 	"user_name": "ks",
@@ -1175,6 +1175,12 @@
 			"body": "@Mynameislegion: I think it would be overkill to use a VM to accomplish the task, but a firewall could be a possibility (if it exists).\n\nHowever, it turns out what I was thinking of will be a bad idea. What I wanted to accomplish was to have IPFS exchange data with fc00::/8 (Hyperboria / cjdns). But if I were able to do that, IPFS would only be able to download files from peers on cjdns only. I thought IPFS was a mesh. It's not, apparently.",
 			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1478875191",
 			"date_added": 1479147008
+		},
+		{
+			"comment_id": 135,
+			"body": "@Squarezero: Thanks!",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1478875191",
+			"date_added": 1479192213
 		}
 	],
 	"follow": [
