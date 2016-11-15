@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
 	"next_comment_id": 1,
-	"next_follow_id": 2,
+	"next_follow_id": 3,
 	"avatar": "png",
 	"user_name": "GCMer07.29",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -15,5 +15,13 @@
 	],
 	"post_like": {},
 	"comment": [],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 2,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1Aki4mM1xSPBjfXwZ7GpTS3EDYvutY6eNa",
+			"user_name": "COMMSHLD",
+			"date_added": 1479227489
+		}
+	]
 }
