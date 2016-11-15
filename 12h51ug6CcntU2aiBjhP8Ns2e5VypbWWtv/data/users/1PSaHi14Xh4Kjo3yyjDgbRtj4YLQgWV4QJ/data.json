@@ -1,7 +1,7 @@
 {
 	"next_post_id": 54,
-	"next_comment_id": 31,
-	"next_follow_id": 81,
+	"next_comment_id": 32,
+	"next_follow_id": 82,
 	"avatar": "jpg",
 	"user_name": "ulrichard",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -456,6 +456,12 @@
 			"body": "@Flyman @Bravo: There are rumors that the operator of duckduckgo was prosecuted for privacy violations in the past. No idea what is true about it. I'll also have a look at qwant. What about decentralized search engines? I remember having read something about that topic, but is any of it operational yet?",
 			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1479108067",
 			"date_added": 1479198004
+		},
+		{
+			"comment_id": 31,
+			"body": "@PaintNinja: From https://en.wikipedia.org/wiki/Malware : \"Malware, short for malicious software, is any software used to ... gather sensitive information, gain access to private computer systems...\"   Did anyone ask Microsoft to gather and inspect their files and other personal data? RMS puts it this way: A system shall serve the owner and (only) do what the owner wants it to do. But ownership used to be defined better.",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1479222139",
+			"date_added": 1479242617
 		}
 	],
 	"follow": [
@@ -1018,6 +1024,13 @@
 			"auth_address": "13GU1tjE8NpZocm8bZdSE83BmrbLfydR9V",
 			"user_name": "It's a test!",
 			"date_added": 1479225366
+		},
+		{
+			"follow_id": 81,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1EJ7j6nGoz84S8eYsfEmYA6hF9vV4nKkR4",
+			"user_name": "Zerg",
+			"date_added": 1479241913
 		}
 	],
 	"settings": {
