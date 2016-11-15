@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 148,
+	"next_comment_id": 149,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -879,6 +879,12 @@
 			"body": "@P2P: 即使支持，还是有 GIL 锁限制，除非用增加很多复杂度和额外开销的多进程架构。",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479137740",
 			"date_added": 1479144695
+		},
+		{
+			"comment_id": 148,
+			"body": "首先沙盘里可以运行 ZeroNet ，但是不能利用沙盘作为隔离环境双开，其实双开很简单，弄两个目录并且设置两个不同端口即可。",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1479192670",
+			"date_added": 1479199357
 		}
 	],
 	"flags": {},
