@@ -1,7 +1,7 @@
 {
 	"next_post_id": 5,
-	"next_comment_id": 7,
-	"next_follow_id": 15,
+	"next_comment_id": 8,
+	"next_follow_id": 17,
 	"avatar": "jpg",
 	"user_name": "gfwbot79",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -60,6 +60,12 @@
 			"body": "卧槽。。是hub限制吗",
 			"post_uri": "1JSdw9LdWhBfVyjeDcYy9LX8piJi5dmAQa_1479200073",
 			"date_added": 1479204731
+		},
+		{
+			"comment_id": 7,
+			"body": "@Alien: 奇怪，重新尝试一下，我的users.json不会被改写了。。什么毛病",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1479192670",
+			"date_added": 1479207633
 		}
 	],
 	"follow": [
@@ -153,6 +159,20 @@
 			"auth_address": "157VksPLxufKMy8U344wPhayVY3RhkL8SK",
 			"user_name": "怡红院",
 			"date_added": 1479204694
+		},
+		{
+			"follow_id": 15,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "17wD81Tgg4Tr1heE3b35rNfrXYwhnJRsP5",
+			"user_name": "Alien",
+			"date_added": 1479207891
+		},
+		{
+			"follow_id": 16,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA",
+			"user_name": "P2pwave",
+			"date_added": 1479208012
 		}
 	]
 }

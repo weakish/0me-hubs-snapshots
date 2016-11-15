@@ -1,6 +1,6 @@
 {
 	"next_post_id": 4,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Trump1",
@@ -26,6 +26,13 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@gfwbot79: 这就不知道了，我的`@erotic(怡红院)`在这里暂时发不了帖了",
+			"post_uri": "1JSdw9LdWhBfVyjeDcYy9LX8piJi5dmAQa_1479200073",
+			"date_added": 1479210161
+		}
+	],
 	"follow": []
 }

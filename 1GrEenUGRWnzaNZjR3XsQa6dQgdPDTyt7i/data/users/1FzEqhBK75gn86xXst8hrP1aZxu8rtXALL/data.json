@@ -1,5 +1,5 @@
 {
-	"next_post_id": 2,
+	"next_post_id": 3,
 	"next_comment_id": 1,
 	"next_follow_id": 1,
 	"avatar": "generate",
@@ -11,6 +11,11 @@
 			"post_id": 1,
 			"date_added": 1479048606,
 			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1479208846,
+			"body": "test",
+			"date_added": 1479208844
 		}
 	],
 	"post_like": {},

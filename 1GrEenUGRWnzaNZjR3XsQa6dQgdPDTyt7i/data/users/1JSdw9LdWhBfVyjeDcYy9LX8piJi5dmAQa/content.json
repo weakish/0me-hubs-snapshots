@@ -5,8 +5,8 @@
  "cert_user_id": "trump1@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "37be5940b487105778779708d8e56caf32e174ba6e0c9e7d3b1f1de7cc8ef54a",
-   "size": 833
+   "sha512": "3c02adda6328ad7b4a969d86d964583a3c484a668aa80ea0c657de211f4b8181",
+   "size": 1058
   }
  },
  "files_optional": {
@@ -20,9 +20,9 @@
   }
  },
  "inner_path": "data/users/1JSdw9LdWhBfVyjeDcYy9LX8piJi5dmAQa/content.json",
- "modified": 1479200637.544,
+ "modified": 1479210251.937,
  "optional": "(?!avatar).*jpg",
  "signs": {
-  "1JSdw9LdWhBfVyjeDcYy9LX8piJi5dmAQa": "GzjBlUucMLkFQV28e4xyr5mOqjQmdXA9pToGeWfhWaMHxTr0hi1j2AcA4PhIWApvwws6iPw+jWPT14izi6muJEQ="
+  "1JSdw9LdWhBfVyjeDcYy9LX8piJi5dmAQa": "G2enHf7vqiqSF2ZNNdRr9tZv2aS1h+yOjTvfgLPf96KYKsjbuXsQkLDr7tk0sZHljPs9niP5yYfKHCrJFG2kCUw="
  }
 }
