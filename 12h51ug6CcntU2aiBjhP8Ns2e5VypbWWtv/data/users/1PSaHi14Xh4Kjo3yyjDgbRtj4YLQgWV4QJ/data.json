@@ -1,7 +1,7 @@
 {
-	"next_post_id": 53,
+	"next_post_id": 54,
 	"next_comment_id": 31,
-	"next_follow_id": 80,
+	"next_follow_id": 81,
 	"avatar": "jpg",
 	"user_name": "ulrichard",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -266,6 +266,11 @@
 			"post_id": 1479211113,
 			"body": "Whenever some service sends me an SMS code, I actually feel less save, apparently with good reason:  http://blog.kraken.com/post/153209105847/security-advisory-mobile-phones",
 			"date_added": 1479211061
+		},
+		{
+			"post_id": 1479222139,
+			"body": "https://modzero.github.io/fix-windows-privacy/   This is madness. Why trying to fix what is broken beyond repair? Half the tweaks probably become useless with the next automatic update.",
+			"date_added": 1479222086
 		}
 	],
 	"post_like": {
@@ -1006,6 +1011,13 @@
 			"auth_address": "1EobjuQ5ig6BE9yu1tctgG6J53YnpefQNd",
 			"user_name": "Bravo",
 			"date_added": 1479129419
+		},
+		{
+			"follow_id": 80,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "13GU1tjE8NpZocm8bZdSE83BmrbLfydR9V",
+			"user_name": "It's a test!",
+			"date_added": 1479225366
 		}
 	],
 	"settings": {
