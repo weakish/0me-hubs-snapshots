@@ -1,6 +1,6 @@
 {
-	"next_post_id": 79,
-	"next_comment_id": 245,
+	"next_post_id": 80,
+	"next_comment_id": 246,
 	"next_follow_id": 58,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
@@ -394,6 +394,12 @@
 			"body": "新手机访问旧手机",
 			"date_added": 1479138937,
 			"meta": "{\"img\":\"795,700,777444eee555222111667bbc323233fff000,01111222223455536722388849172A355559172A15BBB917AA35BBB917AA35B5B9172A345551372A011112222A\"}"
+		},
+		{
+			"post_id": 1479176777,
+			"body": "开了两天多，两天天性能模式，一个晚上天平衡模式。大部分时间消耗很少资源，只有在搜索，发邮件的时候会有个尖峰",
+			"date_added": 1479176698,
+			"meta": "{\"img\":\"394,700,3ac39c4bdfffeedcd8adebdeeeebeeceedefffe8ce6ce,00010022222234567387889A9BAAC687889A3ADD73D2222E883888CC3CCC\"}"
 		}
 	],
 	"post_like": {
@@ -1866,6 +1872,12 @@
 			"body": "忽然意识到一个问题，平衡模式不是四核全开的，也就是说这个表不准",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479137740",
 			"date_added": 1479137869
+		},
+		{
+			"comment_id": 245,
+			"body": "@P2P: 不止zeronet一个在用cpu。nginx和系统本身负载一高就会打开其他核心，但最多不超过三个",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479137740",
+			"date_added": 1479177105
 		}
 	],
 	"follow": [
