@@ -1,7 +1,7 @@
 {
 	"next_post_id": 53,
-	"next_comment_id": 34,
-	"next_follow_id": 169,
+	"next_comment_id": 35,
+	"next_follow_id": 170,
 	"avatar": "png",
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -491,6 +491,12 @@
 			"body": "@Rainlime: 目前用小狼毫。\n@Ysc3839: Windows 8.1 微软拼音不认这个快捷键，只能到选项里切。",
 			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1479118734",
 			"date_added": 1479201822
+		},
+		{
+			"comment_id": 34,
+			"body": "@Lmath: IME是旧框架，可以在语言设置里删掉，保留TSF（除非是老旧的OS）。Metro程序确实不支持。",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1479118734",
+			"date_added": 1479294021
 		}
 	],
 	"follow": [
@@ -1613,6 +1619,13 @@
 			"auth_address": "1PuTQoReznQ3vqz8dSgeZq63uJw9aiH1e2",
 			"user_name": "Mapod",
 			"date_added": 1479201553
+		},
+		{
+			"follow_id": 169,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1GMNmr2bDPbT4c8yVnyCoDHke52CNCdqAa",
+			"user_name": "Apuar",
+			"date_added": 1479294052
 		}
 	]
 }

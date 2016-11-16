@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 67,
+	"next_comment_id": 68,
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -476,6 +476,12 @@
 			"body": "@P2P: 首先很多开源社区都有「青少年注意力缺乏症」：擦！这设计/实现简直就是屎！必须推倒重来！历史包袱丢掉！新的开始！其次，Python 的哲学是只有一个明显的解决方案(only one obvious way to do it)，兼容新、旧方案和这一哲学冲突。 以上为我的脑补。印象中看到Guido的说法是重新开始，根除以前的错误设计，保持语言的简洁（反之保持兼容的话，特性只能加不能减）。作为语言的设计者来说，最爽的就是随时能任意地加东西、去掉东西，问题是Python 2 已经很成功了，不是实验性的小众语言了，使用语言的人当然不想花功夫重构。于是结果就是社区分裂（Python 2本来2015年就要废弃的，但后来延长支持到2020年，我估计到时说不定还会再延几年）。",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478963408",
 			"date_added": 1479204343
+		},
+		{
+			"comment_id": 67,
+			"body": "@P2P: 是的。不过比较重要的特性基本都backport到2.7了。性能的话，还是得寄希望于pypy或者Jython（这好像开发停滞了）之类的第三方，python 3 性能提升并不明显。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478963408",
+			"date_added": 1479294356
 		}
 	]
 }
