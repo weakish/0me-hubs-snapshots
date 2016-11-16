@@ -1,7 +1,7 @@
 {
-	"next_post_id": 7,
-	"next_comment_id": 16,
-	"next_follow_id": 17,
+	"next_post_id": 8,
+	"next_comment_id": 27,
+	"next_follow_id": 21,
 	"avatar": "jpg",
 	"user_name": "gfwbot79",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -31,6 +31,11 @@
 			"post_id": 1479224523,
 			"body": "有没有导出ZeroMe文字的什么方法？自己写的东西还是想留一份。能导出评论（自己发的和别人留下的）就更好了",
 			"date_added": 1479224517
+		},
+		{
+			"post_id": 1479307625,
+			"body": "在ZeroMe体验到文化、语言的割裂感。\n简单来说就是，我懒得去关注不说中文的用户，因为阅读英语比较费脑¯﹃¯",
+			"date_added": 1479307618
 		}
 	],
 	"post_like": {},
@@ -124,6 +129,72 @@
 			"body": "Translation: Is there any way to export my ZeroMe tweets? Better if with comments sent and received",
 			"post_uri": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE_1479224523",
 			"date_added": 1479224605
+		},
+		{
+			"comment_id": 16,
+			"body": "@莱文倩: 不觉得”中央反共委员会“很讽刺么？为了反极权，成立集权……",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479208979",
+			"date_added": 1479276012
+		},
+		{
+			"comment_id": 17,
+			"body": "@Lmath: 导出嘛本来也就是留个存档，人能看懂就差不多了，至于迁移可能要依赖Hub间的合作吧",
+			"post_uri": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE_1479224523",
+			"date_added": 1479276763
+		},
+		{
+			"comment_id": 18,
+			"body": "@P2P: 虚拟机是清除本地痕迹的一种？有点强行解释233",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1479192670",
+			"date_added": 1479306986
+		},
+		{
+			"comment_id": 19,
+			"body": "@Ysc3839: 不是这么说吧，比特币为什么要每一次交易生成新的找零地址，不就是为了提高privacy嘛",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1479192670",
+			"date_added": 1479307082
+		},
+		{
+			"comment_id": 20,
+			"body": "@P2P: 那这样还不是中心化的／censored。可不可以这样，弄一个开源的spam filter，每次运行就扫一遍删一遍，人人都可以执行，附上管理员签名和执行人签名",
+			"post_uri": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE_1479224523",
+			"date_added": 1479307399
+		},
+		{
+			"comment_id": 21,
+			"body": "@猫叉酱: 这个方案不错，4应该是“由他签名的任何文件”吧\n突然想到一个问题。比如说我看你不爽，把你屏蔽了，那订阅我的列表的所有人都把你屏蔽了。如果我们两个刚好是“公共知识分子”很多人关注，那岂不是带来了社区的割裂？是不是想得太远了",
+			"post_uri": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE_1479224523",
+			"date_added": 1479308767
+		},
+		{
+			"comment_id": 22,
+			"body": "@猫叉酱: 有理，我后来也想得差不多。",
+			"post_uri": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE_1479224523",
+			"date_added": 1479309217
+		},
+		{
+			"comment_id": 23,
+			"body": "@nekocross ta硬了（机械地重复）",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479308483",
+			"date_added": 1479309274
+		},
+		{
+			"comment_id": 24,
+			"body": "@Ysc3839: 一个人的浏览习惯是有迹可循的，如果长期使用同一个Identity浏览同一个内容，还是有被发现的风险吧（大概吧）",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1479192670",
+			"date_added": 1479310089
+		},
+		{
+			"comment_id": 25,
+			"body": "@Mzero: 然而事实上还是英语，谁让整个互联网都是英语构建起来的呢",
+			"post_uri": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE_1479307625",
+			"date_added": 1479310417
+		},
+		{
+			"comment_id": 26,
+			"body": "@Monico: ~~爱情动作片~~\n上过几节电影分析课，实际上肢体语言也是千人千理解的",
+			"post_uri": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE_1479307625",
+			"date_added": 1479310433
 		}
 	],
 	"follow": [
@@ -231,6 +302,34 @@
 			"auth_address": "1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA",
 			"user_name": "P2pwave",
 			"date_added": 1479208012
+		},
+		{
+			"follow_id": 17,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5",
+			"user_name": "莱文倩",
+			"date_added": 1479276519
+		},
+		{
+			"follow_id": 18,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC",
+			"user_name": "meidan",
+			"date_added": 1479307776
+		},
+		{
+			"follow_id": 19,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka",
+			"user_name": "Kha",
+			"date_added": 1479310516
+		},
+		{
+			"follow_id": 20,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS",
+			"user_name": "Jabasukuriputo Wang",
+			"date_added": 1479311587
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"next_post_id": 11,
+	"next_post_id": 12,
 	"next_comment_id": 29,
 	"next_follow_id": 13,
 	"avatar": "jpg",
@@ -26,6 +26,11 @@
 			"post_id": 1479142146,
 			"body": "New fun from EU ...\nhttps://ec.europa.eu/digital-single-market/en/modernisation-eu-copyright-rules",
 			"date_added": 1479142136
+		},
+		{
+			"post_id": 1479291232,
+			"body": "Money Network http://127.0.0.1:43110/1JeHa67QEvrrFpsSow82fLypw8LoRcmCXk/\n\nPrivate encrypted chat with images should be working now. \nAlmost all data in localStorage, minimal data on ZeroNet and using 1024 bit RSA for client to client communication.\nI don't like the concept with central user ID in a decentral network so are using anonymous ZeroNet certificates.  \nGuest log in can be used for test. ",
+			"date_added": 1479291221
 		}
 	],
 	"post_like": {

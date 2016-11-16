@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 164,
+	"next_comment_id": 168,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -984,6 +984,30 @@
 			"body": "@Ysc3839: 非官方的版本其实还是怕被加入一些奇怪的东西的。",
 			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1479117651",
 			"date_added": 1479219375
+		},
+		{
+			"comment_id": 164,
+			"body": "@Cxgreat2014: 感觉这几年蔬菜价格确实涨了，不过肉并没有严重的价格上涨，其实可以理解，以前蔬菜的劳动力成本被严重低估嘛！",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1479135281",
+			"date_added": 1479290202
+		},
+		{
+			"comment_id": 165,
+			"body": "具体说说你的代理方案。",
+			"post_uri": "1KNe8oqdHjEAYSEZByAikQi66GjZB1rSxL_1479290142",
+			"date_added": 1479290372
+		},
+		{
+			"comment_id": 166,
+			"body": "@Windonsurf: ZeroNet 里的 Tor 的整合不是简单的挂了个代理，它还开了 Hidden Service 确保能被被动连接的，你这样做损失了这个特性。",
+			"post_uri": "1KNe8oqdHjEAYSEZByAikQi66GjZB1rSxL_1479290142",
+			"date_added": 1479292820
+		},
+		{
+			"comment_id": 167,
+			"body": "@Nekocross: 参见：https://trac.torproject.org/projects/tor/wiki/doc/TorifyHOWTO#ToroverTor\nWhen using a transparent proxy, it is possible to start a Tor session from the client as well as from the transparent proxy, creating a \"Tor over Tor\" scenario. Doing so produces undefined and potentially unsafe behavior. In theory, however, you can get six hops instead of three, but it is not guaranteed that you'll get three different hops - you could end up with the same hops, maybe in reverse or mixed order. It is not clear if this is safe. It has never been discussed.",
+			"post_uri": "1KNe8oqdHjEAYSEZByAikQi66GjZB1rSxL_1479290142",
+			"date_added": 1479310874
 		}
 	],
 	"flags": {

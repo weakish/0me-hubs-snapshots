@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 177,
+	"next_comment_id": 186,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -31,7 +31,9 @@
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478961286": 1478964694,
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479006661": 1479034175,
 		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1479098663": 1479101821,
-		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479104948": 1479106915
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479104948": 1479106915,
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1479278662": 1479302346,
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1479276866": 1479302684
 	},
 	"comment": [
 		{
@@ -1089,6 +1091,60 @@
 			"body": "@Lmath: 可以写个python脚本来自动搞定别人留下的评论。以后迁移hub也会用到",
 			"post_uri": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE_1479224523",
 			"date_added": 1479256347
+		},
+		{
+			"comment_id": 177,
+			"body": "@Rainlime: 我想知道同样是debian，为什么前后速度会差很多",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1479277370",
+			"date_added": 1479302495
+		},
+		{
+			"comment_id": 178,
+			"body": "@Lmath: 并不需要改评论作者的原hub上的文件，只是把TA的评论提取出来，迁移到新hub。只需要跟新hub管理员合作，让管理员强行签名，把TA的评论塞进TA在新hub的文件里即可。",
+			"post_uri": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE_1479224523",
+			"date_added": 1479303145
+		},
+		{
+			"comment_id": 179,
+			"body": "@gfwbot79: 严格隔离请用虚拟机 @Lmath",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1479192670",
+			"date_added": 1479303418
+		},
+		{
+			"comment_id": 180,
+			"body": "@Lmath: 是这样的。最好连前置代理都不同。",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1479192670",
+			"date_added": 1479303841
+		},
+		{
+			"comment_id": 181,
+			"body": "@猫叉酱: 是不是你本人啊",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479297394",
+			"date_added": 1479303995
+		},
+		{
+			"comment_id": 182,
+			"body": "@Lmath: 不强制签名怎么删spam贴？管理员签名后会在被签的content.json上留下管理员的公钥，所以看得出文件被动过。",
+			"post_uri": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE_1479224523",
+			"date_added": 1479304840
+		},
+		{
+			"comment_id": 183,
+			"body": "@猫叉酱: 哈哈，你的长相貌似本来就有点女性化。还有吗？再爆点",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479297394",
+			"date_added": 1479305013
+		},
+		{
+			"comment_id": 184,
+			"body": "@Lmath: 因为tor可能出现安全漏洞。就算不考虑安全漏洞的问题，让前置代理提供商知道你跑了两个tor，也是不利的。",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1479192670",
+			"date_added": 1479305592
+		},
+		{
+			"comment_id": 185,
+			"body": "@猫叉酱: 本来就是长相女性化的才伪娘，像张飞李逵那样的也伪不来",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479297394",
+			"date_added": 1479306726
 		}
 	],
 	"flags": {},

@@ -5,13 +5,20 @@
  "cert_user_id": "windonsurf@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "ba7f82249f4989299bc61d527b3877a0662712ff352721a4a1f820049fd086b9",
-   "size": 4418
+   "sha512": "6f2e3de5d342e109c999a6932a95c3d084cad40f79f1ab01b7713156888004b2",
+   "size": 5697
+  }
+ },
+ "files_optional": {
+  "1479290142.jpg": {
+   "sha512": "afe7077fdff715f6d8a44ffa671e6764b1fc9f556e526b5604ee7154736f9248",
+   "size": 73813
   }
  },
  "inner_path": "data/users/1KNe8oqdHjEAYSEZByAikQi66GjZB1rSxL/content.json",
- "modified": 1479100422.084,
+ "modified": 1479293114.866,
+ "optional": "(?!avatar).*jpg",
  "signs": {
-  "1KNe8oqdHjEAYSEZByAikQi66GjZB1rSxL": "G0NWeWJfsobcJJcM7Ju/8DkOl9HUe8IB6nA/trBpRpYLL+o32d7IWAbBIBdv+hK/K5VOv6f12kNSzvxcLudYIpM="
+  "1KNe8oqdHjEAYSEZByAikQi66GjZB1rSxL": "HFeWLenbHkasVDwWYh2yEdlw3Czcin5A2TN174fT8TwtNHXYLcVJmk0EU+UAj2MyzWATuRqCw+wc3YPeNZoe6J8="
  }
 }

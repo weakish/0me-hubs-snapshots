@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 5,
+	"next_comment_id": 8,
 	"user_name": "It's a test!",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {},
@@ -27,6 +27,24 @@
 			"body": "@ZAlex: As far as I can tell, it looks more like one of the direct-to-video (or were they?) sequels ;)",
 			"post_uri": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_1479122007",
 			"date_added": 1479211191
+		},
+		{
+			"comment_id": 5,
+			"body": "SUSE... long gone memories...",
+			"post_uri": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_1479291705",
+			"date_added": 1479300602
+		},
+		{
+			"comment_id": 6,
+			"body": "@ZAlex: I knew that, but back in the time my memories come from, there were only one kind of SUSE ;)",
+			"post_uri": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_1479291705",
+			"date_added": 1479303293
+		},
+		{
+			"comment_id": 7,
+			"body": "I'm way over my head, but wouldn't algorithm used by redundant storage solutions out there (GlusterFS, Tahoe-LAFS, Ceph, most advanced forms of (network-)RAID, ...) be able to learn us a thing or two?",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1478679877",
+			"date_added": 1479303536
 		}
 	]
 }

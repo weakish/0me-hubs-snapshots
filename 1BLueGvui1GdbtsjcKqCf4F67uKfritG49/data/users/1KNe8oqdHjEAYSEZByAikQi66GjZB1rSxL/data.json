@@ -1,12 +1,19 @@
 {
-	"next_post_id": 3,
-	"next_comment_id": 16,
-	"next_follow_id": 10,
+	"next_post_id": 6,
+	"next_comment_id": 18,
+	"next_follow_id": 11,
 	"avatar": "generate",
 	"user_name": "Windonsurf",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"intro": "",
-	"post": [],
+	"post": [
+		{
+			"post_id": 1479290142,
+			"body": "三虚拟机代理下，有些0net的网站，特别是内容比较丰富的，会出现:content.json download failed 的错误。有什么办法能解决呢？\n",
+			"date_added": 1479290137,
+			"meta": "{\"img\":\"900,506,dddeee999555444445aaabbb111222ccc333666777fff,011111111023452666768989A11111899BA11110CCCD0EEEE1000AA00AAA\"}"
+		}
+	],
 	"post_like": {},
 	"comment": [
 		{
@@ -98,6 +105,18 @@
 			"body": "@Lmath: 迅雷耍流氓，吸血驴，已经弃了。",
 			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1478671065",
 			"date_added": 1479100421
+		},
+		{
+			"comment_id": 16,
+			"body": "@Lmath:网关机用ss+rinetd转发:0.0.0.0:1234 127.0.0.1:1080;tor机的前置代理设置:torrc:Socks5Proxy :网关内部网卡:192.168.56.3:1234, 监听:192.168.100.1:9150,iptables设置53端口做dns，还做了一些转发规则，隔离机只能通过192.168.100.1：9150代理上网。",
+			"post_uri": "1KNe8oqdHjEAYSEZByAikQi66GjZB1rSxL_1479290142",
+			"date_added": 1479291699
+		},
+		{
+			"comment_id": 17,
+			"body": "@Lmath: 嗯，我在设置代理的时候，把zeronet 的tor 关掉了。毕竟会出现 tor over tor的情况。tor官网不允许这么做。",
+			"post_uri": "1KNe8oqdHjEAYSEZByAikQi66GjZB1rSxL_1479290142",
+			"date_added": 1479293113
 		}
 	],
 	"follow": [
@@ -114,6 +133,13 @@
 			"auth_address": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ",
 			"user_name": "P2P",
 			"date_added": 1477236092
+		},
+		{
+			"follow_id": 10,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "144GQ5Uz9dYQJ1MwjSFWWboLgHwdGpv21x",
+			"user_name": "Mzero",
+			"date_added": 1479137938
 		}
 	]
 }
