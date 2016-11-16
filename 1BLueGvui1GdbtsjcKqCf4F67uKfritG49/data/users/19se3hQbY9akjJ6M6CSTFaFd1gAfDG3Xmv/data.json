@@ -1,11 +1,11 @@
 {
 	"next_post_id": 2,
 	"next_comment_id": 1,
-	"next_follow_id": 1,
+	"next_follow_id": 2,
 	"avatar": "generate",
 	"user_name": "Blackzerocxc",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
-	"intro": "Random ZeroNet user",
+	"intro": "Just come and take a walk, meet the real yourself",
 	"post": [
 		{
 			"post_id": 1,
@@ -15,5 +15,13 @@
 	],
 	"post_like": {},
 	"comment": [],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "19se3hQbY9akjJ6M6CSTFaFd1gAfDG3Xmv",
+			"user_name": "Blackzerocxc",
+			"date_added": 1479312673
+		}
+	]
 }
