@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 153,
+	"next_comment_id": 154,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -910,6 +910,12 @@
 			"body": "@gfwbot79: 使用不同的 cert 而实际 IP 相同，不就简单地把身份关联起来了么？我暂时不知道如果在 Tor 下 .onion 地址会不会变，如果会的话，也有这种隐患。",
 			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1479192670",
 			"date_added": 1479221067
+		},
+		{
+			"comment_id": 153,
+			"body": "@gfwbot79: 自己的 ZeroMe 可以通过备份 ZeroNet/data/[你所在的 Hub 的 site address ]/data/[你所在 Hub 的你的 identity address] 实现，别人留下的评论暂时没找到好方法。",
+			"post_uri": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE_1479224523",
+			"date_added": 1479253789
 		}
 	],
 	"flags": {},
