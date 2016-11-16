@@ -1,7 +1,7 @@
 {
-	"next_post_id": 4,
+	"next_post_id": 5,
 	"next_comment_id": 5,
-	"next_follow_id": 4,
+	"next_follow_id": 5,
 	"avatar": "generate",
 	"user_name": "A7ic7",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -21,6 +21,11 @@
 			"post_id": 1478938871,
 			"body": "ZeroMe 的评论是倒序的，看起来好麻烦啊……",
 			"date_added": 1478938868
+		},
+		{
+			"post_id": 1479269250,
+			"body": "为什么 ZeroMe Plus 不能看图和发图呢？",
+			"date_added": 1479269246
 		}
 	],
 	"post_like": {},
@@ -71,6 +76,22 @@
 			"auth_address": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE",
 			"user_name": "gfwbot79",
 			"date_added": 1479268486
+		},
+		{
+			"follow_id": 4,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz",
+			"user_name": "猫叉酱",
+			"date_added": 1479269089
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }
