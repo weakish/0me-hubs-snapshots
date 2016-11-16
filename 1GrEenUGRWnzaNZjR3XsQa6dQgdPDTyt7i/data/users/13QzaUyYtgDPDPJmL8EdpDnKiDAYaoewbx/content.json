@@ -1,0 +1,24 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "HNVel2JvGweFyaI5y7/3TKD1TGdyecVXd4sVAd6BsbefVn6Z3WJfgas4keGZR+kJWskElqtPrquMioJegjYpdfc=",
+ "cert_user_id": "jubileu@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "dee0b60af62e574353f69eb02ac9434ac9ee8d2baee5c1a6db2943b8ccd70bb8",
+   "size": 754
+  }
+ },
+ "files_optional": {
+  "1479261250.jpg": {
+   "sha512": "57e96a87c69089f7dae26d415326753df728fb969f2a0c8ce058daf014d36f80",
+   "size": 69376
+  }
+ },
+ "inner_path": "data/users/13QzaUyYtgDPDPJmL8EdpDnKiDAYaoewbx/content.json",
+ "modified": 1479261253.759,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "13QzaUyYtgDPDPJmL8EdpDnKiDAYaoewbx": "HJDOiIxYORqLtWAMRe7Uj0D996R8mR+No3RZNXh5pa/JIBG3MBNFtAiv6zv5PmVmdh/lCw0xhcHiQfAsX6mRIYg="
+ }
+}
