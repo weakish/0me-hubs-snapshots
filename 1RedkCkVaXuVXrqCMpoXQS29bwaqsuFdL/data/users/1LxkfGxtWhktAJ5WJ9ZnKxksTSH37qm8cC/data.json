@@ -1,5 +1,5 @@
 {
-	"next_post_id": 49,
+	"next_post_id": 50,
 	"next_comment_id": 34,
 	"next_follow_id": 14,
 	"avatar": "generate",
@@ -237,6 +237,11 @@
 			"post_id": 1479191034,
 			"body": "Feross Aboukhadijeh:\nA torrent file is:\n```\n{\n    name: \"My Awesome File\",\n    pieces: [\n        \"46b6c78b63b77878b88abe92de2a20f914c8629d\",\n        \"bf180cfeeb0ca81b0a2297ee82225c161cae58eb\",\n        \"8aaf5d93eb34ac35df449bce866508c92c36ecbd\",\n    ],\n    announce: \"http://tracker.example.com\"\n}\n```\nAn \"infohash\" is:\nThe message digest of the data above (except announce)\n- - -\nZeroMux File Sharing Service's similar design:\nfile.json:\n```\n{\n    name: \"My Awesome File\",\n    pieces: [\n        [512000, \"46b6c78b...sha256...be92de2a20f914c8629d\"],\n        [512000, \"bf180cfe...sha256...97ee82225c161cae58eb\"],\n        [512000, \"8aaf5d93...sha256...9bce866508c92c36ecbd\"],\n    ],\n    announce: (hand over to ZeroNet)\n}\n```\nPiece hashes are used to prevent file damage. ZeroNet is responsible for checking file integrity against various attacks.\n\nInfo link: Instead of a hash, it is a full URL.",
 			"date_added": 1479190986
+		},
+		{
+			"post_id": 1479263285,
+			"body": "Firefox 50 is released, but the [Iframe bug](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/firefox.html) has not yet been fixed in this version. Perhaps we have to wait until Firefox 52 comes out.",
+			"date_added": 1479263236
 		}
 	],
 	"post_like": {

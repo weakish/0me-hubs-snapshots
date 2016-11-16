@@ -1,6 +1,6 @@
 {
 	"next_post_id": 39,
-	"next_comment_id": 72,
+	"next_comment_id": 73,
 	"next_follow_id": 29,
 	"avatar": "jpg",
 	"user_name": "Eibriel",
@@ -238,7 +238,8 @@
 		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1478932448": 1478939520,
 		"14kpMFXkLerqtvXM9rywW8h7rdLEBYz9FS_1478929485": 1478939537,
 		"1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1478886527": 1478939706,
-		"1GucgDmfpJrHZmG6ukrM1Wjq5Cs6oXevzu_1479004888": 1479049322
+		"1GucgDmfpJrHZmG6ukrM1Wjq5Cs6oXevzu_1479004888": 1479049322,
+		"1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1479234531": 1479262485
 	},
 	"comment": [
 		{
@@ -660,6 +661,12 @@
 			"body": "Welcome Marte26!!",
 			"post_uri": "1MMHsdQdm448P5tHtvS6UkmfVrUEHemYkW_1",
 			"date_added": 1479157914
+		},
+		{
+			"comment_id": 72,
+			"body": "For some reason I can't see the images on your site, I've IPFS working. Do you have the port open? Try opening your images on https://gateway.ipfs.io/ipfs/",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1479231411",
+			"date_added": 1479262577
 		}
 	],
 	"follow": [

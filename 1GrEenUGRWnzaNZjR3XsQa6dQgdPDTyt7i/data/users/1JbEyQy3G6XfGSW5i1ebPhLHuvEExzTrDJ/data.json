@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 2,
 	"avatar": "jpg",
 	"user_name": "ElectrcNINJA",
@@ -16,6 +16,13 @@
 	"post_like": {
 		"17HoViRZuqPZchtDP9CuKrXs86P1bmnD1k_1479087858": 1479099183
 	},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Ello",
+			"post_uri": "1NEFxCPTrht31cePYp3qr9JuQ8vQS9jRLq_1",
+			"date_added": 1479261982
+		}
+	],
 	"follow": []
 }
