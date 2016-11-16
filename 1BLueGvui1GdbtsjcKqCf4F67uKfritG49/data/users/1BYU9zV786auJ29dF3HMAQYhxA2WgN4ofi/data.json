@@ -1,6 +1,6 @@
 {
 	"next_post_id": 39,
-	"next_comment_id": 73,
+	"next_comment_id": 75,
 	"next_follow_id": 29,
 	"avatar": "jpg",
 	"user_name": "Eibriel",
@@ -667,6 +667,18 @@
 			"body": "For some reason I can't see the images on your site, I've IPFS working. Do you have the port open? Try opening your images on https://gateway.ipfs.io/ipfs/",
 			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1479231411",
 			"date_added": 1479262577
+		},
+		{
+			"comment_id": 73,
+			"body": "@meidan: Still cant load the images... Your port 4001 is open?\nOn the gateway is working... so the problem is in my side hmm\nhttps://gateway.ipfs.io/ipfs/Qmf7srGwYwFe4DieW8ociMqeDzfQDRpW1YeiBTz62oGe6g",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1479231411",
+			"date_added": 1479317133
+		},
+		{
+			"comment_id": 74,
+			"body": "Images are loading, but slowly :)",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1479231411",
+			"date_added": 1479317561
 		}
 	],
 	"follow": [
