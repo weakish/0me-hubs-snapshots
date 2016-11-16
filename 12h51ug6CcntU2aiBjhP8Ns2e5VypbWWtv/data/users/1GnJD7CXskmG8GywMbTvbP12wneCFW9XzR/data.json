@@ -1,5 +1,5 @@
 {
-	"next_post_id": 53,
+	"next_post_id": 54,
 	"next_comment_id": 35,
 	"next_follow_id": 170,
 	"avatar": "png",
@@ -266,6 +266,11 @@
 			"post_id": 1479206117,
 			"body": "After repositioning Windows 8.1's task bar to left, right, or top, hovering cursor to bottom left corner still reveals the windows start icon.",
 			"date_added": 1479206065
+		},
+		{
+			"post_id": 1479299848,
+			"body": "JavaScript's ASI (auto semicolon insertion) is confusing. However, if I prefer to not omit semicolons, I only need to remember one rule: not  breaking line after `throw`. (There are other rules, but I am unlikely to write code related to other rules, e.g. `i\\n++\\nb`.)\n\nOn the other side,  if I prefer to omit semicolons, I need to remember additional rules:\n\n- `(`\n- `[`\n- `.`\n- `,`\n- `+`, `-`, `*`, `/`\n- `for` and `while`\n\nThus my choice is not omitting semicolons.",
+			"date_added": 1479299795
 		}
 	],
 	"post_like": {
@@ -291,7 +296,9 @@
 		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1477856036": 1477955528,
 		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1477551596": 1478187815,
 		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1478252237": 1478263055,
-		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1479155326": 1479205473
+		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1479155326": 1479205473,
+		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1479211113": 1479297807,
+		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1479222139": 1479298277
 	},
 	"comment": [
 		{
