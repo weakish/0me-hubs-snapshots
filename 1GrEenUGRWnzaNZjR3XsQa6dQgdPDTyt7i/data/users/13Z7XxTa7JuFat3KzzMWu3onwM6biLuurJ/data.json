@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 194,
+	"next_comment_id": 197,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -1197,6 +1197,24 @@
 			"body": "@猫叉酱: 咋变",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479394039",
 			"date_added": 1479395431
+		},
+		{
+			"comment_id": 194,
+			"body": "bootstrapper你打错了，少了一个t。我也没用过，我只能提供一点信息。它是一个插件，插件的通用启用方法是在ZeroNet文件夹下的plugins文件夹内，把disabled-Bootstrapper重命名为Bootstrapper，然后重启ZeroNet。通过在ZeroHello搜索Bootstrapper，发现这个帖子里，作者对它有粗略描述 http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:6_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479396521",
+			"date_added": 1479399072
+		},
+		{
+			"comment_id": 195,
+			"body": "@P2pwave: 好像都会被强制跳转到登录界面。你给个不跳转地址我试试",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479297394",
+			"date_added": 1479399605
+		},
+		{
+			"comment_id": 196,
+			"body": "@Rainlime: 没，我很懒",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1479277370",
+			"date_added": 1479399766
 		}
 	],
 	"flags": {},

@@ -5,20 +5,24 @@
  "cert_user_id": "sicktab@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "af2edf6f83f3a31b0aa6fda79d04b700f334c66eba66095451d980f8c8013992",
-   "size": 8855
+   "sha512": "cac946aba0ce9a2aaaa9763f51b7e60ebe0ba22965a8406507357caf8fdc22d1",
+   "size": 8943
   }
  },
  "files_optional": {
   "1478781227.jpg": {
    "sha512": "7a9c7be70afc96db2bae7418d1b8d028b70715ba9271e3b1acd7840b3ef2a506",
    "size": 57988
+  },
+  "1479400566.jpg": {
+   "sha512": "28cb4a065a285494796a63fa6199b5d22e30d1e3438da0ee46582d3784338c86",
+   "size": 16952
   }
  },
  "inner_path": "data/users/1F2yDqB1hQTXx9jxPu6s39qvcN7aJecEQk/content.json",
- "modified": 1479341793.388,
+ "modified": 1479401399.194,
  "optional": "(?!avatar).*jpg",
  "signs": {
-  "1F2yDqB1hQTXx9jxPu6s39qvcN7aJecEQk": "HDWVCP2Vk1ma5sJ3eSPLR5zBcgrmYw1rQ/HzGvtfKvR0R5w+frCgTJTBjojnn2XPWh0jlfdLD1tEASEFi2s2LtA="
+  "1F2yDqB1hQTXx9jxPu6s39qvcN7aJecEQk": "G+Whbl86LlU6uVH/+OKBSORjq55c1P5j628zoxpLvDLi5HSSDORcsIqXm73JcLVDrbZqEnSAgI1ZHd77HjmK8fE="
  }
 }
