@@ -1,7 +1,7 @@
 {
-	"next_post_id": 3,
-	"next_comment_id": 1,
-	"next_follow_id": 2,
+	"next_post_id": 4,
+	"next_comment_id": 2,
+	"next_follow_id": 3,
 	"avatar": "png",
 	"user_name": "Mkg20001",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -16,17 +16,29 @@
 			"post_id": 1479399356,
 			"body": "Anybody here?",
 			"date_added": 1479399354
+		},
+		{
+			"post_id": 1479402399,
+			"body": "My new (and empty) blog: http://localhost:43110/1MBFot8DT9hBbjULhMay9t2oHZq1bwzuvT/",
+			"date_added": 1479402396
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Poweredbyte: :D",
+			"post_uri": "177ia43eQrnWCHCWt1ik6viQGRzWuNXGzD_1479399356",
+			"date_added": 1479402344
+		}
+	],
 	"follow": [
 		{
-			"follow_id": 1,
-			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-			"auth_address": "1KsUNPHJnWHdjPcWuAJreZfoQzVffk49Gk",
-			"user_name": "Shenol",
-			"date_added": 1479399340
+			"follow_id": 2,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "177ia43eQrnWCHCWt1ik6viQGRzWuNXGzD",
+			"user_name": "Mkg20001",
+			"date_added": 1479402318
 		}
 	]
 }
