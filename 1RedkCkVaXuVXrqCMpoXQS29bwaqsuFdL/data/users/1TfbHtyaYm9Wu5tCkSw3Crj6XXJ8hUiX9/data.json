@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 2,
 	"avatar": "generate",
 	"user_name": "Ged",
@@ -14,6 +14,13 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@64: thanks m8",
+			"post_uri": "1TfbHtyaYm9Wu5tCkSw3Crj6XXJ8hUiX9_1",
+			"date_added": 1479394660
+		}
+	],
 	"follow": []
 }
