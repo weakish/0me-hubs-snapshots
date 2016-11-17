@@ -1,5 +1,5 @@
 {
-	"next_post_id": 54,
+	"next_post_id": 55,
 	"next_comment_id": 35,
 	"next_follow_id": 170,
 	"avatar": "png",
@@ -271,6 +271,11 @@
 			"post_id": 1479299848,
 			"body": "JavaScript's ASI (auto semicolon insertion) is confusing. However, if I prefer to not omit semicolons, I only need to remember one rule: not  breaking line after `throw`. (There are other rules, but I am unlikely to write code related to other rules, e.g. `i\\n++\\nb`.)\n\nOn the other side,  if I prefer to omit semicolons, I need to remember additional rules:\n\n- `(`\n- `[`\n- `.`\n- `,`\n- `+`, `-`, `*`, `/`\n- `for` and `while`\n\nThus my choice is not omitting semicolons.",
 			"date_added": 1479299795
+		},
+		{
+			"post_id": 1479344270,
+			"body": "Quora hides posts/answers to force you to register/login. Now its Chinese clone Zhihu finally borrows this \"feature\".",
+			"date_added": 1479344216
 		}
 	],
 	"post_like": {
