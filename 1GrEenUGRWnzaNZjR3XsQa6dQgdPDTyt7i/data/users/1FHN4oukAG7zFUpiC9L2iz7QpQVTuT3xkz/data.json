@@ -1,6 +1,6 @@
 {
 	"next_post_id": 85,
-	"next_comment_id": 270,
+	"next_comment_id": 273,
 	"next_follow_id": 58,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
@@ -2048,6 +2048,24 @@
 			"body": "@Bullseye: 你看我id里面带猫，可从来没养过猫",
 			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479358357",
 			"date_added": 1479393998
+		},
+		{
+			"comment_id": 270,
+			"body": "有变化了",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479394039",
+			"date_added": 1479395133
+		},
+		{
+			"comment_id": 271,
+			"body": "@P2P: 稍微快了一点。其实缓存根本没卵用，因为用户只有我一个人。gzip可以提升坑爹网络中的加载速度（像我这种wifi服务器）",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479394039",
+			"date_added": 1479395566
+		},
+		{
+			"comment_id": 272,
+			"body": "由于大量内容都是websocket传送过来的，所以gzip并没有起到多少作用",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479394039",
+			"date_added": 1479397621
 		}
 	],
 	"follow": [
