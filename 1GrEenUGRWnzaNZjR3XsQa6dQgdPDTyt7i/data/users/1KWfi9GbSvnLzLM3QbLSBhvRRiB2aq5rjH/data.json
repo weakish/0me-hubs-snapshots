@@ -1,7 +1,7 @@
 {
-	"next_post_id": 2,
+	"next_post_id": 3,
 	"next_comment_id": 1,
-	"next_follow_id": 4,
+	"next_follow_id": 6,
 	"avatar": "jpg",
 	"user_name": "Zeratax",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -11,6 +11,11 @@
 			"post_id": 1,
 			"date_added": 1478631991,
 			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1479351244,
+			"body": "http://glop.me/faq.html \n\n__ipfs pomf clone__\nthere really **should** also be a zeronet pomf clone. \nI mean it's really ideal. you could still serve the file normally over http, or a zeronet proxy, but people using zeronet could significantly decrease load on the main server, since they would be seeding the downloaded file, could download from faster or closer peers and it would be *a lot* simpler to use than ipfs currently. \nI guess you still couldn't really freely move your downloaded files around on your computer, but definitely a thing that should exist. \nMaybe I'll play around more with that idea, though who still wants to host a pomf clone...",
+			"date_added": 1479351242
 		}
 	],
 	"post_like": {},
@@ -36,6 +41,20 @@
 			"auth_address": "1B7g2efHN6xyHc3itUjDzMUQTepa7WFqaC",
 			"user_name": "Devtest",
 			"date_added": 1478632396
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC",
+			"user_name": "Firebox",
+			"date_added": 1479350212
+		},
+		{
+			"follow_id": 5,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1479351286
 		}
 	]
 }
