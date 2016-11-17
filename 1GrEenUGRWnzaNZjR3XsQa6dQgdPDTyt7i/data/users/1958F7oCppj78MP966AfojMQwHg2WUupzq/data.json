@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 174,
+	"next_comment_id": 179,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -1038,6 +1038,36 @@
 			"body": "@gfwbot79: 应该加入一个权重机制或优先级机制，当检测到用户订阅的内容有冲突时，根据权重和优先级决定是否屏蔽。",
 			"post_uri": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE_1479224523",
 			"date_added": 1479311312
+		},
+		{
+			"comment_id": 174,
+			"body": "@莱文倩: 逻辑语[Lojban]（逃",
+			"post_uri": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE_1479307625",
+			"date_added": 1479356565
+		},
+		{
+			"comment_id": 175,
+			"body": "@Rainlime: 那要看你是需要什么类型的安全，GPG 加密不能解决匿名这个安全需求，还有就是你怎么保证这确实是他的公钥也是问题。如果对方将公钥发布在可以被篡改的地方，那么首先你就不能保证是他的公钥了，这时候你们要么线下交换要么就请一个证书颁发机构证明他是他。",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479348605",
+			"date_added": 1479357331
+		},
+		{
+			"comment_id": 176,
+			"body": "@P2P: 原来你是这样的 P2P 😱",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479297394",
+			"date_added": 1479357622
+		},
+		{
+			"comment_id": 177,
+			"body": "@Rainlime: 所以证书服务器就成为了一个新的中心了啊！与去中心化又相背了。",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479348605",
+			"date_added": 1479357879
+		},
+		{
+			"comment_id": 178,
+			"body": "@Rainlime: 那么，在 ZeroNet 上搞个证书托管站怎样？",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479348605",
+			"date_added": 1479357993
 		}
 	],
 	"flags": {},

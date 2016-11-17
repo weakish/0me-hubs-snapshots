@@ -1,6 +1,6 @@
 {
 	"next_post_id": 57,
-	"next_comment_id": 129,
+	"next_comment_id": 135,
 	"next_follow_id": 99,
 	"avatar": "jpg",
 	"user_name": "Rainlime",
@@ -1058,6 +1058,42 @@
 			"body": "天依的头发好像不是这样的吧..还是三次元 COS 不了...",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479297394",
 			"date_added": 1479305206
+		},
+		{
+			"comment_id": 129,
+			"body": "@深夜海钓核潜艇: 其实要安全的话拿 GPG 加密一下走什么渠道都安全 永远不要太相信服务提供商",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479348605",
+			"date_added": 1479357194
+		},
+		{
+			"comment_id": 130,
+			"body": "@Lmath: 不都是发布在证书服务器上吗？ 防止篡改的话可以用 GPG 的签名机制 让其他人来签名 这是无法伪造的",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479348605",
+			"date_added": 1479357808
+		},
+		{
+			"comment_id": 131,
+			"body": "@Lmath: 匿名的话其实只能靠 Tor 这些服务你无法证明他们可以做到他们所说的 说不定是蜜罐呢",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479348605",
+			"date_added": 1479357902
+		},
+		{
+			"comment_id": 132,
+			"body": "@Lmath: 可以有很多很多证书服务器的吧 互相同步\n",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479348605",
+			"date_added": 1479357922
+		},
+		{
+			"comment_id": 133,
+			"body": "@Bullseye: 然后呢？ 我说的在不需要匿名的情况下 需要匿名的话需要加上 Tor ",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479348605",
+			"date_added": 1479358032
+		},
+		{
+			"comment_id": 134,
+			"body": "@Lmath: 有这样的想法 今天看看你不能做出来",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479348605",
+			"date_added": 1479358046
 		}
 	],
 	"follow": [
