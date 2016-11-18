@@ -1,5 +1,5 @@
 {
-	"next_post_id": 3,
+	"next_post_id": 4,
 	"next_comment_id": 1,
 	"next_follow_id": 1,
 	"avatar": "generate",
@@ -16,6 +16,11 @@
 			"post_id": 1479448828,
 			"body": "第一个帖子！",
 			"date_added": 1479448826
+		},
+		{
+			"post_id": 1479454013,
+			"body": "ZeroBlog似乎有点BUG。\n在一定情况下，会丢失对自己的Blog的修改权限。",
+			"date_added": 1479454010
 		}
 	],
 	"post_like": {},
