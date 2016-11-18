@@ -1,6 +1,6 @@
 {
 	"next_post_id": 20,
-	"next_comment_id": 106,
+	"next_comment_id": 107,
 	"next_follow_id": 29,
 	"avatar": "png",
 	"user_name": "Nofish",
@@ -727,6 +727,12 @@
 			"body": "@P2P: Opened an issue for it: https://discuss.gogs.io/t/mirror-function-stopped-working-on-try-gogs-io/779/1 \nBitbucket does not support live git sync as far as i know.",
 			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1478620854",
 			"date_added": 1478948948
+		},
+		{
+			"comment_id": 106,
+			"body": "@Greatsick: you need to make copy of src/Translate/languages/hu.json file to add them.",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310",
+			"date_added": 1479507011
 		}
 	],
 	"follow": [

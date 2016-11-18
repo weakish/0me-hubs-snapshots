@@ -1,0 +1,39 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 2,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Clack",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1479507562,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1479507650,
+			"date_added": 1479507648,
+			"meta": "{\"img\":\"900,504,211111875ba9bb9ddbeeddca322754987443766a98445533,010023456701189A3754018BC2D444EFF922AD33AAAAAADDDAAADDDDDDAA\"}"
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "gifs not working? :/",
+			"post_uri": "17xvg9T3MfCRsn2nWdTuaN4jrzzMoTxJ5c_1479507650",
+			"date_added": 1479507761
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1479509005
+		}
+	]
+}
