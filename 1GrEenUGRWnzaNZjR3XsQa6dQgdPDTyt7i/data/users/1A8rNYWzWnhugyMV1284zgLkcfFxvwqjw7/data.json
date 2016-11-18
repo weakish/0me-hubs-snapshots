@@ -1,6 +1,6 @@
 {
 	"next_post_id": 11,
-	"next_comment_id": 9,
+	"next_comment_id": 10,
 	"next_follow_id": 6,
 	"avatar": "generate",
 	"user_name": "Bullseye",
@@ -111,6 +111,12 @@
 			"body": "貌似标榜也算另一种自爆呀 哈哈",
 			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479358357",
 			"date_added": 1479394131
+		},
+		{
+			"comment_id": 9,
+			"body": "官方FAQ：https://ring.cx/en/documentation/faq \nHow do I add contacts? I can call Ring IDs but can't figure out how to save one.\nWe haven't had time to add contact managing features (adding, editing, etc.) to Ring yet as its not the priority in the alpha stage. On the Linux versions, however, the gnome client uses evolution-data-server (EDS) as the backend for contacts and will add connect features to all of your enabled EDS address books on your system.Thus you can use any contact managing application which also uses EDS to manage your contacts.\n\nFor example gnome-contacts will do that. If you're running Gnome or Unity, you should also be able to go into your system settings and manage your \"online accounts\" there to add your Google, Facebook, etc contacts. Note, that contacts will only show up in the Ring client if they have a Ring ID (or a phone number, if you have a SIP account configured). You can add the Ring ID to any phone number field — don't forget the \"ring:\" prefix. Again, you would need to do this either via gnome-contacts or any other EDS-powered contact management application.\n\nFinally reload Ring and you will to see your new contact names and Ring numbers in your Contacts list. 看来答案是可以加，不过要多些折腾。 @64: ",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479348605",
+			"date_added": 1479434167
 		}
 	],
 	"follow": [
