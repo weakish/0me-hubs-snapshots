@@ -1,5 +1,5 @@
 {
-	"next_post_id": 4,
+	"next_post_id": 5,
 	"next_comment_id": 2,
 	"next_follow_id": 1,
 	"avatar": "jpg",
@@ -21,6 +21,11 @@
 			"post_id": 1476350766,
 			"body": "I'm studing special ip ",
 			"date_added": 1476350763
+		},
+		{
+			"post_id": 1479464745,
+			"body": "Why Trump? ",
+			"date_added": 1479464741
 		}
 	],
 	"post_like": {},
@@ -32,5 +37,14 @@
 			"date_added": 1478602422
 		}
 	],
-	"follow": []
+	"follow": [],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }
