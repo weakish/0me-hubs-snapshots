@@ -1,6 +1,6 @@
 {
 	"next_post_id": 4,
-	"next_comment_id": 2,
+	"next_comment_id": 3,
 	"next_follow_id": 12,
 	"avatar": "generate",
 	"user_name": "Yolt",
@@ -30,6 +30,12 @@
 			"body": "@Squarezero: didn't work well on zeronet",
 			"post_uri": "18gK4zjhJbd2sKs3CfmqZQ6E9Di3qQFfAz_1479158830",
 			"date_added": 1479484798
+		},
+		{
+			"comment_id": 2,
+			"body": "@Eibriel: I'm with Free ISP (a french one) and I open the port 15441 on it, and it should follox to my computer. And I opened my firewall for this port (on ubnutu 16.04).",
+			"post_uri": "18gK4zjhJbd2sKs3CfmqZQ6E9Di3qQFfAz_1479158830",
+			"date_added": 1479484867
 		}
 	],
 	"follow": [

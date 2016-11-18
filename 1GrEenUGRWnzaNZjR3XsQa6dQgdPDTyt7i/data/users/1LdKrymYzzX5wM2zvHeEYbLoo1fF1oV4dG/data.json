@@ -1,19 +1,21 @@
 {
-	"next_post_id": 2,
+	"next_post_id": 3,
 	"next_comment_id": 1,
-	"next_follow_id": 1,
+	"next_follow_id": 3,
 	"avatar": "png",
 	"user_name": "LVSPL",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"intro": "LVSPL / Developer on Node.JS & PHP",
-	"post": [
-		{
-			"post_id": 1,
-			"date_added": 1479142764,
-			"body": "Hello ZeroMe!"
-		}
-	],
+	"intro": "Développeur PHP & NodeJS\nhttps://github.com/classifynetwork/",
+	"post": [],
 	"post_like": {},
 	"comment": [],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1F44XJ3W6TpAoFKzWrzXCspoY5wbfh6RWn",
+			"user_name": "Sploiter",
+			"date_added": 1479486834
+		}
+	]
 }

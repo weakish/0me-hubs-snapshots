@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 199,
+	"next_comment_id": 200,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -1228,6 +1228,12 @@
 			"body": "@P2pwave: google搜索当然能搜出来啊，问题是点击以后会强制跳转到微博登录页面，难道你那不会吗？",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479297394",
 			"date_added": 1479482091
+		},
+		{
+			"comment_id": 199,
+			"body": "@Lmath: 在没装HTTPS Everywhere 的浏览器环境中测试也会跳转。我猜是不是通过useragent来判断跳转的。google爬虫肯定不会跳",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479297394",
+			"date_added": 1479486256
 		}
 	],
 	"flags": {},
