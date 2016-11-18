@@ -1,7 +1,7 @@
 {
 	"next_post_id": 38,
-	"next_comment_id": 151,
-	"next_follow_id": 148,
+	"next_comment_id": 152,
+	"next_follow_id": 149,
 	"avatar": "jpg",
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -1132,6 +1132,12 @@
 			"body": "我还希望有个专门的地方看mentions，不管是zerome的还是论坛、博客的。zerohello的newsfeed里很容易被其他信息刷下去，导致漏看。",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479442006",
 			"date_added": 1479478224
+		},
+		{
+			"comment_id": 151,
+			"body": "@cnwfjsw: 是的，只需要前端修改一下。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479442006",
+			"date_added": 1479481805
 		}
 	],
 	"follow": [
@@ -2128,6 +2134,13 @@
 			"auth_address": "13Nzuvnhyz7nBJvPoUrdTEFuQTWUdqXAJk",
 			"user_name": "Linkerlin",
 			"date_added": 1479477783
+		},
+		{
+			"follow_id": 148,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1A5Uw4pejzgKx4c3yZkz8whBcqMaypp1Wo",
+			"user_name": "Deep",
+			"date_added": 1479481755
 		}
 	],
 	"settings": {

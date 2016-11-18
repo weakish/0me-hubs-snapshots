@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 187,
+	"next_comment_id": 189,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -1119,6 +1119,18 @@
 			"body": "事实情况是目前的 Tracker 是要依靠外网的，而 DHT 作者正在做。ZeroNet 目前在数据存储和传输上是去中心化的，而站点创建者依然可以中心化地管理自己的站点上的内容，保留部分中心化有它的好处。如果你需要一个更彻底的去中心化，请使用 Freenet 。",
 			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479450750",
 			"date_added": 1479457035
+		},
+		{
+			"comment_id": 187,
+			"body": "@P2P: 根据测试，有时会，有时不会，还有你是不是装了 HTTPS Everywhere ？",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479297394",
+			"date_added": 1479484465
+		},
+		{
+			"comment_id": 188,
+			"body": "@P2P: 一般来说，第一次连接到网络需要一点方法，比如到内置一些种子节点或者到一个地址去获取一些，也可以请使用的朋友导出一份给新用户。我引导 I2P 目前的方式就是先连上海外的 VPN 启动 I2P ，等找到一些节点后就可以断开了。",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479450750",
+			"date_added": 1479484776
 		}
 	],
 	"flags": {},

@@ -1,6 +1,6 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 2,
+	"next_comment_id": 3,
 	"next_follow_id": 122,
 	"avatar": "png",
 	"user_name": "Hexagon",
@@ -42,6 +42,12 @@
 			"body": "wow that's cool :)",
 			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1479372521",
 			"date_added": 1479374202
+		},
+		{
+			"comment_id": 2,
+			"body": "don't use it yet, they're working on the v2 algo, as the first implementation is \"not random enough\"",
+			"post_uri": "1AxLMGKjSdsL3Sxa2x1WHJmoap3Z93YdCm_1479480767",
+			"date_added": 1479482950
 		}
 	],
 	"follow": [
