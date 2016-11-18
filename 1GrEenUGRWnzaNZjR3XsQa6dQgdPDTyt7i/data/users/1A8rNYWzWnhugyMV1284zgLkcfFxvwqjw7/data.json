@@ -1,6 +1,6 @@
 {
-	"next_post_id": 11,
-	"next_comment_id": 10,
+	"next_post_id": 13,
+	"next_comment_id": 11,
 	"next_follow_id": 6,
 	"avatar": "generate",
 	"user_name": "Bullseye",
@@ -57,6 +57,16 @@
 			"post_id": 1479358357,
 			"body": "根据经验，标榜文化的公司一般都没文化，标榜民主的政权一般都不民主，标榜主旋律的社会一般都是边缘化社会。。",
 			"date_added": 1479358347
+		},
+		{
+			"post_id": 1479450037,
+			"body": "老大无可救药地骄傲自满，老二满足于做个跟屁虫，所以任何创新只能来自老三。 ",
+			"date_added": 1479450026
+		},
+		{
+			"post_id": 1479450750,
+			"body": "用了几天零网，还是觉得有点不那么信服，就是说觉得零网好像在一些关键功能上还是要依靠外网的。这零网整个概念和基本架构看上去还不错，只是别又搞成一个实际上的半吊子点对点才好。。我觉得纯点对点或许起步困难不过至少命运把握在自己手里，半吊子的点对点肯定没活路——死在这上面的多了去了。",
+			"date_added": 1479450738
 		}
 	],
 	"post_like": {
@@ -117,6 +127,12 @@
 			"body": "官方FAQ：https://ring.cx/en/documentation/faq \nHow do I add contacts? I can call Ring IDs but can't figure out how to save one.\nWe haven't had time to add contact managing features (adding, editing, etc.) to Ring yet as its not the priority in the alpha stage. On the Linux versions, however, the gnome client uses evolution-data-server (EDS) as the backend for contacts and will add connect features to all of your enabled EDS address books on your system.Thus you can use any contact managing application which also uses EDS to manage your contacts.\n\nFor example gnome-contacts will do that. If you're running Gnome or Unity, you should also be able to go into your system settings and manage your \"online accounts\" there to add your Google, Facebook, etc contacts. Note, that contacts will only show up in the Ring client if they have a Ring ID (or a phone number, if you have a SIP account configured). You can add the Ring ID to any phone number field — don't forget the \"ring:\" prefix. Again, you would need to do this either via gnome-contacts or any other EDS-powered contact management application.\n\nFinally reload Ring and you will to see your new contact names and Ring numbers in your Contacts list. 看来答案是可以加，不过要多些折腾。 @64: ",
 			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479348605",
 			"date_added": 1479434167
+		},
+		{
+			"comment_id": 10,
+			"body": "欢迎欢迎",
+			"post_uri": "1BDZtoYSyUeEKPCAJ3Pz6wzfXbHzaJWHZU_1479409832",
+			"date_added": 1479450166
 		}
 	],
 	"follow": [
