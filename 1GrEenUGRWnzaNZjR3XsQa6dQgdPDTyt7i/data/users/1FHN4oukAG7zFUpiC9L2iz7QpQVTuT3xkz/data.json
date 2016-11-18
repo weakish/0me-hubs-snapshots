@@ -1,6 +1,6 @@
 {
-	"next_post_id": 86,
-	"next_comment_id": 275,
+	"next_post_id": 87,
+	"next_comment_id": 276,
 	"next_follow_id": 58,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
@@ -431,6 +431,11 @@
 			"post_id": 1479464122,
 			"body": "有好多话想说，有好多人想骂，不知该从哪里开始",
 			"date_added": 1479464037
+		},
+		{
+			"post_id": 1479470351,
+			"body": "大发现：gzip，etag，cache不能一起用，一起用的话gzip对同一个文件每次压出来的结果会不一样，导致文件未修改但etag不一致，缓存全都会expired，难怪速度没提升",
+			"date_added": 1479470265
 		}
 	],
 	"post_like": {
@@ -2083,6 +2088,12 @@
 			"body": "等有dht上线就不是半吊子了",
 			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479450750",
 			"date_added": 1479456825
+		},
+		{
+			"comment_id": 275,
+			"body": "@Rainlime: 算了，我还有更重要更有意义的事情要干，我刚抓了zerome页面的请求，发现了一个小bug，准备提交issue",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479464122",
+			"date_added": 1479468744
 		}
 	],
 	"follow": [

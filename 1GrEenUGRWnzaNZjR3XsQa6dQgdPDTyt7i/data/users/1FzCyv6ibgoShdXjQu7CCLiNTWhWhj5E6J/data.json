@@ -1,6 +1,6 @@
 {
 	"next_post_id": 4,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Mbp374",
@@ -24,6 +24,13 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Rainlime: 丢失修改权限后，鼠标移动在Blog可修改的部分的右侧，没了那个 🖋  图标了。",
+			"post_uri": "1FzCyv6ibgoShdXjQu7CCLiNTWhWhj5E6J_1479454013",
+			"date_added": 1479467170
+		}
+	],
 	"follow": []
 }
