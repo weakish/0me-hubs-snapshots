@@ -4,18 +4,25 @@
  "cert_sign": "G9OwQNEWW7Oipod3pZB6fuLYuSrXgmUBYRkaFfuA/oaVtMubQZ+U2/UUsiv9xH3Yu9VhKZCTtK0H6f8w40XisuA=",
  "cert_user_id": "vsitnikov@zeroid.bit",
  "files": {
-  "avatar.jpg": {
-   "sha512": "8359f1d8d668570a1b66af1dee883d32b4e24c5816c666420c63bbcc2194ca12",
-   "size": 1741
+  "avatar.png": {
+   "sha512": "426251315a295c062f1b7d5b967b664001b0b9b59b12d1c2650fba6d8ae0bbc8",
+   "size": 1429
   },
   "data.json": {
-   "sha512": "a7f6b8dc790968bb676f62af8e70573e5b271983400f2b674e76eb3e572c2abb",
-   "size": 823
+   "sha512": "fd2c4091fbffa66b350f4b46fe524252a7e712caa8d7117bfe97779cdf7ca835",
+   "size": 2061
+  }
+ },
+ "files_optional": {
+  "1479471945.jpg": {
+   "sha512": "3f9dce03b826c42d6c20bb793a7c0a29bc426a6bfd6fb7c7fd333f4d63068a38",
+   "size": 33484
   }
  },
  "inner_path": "data/users/18YRQmcqeLKHBVB2F7oAFThL2qEy851rDR/content.json",
- "modified": 1479469596.779,
+ "modified": 1479472862.344,
+ "optional": "(?!avatar).*jpg",
  "signs": {
-  "18YRQmcqeLKHBVB2F7oAFThL2qEy851rDR": "HEtBer3bxk4oFR8EdoG3e/dthDyRQ52wFzwz2A6zqEDSiAjxYJ+k+Ry6uUZ4XI1TsjMKd5hTIl8r2tzlFXd8bl0="
+  "18YRQmcqeLKHBVB2F7oAFThL2qEy851rDR": "GxMTlhCFkg++YLuSCQOr/a8bR0WnmFK2MpEQI0xVxOV3CVc23siLm61t4/sxl/Aa5gRvJiWpNXvT2lNJ7yuFRw8="
  }
 }
