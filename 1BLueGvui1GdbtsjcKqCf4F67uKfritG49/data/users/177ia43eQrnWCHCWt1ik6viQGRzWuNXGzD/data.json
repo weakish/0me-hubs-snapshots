@@ -1,11 +1,11 @@
 {
 	"next_post_id": 6,
 	"next_comment_id": 3,
-	"next_follow_id": 7,
+	"next_follow_id": 8,
 	"avatar": "png",
 	"user_name": "Mkg20001",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
-	"intro": "Developer\nhttps://mkg20001.github.io",
+	"intro": "Developer\n[mkg20001.github.io](https://mkg20001.github.io)\n[GitHub @mkg20001](https://github.com/mkg20001)",
 	"post": [
 		{
 			"post_id": 1,
@@ -84,6 +84,13 @@
 			"auth_address": "1PGjik3totFcet2ZEheC4Jcs1JepadDY32",
 			"user_name": "Serverjoker",
 			"date_added": 1479491810
+		},
+		{
+			"follow_id": 7,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1479496519
 		}
 	]
 }
