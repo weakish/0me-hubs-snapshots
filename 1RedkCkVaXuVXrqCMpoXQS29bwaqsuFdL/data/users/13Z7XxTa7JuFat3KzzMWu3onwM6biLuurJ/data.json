@@ -1,7 +1,7 @@
 {
 	"next_post_id": 38,
-	"next_comment_id": 150,
-	"next_follow_id": 147,
+	"next_comment_id": 151,
+	"next_follow_id": 148,
 	"avatar": "jpg",
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -229,7 +229,8 @@
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479022235": 1479103873,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1478128320": 1479103970,
 		"1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd_1479176984": 1479214494,
-		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1479296133": 1479302236
+		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1479296133": 1479302236,
+		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1479442006": 1479478042
 	},
 	"comment": [
 		{
@@ -1125,6 +1126,12 @@
 			"body": "@weakish: 2只会小修小补了吧。性能提升什么的还是要靠3吧",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478963408",
 			"date_added": 1479215912
+		},
+		{
+			"comment_id": 150,
+			"body": "我还希望有个专门的地方看mentions，不管是zerome的还是论坛、博客的。zerohello的newsfeed里很容易被其他信息刷下去，导致漏看。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479442006",
+			"date_added": 1479478224
 		}
 	],
 	"follow": [
@@ -2114,6 +2121,13 @@
 			"auth_address": "1NHSgEbQBtEaBrLNyHNQqkeumwyTYWeH22",
 			"user_name": "Nomaka",
 			"date_added": 1479397986
+		},
+		{
+			"follow_id": 147,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "13Nzuvnhyz7nBJvPoUrdTEFuQTWUdqXAJk",
+			"user_name": "Linkerlin",
+			"date_added": 1479477783
 		}
 	],
 	"settings": {

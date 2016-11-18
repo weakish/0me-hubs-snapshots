@@ -1,5 +1,5 @@
 {
-	"next_post_id": 2,
+	"next_post_id": 3,
 	"next_comment_id": 2,
 	"next_follow_id": 122,
 	"avatar": "png",
@@ -11,6 +11,11 @@
 			"post_id": 1,
 			"date_added": 1477079337,
 			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1479480767,
+			"body": "Interesting idea; a password manager which doesn't have any data files (don't need to synchronize), but lets you use different passwords everywhere, just by remembering the master password, username, and where are you using it: https://lesspass.com",
+			"date_added": 1479480765
 		}
 	],
 	"post_like": {
