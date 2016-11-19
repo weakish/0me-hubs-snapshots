@@ -1,5 +1,5 @@
 {
-	"next_post_id": 12,
+	"next_post_id": 13,
 	"next_comment_id": 9,
 	"next_follow_id": 13,
 	"avatar": "png",
@@ -57,8 +57,13 @@
 		},
 		{
 			"post_id": 1479592358,
-			"body": "how to encode/decode file/text in morse :::\n`base32 -w 0 youfile | morse -s > file.morse`\nand decode ...\n`morse -d < file.morse | base32 -d > yourfile`\nand use encrypted communication use OpenSSL Command!",
+			"body": "how to encode/decode file/text in morse :::\n`base32 -w 0 < youfile | morse -s > file.morse`\nand decode ...\n`morse -d < file.morse | base32 -d > yourfile`\nand use encrypted communication use OpenSSL Command!",
 			"date_added": 1479592347
+		},
+		{
+			"post_id": 1479596094,
+			"body": "how to payment by bitmessage?\nyour price is as question and you send question and anwser for buy product\nand more expensive is more the question is difficult",
+			"date_added": 1479596082
 		}
 	],
 	"post_like": {
