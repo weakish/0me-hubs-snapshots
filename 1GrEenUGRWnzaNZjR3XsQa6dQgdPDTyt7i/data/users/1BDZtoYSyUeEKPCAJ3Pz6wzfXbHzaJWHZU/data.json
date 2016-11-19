@@ -1,6 +1,6 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 1,
+	"next_comment_id": 4,
 	"next_follow_id": 2,
 	"avatar": "generate",
 	"user_name": "Ingsiz",
@@ -21,7 +21,26 @@
 	"post_like": {
 		"1BDZtoYSyUeEKPCAJ3Pz6wzfXbHzaJWHZU_1479409832": 1479410092
 	},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Windonsurf: 是的",
+			"post_uri": "1BDZtoYSyUeEKPCAJ3Pz6wzfXbHzaJWHZU_1479409832",
+			"date_added": 1479514061
+		},
+		{
+			"comment_id": 2,
+			"body": "@Rainlime: 哈哈",
+			"post_uri": "1BDZtoYSyUeEKPCAJ3Pz6wzfXbHzaJWHZU_1479409832",
+			"date_added": 1479514071
+		},
+		{
+			"comment_id": 3,
+			"body": "@Bullseye: ~~~",
+			"post_uri": "1BDZtoYSyUeEKPCAJ3Pz6wzfXbHzaJWHZU_1479409832",
+			"date_added": 1479514079
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 1,

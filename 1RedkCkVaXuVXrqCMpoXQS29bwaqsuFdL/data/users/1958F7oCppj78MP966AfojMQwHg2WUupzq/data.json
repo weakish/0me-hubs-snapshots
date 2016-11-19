@@ -1,6 +1,6 @@
 {
 	"next_post_id": 18,
-	"next_comment_id": 46,
+	"next_comment_id": 47,
 	"next_follow_id": 144,
 	"avatar": "png",
 	"user_name": "Lmath",
@@ -94,7 +94,7 @@
 		},
 		{
 			"post_id": 1479512438,
-			"body": "热烈祝贺 ZeroNet 提供多语言支持！",
+			"body": "热烈祝贺 ZeroNet 提供多语言支持！\n已~~尝试~~提交中文翻译：https://github.com/HelloZeroNet/ZeroNet/pull/646\n等等！是不是要等作者更新下 ZeroHello 才能用？",
 			"date_added": 1479512421
 		}
 	],
@@ -104,7 +104,9 @@
 		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1478417725": 1478417763,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1478422171": 1478551147,
 		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1478620854": 1478620916,
-		"1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd_1479176984": 1479183623
+		"1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd_1479176984": 1479183623,
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479498270": 1479516385,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310": 1479516977
 	},
 	"comment": [
 		{
@@ -370,6 +372,12 @@
 			"body": "@cnwfjsw: 为什么我感觉就是 ZeroHello 修改一下就好？",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479442006",
 			"date_added": 1479484912
+		},
+		{
+			"comment_id": 46,
+			"body": "When I ran wizard.py, raised the following error:\n```\nTraceback (most recent call last):\n  File \"ZeroMux\\wizard.py\", line 55, in <module>\n    from FileChunks import *\nImportError: No module named FileChunks\n```\nplatform: Windows 10, python 2.7 in the default install.",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479498270",
+			"date_added": 1479516587
 		}
 	],
 	"follow": [
