@@ -1,7 +1,7 @@
 {
 	"next_post_id": 18,
 	"next_comment_id": 49,
-	"next_follow_id": 146,
+	"next_follow_id": 147,
 	"avatar": "png",
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -94,7 +94,7 @@
 		},
 		{
 			"post_id": 1479512438,
-			"body": "热烈祝贺 ZeroNet 提供多语言支持！\n已~~尝试~~提交中文翻译：\nhttps://github.com/HelloZeroNet/ZeroNet/pull/646\nhttps://github.com/HelloZeroNet/ZeroNet/pull/647\nhttps://github.com/HelloZeroNet/ZeroHello/pull/12\n等等！是不是要等作者更新下 ZeroHello 才能用？\n提示：目前只有消息提示被翻译，在正式版翻译出来之前，你可以手工编辑 zeronet.conf 并更改为 `language = zh` 来显示部分翻译。",
+			"body": "热烈祝贺 ZeroNet 提供多语言支持！\n已~~尝试~~提交中文翻译：\nhttps://github.com/HelloZeroNet/ZeroNet/pull/646\nhttps://github.com/HelloZeroNet/ZeroNet/pull/647\nhttps://github.com/HelloZeroNet/ZeroHello/pull/12\nhttps://github.com/HelloZeroNet/ZeroMe/pull/13\n提示：目前只有消息提示被翻译，在正式版翻译出来之前，你可以手工编辑 zeronet.conf 并更改为 `language = zh` 来显示部分翻译。其他部分请下载翻译文件后放到响应目录并点击“This is my site”并保存，然后重新加载。",
 			"date_added": 1479512421
 		}
 	],
@@ -1393,6 +1393,13 @@
 			"auth_address": "1A5Uw4pejzgKx4c3yZkz8whBcqMaypp1Wo",
 			"user_name": "Deep",
 			"date_added": 1479519503
+		},
+		{
+			"follow_id": 146,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "13YuSFL3YKh6KQPWAgxtfiufGMTDHypVFM",
+			"user_name": "怡红院",
+			"date_added": 1479525374
 		}
 	],
 	"settings": {
