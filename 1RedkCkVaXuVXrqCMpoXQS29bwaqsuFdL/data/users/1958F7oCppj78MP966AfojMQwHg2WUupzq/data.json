@@ -1,6 +1,6 @@
 {
-	"next_post_id": 20,
-	"next_comment_id": 56,
+	"next_post_id": 22,
+	"next_comment_id": 60,
 	"next_follow_id": 147,
 	"avatar": "png",
 	"user_name": "Lmath",
@@ -107,6 +107,17 @@
 			"body": "将 .owned-title 翻译成中文以后，引起了下面的菜单都寄到右边的情况，目前只有去掉 .settings-owned 的 `overflow: hidden` 看起来还比较正常，对于这种情况该怎么办？@P2P @ysc3839 @rainlime",
 			"date_added": 1479547161,
 			"meta": "{\"img\":\"830,700,222444555333aaafef111eee999ddd442bb5dd5764884,011200345500006604550003660457000666089900ABC034770000003897000000D875000666E897\"}"
+		},
+		{
+			"post_id": 1479552077,
+			"body": "```\n{\n\t\"Follow in Newsfeed\": \"在新闻源中关注\",\n\t\"Following\": \"已关注\",\n\t\"Comments in this topic\": \"这个新话题的评论\",\n\t\"New topics\": \"新话题\",\n\t\"New topics in this group\": \"本组的新话题\",\n\t\"Username mentions\": \"提到的用户名\",\n\t\"All comments\": \"所有评论\",\n\n\t\"Main\": \"主论坛\",\n\t\"Loading...\": \"加载中...\",\n\t\" + Start new topic\": \" + 创建新话题\",\n\t\"new topic\": \" 新话题\",\n\t\"Topic title\": \" 话题标题\",\n\t\"Topic description\": \" 话题描述\",\n\t\"Add new topic\": \"添加新话题\",\n\n\t\"Newest topics\": \"最新的话题\",\n\t\"More topics\": \"更多话题\",\n\t\"Sign in as...\": \"登陆为...\",\n\t\"Submit comment\": \"提交评论\",\n\t\"Please sign in\": \"请登录\",\n\t\"new comment\": \"新评论\",\n\n\t\"Reply\": \"回复\",\n\n\t\"stickied\": \"已置顶\",\n\t\" posted \": \" 发表了 \",\n\t\"last \": \"最后活动于 \",\n\t\" comment\": \" 条评论\",\n\t\"0 comments\": \"0 条评论\",\n\t\"last activity\": \"最后活动\",\n\t\"&#9473; started by \": \"&#9473; 发布者：\",\n\n\t\" minutes ago\": \" 分钟前\",\n\t\" hours ago\": \" 小时前\",\n\t\" days ago\": \" 天前\",\n\t\"on \": \"\",\n\t\"Just now\": \"刚才\"\n}\n```\n目前的 ZeroTalk 实在太纠结，我稍微改了下，大家看看还有哪里可以改的？还有，目前语言是缩写是 zh ，所以是不是把繁体字的位置占了？\n@P2P @Obatoyou",
+			"date_added": 1479552057
+		},
+		{
+			"post_id": 1479552693,
+			"body": "作者为了修正中文添加的 CSS 没有生效，还是被覆盖了。",
+			"date_added": 1479552672,
+			"meta": "{\"img\":\"900,546,332444354222888fffeee212111777edd553,01233456553337746666337889A56633BB34A66633780466653377046666\"}"
 		}
 	],
 	"post_like": {
@@ -437,6 +448,30 @@
 			"body": "@P2P: 我把 .owned-title 里面的内容编辑成英文后又没有这个问题了，看起来是中文独有的问题。",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479547180",
 			"date_added": 1479547698
+		},
+		{
+			"comment_id": 56,
+			"body": "@Nofish: After I translate .owned-title, .settings-owned goes to the right part, it's normal in other non-CJK-language.\nI found it is normal if I set `.settings-owned {overflow: visible}`, but I'm not sure whether it will have side effects.\nsee the image: http://127.0.0.1:43110/Me.ZeroNetwork.bit/merged-ZeroMe/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/data/users/1958F7oCppj78MP966AfojMQwHg2WUupzq/1479547180.jpg",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310",
+			"date_added": 1479550163
+		},
+		{
+			"comment_id": 57,
+			"body": "现在 ZeroHello 更新了，应该 Update 一下 ZeroHello 就能出现中文选项了。",
+			"post_uri": "144GQ5Uz9dYQJ1MwjSFWWboLgHwdGpv21x_1479550094",
+			"date_added": 1479550349
+		},
+		{
+			"comment_id": 58,
+			"body": "@P2P: reply 问题在作者合并前我已经又提交了，就是那个 ZeroTalk 我载入成功后看起来是比较纠结，我已经改了下，放出来大家有什么问题讨论一致后再提交吧！",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479512438",
+			"date_added": 1479551887
+		},
+		{
+			"comment_id": 59,
+			"body": "@Nofish: I'm sorry but the property is overridden by `#checkbox-owned ~ .settings-owned` in line 357.\nsee: http://localhost:43110/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/data/users/1958F7oCppj78MP966AfojMQwHg2WUupzq/1479552693.jpg",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310",
+			"date_added": 1479552974
 		}
 	],
 	"follow": [

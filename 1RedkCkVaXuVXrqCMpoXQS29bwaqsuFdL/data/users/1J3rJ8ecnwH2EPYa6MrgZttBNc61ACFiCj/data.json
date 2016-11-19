@@ -1,6 +1,6 @@
 {
 	"next_post_id": 20,
-	"next_comment_id": 111,
+	"next_comment_id": 112,
 	"next_follow_id": 29,
 	"avatar": "png",
 	"user_name": "Nofish",
@@ -758,6 +758,12 @@
 			"body": "Chinese translation is complete and live! ( thanks to @lmath)\n@Balancer73, @Mkg20001: Added translations instructions [to ZeroBlog](http://127.0.0.1:43110/blog.zeronetwork.bit/?Post:97:New+version:+0.5.1#Comments)",
 			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310",
 			"date_added": 1479549015
+		},
+		{
+			"comment_id": 111,
+			"body": "@Lmath: I can't reproduce the error in FF or Chrome, but I see no side effect, so added to css",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310",
+			"date_added": 1479551323
 		}
 	],
 	"follow": [
