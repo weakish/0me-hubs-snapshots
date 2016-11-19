@@ -1,6 +1,6 @@
 {
 	"next_post_id": 20,
-	"next_comment_id": 37,
+	"next_comment_id": 38,
 	"next_follow_id": 26,
 	"avatar": "jpg",
 	"user_name": "megfault",
@@ -298,6 +298,12 @@
 			"body": "@Sirenyc: From Portugal or Brazil? I added one for Portuguese from Portugal.",
 			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310",
 			"date_added": 1479572511
+		},
+		{
+			"comment_id": 37,
+			"body": "@Sirenyc: definitely. I submitted it as pt-pt, but they requested it as pt only. I now asked how to name Brazilian Portuguese, which is usually pt-br. You can see my pull request here: https://github.com/HelloZeroNet/ZeroNet/pull/654",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310",
+			"date_added": 1479579800
 		}
 	],
 	"follow": [
