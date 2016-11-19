@@ -1,6 +1,6 @@
 {
 	"next_post_id": 14,
-	"next_comment_id": 20,
+	"next_comment_id": 21,
 	"next_follow_id": 36,
 	"avatar": "png",
 	"user_name": "Squarezero",
@@ -190,6 +190,12 @@
 			"body": "@It's a test!: not much I suppose, unless of course she's ticklish",
 			"post_uri": "1EvWEgpVuMdbKTJR5vWZTV9LP1hBjMfyMd_1479246099",
 			"date_added": 1479509904
+		},
+		{
+			"comment_id": 20,
+			"body": "@Border0464fred: Email suffer from mostly ONE design decision - that was sensitive at a time : unpredictable paths. Complex systems (and slow to adoption) like SPF, DKIM and DMARC are there because we thought it would be a good idea to allow a given message to take almost any possible path between two points.\nWe don't want that anymore : networks are much more reliable and pervasive than they ever been. Domain names don't cost much and are rather easy to manage. SRV records are commonplace.\nEmail would really quickly get rid of most current forms SPAM - by far its biggest problem - if we managed to enforce a (few) single rules on email admins. Like \"mail only comes from domain.com adresses through mail.domain.com\". That and some deep work on mailing-lists, which are slowly dying anyway...",
+			"post_uri": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1479399201",
+			"date_added": 1479510031
 		}
 	],
 	"follow": [
