@@ -1,6 +1,6 @@
 {
 	"next_post_id": 20,
-	"next_comment_id": 109,
+	"next_comment_id": 110,
 	"next_follow_id": 29,
 	"avatar": "png",
 	"user_name": "Nofish",
@@ -746,6 +746,12 @@
 			"body": "@Firebox: It was incompatible with firefox, fixed!",
 			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310",
 			"date_added": 1479514396
+		},
+		{
+			"comment_id": 109,
+			"body": "@P2P: Currently the translation is partial, I will add it to ZeroHello if the other files will be translated as well (at least Sidebar and ZeroHello)\nTo test it you can add language = zh to zeronet.conf",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310",
+			"date_added": 1479518541
 		}
 	],
 	"follow": [

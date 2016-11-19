@@ -1,7 +1,7 @@
 {
 	"next_post_id": 18,
-	"next_comment_id": 47,
-	"next_follow_id": 144,
+	"next_comment_id": 49,
+	"next_follow_id": 146,
 	"avatar": "png",
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -94,7 +94,7 @@
 		},
 		{
 			"post_id": 1479512438,
-			"body": "热烈祝贺 ZeroNet 提供多语言支持！\n已~~尝试~~提交中文翻译：https://github.com/HelloZeroNet/ZeroNet/pull/646\n等等！是不是要等作者更新下 ZeroHello 才能用？",
+			"body": "热烈祝贺 ZeroNet 提供多语言支持！\n已~~尝试~~提交中文翻译：https://github.com/HelloZeroNet/ZeroNet/pull/646\n等等！是不是要等作者更新下 ZeroHello 才能用？\n提示：目前只有消息提示被翻译，在正式版翻译出来之前，你可以手工编辑 zeronet.conf 并更改为 `language = zh` 来显示部分翻译。",
 			"date_added": 1479512421
 		}
 	],
@@ -378,6 +378,18 @@
 			"body": "When I ran wizard.py, raised the following error:\n```\nTraceback (most recent call last):\n  File \"ZeroMux\\wizard.py\", line 55, in <module>\n    from FileChunks import *\nImportError: No module named FileChunks\n```\nplatform: Windows 10, python 2.7 in the default install.",
 			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479498270",
 			"date_added": 1479516587
+		},
+		{
+			"comment_id": 47,
+			"body": "@P2P: 我发现语言貌似是写死在 ZeroHello 里的。http://127.0.0.1:43110/1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D/js/all.js\n2968 行。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479512438",
+			"date_added": 1479517900
+		},
+		{
+			"comment_id": 48,
+			"body": "@P2P: 是的，目前只有消息提示被翻译，我添加下提示。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479512438",
+			"date_added": 1479519108
 		}
 	],
 	"follow": [
@@ -1367,6 +1379,20 @@
 			"auth_address": "13Nzuvnhyz7nBJvPoUrdTEFuQTWUdqXAJk",
 			"user_name": "Linkerlin",
 			"date_added": 1479485177
+		},
+		{
+			"follow_id": 144,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1A5FxtwybRdveKnBCj4zyDoyJwA1ddVT4L",
+			"user_name": "Obatoyou",
+			"date_added": 1479519479
+		},
+		{
+			"follow_id": 145,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1A5Uw4pejzgKx4c3yZkz8whBcqMaypp1Wo",
+			"user_name": "Deep",
+			"date_added": 1479519503
 		}
 	],
 	"settings": {
@@ -1385,6 +1411,8 @@
 		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_7": 1478605402,
 		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_8": 1478605417,
 		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_122": 1478677795,
-		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_66": 1479206984
+		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_66": 1479206984,
+		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_153": 1479518400,
+		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_154": 1479519013
 	}
 }

@@ -1,7 +1,7 @@
 {
-	"next_post_id": 38,
-	"next_comment_id": 152,
-	"next_follow_id": 150,
+	"next_post_id": 39,
+	"next_comment_id": 156,
+	"next_follow_id": 151,
 	"avatar": "jpg",
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -192,6 +192,11 @@
 			"post_id": 1479128843,
 			"body": "With all ZeroNet's dependency (gevent msgpack-python) already built in here, could anyone please package an APK of ZeroNet? https://github.com/kivy/python-for-android/tree/master/pythonforandroid/recipes Docs: http://python-for-android.readthedocs.io/en/latest/ Discussion [in ZeroTalk](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:9_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ/)",
 			"date_added": 1479128806
+		},
+		{
+			"post_id": 1479519722,
+			"body": "0.5.1新版已经推送。增加多语言支持。各位可以提交翻译。完整翻译方法见[作者博客的评论](http://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:97#Comments)",
+			"date_added": 1479519684
 		}
 	],
 	"post_like": {
@@ -234,7 +239,8 @@
 		"1A5FxtwybRdveKnBCj4zyDoyJwA1ddVT4L_1479481280": 1479486787,
 		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1479512438": 1479516755,
 		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310": 1479516759,
-		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479498270": 1479516790
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479498270": 1479516790,
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479519280": 1479520289
 	},
 	"comment": [
 		{
@@ -1142,6 +1148,30 @@
 			"body": "@cnwfjsw: 是的，只需要前端修改一下。",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479442006",
 			"date_added": 1479481805
+		},
+		{
+			"comment_id": 152,
+			"body": "看到你的PR已被merge，但是手动更新到最新版，发现有ZH语言选项，但是刷新后又不见了",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479512438",
+			"date_added": 1479517350
+		},
+		{
+			"comment_id": 153,
+			"body": "still cannot see ZH due to zerohello `langs = [\"en\", \"hu\"];` after update to latest( got zh.json in local disk )",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310",
+			"date_added": 1479518265
+		},
+		{
+			"comment_id": 154,
+			"body": "@Lmath: Nofish · nofish@zeroid.bit ― Just nowReply\n@P2P: Currently the translation is partial, I will add it to ZeroHello if the other files will be translated as well (at least Sidebar and ZeroHello)\nTo test it you can add language = zh to zeronet.conf\nP2P · p2p@zeroid.bit ― 5 minutes ago1Reply\nstill cannot see ZH due to zerohello langs = [\"en\", \"hu\"]; after update to latest( got zh.json in local disk )",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479512438",
+			"date_added": 1479518613
+		},
+		{
+			"comment_id": 155,
+			"body": "发现ZeroMe Plus 的一个bug，po中带井号的链接显示异常",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479519722",
+			"date_added": 1479519903
 		}
 	],
 	"follow": [
@@ -2152,6 +2182,13 @@
 			"auth_address": "1A5FxtwybRdveKnBCj4zyDoyJwA1ddVT4L",
 			"user_name": "Obatoyou",
 			"date_added": 1479486441
+		},
+		{
+			"follow_id": 150,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1BDZtoYSyUeEKPCAJ3Pz6wzfXbHzaJWHZU",
+			"user_name": "Ingsiz",
+			"date_added": 1479518462
 		}
 	],
 	"settings": {
