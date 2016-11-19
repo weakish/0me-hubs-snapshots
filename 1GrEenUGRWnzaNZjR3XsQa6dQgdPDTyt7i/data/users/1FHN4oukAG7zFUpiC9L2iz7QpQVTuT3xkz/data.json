@@ -1,6 +1,6 @@
 {
-	"next_post_id": 87,
-	"next_comment_id": 276,
+	"next_post_id": 88,
+	"next_comment_id": 278,
 	"next_follow_id": 58,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
@@ -436,6 +436,11 @@
 			"post_id": 1479470351,
 			"body": "大发现：gzip，etag，cache不能一起用，一起用的话gzip对同一个文件每次压出来的结果会不一样，导致文件未修改但etag不一致，缓存全都会expired，难怪速度没提升",
 			"date_added": 1479470265
+		},
+		{
+			"post_id": 1479543658,
+			"body": "专为Android局域网ZeroNet代理服务器的nginx已经完全配置好，作用包括：\n1.反向代理\n2.内存缓存（在/dev/cache）\n3.gzip压缩（js普遍能压缩到1/3，css差不多有2/3）\n  \n提升了wifi和emmc的瓶颈，现在即使5个人一起用也不会卡\n虽然功能很简单，但坎一点都不少，经过24小时测试稳定后放出配置文件",
+			"date_added": 1479543571
 		}
 	],
 	"post_like": {
@@ -2094,6 +2099,18 @@
 			"body": "@Rainlime: 算了，我还有更重要更有意义的事情要干，我刚抓了zerome页面的请求，发现了一个小bug，准备提交issue",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479464122",
 			"date_added": 1479468744
+		},
+		{
+			"comment_id": 276,
+			"body": "其实我一直不明白为什么ZeroNet的http服务器要设定所有文件10分钟就要过期，ZeroNet上的静态资源一天都更新不了一次",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479543658",
+			"date_added": 1479544064
+		},
+		{
+			"comment_id": 277,
+			"body": "@Obatoyou: 我会写注释的，其实不需要修改就能直接用",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479543658",
+			"date_added": 1479545096
 		}
 	],
 	"follow": [

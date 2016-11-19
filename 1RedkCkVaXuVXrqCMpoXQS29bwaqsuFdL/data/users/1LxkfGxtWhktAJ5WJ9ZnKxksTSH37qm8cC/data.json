@@ -1,5 +1,5 @@
 {
-	"next_post_id": 56,
+	"next_post_id": 57,
 	"next_comment_id": 43,
 	"next_follow_id": 14,
 	"avatar": "generate",
@@ -268,6 +268,11 @@
 			"post_id": 1479539307,
 			"body": "A quick reminder on using ZeroMux Bundle:\nOnce you have uploaded new files, you have to place the `loader` folder onto your site, overriding old files.\n\nDon't want to override so many files?\n1. Go to your `loader` folder. Find `first-run.js` and `list.json`. Copy these two files to your site, replacing old files.\n2. Copy your whole `loader` folder, but in this time, do not override files.\n\nDon't want to copy files from here to there?\n1. Simply put the whole ZeroMux Bundle, including its py files, onto your site.",
 			"date_added": 1479539252
+		},
+		{
+			"post_id": 1479544886,
+			"body": "For those who are using ZeroMux Bundle:\nYou may have noticed that, you can't delete files, yet,\nbecause I am still writing this. I guess it will come out next week.",
+			"date_added": 1479544830
 		}
 	],
 	"post_like": {

@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 25,
+	"next_comment_id": 31,
 	"user_name": "Waterrabbit",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -148,9 +148,45 @@
 		},
 		{
 			"comment_id": 24,
-			"body": "@Bullseye: Find your `loader` folder. It is in your decompressed ZeroMux Bundle.\nCopy the whole `loader` folder to your site: `ZeroBundle\\ZeroNet\\data\\1PE5GTgUjKVQuudoz4P1YCrmZPVXvZwRmR\\`\nThen you can share a link like this:\nhttp://127.0.0.1:43110/1PE5GTgUjKVQuudoz4P1YCrmZPVXvZwRmR/loader/?1bSVKz4d",
+			"body": "@Bullseye: Find your `loader` folder. It is in your unpacked ZeroMux Bundle.\nCopy the whole `loader` folder to your site: `ZeroBundle\\ZeroNet\\data\\1PE5GTgUjKVQuudoz4P1YCrmZPVXvZwRmR\\`\nThen you can share a link like this:\nhttp://127.0.0.1:43110/1PE5GTgUjKVQuudoz4P1YCrmZPVXvZwRmR/loader/?1bSVKz4d",
 			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479536824",
 			"date_added": 1479541323
+		},
+		{
+			"comment_id": 25,
+			"body": "On my ZeroNet, I didn't see your site updated. Make sure you **sign and publish** your site, and have your port opened.\nGo to your site, drag the `0` button all the way to the left. You will see a side bar. Scroll to the bottom. Click \"sign,\" **wait for 10 seconds**. Then click \"publish.\"",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479536824",
+			"date_added": 1479543024
+		},
+		{
+			"comment_id": 26,
+			"body": "@Apuar: He forgot to **sign and publish**.",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479536824",
+			"date_added": 1479543352
+		},
+		{
+			"comment_id": 27,
+			"body": "@Bullseye: You might forget to copy your other files. Your `loader\\files\\` is almost empty.\n\nCan you load your file at http://127.0.0.1:18905/ ?\nIf you can, you might forget to copy all of your files.",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479536824",
+			"date_added": 1479544191
+		},
+		{
+			"comment_id": 28,
+			"body": "@Bullseye: Help me check this: Go to your unpacked **ZeroMux Bundle**, then go to `loader\\files\\`. Can you see a folder named after your PDF file?",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479536824",
+			"date_added": 1479545070
+		},
+		{
+			"comment_id": 29,
+			"body": "@Bullseye: You forgot to copy all of your files. Copy your `loader` folder to your site again, replacing old files.\nThen \"sign\" and \"publish\"",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479536824",
+			"date_added": 1479545217
+		},
+		{
+			"comment_id": 30,
+			"body": "@Bullseye: Sign and publish, please. You must go through this step after you modify your site. Signing is for data integrity.",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479536824",
+			"date_added": 1479545824
 		}
 	]
 }

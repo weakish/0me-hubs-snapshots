@@ -1,6 +1,6 @@
 {
 	"next_post_id": 19,
-	"next_comment_id": 54,
+	"next_comment_id": 55,
 	"next_follow_id": 147,
 	"avatar": "png",
 	"user_name": "Lmath",
@@ -419,6 +419,12 @@
 			"body": "刚刚看了下，是一群人想民间审判，如果你支持的话，可以考虑给他们捐款：http://www.monsanto-tribunalc.org/",
 			"post_uri": "1A5FxtwybRdveKnBCj4zyDoyJwA1ddVT4L_1479534074",
 			"date_added": 1479534462
+		},
+		{
+			"comment_id": 54,
+			"body": "@P2P: 谢谢指出错误，我在翻译 ZeroTalk 后确实没有载入了看，因为我将翻译 JSON 放到站点目录并 Reload 后，发现并没有变成中文（已经禁用了缓存）。\n还有 Activity feed 你说翻译成什么好？“数据来源活动”我看着很纠结又想不出好词。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479512438",
+			"date_added": 1479543242
 		}
 	],
 	"follow": [

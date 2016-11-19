@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 189,
+	"next_comment_id": 190,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -19,7 +19,8 @@
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479297394": 1479311426,
 		"1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479358357": 1479370482,
 		"1BDZtoYSyUeEKPCAJ3Pz6wzfXbHzaJWHZU_1479409832": 1479456747,
-		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479470351": 1479470675
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479470351": 1479470675,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479543658": 1479543724
 	},
 	"comment": [
 		{
@@ -1131,6 +1132,12 @@
 			"body": "@P2P: 一般来说，第一次连接到网络需要一点方法，比如到内置一些种子节点或者到一个地址去获取一些，也可以请使用的朋友导出一份给新用户。我引导 I2P 目前的方式就是先连上海外的 VPN 启动 I2P ，等找到一些节点后就可以断开了。",
 			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479450750",
 			"date_added": 1479484776
+		},
+		{
+			"comment_id": 189,
+			"body": "@猫叉酱: 实际在本地客户端时性能开销不是很大，而过期时间短有利于站点更新，所以就这样了。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479543658",
+			"date_added": 1479544229
 		}
 	],
 	"flags": {},
