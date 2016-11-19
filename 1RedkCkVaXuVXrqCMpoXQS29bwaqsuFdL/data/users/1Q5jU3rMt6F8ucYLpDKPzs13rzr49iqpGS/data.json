@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 16,
+	"next_comment_id": 18,
 	"user_name": "cnwfjsw",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -91,6 +91,18 @@
 			"body": "@P2P: 整WebRTC的话就搞成相当于 Bittorrent 和 Webtorrent 的现状了\nZeroNet所有节点都是TCP-Only，WebRTC是UDP，连通只能靠中间人",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479563994",
 			"date_added": 1479573526
+		},
+		{
+			"comment_id": 16,
+			"body": "@Lmath: Tor Browser还管什么用户体验（\n而且开Tor Browser的话应该开个ZeroBundle也没什么问题吧（\n直接指定服务器连就是（",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479563994",
+			"date_added": 1479575483
+		},
+		{
+			"comment_id": 17,
+			"body": "这都是能做就optional，不能做就坑着的feature（逃",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479563994",
+			"date_added": 1479575728
 		}
 	]
 }

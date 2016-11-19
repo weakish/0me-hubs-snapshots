@@ -1,6 +1,6 @@
 {
 	"next_post_id": 23,
-	"next_comment_id": 69,
+	"next_comment_id": 70,
 	"next_follow_id": 151,
 	"avatar": "png",
 	"user_name": "Lmath",
@@ -531,6 +531,12 @@
 			"body": "浏览器插件的话又有一个移动端不支持的问题，即使你说的是扩展程序也少有移动端浏览器实现了扩展程序支持。",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479563994",
 			"date_added": 1479571587
+		},
+		{
+			"comment_id": 69,
+			"body": "@cnwfjsw: @P2P: 如果要搞 WebRTC 的话以后在 Tor Browser 里又要专门配置吧！默认由于会泄露 IP 的原因禁用。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479563994",
+			"date_added": 1479575031
 		}
 	],
 	"follow": [

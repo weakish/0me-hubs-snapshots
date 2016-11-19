@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 6,
+	"next_comment_id": 7,
 	"user_name": "Linker",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {
@@ -37,6 +37,12 @@
 			"body": "可以搜下 光明会纸牌 ，里面的阴谋吓死人",
 			"post_uri": "1A5FxtwybRdveKnBCj4zyDoyJwA1ddVT4L_1479533059",
 			"date_added": 1479558475
+		},
+		{
+			"comment_id": 6,
+			"body": "https://github.com/HelloZeroNet/ZeroNet/pull/655 刚刚提交了一个patch，如果site没title，就会KeyError。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479557296",
+			"date_added": 1479575226
 		}
 	]
 }
