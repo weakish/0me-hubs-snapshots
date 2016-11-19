@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 12,
+	"next_comment_id": 13,
 	"user_name": "Ysc3839",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -84,6 +84,12 @@
 			"body": "水表在楼下",
 			"post_uri": "144GQ5Uz9dYQJ1MwjSFWWboLgHwdGpv21x_1479137373",
 			"date_added": 1479138702
+		},
+		{
+			"comment_id": 12,
+			"body": "Config.py:50-54 ```        try:\n            language, enc = locale.getdefaultlocale()\n            language = language.split(\"_\")[0]\n        except Exception:\n            language = \"en\"```",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479557296",
+			"date_added": 1479555388
 		}
 	],
 	"flags": {},

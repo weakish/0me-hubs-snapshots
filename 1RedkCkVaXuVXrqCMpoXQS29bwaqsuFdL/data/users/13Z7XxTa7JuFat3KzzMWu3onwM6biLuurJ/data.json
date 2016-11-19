@@ -1,6 +1,6 @@
 {
-	"next_post_id": 39,
-	"next_comment_id": 162,
+	"next_post_id": 40,
+	"next_comment_id": 167,
 	"next_follow_id": 154,
 	"avatar": "jpg",
 	"user_name": "P2P",
@@ -197,6 +197,11 @@
 			"post_id": 1479519722,
 			"body": "0.5.1新版已经推送。增加多语言支持。各位可以提交翻译。完整翻译方法见[作者博客的评论](http://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:97#Comments)",
 			"date_added": 1479519684
+		},
+		{
+			"post_id": 1479557296,
+			"body": "中文翻译已经全面上线，ZeroHello、ZeroTalk、ZeroMe都上线了中文翻译（感谢 @lmath ）。根据作者的设计意图，ZeroNet能根据操作系统语言设置或浏览器语言设置**自动**调整语言设置，也就是说大多数用户是不需要手动设置语言的。实际情况怎样，需要大家测试反馈。另外此次翻译提交的语言代码是zh，简体和繁体应该是在语言代码有区分的，操作系统语言设置或浏览器语言设置在简体和繁体区分上分别用的什么语言代码？",
+			"date_added": 1479557257
 		}
 	],
 	"post_like": {
@@ -1211,6 +1216,36 @@
 			"body": "@Lmath: 我这没有，可能跟chrome版本有关系",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479552693",
 			"date_added": 1479556617
+		},
+		{
+			"comment_id": 162,
+			"body": "@Nofish: I think we also need to translate ZeroBundle.",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310",
+			"date_added": 1479557537
+		},
+		{
+			"comment_id": 163,
+			"body": "@Lmath: 还是要看操作系统语言设置或浏览器语言设置是怎么定义的",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479557296",
+			"date_added": 1479558246
+		},
+		{
+			"comment_id": 164,
+			"body": "@Linker: 当然可以手动，我说的情况是默认情况",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479557296",
+			"date_added": 1479558307
+		},
+		{
+			"comment_id": 165,
+			"body": "@Lmath: yes, my fault, i meant the tray for Windows, @Nofish",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310",
+			"date_added": 1479558862
+		},
+		{
+			"comment_id": 166,
+			"body": "@cnwfjsw: *Az*  is being fixed https://github.com/HelloZeroNet/ZeroNet/pull/651/files",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310",
+			"date_added": 1479559298
 		}
 	],
 	"follow": [

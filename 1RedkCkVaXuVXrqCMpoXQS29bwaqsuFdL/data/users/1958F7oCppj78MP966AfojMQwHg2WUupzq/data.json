@@ -1,7 +1,7 @@
 {
 	"next_post_id": 22,
-	"next_comment_id": 62,
-	"next_follow_id": 148,
+	"next_comment_id": 66,
+	"next_follow_id": 149,
 	"avatar": "png",
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -484,6 +484,30 @@
 			"body": "@P2P: 刚才测试了下，Firefox 上没有，Chrome 上有。",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479552693",
 			"date_added": 1479556549
+		},
+		{
+			"comment_id": 62,
+			"body": "@P2P: 我这是 win64 的开发版，另外作者已修复此问题。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479552693",
+			"date_added": 1479557179
+		},
+		{
+			"comment_id": 63,
+			"body": "根据维基百科：\n```\nzh-cn: 大陆简体\nzh-hk: 香港繁體\nzh-mo: 澳門繁體\nzh-sg: 马新简体\nzh-tw: 台灣正體\n```\n如果第一语言不存在就降级到第二语言也就是 zh 。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479557296",
+			"date_added": 1479558163
+		},
+		{
+			"comment_id": 64,
+			"body": "@Linker: 点开 ZeroHello 的三点图标可以手动设置的。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479557296",
+			"date_added": 1479558298
+		},
+		{
+			"comment_id": 65,
+			"body": "@Nofish: He should mean the tray for Windows need be translate.",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310",
+			"date_added": 1479558473
 		}
 	],
 	"follow": [
@@ -1501,6 +1525,13 @@
 			"auth_address": "1PK7r15RmMdmdnUCYeQEwuydfediNVDtt2",
 			"user_name": "Linker",
 			"date_added": 1479556320
+		},
+		{
+			"follow_id": 148,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN",
+			"user_name": "Flyman",
+			"date_added": 1479558711
 		}
 	],
 	"settings": {
