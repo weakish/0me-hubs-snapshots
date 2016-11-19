@@ -1,6 +1,6 @@
 {
 	"next_post_id": 40,
-	"next_comment_id": 169,
+	"next_comment_id": 171,
 	"next_follow_id": 154,
 	"avatar": "jpg",
 	"user_name": "P2P",
@@ -200,7 +200,7 @@
 		},
 		{
 			"post_id": 1479557296,
-			"body": "中文翻译已经全面上线，ZeroHello、ZeroTalk、ZeroMe都上线了中文翻译（感谢 @lmath ）。根据作者的设计意图，ZeroNet能根据操作系统语言设置或浏览器语言设置**自动**调整语言设置，也就是说大多数用户是不需要手动设置语言的。实际情况怎样，需要大家测试反馈。另外此次翻译提交的语言代码是zh，简体和繁体应该是在语言代码有区分的，操作系统语言设置或浏览器语言设置在简体和繁体区分上分别用的什么语言代码？",
+			"body": "中文翻译已经全面上线（**需要手动更新到最新版才能看到**），ZeroHello、ZeroTalk、ZeroMe都上线了中文翻译（感谢 @lmath ）。根据作者的设计意图，ZeroNet能根据操作系统语言设置或浏览器语言设置**自动**调整语言设置，也就是说大多数用户是不需要手动设置语言的。实际情况怎样，需要大家测试反馈。另外此次翻译提交的语言代码是zh，简体和繁体应该是在语言代码有区分的，操作系统语言设置或浏览器语言设置在简体和繁体区分上分别用的什么语言代码？",
 			"date_added": 1479557257
 		}
 	],
@@ -248,7 +248,8 @@
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479519280": 1479520289,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479539307": 1479539544,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479546563": 1479550778,
-		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1479539996": 1479550892
+		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1479539996": 1479550892,
+		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1479563994": 1479567867
 	},
 	"comment": [
 		{
@@ -1258,6 +1259,18 @@
 			"body": "@Ysc3839: 看到你提交的翻译patch了，感谢！有个问题，Disable always Tor mode的翻译，因为`always`是ZeroNet走tor的一个模式，参数是--tor=always，我认为这个always不需要翻译出来，可翻译成禁用Tor的'always'模式。",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479557296",
 			"date_added": 1479567547
+		},
+		{
+			"comment_id": 169,
+			"body": "@Windonsurf: 隐藏菜单已经翻译，需要手动更新最新版才能看到。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479557296",
+			"date_added": 1479568563
+		},
+		{
+			"comment_id": 170,
+			"body": "P2P版的disqus，社交化",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479563994",
+			"date_added": 1479570713
 		}
 	],
 	"follow": [

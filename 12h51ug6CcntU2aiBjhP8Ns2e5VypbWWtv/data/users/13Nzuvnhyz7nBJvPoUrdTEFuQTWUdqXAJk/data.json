@@ -1,12 +1,14 @@
 {
-	"next_comment_id": 5,
+	"next_comment_id": 7,
 	"user_name": "Linkerlin",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {
 		"1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1479478870": 1479484625,
 		"17GoSBQa419SCrJkj4djvTAgRFCDWHKuM3_2": 1479566210,
 		"1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1479567226": 1479567379,
-		"1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1478355972": 1479567480
+		"1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1478355972": 1479567480,
+		"1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1478337003": 1479567649,
+		"1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1478337589": 1479570516
 	},
 	"comment": [
 		{
@@ -32,6 +34,18 @@
 			"body": "@Lmath: Emoji的最新版本的大部分字符需要mbs4才可以。而很多网站后台的mysql表配置的utf8而非utf8mbs4",
 			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1479478870",
 			"date_added": 1479567442
+		},
+		{
+			"comment_id": 5,
+			"body": "@Erotic: 理论上，即便用tor都不一定能很好的匿名。用I2P会好一点。最好的匿名是用一个虚拟机专用来ZeroNet。里面不要保存任何私人的东西。而且只在公共WiFi发帖。",
+			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1478337589",
+			"date_added": 1479567637
+		},
+		{
+			"comment_id": 6,
+			"body": "@Jabasukuriputo Wang: 大部分时候公共的WiFi反而是最安全的。",
+			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1478337589",
+			"date_added": 1479570577
 		}
 	],
 	"flags": {},
