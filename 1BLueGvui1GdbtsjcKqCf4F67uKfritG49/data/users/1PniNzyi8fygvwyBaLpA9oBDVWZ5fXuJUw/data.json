@@ -1,7 +1,7 @@
 {
-	"next_post_id": 23,
+	"next_post_id": 24,
 	"next_comment_id": 25,
-	"next_follow_id": 28,
+	"next_follow_id": 29,
 	"avatar": "jpg",
 	"user_name": "Balancer73",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -117,6 +117,11 @@
 			"post_id": 1479283150,
 			"body": "#Браузер (англ. browser) — в теории экологии: растительноядное животное, питающееся за счёт верхних ярусов растительного покрова, поедая листву и ветки; классический пример браузера - обыкновенный жираф.",
 			"date_added": 1479283128
+		},
+		{
+			"post_id": 1479538580,
+			"body": "Проблема. Как (для сохранения в p2p) качать wget'ом страницу со всеми ресурсами? Подробнее: [в блоге](/1MaQ4W5D6G52TpBfPACU9k9QcB1DxvHZ5v/?Post:16)",
+			"date_added": 1479538557
 		}
 	],
 	"post_like": {
@@ -458,6 +463,13 @@
 			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
 			"user_name": "Balancer73",
 			"date_added": 1476728163
+		},
+		{
+			"follow_id": 28,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1479537982
 		}
 	],
 	"settings": {
