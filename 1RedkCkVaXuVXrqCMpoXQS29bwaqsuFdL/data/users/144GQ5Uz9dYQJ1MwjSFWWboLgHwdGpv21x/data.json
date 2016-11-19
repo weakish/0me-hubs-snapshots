@@ -1,7 +1,7 @@
 {
 	"next_post_id": 16,
-	"next_comment_id": 19,
-	"next_follow_id": 119,
+	"next_comment_id": 20,
+	"next_follow_id": 120,
 	"avatar": "png",
 	"user_name": "Mzero",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -193,6 +193,12 @@
 			"body": "@Lmath: \n@Obatoyou: 我什麼也沒做，但中文選擇卻自己又出現了。",
 			"post_uri": "144GQ5Uz9dYQJ1MwjSFWWboLgHwdGpv21x_1479550094",
 			"date_added": 1479550579
+		},
+		{
+			"comment_id": 19,
+			"body": "應該保留正體字。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479552077",
+			"date_added": 1479554091
 		}
 	],
 	"follow": [
@@ -1014,6 +1020,13 @@
 			"auth_address": "1LKkEXGKuTSNMWxb3bJRxiLUAGDUSMZ1yg",
 			"user_name": "Helloword",
 			"date_added": 1479473615
+		},
+		{
+			"follow_id": 119,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp",
+			"user_name": "Monico",
+			"date_added": 1479555245
 		}
 	]
 }

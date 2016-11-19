@@ -1,7 +1,7 @@
 {
 	"next_post_id": 39,
-	"next_comment_id": 160,
-	"next_follow_id": 153,
+	"next_comment_id": 162,
+	"next_follow_id": 154,
 	"avatar": "jpg",
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -1199,6 +1199,18 @@
 			"body": "@Lmath: 作者说要Open sidebar, check \"This is my site\"。我投机取巧，语言选HU直接把你的json内容copy到hu.json并保存，\"This is my site\"-》disable cache-》F5，中文就出来了。ZeroMe也需要载入翻译来校对，也存在reply问题。Activity feed翻译成新动态吧。",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479512438",
 			"date_added": 1479548979
+		},
+		{
+			"comment_id": 160,
+			"body": "我这边打开那个选项并没有出现你图中的问题（已是中文）。你换浏览器试试",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479552693",
+			"date_added": 1479556119
+		},
+		{
+			"comment_id": 161,
+			"body": "@Lmath: 我这没有，可能跟chrome版本有关系",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479552693",
+			"date_added": 1479556617
 		}
 	],
 	"follow": [
@@ -2223,6 +2235,13 @@
 			"auth_address": "1Czert3m7Hyfg23Z8ppNQdtCrBnwRjnbmK",
 			"user_name": "Hellblazer",
 			"date_added": 1479539441
+		},
+		{
+			"follow_id": 153,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1PK7r15RmMdmdnUCYeQEwuydfediNVDtt2",
+			"user_name": "Linker",
+			"date_added": 1479556472
 		}
 	],
 	"settings": {

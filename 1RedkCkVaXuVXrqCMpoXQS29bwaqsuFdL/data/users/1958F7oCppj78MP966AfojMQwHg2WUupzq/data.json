@@ -1,7 +1,7 @@
 {
 	"next_post_id": 22,
-	"next_comment_id": 60,
-	"next_follow_id": 147,
+	"next_comment_id": 62,
+	"next_follow_id": 148,
 	"avatar": "png",
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -472,6 +472,18 @@
 			"body": "@Nofish: I'm sorry but the property is overridden by `#checkbox-owned ~ .settings-owned` in line 357.\nsee: http://localhost:43110/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/data/users/1958F7oCppj78MP966AfojMQwHg2WUupzq/1479552693.jpg",
 			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310",
 			"date_added": 1479552974
+		},
+		{
+			"comment_id": 60,
+			"body": "@Nofish: Yes, `clear: both;` to .settings-owner fixed the problem, and needn't `.settings-owned {overflow: visible}` .",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310",
+			"date_added": 1479555581
+		},
+		{
+			"comment_id": 61,
+			"body": "@P2P: 刚才测试了下，Firefox 上没有，Chrome 上有。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479552693",
+			"date_added": 1479556549
 		}
 	],
 	"follow": [
@@ -1482,6 +1494,13 @@
 			"auth_address": "13YuSFL3YKh6KQPWAgxtfiufGMTDHypVFM",
 			"user_name": "怡红院",
 			"date_added": 1479525374
+		},
+		{
+			"follow_id": 147,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1PK7r15RmMdmdnUCYeQEwuydfediNVDtt2",
+			"user_name": "Linker",
+			"date_added": 1479556320
 		}
 	],
 	"settings": {
