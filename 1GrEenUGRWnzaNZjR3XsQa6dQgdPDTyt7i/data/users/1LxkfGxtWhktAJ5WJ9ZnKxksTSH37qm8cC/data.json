@@ -1,11 +1,12 @@
 {
-	"next_comment_id": 32,
+	"next_comment_id": 33,
 	"user_name": "Waterrabbit",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
 		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1474187738": 1474382151,
 		"15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1475541570": 1475545363,
-		"152kdpXWPevMLNm7755GKuzQPsu71bs13t_1": 1477593699
+		"152kdpXWPevMLNm7755GKuzQPsu71bs13t_1": 1477593699,
+		"152kdpXWPevMLNm7755GKuzQPsu71bs13t_1479583965": 1479584877
 	},
 	"comment": [
 		{
@@ -190,9 +191,15 @@
 		},
 		{
 			"comment_id": 31,
-			"body": "We might have to wait until he realized that he has to sign.",
+			"body": "~~We might have to wait until he realized that he has to sign.~~",
 			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479536824",
 			"date_added": 1479547627
+		},
+		{
+			"comment_id": 32,
+			"body": "Here are some ZeroNet Gateways: \nhttps://bit.no.com:43110/1PE5GTgUjKVQuudoz4P1YCrmZPVXvZwRmR/loader/?1emUNJzG\nhttps://onlyzero.net/1PE5GTgUjKVQuudoz4P1YCrmZPVXvZwRmR/loader/?1emUNJzG\nhttps://zerogate.tk/1PE5GTgUjKVQuudoz4P1YCrmZPVXvZwRmR/loader/?1emUNJzG\n\nIt seems that you don't have your port opened. After you clicked on **publish**, load your site immediately on one of these gateways.",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479551838",
+			"date_added": 1479582304
 		}
 	]
 }
