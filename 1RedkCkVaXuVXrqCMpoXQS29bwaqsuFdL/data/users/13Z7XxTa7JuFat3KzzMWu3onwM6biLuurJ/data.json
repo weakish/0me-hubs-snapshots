@@ -1,6 +1,6 @@
 {
 	"next_post_id": 40,
-	"next_comment_id": 171,
+	"next_comment_id": 174,
 	"next_follow_id": 154,
 	"avatar": "jpg",
 	"user_name": "P2P",
@@ -1271,6 +1271,24 @@
 			"body": "P2P版的disqus，社交化",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479563994",
 			"date_added": 1479570713
+		},
+		{
+			"comment_id": 171,
+			"body": "@Linkerlin: 浏览器插件是好，但是最好是先搞个zeronet的JS实现，over webRTC，前后端都在浏览器里跑。否则还要装python，门槛不够低",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479563994",
+			"date_added": 1479571326
+		},
+		{
+			"comment_id": 172,
+			"body": "@cnwfjsw: Bittorrent 和 Webtorrent 的现状是因为Bittorrent历史太悠久，各种版本没办法都实现兼容Webtorrent。而ZeroNet年轻，不存在历史问题，搞UDP也在作者计划中（I2P support、Bittorrent support -》Bittorrent over I2P）。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479563994",
+			"date_added": 1479573935
+		},
+		{
+			"comment_id": 173,
+			"body": "@Lmath: android 下的chrome和FF都支持WebRTC。完全用JS实现后，扩展都不用，就像Webtorrent一样。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479563994",
+			"date_added": 1479574080
 		}
 	],
 	"follow": [

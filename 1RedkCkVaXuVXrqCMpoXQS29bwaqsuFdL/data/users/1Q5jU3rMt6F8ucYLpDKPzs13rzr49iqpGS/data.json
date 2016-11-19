@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 15,
+	"next_comment_id": 16,
 	"user_name": "cnwfjsw",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -85,6 +85,12 @@
 			"body": "现在这个系统要实现的话大概是只能嵌个iframe进去（还得解决这个大大的灰色按钮和侧边栏\n所以这样不优雅，需要个API（\n（而且搞个API也可以造福手机客户端嘛）",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479563994",
 			"date_added": 1479566634
+		},
+		{
+			"comment_id": 15,
+			"body": "@P2P: 整WebRTC的话就搞成相当于 Bittorrent 和 Webtorrent 的现状了\nZeroNet所有节点都是TCP-Only，WebRTC是UDP，连通只能靠中间人",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479563994",
+			"date_added": 1479573526
 		}
 	]
 }
