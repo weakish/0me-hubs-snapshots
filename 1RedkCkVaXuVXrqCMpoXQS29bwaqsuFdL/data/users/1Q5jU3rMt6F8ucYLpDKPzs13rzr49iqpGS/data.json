@@ -1,10 +1,11 @@
 {
-	"next_comment_id": 12,
+	"next_comment_id": 15,
 	"user_name": "cnwfjsw",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
 		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1473904568": 1473904612,
-		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479546563": 1479563550
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479546563": 1479563550,
+		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1479563994": 1479564650
 	},
 	"comment": [
 		{
@@ -66,6 +67,24 @@
 			"body": "And current limitations on translated text in timeline breaks the grammar of Chinese. probably there should be placeholder instead of simply append.",
 			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310",
 			"date_added": 1479561938
+		},
+		{
+			"comment_id": 12,
+			"body": "所以我一直想让ZeroNet加个RESTful JSON API样的东西，Websocket在这方面不好用\n当前阶段还要deal with wrapper\n当然这都是为了安全安全安全（雾",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479563994",
+			"date_added": 1479564749
+		},
+		{
+			"comment_id": 13,
+			"body": "@Lmath: 个人感觉没什么差别啦 全都实现然后选择多好 反正坑又不在这儿 还是websocket的目标链接地址的问题（我选择直接改掉js然后把我服务器地址hardcode进去\n\n嗯现在我在用Proxy模式（\n反正不管什么模式只要不是严格的 `http://127.0.0.1:43110` 总有一些东西会炸",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479563994",
+			"date_added": 1479566588
+		},
+		{
+			"comment_id": 14,
+			"body": "现在这个系统要实现的话大概是只能嵌个iframe进去（还得解决这个大大的灰色按钮和侧边栏\n所以这样不优雅，需要个API（",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479563994",
+			"date_added": 1479566634
 		}
 	]
 }

@@ -1,6 +1,6 @@
 {
 	"next_post_id": 40,
-	"next_comment_id": 168,
+	"next_comment_id": 169,
 	"next_follow_id": 154,
 	"avatar": "jpg",
 	"user_name": "P2P",
@@ -1252,6 +1252,12 @@
 			"body": "in zerohello `a followed post` `a comment` `Your post` `started following you` `In xxxx's post` , in ZeroMe's suggested users `Followed by`are also needed to be translated.",
 			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310",
 			"date_added": 1479561655
+		},
+		{
+			"comment_id": 168,
+			"body": "@Ysc3839: 看到你提交的翻译patch了，感谢！有个问题，Disable always Tor mode的翻译，因为`always`是ZeroNet走tor的一个模式，参数是--tor=always，我认为这个always不需要翻译出来，可翻译成禁用Tor的'always'模式。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479557296",
+			"date_added": 1479567547
 		}
 	],
 	"follow": [

@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 56,
+	"next_comment_id": 57,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -344,6 +344,12 @@
 			"body": "any browser extension/ userscript/ userstyle to get rid of  this \"feature\"?",
 			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1479344270",
 			"date_added": 1479348515
+		},
+		{
+			"comment_id": 56,
+			"body": "看到你提交的翻译patch了，感谢！有个问题，Disable always Tor mode的翻译，因为`always`是ZeroNet走tor的一个模式，参数是--tor=always，我认为这个always不需要翻译出来，可翻译成禁用Tor的'always'模式。",
+			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479132525",
+			"date_added": 1479567485
 		}
 	],
 	"flags": {},

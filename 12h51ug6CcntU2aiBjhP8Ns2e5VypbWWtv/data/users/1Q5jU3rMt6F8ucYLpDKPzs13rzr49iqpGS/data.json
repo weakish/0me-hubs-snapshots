@@ -1,7 +1,7 @@
 {
-	"next_post_id": 40,
-	"next_comment_id": 9,
-	"next_follow_id": 20,
+	"next_post_id": 41,
+	"next_comment_id": 10,
+	"next_follow_id": 21,
 	"avatar": "jpg",
 	"user_name": "Jabasukuriputo Wang",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -66,6 +66,11 @@
 			"post_id": 1479560049,
 			"body": "换掉hub之后好像在一些人的已关注列表里会留下残余",
 			"date_added": 1479560010
+		},
+		{
+			"post_id": 1479567226,
+			"body": "现在 `zeronetwork.bit` 系列对于处理跨站超链都有自己的平滑转换\n有些站还是要学习一个（逃",
+			"date_added": 1479567186
 		}
 	],
 	"post_like": {},
@@ -117,6 +122,12 @@
 			"body": "@Linkerlin: 取决于浏览器吧（ 和系统",
 			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1479478870",
 			"date_added": 1479517969
+		},
+		{
+			"comment_id": 9,
+			"body": "@Linkerlin: 然而这地方用的是JSON w/ SQLITE（",
+			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1479478870",
+			"date_added": 1479567525
 		}
 	],
 	"follow": [
@@ -252,6 +263,13 @@
 			"auth_address": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC",
 			"user_name": "Firebox",
 			"date_added": 1479563559
+		},
+		{
+			"follow_id": 20,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB",
+			"user_name": "Ysc3839",
+			"date_added": 1479567596
 		}
 	],
 	"settings": {

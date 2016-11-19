@@ -1,7 +1,7 @@
 {
-	"next_post_id": 22,
-	"next_comment_id": 66,
-	"next_follow_id": 149,
+	"next_post_id": 23,
+	"next_comment_id": 68,
+	"next_follow_id": 151,
 	"avatar": "png",
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -118,6 +118,11 @@
 			"body": "作者为了修正中文添加的 CSS 没有生效，还是被覆盖了。",
 			"date_added": 1479552672,
 			"meta": "{\"img\":\"900,546,332444354222888fffeee212111777edd553,01233456553337746666337889A56633BB34A66633780466653377046666\"}"
+		},
+		{
+			"post_id": 1479563994,
+			"body": "大家觉得是不是应该做个这样的东西：\n\n- 大家对一个网页进行评论\n- 评论发布到 ZeroNet 网络下\n- 可以根据地址进行搜索\n- 一个浏览器扩展，在安装扩展的用户访问页面时显示该页的评论\n- 可以把评论推送到订阅的人\n\n之所以这么想是因为目前很多站点关闭评论或者看似打开评论，实际评论直接被吞，很多搜索引擎还有浏览器等实现过这东西，但是毕竟是受中心化控制的。",
+			"date_added": 1479563972
 		}
 	],
 	"post_like": {
@@ -508,6 +513,18 @@
 			"body": "@Nofish: He should mean the tray for Windows need be translate.",
 			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310",
 			"date_added": 1479558473
+		},
+		{
+			"comment_id": 66,
+			"body": "Delete function is not available on Chrome, click 'Delete' button has no response.",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479546563",
+			"date_added": 1479564107
+		},
+		{
+			"comment_id": 67,
+			"body": "@cnwfjsw: 所以以后是搞成 proxy 好还是搞成 schema 好？",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479563994",
+			"date_added": 1479566218
 		}
 	],
 	"follow": [
@@ -1532,6 +1549,20 @@
 			"auth_address": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN",
 			"user_name": "Flyman",
 			"date_added": 1479558711
+		},
+		{
+			"follow_id": 149,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1BnARwgVMDo7qcCx6zQvtdHd3mn9SWjXTQ",
+			"user_name": "Clamasaurus",
+			"date_added": 1479566360
+		},
+		{
+			"follow_id": 150,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp",
+			"user_name": "Monico",
+			"date_added": 1479566442
 		}
 	],
 	"settings": {
@@ -1552,6 +1583,7 @@
 		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_122": 1478677795,
 		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_66": 1479206984,
 		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_153": 1479518400,
-		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_154": 1479519013
+		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_154": 1479519013,
+		"1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_12": 1479564825
 	}
 }
