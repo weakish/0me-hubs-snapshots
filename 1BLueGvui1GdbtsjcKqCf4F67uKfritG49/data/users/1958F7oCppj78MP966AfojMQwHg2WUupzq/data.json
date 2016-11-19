@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 168,
+	"next_comment_id": 169,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -1008,6 +1008,12 @@
 			"body": "@Nekocross: 参见：https://trac.torproject.org/projects/tor/wiki/doc/TorifyHOWTO#ToroverTor\nWhen using a transparent proxy, it is possible to start a Tor session from the client as well as from the transparent proxy, creating a \"Tor over Tor\" scenario. Doing so produces undefined and potentially unsafe behavior. In theory, however, you can get six hops instead of three, but it is not guaranteed that you'll get three different hops - you could end up with the same hops, maybe in reverse or mixed order. It is not clear if this is safe. It has never been discussed.",
 			"post_uri": "1KNe8oqdHjEAYSEZByAikQi66GjZB1rSxL_1479290142",
 			"date_added": 1479310874
+		},
+		{
+			"comment_id": 168,
+			"body": "实际上完全去中心化的效率十分低下，所以我们平时所说的“去中心化”主要是“弱中心化”来减轻尽量避免单点故障罢了。",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1479527094",
+			"date_added": 1479528342
 		}
 	],
 	"flags": {

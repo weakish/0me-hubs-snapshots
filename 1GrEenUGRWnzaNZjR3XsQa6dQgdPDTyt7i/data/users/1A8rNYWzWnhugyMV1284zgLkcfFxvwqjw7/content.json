@@ -5,8 +5,8 @@
  "cert_user_id": "bullseye@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "0056a679255b878f9c77c095bb84732d658380775ecda813ca8ea1e376745998",
-   "size": 7770
+   "sha512": "d2135176c21615a7b3541b3253187a3894c327f81fd050bab545c13aee5146f2",
+   "size": 8145
   }
  },
  "files_optional": {
@@ -16,9 +16,9 @@
   }
  },
  "inner_path": "data/users/1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7/content.json",
- "modified": 1479523086.104,
+ "modified": 1479526750.86,
  "optional": "(?!avatar).*jpg",
  "signs": {
-  "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7": "G+4U0NW20NTGSU+IdKCCuxxdo+dyIKOapk9WKHe3I0myw5Y41HJO4bpj58tVlArW8KqWAO4Yz8XLgm7Hj/fS8u8="
+  "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7": "Gyr4gLci/fb288k+zC8UpEr40fiD/gBoPi48GN9y66PDXoUrvapcr5pt1DnHetSYSR93Q9i6CVlnRRL7hCEnREA="
  }
 }
