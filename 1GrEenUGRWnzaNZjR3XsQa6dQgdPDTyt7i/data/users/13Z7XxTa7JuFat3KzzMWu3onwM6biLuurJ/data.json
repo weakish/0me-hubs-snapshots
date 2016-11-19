@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 200,
+	"next_comment_id": 201,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -1235,6 +1235,12 @@
 			"body": "@Lmath: 在没装HTTPS Everywhere 的浏览器环境中测试也会跳转。我猜是不是通过useragent来判断跳转的。google爬虫肯定不会跳",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479297394",
 			"date_added": 1479486256
+		},
+		{
+			"comment_id": 200,
+			"body": "@P2pwave: 那就奇怪了，别说微博评论，就是微博内容我这都会强制跳转登录页面。你直接给个微博地址，在浏览器粘帖打开不会强制跳转的，我试试。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479297394",
+			"date_added": 1479547678
 		}
 	],
 	"flags": {},

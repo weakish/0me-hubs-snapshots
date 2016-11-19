@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 9,
+	"next_comment_id": 11,
 	"user_name": "Zerg",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {
@@ -19,7 +19,8 @@
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479343229": 1479420049,
 		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310": 1479509405,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479544886": 1479544922,
-		"1GNdkBSxTw6SpRdGHxDCyfANXnwi7FG7rJ_1479513487": 1479544974
+		"1GNdkBSxTw6SpRdGHxDCyfANXnwi7FG7rJ_1479513487": 1479544974,
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479546563": 1479547008
 	},
 	"comment": [
 		{
@@ -69,6 +70,18 @@
 			"body": "I've just started using Hugo few days ago; I've checked many other static site generators but Hugo seemed to be the best choice; so I'm interested about your experiences :)",
 			"post_uri": "1GNdkBSxTw6SpRdGHxDCyfANXnwi7FG7rJ_1479513487",
 			"date_added": 1479545069
+		},
+		{
+			"comment_id": 9,
+			"body": "I'll test it on my laptop (ubuntu / xenial), any change to put it into some kind of version control?",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479546563",
+			"date_added": 1479547006
+		},
+		{
+			"comment_id": 10,
+			"body": "I mean, git. of course :)",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479546563",
+			"date_added": 1479547027
 		}
 	]
 }

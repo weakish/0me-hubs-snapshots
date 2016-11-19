@@ -1,6 +1,6 @@
 {
 	"next_post_id": 20,
-	"next_comment_id": 110,
+	"next_comment_id": 111,
 	"next_follow_id": 29,
 	"avatar": "png",
 	"user_name": "Nofish",
@@ -752,6 +752,12 @@
 			"body": "@P2P: Currently the translation is partial, I will add it to ZeroHello if the other files will be translated as well (at least Sidebar and ZeroHello)\nTo test it you can add language = zh to zeronet.conf",
 			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310",
 			"date_added": 1479518541
+		},
+		{
+			"comment_id": 110,
+			"body": "Chinese translation is complete and live! ( thanks to @lmath)\n@Balancer73, @Mkg20001: Added translations instructions [to ZeroBlog](http://127.0.0.1:43110/blog.zeronetwork.bit/?Post:97:New+version:+0.5.1#Comments)",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310",
+			"date_added": 1479549015
 		}
 	],
 	"follow": [

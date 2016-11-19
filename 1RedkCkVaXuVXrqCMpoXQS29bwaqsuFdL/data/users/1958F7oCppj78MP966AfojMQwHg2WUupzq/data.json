@@ -1,6 +1,6 @@
 {
-	"next_post_id": 19,
-	"next_comment_id": 55,
+	"next_post_id": 20,
+	"next_comment_id": 56,
 	"next_follow_id": 147,
 	"avatar": "png",
 	"user_name": "Lmath",
@@ -101,6 +101,12 @@
 			"post_id": 1479539996,
 			"body": "ZeroMux 配置好了，以后我在这里放 ZeroNet 和一些网络工具什么的。\nhttp://127.0.0.1:43110/12VnwCxot8tiMS3bBvksqQJQ8mLPRZ6CQE/\n有点不满意的是需要使用外部工具来上传文件后放到站点目录，解决方法是创建了一个目录联接。",
 			"date_added": 1479539978
+		},
+		{
+			"post_id": 1479547180,
+			"body": "将 .owned-title 翻译成中文以后，引起了下面的菜单都寄到右边的情况，目前只有去掉 .settings-owned 的 `overflow: hidden` 看起来还比较正常，对于这种情况该怎么办？@P2P @ysc3839 @rainlime",
+			"date_added": 1479547161,
+			"meta": "{\"img\":\"830,700,222444555333aaafef111eee999ddd442bb5dd5764884,011200345500006604550003660457000666089900ABC034770000003897000000D875000666E897\"}"
 		}
 	],
 	"post_like": {
@@ -425,6 +431,12 @@
 			"body": "@P2P: 谢谢指出错误，我在翻译 ZeroTalk 后确实没有载入了看，因为我将翻译 JSON 放到站点目录并 Reload 后，发现并没有变成中文（已经禁用了缓存）。\n还有 Activity feed 你说翻译成什么好？“数据来源活动”我看着很纠结又想不出好词。",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479512438",
 			"date_added": 1479543242
+		},
+		{
+			"comment_id": 55,
+			"body": "@P2P: 我把 .owned-title 里面的内容编辑成英文后又没有这个问题了，看起来是中文独有的问题。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479547180",
+			"date_added": 1479547698
 		}
 	],
 	"follow": [
