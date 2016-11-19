@@ -1,6 +1,6 @@
 {
 	"next_post_id": 23,
-	"next_comment_id": 70,
+	"next_comment_id": 71,
 	"next_follow_id": 151,
 	"avatar": "png",
 	"user_name": "Lmath",
@@ -537,6 +537,12 @@
 			"body": "@cnwfjsw: @P2P: 如果要搞 WebRTC 的话以后在 Tor Browser 里又要专门配置吧！默认由于会泄露 IP 的原因禁用。",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479563994",
 			"date_added": 1479575031
+		},
+		{
+			"comment_id": 70,
+			"body": "@梦里乾坤大: XX-Net 已加，由于 XX-Net 也可以填写自己的 AppID ，所以 GoProxy 是不是重复了？",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479539996",
+			"date_added": 1479586368
 		}
 	],
 	"follow": [

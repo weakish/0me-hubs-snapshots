@@ -1,6 +1,6 @@
 {
 	"next_post_id": 14,
-	"next_comment_id": 5,
+	"next_comment_id": 6,
 	"next_follow_id": 15,
 	"avatar": "png",
 	"user_name": "TeddyDD",
@@ -108,6 +108,12 @@
 			"body": "Why there is no Racket scheme? :C I can code in Clojure but that's not the same fun :)",
 			"post_uri": "1GNdkBSxTw6SpRdGHxDCyfANXnwi7FG7rJ_1473513203",
 			"date_added": 1473548649
+		},
+		{
+			"comment_id": 5,
+			"body": "@Zerg: Well, as a person who hate all that html5/css/js crap my main concern was easy setup. Hugo is quiet good at this. I like shortcodes feature. Thanks to this I can easily insert kbd tags, popup images etc from markdown. Another nice thing is I can disable some features I added (like math rendering) for specific posts, so they don't slow down loading when I don't use them. There is plenty of nice templates. Generally I'm happy with Hugo so far.",
+			"post_uri": "1GNdkBSxTw6SpRdGHxDCyfANXnwi7FG7rJ_1479513487",
+			"date_added": 1479587353
 		}
 	],
 	"follow": [
@@ -219,6 +225,7 @@
 	"blocked": [],
 	"flags": {},
 	"comment_like": {
-		"1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_12": 1478533668
+		"1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_12": 1478533668,
+		"1EJ7j6nGoz84S8eYsfEmYA6hF9vV4nKkR4_8": 1479587123
 	}
 }

@@ -4,21 +4,29 @@
  "cert_sign": "HMp0IERj/AnMFBk9iTmExPdEpifnjOmcfP5NtGdCajBafMkywHDOxreHt5lCtvo7mEIBgkECNoRPxvd4chhKUrk=",
  "cert_user_id": "greatsick@zeroid.bit",
  "files": {
+  "avatar.png": {
+   "sha512": "ac5526db2c105c1653eb0f45230617cd23be610658edf106bba1e72181a22f0d",
+   "size": 124
+  },
   "data.json": {
-   "sha512": "cf49f408cb2b7105b216ab34bbae8ae6bbfb2972b78c7ffd6428992647d59517",
-   "size": 5915
+   "sha512": "fa930ed0f8d667de4b2708f79730bd02746942f62d61d4e5b1b70327d2c2d69a",
+   "size": 6911
   }
  },
  "files_optional": {
   "1479477621.jpg": {
    "sha512": "80d72839b6793f18a2b6f263d0dac089162c37d83999d6e2b8a055f5e052cc9c",
    "size": 12898
+  },
+  "1479588801.jpg": {
+   "sha512": "c715084f6a63a5af626228f54136a4e80503fa7d8ca525403d3192e2b82a1c1d",
+   "size": 11647
   }
  },
  "inner_path": "data/users/152kdpXWPevMLNm7755GKuzQPsu71bs13t/content.json",
- "modified": 1479584252.908267,
+ "modified": 1479588876.385195,
  "optional": "(?!avatar).*jpg",
  "signs": {
-  "152kdpXWPevMLNm7755GKuzQPsu71bs13t": "G60Z4/6mvhK/CY7RQ150p11GVRdRVAguS3sNO5ACfm7TLr0emLJ1RJzP7AmRHlMJPOpSrt2tUsiM4KSxk9jEH3s="
+  "152kdpXWPevMLNm7755GKuzQPsu71bs13t": "HDNwMk9il3lEuabNb7EPuyxAExS13NQPeygYqiKBr6SkQZX7d3/OQIVLx0+QzRlcw9ZdhJWmomxmbHiUWK5YqY8="
  }
 }
