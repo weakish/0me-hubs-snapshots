@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 24,
+	"next_comment_id": 25,
 	"user_name": "Waterrabbit",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -142,9 +142,15 @@
 		},
 		{
 			"comment_id": 23,
-			"body": "Hi, you should place the `loader` folder onto your ZeroNet site, so you can get something like this:\nhttp://127.0.0.1:43110/1CiD.........../loader/?1bSVKz4d",
+			"body": "Hi, you should place the `loader` folder onto your ZeroNet site, so you can get something like this:\nhttp://127.0.0.1:43110/1CiD...........nw2V/loader/?1bSVKz4d\nOnly in this way can we have access to your shared files.",
 			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479536824",
 			"date_added": 1479538095
+		},
+		{
+			"comment_id": 24,
+			"body": "@Bullseye: Find your `loader` folder. It is in your decompressed ZeroMux Bundle.\nCopy the whole `loader` folder to your site: `ZeroBundle\\ZeroNet\\data\\1PE5GTgUjKVQuudoz4P1YCrmZPVXvZwRmR\\`\nThen you can share a link like this:\nhttp://127.0.0.1:43110/1PE5GTgUjKVQuudoz4P1YCrmZPVXvZwRmR/loader/?1bSVKz4d",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479536824",
+			"date_added": 1479541323
 		}
 	]
 }

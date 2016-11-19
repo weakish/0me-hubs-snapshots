@@ -1,5 +1,5 @@
 {
-	"next_post_id": 18,
+	"next_post_id": 19,
 	"next_comment_id": 54,
 	"next_follow_id": 147,
 	"avatar": "png",
@@ -96,6 +96,11 @@
 			"post_id": 1479512438,
 			"body": "热烈祝贺 ZeroNet 提供多语言支持！\n已~~尝试~~提交中文翻译：\nhttps://github.com/HelloZeroNet/ZeroNet/pull/646\nhttps://github.com/HelloZeroNet/ZeroNet/pull/647\nhttps://github.com/HelloZeroNet/ZeroHello/pull/12\nhttps://github.com/HelloZeroNet/ZeroMe/pull/13\nhttps://github.com/HelloZeroNet/ZeroTalk/pull/22\n提示：目前只有消息提示被翻译，在正式版翻译出来之前，你可以手工编辑 zeronet.conf 并更改为 `language = zh` 来显示部分翻译。其他部分请下载翻译文件后放到响应目录并点击“This is my site”并保存，然后重新加载。",
 			"date_added": 1479512421
+		},
+		{
+			"post_id": 1479539996,
+			"body": "ZeroMux 配置好了，以后我在这里放 ZeroNet 和一些网络工具什么的。\nhttp://127.0.0.1:43110/12VnwCxot8tiMS3bBvksqQJQ8mLPRZ6CQE/\n有点不满意的是需要使用外部工具来上传文件后放到站点目录，解决方法是创建了一个目录联接。",
+			"date_added": 1479539978
 		}
 	],
 	"post_like": {

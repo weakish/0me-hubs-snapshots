@@ -1,7 +1,7 @@
 {
 	"next_post_id": 39,
-	"next_comment_id": 156,
-	"next_follow_id": 152,
+	"next_comment_id": 157,
+	"next_follow_id": 153,
 	"avatar": "jpg",
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -240,7 +240,8 @@
 		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1479512438": 1479516755,
 		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310": 1479516759,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479498270": 1479516790,
-		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479519280": 1479520289
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479519280": 1479520289,
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479539307": 1479539544
 	},
 	"comment": [
 		{
@@ -1172,6 +1173,12 @@
 			"body": "发现ZeroMe Plus 的一个bug，po中带井号的链接显示异常",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479519722",
 			"date_added": 1479519903
+		},
+		{
+			"comment_id": 156,
+			"body": "@Lmath: 非常感谢提交翻译！总体上翻译得不错，但有一些地方不对。reply是回复的意思，而不是重试。ZeroTalk里的Main你漏翻译，翻译为主论坛我觉得i比较合适。感觉ZeroTalk和ZeroMe的翻译你没有本地载入到ZeroNet来测试，如果测试后应该能发现更多问题。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479512438",
+			"date_added": 1479540894
 		}
 	],
 	"follow": [
@@ -2177,13 +2184,6 @@
 			"date_added": 1479481755
 		},
 		{
-			"follow_id": 149,
-			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
-			"auth_address": "1A5FxtwybRdveKnBCj4zyDoyJwA1ddVT4L",
-			"user_name": "Obatoyou",
-			"date_added": 1479486441
-		},
-		{
 			"follow_id": 150,
 			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 			"auth_address": "1BDZtoYSyUeEKPCAJ3Pz6wzfXbHzaJWHZU",
@@ -2196,6 +2196,13 @@
 			"auth_address": "13YuSFL3YKh6KQPWAgxtfiufGMTDHypVFM",
 			"user_name": "怡红院",
 			"date_added": 1479525253
+		},
+		{
+			"follow_id": 152,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1Czert3m7Hyfg23Z8ppNQdtCrBnwRjnbmK",
+			"user_name": "Hellblazer",
+			"date_added": 1479539441
 		}
 	],
 	"settings": {
