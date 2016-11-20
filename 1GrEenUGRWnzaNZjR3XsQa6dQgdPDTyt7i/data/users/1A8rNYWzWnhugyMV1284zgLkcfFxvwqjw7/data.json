@@ -1,6 +1,6 @@
 {
-	"next_post_id": 20,
-	"next_comment_id": 24,
+	"next_post_id": 23,
+	"next_comment_id": 33,
 	"next_follow_id": 8,
 	"avatar": "generate",
 	"user_name": "Bullseye",
@@ -105,6 +105,24 @@
 			"body": "“换个目录，重新下载一份ZeroNet，把自己的私钥拷贝过去，再试试。”现在我怎么拿回自己的站？我打开了\"this is mysite\",点\"sign\",然后得到这个：\n。。我怎么知道private key 是什么？？",
 			"date_added": 1479612078,
 			"meta": "{\"img\":\"900,327,da4ccccb8aa5ec9ddd999777765555443883663322333332,0111111223456777889A559BBCDDDD559EEFDDDD\"}"
+		},
+		{
+			"post_id": 1479616720,
+			"body": "there's another problem:\nWhy can't I delete useless file?",
+			"date_added": 1479616700,
+			"meta": "{\"img\":\"900,432,bbcddcdddaabaacabc555eee,01203444456666666666777777777772222222227777777777\"}"
+		},
+		{
+			"post_id": 1479617383,
+			"body": "\"@Bullseye: Since you have your site updated, download your file from this gateway. At the same time, click on Publish at your own ZeroNet client.\"\ncan't open.",
+			"date_added": 1479617362,
+			"meta": "{\"img\":\"900,334,888cccbbbeeeddd,0000000000111111221133333334333333333433\"}"
+		},
+		{
+			"post_id": 1479617991,
+			"body": "The file is there.",
+			"date_added": 1479617969,
+			"meta": "{\"img\":\"900,279,9aaaababbbbbbbcbccdddddceeddcceeefff,00012334556676869966AAABBBAABA\"}"
 		}
 	],
 	"post_like": {
@@ -249,6 +267,60 @@
 			"body": "@Lmath: 我根本没注意保存什么私钥匙。\"可以通过 master_seed 恢复。\"怎么弄？",
 			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479612097",
 			"date_added": 1479613200
+		},
+		{
+			"comment_id": 24,
+			"body": "@Waterrabbit: I dont know how to find my private key.",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479612097",
+			"date_added": 1479614550
+		},
+		{
+			"comment_id": 25,
+			"body": "@Waterrabbit: But I already copied my users.json file to new zeronet catalog. and I can use my id here in ZeroMe..",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479612097",
+			"date_added": 1479615226
+		},
+		{
+			"comment_id": 26,
+			"body": "@Waterrabbit: I can goback myold ZeroNet.then how could I find the private key? where is it?",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479612097",
+			"date_added": 1479615785
+		},
+		{
+			"comment_id": 27,
+			"body": "oh weird. I tried again just now ,and problem disppeared. now I got my site.",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479612097",
+			"date_added": 1479616376
+		},
+		{
+			"comment_id": 28,
+			"body": "It seems when you reinstall it need some time to sync the database or something..",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479612097",
+			"date_added": 1479616460
+		},
+		{
+			"comment_id": 29,
+			"body": "@Waterrabbit: I click Delete,no responce.",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479616720",
+			"date_added": 1479616807
+		},
+		{
+			"comment_id": 30,
+			"body": "@Waterrabbit : can't open this.",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479617383",
+			"date_added": 1479617553
+		},
+		{
+			"comment_id": 31,
+			"body": "@Waterrabbit: yes. the same.",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479617383",
+			"date_added": 1479617726
+		},
+		{
+			"comment_id": 32,
+			"body": "ZeroNet really need the feature insert pic in comment window.",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479617383",
+			"date_added": 1479617892
 		}
 	],
 	"follow": [

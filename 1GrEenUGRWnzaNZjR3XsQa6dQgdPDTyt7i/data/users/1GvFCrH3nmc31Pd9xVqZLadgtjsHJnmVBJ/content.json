@@ -4,14 +4,18 @@
  "cert_sign": "HJYh/bz1QUYEN9C4Rn62HV3nRjCf7LevSMj5BGtdCGePFMiv3xFr+68kSgMTu+8Lu9AVtH9Wv0VxbiphWrW/GfA=",
  "cert_user_id": "rapunzel@zeroid.bit",
  "files": {
+  "avatar.jpg": {
+   "sha512": "d50a731a97783d22f95dd84d234d8552e7b0335606e067003a06ed6976e302f0",
+   "size": 1616
+  },
   "data.json": {
-   "sha512": "50da250a50b8cb277fa3a13561740a8de34342a6aba76286a8c489a1dcd53caf",
-   "size": 340
+   "sha512": "4e739c7ebf05e5b36bb834a2d21fedc31e51f126a755c41996d86c76a2dcecaf",
+   "size": 521
   }
  },
  "inner_path": "data/users/1GvFCrH3nmc31Pd9xVqZLadgtjsHJnmVBJ/content.json",
- "modified": 1479608577.303414,
+ "modified": 1479615164.529806,
  "signs": {
-  "1GvFCrH3nmc31Pd9xVqZLadgtjsHJnmVBJ": "HM+z5mkUz0oUT/h7AStLxk9LsTZCuvWehPmHO+o2DviAzoHXjDU2ocFnTrxngK5xTOKFwcN+sZ1IJfNu5fuLjPI="
+  "1GvFCrH3nmc31Pd9xVqZLadgtjsHJnmVBJ": "HEHiOMq8wsIzAl9q2vHBVTlCzAH+txZd8pSpjAG3agahEBvExRTDVW+gQcuzej4UEHclA7vhOzGNCIRdPlYFwEc="
  }
 }
