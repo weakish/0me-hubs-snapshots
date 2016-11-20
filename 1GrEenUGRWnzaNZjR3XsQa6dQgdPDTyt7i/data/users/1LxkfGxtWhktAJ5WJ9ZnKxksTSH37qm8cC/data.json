@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 55,
+	"next_comment_id": 57,
 	"user_name": "Waterrabbit",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -329,9 +329,21 @@
 		},
 		{
 			"comment_id": 54,
-			"body": "I think the brackets `[]` caused problems. Can you:\n1. rename your folder to `bit_by_bit`\n2. edit `list.json` (copy paste)\n```\n{\"files\": [{\"fileJson\": \"files/bit_to_bit/file.json\", \"id\": \"11UxTrsu\", \"fileName\": \"Bit by Bit How P2P Is Freeing the World (2015) by Jeffrey Tucker, Roger Ver, Patrick Byrne.pdf\"}], \"folders\": [{\"type\": \"filePointer\", \"id\": \"11UxTrsu\"}]}\n```\n3. sign and publish\n\nIt should work if you have done it correctly.",
+			"body": "I believe the brackets `[]` are causing problems. Can you:\n1. rename your folder to `bit_by_bit`\n2. edit `list.json` (copy paste)\n```\n{\"files\": [{\"fileJson\": \"files/bit_to_bit/file.json\", \"id\": \"11UxTrsu\", \"fileName\": \"Bit by Bit How P2P Is Freeing the World (2015) by Jeffrey Tucker, Roger Ver, Patrick Byrne.pdf\"}], \"folders\": [{\"type\": \"filePointer\", \"id\": \"11UxTrsu\"}]}\n```\n3. sign and publish\n\nIt should work if you have done it correctly.\n\nYour new URL will be:\n/loader/?11UxTrsu",
 			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479620639",
 			"date_added": 1479621009
+		},
+		{
+			"comment_id": 55,
+			"body": "@Bullseye: http://127.0.0.1:43110/1PE5GTgUjKVQuudoz4P1YCrmZPVXvZwRmR/loader/?15im1ajd\nThe port number is wrong. It works now.",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479620639",
+			"date_added": 1479624298
+		},
+		{
+			"comment_id": 56,
+			"body": "Let me clean up your `list.json`:\n\n{\"files\": [{\"fileJson\": \"files/bit_by_bit.pdf/file.json\", \"id\": \"15im1ajd\", \"fileName\": \"Bit by Bit.pdf\"}], \"folders\": [{\"type\": \"filePointer\", \"id\": \"15im1ajd\"}]}",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479622451",
+			"date_added": 1479624729
 		}
 	]
 }

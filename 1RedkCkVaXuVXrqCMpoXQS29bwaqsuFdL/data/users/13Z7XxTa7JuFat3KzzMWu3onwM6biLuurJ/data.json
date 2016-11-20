@@ -1,7 +1,7 @@
 {
-	"next_post_id": 40,
+	"next_post_id": 41,
 	"next_comment_id": 176,
-	"next_follow_id": 154,
+	"next_follow_id": 159,
 	"avatar": "jpg",
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -202,6 +202,11 @@
 			"post_id": 1479557296,
 			"body": "中文翻译已经全面上线（**需要手动更新到最新版才能看到**），ZeroHello、ZeroTalk、ZeroMe都上线了中文翻译（感谢 @lmath ）。根据作者的设计意图，ZeroNet能根据操作系统语言设置或浏览器语言设置**自动**调整语言设置，也就是说大多数用户是不需要手动设置语言的。实际情况怎样，需要大家测试反馈。另外此次翻译提交的语言代码是zh，简体和繁体应该是在语言代码有区分的，操作系统语言设置或浏览器语言设置在简体和繁体区分上分别用的什么语言代码？",
 			"date_added": 1479557257
+		},
+		{
+			"post_id": 1479623646,
+			"body": "@nofish , some Chinese users reported that their ZeroNet fails to start after a self-update, which means the installation of ZeroNet is completely broken. I guess GFW sometimes interrupts the download, causing bad zip file. Exacting it and overwriting exiting source code will be a disaster! So more robust self-update is needed:\n* ZipFile.testzip() should be used to Read all the files in the archive and check their CRC’s and file headers.\n* rename src to src_bak instead of just overwriting it. The same to `plugins` `tools` folder.",
+			"date_added": 1479623606
 		}
 	],
 	"post_like": {
@@ -2332,6 +2337,41 @@
 			"auth_address": "1PK7r15RmMdmdnUCYeQEwuydfediNVDtt2",
 			"user_name": "Linker",
 			"date_added": 1479556472
+		},
+		{
+			"follow_id": 154,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1KN6TAT4nYdNnF5RLZGnKhnG4gFbPPfwMQ",
+			"user_name": "Gwf",
+			"date_added": 1479624835
+		},
+		{
+			"follow_id": 155,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1KatDLDcTgTMEtvqVFmJWYQr7SyaEYiwTC",
+			"user_name": "Kenchoh",
+			"date_added": 1479624847
+		},
+		{
+			"follow_id": 156,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "17qCVbHTZUk8EU9dvYM7VaDZiLuwjW4oYT",
+			"user_name": "Markus",
+			"date_added": 1479624872
+		},
+		{
+			"follow_id": 157,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1FejCAA1NfTcivzikstC4JEdYgD9RpAihy",
+			"user_name": "Naiive",
+			"date_added": 1479624975
+		},
+		{
+			"follow_id": 158,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "15YhLvWdYZMpHTCxzhF4h9d55ZWck5a54P",
+			"user_name": "Lanbingxuanyi",
+			"date_added": 1479625114
 		}
 	],
 	"settings": {

@@ -5,8 +5,8 @@
  "cert_user_id": "yihongyuan@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "9b68bee3563573ec3f92a342181010e26c2eb3c200439c901a5684e478b8fd12",
-   "size": 2350
+   "sha512": "3cf8b97fac49e6912eeaa70df6c32ebf225b3b071208b463e27cde34e74c6518",
+   "size": 3284
   }
  },
  "files_optional": {
@@ -16,9 +16,9 @@
   }
  },
  "inner_path": "data/users/13YuSFL3YKh6KQPWAgxtfiufGMTDHypVFM/content.json",
- "modified": 1479620996.493,
+ "modified": 1479624901.054,
  "optional": "(?!avatar).*jpg",
  "signs": {
-  "13YuSFL3YKh6KQPWAgxtfiufGMTDHypVFM": "GyJwy44o7ynqa7VnoYY4Prr8knj1BTP+RybnYlciIR475VqyOLUlIyVY1MFYZiPj0JIaj2WnMuJ9lyza3/+pWBk="
+  "13YuSFL3YKh6KQPWAgxtfiufGMTDHypVFM": "G4qYPow0xBcgfZKnKXKQokb5rHENhI3rWGFkeAyOI5C5lHSV5/OpKma+XQsRVVLx37+C0B8QtLc4ujqL91ywcB8="
  }
 }

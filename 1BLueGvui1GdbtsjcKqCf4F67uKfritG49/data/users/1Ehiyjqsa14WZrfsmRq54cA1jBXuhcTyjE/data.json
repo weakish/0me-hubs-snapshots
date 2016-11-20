@@ -1,7 +1,7 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 2,
-	"next_follow_id": 4,
+	"next_comment_id": 3,
+	"next_follow_id": 7,
 	"avatar": "generate",
 	"user_name": "Chiarelli",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -25,6 +25,12 @@
 			"body": "Seja bem-vindo!",
 			"post_uri": "1PGFKCfMSL1QdudndfYCo4mGM8E8XKzMMG_1",
 			"date_added": 1472769575
+		},
+		{
+			"comment_id": 2,
+			"body": "@Chiarellirj: Eu consegui recuperar com êxito esse meu ZeroID. Encontrei o backup que tinha feito! Agora vc pode desconsiderar o @chiarellirj , pois não irei mais utilizá-lo.",
+			"post_uri": "1Ehiyjqsa14WZrfsmRq54cA1jBXuhcTyjE_1472769857",
+			"date_added": 1479624861
 		}
 	],
 	"follow": [
@@ -48,6 +54,27 @@
 			"auth_address": "1CmQtSWf8zQtufk4VRFCsonHPU3sPGuXRa",
 			"user_name": "Tudosobretodos",
 			"date_added": 1472769890
+		},
+		{
+			"follow_id": 4,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1K6VhiMQBTqX3D1t1iN2J6QGskUriHcpKs",
+			"user_name": "Arthur Farias",
+			"date_added": 1479622704
+		},
+		{
+			"follow_id": 5,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ",
+			"user_name": "Sirenyc",
+			"date_added": 1479624304
+		},
+		{
+			"follow_id": 6,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1Ehiyjqsa14WZrfsmRq54cA1jBXuhcTyjE",
+			"user_name": "Chiarelli",
+			"date_added": 1479624445
 		}
 	]
 }

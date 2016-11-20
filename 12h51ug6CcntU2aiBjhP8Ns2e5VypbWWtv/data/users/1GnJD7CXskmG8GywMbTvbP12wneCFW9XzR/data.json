@@ -1,7 +1,7 @@
 {
 	"next_post_id": 55,
-	"next_comment_id": 35,
-	"next_follow_id": 170,
+	"next_comment_id": 36,
+	"next_follow_id": 174,
 	"avatar": "png",
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -509,6 +509,12 @@
 			"body": "@Lmath: IME是旧框架，可以在语言设置里删掉，保留TSF（除非是老旧的OS）。Metro程序确实不支持。",
 			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1479118734",
 			"date_added": 1479294021
+		},
+		{
+			"comment_id": 35,
+			"body": "@P2P: No need for JS. Just some customize css to hide the element for Zhihu.",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1479344270",
+			"date_added": 1479625097
 		}
 	],
 	"follow": [
@@ -1638,6 +1644,34 @@
 			"auth_address": "1GMNmr2bDPbT4c8yVnyCoDHke52CNCdqAa",
 			"user_name": "Apuar",
 			"date_added": 1479294052
+		},
+		{
+			"follow_id": 170,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1EfnrvPJQS3uJiRrCsNyvuQB3zi19fnxef",
+			"user_name": "erqan",
+			"date_added": 1479624625
+		},
+		{
+			"follow_id": 171,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "13Nzuvnhyz7nBJvPoUrdTEFuQTWUdqXAJk",
+			"user_name": "Linkerlin",
+			"date_added": 1479624642
+		},
+		{
+			"follow_id": 172,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "13YuSFL3YKh6KQPWAgxtfiufGMTDHypVFM",
+			"user_name": "怡红院",
+			"date_added": 1479624703
+		},
+		{
+			"follow_id": 173,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1PK7r15RmMdmdnUCYeQEwuydfediNVDtt2",
+			"user_name": "Linker",
+			"date_added": 1479624715
 		}
 	]
 }
