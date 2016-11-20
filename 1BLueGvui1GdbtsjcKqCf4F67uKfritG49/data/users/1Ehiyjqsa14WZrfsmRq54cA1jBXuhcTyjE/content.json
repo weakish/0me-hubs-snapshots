@@ -4,14 +4,18 @@
  "cert_sign": "HMMmDeplwmlgb4BaiQVyLw1W6QkeLCliT6cjrrtMSENOl1arLENRo+7l6GpKJo42kmAfB41+RAarBMhIriA7zC4=",
  "cert_user_id": "chiarelli@zeroid.bit",
  "files": {
+  "avatar.jpg": {
+   "sha512": "65b6fdd147184b2777fba5700a5858cc5a2f916664a76072dd9cc65ccd71b42b",
+   "size": 1565
+  },
   "data.json": {
-   "sha512": "059d1664bb5812e76537288d0554d5194a65d1dbe5a68b8979612648076c8dab",
-   "size": 2114
+   "sha512": "0ad19ce37f7b2207c0a4ab82d0293fb36068088c5e5892b02caf2d879e9f1e64",
+   "size": 2109
   }
  },
  "inner_path": "data/users/1Ehiyjqsa14WZrfsmRq54cA1jBXuhcTyjE/content.json",
- "modified": 1479624861.256748,
+ "modified": 1479627775.789903,
  "signs": {
-  "1Ehiyjqsa14WZrfsmRq54cA1jBXuhcTyjE": "G2WLP8CqpR/AptejUhUD6pDqyK8L2f43i0vwRRBQ/wtnZLrSrCQuObslfoWapI4B4/JiDoDZwgRxByEMUgmaEOw="
+  "1Ehiyjqsa14WZrfsmRq54cA1jBXuhcTyjE": "G29WrciVR7+QQLnPdrQpO4dAOrUMYjTgwQKFhEf8is6xXSkB8ubwEFcI3fXW02Eo38fo6XmiVmacb3sfV0aZ6u4="
  }
 }

@@ -1,7 +1,7 @@
 {
 	"next_post_id": 23,
-	"next_comment_id": 73,
-	"next_follow_id": 151,
+	"next_comment_id": 75,
+	"next_follow_id": 152,
 	"avatar": "png",
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -94,7 +94,7 @@
 		},
 		{
 			"post_id": 1479512438,
-			"body": "热烈祝贺 ZeroNet 提供多语言支持！\n已~~尝试~~提交中文翻译：\nhttps://github.com/HelloZeroNet/ZeroNet/pull/646\nhttps://github.com/HelloZeroNet/ZeroNet/pull/647\nhttps://github.com/HelloZeroNet/ZeroHello/pull/12\nhttps://github.com/HelloZeroNet/ZeroMe/pull/13\nhttps://github.com/HelloZeroNet/ZeroTalk/pull/22\n提示：目前只有消息提示被翻译，在正式版翻译出来之前，你可以手工编辑 zeronet.conf 并更改为 `language = zh` 来显示部分翻译。其他部分请下载翻译文件后放到响应目录并点击“This is my site”并保存，然后重新加载。\n更新：尝试提交繁体中文翻译：\nhttps://github.com/HelloZeroNet/ZeroNet/pull/659\nhttps://github.com/HelloZeroNet/ZeroHello/pull/16",
+			"body": "热烈祝贺 ZeroNet 提供多语言支持！\n已~~尝试~~提交中文翻译：\nhttps://github.com/HelloZeroNet/ZeroNet/pull/646\nhttps://github.com/HelloZeroNet/ZeroNet/pull/647\nhttps://github.com/HelloZeroNet/ZeroHello/pull/12\nhttps://github.com/HelloZeroNet/ZeroMe/pull/13\nhttps://github.com/HelloZeroNet/ZeroTalk/pull/22\n提示：目前只有消息提示被翻译，在正式版翻译出来之前，你可以手工编辑 zeronet.conf 并更改为 `language = zh` 来显示部分翻译。其他部分请下载翻译文件后放到响应目录并点击“This is my site”并保存，然后重新加载。\n更新：尝试提交繁体中文翻译：\nhttps://github.com/HelloZeroNet/ZeroNet/pull/659\nhttps://github.com/HelloZeroNet/ZeroHello/pull/16\nhttps://github.com/HelloZeroNet/ZeroMe/pull/15",
 			"date_added": 1479512421
 		},
 		{
@@ -133,7 +133,8 @@
 		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1478620854": 1478620916,
 		"1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd_1479176984": 1479183623,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479498270": 1479516385,
-		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310": 1479516977
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310": 1479516977,
+		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479623646": 1479625933
 	},
 	"comment": [
 		{
@@ -555,6 +556,18 @@
 			"body": "@梦里乾坤大: 已添加 goproxy 的常见 release 。",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479539996",
 			"date_added": 1479619726
+		},
+		{
+			"comment_id": 73,
+			"body": "@weakish: 已提交部分 zh-tw 翻译。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479557296",
+			"date_added": 1479626665
+		},
+		{
+			"comment_id": 74,
+			"body": "@weakish: 香港基本上大陆简体直接转换差别不大，而台湾正体的习惯用词有比较多不同。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479557296",
+			"date_added": 1479628527
 		}
 	],
 	"follow": [
@@ -1593,6 +1606,13 @@
 			"auth_address": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp",
 			"user_name": "Monico",
 			"date_added": 1479566442
+		},
+		{
+			"follow_id": 151,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1KatDLDcTgTMEtvqVFmJWYQr7SyaEYiwTC",
+			"user_name": "Kenchoh",
+			"date_added": 1479626336
 		}
 	],
 	"settings": {

@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 57,
+	"next_comment_id": 59,
 	"user_name": "Waterrabbit",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -344,6 +344,18 @@
 			"body": "Let me clean up your `list.json`:\n\n{\"files\": [{\"fileJson\": \"files/bit_by_bit.pdf/file.json\", \"id\": \"15im1ajd\", \"fileName\": \"Bit by Bit.pdf\"}], \"folders\": [{\"type\": \"filePointer\", \"id\": \"15im1ajd\"}]}",
 			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479622451",
 			"date_added": 1479624729
+		},
+		{
+			"comment_id": 57,
+			"body": "`list.json` only contains your directory tree.\nhttp://127.0.0.1:43110/1PE5GTgUjKVQuudoz4P1YCrmZPVXvZwRmR/loader/",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479625122",
+			"date_added": 1479625468
+		},
+		{
+			"comment_id": 58,
+			"body": "You need to rename the file manually anyway. It is a [Firefox Bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1313268).",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479625122",
+			"date_added": 1479625556
 		}
 	]
 }

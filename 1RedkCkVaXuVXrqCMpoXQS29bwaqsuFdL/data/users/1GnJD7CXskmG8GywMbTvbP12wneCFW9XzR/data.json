@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 68,
+	"next_comment_id": 70,
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -79,7 +79,10 @@
 		"1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV_1478960097": 1479049877,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479022235": 1479050534,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479190740": 1479205614,
-		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479263285": 1479299083
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479263285": 1479299083,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310": 1479625917,
+		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1479512438": 1479625935,
+		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479623646": 1479626749
 	},
 	"comment": [
 		{
@@ -483,6 +486,18 @@
 			"body": "@P2P: 是的。不过比较重要的特性基本都backport到2.7了。性能的话，还是得寄希望于pypy或者Jython（这好像开发停滞了）之类的第三方，python 3 性能提升并不明显。",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1478963408",
 			"date_added": 1479294356
+		},
+		{
+			"comment_id": 68,
+			"body": "`zh-CN`和`zh-TW`，参见 [Accept-Language](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-Language)",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479557296",
+			"date_added": 1479626564
+		},
+		{
+			"comment_id": 69,
+			"body": "@P2P: 香港和澳门可以凑合用tw",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479557296",
+			"date_added": 1479627192
 		}
 	]
 }

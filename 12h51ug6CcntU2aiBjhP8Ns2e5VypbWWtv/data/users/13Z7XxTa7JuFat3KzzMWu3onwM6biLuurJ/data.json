@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 57,
+	"next_comment_id": 59,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -350,6 +350,18 @@
 			"body": "看到你提交的翻译patch了，感谢！有个问题，Disable always Tor mode的翻译，因为`always`是ZeroNet走tor的一个模式，参数是--tor=always，我认为这个always不需要翻译出来，可翻译成禁用Tor的'always'模式。",
 			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479132525",
 			"date_added": 1479567485
+		},
+		{
+			"comment_id": 57,
+			"body": "@weakish: do you have any idea of the \"feature\" of WeiBo.com I describe here? http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Post/1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i/1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz/1479297394",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1479344270",
+			"date_added": 1479626184
+		},
+		{
+			"comment_id": 58,
+			"body": "墙抽风吧。你会Android开发吗？我前几条推里有提到为ZeroNet打包APK的线索。",
+			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479623947",
+			"date_added": 1479626580
 		}
 	],
 	"flags": {},

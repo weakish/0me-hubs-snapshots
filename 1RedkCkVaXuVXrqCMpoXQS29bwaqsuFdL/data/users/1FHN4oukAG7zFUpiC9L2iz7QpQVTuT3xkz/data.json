@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 33,
+	"next_comment_id": 34,
 	"user_name": "Nekocross",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {
@@ -8,7 +8,8 @@
 		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1478181754": 1478184397,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1478319468": 1478321986,
 		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1478423200": 1478430244,
-		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1478422171": 1478435846
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1478422171": 1478435846,
+		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479623646": 1479626340
 	},
 	"comment": [
 		{
@@ -202,6 +203,12 @@
 			"body": "@Rainlime: 移动？",
 			"post_uri": "144GQ5Uz9dYQJ1MwjSFWWboLgHwdGpv21x_1479390852",
 			"date_added": 1479462679
+		},
+		{
+			"comment_id": 33,
+			"body": "Due to strict limitation of GitHub here, I think start.py and update.py should check user's location. If user is in China, download from the mirror.",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479623646",
+			"date_added": 1479626792
 		}
 	],
 	"flags": {},
