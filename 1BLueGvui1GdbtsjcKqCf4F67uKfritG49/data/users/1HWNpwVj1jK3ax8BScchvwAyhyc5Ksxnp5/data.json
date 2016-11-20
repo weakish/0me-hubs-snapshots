@@ -1,6 +1,6 @@
 {
 	"next_post_id": 4,
-	"next_comment_id": 1,
+	"next_comment_id": 3,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Quot",
@@ -26,6 +26,19 @@
 	"post_like": {
 		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1475948169": 1475977438
 	},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "ZAlex, I have certified you. Have fun! :)",
+			"post_uri": "1HWNpwVj1jK3ax8BScchvwAyhyc5Ksxnp5_1476658647",
+			"date_added": 1479603948
+		},
+		{
+			"comment_id": 2,
+			"body": "@greatsick the public key is used to search for a user in the Duniter/Sakia client software. You need it to verify an account/identity.",
+			"post_uri": "1HWNpwVj1jK3ax8BScchvwAyhyc5Ksxnp5_1476658647",
+			"date_added": 1479605810
+		}
+	],
 	"follow": []
 }

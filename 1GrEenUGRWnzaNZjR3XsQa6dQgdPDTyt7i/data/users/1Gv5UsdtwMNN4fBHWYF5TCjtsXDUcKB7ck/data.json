@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
 	"next_comment_id": 1,
-	"next_follow_id": 5,
+	"next_follow_id": 6,
 	"avatar": "generate",
 	"user_name": "Qwerty12",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -13,7 +13,9 @@
 			"body": "Hello ZeroMe!"
 		}
 	],
-	"post_like": {},
+	"post_like": {
+		"12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1479583253": 1479604907
+	},
 	"comment": [],
 	"follow": [
 		{
@@ -43,6 +45,13 @@
 			"auth_address": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC",
 			"user_name": "Firebox",
 			"date_added": 1479166733
+		},
+		{
+			"follow_id": 5,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u",
+			"user_name": "Lola",
+			"date_added": 1479604845
 		}
 	]
 }
