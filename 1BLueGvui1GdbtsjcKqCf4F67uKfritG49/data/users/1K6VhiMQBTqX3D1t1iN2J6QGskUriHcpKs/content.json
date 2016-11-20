@@ -1,0 +1,21 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "G/QCfqsA6c1MupT0hD96VuGrzGQMfBnpgECYNm040XYaRVEiyYbGMxYBsqxP9hBarVAy/KuEw1mVO9f344bLc0k=",
+ "cert_user_id": "arthurafarias@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "7f051eb706d148038b672656f24b84767274b882e032bc99613d6d013a6b7982",
+   "size": 1269
+  },
+  "data.json": {
+   "sha512": "fa1d1fdcc1d33c58414c482186ee5da38a8efd01a2a8f4e77c8cb529edea268e",
+   "size": 340
+  }
+ },
+ "inner_path": "data/users/1K6VhiMQBTqX3D1t1iN2J6QGskUriHcpKs/content.json",
+ "modified": 1479598691.768814,
+ "signs": {
+  "1K6VhiMQBTqX3D1t1iN2J6QGskUriHcpKs": "G4VsxWLbMy7537cUKesWRe7DQ/tzlw4jiJMLxpewrl7+DaNT28E1YwLwbvGuI6Oa3LcvoDrpXyGSkh2xLu5rIJ4="
+ }
+}
