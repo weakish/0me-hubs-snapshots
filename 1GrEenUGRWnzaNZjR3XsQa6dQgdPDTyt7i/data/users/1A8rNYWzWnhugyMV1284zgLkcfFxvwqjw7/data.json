@@ -1,6 +1,6 @@
 {
-	"next_post_id": 23,
-	"next_comment_id": 33,
+	"next_post_id": 27,
+	"next_comment_id": 45,
 	"next_follow_id": 8,
 	"avatar": "generate",
 	"user_name": "Bullseye",
@@ -123,6 +123,30 @@
 			"body": "The file is there.",
 			"date_added": 1479617969,
 			"meta": "{\"img\":\"900,279,9aaaababbbbbbbcbccdddddceeddcceeefff,00012334556676869966AAABBBAABA\"}"
+		},
+		{
+			"post_id": 1479618847,
+			"body": "@Waterrabbit: Like this.\n",
+			"date_added": 1479618824,
+			"meta": "{\"img\":\"900,560,998888eeedccdddcccccdfff99aaabbbccbb,0111111111222222322222245556647489A6277772B55427772255552222\"}"
+		},
+		{
+			"post_id": 1479620262,
+			"body": "Published. still there's \"MISSING FILES\":",
+			"date_added": 1479620238,
+			"meta": "{\"img\":\"900,576,dddccc222333332443653bbb344cdd111,0012322234001233335600123222221172222222001233822299722AAAA2\"}"
+		},
+		{
+			"post_id": 1479620416,
+			"body": "and I checked. file is there. the gateway dont work.\n",
+			"date_added": 1479620391,
+			"meta": "{\"img\":\"900,339,9aaaabbbbbbcbccddcdddeeefff,0001112234555566556677788877887788888888\"}"
+		},
+		{
+			"post_id": 1479620639,
+			"body": "",
+			"date_added": 1479620613,
+			"meta": "{\"img\":\"900,251,aaabbbbbccccccdffefffeee,000111233345666666667776666776\"}"
 		}
 	],
 	"post_like": {
@@ -321,6 +345,78 @@
 			"body": "ZeroNet really need the feature insert pic in comment window.",
 			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479617383",
 			"date_added": 1479617892
+		},
+		{
+			"comment_id": 33,
+			"body": "@Waterrabbit : ok",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479617991",
+			"date_added": 1479618004
+		},
+		{
+			"comment_id": 34,
+			"body": "@Waterrabbit: done.",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479617991",
+			"date_added": 1479618306
+		},
+		{
+			"comment_id": 35,
+			"body": "@Waterrabbit: I clicked link http://127.0.0.1:18905/1PE5GTgUjKVQuudoz4P1YCrmZPVXvZwRmR/loader/?13vL1Ugz and got: File not found.",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479617991",
+			"date_added": 1479618599
+		},
+		{
+			"comment_id": 36,
+			"body": "@Waterrabbit: File Not Found",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479617991",
+			"date_added": 1479618652
+		},
+		{
+			"comment_id": 37,
+			"body": "but when I click this link in \"Your public files\" http://127.0.0.1:18905/loader/loader.py?13vL1Ugz      I can download file.",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479617991",
+			"date_added": 1479618739
+		},
+		{
+			"comment_id": 38,
+			"body": "@Waterrabbit: copied already. I've done it again.",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479617991",
+			"date_added": 1479618935
+		},
+		{
+			"comment_id": 39,
+			"body": "@Waterrabbit: Now I've Deleted old loader,pasted new loader.",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479617991",
+			"date_added": 1479619157
+		},
+		{
+			"comment_id": 40,
+			"body": "@Bullseye: singed,published. but there's \"1file update failed.\"",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479617991",
+			"date_added": 1479619314
+		},
+		{
+			"comment_id": 41,
+			"body": "@Waterrabbit: 1st one is working. but the downloaded filename become \"24RoU8CK\". 2nd one dont work.",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479618847",
+			"date_added": 1479619513
+		},
+		{
+			"comment_id": 42,
+			"body": "@Waterrabbit: \"On your own ZeroNet client, \" What do you mean? This is my client. ",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479618847",
+			"date_added": 1479619895
+		},
+		{
+			"comment_id": 43,
+			"body": "@Waterrabbit: Tell me what to do, I'll do it .",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479618847",
+			"date_added": 1479620001
+		},
+		{
+			"comment_id": 44,
+			"body": "@怡红院: win7",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479620639",
+			"date_added": 1479620886
 		}
 	],
 	"follow": [

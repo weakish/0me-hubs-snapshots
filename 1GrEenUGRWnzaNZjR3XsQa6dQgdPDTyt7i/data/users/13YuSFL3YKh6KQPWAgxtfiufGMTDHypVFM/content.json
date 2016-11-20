@@ -5,13 +5,20 @@
  "cert_user_id": "yihongyuan@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "db837fe45b67f6b8b5b1381b61e470c0cf7060592ee378ab831c39c2cce25095",
-   "size": 996
+   "sha512": "9b68bee3563573ec3f92a342181010e26c2eb3c200439c901a5684e478b8fd12",
+   "size": 2350
+  }
+ },
+ "files_optional": {
+  "1479619048.jpg": {
+   "sha512": "289ba0be73d59613e71e971ea2596f9116374a86ea426eeca54db576b20e4cc7",
+   "size": 68691
   }
  },
  "inner_path": "data/users/13YuSFL3YKh6KQPWAgxtfiufGMTDHypVFM/content.json",
- "modified": 1479528799.43,
+ "modified": 1479620996.493,
+ "optional": "(?!avatar).*jpg",
  "signs": {
-  "13YuSFL3YKh6KQPWAgxtfiufGMTDHypVFM": "G8uwPaUaKJf4FQ23RQcavmnjBZBAsuSKDzM79I/dXSRqUR2wxDIWCWCFdQFk940EV7qlVdnNchT5m2V8f8LrXD8="
+  "13YuSFL3YKh6KQPWAgxtfiufGMTDHypVFM": "GyJwy44o7ynqa7VnoYY4Prr8knj1BTP+RybnYlciIR475VqyOLUlIyVY1MFYZiPj0JIaj2WnMuJ9lyza3/+pWBk="
  }
 }

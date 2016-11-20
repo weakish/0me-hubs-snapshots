@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 44,
+	"next_comment_id": 55,
 	"user_name": "Waterrabbit",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -266,6 +266,72 @@
 			"body": "@Bullseye: Just describe it.",
 			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479617383",
 			"date_added": 1479617898
+		},
+		{
+			"comment_id": 44,
+			"body": "@Bullseye: Now **sign** your site first. When it is done, click **publish**. I will help you load your site onto the proxy.",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479617991",
+			"date_added": 1479618164
+		},
+		{
+			"comment_id": 45,
+			"body": "Very weird things occurred. Your site does not include these files.",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479617991",
+			"date_added": 1479618452
+		},
+		{
+			"comment_id": 46,
+			"body": "http://127.0.0.1:18905/1PE5GTgUjKVQuudoz4P1YCrmZPVXvZwRmR/loader/ check this link.",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479617991",
+			"date_added": 1479618602
+		},
+		{
+			"comment_id": 47,
+			"body": "@Bullseye: Copy your `loader` folder to your site, please. Remember to delete your old `loader` folder.\n\nThere is some tech stuff you need to know about:\n```\n127.0.0.1:43110 is ZeroNet\n127.0.0.1:18905 is Wizard.py\n```\n```\nYour two `loader` folders do not synchronize automatically.\n```\n\nAfter you modified your site, you have to sign and publish, otherwise we can't see your site updated.\n",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479617991",
+			"date_added": 1479618863
+		},
+		{
+			"comment_id": 48,
+			"body": "@Bullseye: Sign and publish.",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479617991",
+			"date_added": 1479619150
+		},
+		{
+			"comment_id": 49,
+			"body": "First try http://127.0.0.1:43110/1PE5GTgUjKVQuudoz4P1YCrmZPVXvZwRmR/loader/?13vL1Ugz\n\nThen https://bit.no.com:43110/1PE5GTgUjKVQuudoz4P1YCrmZPVXvZwRmR/loader/?13vL1Ugz",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479618847",
+			"date_added": 1479619277
+		},
+		{
+			"comment_id": 50,
+			"body": "@Bullseye: **On your own ZeroNet client,** Drag the `0` button all the way to the left. Press Sign and Publish",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479618847",
+			"date_added": 1479619534
+		},
+		{
+			"comment_id": 51,
+			"body": "@Bullseye: I mean don't sign your things on the gateway.",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479618847",
+			"date_added": 1479619905
+		},
+		{
+			"comment_id": 52,
+			"body": "@Bullseye: Sign and publish your site. Then check the gateway https://bit.no.com:43110/1PE5GTgUjKVQuudoz4P1YCrmZPVXvZwRmR/loader/?13vL1Ugz",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479618847",
+			"date_added": 1479620032
+		},
+		{
+			"comment_id": 53,
+			"body": "Can I see the full name of your `bit_by_bit` folder?",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479620416",
+			"date_added": 1479620505
+		},
+		{
+			"comment_id": 54,
+			"body": "I think the brackets `[]` caused problems. Can you:\n1. rename your folder to `bit_by_bit`\n2. edit `list.json` (copy paste)\n```\n{\"files\": [{\"fileJson\": \"files/bit_to_bit/file.json\", \"id\": \"11UxTrsu\", \"fileName\": \"Bit by Bit How P2P Is Freeing the World (2015) by Jeffrey Tucker, Roger Ver, Patrick Byrne.pdf\"}], \"folders\": [{\"type\": \"filePointer\", \"id\": \"11UxTrsu\"}]}\n```\n3. sign and publish\n\nIt should work if you have done it correctly.",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479620639",
+			"date_added": 1479621009
 		}
 	]
 }
