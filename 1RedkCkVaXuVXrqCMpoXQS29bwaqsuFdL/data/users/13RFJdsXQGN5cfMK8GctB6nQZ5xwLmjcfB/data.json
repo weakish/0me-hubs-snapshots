@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 13,
+	"next_comment_id": 14,
 	"user_name": "Ysc3839",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -16,7 +16,8 @@
 		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1478866453": 1478871465,
 		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479107381": 1479131538,
 		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1479296133": 1479304767,
-		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310": 1479551061
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310": 1479551061,
+		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479557296": 1479612134
 	},
 	"comment": [
 		{
@@ -90,6 +91,12 @@
 			"body": "Config.py:50-54 ```        try:\n            language, enc = locale.getdefaultlocale()\n            language = language.split(\"_\")[0]\n        except Exception:\n            language = \"en\"```",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479557296",
 			"date_added": 1479555388
+		},
+		{
+			"comment_id": 13,
+			"body": "@P2P: +1",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479557296",
+			"date_added": 1479612139
 		}
 	],
 	"flags": {},

@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 193,
+	"next_comment_id": 194,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -1156,6 +1156,12 @@
 			"body": "@Bullseye: 建议你在命令行 sitePublish 一次，看看有什么错误提示。",
 			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479558542",
 			"date_added": 1479560852
+		},
+		{
+			"comment_id": 193,
+			"body": "你在该站的私钥。就是你创建站点时候提示你保存的那个。如果你是克隆的站点，可以通过 master_seed 恢复。",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479612097",
+			"date_added": 1479612302
 		}
 	],
 	"flags": {},

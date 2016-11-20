@@ -5,28 +5,20 @@
  "cert_user_id": "bullseye@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "f430dd9379ec32e3ae9395034f16dddbedac0ba7ba114a95e5fd4bf524606da2",
-   "size": 11493
+   "sha512": "855fb7ee470b6269c11c25b206aa507810edf701a0582fc69bfde622f95e7bef",
+   "size": 12178
   }
  },
  "files_optional": {
-  "1479277675.jpg": {
-   "sha512": "418bac4a3f24d3aef71b1306dee7fc62f044d5274efc30dbfa821f384f28be7b",
-   "size": 81200
-  },
-  "1479551838.jpg": {
-   "sha512": "e599a4f92bbb8f25b0f71b593fe0e896edde897e31d4f4c26ab3a0915a6ae276",
-   "size": 34935
-  },
-  "1479552092.jpg": {
-   "sha512": "be4ec9b3c7d5239a4574d7300ff1a213a520a5ef9e09dee664958d15dd6925b8",
-   "size": 46722
+  "1479612097.jpg": {
+   "sha512": "5397dc46381f1678ab6d53979c2b0079ccfcae0a17b459db496a27070acd5bf2",
+   "size": 25915
   }
  },
  "inner_path": "data/users/1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7/content.json",
- "modified": 1479559901.152,
+ "modified": 1479613201.209,
  "optional": "(?!avatar).*jpg",
  "signs": {
-  "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7": "HIljSPuK0TVh0m/UJznQHfjJy2FApJUZLmkmkNwSyF4sJWF/kyoJokkkoZbumpZsxTpoOeOL+lctNtYbFz0plcI="
+  "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7": "G1JioycwFbIUgqHaYe9PyUvto590fkhWQzs6+iXdwAcxe/1WO85ywgGpKemFVIsbR8LY8RYfVPn23cexDYGfVCM="
  }
 }
