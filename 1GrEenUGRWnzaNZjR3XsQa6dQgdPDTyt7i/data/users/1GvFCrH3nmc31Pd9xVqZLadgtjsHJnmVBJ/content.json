@@ -1,0 +1,17 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "HJYh/bz1QUYEN9C4Rn62HV3nRjCf7LevSMj5BGtdCGePFMiv3xFr+68kSgMTu+8Lu9AVtH9Wv0VxbiphWrW/GfA=",
+ "cert_user_id": "rapunzel@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "50da250a50b8cb277fa3a13561740a8de34342a6aba76286a8c489a1dcd53caf",
+   "size": 340
+  }
+ },
+ "inner_path": "data/users/1GvFCrH3nmc31Pd9xVqZLadgtjsHJnmVBJ/content.json",
+ "modified": 1479608577.303414,
+ "signs": {
+  "1GvFCrH3nmc31Pd9xVqZLadgtjsHJnmVBJ": "HM+z5mkUz0oUT/h7AStLxk9LsTZCuvWehPmHO+o2DviAzoHXjDU2ocFnTrxngK5xTOKFwcN+sZ1IJfNu5fuLjPI="
+ }
+}
