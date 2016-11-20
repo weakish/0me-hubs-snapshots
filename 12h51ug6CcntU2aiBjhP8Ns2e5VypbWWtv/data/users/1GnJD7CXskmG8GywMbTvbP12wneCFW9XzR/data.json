@@ -1,5 +1,5 @@
 {
-	"next_post_id": 55,
+	"next_post_id": 56,
 	"next_comment_id": 36,
 	"next_follow_id": 174,
 	"avatar": "png",
@@ -276,6 +276,11 @@
 			"post_id": 1479344270,
 			"body": "Quora hides posts/answers to force you to register/login. Now its Chinese clone Zhihu finally borrows this \"feature\".",
 			"date_added": 1479344216
+		},
+		{
+			"post_id": 1479629092,
+			"body": "TypeScript 2.0 brings in more fix of the poorly designed type system:\n\n```sh\ntsc --strictNullChecks --noImplicitThis --noUnusedParameters --noUnusedLocals\n```",
+			"date_added": 1479629037
 		}
 	],
 	"post_like": {
