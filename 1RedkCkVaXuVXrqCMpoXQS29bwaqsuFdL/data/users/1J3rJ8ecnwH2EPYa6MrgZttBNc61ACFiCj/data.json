@@ -1,6 +1,6 @@
 {
 	"next_post_id": 20,
-	"next_comment_id": 116,
+	"next_comment_id": 118,
 	"next_follow_id": 29,
 	"avatar": "png",
 	"user_name": "Nofish",
@@ -788,6 +788,18 @@
 			"body": "I have just tried and zipfile fails to open any broken file",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479623646",
 			"date_added": 1479635106
+		},
+		{
+			"comment_id": 116,
+			"body": "@P2P: https://gist.github.com/HelloZeroNet/b03479e404836728faa8f1acc4ccf781\nSo basically I tried open the zip file after every 1024 bytes and every attempt failed except the last one.",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479623646",
+			"date_added": 1479636436
+		},
+		{
+			"comment_id": 117,
+			"body": "@P2P: The startup error message could help. (or if there is log/error.log)",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479623646",
+			"date_added": 1479638057
 		}
 	],
 	"follow": [

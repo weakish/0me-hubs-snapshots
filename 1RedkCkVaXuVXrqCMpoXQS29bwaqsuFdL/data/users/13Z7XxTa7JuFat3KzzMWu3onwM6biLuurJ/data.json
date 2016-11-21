@@ -1,6 +1,6 @@
 {
 	"next_post_id": 41,
-	"next_comment_id": 179,
+	"next_comment_id": 181,
 	"next_follow_id": 159,
 	"avatar": "jpg",
 	"user_name": "P2P",
@@ -205,7 +205,7 @@
 		},
 		{
 			"post_id": 1479623646,
-			"body": "@nofish , some Chinese users reported that their ZeroNet fails to start after a self-update, which means the installation of ZeroNet is completely broken. I guess GFW sometimes interrupts the download, causing bad zip file. Exacting it and overwriting exiting source code will be a disaster! So more robust self-update is needed:\n* ZipFile.testzip() should be used to Read all the files in the archive and check their CRC’s and file headers.\n* rename src to src_bak instead of just overwriting it. The same to `plugins` `tools` folder.",
+			"body": "@nofish , some Chinese users reported that their ZeroNet fails to start after a self-update, which means the installation of ZeroNet is completely broken. I guess GFW sometimes interrupts the download, causing bad zip file. Extracting it and overwriting exiting source code will be a disaster! So more robust self-update is needed:\n* ZipFile.testzip() should be used to Read all the files in the archive and check their CRC’s and file headers.\n* rename src to src_bak instead of just overwriting it. The same to `plugins` `tools` folder.",
 			"date_added": 1479623606
 		}
 	],
@@ -1324,6 +1324,18 @@
 			"body": "@Nekocross: Already have fail-then-dl-from-mirrors feature. but still need more mirrors due to a bug of https://try.gogs.io/",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479623646",
 			"date_added": 1479627276
+		},
+		{
+			"comment_id": 179,
+			"body": "@Nofish: but how your broken test file looks like? I've experienced some big zip incomplete download which can be opened and extracted by some unzip software but the extracted file is bad. So I *don't* think zipfile can report all broken files without testzip()",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479623646",
+			"date_added": 1479636271
+		},
+		{
+			"comment_id": 180,
+			"body": "@Nofish: then I don't know why it breaks ZeroNet. Some Chinese users reported before, and I also experienced once myself not long ago.",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479623646",
+			"date_added": 1479637285
 		}
 	],
 	"follow": [
