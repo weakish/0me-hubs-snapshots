@@ -1,6 +1,6 @@
 {
-	"next_post_id": 3,
-	"next_comment_id": 13,
+	"next_post_id": 4,
+	"next_comment_id": 14,
 	"next_follow_id": 5,
 	"avatar": "generate",
 	"user_name": "Binero",
@@ -16,12 +16,19 @@
 			"post_id": 1478290463,
 			"body": "There seems to be a lot of people here who don't really do much. Anyone want to have a chat? ",
 			"date_added": 1478290461
+		},
+		{
+			"post_id": 1479646714,
+			"body": "ZeroMe+ doesn't seem to support images, something which is supported on the regular ZeroMe. Can this be helped?",
+			"date_added": 1479646711
 		}
 	],
 	"post_like": {
 		"17ac9ybVj5CtUpBvi5NeP1EwNZjfJoZWvt_1": 1478290485,
 		"17ac9ybVj5CtUpBvi5NeP1EwNZjfJoZWvt_1478290463": 1478290486,
-		"1HN5pCyG5g1483VcFueZNvGv4MkA7yxjw1_1478119462": 1478292381
+		"1HN5pCyG5g1483VcFueZNvGv4MkA7yxjw1_1478119462": 1478292381,
+		"13ZwzXj9cMRF9AZirKm5nk1enWWS9hHRw8_1479604249": 1479646583,
+		"17ac9ybVj5CtUpBvi5NeP1EwNZjfJoZWvt_1479646714": 1479680694
 	},
 	"comment": [
 		{
@@ -89,6 +96,12 @@
 			"body": "Also see Anki. :)",
 			"post_uri": "152kdpXWPevMLNm7755GKuzQPsu71bs13t_1479603303",
 			"date_added": 1479607406
+		},
+		{
+			"comment_id": 13,
+			"body": "@Minko: Ah, it didn't show the image for me so I thought you were asking how to use it! :P",
+			"post_uri": "13ZwzXj9cMRF9AZirKm5nk1enWWS9hHRw8_1479604249",
+			"date_added": 1479646569
 		}
 	],
 	"follow": [
@@ -131,6 +144,7 @@
 	"flags": {},
 	"comment_like": {
 		"12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_27": 1478347605,
-		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_31": 1478348071
+		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_31": 1478348071,
+		"12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_41": 1479741515
 	}
 }

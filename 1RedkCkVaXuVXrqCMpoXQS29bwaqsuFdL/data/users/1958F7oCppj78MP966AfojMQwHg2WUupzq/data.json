@@ -1,11 +1,11 @@
 {
-	"next_post_id": 24,
-	"next_comment_id": 75,
-	"next_follow_id": 152,
+	"next_post_id": 25,
+	"next_comment_id": 84,
+	"next_follow_id": 161,
 	"avatar": "png",
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
-	"intro": "正太爱好者\n长时间为中文站点做种\n关注某人不代表支持某人的观点",
+	"intro": "正太爱好者\n长时间为中文站点做种\n关注某人不代表支持某人的观点\n开的两个坑：\n实用工具存档区：http://localhost:43110/12VnwCxot8tiMS3bBvksqQJQ8mLPRZ6CQE/\n自由网中文站：http://localhost:43110/16e8vso5f2sUob2wDmCZgMxeyfSjiBEh4R/",
 	"post": [
 		{
 			"post_id": 1,
@@ -128,6 +128,11 @@
 			"post_id": 1479638255,
 			"body": "放个自由网中文站映像：http://127.0.0.1:43110/16e8vso5f2sUob2wDmCZgMxeyfSjiBEh4R/index.html",
 			"date_added": 1479638232
+		},
+		{
+			"post_id": 1479642010,
+			"body": "繁体中文翻译已被合并，有谁系统或浏览器使用繁体中文的来说下是否会自动切换？",
+			"date_added": 1479641986
 		}
 	],
 	"post_like": {
@@ -573,6 +578,60 @@
 			"body": "@weakish: 香港基本上大陆简体直接转换差别不大，而台湾正体的习惯用词有比较多不同。",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479557296",
 			"date_added": 1479628527
+		},
+		{
+			"comment_id": 75,
+			"body": "@Obatoyou: 而你是不是也觉得微软越来越像腾讯了？",
+			"post_uri": "1A5FxtwybRdveKnBCj4zyDoyJwA1ddVT4L_1479612439",
+			"date_added": 1479639725
+		},
+		{
+			"comment_id": 76,
+			"body": "@Bullseye: 还没完全折腾好。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479638255",
+			"date_added": 1479642388
+		},
+		{
+			"comment_id": 77,
+			"body": "@P2P: 我提交的是 zh-tw ，要是浏览器认的是 zh-hant 或者 zh_TW 呢？",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479642010",
+			"date_added": 1479645462
+		},
+		{
+			"comment_id": 78,
+			"body": "@Ysc3839: http://127.0.0.1:43110/docs.ysc3839.bit/ 请再编译并更新一次。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479642010",
+			"date_added": 1479650750
+		},
+		{
+			"comment_id": 79,
+			"body": "@Obatoyou: 目前的外网同步功能是服务器支持的。",
+			"post_uri": "1A5FxtwybRdveKnBCj4zyDoyJwA1ddVT4L_1479612439",
+			"date_added": 1479718192
+		},
+		{
+			"comment_id": 80,
+			"body": "@Bullseye: 感谢支持！目前太慢应该与节点数少而且大多在国外有点关系。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479638255",
+			"date_added": 1479734181
+		},
+		{
+			"comment_id": 81,
+			"body": "几乎所有的文章标题看起来都微信朋友圈即视感。",
+			"post_uri": "1A5FxtwybRdveKnBCj4zyDoyJwA1ddVT4L_1479738655",
+			"date_added": 1479741692
+		},
+		{
+			"comment_id": 82,
+			"body": "@Linker: http://www.liuyanbaike.com/article/2022/",
+			"post_uri": "1A5FxtwybRdveKnBCj4zyDoyJwA1ddVT4L_1479738655",
+			"date_added": 1479743222
+		},
+		{
+			"comment_id": 83,
+			"body": "@Linker: `欧盟会先批准某种转基因作物作为饲料上市，几年以后再批准同一种作物作为食品上市。`所以首先不是你说的那么不吃，然后时间的前后与主次也没有必然联系。",
+			"post_uri": "1A5FxtwybRdveKnBCj4zyDoyJwA1ddVT4L_1479738655",
+			"date_added": 1479750360
 		}
 	],
 	"follow": [
@@ -1618,6 +1677,69 @@
 			"auth_address": "1KatDLDcTgTMEtvqVFmJWYQr7SyaEYiwTC",
 			"user_name": "Kenchoh",
 			"date_added": 1479626336
+		},
+		{
+			"follow_id": 152,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1LKkEXGKuTSNMWxb3bJRxiLUAGDUSMZ1yg",
+			"user_name": "Helloword",
+			"date_added": 1479643700
+		},
+		{
+			"follow_id": 153,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ",
+			"user_name": "Musickiller",
+			"date_added": 1479653163
+		},
+		{
+			"follow_id": 154,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t",
+			"user_name": "tkarita",
+			"date_added": 1479653215
+		},
+		{
+			"follow_id": 155,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb",
+			"user_name": "Bot",
+			"date_added": 1479653335
+		},
+		{
+			"follow_id": 156,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne",
+			"user_name": "Jayofthezero",
+			"date_added": 1479654077
+		},
+		{
+			"follow_id": 157,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L",
+			"user_name": "Alex",
+			"date_added": 1479654157
+		},
+		{
+			"follow_id": 158,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1LQKphbpsZXEA6toDE9BCJLcNg8Yn4Vg1S",
+			"user_name": "黑心药店老板",
+			"date_added": 1479717908
+		},
+		{
+			"follow_id": 159,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1MX8pq7YcDdJfupHVTXQu2YDrVNYaqvbx6",
+			"user_name": "Zhenkeyubao",
+			"date_added": 1479724477
+		},
+		{
+			"follow_id": 160,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1BQiU8XyNyWuneL8weKCSjCuAKECaNvkAT",
+			"user_name": "Sixteenth",
+			"date_added": 1479729035
 		}
 	],
 	"settings": {

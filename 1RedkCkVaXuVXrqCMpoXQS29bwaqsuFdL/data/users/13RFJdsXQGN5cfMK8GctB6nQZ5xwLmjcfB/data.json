@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 14,
+	"next_comment_id": 24,
 	"user_name": "Ysc3839",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -18,7 +18,9 @@
 		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1479296133": 1479304767,
 		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310": 1479551061,
 		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479557296": 1479612134,
-		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479623646": 1479623955
+		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479623646": 1479623955,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479666435": 1479735475,
+		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084": 1479741226
 	},
 	"comment": [
 		{
@@ -98,6 +100,66 @@
 			"body": "@P2P: +1",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479557296",
 			"date_added": 1479612139
+		},
+		{
+			"comment_id": 14,
+			"body": "应该不会的，代码里是使用_之前的，也就是说zh_TW会被当作zh",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479642010",
+			"date_added": 1479650584
+		},
+		{
+			"comment_id": 15,
+			"body": "@Lmath: 没时间，要下周了",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479642010",
+			"date_added": 1479650775
+		},
+		{
+			"comment_id": 16,
+			"body": "bulldozer 是使用python for android的吗？另外那个Kivy for ios 是不是能在ios上运行python程序？",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479741086
+		},
+		{
+			"comment_id": 17,
+			"body": "想问问你用的是什么系统？",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479741456
+		},
+		{
+			"comment_id": 18,
+			"body": "我的想法是弄个启动界面，启动后可以查看控制台输出，通知中心会显示正在运行，然就用本地浏览器访问",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479745671
+		},
+		{
+			"comment_id": 19,
+			"body": "采用这种方式的软件有PocketMine-MP的Android版。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479745772
+		},
+		{
+			"comment_id": 20,
+			"body": "@P2P: 搜索了一下，有人这么说 ``Mobile phones only have Java ME (Micro Edition) but Jython requires Java SE (Standard Edition). There is no Jython port to ME, and there is not enough interest to make it worth the effort.`` 找到的一个jython for android都5年没更新了",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479746090
+		},
+		{
+			"comment_id": 21,
+			"body": "It's not possible. You can't use jython with android because the DVM doesn't understand it. DVM is not JVM. 我的理解是Android是把Java代码编译成DVM(Dalvik VM)代码，而Jython是编译成JVM代码，所以没办法直接运行",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479746238
+		},
+		{
+			"comment_id": 22,
+			"body": "@Ysc3839: 看了一下PocketMine的代码，里面自带了编译好的php程序，然后解压运行，我觉得也可以采用这种方式，Python想办法编译好（甚至可以直接用GNURoot的），其他就好办了",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479747216
+		},
+		{
+			"comment_id": 23,
+			"body": "@P2P: 刚才看了python for android，是把python编译成动态库加载的",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479751055
 		}
 	],
 	"flags": {},

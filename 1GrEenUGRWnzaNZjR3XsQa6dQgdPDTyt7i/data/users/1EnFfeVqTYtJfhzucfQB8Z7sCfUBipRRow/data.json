@@ -1,6 +1,6 @@
 {
 	"next_post_id": 39,
-	"next_comment_id": 126,
+	"next_comment_id": 128,
 	"next_follow_id": 20,
 	"avatar": "jpg",
 	"user_name": "MilitaryRiotLab",
@@ -192,7 +192,8 @@
 		"1KRXEX6oD4HH4xwybvxnTBPW4DQm2HPdgj_1477324078": 1477329878,
 		"1N7ZC4BJP5wXsHst7YjggMAd6tZc8howaz_1477531089": 1477548460,
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477929324": 1477929366,
-		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478272781": 1478275010
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478272781": 1478275010,
+		"13ZwzXj9cMRF9AZirKm5nk1enWWS9hHRw8_1479644447": 1479729365
 	},
 	"comment": [
 		{
@@ -926,6 +927,18 @@
 			"body": "可以試試Varnish",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479470351",
 			"date_added": 1479483912
+		},
+		{
+			"comment_id": 126,
+			"body": "@猫叉酱: 有什麼用途欸？",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479727382",
+			"date_added": 1479729029
+		},
+		{
+			"comment_id": 127,
+			"body": "@猫叉酱: 不用了，我後台已經用Varnish緩存",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479727382",
+			"date_added": 1479729309
 		}
 	],
 	"follow": [

@@ -1,7 +1,7 @@
 {
-	"next_post_id": 14,
-	"next_comment_id": 9,
-	"next_follow_id": 13,
+	"next_post_id": 23,
+	"next_comment_id": 14,
+	"next_follow_id": 14,
 	"avatar": "png",
 	"user_name": "Great Sick",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -20,7 +20,7 @@
 		},
 		{
 			"post_id": 1479561150,
-			"body": "how to make 3D/Stereo Image\n\n1. Open Image With GIMP\n2. add layout black\n3. using scissors select tool and select object from far in black to close in white\n4. export image depth map\n5. and use ImageMagick and type from command `composite depthmap.png baseimage.png -displace -10x0 left.png` and `composite depthmap.png baseimage.png -displace 10x0 right.png`\n6. and with bino you select left and right good film!",
+			"body": "how to make 3D/Stereo Image\n\n1. Open Image With GIMP\n2. add layout black\n3. using scissors select tool and select object from far in black to close in white\n4. export image depth map\n5. and use ImageMagick and type from command `composite depthmap.png baseimage.png -displace -10x0 left.png` and `composite depthmap.png baseimage.png -displace 10x0 right.png`\n6. and with bino you select left and right good movie!",
 			"date_added": 1479561147
 		},
 		{
@@ -69,6 +69,52 @@
 			"post_id": 1479603303,
 			"body": "you know [jMemorize](https://sourceforge.net/projects/jmemorize)?\nis a learning program, i know that from website learn na'vi from avatar movie, this program is ideal for :::\n\n* translate language (word/translation)\n* learn knowedge (name/description)\n* play musique (title/partition)",
 			"date_added": 1479603290
+		},
+		{
+			"post_id": 1479660491,
+			"body": "In My World in Music and Sound\nThe Note is bar bottom is low up is acute or number from 1 to 8\nand octaves is note n=_N_ is more low is n=0 is 50 ps/s next n=1 is 100 ps/s  n=2 is 150 ps/s ...\nwhy this system because in my world the waves is not exist because the wave is very difficult to calculate we invented own sound system for example :: sound packet with symbol ::: line tilde arrow round and new cross the frequency depend line packet the other packet modify the sound.",
+			"date_added": 1479660477
+		},
+		{
+			"post_id": 1479663870,
+			"body": "i horror the file upload service and you too? here you download movie or music or webmaster legal upload from this service you galley, is clear because always wait 30 second or one minutes for download and more, the pub is sometimes scam\nand sometimes it's much worse!",
+			"date_added": 1479663855
+		},
+		{
+			"post_id": 1479672200,
+			"body": "Qubes OS And ZeroNet\nhow to screenshot in qubes os?, from dom0 open terminal use import (imagemagick) with sleep (for hidden terminal to good) and command qvm-copy-file (for share to vm)",
+			"date_added": 1479672184,
+			"meta": "{\"img\":\"900,506,caacbadcb334333deeeee223fff,011222222233456666667776888888777688888844768888884776888888\"}"
+		},
+		{
+			"post_id": 1479681962,
+			"body": "I invented a fork of bitmessage called peermessage\n\n* PM-...\n* Camellia Encryption\n\nThis List Will replace feature on the source code.",
+			"date_added": 1479681945
+		},
+		{
+			"post_id": 1479685288,
+			"body": "list of instrument i have :::\n\n* set of quena\n* rainstick\n* toyo\n* panflute\n* native flute\n* moceno",
+			"date_added": 1479685270
+		},
+		{
+			"post_id": 1479686685,
+			"body": "and if your giant machine running more hundred of thousand of virtual machine? eg. ::\n* euler :: 240000 vm, by vm mem : 2GB, disk : 32GB, os : debian-standard\n* ellipsis :: 500000 vm, by vm mem : 4GB, disk : 64GB, os : debian-standard\n* toyo :: 1000000 vm, by vm mem : 8GB, disk : 128GB, os : debian-gnome\n* phoenix :: 3000000 vm, by vm mem : 8GB, disk : 64GB, os : debian-xfce\n* archimede :: 5000000 vm, by vm mem : 16GB, disk : 128GB, os : debian-gnome",
+			"date_added": 1479686666
+		},
+		{
+			"post_id": 1479749602,
+			"body": "I Present The Loto Hash\nis a game each have bloc 1024 bytes hashed in sha256 and the minimum hash is winner, example\n* player one d1d580d0f14c2b0ae11a99c2204b6407f1dd1a6254c0c571a09d9bda80bf9559\n* player two bd6489e27351defccbfa908cb444367bd631289bfeeadae8bfa008a84ae8da5e\n* player three 00223a7f5bf2b5048c181eade03bb193d0445eff3071293f9bb3c200cf862dfb\nthe winner is player three so quick commented the post for participated!\nthe winner will have an surprise send with bitmessage.",
+			"date_added": 1479749582
+		},
+		{
+			"post_id": 1479759742,
+			"body": "no one to posted an question about me in :: http://127.0.0.1:43110/127NgrcSQ8XjbzfCn87TMxE7R4w1VfSpGf/\nexcept as subject of justice :: \"why the new album of justice called woman\" it's sad :'(\n",
+			"date_added": 1479759721
+		},
+		{
+			"post_id": 1479764292,
+			"body": "This is a Game, you have indice and search key for decrypt message is encrypted as aes256 with openssl and no salt\n***\nSearch A Encrypted Software Is Discontinued\nZdrEt1isXaDUVadNOkB/T0kUsb55djGbRpN2CW/Z/0sofG8SPVRK7nGD89irkAj0",
+			"date_added": 1479764270
 		}
 	],
 	"post_like": {
@@ -119,9 +165,39 @@
 		},
 		{
 			"comment_id": 8,
-			"body": "@Durand: i do not use gmic for 3d, i view website dead (404) is sad, my tuto is good.",
+			"body": "@Durand: i do not use gmic for 3d, i go to website of author is dead (404) it's sad, this tuto is good.",
 			"post_uri": "152kdpXWPevMLNm7755GKuzQPsu71bs13t_1479561150",
 			"date_added": 1479583279
+		},
+		{
+			"comment_id": 9,
+			"body": "hoooooooo (1/2) hahahah",
+			"post_uri": "168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar_1479661119",
+			"date_added": 1479678239
+		},
+		{
+			"comment_id": 10,
+			"body": "@PaintNinja: on my website :: and your i attribut is 1SickfhMUKQURcdN9YHZeendi6jWJFFEs/lotohash, you want participated?",
+			"post_uri": "152kdpXWPevMLNm7755GKuzQPsu71bs13t_1479749602",
+			"date_added": 1479749891
+		},
+		{
+			"comment_id": 11,
+			"body": "here :: http://127.0.0.1:43110/1SickfhMUKQURcdN9YHZeendi6jWJFFEs/\nand yes i posted my website if you search in bar on zerohello",
+			"post_uri": "152kdpXWPevMLNm7755GKuzQPsu71bs13t_1479749602",
+			"date_added": 1479750082
+		},
+		{
+			"comment_id": 12,
+			"body": "rrrraaaaah :: 192.168 ~~192.161~~",
+			"post_uri": "1LKkEXGKuTSNMWxb3bJRxiLUAGDUSMZ1yg_1479643429",
+			"date_added": 1479755383
+		},
+		{
+			"comment_id": 13,
+			"body": "no one to posted an question in :: http://127.0.0.1:43110/127NgrcSQ8XjbzfCn87TMxE7R4w1VfSpGf/\nexcept as subject of justice :: \"why the new album of justice called woman\" it's sad :'(",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1479707834",
+			"date_added": 1479760266
 		}
 	],
 	"follow": [
@@ -208,6 +284,13 @@
 			"auth_address": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M",
 			"user_name": "Rainlime",
 			"date_added": 1479559167
+		},
+		{
+			"follow_id": 13,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC",
+			"user_name": "meidan",
+			"date_added": 1479691574
 		}
 	]
 }

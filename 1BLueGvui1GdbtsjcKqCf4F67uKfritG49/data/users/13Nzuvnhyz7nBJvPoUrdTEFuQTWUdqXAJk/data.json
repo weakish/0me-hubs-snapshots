@@ -1,8 +1,13 @@
 {
-	"next_comment_id": 3,
+	"next_comment_id": 4,
 	"user_name": "Linkerlin",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"post_like": {},
+	"post_like": {
+		"1GqNvyASzGygkFEbzp42RWucNprVdkcQzq_1479644169": 1479665233,
+		"157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478403013": 1479717472,
+		"1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1479684484": 1479719627,
+		"1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1479603246": 1479721037
+	},
 	"comment": [
 		{
 			"comment_id": 1,
@@ -15,6 +20,12 @@
 			"body": "等DHT实现就非常的去中心了",
 			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1479527094",
 			"date_added": 1479538088
+		},
+		{
+			"comment_id": 3,
+			"body": "@Cxgreat2014: 非常可能是ZeroNet的BUG。",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478403013",
+			"date_added": 1479717550
 		}
 	],
 	"flags": {},

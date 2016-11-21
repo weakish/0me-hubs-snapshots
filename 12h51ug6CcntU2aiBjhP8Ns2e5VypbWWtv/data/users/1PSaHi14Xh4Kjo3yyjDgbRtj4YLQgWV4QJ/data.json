@@ -1,7 +1,7 @@
 {
-	"next_post_id": 59,
+	"next_post_id": 63,
 	"next_comment_id": 35,
-	"next_follow_id": 84,
+	"next_follow_id": 85,
 	"avatar": "jpg",
 	"user_name": "ulrichard",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -297,6 +297,27 @@
 			"post_id": 1479597477,
 			"body": "Meeting C++ 2016 trip report: [http://127.0.0.1:43110/ulrichard.bit/?Post:16:Meeting+C+2016](/ulrichard.bit/?Post:16:Meeting+C+2016)",
 			"date_added": 1479597419
+		},
+		{
+			"post_id": 1479673911,
+			"body": "Once again, we have strong Föhn:\n[video1](https://ipfs.io/ipfs/QmVc6zuAneKJzicnJpfrqCH9gSy6bz54JhcypfJYhGUFQu/play#/ipfs/QmQCHY65d6uYHSspZJguJmFdULa3oKaQobjJjcbaGWTv7x)\n[video2](https://ipfs.io/ipfs/QmVc6zuAneKJzicnJpfrqCH9gSy6bz54JhcypfJYhGUFQu/play#/ipfs/QmbEieDY2ukar9voNx2E9pzUHLNTgzcHoeCvPAJg6QM61N)\n",
+			"date_added": 1479673852,
+			"meta": "{\"img\":\"900,506,fffddca9a444212102eee999665333222aaa765887776554,0000123455661789A449BB89C39839DE88CF8C99CF333939A98F39999AAA\"}"
+		},
+		{
+			"post_id": 1479712796,
+			"body": "There seems to be a zeronet snap now: \nhttps://uappexplorer.com/app/zeronet.mkg20001\nCool! I will try it out. Curious if it also runs on the phone.",
+			"date_added": 1479712736
+		},
+		{
+			"post_id": 1479718654,
+			"body": "EFF Report Finds 74% Of Censorship News Stories Are About Facebook \nhttp://rss.slashdot.org/~r/Slashdot/slashdot/~3/mgmK4V-TmMI/eff-report-finds-74-of-censorship-news-stories-are-about-facebook",
+			"date_added": 1479718593
+		},
+		{
+			"post_id": 1479729632,
+			"body": "Thought you had rights if you're the product?\nhttps://www.reddit.com/r/Android/comments/5dif8j/psa_google_can_lock_your_account_forcing_you_to/?st=ivrx9yoo&sh=5afe2044",
+			"date_added": 1479729570
 		}
 	],
 	"post_like": {
@@ -1089,6 +1110,13 @@
 			"auth_address": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC",
 			"user_name": "Firebox",
 			"date_added": 1479380340
+		},
+		{
+			"follow_id": 84,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "152kdpXWPevMLNm7755GKuzQPsu71bs13t",
+			"user_name": "Great Sick",
+			"date_added": 1479712782
 		}
 	],
 	"settings": {

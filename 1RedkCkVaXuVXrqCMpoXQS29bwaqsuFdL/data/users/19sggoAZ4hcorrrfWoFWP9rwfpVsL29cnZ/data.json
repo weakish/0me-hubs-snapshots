@@ -1,6 +1,6 @@
 {
-	"next_post_id": 186,
-	"next_comment_id": 226,
+	"next_post_id": 188,
+	"next_comment_id": 227,
 	"next_follow_id": 43,
 	"avatar": "jpg",
 	"user_name": "Sirenyc",
@@ -208,16 +208,10 @@
 			"date_added": 1474513570
 		},
 		{
-			"post_id": 1479355183,
-			"body": "- ZeroTV - http://127.0.0.1:43110/1BEJbnufyav7TK23ADTs2Qi2UJeKSGDzw6/\n\nNews:\n\n- Search Bar!\n- New Series!\n- New Episodes!",
-			"date_added": 1479355000,
+			"post_id": 1479760188,
+			"body": "- ZeroTV - http://127.0.0.1:43110/1BEJbnufyav7TK23ADTs2Qi2UJeKSGDzw6/\n\nNews:\n- Search Bar!\n- New Series!\n- New Episodes!",
+			"date_added": 1479760001,
 			"meta": "{\"img\":\"900,411,fffeeebbbaaabbfbafdcf999ddfcbfa9feef,001100000002332454611210789A5013333B6B600111100000\"}"
-		},
-		{
-			"post_id": 1479596917,
-			"body": "- ZeroTV - http://127.0.0.1:43110/1BEJbnufyav7TK23ADTs2Qi2UJeKSGDzw6/\n\nNews:\n- Search Bar!\n- New Series!\n- New Episodes!\n",
-			"date_added": 1479596732,
-			"meta": "{\"img\":\"900,411,fffeeeaaabbfbafddfbbb999ccfa9feef,00110000000222234450160075894002222A5A500011000000\"}"
 		}
 	],
 	"post_like": {
@@ -322,7 +316,8 @@
 		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310": 1479515907,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479498270": 1479516183,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479519280": 1479520792,
-		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479546563": 1479572460
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479546563": 1479572460,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479666435": 1479667752
 	},
 	"comment": [
 		{
@@ -1668,6 +1663,12 @@
 			"body": "Now that my zeronet has updated to PT_BR! =)",
 			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310",
 			"date_added": 1479598344
+		},
+		{
+			"comment_id": 226,
+			"body": "This PT translation that is in zeronet and PT_BR (brazil), could rename to PT_BR, and create a new one with PT_PT (portugal).\n\n=)",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310",
+			"date_added": 1479664106
 		}
 	],
 	"follow": [

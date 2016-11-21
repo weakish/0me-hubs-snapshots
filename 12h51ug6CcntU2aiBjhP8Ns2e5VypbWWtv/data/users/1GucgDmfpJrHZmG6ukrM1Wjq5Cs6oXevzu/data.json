@@ -1,8 +1,8 @@
 {
-	"next_post_id": 6,
-	"next_comment_id": 1,
-	"next_follow_id": 14,
-	"avatar": "jpg",
+	"next_post_id": 8,
+	"next_comment_id": 2,
+	"next_follow_id": 24,
+	"avatar": "png",
 	"user_name": "Xeers",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"intro": "#",
@@ -11,18 +11,23 @@
 			"post_id": 1479383585,
 			"body": "Zeronet 0.5.0 rev1714 Zerome no trabaja correctamente, no me aparece la lista de a los que sigo, me desaparece la imagen, se lía con los distintos hubs... Sólo utilizo la ID oficial y he probado a borrar los hubs y quedarme sólo con uno pero luego vuelven a reaparecer",
 			"date_added": 1479383580
+		},
+		{
+			"post_id": 1479667011,
+			"body": "http://www.mirrorcreator.com/files/1N1T2LSS/es.json_links\nes.json Spanish (Spain) ZeroBundle-win\\ZeroBundle\\ZeroNet\\data\\1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D\\languages",
+			"date_added": 1479667004
 		}
 	],
 	"post_like": {},
-	"comment": [],
-	"follow": [
+	"comment": [
 		{
-			"follow_id": 2,
-			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
-			"auth_address": "1K6HCsJskZENYG42GR7ocJXg9WjFbEq9hc",
-			"user_name": "Rapapobre",
-			"date_added": 1478805043
-		},
+			"comment_id": 1,
+			"body": "Me registré:\n Upload-> Uploads are disabled.\nFile uploads require push access to this repository.\nNew File:\nYou’re creating a file in a project you don’t have write access to. Submitting a change will create the file in a new branch in your fork Xeers/zeronet.io, so you can send a pull request. \n...\nNo sé porque siempre me lo borran\n@Rapapobre: ",
+			"post_uri": "1GucgDmfpJrHZmG6ukrM1Wjq5Cs6oXevzu_1479667011",
+			"date_added": 1479728009
+		}
+	],
+	"follow": [
 		{
 			"follow_id": 3,
 			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -99,6 +104,69 @@
 			"auth_address": "1GucgDmfpJrHZmG6ukrM1Wjq5Cs6oXevzu",
 			"user_name": "Xeers",
 			"date_added": 1478954321
+		},
+		{
+			"follow_id": 15,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "177ia43eQrnWCHCWt1ik6viQGRzWuNXGzD",
+			"user_name": "Mkg20001",
+			"date_added": 1479686175
+		},
+		{
+			"follow_id": 16,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1JEmH2pfXkpMMdzsJ256jzq2GTSxEacS2B",
+			"user_name": "PedoBlocker",
+			"date_added": 1479732296
+		},
+		{
+			"follow_id": 17,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1NXas4VQNUb9Vgd6zW7E1xGPUCfcxSXBF5",
+			"user_name": "Xiku Francesc",
+			"date_added": 1479755053
+		},
+		{
+			"follow_id": 18,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1GucgDmfpJrHZmG6ukrM1Wjq5Cs6oXevzu",
+			"user_name": "Xeers",
+			"date_added": 1479755187
+		},
+		{
+			"follow_id": 19,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GucgDmfpJrHZmG6ukrM1Wjq5Cs6oXevzu",
+			"user_name": "Xeers",
+			"date_added": 1479755196
+		},
+		{
+			"follow_id": 20,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1K6HCsJskZENYG42GR7ocJXg9WjFbEq9hc",
+			"user_name": "Rapapobre",
+			"date_added": 1479755212
+		},
+		{
+			"follow_id": 21,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1JEmH2pfXkpMMdzsJ256jzq2GTSxEacS2B",
+			"user_name": "PedoBlocker",
+			"date_added": 1479755235
+		},
+		{
+			"follow_id": 22,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "177ia43eQrnWCHCWt1ik6viQGRzWuNXGzD",
+			"user_name": "Mkg20001",
+			"date_added": 1479755236
+		},
+		{
+			"follow_id": 23,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GucgDmfpJrHZmG6ukrM1Wjq5Cs6oXevzu",
+			"user_name": "Xeers",
+			"date_added": 1479755352
 		}
 	]
 }

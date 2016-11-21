@@ -1,6 +1,6 @@
 {
 	"next_post_id": 59,
-	"next_comment_id": 43,
+	"next_comment_id": 46,
 	"next_follow_id": 14,
 	"avatar": "generate",
 	"user_name": "Firebox",
@@ -542,6 +542,24 @@
 			"body": "@Lmath: Found any bugs?",
 			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479498270",
 			"date_added": 1479533941
+		},
+		{
+			"comment_id": 43,
+			"body": "@Eibriel: Added to documentation.",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479546563",
+			"date_added": 1479678963
+		},
+		{
+			"comment_id": 44,
+			"body": "@ZAlex: I can't reproduce this bug. I downloaded the archive and opened it with peazip, but everything was fine. The archive is packed by the JSZip library in your browser. What browser were you using?",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479546563",
+			"date_added": 1479685704
+		},
+		{
+			"comment_id": 45,
+			"body": "@ZAlex: I changed the compression to DEFLATE. Can you update my site and try downloading again? (The Zip file should be around 600kb)",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479546563",
+			"date_added": 1479687879
 		}
 	],
 	"follow": [

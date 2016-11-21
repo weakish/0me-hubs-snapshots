@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 122,
+	"next_comment_id": 123,
 	"user_name": "Eibriel",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {
@@ -60,7 +60,8 @@
 		"1QFcL2PapA8NuvNWeHCafHaMPJcXgmb55i_1479518790": 1479532397,
 		"12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1479583253": 1479600716,
 		"1QFcL2PapA8NuvNWeHCafHaMPJcXgmb55i_1479430494": 1479600766,
-		"13ZwzXj9cMRF9AZirKm5nk1enWWS9hHRw8_1479604249": 1479606730
+		"13ZwzXj9cMRF9AZirKm5nk1enWWS9hHRw8_1479604249": 1479606730,
+		"12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1479669961": 1479671181
 	},
 	"comment": [
 		{
@@ -782,6 +783,12 @@
 			"body": "@Yolt: Ubuntu don't have Firewall by default. If the port is open on the router pointing to your local IP should work :S (I don't know how exactly Free ISP works)",
 			"post_uri": "18gK4zjhJbd2sKs3CfmqZQ6E9Di3qQFfAz_1479158830",
 			"date_added": 1479494194
+		},
+		{
+			"comment_id": 122,
+			"body": "Sounds like a great idea, if I'm correct some algoritms allows to compute gradients on different machines mixing all on a server. I know google have some work on distributed training. And Apple have a lot of work on anonymizing the data (but they didn't published anything yet)",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1479669961",
+			"date_added": 1479672071
 		}
 	]
 }

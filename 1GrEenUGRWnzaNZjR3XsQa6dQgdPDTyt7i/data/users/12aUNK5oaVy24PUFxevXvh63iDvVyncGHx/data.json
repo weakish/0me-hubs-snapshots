@@ -1,7 +1,7 @@
 {
-	"next_post_id": 12,
-	"next_comment_id": 41,
-	"next_follow_id": 16,
+	"next_post_id": 13,
+	"next_comment_id": 45,
+	"next_follow_id": 19,
 	"avatar": "jpg",
 	"user_name": "Durand",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -63,6 +63,11 @@
 			"body": "## Inequality for all (2013)\nEasily the best documentary about inequality that I've seen. It's by Robert Reich too, who seems to be a really cool guy! You can watch it for free on [vimeo](https://vimeo.com/141725998) (password: bernie2016) so you have no excuses not to :)",
 			"date_added": 1479583242,
 			"meta": "{\"img\":\"472,700,ffeeedddda98998443776cccccbbba977966b66b88989,00121000013200004500000160001122211027777018898818ABBCD883EED389999999\"}"
+		},
+		{
+			"post_id": 1479669961,
+			"body": "## Decentralised machine learning for data privacy?\n\nThere are plenty of benefits to be gained from machine learning but most techniques require a large amount of data. For example, automatic tagging of photographs is one simple but useful feature but this requires a large dataset of images.\n\nWe also live in a world where surveillance is a big problem, and as we give up our data to big corporations, this only gets worse. It would be wise to not allow governments and large corporations to have access to so much data without our explicit consent. To solve these two problems, I've been thinking about an alternative solution.\n\nWould it be possible to create a framework whereby the training of algorithms occur on small sets of data and only the end results are aggregated on a large scale in a desynchronised, decentralised fashion?\n\nFor example, let's take face tagging. The current method of tagging used by Facebook involves looking at all the photographs uploaded by users that have been manually tagged and then training their facial recognition algorithm on this large data set. This requires that we give facebook unencrypted photographs to be stored on their servers, as well as a large database of all the facial tags that we manually added to said photographs. This is a huge privacy hazard.\n\nThe alternative: each user encrypts photographs before storing them on facebook's servers. The only people who can see them would be your friends who have keys to the photographs. When you or your friends tag photographs, client-side software on either your phone or your computer uses those tags to train a facial tagging algorithm about the photographs. The results of this training are then uploaded to a server, where they are then collated with other people's results. The final, master algorithm is then used by everyone for auto-tagging of photographs, run locally on the user's computer or phone.\n\nThis alternative strategy reduces the need to open up data to big companies, while we still get the benefits of big data. If users don't want to train data on their own phones/computers, they could have the option of uploading their unencrypted photos to facebook (or another trusted server), at their own risk.\n\nI would love to know what you guys & gals think about this idea. Is it technically feasible? Is it even sensible? This is something that we need in the zeronet world!﻿",
+			"date_added": 1479669949
 		}
 	],
 	"post_like": {
@@ -71,7 +76,9 @@
 		"19ev8HmfPQ2VC8aWDA4Ck7E2vLYDYFgw9P_1478311564": 1478321563,
 		"13Jo6eFeig3usqrZvDVvYychPecgRV3cu7_1478747731": 1478747755,
 		"12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1478747906": 1478842392,
-		"1H5VKNWtkBA7RpJWyYuFw5bqjwbgjXoqKp_1478844041": 1478854710
+		"1H5VKNWtkBA7RpJWyYuFw5bqjwbgjXoqKp_1478844041": 1478854710,
+		"17ac9ybVj5CtUpBvi5NeP1EwNZjfJoZWvt_1479646714": 1479669850,
+		"1KiMJsULUcZVNSJb1bbhyN2XQ7m1Fb3SLD_1479629093": 1479670532
 	},
 	"comment": [
 		{
@@ -307,6 +314,30 @@
 			"body": "@Great Sick: Yeah, I do that with a raspberrypi :)",
 			"post_uri": "152kdpXWPevMLNm7755GKuzQPsu71bs13t_1479579779",
 			"date_added": 1479589659
+		},
+		{
+			"comment_id": 41,
+			"body": "I guess we just wait until it is improved!",
+			"post_uri": "17ac9ybVj5CtUpBvi5NeP1EwNZjfJoZWvt_1479646714",
+			"date_added": 1479669877
+		},
+		{
+			"comment_id": 42,
+			"body": "Definitely :D",
+			"post_uri": "1KiMJsULUcZVNSJb1bbhyN2XQ7m1Fb3SLD_1479629093",
+			"date_added": 1479670557
+		},
+		{
+			"comment_id": 43,
+			"body": "@Eibriel: Yeah, I'm sure it must be possible but I couldn't find much more than academic papers by googling for it. Maybe I'm using the wrong search terms.. \n\nEDIT: I was searching for \"desynchronised neural networks\". \"asynchronous machine learning\" gives me a lot more relevant results: http://engineering.skymind.io/distributed-deep-learning-part-1-an-introduction-to-distributed-training-of-neural-networks\n\nSomeone on G+ pointed [this research paper](https://arxiv.org/abs/1602.05629) out.",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1479669961",
+			"date_added": 1479677911
+		},
+		{
+			"comment_id": 44,
+			"body": "@Linkerlin: That's the idea. It's a bit complicated in practice though..",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1479669961",
+			"date_added": 1479768260
 		}
 	],
 	"follow": [
@@ -407,6 +438,27 @@
 			"auth_address": "17ac9ybVj5CtUpBvi5NeP1EwNZjfJoZWvt",
 			"user_name": "Binero",
 			"date_added": 1478320995
+		},
+		{
+			"follow_id": 16,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1EJ7j6nGoz84S8eYsfEmYA6hF9vV4nKkR4",
+			"user_name": "Zerg",
+			"date_added": 1479679449
+		},
+		{
+			"follow_id": 17,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ",
+			"user_name": "Sirenyc",
+			"date_added": 1479679455
+		},
+		{
+			"follow_id": 18,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1L3deY1C8BW1MkqHJNX4kdG12zuEGed42F",
+			"user_name": "Cunnected",
+			"date_added": 1479679494
 		}
 	],
 	"settings": {

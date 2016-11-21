@@ -1,7 +1,7 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 3,
-	"next_follow_id": 7,
+	"next_comment_id": 6,
+	"next_follow_id": 8,
 	"avatar": "jpg",
 	"user_name": "Chiarelli",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -31,6 +31,24 @@
 			"body": "@Chiarellirj: Eu consegui recuperar com êxito esse meu ZeroID. Encontrei o backup que tinha feito! Agora vc pode desconsiderar o @chiarellirj , pois não irei mais utilizá-lo.",
 			"post_uri": "1Ehiyjqsa14WZrfsmRq54cA1jBXuhcTyjE_1472769857",
 			"date_added": 1479624861
+		},
+		{
+			"comment_id": 3,
+			"body": "@Sirenyc: Obrigado, eu consegui recuperar aqui em um backup antigo que eu tinha. Eu não vou mais usar o Zeroid @chiarellirj que eu estava falando contigo antes. PS.: Eu enviei um Zeromail para vc; se achar que é melhor publicar um post, por favor, me avisa. Abraços.",
+			"post_uri": "1Ehiyjqsa14WZrfsmRq54cA1jBXuhcTyjE_1472769857",
+			"date_added": 1479665218
+		},
+		{
+			"comment_id": 4,
+			"body": "@Sirenyc: É essa conta aqui: @nofish [ nofish@zeroid.bit ] ?",
+			"post_uri": "1Ehiyjqsa14WZrfsmRq54cA1jBXuhcTyjE_1472769857",
+			"date_added": 1479667899
+		},
+		{
+			"comment_id": 5,
+			"body": "@Sirenyc: Já add ele aqui :-)",
+			"post_uri": "1Ehiyjqsa14WZrfsmRq54cA1jBXuhcTyjE_1472769857",
+			"date_added": 1479668444
 		}
 	],
 	"follow": [
@@ -40,20 +58,6 @@
 			"auth_address": "1PGFKCfMSL1QdudndfYCo4mGM8E8XKzMMG",
 			"user_name": "Roberth Castaño",
 			"date_added": 1472769558
-		},
-		{
-			"follow_id": 2,
-			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-			"auth_address": "1Kz1uZrEtodpWQJEsqf7VGgaUQbcpqBh5R",
-			"user_name": "Anymus",
-			"date_added": 1472769653
-		},
-		{
-			"follow_id": 3,
-			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
-			"auth_address": "1CmQtSWf8zQtufk4VRFCsonHPU3sPGuXRa",
-			"user_name": "Tudosobretodos",
-			"date_added": 1472769890
 		},
 		{
 			"follow_id": 4,
@@ -75,6 +79,13 @@
 			"auth_address": "1Ehiyjqsa14WZrfsmRq54cA1jBXuhcTyjE",
 			"user_name": "Chiarelli",
 			"date_added": 1479624445
+		},
+		{
+			"follow_id": 7,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1479668408
 		}
 	]
 }

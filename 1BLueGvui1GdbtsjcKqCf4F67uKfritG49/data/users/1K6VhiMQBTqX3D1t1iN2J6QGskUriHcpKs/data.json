@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
 	"next_comment_id": 1,
-	"next_follow_id": 1,
+	"next_follow_id": 2,
 	"avatar": "jpg",
 	"user_name": "Arthur Farias",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -15,5 +15,13 @@
 	],
 	"post_like": {},
 	"comment": [],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "19Nu5Zmct48eJvwV2Qg7xeioQu8y6eau1z",
+			"user_name": "Chiarellirj",
+			"date_added": 1479658232
+		}
+	]
 }

@@ -5,13 +5,20 @@
  "cert_user_id": "fargo@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "47fe9c0f277c378be268b480b82719371a9d3460fcd9ed4830f878b6b23f1eac",
-   "size": 4739
+   "sha512": "e2ca556a6527aaceee8555e6d437e973d45336930b68fb95ab1eb56a688b8988",
+   "size": 7001
+  }
+ },
+ "files_optional": {
+  "1479646690.jpg": {
+   "sha512": "02c6cabeb5cc21a2e5e0e69b33975dee96b6e86693a838224a93d8709fe72618",
+   "size": 56867
   }
  },
  "inner_path": "data/users/15TMCGSiwvvrDjuvU2arnpsyC19BHnj8k7/content.json",
- "modified": 1476274420.360968,
+ "modified": 1479734739.660035,
+ "optional": "(?!avatar).*jpg",
  "signs": {
-  "15TMCGSiwvvrDjuvU2arnpsyC19BHnj8k7": "Gz9ysGNXdOFNOqsdU3G1BjA4xcjW/6AmjqxfSVPJPWryRoih9omf9Vdjn7RTxJmJElrA7LESZa4pNUnrCYUEnoc="
+  "15TMCGSiwvvrDjuvU2arnpsyC19BHnj8k7": "HN33xC3laq7DjpYZnlVcWHh5Z58IQvHsRyOMxS1Lb2udDxJBDC54xO6vQsQU/Q0Kj44bFR73KgPNM0fAYUNWu8M="
  }
 }

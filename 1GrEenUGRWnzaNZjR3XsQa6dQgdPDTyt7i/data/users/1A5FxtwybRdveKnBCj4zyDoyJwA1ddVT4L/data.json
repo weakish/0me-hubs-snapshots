@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 4,
+	"next_comment_id": 11,
 	"user_name": "Obatoyou",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -23,6 +23,48 @@
 			"body": "@猫叉酱: 虽然我也懂点程序，你写了注释的话，以后会对更广大的受众推动是有利的",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479543658",
 			"date_added": 1479545209
+		},
+		{
+			"comment_id": 4,
+			"body": "猫叉酱 · nekocross@zeroid.bit ― 1 天前⋮\n专为Android局域网ZeroNet代理服务器的nginx已经完全配置好，作用包括：\n1.反向代理\n2.内存缓存（在/dev/cache）\n3.gzip压缩（js普遍能压缩到1/3，css差不多有2/3）\n提升了wifi和emmc的瓶颈，现在即使5个人一起用也不会卡\n虽然功能很简单，但坎一点都不少，经过24小时测试稳定后放出配置文件",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479637562",
+			"date_added": 1479638637
+		},
+		{
+			"comment_id": 5,
+			"body": "我打赌，我站在韩国最高处 大力的喊一嗓子，整个韩国估计都能听到，，，，，，（如果这里有韩国人的话，请谅解我的说法）",
+			"post_uri": "13YuSFL3YKh6KQPWAgxtfiufGMTDHypVFM_1479619048",
+			"date_added": 1479639353
+		},
+		{
+			"comment_id": 6,
+			"body": "@猫叉酱: 可能也有的，毕竟我们是局域网呀。 你可以上传到Github上去，让有需要的可以进一步完善,也许还会发展出其他呢， 大东西都是从小不点开始的",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479637562",
+			"date_added": 1479649747
+		},
+		{
+			"comment_id": 7,
+			"body": "现在已经有7种地方语言了，，",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1479693362",
+			"date_added": 1479698888
+		},
+		{
+			"comment_id": 8,
+			"body": "@Lmath: 知乎是不是要挂了，你们这些在知乎的怎么办呢，还不赶紧复刻一个知乎在zeronet",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1479707834",
+			"date_added": 1479718744
+		},
+		{
+			"comment_id": 9,
+			"body": "@Lmath: 估计我们的大门等不及他复刻好已经关上了， 不要我让我言中了，我自己掌嘴，晦气",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1479707834",
+			"date_added": 1479718900
+		},
+		{
+			"comment_id": 10,
+			"body": "@Lmath: zeronet被墙了。那也只是影响新的用户增长，原来用户之间不会受到影响，只是没有新的用户增长，也就没吸引力了， 所以赶紧上你们说的DHT吧",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1479707834",
+			"date_added": 1479719413
 		}
 	]
 }

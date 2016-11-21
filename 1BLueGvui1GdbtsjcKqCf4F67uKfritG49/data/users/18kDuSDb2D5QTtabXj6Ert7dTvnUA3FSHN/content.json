@@ -5,8 +5,8 @@
  "cert_user_id": "mydf@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "049fce1de38bdbe59c04b11a8c633e91e1555bfb0b458af1767b19e1adadb696",
-   "size": 2614
+   "sha512": "023bd6a4a4466cedf7952cb5d7ddec09ee135411f513c2cf8547692db4b4a2c1",
+   "size": 2840
   }
  },
  "files_optional": {
@@ -20,9 +20,9 @@
   }
  },
  "inner_path": "data/users/18kDuSDb2D5QTtabXj6Ert7dTvnUA3FSHN/content.json",
- "modified": 1479616845.767,
+ "modified": 1479690990.063,
  "optional": "(?!avatar).*jpg",
  "signs": {
-  "18kDuSDb2D5QTtabXj6Ert7dTvnUA3FSHN": "GwUBn/T/L24nD1Qbf0aDgw9acu/quyIxWWwV365DsAbCeA1SUPAjoWYefsefQIg7caJqw/KWmn44JNr6fdfLV5w="
+  "18kDuSDb2D5QTtabXj6Ert7dTvnUA3FSHN": "G7BINpQAeohyp6kcnszheor5QaQbuLD8XaFQ/iUdtRDcu87nthzaBZvCjwS2ta7zabj19zrACNQQAo7KrVhqHYQ="
  }
 }

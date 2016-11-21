@@ -1,6 +1,6 @@
 {
-	"next_post_id": 7,
-	"next_comment_id": 4,
+	"next_post_id": 8,
+	"next_comment_id": 5,
 	"next_follow_id": 1,
 	"avatar": "jpg",
 	"user_name": "Minko",
@@ -37,6 +37,11 @@
 			"body": "How I use zeronet",
 			"date_added": 1479604243,
 			"meta": "{\"img\":\"797,700,333344544123a98dcb566455ba9cba986765678887776888,01121000330245611213074894A4730B989ACD230A8444D8B02E4FFD7FDEEED6EC1CFFDCC6667EFFFF488F8FFF\"}"
+		},
+		{
+			"post_id": 1479644447,
+			"date_added": 1479644440,
+			"meta": "{\"img\":\"900,675,998a9aaaabbbccc776666222331553788444665542,012110223456502222346665000112789665AA0A7B66566555BBB9669999895555C5CD895665C0CD\"}"
 		}
 	],
 	"post_like": {
@@ -60,6 +65,12 @@
 			"body": "@Rainlime @Squarezero: aw thanks, I'll try",
 			"post_uri": "13ZwzXj9cMRF9AZirKm5nk1enWWS9hHRw8_1479178910",
 			"date_added": 1479553096
+		},
+		{
+			"comment_id": 4,
+			"body": "@Binero: *This is how I use zeronet (incognito)",
+			"post_uri": "13ZwzXj9cMRF9AZirKm5nk1enWWS9hHRw8_1479604249",
+			"date_added": 1479644374
 		}
 	],
 	"follow": []

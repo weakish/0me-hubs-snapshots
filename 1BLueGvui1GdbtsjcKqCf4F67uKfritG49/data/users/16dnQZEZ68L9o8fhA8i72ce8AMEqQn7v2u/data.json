@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
 	"next_comment_id": 3,
-	"next_follow_id": 1,
+	"next_follow_id": 3,
 	"avatar": "generate",
 	"user_name": "Fun",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -28,5 +28,20 @@
 			"date_added": 1473599635
 		}
 	],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5",
+			"user_name": "莱文倩",
+			"date_added": 1479643206
+		},
+		{
+			"follow_id": 2,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "13KjVHdVXjiMLMcN1RMhaRPDFFXRotVzsK",
+			"user_name": "Mailman",
+			"date_added": 1479643956
+		}
+	]
 }

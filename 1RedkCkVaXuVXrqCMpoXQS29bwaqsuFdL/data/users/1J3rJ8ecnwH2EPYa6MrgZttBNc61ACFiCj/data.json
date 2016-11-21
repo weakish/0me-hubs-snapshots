@@ -1,6 +1,6 @@
 {
-	"next_post_id": 20,
-	"next_comment_id": 118,
+	"next_post_id": 21,
+	"next_comment_id": 120,
 	"next_follow_id": 29,
 	"avatar": "png",
 	"user_name": "Nofish",
@@ -98,6 +98,11 @@
 			"body": "New version 0.5.1: \n - Multi-language support\n - Favicon for sites\n - Added Hungarian translation for Core, Sidebar, ZeroHello, ZeroTalk, ZeroMe as example, please help translate to other languages! :)",
 			"date_added": 1479506291,
 			"meta": "{\"img\":\"900,571,445777666bbbcbcaaa332222dddccd112111444333,012343567724898936A702248846B7CCD4884D67CCD4884D66CCC3945D66\"}"
+		},
+		{
+			"post_id": 1479666435,
+			"body": "Added multi language support to https://zeronet.io/\nPlease submit your translation here:\nhttps://github.com/HelloZeroNet/zeronet.io/tree/master/languages",
+			"date_added": 1479666415
 		}
 	],
 	"post_like": {
@@ -800,6 +805,18 @@
 			"body": "@P2P: The startup error message could help. (or if there is log/error.log)",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479623646",
 			"date_added": 1479638057
+		},
+		{
+			"comment_id": 118,
+			"body": "@P2P: That affected rev1700 and [fixed](https://github.com/HelloZeroNet/ZeroNet/commit/57df94afee269a782ce0944c6b07c445bcbc9efb) in rev1702, but its only broke the restart mechanism, so if you restarted it manually, then it should have worked. \nYou said \"installation of ZeroNet is completely broken\", if you sure about that, then this error is not relevant to that.",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479623646",
+			"date_added": 1479641737
+		},
+		{
+			"comment_id": 119,
+			"body": "@Mkg20001: Thanks, added: https://zeronet.io/de",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479666435",
+			"date_added": 1479667933
 		}
 	],
 	"follow": [

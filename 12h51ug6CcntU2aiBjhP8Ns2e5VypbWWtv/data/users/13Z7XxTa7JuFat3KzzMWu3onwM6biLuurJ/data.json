@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 60,
+	"next_comment_id": 65,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -368,6 +368,36 @@
 			"body": "@Ysc3839: 下载好了么？万恶的墙啊。在虚拟机里开VPN下载。shadowVPN或者VPNGate的openVPN方式在虚拟机外套上个代理。",
 			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479623947",
 			"date_added": 1479638079
+		},
+		{
+			"comment_id": 60,
+			"body": "哪里显示Loading？有没有在同步网站文件啊",
+			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479630596",
+			"date_added": 1479641668
+		},
+		{
+			"comment_id": 61,
+			"body": "weakish ━ Nov 15, 2016 ^1\nMore docs:\n- buildozer seems can automate the entire build process, i.e. downloads and sets up all the prequisites for python-for-android.\n- An alternative approach is install the Kivy launcher (apk), then load ZeroNet on SD card (may still needs some packageing but no need to compile)\n\n有三个链接copy时丢失，原文在评论 http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:9_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ/",
+			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479630596",
+			"date_added": 1479641861
+		},
+		{
+			"comment_id": 62,
+			"body": "@Ysc3839: 这是之前的折腾，不知有么有启发 http://127.0.0.1:43110/gfwtalk.bit/?Topic:2_1DXR2Di8Ks9JijfNycWErpenoxxchrdWBB",
+			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479630596",
+			"date_added": 1479655495
+		},
+		{
+			"comment_id": 63,
+			"body": "@Ysc3839:  GNURoot很多人搞出来了，关键是APK",
+			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479657190",
+			"date_added": 1479658381
+		},
+		{
+			"comment_id": 64,
+			"body": "@Ysc3839: 是不是要把zeronet.py改名为main.py？否则p4a不知道入口。我试过改名，照样正常运行。",
+			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479630596",
+			"date_added": 1479706714
 		}
 	],
 	"flags": {},

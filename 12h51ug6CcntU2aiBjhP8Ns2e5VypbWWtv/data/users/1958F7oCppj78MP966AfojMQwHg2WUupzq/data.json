@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 20,
+	"next_comment_id": 25,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -119,6 +119,36 @@
 			"body": "@Ysc3839: 你是使用了国内大学的 DNS 么？国内的服务器确实可以联通，不知道为什么 Google 以前不解析回来。",
 			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479623947",
 			"date_added": 1479629666
+		},
+		{
+			"comment_id": 20,
+			"body": "@Ysc3839: File -> Settings -> Appearance & Behavior -> System Settings -> HTTP Proxy 可以设置代理，之后如果运行模拟器的话貌似会问你是否给模拟器也使用代理。",
+			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479623947",
+			"date_added": 1479640091
+		},
+		{
+			"comment_id": 21,
+			"body": "@Ysc3839: 我以为你说的是 Android Studio ……所以你是要给 Python for Android 挂代理？",
+			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479623947",
+			"date_added": 1479650925
+		},
+		{
+			"comment_id": 22,
+			"body": "有一台越狱的 iPhone 5S ，可是屏幕挂了……",
+			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479736318",
+			"date_added": 1479741617
+		},
+		{
+			"comment_id": 23,
+			"body": "@Ysc3839: 实际上 iOS 越狱后的 Cydia 有点像是 Android 上的 Xposed ，只不过在 Android 上好像大家更倾向于直接操作。",
+			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479736318",
+			"date_added": 1479750213
+		},
+		{
+			"comment_id": 24,
+			"body": "我更倾向与参照 Google+ 的实现。",
+			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479741216",
+			"date_added": 1479750509
 		}
 	],
 	"flags": {},

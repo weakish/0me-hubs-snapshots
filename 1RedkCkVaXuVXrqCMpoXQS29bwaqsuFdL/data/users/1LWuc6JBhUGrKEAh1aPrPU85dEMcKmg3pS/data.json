@@ -1,6 +1,6 @@
 {
 	"next_post_id": 32,
-	"next_comment_id": 34,
+	"next_comment_id": 37,
 	"next_follow_id": 31,
 	"avatar": "jpg",
 	"user_name": "ZAlex",
@@ -262,7 +262,9 @@
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1478945358": 1478962149,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479022235": 1479025966,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479099939": 1479118560,
-		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310": 1479553771
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310": 1479553771,
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479546563": 1479642759,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479666435": 1479688490
 	},
 	"comment": [
 		{
@@ -450,6 +452,24 @@
 			"body": "@It's a test!: openSUSE != SUSE (Enterprise)",
 			"post_uri": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS_1479291705",
 			"date_added": 1479300987
+		},
+		{
+			"comment_id": 34,
+			"body": "I can download zip file, but can't open D:\nSeems that this archive is damaged. I tried to open it using ark and peazip",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479546563",
+			"date_added": 1479642753
+		},
+		{
+			"comment_id": 35,
+			"body": "@Firebox: Mozilla Firefox 50 (on openSUSE Linux)",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479546563",
+			"date_added": 1479687327
+		},
+		{
+			"comment_id": 36,
+			"body": "@Firebox: Thanks, now it works!",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479546563",
+			"date_added": 1479687973
 		}
 	],
 	"follow": [

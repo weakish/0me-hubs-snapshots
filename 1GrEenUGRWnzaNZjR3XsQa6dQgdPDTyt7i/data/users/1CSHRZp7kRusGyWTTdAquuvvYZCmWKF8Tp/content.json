@@ -5,8 +5,8 @@
  "cert_user_id": "ssl@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "cff2e5f73e9daaebfde706dd1b7bc3b1924e14aada8129b0055c3e37aac6f427",
-   "size": 2688
+   "sha512": "c7b65dce66a7c34d0249cc82d9ff15c67262a028b5f315edd1d7c3b50d088b9e",
+   "size": 3183
   }
  },
  "files_optional": {
@@ -28,9 +28,9 @@
   }
  },
  "inner_path": "data/users/1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp/content.json",
- "modified": 1479554623.017,
+ "modified": 1479651514.325,
  "optional": "(?!avatar).*jpg",
  "signs": {
-  "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp": "HFu7yrTZd9LgiTepWtpBxN+fZTGa48wliId1v0v4AigYWCMPGocvIpxFqpFoFDXMnA++z/DihhD75YILn6b9HCA="
+  "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp": "G9TK3LFmV/Jv1w+MNhb62OMbUt996uInjbvw+JXiNjZbMJX9ubLfRNKdPhDc90JNUONuucrPFS7n/9P83digTDA="
  }
 }

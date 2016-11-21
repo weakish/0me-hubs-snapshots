@@ -5,13 +5,20 @@
  "cert_user_id": "wahaha2003@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "a07f425f2344c2f78f969ada46eac7be927484e3f815f2289490c8e3e808e222",
-   "size": 680
+   "sha512": "c3a68bc54f17fe7d470646d11095d3f8ca3bf2f20cbb32442ef0d269ee6286ca",
+   "size": 1281
+  }
+ },
+ "files_optional": {
+  "1479650612.jpg": {
+   "sha512": "758c82eef27926c4c679849bf3700effdf1231fe75511cc941f98ded34988508",
+   "size": 79682
   }
  },
  "inner_path": "data/users/1Aeq3FeiuDBaUj6CzUoWfk5S2EVqqRnteg/content.json",
- "modified": 1474816370.241,
+ "modified": 1479650609.501,
+ "optional": "(?!avatar).*jpg",
  "signs": {
-  "1Aeq3FeiuDBaUj6CzUoWfk5S2EVqqRnteg": "G2xs/FpW5nDxCudvPXR49Gl+y5BqKVsbGTlBLU1iKzDCwujjWvARUFANew6WNeKSPUe8GtjDUlGLJrX47wfWnGM="
+  "1Aeq3FeiuDBaUj6CzUoWfk5S2EVqqRnteg": "G9LyBxjyYANchzN7O+5fyxNxin+FMKka0BWm9VW5Gr+u1D6hoMWggtvqfxDA+p3+E2jMx72oiN4OR6rGVKyg6J0="
  }
 }

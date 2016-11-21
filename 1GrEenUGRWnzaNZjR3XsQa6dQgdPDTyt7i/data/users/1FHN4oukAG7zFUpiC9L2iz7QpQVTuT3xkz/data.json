@@ -1,6 +1,6 @@
 {
-	"next_post_id": 89,
-	"next_comment_id": 279,
+	"next_post_id": 91,
+	"next_comment_id": 289,
 	"next_follow_id": 58,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
@@ -444,8 +444,18 @@
 		},
 		{
 			"post_id": 1479637562,
-			"body": "\t#读写/dev/cache需要root权限（并不是android的root权限）\n\tuser  root;\n\t#工作进程数，手机常开几个核就写几\n\tworker_processes  4;\n\n\t#错误日志\n\terror_log /home/logs/error.log warn;\n\n\t#指定Nginx进程的PID\n\t#pid logs/nginx.pid;\n\n\t#每个进程的最大连接数\n\tevents {\n\t\tworker_connections  1024;\n\t}\n\n\n\thttp {\n\n\t\t#etag是好东西，可惜不能和gzip一起用\n\t\tetag off;\n\n\t\tinclude       mime.types;\n\t\tdefault_type  application/octet-stream;\n\n\t\tproxy_connect_timeout 10;\n\t\tproxy_read_timeout 120;\n\t\tproxy_send_timeout 10;\n\n\t\tproxy_buffer_size 32k;\n\t\tproxy_buffers 4 64k;\n\t\tproxy_busy_buffers_size 128k;\n\t\tproxy_temp_file_write_size 128k;\n\t\tproxy_temp_path /home/temp_dir;\n\n\t\t#/dev是个内存盘，Gnuroot可以访问，所以就在里面做缓存\n\t\tproxy_cache_path /dev/cache levels=1:2 keys_zone=cache_one:8m inactive=12h max_size=80m;\n\n\t\t#访问日志，debug用\n\t\t#log_format main '\"$upstream_cache_status\" \"$gzip_ratio\"';\n\t\t#access_log  /home/logs/access.log  main;\n\n\t\t#no-push和no-delay互斥，ZeroNet请求不多，开tcp_nodelay就好\n\t\tsendfile on;\n\t\ttcp_nopush off;\n\t\ttcp_nodelay on;\n\n\t\tkeepalive_timeout  60;\n\n\t\t#页面压缩\n\t\tgzip on;\n\t\tgzip_min_length 4k;\n\t\tgzip_buffers 8 32k;\n\t\tgzip_http_version 1.1;\n\t\tgzip_comp_level 2;\n\t\tgzip_types text/plain text/css application/javascript application/x-javascript text/javascript;\n\t\tgzip_vary on;\n\t\tgzip_proxied all;\n\t\tgzip_disable \"MSIE [1-6]\\.\";\n\n\t\tserver {\n\n\t\t#监听端口，在GNURoot中无法打开80端口\n\t\tlisten       2080;\n\t\tserver_name  localhost;\n\n\t\tlocation / {\n\n\t\t\tproxy_pass http://127.0.0.1:43110/;\n\t\t\tproxy_http_version 1.1;\n\n\t\t\tproxy_set_header X-Real-IP $remote_addr;\n\t\t\tproxy_set_header Host $host;\n\t\t\tproxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;\n\t\t\tproxy_set_header Upgrade $http_upgrade;\n\t\t\tproxy_set_header Connection \"upgrade\";\n\n\t\t\tproxy_read_timeout 900s;\n\n\t\t\t#忽略ZeroNet的缓存期限\n\t\t\tproxy_ignore_headers \"Expires\";\n\t\t\tproxy_ignore_headers \"X-Accel-Expires\";\n\t\t\tproxy_ignore_headers \"Cache-Control\";\n\t\t\tproxy_ignore_headers \"Set-Cookie\";\n\n\t\t\t#不向浏览器传送ZeroNet设置的的期限，建议和下面那个一起打开\n\t\t\t#proxy_hide_header \"Expires\";\n\t\t\t#proxy_hide_header \"X-Accel-Expires\";\n\t\t\t#proxy_hide_header \"Cache-Control\";\n\t\t\t#proxy_hide_header \"Set-Cookie\";\n\n\t\t\t#为浏览器的缓存重新设定期限，建议和上面那个一起打开\n\t\t\t#expires 1d;\n\n\t\t\tproxy_cache cache_one;\n\t\t\tproxy_cache_valid 1d;\n\n\t\t\t#返回缓存状态，debug用\n\t\t\t#add_header     Nginx-Cache   \"$upstream_cache_status\";\n\n\t\t\t}\n\n\t\t}\n\n\t}",
+			"body": "\t#读写/dev/cache需要root权限（并不是android的root权限）\n\tuser  root;\n\t#工作进程数，手机常开几个核就写几\n\tworker_processes  4;\n\n\t#错误日志\n\terror_log /home/logs/error.log warn;\n\n\t#指定Nginx进程的PID\n\t#pid logs/nginx.pid;\n\n\t#每个进程的最大连接数\n\tevents {\n\t\tworker_connections  1024;\n\t}\n\n\n\thttp {\n\n\t\t#etag是好东西，可惜不能和gzip一起用\n\t\tetag off;\n\n\t\tinclude       mime.types;\n\t\tdefault_type  application/octet-stream;\n\n\t\tproxy_connect_timeout 10;\n\t\tproxy_read_timeout 120;\n\t\tproxy_send_timeout 10;\n\n\t\tproxy_buffer_size 32k;\n\t\tproxy_buffers 4 64k;\n\t\tproxy_busy_buffers_size 128k;\n\t\tproxy_temp_file_write_size 128k;\n\t\tproxy_temp_path /home/temp_dir;\n\n\t\t#/dev是个内存盘，Gnuroot可以访问，所以就在里面做缓存\n\t\tproxy_cache_path /dev/cache levels=1:2 keys_zone=cache_one:8m inactive=12h max_size=80m;\n\n\t\t#访问日志，debug用\n\t\t#log_format main '\"$upstream_cache_status\" \"$gzip_ratio\"';\n\t\t#access_log  /home/logs/access.log  main;\n\n\t\t#no-push和no-delay互斥，ZeroNet请求不多，开tcp_nodelay就好\n\t\tsendfile on;\n\t\ttcp_nopush off;\n\t\ttcp_nodelay on;\n\n\t\tkeepalive_timeout  60;\n\n\t\t#页面压缩\n\t\tgzip on;\n\t\tgzip_min_length 4k;\n\t\tgzip_buffers 8 32k;\n\t\tgzip_http_version 1.1;\n\t\tgzip_comp_level 2;\n\t\tgzip_types text/plain text/css application/javascript application/x-javascript text/javascript;\n\t\tgzip_vary on;\n\t\tgzip_proxied any;\n\t\tgzip_disable \"MSIE [1-6]\\.\";\n\n\t\tserver {\n\n\t\t#监听端口，在GNURoot中无法打开80端口\n\t\tlisten       2080;\n\t\tserver_name  localhost;\n\n\t\tlocation / {\n\n\t\t\tproxy_pass http://127.0.0.1:43110/;\n\t\t\tproxy_http_version 1.1;\n\n\t\t\tproxy_set_header X-Real-IP $remote_addr;\n\t\t\tproxy_set_header Host $host;\n\t\t\tproxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;\n\t\t\tproxy_set_header Upgrade $http_upgrade;\n\t\t\tproxy_set_header Connection \"upgrade\";\n\n\t\t\tproxy_read_timeout 900s;\n\n\t\t\t#忽略ZeroNet的缓存期限\n\t\t\tproxy_ignore_headers \"Expires\";\n\t\t\tproxy_ignore_headers \"X-Accel-Expires\";\n\t\t\tproxy_ignore_headers \"Cache-Control\";\n\t\t\tproxy_ignore_headers \"Set-Cookie\";\n\n\t\t\t#不向浏览器传送ZeroNet设置的的期限，建议和下面那个一起打开\n\t\t\t#proxy_hide_header \"Expires\";\n\t\t\t#proxy_hide_header \"X-Accel-Expires\";\n\t\t\t#proxy_hide_header \"Cache-Control\";\n\t\t\t#proxy_hide_header \"Set-Cookie\";\n\n\t\t\t#为浏览器的缓存重新设定期限，建议和上面那个一起打开\n\t\t\t#expires 1d;\n\n\t\t\tproxy_cache cache_one;\n\t\t\tproxy_cache_valid 1d;\n\n\t\t\t#返回缓存状态，debug用\n\t\t\t#add_header     Nginx-Cache   \"$upstream_cache_status\";\n\n\t\t\t}\n\n\t\t}\n\n\t}",
 			"date_added": 1479637474
+		},
+		{
+			"post_id": 1479658826,
+			"body": "忽然发现之前的思路才是对的，与其让nginx做缓存，不如把cache-control改掉，让浏览器本地做缓存",
+			"date_added": 1479658737
+		},
+		{
+			"post_id": 1479727382,
+			"body": "经过我的测试，浏览器缓存并没有对ZeroNet站点内容的更新造成任何麻烦，推测作者让缓存很快过期的原因是不想让本地储存重复的文件",
+			"date_added": 1479727292
 		}
 	],
 	"post_like": {
@@ -2122,6 +2132,66 @@
 			"body": "@Lmath: 但其实无论是浏览器的缓存还是nginx的缓存，发现源服务器的东西更新了就会立刻更新",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479543658",
 			"date_added": 1479546552
+		},
+		{
+			"comment_id": 279,
+			"body": "这个东西本身没有太大实用性，毕竟不会有人拿手机搭建公网代理。但是稍微改一下就能作为公网代理的配置，可以大大提升公网代理的体验尤其是Gzip，服务器内存缓存和浏览器缓存控制",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479637562",
+			"date_added": 1479649613
+		},
+		{
+			"comment_id": 280,
+			"body": "@莱文倩: 我现在把zeronet搬到服务器上了",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479658826",
+			"date_added": 1479704443
+		},
+		{
+			"comment_id": 281,
+			"body": "@莱文倩: 放在局域网里面的",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479658826",
+			"date_added": 1479713786
+		},
+		{
+			"comment_id": 282,
+			"body": "@Linkerlin: 有人打包过Nginx，我看打包个python+ZeroNet+chromium也不是问题",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479658826",
+			"date_added": 1479726774
+		},
+		{
+			"comment_id": 283,
+			"body": "@Lmath: 不知道能不能用SSR的混淆方法，伪装成https请求",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1479707834",
+			"date_added": 1479726861
+		},
+		{
+			"comment_id": 284,
+			"body": "@MilitaryRiotLab 你可以把你的nginx设置一下，在location中添加三行：\nproxy_ignore_headers \"Cache-Control\";\nproxy_hide_header \"Cache-Control\";\nexpires max;",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479727382",
+			"date_added": 1479727554
+		},
+		{
+			"comment_id": 285,
+			"body": "@Lmath: 更可气的是，骂绿教比骂共产党更容易被和谐。当权的一点骨气都没有，仅仅因为暴恐死了几个人就向邪教妥协了，殊不知狼是永远喂不饱的。民主党更没骨气，邪教头子沙特花了点钱就收买了。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1479707834",
+			"date_added": 1479727875
+		},
+		{
+			"comment_id": 286,
+			"body": "@Linker: 但对代理十分不友好",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479727382",
+			"date_added": 1479728875
+		},
+		{
+			"comment_id": 287,
+			"body": "@MilitaryRiotLab: 减少流量消耗，提升访问速度",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479727382",
+			"date_added": 1479729063
+		},
+		{
+			"comment_id": 288,
+			"body": "@Linker: 我现在部署在手机上，24小时在线",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479727382",
+			"date_added": 1479743353
 		}
 	],
 	"follow": [
