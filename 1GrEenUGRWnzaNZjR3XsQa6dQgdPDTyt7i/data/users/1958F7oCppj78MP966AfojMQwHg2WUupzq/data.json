@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 218,
+	"next_comment_id": 224,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -1307,6 +1307,42 @@
 			"body": "@Ysc3839: 那你那根本就是局域网吧！目前纯局域网下 ZeroNet 还不默认支持。倒是可以试试 Freenet 的暗网模式。",
 			"post_uri": "1PK7r15RmMdmdnUCYeQEwuydfediNVDtt2_1479746355",
 			"date_added": 1479751358
+		},
+		{
+			"comment_id": 218,
+			"body": "目前只有 ZeroMePlus 可以，但是目前 ZeroMePlus 还没有支持原生发图和多语言。",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479787716",
+			"date_added": 1479787896
+		},
+		{
+			"comment_id": 219,
+			"body": "@Monico: 距离 ZeroMePlus 的创建者 @talnicrom 最后一次活动好像已经有一个月了。",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479787716",
+			"date_added": 1479789985
+		},
+		{
+			"comment_id": 220,
+			"body": "@Monico: 一般没那么闲。",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479788747",
+			"date_added": 1479790041
+		},
+		{
+			"comment_id": 221,
+			"body": "@Cxgreat2014: 理论上 ZeroNet 上也可以做一个这样的站，但是你可以选择不给它做种。",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479788747",
+			"date_added": 1479790097
+		},
+		{
+			"comment_id": 222,
+			"body": "@Monico: 不比 ZeroNet 少，但是非邻居节点必须通过中转来传数据块（为了匿名性，功能上类似于 Tor），还有你这里 Freenet 开了多久？开放端口没？数据存储设置了多少？我在 GFW Talk 已经回你了，建议你看看。另外看看自由网中文站的教程。",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479788747",
+			"date_added": 1479790366
+		},
+		{
+			"comment_id": 223,
+			"body": "@Monico: 那个数据存储填满了才有速度，这也是一个避免被吸血 / DDoS /  发垃圾内容的手段。",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479788747",
+			"date_added": 1479790638
 		}
 	],
 	"flags": {},

@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 24,
+	"next_comment_id": 38,
 	"next_follow_id": 1,
 	"avatar": "jpg",
 	"user_name": "Cxgreat2014",
@@ -162,6 +162,90 @@
 			"body": "@Obatoyou: c的话会死，c++太浪，golang还好，跨平台差评，Java才是最优选择",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
 			"date_added": 1479787147
+		},
+		{
+			"comment_id": 24,
+			"body": "@Obatoyou: hacker本意是在互联网世界的开阔者，黑站的那种叫cracker，白帽找漏洞提交，黑帽为自己获利，匿名是匿名者或者匿名网，维基解密是个网站，完毕。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479787501
+		},
+		{
+			"comment_id": 25,
+			"body": "@莱文倩: java上手还是挺好写的2333",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479787527
+		},
+		{
+			"comment_id": 26,
+			"body": "@P2P 这个方法打包。。感觉并不好。。最好还是搞成原生应用。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479787642
+		},
+		{
+			"comment_id": 27,
+			"body": "@莱文倩: https://wikileaks.org/ 希拉里的邮件门：https://wikileaks.org/clinton-emails/",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479787784
+		},
+		{
+			"comment_id": 28,
+			"body": "@莱文倩: 或许可以换点花样来搞这个，譬如说把这个zeronet前后端分离，然后在android的app/data目录里释放python和环境依赖，然后后台跑zeronet，前端调用webview？",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479787917
+		},
+		{
+			"comment_id": 29,
+			"body": "@莱文倩: p2p搞的这个应用是在后台运行，然后切换到浏览器浏览，对于小内存机器分分钟后台被杀掉",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479788107
+		},
+		{
+			"comment_id": 30,
+			"body": "@莱文倩: 而且python在手机上实在是表现不佳，原生python跑起来更是费电，更不用说chroot了，又大又浪费。。真正又快又好又小只有用c、c++、Java或者其他语言重写编译，python作为一个脚本语言直接在手机上跑真的不合适",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479788239
+		},
+		{
+			"comment_id": 31,
+			"body": "@莱文倩: 现在正在看有没有手机版pypy，或者用其他语言实现的py再编译一下，这样工作量就小多了",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479788482
+		},
+		{
+			"comment_id": 32,
+			"body": "@莱文倩: pypy有树莓派的，不知道手机跑得起来不",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479788650
+		},
+		{
+			"comment_id": 33,
+			"body": "@莱文倩: 虽然pypy速度是最快的，但是刚刚找到python的java实现：Jython，要不一起看下？http://www.jython.org/",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479788920
+		},
+		{
+			"comment_id": 34,
+			"body": "@莱文倩: `java -jar jython.jar script.py`2333，这启动方式好简单，估计有戏",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479789057
+		},
+		{
+			"comment_id": 35,
+			"body": "@P2P: =_=.......重写吧。。。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479789354
+		},
+		{
+			"comment_id": 36,
+			"body": "@P2P: 毕竟手机平台，还得考虑耗电量以及后台进程会被kill的问题",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479789382
+		},
+		{
+			"comment_id": 37,
+			"body": "@莱文倩: [@陈萌萌](https://www.zhihu.com/people/jjmoe)擅长C++（逃",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479789455
 		}
 	],
 	"follow": [],
