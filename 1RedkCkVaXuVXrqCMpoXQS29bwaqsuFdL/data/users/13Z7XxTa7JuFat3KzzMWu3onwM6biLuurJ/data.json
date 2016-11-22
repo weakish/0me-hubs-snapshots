@@ -1,6 +1,6 @@
 {
 	"next_post_id": 42,
-	"next_comment_id": 193,
+	"next_comment_id": 198,
 	"next_follow_id": 161,
 	"avatar": "jpg",
 	"user_name": "P2P",
@@ -1415,6 +1415,36 @@
 			"body": "@Cxgreat2014: 你先看看这楼ysc3839说的吧，否则重复劳动了。",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
 			"date_added": 1479789165
+		},
+		{
+			"comment_id": 193,
+			"body": "@Cxgreat2014: 我在手机上跑并不感觉慢，甚至有惊艳的感觉。耗电的话可以优化，比如减小更新频率、利用休眠等等。用 Java 重写的坏处lmath已经说了，最重要的是谁来写？遥遥无期。现在经过我的折腾，起码是看得到希望的。希望大家来参与。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479792992
+		},
+		{
+			"comment_id": 194,
+			"body": "@莱文倩: 现在非手机的android设备越来越多，比如智能电视、机顶盒，哪怕像猫X那样用旧手机24h插电跑，都可以当节点。有方便安装的APK，很有意义的。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479793329
+		},
+		{
+			"comment_id": 195,
+			"body": "@Nekocross: 你看我写的`requirements = sqlite3,kivy,gevent,msgpack-python,openssl,pil,hostpython2`，当然有msgpack",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479793411
+		},
+		{
+			"comment_id": 196,
+			"body": "@莱文倩: 物尽其用",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479793488
+		},
+		{
+			"comment_id": 197,
+			"body": "@Ysc3839: Python的可执行文件应该是已经编译出了，我都能看zeroblog和zerotalk了。就是gevent在旧工具链里版本太老",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479793711
 		}
 	],
 	"follow": [

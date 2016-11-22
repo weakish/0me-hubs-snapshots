@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 224,
+	"next_comment_id": 235,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -1316,7 +1316,7 @@
 		},
 		{
 			"comment_id": 219,
-			"body": "@Monico: 距离 ZeroMePlus 的创建者 @talnicrom 最后一次活动好像已经有一个月了。",
+			"body": "@Monico: 距离 ZeroMePlus 的创建者 @talnicrom 最后一次活动好像已经有一个月了。我不知道他为什么不给原 ZeroMe 发 Pull Request 而是选择了自己 fork 了一个分支，这样大大加大了维护难度。",
 			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479787716",
 			"date_added": 1479789985
 		},
@@ -1340,9 +1340,75 @@
 		},
 		{
 			"comment_id": 223,
-			"body": "@Monico: 那个数据存储填满了才有速度，这也是一个避免被吸血 / DDoS /  发垃圾内容的手段。",
+			"body": "@Monico: 那个数据存储填满了才有速度，这也是一个避免被吸血 / DDoS /  发垃圾内容的手段。Freenet 的特点是你不太容易知道你的数据存储里存了什么也无法选择给什么内容做种，之所以这么做是因为对反审查有好处。",
 			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479788747",
 			"date_added": 1479790638
+		},
+		{
+			"comment_id": 224,
+			"body": "@Monico: 因为 Freenet 比 ZeroNet 更去中心化，连你自己都不能删除自己插入的内容，而 ZeroNet 的发布者和站点的拥有者是可以删改内容的，所以一定要采取一定的措施来防止出现大量的垃圾内容，一个方法就是提高入门门槛（你只有对网络做出了贡献，才能进行一定程度的破坏）。",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479788747",
+			"date_added": 1479791880
+		},
+		{
+			"comment_id": 225,
+			"body": "并不是冗余的，使用范围有差别，但是部分含义重叠。",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1479791940",
+			"date_added": 1479791947
+		},
+		{
+			"comment_id": 226,
+			"body": "@莱文倩: PHP 这么多功能相似的函数/类/库还不是不影响成为世界上最好的语言？",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1479791940",
+			"date_added": 1479792222
+		},
+		{
+			"comment_id": 227,
+			"body": "@莱文倩: 天秤座表示不在乎，但是讨厌一个很简单的函数就能实现的东西非要封装成一个类，然后再创建成一个对象后调用里面的方法。",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1479791940",
+			"date_added": 1479792530
+		},
+		{
+			"comment_id": 228,
+			"body": "@莱文倩: 主要是一次编译成字节码在没有冗余代码的情况下降低了复杂度，对性能有好处。",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1479791940",
+			"date_added": 1479792888
+		},
+		{
+			"comment_id": 229,
+			"body": "有蜘蛛抓取 Freenet 页面的，所以你可以去：http://localhost:8888/freenet:USK@yET8IzHqEXMLhzIJuIl1aO7aXx0tPEzh4JldQXx5las,xc1XLpeP9QiE1br5En~HcfwraeugGEwEc5TBKTjkjgE,AQACAAE/YAFI/58/ 等抓取的页面列表看看，另外还可以下个 Frost-Next 接收一些消息。",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479792859",
+			"date_added": 1479793019
+		},
+		{
+			"comment_id": 230,
+			"body": "出现在 ZeroHello 的列表里，博客内显示的标题是在博客头像下面标题处鼠标移上去会有修改按钮的。",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479792989",
+			"date_added": 1479793050
+		},
+		{
+			"comment_id": 231,
+			"body": "@Ysc3839: 你不是说除了学校网站都阻止么，根据我的理解就是连百度什么的也一起阻止了啊！",
+			"post_uri": "1PK7r15RmMdmdnUCYeQEwuydfediNVDtt2_1479746355",
+			"date_added": 1479793196
+		},
+		{
+			"comment_id": 232,
+			"body": "@Monico: 你需要启用 WebOfTrust 插件，并把你介绍给一些用户（方法是填写一些丧心病狂的验证码）。",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479792859",
+			"date_added": 1479793384
+		},
+		{
+			"comment_id": 233,
+			"body": "@Ysc3839: 貌似她说是韩国人。",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1479791940",
+			"date_added": 1479793424
+		},
+		{
+			"comment_id": 234,
+			"body": "@Monico: 没什么人访问的内容会被自动淘汰出 Freenet ，你可以让原作者重新插入，还有一个原因是你连接的节点数不够，这时候文件块不能在生命周期内的节点中被找到。",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479792859",
+			"date_added": 1479793660
 		}
 	],
 	"flags": {},

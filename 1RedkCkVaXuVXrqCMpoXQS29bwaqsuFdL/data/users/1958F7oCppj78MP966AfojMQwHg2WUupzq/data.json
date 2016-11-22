@@ -1,6 +1,6 @@
 {
 	"next_post_id": 25,
-	"next_comment_id": 85,
+	"next_comment_id": 87,
 	"next_follow_id": 163,
 	"avatar": "png",
 	"user_name": "Lmath",
@@ -638,6 +638,12 @@
 			"body": "@Obatoyou: http://www.moa.gov.cn/zwllm/zwdt/201604/t20160413_5093642.htm",
 			"post_uri": "1A5FxtwybRdveKnBCj4zyDoyJwA1ddVT4L_1479784275",
 			"date_added": 1479788511
+		},
+		{
+			"comment_id": 85,
+			"body": "@Cxgreat2014: 用 Java 重写一遍的坏处是以后一直要维护两个版本，开发成本就高了。而且编程随想认为 Java 近年爆出的高危漏洞过多，@P2P 也支持这种观点。我更支持搞成打包 Python 的解释器与相关依赖然后拉取 GitHub 上的文件的方法，因为可以与 master 保持更新，然后做界面做一个控制台，能开关和控制一些比如随机启动的配置（类似于 Windows 平台的 Trayicon 的功能）就行。关于你说的后台在小内存机子上容易被杀的问题，其实只要在通知栏显示一条不可清除的通知，应用就不容易被杀。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479791107
 		}
 	],
 	"follow": [

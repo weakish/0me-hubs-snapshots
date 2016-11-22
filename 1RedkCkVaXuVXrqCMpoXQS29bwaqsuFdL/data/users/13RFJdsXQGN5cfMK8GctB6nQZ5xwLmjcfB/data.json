@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 24,
+	"next_comment_id": 28,
 	"user_name": "Ysc3839",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -160,6 +160,30 @@
 			"body": "@P2P: 刚才看了python for android，是把python编译成动态库加载的",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
 			"date_added": 1479751055
+		},
+		{
+			"comment_id": 24,
+			"body": "@P2P: 依赖什么的应该不麻烦吧，能编译出Python的可执行文件就好办",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479793578
+		},
+		{
+			"comment_id": 25,
+			"body": "@Cxgreat2014: pypy不是Python写的吗？那还要Python解释器啊",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479793696
+		},
+		{
+			"comment_id": 26,
+			"body": "@Cxgreat2014: 前面我都说了，Jython是编译成JVM代码的，需要Java SE环境，根本不能在手机上运行（手机上没有Java SE）",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479793788
+		},
+		{
+			"comment_id": 27,
+			"body": "@P2P: 我更倾向于编译Python可执行文件然后运行，python for android是把Python编译成动态库(.so)加载到主进程里运行的，总感觉有些不好。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479794011
 		}
 	],
 	"flags": {},
