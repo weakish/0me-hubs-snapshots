@@ -1,6 +1,6 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 1,
+	"next_comment_id": 3,
 	"next_follow_id": 8,
 	"avatar": "generate",
 	"user_name": "ACG之神",
@@ -19,7 +19,20 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Obatoyou: 哇喔，你是怎么看到我的，我認為我會被淹沒在數據海洋里呢，這說明現在人還很少呢，你是在新用戶>所有用戶里看到我的嗎？",
+			"post_uri": "1NjeMbighrRwsSxmxi16xiurykccHnxtz_1479781713",
+			"date_added": 1479783893
+		},
+		{
+			"comment_id": 2,
+			"body": "@Obatoyou: 咦？在你那裡顯示是hello嗎？（我這邊顯示的是 你好ZeroMe）",
+			"post_uri": "1NjeMbighrRwsSxmxi16xiurykccHnxtz_1479781713",
+			"date_added": 1479785377
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 1,
@@ -55,13 +68,6 @@
 			"auth_address": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS",
 			"user_name": "Jabasukuriputo Wang",
 			"date_added": 1479748188
-		},
-		{
-			"follow_id": 6,
-			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
-			"auth_address": "16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T",
-			"user_name": "妖姬",
-			"date_added": 1479748225
 		},
 		{
 			"follow_id": 7,
