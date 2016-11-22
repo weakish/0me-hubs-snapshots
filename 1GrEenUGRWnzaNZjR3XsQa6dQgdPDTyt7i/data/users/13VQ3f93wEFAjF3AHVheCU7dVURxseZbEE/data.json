@@ -1,7 +1,7 @@
 {
-	"next_post_id": 8,
+	"next_post_id": 9,
 	"next_comment_id": 27,
-	"next_follow_id": 26,
+	"next_follow_id": 27,
 	"avatar": "jpg",
 	"user_name": "gfwbot79",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -36,6 +36,11 @@
 			"post_id": 1479307625,
 			"body": "在ZeroMe体验到文化、语言的割裂感。\n简单来说就是，我懒得去关注不说中文的用户，因为阅读英语比较费脑¯﹃¯",
 			"date_added": 1479307618
+		},
+		{
+			"post_id": 1479802825,
+			"body": "尝试着使用fish然而几乎一切东西都依赖bash（的语法、$env）……哭",
+			"date_added": 1479802817
 		}
 	],
 	"post_like": {},
@@ -365,6 +370,13 @@
 			"auth_address": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB",
 			"user_name": "Ysc3839",
 			"date_added": 1479362951
+		},
+		{
+			"follow_id": 26,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "144GQ5Uz9dYQJ1MwjSFWWboLgHwdGpv21x",
+			"user_name": "Mzero",
+			"date_added": 1479801883
 		}
 	]
 }

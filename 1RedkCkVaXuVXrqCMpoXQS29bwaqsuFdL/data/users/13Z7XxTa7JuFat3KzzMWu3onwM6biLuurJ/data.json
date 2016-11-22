@@ -1,6 +1,6 @@
 {
 	"next_post_id": 42,
-	"next_comment_id": 199,
+	"next_comment_id": 200,
 	"next_follow_id": 162,
 	"avatar": "jpg",
 	"user_name": "P2P",
@@ -261,7 +261,8 @@
 		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1479539996": 1479550892,
 		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1479563994": 1479567867,
 		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1479642010": 1479645286,
-		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479666435": 1479710707
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479666435": 1479710707,
+		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084": 1479803852
 	},
 	"comment": [
 		{
@@ -1451,6 +1452,12 @@
 			"body": "@Ysc3839: 你确定android上能够直接运行非java的可执行文件？感觉你把android看得太普通了，看成普通linux发行版。",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
 			"date_added": 1479795993
+		},
+		{
+			"comment_id": 199,
+			"body": "@Lmath: 我用的方法就是google官方的NDK编译的啊，运行非JAVA代码的正确姿势。The Android NDK is a toolset that lets you implement parts of your app using native-code languages such as C and C++. For certain types of apps, this can help you reuse code libraries written in those languages. NDK may improve application performance. This is usually true for many processor-bound applications. Many multimedia applications and video games use native code for processor-intensive tasks. ",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479802071
 		}
 	],
 	"follow": [
