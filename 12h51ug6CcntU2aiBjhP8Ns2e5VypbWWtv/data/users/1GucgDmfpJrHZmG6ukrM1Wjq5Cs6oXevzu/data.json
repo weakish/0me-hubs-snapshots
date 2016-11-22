@@ -1,21 +1,21 @@
 {
-	"next_post_id": 8,
+	"next_post_id": 9,
 	"next_comment_id": 2,
-	"next_follow_id": 24,
+	"next_follow_id": 25,
 	"avatar": "png",
 	"user_name": "Xeers",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"intro": "#",
 	"post": [
 		{
-			"post_id": 1479383585,
-			"body": "Zeronet 0.5.0 rev1714 Zerome no trabaja correctamente, no me aparece la lista de a los que sigo, me desaparece la imagen, se lía con los distintos hubs... Sólo utilizo la ID oficial y he probado a borrar los hubs y quedarme sólo con uno pero luego vuelven a reaparecer",
-			"date_added": 1479383580
-		},
-		{
 			"post_id": 1479667011,
 			"body": "http://www.mirrorcreator.com/files/1N1T2LSS/es.json_links\nes.json Spanish (Spain) ZeroBundle-win\\ZeroBundle\\ZeroNet\\data\\1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D\\languages",
 			"date_added": 1479667004
+		},
+		{
+			"post_id": 1479816021,
+			"body": "¿Veremos alguna vez Zeronet traducido completamente al español?...",
+			"date_added": 1479816013
 		}
 	],
 	"post_like": {},
@@ -167,6 +167,22 @@
 			"auth_address": "1GucgDmfpJrHZmG6ukrM1Wjq5Cs6oXevzu",
 			"user_name": "Xeers",
 			"date_added": 1479755352
+		},
+		{
+			"follow_id": 24,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1GucgDmfpJrHZmG6ukrM1Wjq5Cs6oXevzu",
+			"user_name": "Xeers",
+			"date_added": 1479813097
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }
