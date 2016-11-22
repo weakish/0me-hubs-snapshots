@@ -1,7 +1,7 @@
 {
 	"next_post_id": 26,
-	"next_comment_id": 91,
-	"next_follow_id": 164,
+	"next_comment_id": 94,
+	"next_follow_id": 165,
 	"avatar": "png",
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -674,6 +674,24 @@
 			"body": "@P2P: Android 是可以运行非 Java 的可执行程序的，但是 Android 连 glibc 等非常基本的库都没有，所以要么你想办法剥离依赖，要么把依赖编译到可执行程序中，要么改成 Android 里的依赖。当然还有额外的困难，比如说 Android 没有带 systemd 这样的服务管理和 xorg 这样的图形化界面，非要搬过来就是可以的，就像 GNURoot 一样的方案。",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
 			"date_added": 1479800875
+		},
+		{
+			"comment_id": 91,
+			"body": "@P2P: 目前没在他的页面上看到，虽然在 JavaScript 文件里面扒编译后的文件难度也不是很大。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1479811989",
+			"date_added": 1479823591
+		},
+		{
+			"comment_id": 92,
+			"body": "然而 ZeroNet 里依然是我的站点我做主的模式。",
+			"post_uri": "144GQ5Uz9dYQJ1MwjSFWWboLgHwdGpv21x_1479824830",
+			"date_added": 1479825358
+		},
+		{
+			"comment_id": 93,
+			"body": "@weakish: 相比台湾正体，香港繁体的差异较小而不是没有。\n参见：https://zh.wikipedia.org/wiki/%E6%A8%A1%E5%9D%97:CGroup/IT",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479557296",
+			"date_added": 1479825613
 		}
 	],
 	"follow": [
@@ -1803,6 +1821,13 @@
 			"auth_address": "1HNrC2FtMufABF5zctJ9SLgqnz8bvqmPdG",
 			"user_name": "圣隐",
 			"date_added": 1479805702
+		},
+		{
+			"follow_id": 164,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1L2FnXBU5fhVATcwtJLvX2ZhsZSGDSqJcn",
+			"user_name": "Codegeass",
+			"date_added": 1479825222
 		}
 	],
 	"settings": {

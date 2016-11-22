@@ -9,60 +9,14 @@
    "size": 1998
   },
   "data.json": {
-   "sha512": "a627a678353c7088676178cfa2fb0c5950af4c1d69fed4e1fa7285ea8a0e93fe",
-   "size": 106252
-  }
- },
- "files_optional": {
-  "1478616070.jpg": {
-   "sha512": "385fad56ab77692ddaa07dce08794692906c75d90b56a692255ac2e8d3061c3d",
-   "size": 38129
-  },
-  "1478619250.jpg": {
-   "sha512": "b336c3c6affae9d75e5650a45c050125971d5b69e6a0d5de3ca1411b53a3cf5d",
-   "size": 23047
-  },
-  "1478620217.jpg": {
-   "sha512": "92c21aeebf144fd89503b78f13a1047abbfe15ddc1c5d40d5335c48a9be6acfd",
-   "size": 1524
-  },
-  "1478620259.jpg": {
-   "sha512": "92c21aeebf144fd89503b78f13a1047abbfe15ddc1c5d40d5335c48a9be6acfd",
-   "size": 1524
-  },
-  "1478696456.jpg": {
-   "sha512": "bf6256e1a0182e2971af640166f73b94dc37d0aca3891e82edcc2d8e95fc12c2",
-   "size": 37352
-  },
-  "1478963469.jpg": {
-   "sha512": "9395d6616207989cd00a92bf6bdf4b75af3c4f7ffb3a1ab77ac0f4d64e0a8ac5",
-   "size": 24857
-  },
-  "1478975956.jpg": {
-   "sha512": "07b68f35942d9017363705373d31208df76a697815852d8dd3a6c456df4a924d",
-   "size": 64819
-  },
-  "1479019003.jpg": {
-   "sha512": "a58a3444823e2f90ca48443c76e5c984b4106697492ec3866aec3a4f7797513b",
-   "size": 41105
-  },
-  "1479139015.jpg": {
-   "sha512": "17fef677d6579c44479807194c92af31d5dbda94e5ab5033ed63d6504f429e54",
-   "size": 106247
-  },
-  "1479176777.jpg": {
-   "sha512": "95a2c2bfdf3fad8b94f2ea0046f555df39c4a53524cef73d630160f88ff18553",
-   "size": 34254
-  },
-  "1479375530.jpg": {
-   "sha512": "b0c4d72f8c259650587df814820dd05c9dc5e11fd927c7bf2e8317c20594dcbf",
-   "size": 51900
+   "sha512": "0c62a9ee2b426d6022f1bbe80d8fb44de14e0c5aad6b60aed55e12d9a24f89d5",
+   "size": 106619
   }
  },
  "inner_path": "data/users/1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz/content.json",
- "modified": 1479819422.50913,
+ "modified": 1479826118.739465,
  "optional": "(?!avatar).*jpg",
  "signs": {
-  "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz": "G5dl0AVM10qbXqvSUh5COHQhSsQ4hRzS56Lvtqy+77JJRlW4/On4XOaxPg4XLhze2kH/yQHQAhYD92bpSDVicE0="
+  "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz": "G+6m/m2MulNxYbPT4O0g415ZmtNvJ0WzPlcnHfYPgNRnND1rDo1tBcrxZJdxLi8LuyhGVK7GtXFHN2HMaxTw62M="
  }
 }
