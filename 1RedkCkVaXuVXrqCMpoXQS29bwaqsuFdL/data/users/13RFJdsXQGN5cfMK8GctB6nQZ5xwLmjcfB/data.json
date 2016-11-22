@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 28,
+	"next_comment_id": 30,
 	"user_name": "Ysc3839",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -184,6 +184,18 @@
 			"body": "@P2P: 我更倾向于编译Python可执行文件然后运行，python for android是把Python编译成动态库(.so)加载到主进程里运行的，总感觉有些不好。",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
 			"date_added": 1479794011
+		},
+		{
+			"comment_id": 28,
+			"body": "@P2P: 为什么不行？前面说的PocketMine-MP就是这样的，终端也是直接运行shell的。如果不能运行，那干嘛要NDK?",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479807292
+		},
+		{
+			"comment_id": 29,
+			"body": "有能力的人可以看看 `cross-compiling android` `cross-compiling python android`",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479808184
 		}
 	],
 	"flags": {},

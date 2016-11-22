@@ -1,6 +1,6 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 3,
+	"next_comment_id": 4,
 	"next_follow_id": 122,
 	"avatar": "png",
 	"user_name": "Hexagon",
@@ -34,7 +34,9 @@
 		"16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1478825110": 1478867618,
 		"1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1479234531": 1479289122,
 		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1479372521": 1479374193,
-		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1479459131": 1479468336
+		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1479459131": 1479468336,
+		"1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1479767998": 1479807918,
+		"18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6_1479763585": 1479807961
 	},
 	"comment": [
 		{
@@ -48,6 +50,12 @@
 			"body": "don't use it yet, they're working on the v2 algo, as the first implementation is \"not random enough\"",
 			"post_uri": "1AxLMGKjSdsL3Sxa2x1WHJmoap3Z93YdCm_1479480767",
 			"date_added": 1479482950
+		},
+		{
+			"comment_id": 3,
+			"body": "try out masterpassword :) https://ssl.masterpasswordapp.com/",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1479767998",
+			"date_added": 1479807946
 		}
 	],
 	"follow": [
