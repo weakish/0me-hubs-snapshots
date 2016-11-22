@@ -1,7 +1,7 @@
 {
 	"next_post_id": 89,
-	"next_comment_id": 140,
-	"next_follow_id": 220,
+	"next_comment_id": 141,
+	"next_follow_id": 221,
 	"avatar": "jpg",
 	"user_name": "ks",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -1244,6 +1244,12 @@
 			"body": "@Dergatt: darn!",
 			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1479568693",
 			"date_added": 1479591449
+		},
+		{
+			"comment_id": 140,
+			"body": "@Hexagon: I would rather go for [pass](https://www.passwordstore.org/). It can encrypt free-form files with your GPG key.",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1479767998",
+			"date_added": 1479809166
 		}
 	],
 	"follow": [
@@ -2695,6 +2701,13 @@
 			"auth_address": "152kdpXWPevMLNm7755GKuzQPsu71bs13t",
 			"user_name": "Great Sick",
 			"date_added": 1479591385
+		},
+		{
+			"follow_id": 220,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "19SMDgYNqtZfSS3XSAWceB6S6JDtHA5c2B",
+			"user_name": "Xiemx",
+			"date_added": 1479812366
 		}
 	]
 }

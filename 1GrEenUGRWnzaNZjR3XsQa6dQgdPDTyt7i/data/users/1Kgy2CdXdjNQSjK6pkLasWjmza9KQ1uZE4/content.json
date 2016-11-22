@@ -9,14 +9,20 @@
    "size": 1561
   },
   "data.json": {
-   "sha512": "52b499b4af2634ee61c257ff8fca5b0343e1ab6a9867911db678e31b2ddc8cb1",
-   "size": 3195
+   "sha512": "d34079cac3639cf0539e74a690d05224ec8ea6e767d4a5a9a63c9b043afc9188",
+   "size": 3550
+  }
+ },
+ "files_optional": {
+  "1479812320.jpg": {
+   "sha512": "99d3a78e604db2349d6be0257a29b744caafc1c41d5ada5af221fa94277788a1",
+   "size": 56172
   }
  },
  "inner_path": "data/users/1Kgy2CdXdjNQSjK6pkLasWjmza9KQ1uZE4/content.json",
- "modified": 1479647536.643863,
+ "modified": 1479812312.660257,
  "optional": "(?!avatar).*jpg",
  "signs": {
-  "1Kgy2CdXdjNQSjK6pkLasWjmza9KQ1uZE4": "HEDqf8lleumoTH2VyefXCLKgR95wr0IO2jme48pYv2lQ3lvdkgekgUOoHR1OnN9pFtHFaZAVuMKHj4cDU5MxSj8="
+  "1Kgy2CdXdjNQSjK6pkLasWjmza9KQ1uZE4": "HNLYHOX656pMB0Jrm9nmN/u/iyD3vr9Sl+klWDaGX1YkLrAJxIS56KT88NafYIjJ4deHkdVEV2HlNzx8PWqIWlE="
  }
 }
