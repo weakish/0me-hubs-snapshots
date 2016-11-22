@@ -1,6 +1,6 @@
 {
 	"next_post_id": 42,
-	"next_comment_id": 191,
+	"next_comment_id": 192,
 	"next_follow_id": 161,
 	"avatar": "jpg",
 	"user_name": "P2P",
@@ -1403,6 +1403,12 @@
 			"body": "@Ysc3839: 据说GNURoot下的不能在原生下运行 。",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
 			"date_added": 1479749040
+		},
+		{
+			"comment_id": 191,
+			"body": "@Ysc3839: 有其他方法吗？主要是zeronet依赖gevent等，android上简单的python环境无法运行，否则老早搞定了。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479777056
 		}
 	],
 	"follow": [
