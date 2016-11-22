@@ -1,0 +1,28 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 2,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "Wolfshirt",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1479845244,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {
+		"1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1479834184": 1479845267
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Wow! Rem!",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1479834184",
+			"date_added": 1479845274
+		}
+	],
+	"follow": []
+}
