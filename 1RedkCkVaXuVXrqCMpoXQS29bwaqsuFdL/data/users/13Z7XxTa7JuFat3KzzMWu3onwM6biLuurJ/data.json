@@ -1,7 +1,7 @@
 {
 	"next_post_id": 42,
-	"next_comment_id": 198,
-	"next_follow_id": 161,
+	"next_comment_id": 199,
+	"next_follow_id": 162,
 	"avatar": "jpg",
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -1445,6 +1445,12 @@
 			"body": "@Ysc3839: Python的可执行文件应该是已经编译出了，我都能看zeroblog和zerotalk了。就是gevent在旧工具链里版本太老",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
 			"date_added": 1479793711
+		},
+		{
+			"comment_id": 198,
+			"body": "@Ysc3839: 你确定android上能够直接运行非java的可执行文件？感觉你把android看得太普通了，看成普通linux发行版。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479795993
 		}
 	],
 	"follow": [
@@ -2525,6 +2531,13 @@
 			"auth_address": "1FzCyv6ibgoShdXjQu7CCLiNTWhWhj5E6J",
 			"user_name": "Mbp374",
 			"date_added": 1479744776
+		},
+		{
+			"follow_id": 161,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "16ZWh2oAkJ5zjt9mBvJvKjsftMWapuukta",
+			"user_name": "Qiandu",
+			"date_added": 1479796695
 		}
 	],
 	"settings": {
