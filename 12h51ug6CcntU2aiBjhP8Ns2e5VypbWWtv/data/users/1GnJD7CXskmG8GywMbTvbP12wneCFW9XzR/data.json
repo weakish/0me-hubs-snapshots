@@ -1,7 +1,7 @@
 {
-	"next_post_id": 57,
+	"next_post_id": 58,
 	"next_comment_id": 36,
-	"next_follow_id": 176,
+	"next_follow_id": 182,
 	"avatar": "png",
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -286,6 +286,11 @@
 			"post_id": 1479830257,
 			"body": "[Watch Trump's Pick to Run the CIA Call Edward Snowden a 'Traitor' Who Should Be 'Given a Death Sentence'](https://reason.com/blog/2016/11/18/watch-trumps-reported-pick-to-run-the-ci).\n\nI said before the election result came out that Trump is evil. \"Make America great again!\" This sounds like what Beijing announced  in 2012: \"The Chinese Dream is the great rejuvenation of the Chinese nation.\"\n\nBradley Manning is aleray in prison. Assange hides in Ecuadorian Embassy, and Snowden has been kept in Russia for 3 years.\nMake America great again so the great U.S. government could brought back Assange and Snowden and given them due process?\n\nI bet the greatest archivement of Trump would be what he had done before elected as U.S. President: stopping Hillary.",
 			"date_added": 1479830201
+		},
+		{
+			"post_id": 1479900321,
+			"body": "Flaws of TypeScript's type system:\n\n- functions with fewer parameters are assignable to functions that take more parameters,\n- non-void functions are assignable to void functions,\n- all types are assignable to empty interfaces, and\n- TypeScript cannot infer expected type with unused parameter in generics.\n",
+			"date_added": 1479900264
 		}
 	],
 	"post_like": {
@@ -1698,6 +1703,48 @@
 			"auth_address": "1FzCyv6ibgoShdXjQu7CCLiNTWhWhj5E6J",
 			"user_name": "Mbp374",
 			"date_added": 1479897817
+		},
+		{
+			"follow_id": 176,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1GgXbWMo4NkVQNKbLJFvEephA9rPLp9j2P",
+			"user_name": "Grahf",
+			"date_added": 1479900643
+		},
+		{
+			"follow_id": 177,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp",
+			"user_name": "Monico",
+			"date_added": 1479901604
+		},
+		{
+			"follow_id": 178,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1L2FnXBU5fhVATcwtJLvX2ZhsZSGDSqJcn",
+			"user_name": "Codegeass",
+			"date_added": 1479901756
+		},
+		{
+			"follow_id": 179,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE",
+			"user_name": "gfwbot79",
+			"date_added": 1479901935
+		},
+		{
+			"follow_id": 180,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB",
+			"user_name": "Ysc3839",
+			"date_added": 1479902346
+		},
+		{
+			"follow_id": 181,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS",
+			"user_name": "Jabasukuriputo Wang",
+			"date_added": 1479902359
 		}
 	]
 }
