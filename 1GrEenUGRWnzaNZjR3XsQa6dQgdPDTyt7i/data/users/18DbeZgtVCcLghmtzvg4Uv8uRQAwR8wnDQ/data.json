@@ -1,5 +1,5 @@
 {
-	"next_post_id": 12,
+	"next_post_id": 13,
 	"next_comment_id": 29,
 	"next_follow_id": 13,
 	"avatar": "jpg",
@@ -31,6 +31,12 @@
 			"post_id": 1479291232,
 			"body": "Money Network http://127.0.0.1:43110/1JeHa67QEvrrFpsSow82fLypw8LoRcmCXk/\n\nPrivate encrypted chat with images should be working now. \nAlmost all data in localStorage, minimal data on ZeroNet and using 1024 bit RSA for client to client communication.\nI don't like the concept with central user ID in a decentral network so are using anonymous ZeroNet certificates.  \nGuest log in can be used for test. ",
 			"date_added": 1479291221
+		},
+		{
+			"post_id": 1479926591,
+			"body": "http://127.0.0.1:43110/1JeHa67QEvrrFpsSow82fLypw8LoRcmCXk\n\nStill long to go before I am done with Money Network, but private chat function including group chat can be used now. Pic with a 3 person chat group. Me and two guest accounts.",
+			"date_added": 1479926579,
+			"meta": "{\"img\":\"900,515,eeedeeeedeefedbeddeccddefffedcecba9ebbedddbcfcde,00111100020330440356007722089A00BC380DDD01CE08035601FF78089A\"}"
 		}
 	],
 	"post_like": {
