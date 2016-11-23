@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 263,
+	"next_comment_id": 264,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -1579,6 +1579,12 @@
 			"body": "@Rainlime: 可是，我并不喜欢伪娘啊！",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1479875768",
 			"date_added": 1479884525
+		},
+		{
+			"comment_id": 263,
+			"body": "@莱文倩: 不明白你说的安全是什么，节点之间的通讯是加密的，Tor 只是保护你的节点的真实 IP 不会泄露出去，如果你的 Tor 不通的情况下 15441 端口不开那么只能你主动连过来，对网络分发依然有贡献但是可连接性变差了，如果你开启了 Tor Always 那么端口会关闭但是可以通过 Hidden Service 连到你，所以依然有。",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1479874059",
+			"date_added": 1479890171
 		}
 	],
 	"flags": {},
