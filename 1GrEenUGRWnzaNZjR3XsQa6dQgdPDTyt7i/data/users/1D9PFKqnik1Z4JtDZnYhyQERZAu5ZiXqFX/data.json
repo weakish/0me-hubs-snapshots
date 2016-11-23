@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_comment_id": 3,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Frog",
@@ -14,6 +14,19 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "反的是审查(anti-cencorship)，目的是自由",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1479784634",
+			"date_added": 1479912289
+		},
+		{
+			"comment_id": 2,
+			"body": "现在的网络，用户在网上的信息是集中在几个大公司手里，是一种委托关系，存在隐私，安全等风险，也存在被利用的可能，p2p的好处在于把属于自己的信息的掌控权拿回来。",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1479784634",
+			"date_added": 1479912526
+		}
+	],
 	"follow": []
 }

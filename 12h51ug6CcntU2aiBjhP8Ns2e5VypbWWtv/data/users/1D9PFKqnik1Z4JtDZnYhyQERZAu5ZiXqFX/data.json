@@ -1,6 +1,6 @@
 {
 	"next_post_id": 4,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 2,
 	"avatar": "generate",
 	"user_name": "frog",
@@ -24,6 +24,13 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Eibriel: Thank you!",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1",
+			"date_added": 1479912606
+		}
+	],
 	"follow": []
 }

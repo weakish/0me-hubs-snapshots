@@ -1,6 +1,6 @@
 {
 	"next_post_id": 21,
-	"next_comment_id": 123,
+	"next_comment_id": 124,
 	"next_follow_id": 29,
 	"avatar": "png",
 	"user_name": "Nofish",
@@ -835,6 +835,12 @@
 			"body": "@P2P: According to https://github.com/kivy/kivy/wiki/Batch-installer-for-windows%28KivyInstaller%29 Defaults: Python versions 2.7.11, 3.4.4",
 			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479666435",
 			"date_added": 1479907824
+		},
+		{
+			"comment_id": 123,
+			"body": "@P2P: Also here is a PR for Python 2.7.11 support: https://github.com/kivy/python-for-android/pull/775 and an another repo for 2.7.12: https://github.com/opacam/python-for-android/tree/python-2.7.12",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479666435",
+			"date_added": 1479911263
 		}
 	],
 	"follow": [
