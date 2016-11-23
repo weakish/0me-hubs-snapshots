@@ -57,7 +57,7 @@
 		},
 		{
 			"post_id": 1479592358,
-			"body": "how to encode/decode file/text in morse :::\n`base32 -w 0 < youfile | morse -s > file.morse`\nand decode ...\n`morse -d < file.morse | base32 -d > yourfile`\nand use encrypted communication use OpenSSL Command!",
+			"body": "how to encode/decode file/text in morse :::\n`base32 -w 0 < youfile | morse -s > file.morse`\nand decode ...\n`morse -d < file.morse | base32 -d > yourfile`\nNext :: and use encrypted communication use OpenSSL Command!\nUsed ::\n\n1. base32 (not work for qubes os)\n2. morse (require bsdgames)",
 			"date_added": 1479592347
 		},
 		{
@@ -135,7 +135,7 @@
 		},
 		{
 			"comment_id": 3,
-			"body": "and yes, 50% of website using cloudflare and broken tor with captcha >:(",
+			"body": "and yes, 50% of website using cloudflare and block tor with captcha >:(",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1479543628",
 			"date_added": 1479558257
 		},
@@ -147,7 +147,7 @@
 		},
 		{
 			"comment_id": 5,
-			"body": "@Rainlime: 88 peer in my node retry, you use tor for all traffic?",
+			"body": "@Rainlime: 88 peer in my node retry",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1479543628",
 			"date_added": 1479562413
 		},

@@ -1,7 +1,7 @@
 {
-	"next_post_id": 7,
+	"next_post_id": 8,
 	"next_comment_id": 6,
-	"next_follow_id": 15,
+	"next_follow_id": 16,
 	"avatar": "png",
 	"user_name": "Grahf",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -31,6 +31,11 @@
 			"post_id": 1473259197,
 			"body": "ZeroMe is currently showing 1327 registered users. This is 200 more than when I checked a day or two ago. The total number isn't all that large, but it'll be interesting to watch where it goes if the pace keeps up.",
 			"date_added": 1473259191
+		},
+		{
+			"post_id": 1479873293,
+			"body": "As an experiment, I created a site with the PyPy.js interpreter only. You can find it here: \nhttp://127.0.0.1:43110/18tTD88a3dNcDriQ8Fxet7Mnc3NhrQLph8/\nMost of standard library is included to play around with, so it's a bit big. You'll get a messag asking you to increase the site limit on first visit. \n\nFor those unfamiliar with PyPy, it's basically compliant Python interpreter JIT compilation, which as been itself compiled to Javascript with emscripten. The official site is here: http://pypyjs.org/\n\nIt would be interesting to use the merged site, and/or optional files feature to create a version that could be used as a base for other sites written in Python. ",
+			"date_added": 1479873286
 		}
 	],
 	"post_like": {

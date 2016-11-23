@@ -1,7 +1,7 @@
 {
-	"next_post_id": 15,
-	"next_comment_id": 8,
-	"next_follow_id": 31,
+	"next_post_id": 16,
+	"next_comment_id": 9,
+	"next_follow_id": 32,
 	"avatar": "generate",
 	"user_name": "Nassau",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -66,6 +66,11 @@
 			"post_id": 1479176984,
 			"body": "听说过多次房地产是货币超发的蓄水池， 但进去的钱最终也还是要出来的， 估计大部分会通过政府的基建工程释放出来， 如果这些基建工程中的分配合理一些的话， 那么房地产的蓄水功能只是延缓了一点时间而已， 通胀很快就会释放， 但实际情况很不一样：严重的不公平分配才是最大的蓄水池。 官僚和富豪们占据了大量的分配额， 但他们的支出领域与普通国民的支出领域大概并不重叠（比如资本外流， 海外投资， 高档别墅）， 因为超发货币推高物价的商品类型， 大多不在普通人的消费领域， 这样就是把通胀进行了一定程度上的隔离。 但这个隔离其实是软性的， 政府还在持续封堵一些资金流向， 如果这种封堵成效显著的话， 无路可续的资本进入大众消费领域去兴风作浪， 那么通胀就会非常猛烈了。 所以对于有一点资产的屌丝来说， 手持红票资产的风险是比较高的， 如何减少未来越来越高的通胀率的冲击是需要尽快行动了。",
 			"date_added": 1479176970
+		},
+		{
+			"post_id": 1479871305,
+			"body": "zeronet 支持多语言后自动切换成中文了， 各种不习惯，赶紧改回英文了",
+			"date_added": 1479871290
 		}
 	],
 	"post_like": {},
@@ -111,6 +116,12 @@
 			"body": "@莱文倩:  假设量子计算机成了， 非对称加密是不是就跟裸奔一样？",
 			"post_uri": "1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd_1479176984",
 			"date_added": 1479348164
+		},
+		{
+			"comment_id": 8,
+			"body": "仅从字面意思理解， nocache是确保修改了pac内容后浏览器能及时更新",
+			"post_uri": "144GQ5Uz9dYQJ1MwjSFWWboLgHwdGpv21x_1479631008",
+			"date_added": 1479871242
 		}
 	],
 	"follow": [
@@ -316,6 +327,13 @@
 			"auth_address": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj",
 			"user_name": "西木野真姬",
 			"date_added": 1479430764
+		},
+		{
+			"follow_id": 31,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "144GQ5Uz9dYQJ1MwjSFWWboLgHwdGpv21x",
+			"user_name": "Mzero",
+			"date_added": 1479871181
 		}
 	],
 	"settings": {
