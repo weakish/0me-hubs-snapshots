@@ -1,6 +1,6 @@
 {
 	"next_post_id": 42,
-	"next_comment_id": 206,
+	"next_comment_id": 207,
 	"next_follow_id": 164,
 	"avatar": "jpg",
 	"user_name": "P2P",
@@ -1494,6 +1494,12 @@
 			"body": "@Mbp374: 不清楚，等待作者回音",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
 			"date_added": 1479886180
+		},
+		{
+			"comment_id": 206,
+			"body": "@Nofish: I was following kivy to package APK, actually kivy is based on [python-for-android](https://kivy.org/docs/guide/packaging-android.html#packaging-with-python-for-android), automated by [buildozer](https://kivy.org/docs/guide/packaging-android.html#buildozer), which are exact ones what I was using. So seems impossible to go away from python 2.7.2 if APK is based on python 2.",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479666435",
+			"date_added": 1479905610
 		}
 	],
 	"follow": [
