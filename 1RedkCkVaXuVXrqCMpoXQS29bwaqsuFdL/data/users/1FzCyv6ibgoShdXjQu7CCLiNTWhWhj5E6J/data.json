@@ -1,14 +1,22 @@
 {
-	"next_comment_id": 2,
+	"next_comment_id": 3,
 	"user_name": "Mbp374",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"post_like": {},
+	"post_like": {
+		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479623646": 1479885336
+	},
 	"comment": [
 		{
 			"comment_id": 1,
 			"body": "可以看到图片了。",
 			"post_uri": "1Q7UWk3im88kJkzmhzfD5q44rQDXLatxYq_1479737407",
 			"date_added": 1479879974
+		},
+		{
+			"comment_id": 2,
+			"body": "@P2P: 是不是hash算法有微小的改变导致的？可以用纯Python实现一个Hash算法替代之？",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479885308
 		}
 	]
 }
