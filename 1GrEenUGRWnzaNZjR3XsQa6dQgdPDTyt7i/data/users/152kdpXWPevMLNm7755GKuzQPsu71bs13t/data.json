@@ -1,7 +1,7 @@
 {
 	"next_post_id": 25,
 	"next_comment_id": 16,
-	"next_follow_id": 15,
+	"next_follow_id": 16,
 	"avatar": "png",
 	"user_name": "Great Sick",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -57,7 +57,7 @@
 		},
 		{
 			"post_id": 1479592358,
-			"body": "how to encode/decode file/text in morse :::\n`base32 -w 0 < youfile | morse -s > file.morse`\nand decode ...\n`morse -d < file.morse | base32 -d > yourfile`\nNext :: and use encrypted communication use OpenSSL Command!\nUsed ::\n\n1. base32 (not work for qubes os)\n2. morse (require bsdgames)",
+			"body": "how to encode/decode file/text in morse :::\n`base32 -w 0 < youfile | morse -s > file.morse`\nand decode ...\n`morse -d < file.morse | base32 -d > yourfile`\nNext :: how to encrypted communication use OpenSSL Command!\nUsed :::\n1. base32 (not work for qubes os)\n2. morse (require bsdgames)",
 			"date_added": 1479592347
 		},
 		{
@@ -310,6 +310,13 @@
 			"auth_address": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx",
 			"user_name": "ks",
 			"date_added": 1479827072
+		},
+		{
+			"follow_id": 15,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7",
+			"user_name": "Bullseye",
+			"date_added": 1479875354
 		}
 	]
 }
