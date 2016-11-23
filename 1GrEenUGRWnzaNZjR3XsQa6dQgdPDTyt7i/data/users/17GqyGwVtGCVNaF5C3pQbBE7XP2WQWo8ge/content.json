@@ -4,14 +4,18 @@
  "cert_sign": "G5zkShynoex+uu4TcZZF8FkrJ38rlZVviubqiBtfUpqOjPBQ0kE46/gkA7JheTtGPRF66mURy6vPXE78N71yoWo=",
  "cert_user_id": "frerepoulet@zeroid.bit",
  "files": {
+  "avatar.jpg": {
+   "sha512": "939d04824b21b005d113a7bcb60b02eb6b62ff769530c9dea96ec50df6f779bd",
+   "size": 1347
+  },
   "data.json": {
-   "sha512": "f5461592d55d1622c45e881a27bf48de2a53d2e5fde0baea2c2141030930f828",
-   "size": 848
+   "sha512": "09df764a6800533e4a67807934babc9b4d423c0423c7d446528676cfd48a70ca",
+   "size": 857
   }
  },
  "inner_path": "data/users/17GqyGwVtGCVNaF5C3pQbBE7XP2WQWo8ge/content.json",
- "modified": 1479753327.142108,
+ "modified": 1479931046.81163,
  "signs": {
-  "17GqyGwVtGCVNaF5C3pQbBE7XP2WQWo8ge": "HL4swxKg3FA4zAgB4bibPz0uFrBEVguWgoyCiIJQM7rdpBuB3BiMeLLisj37Dlf8xzyHCpcVXA+QqCiSUoOYGl8="
+  "17GqyGwVtGCVNaF5C3pQbBE7XP2WQWo8ge": "G5y23+M2YWJXuvYbCn2EvrRY1JOuYPkqzlGk5HdOXLvvfNRxn/KjeA2vXJeBTAZbfmmuljBIr+kEd/c6WQ23Yrk="
  }
 }

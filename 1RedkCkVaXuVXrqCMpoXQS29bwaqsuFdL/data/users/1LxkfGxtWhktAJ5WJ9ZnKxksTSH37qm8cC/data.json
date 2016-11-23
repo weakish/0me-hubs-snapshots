@@ -1,5 +1,5 @@
 {
-	"next_post_id": 59,
+	"next_post_id": 60,
 	"next_comment_id": 46,
 	"next_follow_id": 14,
 	"avatar": "generate",
@@ -283,6 +283,11 @@
 			"post_id": 1479625936,
 			"body": "@Nofish: Does ZeroNet refuse to save files that have `[]` in their names?",
 			"date_added": 1479625878
+		},
+		{
+			"post_id": 1479927982,
+			"body": "Minimized JavaScript programs try to request source map files `.map`. How can I disable these requests?",
+			"date_added": 1479927923
 		}
 	],
 	"post_like": {
