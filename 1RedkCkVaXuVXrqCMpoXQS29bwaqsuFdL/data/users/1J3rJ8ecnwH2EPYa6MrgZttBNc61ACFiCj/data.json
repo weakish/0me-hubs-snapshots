@@ -1,6 +1,6 @@
 {
 	"next_post_id": 21,
-	"next_comment_id": 121,
+	"next_comment_id": 122,
 	"next_follow_id": 29,
 	"avatar": "png",
 	"user_name": "Nofish",
@@ -823,6 +823,12 @@
 			"body": "Thanks! Added: https://zeronet.io/it",
 			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479666435",
 			"date_added": 1479820836
+		},
+		{
+			"comment_id": 121,
+			"body": "@P2P: 2.7.2 is very old (5years+) and not supported. I think https://kivy.org is the best way to add python applications to android/ios, but I have not experience with mobile development, so not sure if its suitable. ",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479666435",
+			"date_added": 1479896836
 		}
 	],
 	"follow": [
