@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 261,
+	"next_comment_id": 262,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -1567,6 +1567,12 @@
 			"body": "@莱文倩: 运行 wizard.py 后会弹出一个管理页面，在里面上传即可，传完后将 loader 目录里的内容复制入站点目录（我嫌麻烦，直接用 `mklink /J` 做了目录联接）进入你的站点拉出右侧菜单或使用命令行签名（如果站点较大的话，签名较慢）并发布即可。",
 			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479732135",
 			"date_added": 1479879792
+		},
+		{
+			"comment_id": 261,
+			"body": "Tor 在中国是被墙的，所以请编辑 torrc 文件加入网桥或者前置代理。",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1479874059",
+			"date_added": 1479884125
 		}
 	],
 	"flags": {},
