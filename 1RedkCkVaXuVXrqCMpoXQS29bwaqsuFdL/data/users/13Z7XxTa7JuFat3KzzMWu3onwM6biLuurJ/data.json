@@ -1,6 +1,6 @@
 {
 	"next_post_id": 42,
-	"next_comment_id": 207,
+	"next_comment_id": 211,
 	"next_follow_id": 164,
 	"avatar": "jpg",
 	"user_name": "P2P",
@@ -1497,9 +1497,33 @@
 		},
 		{
 			"comment_id": 206,
-			"body": "@Nofish: I was following kivy to package APK, actually kivy is based on [python-for-android](https://kivy.org/docs/guide/packaging-android.html#packaging-with-python-for-android), automated by [buildozer](https://kivy.org/docs/guide/packaging-android.html#buildozer), which are exact ones what I was using. So seems impossible to go away from python 2.7.2 if APK is based on python 2.",
+			"body": "@Nofish: I was following kivy to package APK, actually kivy is based on [python-for-android](https://kivy.org/docs/guide/packaging-android.html#packaging-with-python-for-android), automated by [buildozer](https://kivy.org/docs/guide/packaging-android.html#buildozer), which are exact ones I was using. So seems impossible to go away from python 2.7.2 if APK is based on python 2. But f u go to python 3,  python-for-android new toolchain offers python 3.4.2",
 			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479666435",
 			"date_added": 1479905610
+		},
+		{
+			"comment_id": 207,
+			"body": "@Nofish: but it's  for windows",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479666435",
+			"date_added": 1479908411
+		},
+		{
+			"comment_id": 208,
+			"body": "@Nofish: https://github.com/kivy/python-for-android/blob/master/pythonforandroid/recipes/python2/recipe.sh VERSION_python=2.7.2",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479666435",
+			"date_added": 1479908494
+		},
+		{
+			"comment_id": 209,
+			"body": "@Ysc3839: I'm afraid it would not be easy. python-for-android dev team has much more experience, they even cannot compile new Python running under android",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479666435",
+			"date_added": 1479909206
+		},
+		{
+			"comment_id": 210,
+			"body": "@Ysc3839: 新多少？链接？",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479909516
 		}
 	],
 	"follow": [
