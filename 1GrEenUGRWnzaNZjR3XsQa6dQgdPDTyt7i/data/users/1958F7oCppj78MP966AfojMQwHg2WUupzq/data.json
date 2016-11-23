@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 264,
+	"next_comment_id": 277,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -1585,6 +1585,84 @@
 			"body": "@莱文倩: 不明白你说的安全是什么，节点之间的通讯是加密的，Tor 只是保护你的节点的真实 IP 不会泄露出去，如果你的 Tor 不通的情况下 15441 端口不开那么只能你主动连过来，对网络分发依然有贡献但是可连接性变差了，如果你开启了 Tor Always 那么端口会关闭但是可以通过 Hidden Service 连到你，所以依然有。",
 			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1479874059",
 			"date_added": 1479890171
+		},
+		{
+			"comment_id": 264,
+			"body": "@莱文倩: 看你挂什么服务，一般用来分享文件的 HTTP FTP 不发特别敏感发内容都没事，P2P 类应用更是管不过来，不过发布敏感内容的另算。如果站点所有做种者都关了这个端口，那么只有打开了这个端口的人能连，另外开启 Tor 的节点也能给另外 Tor 节点做种（不需要打开你接入 IP 的端口）。",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1479874059",
+			"date_added": 1479892102
+		},
+		{
+			"comment_id": 265,
+			"body": "@P2P: 金星好像一直有点火又不是特别火的状态，他是做了变性手术的其他部分，但是声带没做手术的貌似。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1479884546",
+			"date_added": 1479892374
+		},
+		{
+			"comment_id": 266,
+			"body": "@Monico: 为什么我这里 I2P 速度感人？BT 下载只有几十 k ，Freenet 至少有几百 k 。另外，I2P 的作用与 Tor 类似，网站依然是托管在中心化服务器上的。",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479890641",
+			"date_added": 1479892432
+		},
+		{
+			"comment_id": 267,
+			"body": "@Monico: 我的 Freenet 一直设置开机自动启动，还有其实 Freenet 稍微断一下重连恢复也挺快，但是你一下断了好几天然后重新开就要一点时间才能达到最佳性能了。",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479890641",
+			"date_added": 1479892752
+		},
+		{
+			"comment_id": 268,
+			"body": "@Monico: 只要你开机的时候常开一般问题也不大，只要你数据存储设置大一点，几十 G 吧！然后带宽选择别出错一般性能还可以的（当然与默认没有匿名措施的 ZeroNet 性能不能比）。另外网速慢的环境中内存占用最好调大点（512MiB 起步），不然一直 GC 非常影响性能。",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479890641",
+			"date_added": 1479892998
+		},
+		{
+			"comment_id": 269,
+			"body": "@Monico: 你 ZeroMail 开了吗？开了的话我把节点信息发给你。",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479890641",
+			"date_added": 1479893227
+		},
+		{
+			"comment_id": 270,
+			"body": "@Monico: 添加完全不受信任的朋友对安全性没任何好处，所以不需要特意找。",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479890641",
+			"date_added": 1479893381
+		},
+		{
+			"comment_id": 271,
+			"body": "@Monico: 一般人都在第一次安装时选的都是这个，以后认识了一些人以后才会添加朋友并提升安全性（尽管这样，还是比开了 Tor 的 ZeroNet 安全，前提是 Java 不要又出个大漏洞）。\n请顺便用 ZeroMail 发送你的节点信息，必须相互添加才能连接。",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479890641",
+			"date_added": 1479893532
+		},
+		{
+			"comment_id": 272,
+			"body": "@Monico: 是的，能看到，但是很大程度上说很难看到你收发了什么内容，这也是匿名的含义。这也是为什么添加一个完全的陌生人对匿名性没有意义。",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479890641",
+			"date_added": 1479893965
+		},
+		{
+			"comment_id": 273,
+			"body": "@Monico: Darknet 的意义很大程度上在于这个 Darknet 以外的人不知道你在使用 Freenet 。添加朋友的意义是告诉你的节点此人相对完全的陌生人更值得信任，可以共享更多的信息。",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479890641",
+			"date_added": 1479894170
+		},
+		{
+			"comment_id": 274,
+			"body": "@Monico: 是你的真实 IP 。",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479890641",
+			"date_added": 1479894207
+		},
+		{
+			"comment_id": 275,
+			"body": "@Monico: 你给 Freenet 挂了代理？",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479890641",
+			"date_added": 1479894372
+		},
+		{
+			"comment_id": 276,
+			"body": "@Rainlime: 然而目前由于 ZeroNet 并没一个工作证明机制，所以获得一个新身份并不难，封禁意义大大降低。如果要维护一个身份需要一定成本的话，那么可能发站点拥有者不希望的内容的人会考虑下成本。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479814982",
+			"date_added": 1479894752
 		}
 	],
 	"flags": {},

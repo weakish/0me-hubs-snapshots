@@ -1,6 +1,6 @@
 {
-	"next_post_id": 18,
-	"next_comment_id": 34,
+	"next_post_id": 19,
+	"next_comment_id": 47,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Monico",
@@ -96,6 +96,12 @@
 			"body": "今天又找到个好东西：i2p，目前使用起来感觉速度比freenet快好多。。。也许可能这些网站都没有图片吧。。",
 			"date_added": 1479890624,
 			"meta": "{\"img\":\"900,658,eeefffdddcccdcc,0000000000102000000012320022341222022234100000004212220222341222002042\"}"
+		},
+		{
+			"post_id": 1479892463,
+			"body": "i2P need more peers & IPFS",
+			"date_added": 1479892445,
+			"meta": "{\"img\":\"836,700,dddeeefffbd9bcbeeda97edd,01111112211111111111111222222134005122226111111111200770071221122222222551111112\"}"
 		}
 	],
 	"post_like": {},
@@ -291,6 +297,84 @@
 			"body": "@P2P: 男人婆",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1479884546",
 			"date_added": 1479891055
+		},
+		{
+			"comment_id": 34,
+			"body": "浏览明网，速度又是很感人。。。",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479890641",
+			"date_added": 1479891811
+		},
+		{
+			"comment_id": 35,
+			"body": "@Lmath: 你的freeNet多久没关过了？应该是i2p论坛没图片的原因，点击立马就开了。用了快一个小时也才`进/出口流量:2.15 MB / 4.35 MB`，也是感人",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479890641",
+			"date_added": 1479892562
+		},
+		{
+			"comment_id": 36,
+			"body": "@Lmath: 我电脑每天都得关机",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479890641",
+			"date_added": 1479892837
+		},
+		{
+			"comment_id": 37,
+			"body": "@Lmath: 能添加你的节点吗",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479890641",
+			"date_added": 1479893151
+		},
+		{
+			"comment_id": 38,
+			"body": "@Lmath: 开了。哪里能找到更多节点文件？",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479890641",
+			"date_added": 1479893233
+		},
+		{
+			"comment_id": 39,
+			"body": "@Lmath: 收到。。你在freenet也用这名字啊",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479890641",
+			"date_added": 1479893326
+		},
+		{
+			"comment_id": 40,
+			"body": "@Lmath: 那我在安装时选择的是安全性最低的那个选项呢？",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479890641",
+			"date_added": 1479893457
+		},
+		{
+			"comment_id": 41,
+			"body": "@Lmath: 发过去了",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479890641",
+			"date_added": 1479893686
+		},
+		{
+			"comment_id": 42,
+			"body": "@Lmath: 我这里能看到你IP啊！！这安全吗？",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479890641",
+			"date_added": 1479893849
+		},
+		{
+			"comment_id": 43,
+			"body": "@Lmath: 这样的话知道谁在用啊。。！ 这怎么理解? `添加一个完全的陌生人对匿名性没有意义`",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479890641",
+			"date_added": 1479894023
+		},
+		{
+			"comment_id": 44,
+			"body": "@Lmath: 还有，你那边看到的是我真实IP吗？",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479890641",
+			"date_added": 1479894168
+		},
+		{
+			"comment_id": 45,
+			"body": "@Lmath: 这样子。。看来挂代理也没有用啊",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479890641",
+			"date_added": 1479894297
+		},
+		{
+			"comment_id": 46,
+			"body": "@Lmath: 怎么设置代理？",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479890641",
+			"date_added": 1479894779
 		}
 	],
 	"follow": []
