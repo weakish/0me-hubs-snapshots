@@ -1,6 +1,6 @@
 {
-	"next_post_id": 11,
-	"next_comment_id": 29,
+	"next_post_id": 12,
+	"next_comment_id": 30,
 	"next_follow_id": 28,
 	"avatar": "jpg",
 	"user_name": "gfwbot79",
@@ -51,6 +51,11 @@
 			"post_id": 1479915787,
 			"body": "现在新用户进zeronet的打招呼语都本地化了。。\n找中文用户又方便了（滑稽",
 			"date_added": 1479915777
+		},
+		{
+			"post_id": 1479918476,
+			"body": "像bit.no.com这样的公共代理是如何做到：\n1.把127.0.0.1:43110链接重写成bit.no.com:43110的？\n2.使用https？我自己试了试，没成功。\n3.限制某些功能，比如删除站点啥的？\n别跟我说所有以上都需要改zeronet代码。。",
+			"date_added": 1479918465
 		}
 	],
 	"post_like": {},
@@ -222,6 +227,12 @@
 			"body": "@Linkerlin: zeronet + tor 呗。其实我有设想一个结构：在vps上放一个zerobundle，tor always；webui出口则配置tor hidden service",
 			"post_uri": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE_1479909680",
 			"date_added": 1479913984
+		},
+		{
+			"comment_id": 29,
+			"body": "@Lmath: 你这个好，接地气",
+			"post_uri": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE_1479915787",
+			"date_added": 1479918569
 		}
 	],
 	"follow": [
