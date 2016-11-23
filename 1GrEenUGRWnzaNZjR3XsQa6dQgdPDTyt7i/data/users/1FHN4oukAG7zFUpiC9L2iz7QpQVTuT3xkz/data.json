@@ -1,6 +1,6 @@
 {
-	"next_post_id": 95,
-	"next_comment_id": 302,
+	"next_post_id": 96,
+	"next_comment_id": 305,
 	"next_follow_id": 59,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
@@ -476,6 +476,11 @@
 			"post_id": 1479875484,
 			"body": "反对政治正确的理由千千万，对于大多数人一条就够了：新自由主义追求结果平等，可为什么妇女儿童比绿教弱势，而政治正确却优先照顾绿教呢？",
 			"date_added": 1479875390
+		},
+		{
+			"post_id": 1479879464,
+			"body": "我来解释一下为什么Nullchan不匿名：\n在明网中，一般用户无法访问到网站后台。而NullChan的所有文件都保存在`data/users`中。\n每个用户的文件夹中的content.json保存了用户的ID，像这样：\n`\"cert_user_id\": \"ssl@zeroid.bit\"`\ndata.json保存了用户发过的帖子，因此可以通过深度搜索轻松地找到帖子发布者的ID",
+			"date_added": 1479879369
 		}
 	],
 	"post_like": {
@@ -2290,6 +2295,24 @@
 			"body": "@Rainlime: 其实我觉得某些国家的恶劣行径其实和宗教关系不大，宗教更多只是个幌子。如果土耳其是西式民主国家，那么被强奸的幼女会被以反民主的罪名处死，如果土耳其是共产主义国家，那么被强奸的幼女会被以走资本主义道路的罪名处死",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1479707834",
 			"date_added": 1479876126
+		},
+		{
+			"comment_id": 302,
+			"body": "两耳不闻窗外事，一心只舔女装子",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1479875768",
+			"date_added": 1479878355
+		},
+		{
+			"comment_id": 303,
+			"body": "@Alien: 准确的说，谁更能决定政客的钱途，政客就打着各种名号支持谁。政治正确中的政治二字就说明了一切",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479875484",
+			"date_added": 1479878430
+		},
+		{
+			"comment_id": 304,
+			"body": "@Rainlime: 没办法，世界上傻子占多数",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1479707834",
+			"date_added": 1479878617
 		}
 	],
 	"follow": [
