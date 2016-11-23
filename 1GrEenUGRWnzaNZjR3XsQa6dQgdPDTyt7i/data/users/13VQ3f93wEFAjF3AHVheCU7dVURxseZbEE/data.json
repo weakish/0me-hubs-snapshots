@@ -1,6 +1,6 @@
 {
-	"next_post_id": 10,
-	"next_comment_id": 27,
+	"next_post_id": 11,
+	"next_comment_id": 29,
 	"next_follow_id": 28,
 	"avatar": "jpg",
 	"user_name": "gfwbot79",
@@ -46,6 +46,11 @@
 			"post_id": 1479909680,
 			"body": "i2p和freenet实在太慢，还是zeronet好（比心",
 			"date_added": 1479909671
+		},
+		{
+			"post_id": 1479915787,
+			"body": "现在新用户进zeronet的打招呼语都本地化了。。\n找中文用户又方便了（滑稽",
+			"date_added": 1479915777
 		}
 	],
 	"post_like": {},
@@ -205,6 +210,18 @@
 			"body": "@Monico: ~~爱情动作片~~\n上过几节电影分析课，实际上肢体语言也是千人千理解的",
 			"post_uri": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE_1479307625",
 			"date_added": 1479310433
+		},
+		{
+			"comment_id": 27,
+			"body": "@Lmath: 但是在我的环境里就算开了tor always还是zeronet体验最好。i2p龟速还要改代理，freenet跟chrome似乎有兼容性问题。。mac上的",
+			"post_uri": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE_1479909680",
+			"date_added": 1479913765
+		},
+		{
+			"comment_id": 28,
+			"body": "@Linkerlin: zeronet + tor 呗。其实我有设想一个结构：在vps上放一个zerobundle，tor always；webui出口则配置tor hidden service",
+			"post_uri": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE_1479909680",
+			"date_added": 1479913984
 		}
 	],
 	"follow": [
