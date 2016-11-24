@@ -1,6 +1,6 @@
 {
-	"next_post_id": 5,
-	"next_comment_id": 6,
+	"next_post_id": 6,
+	"next_comment_id": 8,
 	"next_follow_id": 36,
 	"avatar": "generate",
 	"user_name": "frog",
@@ -26,6 +26,11 @@
 			"post_id": 1479923346,
 			"body": "I've connected to many hubs, like green, red, blue, kaffie, orange, and got many \"Hello Zerome\" messages. When I click my user name through those hello messages, I can see different versions of profile pages. Clearly data on those hubs is not synced. So the question is, how do I tell which hub THIS message will be posted on? ",
 			"date_added": 1479923342
+		},
+		{
+			"post_id": 1479954419,
+			"body": "Here is a list of the number of users on each hub:\n1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v/data/users\t119\n12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv/data/users\t306\n1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/data/users\t627\n1BLueGvui1GdbtsjcKqCf4F67uKfritG49/data/users\t1211\n1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i/data/users\t1745\n",
+			"date_added": 1479954414
 		}
 	],
 	"post_like": {},
@@ -59,6 +64,18 @@
 			"body": "@Great Sick: you're welcome.",
 			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1479640431",
 			"date_added": 1479922028
+		},
+		{
+			"comment_id": 6,
+			"body": "@Zanity: Thank you. Do you know how to switch hubs?",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1479923346",
+			"date_added": 1479953044
+		},
+		{
+			"comment_id": 7,
+			"body": "@Zanity: Oh, I got it. here is a great tutorial, http://127.0.0.1:43110/blog.kaffie.bit/?Post:25:How+to+change+your+ZeroMe+Hub",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1479923346",
+			"date_added": 1479953687
 		}
 	],
 	"follow": [
