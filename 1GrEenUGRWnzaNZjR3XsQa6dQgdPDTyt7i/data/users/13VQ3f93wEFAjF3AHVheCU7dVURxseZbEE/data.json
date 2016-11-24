@@ -1,6 +1,6 @@
 {
 	"next_post_id": 12,
-	"next_comment_id": 33,
+	"next_comment_id": 35,
 	"next_follow_id": 31,
 	"avatar": "jpg",
 	"user_name": "gfwbot79",
@@ -251,6 +251,18 @@
 			"body": "@Ysc3839: 另外如何用apache反代……不会用nginx",
 			"post_uri": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE_1479918476",
 			"date_added": 1479970342
+		},
+		{
+			"comment_id": 33,
+			"body": "@Ysc3839: 我不但用过，还看了代码，还改了代码，才得到了上面的结论。",
+			"post_uri": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE_1479918476",
+			"date_added": 1479979555
+		},
+		{
+			"comment_id": 34,
+			"body": "@Ysc3839: siteDelete, ConfigSet, ServerShutdown, ServerUpdate, SiteClone。就是那些在bit.no.com上干不了的事。",
+			"post_uri": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE_1479918476",
+			"date_added": 1479980250
 		}
 	],
 	"follow": [

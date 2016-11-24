@@ -5,8 +5,8 @@
  "cert_user_id": "apuar@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "531a9fa53a4b19e164f6428a336f04aa0ba4fd8980ca7043986fd656399ddde4",
-   "size": 13346
+   "sha512": "afc615d447a81fadb401655ad3f01a4d4ec9696368f8098e532016a63b6cfd02",
+   "size": 13535
   }
  },
  "files_optional": {
@@ -16,9 +16,9 @@
   }
  },
  "inner_path": "data/users/1GMNmr2bDPbT4c8yVnyCoDHke52CNCdqAa/content.json",
- "modified": 1479976793.025,
+ "modified": 1479980333.164,
  "optional": "(?!avatar).*jpg",
  "signs": {
-  "1GMNmr2bDPbT4c8yVnyCoDHke52CNCdqAa": "G221msslT/mCJ7blQqtX+mlSAThusY/q9I07vDRDPzmREXEAbv+naajP09gyYE413l3+4nVeYPd2dQv3ySdiTRM="
+  "1GMNmr2bDPbT4c8yVnyCoDHke52CNCdqAa": "G0NPsX7S7lk97n3LXrPYxWPYOPxZqvDgUumKTM2XUe+hV7VazRBL1maQ8Y3jRW6dLbsz5Ig6o25oeyjbAfq/ZQI="
  }
 }
