@@ -1,7 +1,7 @@
 {
 	"next_post_id": 12,
-	"next_comment_id": 31,
-	"next_follow_id": 28,
+	"next_comment_id": 33,
+	"next_follow_id": 30,
 	"avatar": "jpg",
 	"user_name": "gfwbot79",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -239,6 +239,18 @@
 			"body": "@Lmath: 一行python都不会的我摸了一下那个插件，解决了3。。只要加一行东西。。",
 			"post_uri": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE_1479918476",
 			"date_added": 1479922092
+		},
+		{
+			"comment_id": 31,
+			"body": "@Ysc3839: 随附的multiuser插件只有multiuser_local这个选项，要自己加一行增加一个不叫multiuser_local的参数才能限制危险功能",
+			"post_uri": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE_1479918476",
+			"date_added": 1479970300
+		},
+		{
+			"comment_id": 32,
+			"body": "@Ysc3839: 另外如何用apache反代……不会用nginx",
+			"post_uri": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE_1479918476",
+			"date_added": 1479970342
 		}
 	],
 	"follow": [
@@ -423,6 +435,20 @@
 			"auth_address": "1L2FnXBU5fhVATcwtJLvX2ZhsZSGDSqJcn",
 			"user_name": "Codegeass",
 			"date_added": 1479827852
+		},
+		{
+			"follow_id": 28,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1FzCyv6ibgoShdXjQu7CCLiNTWhWhj5E6J",
+			"user_name": "Mbp374",
+			"date_added": 1479970437
+		},
+		{
+			"follow_id": 29,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE",
+			"user_name": "gfwbot79",
+			"date_added": 1479970783
 		}
 	]
 }
