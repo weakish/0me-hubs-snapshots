@@ -1,5 +1,5 @@
 {
-	"next_post_id": 60,
+	"next_post_id": 61,
 	"next_comment_id": 46,
 	"next_follow_id": 14,
 	"avatar": "generate",
@@ -288,6 +288,11 @@
 			"post_id": 1479927982,
 			"body": "Minimized JavaScript programs try to request source map files `.map`. How can I disable these requests?",
 			"date_added": 1479927923
+		},
+		{
+			"post_id": 1479967047,
+			"body": "## ZeroMux Bundle v0.1.2\n\n- Label files with extension `.bz2` as archives.\n- Put folders before files.\n- Only use folder names that ZeroNet accept.\n- Replace `\\r\\n` with `\\n` to fix chmod problem on Linux.\n- Add to documentation information on optional files.\n- Carry queries with redirection.\n- Delete files and folders.\n\nDownload new version [here](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/bundle/).\n\nHow to update?\nExtract all files from the new archive and replace old files. The archive does not contain a `files` folder, so your data will not be lost.",
+			"date_added": 1479966987
 		}
 	],
 	"post_like": {
