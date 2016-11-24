@@ -1,5 +1,5 @@
 {
-	"next_post_id": 58,
+	"next_post_id": 59,
 	"next_comment_id": 36,
 	"next_follow_id": 182,
 	"avatar": "png",
@@ -291,6 +291,11 @@
 			"post_id": 1479900321,
 			"body": "Flaws of TypeScript's type system:\n\n- functions with fewer parameters are assignable to functions that take more parameters,\n- non-void functions are assignable to void functions,\n- all types are assignable to empty interfaces, and\n- TypeScript cannot infer expected type with unused parameter in generics.\n",
 			"date_added": 1479900264
+		},
+		{
+			"post_id": 1479994606,
+			"body": "Overloading an operator should be consistent to all types supporting the operator.",
+			"date_added": 1479994548
 		}
 	],
 	"post_like": {
