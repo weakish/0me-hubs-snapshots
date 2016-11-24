@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 46,
+	"next_comment_id": 49,
 	"user_name": "Ysc3839",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -293,6 +293,24 @@
 			"body": "@Lmath: 我认为Android没有自带什么库，GNURoot浪费空间是因为里面包含了很多Python不需要的东西",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
 			"date_added": 1479995009
+		},
+		{
+			"comment_id": 46,
+			"body": "@Nekocross: 这就是我说的 “GNURoot浪费空间是因为里面包含了很多Python不需要的东西”",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1480004039
+		},
+		{
+			"comment_id": 47,
+			"body": "@Nekocross: 另外你这想法已经在iOS上实现了，印象中有Python",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1480004127
+		},
+		{
+			"comment_id": 48,
+			"body": "我个人觉得吧，为什么Android root不像iOS越狱后装一个deb的环境，应该是因为一般的Android应用就可以直接调用root，而iOS没有授权管理的应用（默认root密码是alpine），一般只有安装成系统应用，然后通过setuid属性，启动应用时就以root权限运行。具体为何这么做？我也说不清……",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1480004239
 		}
 	],
 	"flags": {},

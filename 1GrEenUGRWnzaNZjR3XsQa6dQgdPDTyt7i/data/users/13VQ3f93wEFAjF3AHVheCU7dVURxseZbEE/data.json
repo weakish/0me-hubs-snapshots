@@ -1,6 +1,6 @@
 {
 	"next_post_id": 12,
-	"next_comment_id": 38,
+	"next_comment_id": 39,
 	"next_follow_id": 33,
 	"avatar": "jpg",
 	"user_name": "gfwbot79",
@@ -281,6 +281,12 @@
 			"body": "@Ysc3839: 然而要激活multiuser插件要在运行zeronet时带--multiuser_local参数啊，我是说如果带--multiuser_local参数，只能让站点进入multiuser模式，没有限制前面提到的功能。看看MultiuserPlugin.py最后面就知道。\n不过也有可能是版本不同造成了我们经验不同。。需要的那一行消失得很突兀。。",
 			"post_uri": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE_1479918476",
 			"date_added": 1480002888
+		},
+		{
+			"comment_id": 38,
+			"body": "@Ysc3839: 啊，是我错了，不带参数就可以。。。\n是我没试验就臆断了，我认错。。我一直以为代参数才调用相关插件。。",
+			"post_uri": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE_1479918476",
+			"date_added": 1480003315
 		}
 	],
 	"follow": [

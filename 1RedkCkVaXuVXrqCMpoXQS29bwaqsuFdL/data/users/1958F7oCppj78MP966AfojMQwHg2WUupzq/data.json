@@ -1,6 +1,6 @@
 {
-	"next_post_id": 27,
-	"next_comment_id": 98,
+	"next_post_id": 28,
+	"next_comment_id": 99,
 	"next_follow_id": 178,
 	"avatar": "png",
 	"user_name": "Lmath",
@@ -144,6 +144,11 @@
 			"body": "zeronet.io 的繁体版网站上线了，可是……\n我在想怎么跟 nofish 解释……\n关键是那个 Chinese (Traditional) 是简体……",
 			"date_added": 1479914399,
 			"meta": "{\"img\":\"408,700,46d57daaeccebceabefffddeeeedddbcd,0000102344353666673686873668833669933666673666673666675777A5\"}"
+		},
+		{
+			"post_id": 1480003994,
+			"body": "从昨天发布 ZeroMe 内容就老是提示内容发布失败，今天连给 ZeroMux 站点签名都出错了，贴 log ：\n```\nC:\\Users\\lmath\\ZeroBundle\\ZeroNet>..\\Python\\python.exe zeronet.py siteSign 12VnwCxot8tiMS3bBvksqQJQ8mLPRZ6CQE [Hide my Privatekey]\n- Starting ZeroNet...\n- OpenSSL loaded, version: 01000201F\n- Version: 0.5.1 r1755, Python 2.7.12 (v2.7.12:d33e0cf91556, Jun 27 2016, 15:19:22) [MSC v.1500 32 bit (Intel)], Gevent:\n 1.1.2\nTraceback (most recent call last):\n  File \"zeronet.py\", line 16, in main\n    main.start()\n  File \"src\\main.py\", line 450, in start\n    actions.call(config.action, action_kwargs)\n  File \"src\\main.py\", line 129, in call\n    func(**kwargs)\n  File \"src\\main.py\", line 186, in siteSign\n    SiteManager.site_manager.load()\n  File \"plugins\\Zeroname\\SiteManagerPlugin.py\", line 20, in load\n    super(SiteManagerPlugin, self).load(*args, **kwargs)\n  File \"plugins\\MergerSite\\MergerSitePlugin.py\", line 322, in load\n    super(SiteManagerPlugin, self).load(*args, **kwags)\n  File \"src\\Site\\SiteManager.py\", line 39, in load\n    self.sites[address] = Site(address, settings=settings)\n  File \"src\\Site\\Site.py\", line 57, in __init__\n    self.content_manager = ContentManager(self)\n  File \"src\\Content\\ContentManager.py\", line 23, in __init__\n    self.contents = ContentDbDict(site)\n  File \"src\\Content\\ContentDbDict.py\", line 13, in __init__\n    self.db_id = self.db.needSite(site)\n  File \"src\\Content\\ContentDb.py\", line 67, in needSite\n    self.execute(\"INSERT OR IGNORE INTO site ?\", {\"address\": site.address})\n  File \"src\\Db\\Db.py\", line 77, in execute\n    return self.cur.execute(query, params)\n  File \"src\\Db\\DbCursor.py\", line 49, in execute\n    res = self.cursor.execute(query, params)\nOperationalError: database is locked\n```",
+			"date_added": 1480003967
 		}
 	],
 	"post_like": {
@@ -723,6 +728,12 @@
 			"body": "@Ysc3839: 所以你们这么执着于 Python for Android 是不是希望更多地依赖 Android 自带的库来节约空间？",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
 			"date_added": 1479994926
+		},
+		{
+			"comment_id": 98,
+			"body": "@P2P: 确实不科学，难怪我一直点不出来。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479999667
 		}
 	],
 	"follow": [
