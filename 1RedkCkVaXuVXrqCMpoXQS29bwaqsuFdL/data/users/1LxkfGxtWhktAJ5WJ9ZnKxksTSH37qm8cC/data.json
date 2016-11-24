@@ -271,7 +271,7 @@
 		},
 		{
 			"post_id": 1479544886,
-			"body": "For those who are using ZeroMux Bundle:\nYou may have noticed that, you can't delete files, yet,\nbecause I am still writing this. I guess it will come out next week.\n\nFor this week, you can make a temporary Trash folder for your unwanted files.",
+			"body": "~~For those who are using ZeroMux Bundle:~~\n~~You may have noticed that, you can't delete files, yet,~~\n~~because I am still writing this. I guess it will come out next week.~~\n\n~~For this week, you can make a temporary Trash folder for your unwanted files.~~",
 			"date_added": 1479544830
 		},
 		{
@@ -291,7 +291,7 @@
 		},
 		{
 			"post_id": 1479967047,
-			"body": "## ZeroMux Bundle v0.1.2\n\n- Label files with extension `.bz2` as archives.\n- Put folders before files.\n- Only use folder names that ZeroNet accept.\n- Replace `\\r\\n` with `\\n` to fix chmod problem on Linux.\n- Add to documentation information on optional files.\n- Carry queries with redirection.\n- Delete files and folders.\n\nDownload new version [here](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/bundle/).\n\nHow to update?\nExtract all files from the new archive and replace old files. The archive does not contain a `files` folder, so your data will not be lost.",
+			"body": "## ZeroMux Bundle v0.1.2\n\n- Label files with extension `.bz2` as archives.\n- Put folders before files.\n- Only use folder names that ZeroNet accept.\n- Replace `\\r\\n` with `\\n` to fix chmod problem on Linux.\n- Add to documentation information on optional files.\n- Carry queries with redirection.\n- **Delete files and folders.**\n\nDownload new version [here](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/bundle/).\n\nHow to update?\nExtract all files from the new archive and replace old files. The archive does not contain a `files` folder, so your data will not be lost.",
 			"date_added": 1479966987
 		}
 	],
