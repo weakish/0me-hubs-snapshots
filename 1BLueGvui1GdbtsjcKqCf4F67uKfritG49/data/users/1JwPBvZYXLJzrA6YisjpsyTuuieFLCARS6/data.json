@@ -1,6 +1,6 @@
 {
-	"next_post_id": 17,
-	"next_comment_id": 16,
+	"next_post_id": 18,
+	"next_comment_id": 17,
 	"next_follow_id": 17,
 	"avatar": "png",
 	"user_name": "Emeraude",
@@ -70,6 +70,11 @@
 			"post_id": 1479399201,
 			"body": "Why do people are still not using the `reply all` button when there are replying an email ?",
 			"date_added": 1479399185
+		},
+		{
+			"post_id": 1479944536,
+			"body": "Which network manager are you using ?\n\nI've first used **NetworkManager** years ago when I first used Linux. Actually I didn't evene known I was using it because it was installed with Gnome. Today I think the fact that there is no official frontend (except the ones bundled with window managers) made it awful.\n\nThen I used **wicd** for about 3 years. It was very buggy: sometimes you have to restart the service, the autoconnect option is awfully slow (about 5 minutes sometimes), the absence of documentation (try the command `man wicd-cli`: you should see `DESCRIPTION TODO  :-)`) and the frontends that crashes randomly (see wicd-curses that crash on refresh and wicd-gtk which process stay alive even if you close the window).\n\nSince about 6 months I'm using **connman** and I'm perfectly happy with it: very fast, with a well documented manual (I managed to make a full configuration for a very specific network 10 minutes thanks to it, while hours of internet researches were useless when I was using wicd and NetworkManager) and several pretty frontend. The only drawback is that some networks need to be managed in command line or by editing configuration files.",
+			"date_added": 1479944519
 		}
 	],
 	"post_like": {
@@ -158,6 +163,12 @@
 			"body": "One day I'll write a complete article about why emails are badly designed and should not be used anymore.",
 			"post_uri": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1479399201",
 			"date_added": 1479399230
+		},
+		{
+			"comment_id": 16,
+			"body": "Another thing I love about connman is its integration within enlightenment, but it's not a very objective argument.",
+			"post_uri": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1479944536",
+			"date_added": 1479944590
 		}
 	],
 	"follow": [
