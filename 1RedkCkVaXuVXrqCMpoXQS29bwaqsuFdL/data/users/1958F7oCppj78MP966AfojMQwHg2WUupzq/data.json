@@ -1,6 +1,6 @@
 {
 	"next_post_id": 27,
-	"next_comment_id": 96,
+	"next_comment_id": 97,
 	"next_follow_id": 173,
 	"avatar": "png",
 	"user_name": "Lmath",
@@ -710,6 +710,12 @@
 			"body": "不要重新发明轮子，更不要重新发明方轮子。与其搞个类 BT Sync 功能，不如复刻 Syncthing 出来改一下。",
 			"post_uri": "144GQ5Uz9dYQJ1MwjSFWWboLgHwdGpv21x_1479918873",
 			"date_added": 1479920233
+		},
+		{
+			"comment_id": 96,
+			"body": "@P2P: 我觉得我们是否可以考虑另一个思路？因为 @猫叉酱 使用 GNURoot 环境运行比较完美，我们可以考虑把一个 GNURoot 环境卸载 ZeroNet 用不到的包，然后 APK 作为自动释放 chroot 环境，并作为控制台。这样即使我们最初搞的包由于用不到的内容会比较大，但是可以保证较好地运行。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479963438
 		}
 	],
 	"follow": [
