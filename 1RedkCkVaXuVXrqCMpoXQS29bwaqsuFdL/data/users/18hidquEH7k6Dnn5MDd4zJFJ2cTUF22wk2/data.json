@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 44,
+	"next_comment_id": 46,
 	"next_follow_id": 1,
 	"avatar": "jpg",
 	"user_name": "Cxgreat2014",
@@ -283,6 +283,18 @@
 			"body": "我去，这页都刷满了，底下过去的都不显示了",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
 			"date_added": 1479995543
+		},
+		{
+			"comment_id": 44,
+			"body": "@P2P: 点击显示更多会去查询数据库，超过15ms的直接返回",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479996658
+		},
+		{
+			"comment_id": 45,
+			"body": "// matches the projections array\n        var doRender = function () {\n            scheduled = undefined;\n            if (!renderCompleted) {\n                return;    // The last render threw an error, it should be logged in the browser console.\n            }\n            var s = Date.now()\n            renderCompleted = false;\n            for (var i = 0; i < projections.length; i++) {\n                var updatedVnode = renderFunctions[i]();\n                projections[i].update(updatedVnode);\n            }\n            if (Date.now()-s > 15)\n                console.log(\"Render time:\", Date.now()-s, \"ms\")\n            renderCompleted = true;\n        };",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1479996707
 		}
 	],
 	"follow": [],
