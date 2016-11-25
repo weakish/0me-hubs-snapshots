@@ -1,7 +1,7 @@
 {
-	"next_post_id": 59,
+	"next_post_id": 60,
 	"next_comment_id": 36,
-	"next_follow_id": 182,
+	"next_follow_id": 184,
 	"avatar": "png",
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -296,6 +296,11 @@
 			"post_id": 1479994606,
 			"body": "Overloading an operator should be consistent to all types supporting the operator.",
 			"date_added": 1479994548
+		},
+		{
+			"post_id": 1480065088,
+			"body": "Kotlin uses `Array<T>` for `vararg p: T` (variadic functions) underhood, but:\n\n- Basic types are special, e.g. `IntArray` for `vararg p: Int`.\n- `p: Array<T>` and `vararg p: T` behaves differently. In other words, given a function `Array<T> -> Unit`, we do not know how to invoke it just from its signature. (`Array<T> -> Unit` may be an infix function, but all infix functions can be invoked as normal functions.)",
+			"date_added": 1480065029
 		}
 	],
 	"post_like": {
@@ -1750,6 +1755,20 @@
 			"auth_address": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS",
 			"user_name": "Jabasukuriputo Wang",
 			"date_added": 1479902359
+		},
+		{
+			"follow_id": 182,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow",
+			"user_name": "Militaryriotlab",
+			"date_added": 1480065147
+		},
+		{
+			"follow_id": 183,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1V7usnfmabQXPSNC2zrCpF2ed2jDZaujS",
+			"user_name": "Bingyuhuo",
+			"date_added": 1480065677
 		}
 	]
 }
