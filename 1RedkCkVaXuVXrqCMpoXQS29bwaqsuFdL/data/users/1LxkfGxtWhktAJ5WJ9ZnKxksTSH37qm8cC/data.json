@@ -1,6 +1,6 @@
 {
 	"next_post_id": 62,
-	"next_comment_id": 46,
+	"next_comment_id": 47,
 	"next_follow_id": 14,
 	"avatar": "generate",
 	"user_name": "Firebox",
@@ -303,7 +303,8 @@
 	"post_like": {
 		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1473873962": 1473903452,
 		"12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1479068328": 1479071443,
-		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1479254170": 1479266232
+		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1479254170": 1479266232,
+		"1KN1Au7SRmeTmffcxxoyPABDpvqmq7iMbN_1480026407": 1480039374
 	},
 	"comment": [
 		{
@@ -575,6 +576,12 @@
 			"body": "@ZAlex: I changed the compression to DEFLATE. Can you update my site and try downloading again? (The Zip file should be around 600kb)",
 			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479546563",
 			"date_added": 1479687879
+		},
+		{
+			"comment_id": 46,
+			"body": "Wow, 500MB of metadata?",
+			"post_uri": "1KN1Au7SRmeTmffcxxoyPABDpvqmq7iMbN_1480026407",
+			"date_added": 1480039393
 		}
 	],
 	"follow": [
