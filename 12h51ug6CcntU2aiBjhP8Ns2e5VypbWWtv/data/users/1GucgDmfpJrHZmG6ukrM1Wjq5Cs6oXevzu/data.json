@@ -1,5 +1,5 @@
 {
-	"next_post_id": 9,
+	"next_post_id": 12,
 	"next_comment_id": 3,
 	"next_follow_id": 25,
 	"avatar": "png",
@@ -16,6 +16,21 @@
 			"post_id": 1479816021,
 			"body": "¿Veremos alguna vez Zeronet traducido completamente al español?...",
 			"date_added": 1479816013
+		},
+		{
+			"post_id": 1480018999,
+			"body": "Zeronet Rev1756, Sidebar button flud fix",
+			"date_added": 1480018990
+		},
+		{
+			"post_id": 1480019568,
+			"body": "La herramienta para resolver todos los problemas de privacidad de Windows 10 en un click.\nEsta aplicación puede ser usado tanto a través de una interfaz de usuario como de la linea de comandos, y de momento implementa unas 130 reglas relacionadas con la protección de datos, en particular se encarga de añadir reglas de privacidad mejoradas para:\n\n    La telemetría en Windows 10\n    Datos de geolocalización\n    OneDrive\n    Cortana\n    Bitlocker\n\nhttps://modzero.github.io/fix-windows-privacy/",
+			"date_added": 1480019558
+		},
+		{
+			"post_id": 1480106328,
+			"body": "Linux Mint no se deja instalar. Al arrancar desde un usb-hdd (unetbootin-windows-625) me dice \"isolinux.bin no se encuentra\". He probado con las últimas versiones de linuxmint-18-cinnamon-64bit y linuxmint-18-mate-64bit y nada, no aparece el programa de instalación. \n¿Alguna idea?",
+			"date_added": 1480106317
 		}
 	],
 	"post_like": {},

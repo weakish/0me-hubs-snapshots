@@ -1,7 +1,7 @@
 {
 	"next_post_id": 7,
-	"next_comment_id": 11,
-	"next_follow_id": 29,
+	"next_comment_id": 12,
+	"next_follow_id": 30,
 	"avatar": "jpg",
 	"user_name": "Arsene Lupin",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -93,6 +93,12 @@
 			"body": "@Arne Bolen: The point of the black list is not to make it work, is not to make it impossible for people to access that type of content. The point is to comply with the law and to send the message that the platform does not welcome that type of content.\nWe don't want people to associate ZeroNet with a platform what welcomes pedo e radical fundamentalists. It's more a public relations campaign than a technical solution.",
 			"post_uri": "1AjxW1N844WRpscEFSotfsqLXsQurz83xc_1475067668",
 			"date_added": 1475311638
+		},
+		{
+			"comment_id": 11,
+			"body": "@Firebox: 350MB for the English DB. 500MB is the site size limit.",
+			"post_uri": "1KN1Au7SRmeTmffcxxoyPABDpvqmq7iMbN_1480026407",
+			"date_added": 1480104421
 		}
 	],
 	"follow": [
@@ -284,6 +290,13 @@
 			"auth_address": "1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi",
 			"user_name": "Eibriel",
 			"date_added": 1478726179
+		},
+		{
+			"follow_id": 29,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1KN1Au7SRmeTmffcxxoyPABDpvqmq7iMbN",
+			"user_name": "Antilibrary",
+			"date_added": 1480018165
 		}
 	],
 	"settings": {
