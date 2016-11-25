@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 30,
 	"avatar": "jpg",
 	"user_name": "Rapunzel",
@@ -14,7 +14,14 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "处理器性能应该不用担忧，要考虑的是带宽和存储消耗。我的零网是架在树莓派I Model B上的。",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1480039469",
+			"date_added": 1480059101
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 1,

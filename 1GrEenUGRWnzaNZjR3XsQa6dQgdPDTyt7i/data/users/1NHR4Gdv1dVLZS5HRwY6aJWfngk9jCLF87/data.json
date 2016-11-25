@@ -1,6 +1,6 @@
 {
 	"next_post_id": 26,
-	"next_comment_id": 8,
+	"next_comment_id": 9,
 	"next_follow_id": 7,
 	"avatar": "jpg",
 	"user_name": "Brom",
@@ -130,7 +130,7 @@
 		},
 		{
 			"post_id": 1479981245,
-			"body": "Новый пост на [http://127.0.0.1:43110/brom.bit/?Post:22:New+blog+post](brom.py) Жажду ответочки от читателей!",
+			"body": "Новый пост на [brom.py]( http://127.0.0.1:43110/19bhDQnHTh9Qww3XePT9EHn2AujGB6boFg/?Post:22:%D0%91%D1%83%D0%B4%D1%8C+%D0%B1%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%BD,+%D0%A5%D0%B0%D0%BA%D0%B5%D1%80!) Жажду ответочки от читателей!",
 			"date_added": 1479981220
 		}
 	],
@@ -181,6 +181,12 @@
 			"body": "@ZAlex: принято, в новом посте исправил",
 			"post_uri": "1NHR4Gdv1dVLZS5HRwY6aJWfngk9jCLF87_1479033972",
 			"date_added": 1479981604
+		},
+		{
+			"comment_id": 8,
+			"body": "@Shift: http://127.0.0.1:43110/19bhDQnHTh9Qww3XePT9EHn2AujGB6boFg/?Post:22:%D0%91%D1%83%D0%B4%D1%8C+%D0%B1%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%BD,+%D0%A5%D0%B0%D0%BA%D0%B5%D1%80! как всегда перепутал аргументы для гиперссылок прошу прощения, зафиксил)",
+			"post_uri": "1NHR4Gdv1dVLZS5HRwY6aJWfngk9jCLF87_1479981245",
+			"date_added": 1480058871
 		}
 	],
 	"follow": [
