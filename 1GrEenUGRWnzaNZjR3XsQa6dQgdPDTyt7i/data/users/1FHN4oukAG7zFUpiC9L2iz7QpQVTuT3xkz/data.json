@@ -1,5 +1,5 @@
 {
-	"next_post_id": 98,
+	"next_post_id": 99,
 	"next_comment_id": 324,
 	"next_follow_id": 59,
 	"avatar": "jpg",
@@ -491,6 +491,12 @@
 			"post_id": 1480061980,
 			"body": "gnuroot无法安装tor，因为无法读写/data。zeronet也无法连接到orbot",
 			"date_added": 1480061883
+		},
+		{
+			"post_id": 1480080580,
+			"body": "linux的ZeroBundle解压出来不过38.2MB，是否可以找到里面所有二进制文件的源代码，然后全部编译出ARM版，这样就不需要去担心兼容性问题了吧@P2P ",
+			"date_added": 1480080482,
+			"meta": "{\"img\":\"669,700,eeddddcddeeffeefffeeeeddfefdee99accd9aaccc,0123345555301260178547658676555465867585555589AB235555855555555586CD55555586D6655555867068555586D155\"}"
 		}
 	],
 	"post_like": {
