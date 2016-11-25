@@ -1,6 +1,6 @@
 {
 	"next_post_id": 99,
-	"next_comment_id": 324,
+	"next_comment_id": 325,
 	"next_follow_id": 59,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
@@ -2443,6 +2443,12 @@
 			"body": "@Lmath: 不是安卓的/data，gnuroot的/data似乎没有正确挂载",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480061980",
 			"date_added": 1480068782
+		},
+		{
+			"comment_id": 324,
+			"body": "@Ysc3839: 然而data的挂载似乎出了问题，在根目录上ls有data，cd进去之后没法访问",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480061980",
+			"date_added": 1480082533
 		}
 	],
 	"follow": [
