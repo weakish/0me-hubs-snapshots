@@ -1,5 +1,5 @@
 {
-	"next_post_id": 24,
+	"next_post_id": 25,
 	"next_comment_id": 25,
 	"next_follow_id": 29,
 	"avatar": "jpg",
@@ -122,6 +122,11 @@
 			"post_id": 1479538580,
 			"body": "Проблема. Как (для сохранения в p2p) качать wget'ом страницу со всеми ресурсами? Подробнее: [в блоге](/1MaQ4W5D6G52TpBfPACU9k9QcB1DxvHZ5v/?Post:16)",
 			"date_added": 1479538557
+		},
+		{
+			"post_id": 1480093962,
+			"body": "Is it possible to allow users to write comments in #ZeroBlog with authorizing not through zeroid.bit but locally? Or allow write for guests? There is an option \"Unique to site\", but when it is selected then leave a comments is impossible.",
+			"date_added": 1480093938
 		}
 	],
 	"post_like": {

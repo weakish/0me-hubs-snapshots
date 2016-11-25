@@ -1,6 +1,6 @@
 {
 	"next_post_id": 21,
-	"next_comment_id": 126,
+	"next_comment_id": 127,
 	"next_follow_id": 29,
 	"avatar": "png",
 	"user_name": "Nofish",
@@ -853,6 +853,12 @@
 			"body": "On chrome: F12, F1, uncheck: Enable js source maps",
 			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479927982",
 			"date_added": 1479944619
+		},
+		{
+			"comment_id": 126,
+			"body": "They fixed my bugreport quickly: https://bugs.chromium.org/p/chromium/issues/detail?id=658530&start=100&num=100\n(zeronet stopped working in chrome 55)",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1480035058",
+			"date_added": 1480096140
 		}
 	],
 	"follow": [
