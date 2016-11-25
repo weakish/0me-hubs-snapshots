@@ -1,5 +1,5 @@
 {
-	"next_post_id": 61,
+	"next_post_id": 62,
 	"next_comment_id": 46,
 	"next_follow_id": 14,
 	"avatar": "generate",
@@ -293,6 +293,11 @@
 			"post_id": 1479967047,
 			"body": "## ZeroMux Bundle v0.1.2\n\n- Label files with extension `.bz2` as archives.\n- Put folders before files.\n- Only use folder names that ZeroNet accept.\n- Replace `\\r\\n` with `\\n` to fix chmod problem on Linux.\n- Add to documentation information on optional files.\n- Carry queries with redirection.\n- **Delete files and folders.**\n\nDownload new version [here](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/bundle/).\n\nHow to update?\nExtract all files from the new archive and replace old files. The archive does not contain a `files` folder, so your data will not be lost.",
 			"date_added": 1479966987
+		},
+		{
+			"post_id": 1480035058,
+			"body": "## Mozilla\n**[Bug 1313268](https://bugzilla.mozilla.org/show_bug.cgi?id=1313268) - Iframe renders a remote xul error**\nReported:  2016-10-26 19:07 PDT\n\nLoic 2016-10-28 01:10:57 PDT\nMaybe a dupe of ~~bug 1203813~~.\n\n**[Bug 1203813](https://bugzilla.mozilla.org/show_bug.cgi?id=1203813) - iframe requires allow-popups to download**\nReported:  2015-09-10 19:45 PDT\nStatus:  RESOLVED FIXED\n\nBug report got investigated in a day; bug being actively fixed.\n- - -\n\n## Chromium\n**[Issue 379206](https://bugs.chromium.org/p/chromium/issues/detail?id=379206) - Not allowed to load local resource: blob:null/d9d5f7c1-493c-4d8c-a986-3e3135da5da3**\nReported by dirk.cit...@gmail.com, May 30 **2014**\n\nComment 4 by tnakamura@chromium.org, Jun 27 2014\n**Status: WontFix**\n\nThere hasn't been a response from the reporter to comment #1 for nearly a month, so I'm closing this bug.\n\nComment 5 by Deleted ...@, Aug 14 2014\n\nI have same problem and \"--allow-file-access-from-files\" doesn't help\n\nComment 6 by tnakamura@chromium.org, Aug 14 2014\n\nalex@ - please file a new bug, and if possible, attach the test html page that triggers the problem. Thanks!\n\nAlex did not respond, and this bug remains in Chrome for two years. You can still reproduce this bug in ZeroNet's iframe using the latest Google Chrome.",
+			"date_added": 1480034997
 		}
 	],
 	"post_like": {
