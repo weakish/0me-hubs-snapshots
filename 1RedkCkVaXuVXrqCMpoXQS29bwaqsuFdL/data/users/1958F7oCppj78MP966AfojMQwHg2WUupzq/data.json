@@ -1,7 +1,7 @@
 {
 	"next_post_id": 28,
-	"next_comment_id": 99,
-	"next_follow_id": 178,
+	"next_comment_id": 103,
+	"next_follow_id": 183,
 	"avatar": "png",
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -147,7 +147,7 @@
 		},
 		{
 			"post_id": 1480003994,
-			"body": "从昨天发布 ZeroMe 内容就老是提示内容发布失败，今天连给 ZeroMux 站点签名都出错了，贴 log ：\n```\nC:\\Users\\lmath\\ZeroBundle\\ZeroNet>..\\Python\\python.exe zeronet.py siteSign 12VnwCxot8tiMS3bBvksqQJQ8mLPRZ6CQE [Hide my Privatekey]\n- Starting ZeroNet...\n- OpenSSL loaded, version: 01000201F\n- Version: 0.5.1 r1755, Python 2.7.12 (v2.7.12:d33e0cf91556, Jun 27 2016, 15:19:22) [MSC v.1500 32 bit (Intel)], Gevent:\n 1.1.2\nTraceback (most recent call last):\n  File \"zeronet.py\", line 16, in main\n    main.start()\n  File \"src\\main.py\", line 450, in start\n    actions.call(config.action, action_kwargs)\n  File \"src\\main.py\", line 129, in call\n    func(**kwargs)\n  File \"src\\main.py\", line 186, in siteSign\n    SiteManager.site_manager.load()\n  File \"plugins\\Zeroname\\SiteManagerPlugin.py\", line 20, in load\n    super(SiteManagerPlugin, self).load(*args, **kwargs)\n  File \"plugins\\MergerSite\\MergerSitePlugin.py\", line 322, in load\n    super(SiteManagerPlugin, self).load(*args, **kwags)\n  File \"src\\Site\\SiteManager.py\", line 39, in load\n    self.sites[address] = Site(address, settings=settings)\n  File \"src\\Site\\Site.py\", line 57, in __init__\n    self.content_manager = ContentManager(self)\n  File \"src\\Content\\ContentManager.py\", line 23, in __init__\n    self.contents = ContentDbDict(site)\n  File \"src\\Content\\ContentDbDict.py\", line 13, in __init__\n    self.db_id = self.db.needSite(site)\n  File \"src\\Content\\ContentDb.py\", line 67, in needSite\n    self.execute(\"INSERT OR IGNORE INTO site ?\", {\"address\": site.address})\n  File \"src\\Db\\Db.py\", line 77, in execute\n    return self.cur.execute(query, params)\n  File \"src\\Db\\DbCursor.py\", line 49, in execute\n    res = self.cursor.execute(query, params)\nOperationalError: database is locked\n```",
+			"body": "@P2P 从昨天发布 ZeroMe 内容就老是提示内容发布失败，今天连给 ZeroMux 站点签名都出错了，贴 log ：\n```\nC:\\Users\\lmath\\ZeroBundle\\ZeroNet>..\\Python\\python.exe zeronet.py siteSign 12VnwCxot8tiMS3bBvksqQJQ8mLPRZ6CQE [Hide my Privatekey]\n- Starting ZeroNet...\n- OpenSSL loaded, version: 01000201F\n- Version: 0.5.1 r1755, Python 2.7.12 (v2.7.12:d33e0cf91556, Jun 27 2016, 15:19:22) [MSC v.1500 32 bit (Intel)], Gevent:\n 1.1.2\nTraceback (most recent call last):\n  File \"zeronet.py\", line 16, in main\n    main.start()\n  File \"src\\main.py\", line 450, in start\n    actions.call(config.action, action_kwargs)\n  File \"src\\main.py\", line 129, in call\n    func(**kwargs)\n  File \"src\\main.py\", line 186, in siteSign\n    SiteManager.site_manager.load()\n  File \"plugins\\Zeroname\\SiteManagerPlugin.py\", line 20, in load\n    super(SiteManagerPlugin, self).load(*args, **kwargs)\n  File \"plugins\\MergerSite\\MergerSitePlugin.py\", line 322, in load\n    super(SiteManagerPlugin, self).load(*args, **kwags)\n  File \"src\\Site\\SiteManager.py\", line 39, in load\n    self.sites[address] = Site(address, settings=settings)\n  File \"src\\Site\\Site.py\", line 57, in __init__\n    self.content_manager = ContentManager(self)\n  File \"src\\Content\\ContentManager.py\", line 23, in __init__\n    self.contents = ContentDbDict(site)\n  File \"src\\Content\\ContentDbDict.py\", line 13, in __init__\n    self.db_id = self.db.needSite(site)\n  File \"src\\Content\\ContentDb.py\", line 67, in needSite\n    self.execute(\"INSERT OR IGNORE INTO site ?\", {\"address\": site.address})\n  File \"src\\Db\\Db.py\", line 77, in execute\n    return self.cur.execute(query, params)\n  File \"src\\Db\\DbCursor.py\", line 49, in execute\n    res = self.cursor.execute(query, params)\nOperationalError: database is locked\n```",
 			"date_added": 1480003967
 		}
 	],
@@ -734,6 +734,30 @@
 			"body": "@P2P: 确实不科学，难怪我一直点不出来。",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
 			"date_added": 1479999667
+		},
+		{
+			"comment_id": 99,
+			"body": "@Nassau: 一般登录可以跳过的，实在不能跳过的可以搭个翻墙路由器。",
+			"post_uri": "1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd_1479875155",
+			"date_added": 1480046221
+		},
+		{
+			"comment_id": 100,
+			"body": "`UiWebsocket.py line 99 > UiWebsocket.py line 182 > MergerSitePlugin.py line 180 > MergerSitePlugin.py line 169 > UiWebsocket.py line 333 > MergerSitePlugin.py line 177 > MergerSitePlugin.py line 174 > UiWebsocket.py line 314 > ContentManager.py line 601 > ContentDbDict.py line 61 > ContentDbPlugin.py line 201 > ContentDbPlugin.py line 160 > Db.py line 77 > DbCursor.py line 53`内容发布经常报这个错。‘",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480003994",
+			"date_added": 1480046314
+		},
+		{
+			"comment_id": 101,
+			"body": "@Cxgreat2014: 根据猫叉酱的说法，目前使用 GNURoot 耗电并不是很大，而用 Java 重写就面临类似于 Shadowsock-Android 一样的电脑版功能出了好久了，手机版功能迟迟没出，而 Shadowsocks 暂且只是个轻量级的代理应用。\n根据我的想法，手机端应该只在有 Wi-Fi 并且电量充足的情况下完全同步和做种，其余时间应该发挥类似于离线浏览的优势，除非用户手动同步、发布新内容、该文件只有该手机上有、用户希望浏览但是没有下载的内容外，其他同步暂停。\n而打包这个 APK 初步还是为了通过一般人家中的旧手机来完成做种等应用，所以可以先出出看。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1480128346
+		},
+		{
+			"comment_id": 102,
+			"body": "@Cxgreat2014: 1.0 后还可以有 2.0, 3.0, 4.0 ... 55.0，参照 Chrome 。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1480171274
 		}
 	],
 	"follow": [
@@ -1947,6 +1971,41 @@
 			"auth_address": "1CmUmoAfG7UdLBNtELeWG8dffHV6rYBy7A",
 			"user_name": "Mahoupao",
 			"date_added": 1479994610
+		},
+		{
+			"follow_id": 178,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1NMjdWj6UbkVwwtnm3ssTU3vLJ4Z5VCxPX",
+			"user_name": "Askeabl",
+			"date_added": 1480059338
+		},
+		{
+			"follow_id": 179,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1J26AUH6hffJXtGKzjX6vPGsN7zub6bxvL",
+			"user_name": "For",
+			"date_added": 1480073117
+		},
+		{
+			"follow_id": 180,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "14bCxrpn5sMttEXaeD2NvQUPjLNrj8DghA",
+			"user_name": "Xueqingwanwang",
+			"date_added": 1480171353
+		},
+		{
+			"follow_id": 181,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "14139fxEEc7VuHVxvK2UqYSeX3rJqiADVY",
+			"user_name": "Freedomchina",
+			"date_added": 1480175464
+		},
+		{
+			"follow_id": 182,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1MxKh3G6gTaYnGZMHD23gLG4y9hCBujNGN",
+			"user_name": "Hologum",
+			"date_added": 1480175716
 		}
 	],
 	"settings": {

@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 53,
+	"next_comment_id": 54,
 	"user_name": "Ysc3839",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -335,6 +335,12 @@
 			"body": "@P2P: 用js实现也不太可能在浏览器中运行，因为浏览器中不提供直接访问网络的功能，倒是很有可能在nodejs下运行，或者可以搞成Electron那样子",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
 			"date_added": 1480164051
+		},
+		{
+			"comment_id": 53,
+			"body": "@P2P: WebRTC也不太容易实现吧？",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1480172707
 		}
 	],
 	"flags": {},
