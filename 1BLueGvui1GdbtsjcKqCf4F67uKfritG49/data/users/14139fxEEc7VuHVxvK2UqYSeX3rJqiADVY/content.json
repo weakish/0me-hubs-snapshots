@@ -5,13 +5,28 @@
  "cert_user_id": "freedomchina@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "0c6c2b5ed49554957448c19f61390f389f25e0758dd77d2f0cd7f52f8ad65892",
-   "size": 5197
+   "sha512": "1cbe8931952cd533f5cbf76f90370694bfd3f9b92ae7f2679757357e37e05089",
+   "size": 6407
+  }
+ },
+ "files_optional": {
+  "1480166565.jpg": {
+   "sha512": "2bc60b770d8b01033561e3ac28c0a0e34992d7fa4a3981c127db54f223af3006",
+   "size": 49150
+  },
+  "1480167555.jpg": {
+   "sha512": "f9994f64a928f4415e48a12625e4b9318f398fd6a180955ba2aa522f2edb545b",
+   "size": 28828
+  },
+  "1480168279.jpg": {
+   "sha512": "f51cf8cf7a422c499d4bb1dce6855b3442dcec6372491d97797de260e1b6a946",
+   "size": 24508
   }
  },
  "inner_path": "data/users/14139fxEEc7VuHVxvK2UqYSeX3rJqiADVY/content.json",
- "modified": 1480165161.342,
+ "modified": 1480168272.256,
+ "optional": "(?!avatar).*jpg",
  "signs": {
-  "14139fxEEc7VuHVxvK2UqYSeX3rJqiADVY": "GxtZoOmnicQbKnyK7fGY7BseZ0N/KfyDpXhHrVCq8SuC5j37jQAmTr67Ao91J84cSFLF0D3RLWX7lxAtLITPi/A="
+  "14139fxEEc7VuHVxvK2UqYSeX3rJqiADVY": "HEKR96cUKrz+ewAmrLeThIbwyHteqsr3xncgFVBlEhgP18pN2zh6ZOJE/FCpGH1bohctsUD+/24SarwW2wDTq0A="
  }
 }
