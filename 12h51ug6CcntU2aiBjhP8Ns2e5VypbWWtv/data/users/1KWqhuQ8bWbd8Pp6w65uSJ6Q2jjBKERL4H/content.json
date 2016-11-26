@@ -1,0 +1,17 @@
+{
+ "address": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+ "cert_auth_type": "web",
+ "cert_sign": "G0XUWkKigpBZla+Bdt98wpMkd8sKyDVxrslv2FxZ7PzeAekWPceTjwQuLqlTDd4YNWAzOiwjYG2T6NB4KSe54EI=",
+ "cert_user_id": "peponi@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a4fb95739c56e8291d7d19c2c7631a6cb91c81b1fbdc22942b728f7b2c1df3b5",
+   "size": 310
+  }
+ },
+ "inner_path": "data/users/1KWqhuQ8bWbd8Pp6w65uSJ6Q2jjBKERL4H/content.json",
+ "modified": 1480117784.771613,
+ "signs": {
+  "1KWqhuQ8bWbd8Pp6w65uSJ6Q2jjBKERL4H": "GzPXH3zfk45wkkLPJmctEmIn8M9MxHT1XNMU7z7J7/SdKZmSMJEt0AERIVFtAilX2ruMEsvzYXNWOwj3FPsNq0Q="
+ }
+}
