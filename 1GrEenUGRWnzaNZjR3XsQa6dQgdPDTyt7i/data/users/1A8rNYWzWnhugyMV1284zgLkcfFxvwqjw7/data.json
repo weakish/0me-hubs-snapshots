@@ -1,7 +1,7 @@
 {
 	"next_post_id": 43,
-	"next_comment_id": 81,
-	"next_follow_id": 18,
+	"next_comment_id": 82,
+	"next_follow_id": 19,
 	"avatar": "jpg",
 	"user_name": "Bullseye",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -714,6 +714,12 @@
 			"body": "听你们这么说我连备胎都可以派上新用途了。空间大概有接近10G，流量嘛，尽量刷wifi吧。",
 			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1480039469",
 			"date_added": 1480085253
+		},
+		{
+			"comment_id": 81,
+			"body": "@weakish:  对呀。只不过这个目录可不仅仅是书架，而是，多媒体架，以及数据包架。。总之具有云的功能却根本不是云。如果把云视为靠中央服务器支持的，那么共享目录则刚好相反，分布在每个参与节点上，并即时同步。那么为了强调这个性质，不妨称之为“矿”。之所以不称为“库”，是觉得这个词已经用滥了，而且暗含着有“管理者”的意思，然而“矿”并没有管理者。。",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479971948",
+			"date_added": 1480140907
 		}
 	],
 	"follow": [
@@ -828,6 +834,13 @@
 			"auth_address": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB",
 			"user_name": "Ysc3839",
 			"date_added": 1479981159
+		},
+		{
+			"follow_id": 18,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2",
+			"user_name": "Cxgreat2014",
+			"date_added": 1480142148
 		}
 	],
 	"settings": {
