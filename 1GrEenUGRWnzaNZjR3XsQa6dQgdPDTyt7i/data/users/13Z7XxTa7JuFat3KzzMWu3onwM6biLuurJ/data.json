@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 208,
+	"next_comment_id": 210,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -1289,6 +1289,18 @@
 			"body": "@Lmath: 复制入站点目录、签名发布应该能通过py自动的啊，下一步zeroMux作者会改进吧？",
 			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1479732135",
 			"date_added": 1479907856
+		},
+		{
+			"comment_id": 208,
+			"body": "@Linkerlin: 纯py的性能差，特别在移动端（慢、耗电）。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480080580",
+			"date_added": 1480131909
+		},
+		{
+			"comment_id": 209,
+			"body": "你的GNURoot里的就已经是arm版，但仍然不能在android原生环境下用，要用android NDK编译才行。关注这位大神的动态，如果他的python2.7.12被merge，就有戏了，我们就方便多了 https://github.com/opacam",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480080580",
+			"date_added": 1480132306
 		}
 	],
 	"flags": {},
