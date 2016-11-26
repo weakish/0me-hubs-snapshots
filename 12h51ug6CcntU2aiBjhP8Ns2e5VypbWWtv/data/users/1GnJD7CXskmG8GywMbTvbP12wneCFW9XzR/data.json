@@ -1,5 +1,5 @@
 {
-	"next_post_id": 60,
+	"next_post_id": 61,
 	"next_comment_id": 36,
 	"next_follow_id": 185,
 	"avatar": "png",
@@ -301,6 +301,11 @@
 			"post_id": 1480065088,
 			"body": "Kotlin uses `Array<T>` for `vararg p: T` (variadic functions) underhood, but:\n\n- Basic types are special, e.g. `IntArray` for `vararg p: Int`.\n- `p: Array<T>` and `vararg p: T` behaves differently. In other words, given a function `Array<T> -> Unit`, we do not know how to invoke it just from its signature. (`Array<T> -> Unit` may be an infix function, but all infix functions can be invoked as normal functions.)",
 			"date_added": 1480065029
+		},
+		{
+			"post_id": 1480133539,
+			"body": "Black Friday sales for VPS: https://www.lowendtalk.com/categories/offers",
+			"date_added": 1480133479
 		}
 	],
 	"post_like": {

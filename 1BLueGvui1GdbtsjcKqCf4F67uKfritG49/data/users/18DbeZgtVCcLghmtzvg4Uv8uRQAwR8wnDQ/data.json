@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 5,
+	"next_comment_id": 6,
 	"user_name": "Jro",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {},
@@ -27,6 +27,12 @@
 			"body": "@Militaryriotlab: OK. I would be wrong. I have switched between 3 different comp. within a very short time. Could just have typed in the wrong address ...",
 			"post_uri": "1889tLMuZze7YMshhe8u5h4NT4SSiA4PVB_1478947190",
 			"date_added": 1479058892
+		},
+		{
+			"comment_id": 5,
+			"body": "The \"problem\" is in user_contents section of contents.json. You can make your own ID provider, but there have to be a list of ID providers in cert_signers.  https://zeronet.readthedocs.io/en/latest/site_development/content_json/#user_contents\nBut a \"unique to site\" authorization could be nice as an option. Sometimes you don't need an ID provider ...",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1480093962",
+			"date_added": 1480132856
 		}
 	],
 	"flags": {
