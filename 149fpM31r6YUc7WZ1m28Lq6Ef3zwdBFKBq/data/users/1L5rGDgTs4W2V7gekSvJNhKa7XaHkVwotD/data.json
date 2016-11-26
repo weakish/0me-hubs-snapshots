@@ -1,6 +1,6 @@
 {
-	"next_post_id": 14,
-	"next_comment_id": 11,
+	"next_post_id": 15,
+	"next_comment_id": 12,
 	"next_follow_id": 34,
 	"avatar": "generate",
 	"user_name": "Antyhrabia",
@@ -56,6 +56,11 @@
 			"post_id": 1472734452,
 			"body": "Thats sucks, site generate by Jekyll dont work in ZN. From Hugo works, but I dont like this static site gen.",
 			"date_added": 1472734442
+		},
+		{
+			"post_id": 1480178406,
+			"body": "Zaktualizowałem forum. Korzysta teraz głównie z tłumaczenia z osobnego pliku (korzysta więc z nowości z ZeroNet 0.5.1), ale parę rzeczy nadal musiałem zmienić w index.html.",
+			"date_added": 1480178392
 		}
 	],
 	"post_like": {
@@ -122,6 +127,12 @@
 			"body": "Witamy w Zeronet!",
 			"post_uri": "1BMckDnbHyrC7Nptr2jBRxwEHe4oYQtWqY_1",
 			"date_added": 1472733841
+		},
+		{
+			"comment_id": 11,
+			"body": "@TeddyDD: Personal preference. Is more suitable for me.",
+			"post_uri": "1L5rGDgTs4W2V7gekSvJNhKa7XaHkVwotD_1472734452",
+			"date_added": 1480178305
 		}
 	],
 	"follow": [

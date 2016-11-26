@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 54,
+	"next_comment_id": 56,
 	"user_name": "Ysc3839",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -341,6 +341,18 @@
 			"body": "@P2P: WebRTC也不太容易实现吧？",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
 			"date_added": 1480172707
+		},
+		{
+			"comment_id": 54,
+			"body": "@P2P: 我没有了解过WebRTC，感觉上是不如直接socket方便。另外还有多线程的问题",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1480176209
+		},
+		{
+			"comment_id": 55,
+			"body": "@P2P: 我看了一下WebRTC，说是只能浏览器之间连接，这不满足ZeroNet的需求吧？",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1480177028
 		}
 	],
 	"flags": {},

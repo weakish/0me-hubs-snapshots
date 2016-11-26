@@ -4,14 +4,18 @@
  "cert_sign": "G8K86GIMm+0RRZaQUB80a4usesLLoGcEIdEcHOvb5Uizb1iSLQvB2O6XDZpP+6za3zSQCMzgfOWNgnoDaEAe4TI=",
  "cert_user_id": "antilibrary@zeroid.bit",
  "files": {
+  "avatar.png": {
+   "sha512": "c54cb14e4100ccf34ae7fd4f73807c6f7f13ed29b2fb7efcaa37947169b9229b",
+   "size": 630
+  },
   "data.json": {
-   "sha512": "ce1d64b8ff1d3585fd594a7104502b4882981efb837c5e5e87045ea49355bb88",
-   "size": 881
+   "sha512": "3f4a7cffdc2f2c951f8628bc2c0180fb7cf18f2fc9866c9e98e5974c328fb1ed",
+   "size": 876
   }
  },
  "inner_path": "data/users/1KN1Au7SRmeTmffcxxoyPABDpvqmq7iMbN/content.json",
- "modified": 1480026436.646868,
+ "modified": 1480179093.144698,
  "signs": {
-  "1KN1Au7SRmeTmffcxxoyPABDpvqmq7iMbN": "HOesYnsNqJK1o4ruqTqlUWn4Bp2kM1OiNuD5oyhXWEqTMfqRNFauLS8ZuRfoex2tdy/rb3wD7RemldC7iFIrm7E="
+  "1KN1Au7SRmeTmffcxxoyPABDpvqmq7iMbN": "G5fv+pXPLeHCGaMCp1SAi8A1+Ks6+HGEpWtMFV7Bj/tNiSdByJ3cGw/4DTtWycZKeRrO0UlmnNezPZsZSIU5FDs="
  }
 }
