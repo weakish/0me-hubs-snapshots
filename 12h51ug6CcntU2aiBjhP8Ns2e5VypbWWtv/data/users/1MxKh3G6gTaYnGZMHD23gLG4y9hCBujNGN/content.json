@@ -1,0 +1,17 @@
+{
+ "address": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+ "cert_auth_type": "web",
+ "cert_sign": "IM81gyaVYmnTNXY2q2AGOFeaKN6+1EBR/RRkQcsKRefKfjsoYTKKD/6XxMPtZuZ6Tcuj+6Fow8e/nDBc4IyBCGA=",
+ "cert_user_id": "hologum@kaffie.bit",
+ "files": {
+  "data.json": {
+   "sha512": "0f74bcf9a120f8158f24d8e20650201eabd6bc1e7646e9ffa985c3d7c1bcb10b",
+   "size": 684
+  }
+ },
+ "inner_path": "data/users/1MxKh3G6gTaYnGZMHD23gLG4y9hCBujNGN/content.json",
+ "modified": 1480172357.881264,
+ "signs": {
+  "1MxKh3G6gTaYnGZMHD23gLG4y9hCBujNGN": "G6Few8H2bXRHU9CL/F813/RMoCRwqLR9NOrpIldoHgnE1HsecZp4A5IxwG3VnqFLgoO9ZgfQpvhBtF/U4jV7ZtE="
+ }
+}

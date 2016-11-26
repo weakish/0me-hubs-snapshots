@@ -1,18 +1,12 @@
 {
 	"next_post_id": 3,
 	"next_comment_id": 3,
-	"next_follow_id": 1,
-	"avatar": "jpg",
+	"next_follow_id": 2,
+	"avatar": "png",
 	"user_name": "TCP",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"intro": "三次握手和四次挥手~",
-	"post": [
-		{
-			"post_id": 1480168394,
-			"date_added": 1480168392,
-			"meta": "{\"img\":\"900,593,933a45b98733712322865ca9433ecba87411855b67555112,0123444567012334382900253AAA72002B3A22661C2677A658DC22226EFFACAAAE8EFF\"}"
-		}
-	],
+	"post": [],
 	"post_like": {},
 	"comment": [
 		{
@@ -28,5 +22,13 @@
 			"date_added": 1480168420
 		}
 	],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1CogrjsFiTL3nHH74BXnAcM1S3KsNaLtEx",
+			"user_name": "TCP",
+			"date_added": 1480172038
+		}
+	]
 }
