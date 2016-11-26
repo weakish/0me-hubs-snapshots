@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 6,
+	"next_comment_id": 7,
 	"user_name": "Jro",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {},
@@ -33,6 +33,12 @@
 			"body": "The \"problem\" is in user_contents section of contents.json. You can make your own ID provider, but there have to be a list of ID providers in cert_signers.  https://zeronet.readthedocs.io/en/latest/site_development/content_json/#user_contents\nBut a \"unique to site\" authorization could be nice as an option. Sometimes you don't need an ID provider ...",
 			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1480093962",
 			"date_added": 1480132856
+		},
+		{
+			"comment_id": 6,
+			"body": "@Balancer73: I am not sure, but maybe text \"Unique to site\" text is misleading. Maybe it should be \"Not logged in\" ..",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1480093962",
+			"date_added": 1480147376
 		}
 	],
 	"flags": {
