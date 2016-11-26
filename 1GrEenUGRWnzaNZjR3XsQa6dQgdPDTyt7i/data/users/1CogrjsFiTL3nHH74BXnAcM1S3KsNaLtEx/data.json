@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "TCP",
@@ -8,6 +8,13 @@
 	"intro": "新 ZeroNet 用户",
 	"post": [],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "怎么没有节点？",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480163987",
+			"date_added": 1480165003
+		}
+	],
 	"follow": []
 }
