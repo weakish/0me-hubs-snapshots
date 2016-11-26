@@ -1,13 +1,15 @@
 {
 	"next_post_id": 4,
 	"next_comment_id": 1,
-	"next_follow_id": 4,
+	"next_follow_id": 5,
 	"avatar": "jpg",
 	"user_name": "Olivier Robitaille",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"intro": "[Frère Poulet](/frerepoulet.bit)",
 	"post": [],
-	"post_like": {},
+	"post_like": {
+		"152kdpXWPevMLNm7755GKuzQPsu71bs13t_1479959180": 1480126981
+	},
 	"comment": [],
 	"follow": [
 		{
@@ -30,6 +32,13 @@
 			"auth_address": "17GqyGwVtGCVNaF5C3pQbBE7XP2WQWo8ge",
 			"user_name": "Olivier Robitaille",
 			"date_added": 1479753249
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1480126854
 		}
 	]
 }

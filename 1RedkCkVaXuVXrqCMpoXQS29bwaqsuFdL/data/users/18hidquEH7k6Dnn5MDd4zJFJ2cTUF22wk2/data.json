@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 46,
+	"next_comment_id": 49,
 	"next_follow_id": 1,
 	"avatar": "jpg",
 	"user_name": "Cxgreat2014",
@@ -295,6 +295,24 @@
 			"body": "// matches the projections array\n        var doRender = function () {\n            scheduled = undefined;\n            if (!renderCompleted) {\n                return;    // The last render threw an error, it should be logged in the browser console.\n            }\n            var s = Date.now()\n            renderCompleted = false;\n            for (var i = 0; i < projections.length; i++) {\n                var updatedVnode = renderFunctions[i]();\n                projections[i].update(updatedVnode);\n            }\n            if (Date.now()-s > 15)\n                console.log(\"Render time:\", Date.now()-s, \"ms\")\n            renderCompleted = true;\n        };",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
 			"date_added": 1479996707
+		},
+		{
+			"comment_id": 46,
+			"body": "我觉得现在还不是推出手机版的时候，无论是重写还是把py文件编译打包还是chroot都各有各的不足，使用起来用户体验和耗电问题等都将会造成无法真正推广。我觉得还是再等一段时间为好，至少官方1.0为妙",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1480125987
+		},
+		{
+			"comment_id": 47,
+			"body": "编译成手机端是为了推广，让更多人使用这个平台，离开了人的这个平台只是死水一潭，没有任何作用。而耗电问题不解决将会大量客户流失，一样无卵用",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1480126145
+		},
+		{
+			"comment_id": 48,
+			"body": "个人倾向java重写",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1480126188
 		}
 	],
 	"follow": [],
