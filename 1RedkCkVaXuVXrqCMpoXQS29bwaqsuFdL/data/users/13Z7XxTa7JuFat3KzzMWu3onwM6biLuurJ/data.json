@@ -1,6 +1,6 @@
 {
 	"next_post_id": 42,
-	"next_comment_id": 227,
+	"next_comment_id": 228,
 	"next_follow_id": 168,
 	"avatar": "jpg",
 	"user_name": "P2P",
@@ -1621,6 +1621,12 @@
 			"body": "@Lmath: 好像是数据库报错。是升级新版本才有的吗？备份私钥后删除所有db文件，让zeronet重启后重新生成db文件",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480003994",
 			"date_added": 1480132535
+		},
+		{
+			"comment_id": 227,
+			"body": "@Cxgreat2014: 消耗资源的部分（加密解密签名）用java写性能跟c相比还是有差距的。kotlin如果能编译出JS，还是有吸引力的，我之前说过用JS实现zeronet以便前后端完全在浏览器中运行。还有一些语言支持JAVA和JS，但太小众也不好 https://en.wikipedia.org/wiki/JavaScript#Use_as_an_intermediate_language",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1480137889
 		}
 	],
 	"follow": [
