@@ -1,7 +1,7 @@
 {
-	"next_post_id": 26,
-	"next_comment_id": 32,
-	"next_follow_id": 10,
+	"next_post_id": 27,
+	"next_comment_id": 34,
+	"next_follow_id": 12,
 	"avatar": "jpg",
 	"user_name": "Border0464fred",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -131,6 +131,11 @@
 			"post_id": 1480175003,
 			"body": "Hacker who helped expose Ohio rape case pleads guilty, faces more prison time than rapists\n\nhttps://www.rt.com/usa/368207-steubenville-rape-anonymous-guilty/",
 			"date_added": 1480174978
+		},
+		{
+			"post_id": 1480208470,
+			"body": "There was a common library / CDN  project for bootstrap and jquery libraries on zeronet but I lost the link. Anyone have it ? ",
+			"date_added": 1480208444
 		}
 	],
 	"post_like": {
@@ -152,7 +157,8 @@
 		"177ia43eQrnWCHCWt1ik6viQGRzWuNXGzD_1479402399": 1479409917,
 		"1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1472108563": 1479772346,
 		"1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1479944536": 1479949089,
-		"1AxLMGKjSdsL3Sxa2x1WHJmoap3Z93YdCm_1479915505": 1479999204
+		"1AxLMGKjSdsL3Sxa2x1WHJmoap3Z93YdCm_1479915505": 1479999204,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1480177371": 1480207604
 	},
 	"comment": [
 		{
@@ -340,6 +346,18 @@
 			"body": "It could be as simple as a checkbox for languages I can read. and pre-selected checkbox on posting wich I would I don't have to mind if im on my habits and quickly edit if im switching so an other language.  ",
 			"post_uri": "18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6_1480004242",
 			"date_added": 1480004502
+		},
+		{
+			"comment_id": 32,
+			"body": "yeah I saw that, it's both awsome and stupid,",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1480177371",
+			"date_added": 1480207660
+		},
+		{
+			"comment_id": 33,
+			"body": "test completed ! ",
+			"post_uri": "17AMQVbBa12XB3xFWKDnP2dCEx92TaiY7X_1480225579",
+			"date_added": 1480226750
 		}
 	],
 	"follow": [
@@ -398,6 +416,20 @@
 			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
 			"user_name": "Nofish",
 			"date_added": 1478734305
+		},
+		{
+			"follow_id": 10,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1Fz2nnEf8fkwxWX7v4VRnLS93M3q2CdWX2",
+			"user_name": "Frenchie",
+			"date_added": 1480202945
+		},
+		{
+			"follow_id": 11,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1480202995
 		}
 	],
 	"settings": {

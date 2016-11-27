@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 54,
+	"next_comment_id": 59,
 	"next_follow_id": 1,
 	"avatar": "jpg",
 	"user_name": "Cxgreat2014",
@@ -343,6 +343,36 @@
 			"body": "@P2P: 这倒是个不错的主意，有空我去看下Example工程看下迁移难度以及效益",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
 			"date_added": 1480146160
+		},
+		{
+			"comment_id": 54,
+			"body": "@P2P: 为啥这位大神现在好像好久没上了。。另外，想起js另外一个问题，某些浏览器会把后台页面的js脚本暂停运行，或者采取轮询方式运行",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1480212293
+		},
+		{
+			"comment_id": 55,
+			"body": "@P2P: 真要改的能够保留一个js页面就能的话。。基本不行，因为浏览器貌似有几个网络关键API没法用，还是只有nodejs",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1480212388
+		},
+		{
+			"comment_id": 56,
+			"body": "@P2P: 要整的能用还得考虑好多，通讯中还有跨域回调，那改起来zeronet都要加好多东西",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1480212497
+		},
+		{
+			"comment_id": 57,
+			"body": "@P2P: +1",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480178649",
+			"date_added": 1480213290
+		},
+		{
+			"comment_id": 58,
+			"body": "@P2P: 嗯，这个看起来应该可以，但是没法作为节点存储分发站点文件呀。。只能做浏览器",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1480228682
 		}
 	],
 	"follow": [],
