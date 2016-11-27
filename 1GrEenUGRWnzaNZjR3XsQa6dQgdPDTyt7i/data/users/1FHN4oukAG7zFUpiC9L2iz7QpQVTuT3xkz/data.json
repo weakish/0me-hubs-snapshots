@@ -1,7 +1,7 @@
 {
-	"next_post_id": 106,
-	"next_comment_id": 342,
-	"next_follow_id": 60,
+	"next_post_id": 108,
+	"next_comment_id": 349,
+	"next_follow_id": 61,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -527,6 +527,16 @@
 			"post_id": 1480224709,
 			"body": "昨天看了@hologum 的本子网忽然有个想法，假如把btsync直接指向网站内部存放资源的文件夹，是不是能一定程度上解决Zeronet大文件传输的问题(手机版的btsync没法把同步文件夹放到zeronet的目录里，pc版应该可以)。这比zeronet+ipfs要方便一些吧",
 			"date_added": 1480224605
+		},
+		{
+			"post_id": 1480249045,
+			"body": "安利一个网站，CatChan，里面全都是可爱的喵星人\n127.0.0.1:43110/1Q8KDxfQNe1yN9XzXhu1ZisYEyVnUkif2J",
+			"date_added": 1480248939
+		},
+		{
+			"post_id": 1480251430,
+			"body": "手机版的BTSync可以分享已有的目录，但似乎没法把别人的目录放在其他地方",
+			"date_added": 1480251323
 		}
 	],
 	"post_like": {
@@ -2581,6 +2591,48 @@
 			"body": "@Helloword: 其实肛门那一圈的内侧快感也是挺大的",
 			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1480237119",
 			"date_added": 1480247800
+		},
+		{
+			"comment_id": 342,
+			"body": "卖毒品、军火的会被抓，免税又如何",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1480248729",
+			"date_added": 1480248796
+		},
+		{
+			"comment_id": 343,
+			"body": "@Lmath: 会在JCSS的帮助下认识到自己的错误XD",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480178799",
+			"date_added": 1480248995
+		},
+		{
+			"comment_id": 344,
+			"body": "@莱文倩: 估计不是为了高潮吧，像是在玩杂技",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1480237119",
+			"date_added": 1480249134
+		},
+		{
+			"comment_id": 345,
+			"body": "@莱文倩: 可以设置key不需要验证",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480224709",
+			"date_added": 1480249197
+		},
+		{
+			"comment_id": 346,
+			"body": "@猫叉酱: 1.2. 像屏蔽Tor和磁力链接一样，伪造大量恶意的正常节点传错误信息，该怎么办？\n有一招是用BT Sync来同步ZeroNet的网站文件。BT Sync上面已经有大量不和谐内容，但是至今未屏蔽。一个原因是有很多企业在用BT Sync来同步数据，另一个原因是BT Sync的传播方式比较隐蔽。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480224709",
+			"date_added": 1480249513
+		},
+		{
+			"comment_id": 347,
+			"body": "@莱文倩: 当然咯，因为有些字根本碰不到",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1480246440",
+			"date_added": 1480249830
+		},
+		{
+			"comment_id": 348,
+			"body": "@说鸡不说巴: 就是让你知道有这样一个好东西的意思",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480249045",
+			"date_added": 1480250022
 		}
 	],
 	"follow": [
@@ -2975,6 +3027,13 @@
 			"auth_address": "14bCxrpn5sMttEXaeD2NvQUPjLNrj8DghA",
 			"user_name": "Xueqingwanwang",
 			"date_added": 1480165041
+		},
+		{
+			"follow_id": 60,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "17AMQVbBa12XB3xFWKDnP2dCEx92TaiY7X",
+			"user_name": "Anonymous Login",
+			"date_added": 1480248817
 		}
 	],
 	"settings": {
