@@ -1,6 +1,6 @@
 {
 	"next_post_id": 43,
-	"next_comment_id": 235,
+	"next_comment_id": 238,
 	"next_follow_id": 174,
 	"avatar": "jpg",
 	"user_name": "P2P",
@@ -1674,6 +1674,24 @@
 			"body": "@Nekocross: 那你没来多久",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
 			"date_added": 1480179122
+		},
+		{
+			"comment_id": 235,
+			"body": "@Ysc3839: \n\n“对此我只能对wenbob说：\n\n亏你还是个程序员，真他妈的缺乏想象力\n\n任何一个对网络有所接触的程序员，都应该懂得：\n\n所谓socket，不过是硬件将物理信号的双向通信包装后的API而已，抽象的就是双向通信。任何形式的双向通信，也都可以等同于socket。任何socket应用，都可以用其他形式的双向通信来实现。只知道网络编程而不能理解这句话，不过是个代码堆砌工。”\nhttp://127.0.0.1:43110/1LcQTyUYkq3n458rkHVQxhHyvUdmSYFURd/?Post:19:%E9%9C%80%E8%A6%81%E6%83%B3%E8%B1%A1%E5%8A%9B",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1480207218
+		},
+		{
+			"comment_id": 236,
+			"body": "@Nekocross: 那就是有问题了，右上角那个小小的按钮，小白会知道要去点？",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480178649",
+			"date_added": 1480207684
+		},
+		{
+			"comment_id": 237,
+			"body": "@Cxgreat2014: 要是前后端都在浏览器JS跑，就不能用zite自己的前端JS。再理一下：浏览器访问某托管着zeronetRTC.js和zeroViewer.js的静态站，zeronetRTC.js通过webRTC连接到其他节点获取各种json并做好校验，zeroViewer.js就负责以某种方式把json整理并显示出来。发帖的话就用zeroViewer.js签名，并交给zeronetRTC.js发布到节点。有什么问题？",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1480226229
 		}
 	],
 	"follow": [

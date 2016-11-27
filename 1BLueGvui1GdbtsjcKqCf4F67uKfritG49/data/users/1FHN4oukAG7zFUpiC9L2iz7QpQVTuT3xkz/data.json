@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 93,
+	"next_comment_id": 94,
 	"user_name": "Nekocross",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {
@@ -560,6 +560,12 @@
 			"body": "@怡红院: 是啊，因为部分tracker被墙了",
 			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1480078192",
 			"date_added": 1480081055
+		},
+		{
+			"comment_id": 93,
+			"body": "optional\n\n可选文件的目录。\n\n例子: (data/mp4/.*|updater/.*) (data/mp4目录及子目录的所有文件都将成为可选文件)\n\nhttp://127.0.0.1:43110/docs.ysc3839.bit/site_development/content_json/\n这篇文档是我翻译的",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1480220573",
+			"date_added": 1480224752
 		}
 	],
 	"flags": {
