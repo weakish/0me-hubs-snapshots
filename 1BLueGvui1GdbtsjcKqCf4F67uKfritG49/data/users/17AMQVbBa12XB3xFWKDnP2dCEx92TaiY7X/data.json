@@ -1,6 +1,6 @@
 {
-	"next_post_id": 3,
-	"next_comment_id": 1,
+	"next_post_id": 4,
+	"next_comment_id": 2,
 	"next_follow_id": 1,
 	"avatar": "png",
 	"user_name": "Anonymous Login",
@@ -16,9 +16,30 @@
 			"post_id": 1480225579,
 			"body": "And this is a test.",
 			"date_added": 1480225577
+		},
+		{
+			"post_id": 1480232276,
+			"body": "# How to use the anonymous login user\n## For zeronet users:\nAdd this to your 'users.json'\n```\n      \"zeroid.bit\": {\n        \"auth_address\": \"17AMQVbBa12XB3xFWKDnP2dCEx92TaiY7X\", \n        \"auth_privatekey\": \"5KCuecgDtGyLB1u1Z5ErXFmzY5LFCcrUH8rcVHsoLYPgktvDwZ4\", \n        \"auth_type\": \"web\", \n        \"auth_user_name\": \"anonymouslogin\", \n        \"cert_sign\": \"G2Vic5dDAe4DEFnXPisWahbEKjPpTrT5T01UX/ZOgS5CECFcsqiJ589jfHRamnetcwH5423GL58gb4xfXq8yknQ=\"\n      }\n```\nor enable the multiuser plugin and use this as your master seed\n```\n7d0ae0e2bebafb7d02440979c407896796727e30a5d2c27565ed1d1ea2ba4f87\n```\nthen, go to zeroid.bit to use the 'Anonymous Login' user.\n## For site owners\nIf you want to disable the 'Anonymous Login' user, ban it in your 'content.json'.\n## And this is the full users.json.\n```\n{\n  \"1MX2KbPNTofExJ6FgSQM8MKJN5koE2TfV6\": {\n    \"certs\": {\n      \"zeroid.bit\": {\n        \"auth_address\": \"17AMQVbBa12XB3xFWKDnP2dCEx92TaiY7X\", \n        \"auth_privatekey\": \"5KCuecgDtGyLB1u1Z5ErXFmzY5LFCcrUH8rcVHsoLYPgktvDwZ4\", \n        \"auth_type\": \"web\", \n        \"auth_user_name\": \"anonymouslogin\", \n        \"cert_sign\": \"G2Vic5dDAe4DEFnXPisWahbEKjPpTrT5T01UX/ZOgS5CECFcsqiJ589jfHRamnetcwH5423GL58gb4xfXq8yknQ=\"\n      }\n    }, \n    \"master_seed\": \"7d0ae0e2bebafb7d02440979c407896796727e30a5d2c27565ed1d1ea2ba4f87\", \n    \"sites\": {\n      \"1iD5ZQJMNXu43w1qLB8sfdHVKppVMduGz\": {\n        \"auth_address\": \"17AMQVbBa12XB3xFWKDnP2dCEx92TaiY7X\", \n        \"auth_privatekey\": \"5KCuecgDtGyLB1u1Z5ErXFmzY5LFCcrUH8rcVHsoLYPgktvDwZ4\"\n      }\n    }\n  }\n}\n```\nEnjoy yourself!",
+			"date_added": 1480232273
 		}
 	],
 	"post_like": {},
-	"comment": [],
-	"follow": []
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Border0464fred: To use this id, use 7d0ae0e2bebafb7d02440979c407896796727e30a5d2c27565ed1d1ea2ba4f87 as your master seed.",
+			"post_uri": "17AMQVbBa12XB3xFWKDnP2dCEx92TaiY7X_1480225579",
+			"date_added": 1480232110
+		}
+	],
+	"follow": [],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }

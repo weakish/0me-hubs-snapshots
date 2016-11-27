@@ -1,6 +1,6 @@
 {
 	"next_post_id": 43,
-	"next_comment_id": 238,
+	"next_comment_id": 239,
 	"next_follow_id": 174,
 	"avatar": "jpg",
 	"user_name": "P2P",
@@ -1692,6 +1692,12 @@
 			"body": "@Cxgreat2014: 要是前后端都在浏览器JS跑，就不能用zite自己的前端JS。再理一下：浏览器访问某托管着zeronetRTC.js和zeroViewer.js的静态站，zeronetRTC.js通过webRTC连接到其他节点获取各种json并做好校验，zeroViewer.js就负责以某种方式把json整理并显示出来。发帖的话就用zeroViewer.js签名，并交给zeronetRTC.js发布到节点。有什么问题？",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
 			"date_added": 1480226229
+		},
+		{
+			"comment_id": 238,
+			"body": "@Cxgreat2014: 可以用浏览器localstorage等来存储，虽然不是永久的，但作为体验zeronet的入口，不是永久也无妨。用户试用后有兴趣的话可以引导他们下载py版成为完整节点。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1480233126
 		}
 	],
 	"follow": [
