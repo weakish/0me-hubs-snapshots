@@ -5,13 +5,20 @@
  "cert_user_id": "emacsen@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "ef1c40f396ec36e32c6a657a7386378312c620d75fe46e2620e347efe4e532b9",
-   "size": 339
+   "sha512": "c8ac0e601e465e21c94e3831b4f60a1a8c0e490682e570b0508bde83b76c818f",
+   "size": 10477
+  }
+ },
+ "files_optional": {
+  "1480253384.jpg": {
+   "sha512": "8bebb088a33ab9c3983da0b85e514507a69d95acbbc52b98205995c21f93ea9d",
+   "size": 61653
   }
  },
  "inner_path": "data/users/12kgNNnBaR3s7bN761BCQtkzSC7EbrK2Jd/content.json",
- "modified": 1475039741.993015,
+ "modified": 1480253381.81399,
+ "optional": "(?!avatar).*jpg",
  "signs": {
-  "12kgNNnBaR3s7bN761BCQtkzSC7EbrK2Jd": "G7+y10sPPuOfOgB4IX/cy5iqzYpJ3csAB6K44asna5lTIt6/zivAglPKV1exbLMGcQLH+g4R2wXtdrRKWWkFXdk="
+  "12kgNNnBaR3s7bN761BCQtkzSC7EbrK2Jd": "G5Hn0F7St0isSfwgj+rUS/q8Bsh/pGsP8AeOpxykkpiYVH61kneTMpoh8KkADmizRUS2ly6zTlBQk95ZOJPBj+Q="
  }
 }
