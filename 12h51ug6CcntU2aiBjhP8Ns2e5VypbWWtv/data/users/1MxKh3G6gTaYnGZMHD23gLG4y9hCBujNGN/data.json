@@ -1,6 +1,6 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Hologum",
@@ -19,6 +19,13 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@猫叉酱: 你可以投稿",
+			"post_uri": "1MxKh3G6gTaYnGZMHD23gLG4y9hCBujNGN_2",
+			"date_added": 1480245942
+		}
+	],
 	"follow": []
 }

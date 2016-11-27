@@ -1,7 +1,7 @@
 {
-	"next_post_id": 61,
+	"next_post_id": 62,
 	"next_comment_id": 36,
-	"next_follow_id": 186,
+	"next_follow_id": 188,
 	"avatar": "png",
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -306,6 +306,11 @@
 			"post_id": 1480133539,
 			"body": "Black Friday sales for VPS: https://www.lowendtalk.com/categories/offers",
 			"date_added": 1480133479
+		},
+		{
+			"post_id": 1480246390,
+			"body": "Tunanota and ProtonMail looks promising, but they do not work with others, i.e. Tunanota users cannot exchange encrypted mails with ProtonMail users. Also, Tunanota and ProtonMail do not work with GPG users. Encryption is important, but openness is also important. And GPG is a good example of implementating encryption without reducing openness.\n\nAn conterexample is Scryptmail, which supports import and export of GPG keys.",
+			"date_added": 1480246329
 		}
 	],
 	"post_like": {
@@ -1788,6 +1793,20 @@
 			"auth_address": "17pnj2wEu5qFeRtQErmLVtCBvYuocGum82",
 			"user_name": "Xeers2",
 			"date_added": 1480241435
+		},
+		{
+			"follow_id": 186,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "14bCxrpn5sMttEXaeD2NvQUPjLNrj8DghA",
+			"user_name": "Xueqingwanwang",
+			"date_added": 1480245784
+		},
+		{
+			"follow_id": 187,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "17AMQVbBa12XB3xFWKDnP2dCEx92TaiY7X",
+			"user_name": "Anonymous Login",
+			"date_added": 1480245789
 		}
 	]
 }
