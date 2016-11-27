@@ -1,7 +1,7 @@
 {
-	"next_post_id": 43,
+	"next_post_id": 44,
 	"next_comment_id": 82,
-	"next_follow_id": 19,
+	"next_follow_id": 22,
 	"avatar": "jpg",
 	"user_name": "Bullseye",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -228,6 +228,11 @@
 			"post_id": 1480039469,
 			"body": "关于零网我也赞成一个想法，即发展移动端势在必行。能在手机上同步才是实实在在的随时同步。不过这很可能对手机性能有更高要求。作为开始，各位能否踊跃推荐下觉得很适合挂零网的手机？我这个MOTO G5大概也就是刚刚及格吧？",
 			"date_added": 1480039427
+		},
+		{
+			"post_id": 1480220234,
+			"body": "我对这个 Kiwix 印象很好。http://www.kiwix.org/ 或许应该搬到零网来（或最好说服他们自己干这事）。长远来看，所有那些提供需要持续更新的内容或版本的网站都值得在零网建立同步镜像。。",
+			"date_added": 1480220191
 		}
 	],
 	"post_like": {
@@ -836,11 +841,18 @@
 			"date_added": 1479981159
 		},
 		{
-			"follow_id": 18,
+			"follow_id": 20,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "17AMQVbBa12XB3xFWKDnP2dCEx92TaiY7X",
+			"user_name": "Anonymous Login",
+			"date_added": 1480241291
+		},
+		{
+			"follow_id": 21,
 			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
-			"auth_address": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2",
-			"user_name": "Cxgreat2014",
-			"date_added": 1480142148
+			"auth_address": "144GQ5Uz9dYQJ1MwjSFWWboLgHwdGpv21x",
+			"user_name": "Mzero",
+			"date_added": 1480241524
 		}
 	],
 	"settings": {
