@@ -1,7 +1,7 @@
 {
-	"next_post_id": 28,
-	"next_comment_id": 103,
-	"next_follow_id": 184,
+	"next_post_id": 31,
+	"next_comment_id": 111,
+	"next_follow_id": 188,
 	"avatar": "png",
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -149,6 +149,16 @@
 			"post_id": 1480003994,
 			"body": "@P2P 从昨天发布 ZeroMe 内容就老是提示内容发布失败，今天连给 ZeroMux 站点签名都出错了，贴 log ：\n```\nC:\\Users\\lmath\\ZeroBundle\\ZeroNet>..\\Python\\python.exe zeronet.py siteSign 12VnwCxot8tiMS3bBvksqQJQ8mLPRZ6CQE [Hide my Privatekey]\n- Starting ZeroNet...\n- OpenSSL loaded, version: 01000201F\n- Version: 0.5.1 r1755, Python 2.7.12 (v2.7.12:d33e0cf91556, Jun 27 2016, 15:19:22) [MSC v.1500 32 bit (Intel)], Gevent:\n 1.1.2\nTraceback (most recent call last):\n  File \"zeronet.py\", line 16, in main\n    main.start()\n  File \"src\\main.py\", line 450, in start\n    actions.call(config.action, action_kwargs)\n  File \"src\\main.py\", line 129, in call\n    func(**kwargs)\n  File \"src\\main.py\", line 186, in siteSign\n    SiteManager.site_manager.load()\n  File \"plugins\\Zeroname\\SiteManagerPlugin.py\", line 20, in load\n    super(SiteManagerPlugin, self).load(*args, **kwargs)\n  File \"plugins\\MergerSite\\MergerSitePlugin.py\", line 322, in load\n    super(SiteManagerPlugin, self).load(*args, **kwags)\n  File \"src\\Site\\SiteManager.py\", line 39, in load\n    self.sites[address] = Site(address, settings=settings)\n  File \"src\\Site\\Site.py\", line 57, in __init__\n    self.content_manager = ContentManager(self)\n  File \"src\\Content\\ContentManager.py\", line 23, in __init__\n    self.contents = ContentDbDict(site)\n  File \"src\\Content\\ContentDbDict.py\", line 13, in __init__\n    self.db_id = self.db.needSite(site)\n  File \"src\\Content\\ContentDb.py\", line 67, in needSite\n    self.execute(\"INSERT OR IGNORE INTO site ?\", {\"address\": site.address})\n  File \"src\\Db\\Db.py\", line 77, in execute\n    return self.cur.execute(query, params)\n  File \"src\\Db\\DbCursor.py\", line 49, in execute\n    res = self.cursor.execute(query, params)\nOperationalError: database is locked\n```",
 			"date_added": 1480003967
+		},
+		{
+			"post_id": 1480245984,
+			"body": "https://www.zhihu.com/question/52987944\n能不能给支付宝提个 issue ，支持在线约正太的功能？芝麻信用分都准备好了。",
+			"date_added": 1480245956
+		},
+		{
+			"post_id": 1480253340,
+			"body": "说一说最近的动态：\n- 怡红院节点数大量减少\n- 反转基因人士不见了\n- 除在 Android 上安装较完整的 GNU 套件外暂无成熟运行方法\n- https://zeronet.io 站点添加了多语言支持，但是依然不会自动选择\n- ZeroNet 托盘与 Newsfeed 暂未支持多语言\n- 发现好多新中文用户，但是很多发了几句问候就没来过\n- GFW Talk 真的冷清了\n- 出现了喷子",
+			"date_added": 1480253311
 		}
 	],
 	"post_like": {
@@ -758,6 +768,24 @@
 			"body": "@Cxgreat2014: 1.0 后还可以有 2.0, 3.0, 4.0 ... 55.0，参照 Chrome 。",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
 			"date_added": 1480171274
+		},
+		{
+			"comment_id": 103,
+			"body": "@Nekocross: 看来我来得比你早，来 Zeronet 之前一直在用 Freenet ，正好翻翻还有没有 P2P 的好玩的东西（很早以前就想建立个 P2P 的博客 ）。关于 ShadowsocksR ，在来 ZeroNet 以前是不知道的，只是早有耳闻有一个 Shadowsocks 的复刻版本不遵守 GPL 开源而已。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1480251782
+		},
+		{
+			"comment_id": 104,
+			"body": "@Cxgreat2014: 然后国产 XX 手机管家一清理，数据就完蛋了。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1480251863
+		},
+		{
+			"comment_id": 105,
+			"body": "@P2P: 我想起来了，之前我扒源码来看的时候本来想复制的结果直接移动过去了，后来也不知道改没改缺没缺文件又移动回来了，可能是这个原因导致属性变掉了？",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480003994",
+			"date_added": 1480252045
 		}
 	],
 	"follow": [
@@ -2013,6 +2041,34 @@
 			"auth_address": "1CogrjsFiTL3nHH74BXnAcM1S3KsNaLtEx",
 			"user_name": "TCP",
 			"date_added": 1480241071
+		},
+		{
+			"follow_id": 184,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq",
+			"user_name": "说鸡不说巴",
+			"date_added": 1480247163
+		},
+		{
+			"follow_id": 185,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1KAfCgw4ECkqUccYQZDoPuTMhA2YPMaZwG",
+			"user_name": "Voruman",
+			"date_added": 1480253204
+		},
+		{
+			"follow_id": 186,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "17AMQVbBa12XB3xFWKDnP2dCEx92TaiY7X",
+			"user_name": "Anonymous Login",
+			"date_added": 1480253878
+		},
+		{
+			"follow_id": 187,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "12kgNNnBaR3s7bN761BCQtkzSC7EbrK2Jd",
+			"user_name": "Emacsen",
+			"date_added": 1480255491
 		}
 	],
 	"settings": {
