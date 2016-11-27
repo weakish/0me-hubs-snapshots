@@ -1,7 +1,7 @@
 {
 	"next_post_id": 63,
-	"next_comment_id": 80,
-	"next_follow_id": 60,
+	"next_comment_id": 81,
+	"next_follow_id": 61,
 	"avatar": "png",
 	"user_name": "Rapapobre",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -604,6 +604,12 @@
 			"body": "@Yvesrogne: thanks! :)",
 			"post_uri": "1K6HCsJskZENYG42GR7ocJXg9WjFbEq9hc_1479616422",
 			"date_added": 1480130746
+		},
+		{
+			"comment_id": 80,
+			"body": "@Xeers2: XD ok!",
+			"post_uri": "1K6HCsJskZENYG42GR7ocJXg9WjFbEq9hc_1479616422",
+			"date_added": 1480216698
 		}
 	],
 	"follow": [
@@ -879,6 +885,13 @@
 			"auth_address": "1KN1Au7SRmeTmffcxxoyPABDpvqmq7iMbN",
 			"user_name": "Antilibrary",
 			"date_added": 1480064338
+		},
+		{
+			"follow_id": 60,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "17pnj2wEu5qFeRtQErmLVtCBvYuocGum82",
+			"user_name": "Xeers2",
+			"date_added": 1480216705
 		}
 	]
 }
