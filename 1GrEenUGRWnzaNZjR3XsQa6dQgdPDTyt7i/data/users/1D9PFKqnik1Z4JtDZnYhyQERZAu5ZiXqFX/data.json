@@ -1,5 +1,5 @@
 {
-	"next_post_id": 2,
+	"next_post_id": 3,
 	"next_comment_id": 5,
 	"next_follow_id": 1,
 	"avatar": "generate",
@@ -11,9 +11,16 @@
 			"post_id": 1,
 			"date_added": 1473167951,
 			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1480265560,
+			"body": "The perception of time is discrete\nhttps://actu.epfl.ch/news/how-the-brain-produces-consciousness-in-time-slice/",
+			"date_added": 1480265558
 		}
 	],
-	"post_like": {},
+	"post_like": {
+		"168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar_1480118082": 1480218262
+	},
 	"comment": [
 		{
 			"comment_id": 1,
