@@ -4,14 +4,18 @@
  "cert_sign": "GwZer/lCXAaIA++Kd18dKVl8eRFzWo73PHNmHBeH3pRdS6+eKQCidt7PAYEHZx+I7jph156ONyjFQY3RCvvx1ko=",
  "cert_user_id": "phelix@zeroid.bit",
  "files": {
+  "avatar.png": {
+   "sha512": "e220f9d947f5a43e99042adbd642db12c509bcffed36bb2f8fac2f14eff0a4be",
+   "size": 1364
+  },
   "data.json": {
-   "sha512": "1960b9970ff148f7dcab662cb8e8b332b2a089da1228ed877f85928bf3e35832",
-   "size": 338
+   "sha512": "2394a5392db2f2070bef5a0a72451c6c48c5f41a8ac323f5269188169a5a9af6",
+   "size": 521
   }
  },
  "inner_path": "data/users/1MsF79r4SCftWBRedxZfoEvTHyzDAH3Xrq/content.json",
- "modified": 1479319702.26,
+ "modified": 1480275551.643,
  "signs": {
-  "1MsF79r4SCftWBRedxZfoEvTHyzDAH3Xrq": "HN3dA0ZmV1uOA0/S44zgP/Czhaca8KVm/sgzRRsvMTLCvTtyWM5tkRaJPAZ7AIg5YGFq6nctmMgAI7AsZA4nDVI="
+  "1MsF79r4SCftWBRedxZfoEvTHyzDAH3Xrq": "G2vPdowmDYEyugTPJRQaEidV8YFeg0SEeLTz40QYRzIvduaZULa6c5d43Vkh9LDUmclUeDyP6XefsUABRC9Yo2A="
  }
 }
