@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 189,
+	"next_comment_id": 192,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -11,7 +11,9 @@
 		"157VksPLxufKMy8U344wPhayVY3RhkL8SK_1479000658": 1479001787,
 		"1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA_1479033798": 1479034360,
 		"1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1479117651": 1479207795,
-		"157VksPLxufKMy8U344wPhayVY3RhkL8SK_1480078192": 1480078345
+		"157VksPLxufKMy8U344wPhayVY3RhkL8SK_1480078192": 1480078345,
+		"18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1480326279": 1480327722,
+		"18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1480298883": 1480327915
 	},
 	"comment": [
 		{
@@ -1135,6 +1137,24 @@
 			"body": "没收作案工具简单啊！不是有女性割礼么？",
 			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1480241939",
 			"date_added": 1480252504
+		},
+		{
+			"comment_id": 189,
+			"body": "@zero: 目前只有 ZeroMePlus 可以屏蔽，然而 ZeroMePlus 不支持原生发图和多语言。",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1480324349",
+			"date_added": 1480325797
+		},
+		{
+			"comment_id": 190,
+			"body": "其实真有这个 Bug ，不过已经修复，更新下 ZeroHello 即可，参见：https://github.com/HelloZeroNet/ZeroNet/issues/681",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1480305349",
+			"date_added": 1480325912
+		},
+		{
+			"comment_id": 191,
+			"body": "目前已经永远“跟贴读取中...”了。\n顺便我来解释下 `跟贴6287 参与331698` 是什么意思，意思就是有 331698 人评论，但是由于某些原因只能显示 6287 人的评论。",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1480244489",
+			"date_added": 1480328220
 		}
 	],
 	"flags": {

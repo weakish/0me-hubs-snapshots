@@ -1,0 +1,32 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Mzl",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "新 ZeroNet 用户",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1480314419,
+			"body": "你好 ZeroMe!"
+		},
+		{
+			"post_id": 1480314449,
+			"body": "初来乍到,呵呵",
+			"date_added": 1480314447
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5",
+			"user_name": "莱文倩",
+			"date_added": 1480314474
+		}
+	]
+}

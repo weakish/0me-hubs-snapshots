@@ -1,7 +1,7 @@
 {
 	"next_post_id": 6,
-	"next_comment_id": 10,
-	"next_follow_id": 14,
+	"next_comment_id": 12,
+	"next_follow_id": 15,
 	"avatar": "jpg",
 	"user_name": "Shift",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -100,6 +100,18 @@
 			"body": "@Nofish why we can't distribute updates with zero network?",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479623646",
 			"date_added": 1479983154
+		},
+		{
+			"comment_id": 10,
+			"body": "@Gaslimit: Ну насколько я понимаю только профили, контент он не хранит в хабах а оно идет как опциональные файлы",
+			"post_uri": "16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7_1479992327",
+			"date_added": 1480317215
+		},
+		{
+			"comment_id": 11,
+			"body": "@Gaslimit: согласен, но никто не мешает это переделлать просто в хабы помещать\\перемещать учетки в зависимости от контента",
+			"post_uri": "16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7_1479992327",
+			"date_added": 1480336891
 		}
 	],
 	"follow": [
@@ -186,6 +198,13 @@
 			"auth_address": "18DbeZgtVCcLghmtzvg4Uv8uRQAwR8wnDQ",
 			"user_name": "Jro",
 			"date_added": 1479993614
+		},
+		{
+			"follow_id": 14,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1Nyv5sTPtqCPQmK81bgx3iHWYDQDwLMNZX",
+			"user_name": "gaslimit",
+			"date_added": 1480317219
 		}
 	]
 }

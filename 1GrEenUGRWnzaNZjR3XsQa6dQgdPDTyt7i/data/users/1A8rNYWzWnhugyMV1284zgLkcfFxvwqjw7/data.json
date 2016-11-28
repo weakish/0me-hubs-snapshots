@@ -1,6 +1,6 @@
 {
-	"next_post_id": 44,
-	"next_comment_id": 88,
+	"next_post_id": 45,
+	"next_comment_id": 91,
 	"next_follow_id": 22,
 	"avatar": "jpg",
 	"user_name": "Bullseye",
@@ -233,6 +233,11 @@
 			"post_id": 1480220234,
 			"body": "我对这个 Kiwix 印象很好。http://www.kiwix.org/ 或许应该搬到零网来（或最好说服他们自己干这事）。长远来看，所有那些提供需要持续更新的内容或版本的网站都值得在零网建立同步镜像。。",
 			"date_added": 1480220191
+		},
+		{
+			"post_id": 1480322806,
+			"body": "你们觉得是否有必要以及是否有可能为零网添加个用户信用评级插件？比如就像以前论坛里喜欢搞的那种。。",
+			"date_added": 1480322762
 		}
 	],
 	"post_like": {
@@ -761,6 +766,24 @@
 			"body": "@Cxgreat2014: 那么如果把这两种思路结合起来，立刻就能得到一个全新的图景：对等节点+去媒介化+去中心化+去确定性。",
 			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1480220234",
 			"date_added": 1480304815
+		},
+		{
+			"comment_id": 88,
+			"body": "@Lmath: 就类似于非死不可吧",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1480322806",
+			"date_added": 1480322845
+		},
+		{
+			"comment_id": 89,
+			"body": "在我想象中应该可以弄出个类似谷歌的爬网程序，然后按照类似谷歌的算法自动计算评级，只不过这次不是算网页，而是对用户进行评级。。——零网里的Google！根本无需人的参与。\n\n",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1480322806",
+			"date_added": 1480323069
+		},
+		{
+			"comment_id": 90,
+			"body": "1.有必要吗？2.有可能吗？3.至于是否有效，做出来才知道。",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1480322806",
+			"date_added": 1480323584
 		}
 	],
 	"follow": [
