@@ -1,7 +1,7 @@
 {
-	"next_post_id": 31,
-	"next_comment_id": 111,
-	"next_follow_id": 188,
+	"next_post_id": 32,
+	"next_comment_id": 117,
+	"next_follow_id": 192,
 	"avatar": "png",
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -159,6 +159,11 @@
 			"post_id": 1480253340,
 			"body": "说一说最近的动态：\n- 怡红院节点数大量减少\n- 反转基因人士不见了\n- 除在 Android 上安装较完整的 GNU 套件外暂无成熟运行方法\n- https://zeronet.io 站点添加了多语言支持，但是依然不会自动选择\n- ZeroNet 托盘与 Newsfeed 暂未支持多语言\n- 发现好多新中文用户，但是很多发了几句问候就没来过\n- GFW Talk 真的冷清了\n- 出现了喷子",
 			"date_added": 1480253311
+		},
+		{
+			"post_id": 1480342168,
+			"body": "又发现一个新现象，右边的活动摘要里发现的帖子点进去看不到，但是在公共代理上能看到，点更新都没用，但是删除 Hub 后重进，404 了，再重启 ZeroNet ，终于能看到了。",
+			"date_added": 1480342137
 		}
 	],
 	"post_like": {
@@ -786,6 +791,42 @@
 			"body": "@P2P: 我想起来了，之前我扒源码来看的时候本来想复制的结果直接移动过去了，后来也不知道改没改缺没缺文件又移动回来了，可能是这个原因导致属性变掉了？",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480003994",
 			"date_added": 1480252045
+		},
+		{
+			"comment_id": 111,
+			"body": "@Cxgreat2014: 是的，他还欠我 100 桶大豆油呢！😂",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480253340",
+			"date_added": 1480302584
+		},
+		{
+			"comment_id": 112,
+			"body": "@Cxgreat2014: 但是目前来说 ZeroNet 目前并没有加入各大管家的清理列表，而做成独立客户端的话以后即使出现在列表也可以由用户手动选择，配合一个二次下载内容优先级降低的机制应该可以让用户选择不清理。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1480302870
+		},
+		{
+			"comment_id": 113,
+			"body": "@P2P: 裸奔，开放端口，Tor 可用。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480342168",
+			"date_added": 1480342496
+		},
+		{
+			"comment_id": 114,
+			"body": "@Nofish: China government blocked directly connect to Tor, and only meek (require Tor Browser) and few obfs4 pluggable transport are available, so it doesn't work automatically.",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1480340164",
+			"date_added": 1480343652
+		},
+		{
+			"comment_id": 115,
+			"body": "@说鸡不说巴: 说鸡不说巴？",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480342168",
+			"date_added": 1480343875
+		},
+		{
+			"comment_id": 116,
+			"body": "@说鸡不说巴: 我这里显示这个好久了啊！",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480342168",
+			"date_added": 1480344257
 		}
 	],
 	"follow": [
@@ -2069,6 +2110,34 @@
 			"auth_address": "12kgNNnBaR3s7bN761BCQtkzSC7EbrK2Jd",
 			"user_name": "Emacsen",
 			"date_added": 1480255491
+		},
+		{
+			"follow_id": 188,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1KUBcGBxautCfBVt91sQ3HSJUAYJb2ahYu",
+			"user_name": "Areyouok",
+			"date_added": 1480327753
+		},
+		{
+			"follow_id": 189,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1JNvvUHnhof7b1XugUNhi6ne1ReU5yrEro",
+			"user_name": "Banshouren",
+			"date_added": 1480329451
+		},
+		{
+			"follow_id": 190,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx",
+			"user_name": "ks",
+			"date_added": 1480329517
+		},
+		{
+			"follow_id": 191,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "17u2vBbwR5NAkg6XarzRXdmW1czuFgYMor",
+			"user_name": "Smallorange",
+			"date_added": 1480329570
 		}
 	],
 	"settings": {

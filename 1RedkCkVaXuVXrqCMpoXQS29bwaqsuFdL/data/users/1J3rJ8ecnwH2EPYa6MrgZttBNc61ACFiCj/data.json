@@ -1,6 +1,6 @@
 {
 	"next_post_id": 22,
-	"next_comment_id": 127,
+	"next_comment_id": 128,
 	"next_follow_id": 29,
 	"avatar": "png",
 	"user_name": "Nofish",
@@ -865,6 +865,12 @@
 			"body": "They fixed my bugreport quickly: https://bugs.chromium.org/p/chromium/issues/detail?id=658530&start=100&num=100\n(zeronet stopped working in chrome 55)",
 			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1480035058",
 			"date_added": 1480096140
+		},
+		{
+			"comment_id": 127,
+			"body": "@说鸡不说巴: There is trackers on Tor network, so it should not be a problem. And since 0.5.0 the peers are saved between restarts, so your ZeroNet client will still work even if you can't reach any tracker.",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1480340164",
+			"date_added": 1480342013
 		}
 	],
 	"follow": [

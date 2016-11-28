@@ -1,8 +1,10 @@
 {
-	"next_comment_id": 4,
+	"next_comment_id": 5,
 	"user_name": "frog",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"post_like": {},
+	"post_like": {
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1480340164": 1480344555
+	},
 	"comment": [
 		{
 			"comment_id": 1,
@@ -21,6 +23,12 @@
 			"body": "@莱文倩: 所以了，跨国通话是属于高危类别的，并且流量相比全民来说要小很多数量级，可实施性要强很多",
 			"post_uri": "1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd_1479953799",
 			"date_added": 1479966447
+		},
+		{
+			"comment_id": 4,
+			"body": "Hi, There might be a bug that followed users don't show up under \"Followed users\" after refreshing zerome. And In the profile page, I can see all followed users. By clicking and following each person again, I got duplicated entries in the \"follow\" key of data.json.",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1480340164",
+			"date_added": 1480343350
 		}
 	]
 }
