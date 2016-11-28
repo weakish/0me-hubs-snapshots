@@ -1,11 +1,11 @@
 {
 	"next_post_id": 3,
-	"next_comment_id": 8,
+	"next_comment_id": 9,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "frog",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"intro": "http://127.0.0.1:43110/173mgcwCd1qTjHBDS6AspAbiX154btrCBj",
+	"intro": "http://127.0.0.1:43110/173mgcwCd1qTjHBDS6AspAbiX154btrCBj\n\n月之暗面与你相会\n",
 	"post": [
 		{
 			"post_id": 1,
@@ -63,6 +63,12 @@
 			"body": "@Ysc3839: 我ping大部分境外ip延迟基本在300ms-400ms之间，但是丢包率至少33%，日本或香港的没有太多经验。",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480344411",
 			"date_added": 1480351968
+		},
+		{
+			"comment_id": 8,
+			"body": "@Ysc3839: --- bit.no.com ping statistics ---\n10 packets transmitted, 6 received, 40% packet loss, time 9004ms\nrtt min/avg/max/mdev = 278.298/341.580/460.196/75.206 ms\n50次测试是14%丢包，不稳定。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480344411",
+			"date_added": 1480354208
 		}
 	],
 	"follow": []

@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 50,
+	"next_comment_id": 52,
 	"user_name": "Ysc3839",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -325,6 +325,18 @@
 			"body": "@frog: 我觉得是线路问题，我这里ping香港或日本的代理都很快的，而有的在欧洲的网站非常慢（上了600ms），跟踪线路发现绕了地球一圈",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480344411",
 			"date_added": 1480351638
+		},
+		{
+			"comment_id": 50,
+			"body": "@Lmath: 10 packets transmitted, 3 received, 70% packet loss, time 9014ms",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480344411",
+			"date_added": 1480354009
+		},
+		{
+			"comment_id": 51,
+			"body": "@frog: --- bit.no.com ping statistics ---\n10 packets transmitted, 10 received, 0% packet loss, time 9004ms\nrtt min/avg/max/mdev = 316.191/371.029/434.363/38.408 ms",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480344411",
+			"date_added": 1480354100
 		}
 	],
 	"flags": {},
