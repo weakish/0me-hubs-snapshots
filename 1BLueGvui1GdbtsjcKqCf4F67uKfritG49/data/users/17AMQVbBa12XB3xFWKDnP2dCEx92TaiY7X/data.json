@@ -1,7 +1,7 @@
 {
 	"next_post_id": 4,
 	"next_comment_id": 2,
-	"next_follow_id": 1,
+	"next_follow_id": 4,
 	"avatar": "png",
 	"user_name": "Anonymous Login",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -32,7 +32,29 @@
 			"date_added": 1480232110
 		}
 	],
-	"follow": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1NWaYFYGdfDnhgyjaGNYk2ewgEJUPmiZ2W",
+			"user_name": "Nora",
+			"date_added": 1480310882
+		},
+		{
+			"follow_id": 2,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1MsF79r4SCftWBRedxZfoEvTHyzDAH3Xrq",
+			"user_name": "Phelix",
+			"date_added": 1480310882
+		},
+		{
+			"follow_id": 3,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq",
+			"user_name": "说鸡不说巴",
+			"date_added": 1480310908
+		}
+	],
 	"settings": {
 		"reverse_comment_order": false,
 		"mute_ugly": false,

@@ -1,8 +1,8 @@
 {
-	"next_post_id": 2,
+	"next_post_id": 4,
 	"next_comment_id": 2,
 	"next_follow_id": 2,
-	"avatar": "generate",
+	"avatar": "jpg",
 	"user_name": "Nora",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"intro": "Random ZeroNet user",
@@ -11,6 +11,17 @@
 			"post_id": 1,
 			"date_added": 1480295831,
 			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1480296385,
+			"body": "Hello ZeroMe! I'm neeew :)",
+			"date_added": 1480296383,
+			"meta": "{\"img\":\"900,506,777256443333555365bc9897887876ddaa97ba9ab8dca864,01233411156708924155A68BC000056D408DDAD5D7448DDED5D844CDCFB4\"}"
+		},
+		{
+			"post_id": 1480296453,
+			"body": "Erf... How to delete posts? :B",
+			"date_added": 1480296450
 		}
 	],
 	"post_like": {},

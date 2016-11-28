@@ -1,6 +1,6 @@
 {
 	"next_post_id": 43,
-	"next_comment_id": 239,
+	"next_comment_id": 243,
 	"next_follow_id": 175,
 	"avatar": "jpg",
 	"user_name": "P2P",
@@ -1698,6 +1698,30 @@
 			"body": "@Cxgreat2014: 可以用浏览器localstorage等来存储，虽然不是永久的，但作为体验zeronet的入口，不是永久也无妨。用户试用后有兴趣的话可以引导他们下载py版成为完整节点。",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
 			"date_added": 1480233126
+		},
+		{
+			"comment_id": 239,
+			"body": "@Cxgreat2014: 当然要压缩后再存啊。webtorrent用什么来存的？能下载大文件",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1480300181
+		},
+		{
+			"comment_id": 240,
+			"body": "@Lmath: 当然会在界面提醒保存master_seed，并且引导下载完整客户端",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1480300274
+		},
+		{
+			"comment_id": 241,
+			"body": "@Cxgreat2014: zeromeplus的block，但貌似只在前端生效。你可以在后端某人对应json设置只读权限",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
+			"date_added": 1480300398
+		},
+		{
+			"comment_id": 242,
+			"body": "@Lmath: 保存好私钥重新安装。已经下载的zite数据也可以保存，覆盖回去省得再次下载。不过db文件记得删掉",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480003994",
+			"date_added": 1480301005
 		}
 	],
 	"follow": [

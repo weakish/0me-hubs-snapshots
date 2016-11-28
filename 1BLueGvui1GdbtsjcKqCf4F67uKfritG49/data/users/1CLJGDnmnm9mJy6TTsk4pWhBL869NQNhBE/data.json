@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 1,
-	"next_follow_id": 1,
+	"next_comment_id": 3,
+	"next_follow_id": 2,
 	"avatar": "generate",
 	"user_name": "Medoix",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -13,7 +13,30 @@
 			"body": "Hello ZeroMe!"
 		}
 	],
-	"post_like": {},
-	"comment": [],
-	"follow": []
+	"post_like": {
+		"1NWaYFYGdfDnhgyjaGNYk2ewgEJUPmiZ2W_1480296385": 1480305731
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Wire: thanks :)",
+			"post_uri": "1CLJGDnmnm9mJy6TTsk4pWhBL869NQNhBE_1",
+			"date_added": 1480305646
+		},
+		{
+			"comment_id": 2,
+			"body": "hover over the text and the pencil comes up on the left, click this and then you should see a delete button.",
+			"post_uri": "1NWaYFYGdfDnhgyjaGNYk2ewgEJUPmiZ2W_1480296453",
+			"date_added": 1480305726
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1N1AZUiwisp1bgMoH3WSTsPSPD6DXWFpJ9",
+			"user_name": "Gendor",
+			"date_added": 1480304315
+		}
+	]
 }

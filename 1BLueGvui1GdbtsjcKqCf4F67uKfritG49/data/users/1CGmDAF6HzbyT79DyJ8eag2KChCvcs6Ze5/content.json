@@ -1,0 +1,17 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "HLq1cUsM4gUvgpj9jvToJ/BbVwBnb5Yjy0nMHRBUrKwlI3bcVTk4stwmBdayLrPwYEyLcVvT0zKjK66X1o6J7g4=",
+ "cert_user_id": "morte@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a3b8022a4e105d44fc9f2052fc2fff5ebdadec2962deb115f35db88ccf64a27f",
+   "size": 191
+  }
+ },
+ "inner_path": "data/users/1CGmDAF6HzbyT79DyJ8eag2KChCvcs6Ze5/content.json",
+ "modified": 1480304645.634,
+ "signs": {
+  "1CGmDAF6HzbyT79DyJ8eag2KChCvcs6Ze5": "HNPTIeOw0R1Or1hEedmf571/idQaNdziwDf72GHOBMDPTDS+tqgbkT89jDpxdiltSUiwyn0LKb36IKp5iY30TzE="
+ }
+}
