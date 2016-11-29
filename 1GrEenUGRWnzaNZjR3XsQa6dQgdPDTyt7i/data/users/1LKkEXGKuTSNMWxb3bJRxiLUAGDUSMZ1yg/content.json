@@ -5,13 +5,20 @@
  "cert_user_id": "helloword@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "d2d756bff5b8a033829b7116e1e8d759e4dc61f2d576dd388375ebfe537cad23",
-   "size": 6344
+   "sha512": "ed4f5170c35413ecfa4725b78614697d721b3cf8b004e60b5a5a49c592fc993b",
+   "size": 8849
+  }
+ },
+ "files_optional": {
+  "1480378953.jpg": {
+   "sha512": "1154e463e4342d578f591de809225c7d6f22983abe5909f952f8043cc0ec7b13",
+   "size": 79929
   }
  },
  "inner_path": "data/users/1LKkEXGKuTSNMWxb3bJRxiLUAGDUSMZ1yg/content.json",
- "modified": 1480335495.729,
+ "modified": 1480379957.808,
+ "optional": "(?!avatar).*jpg",
  "signs": {
-  "1LKkEXGKuTSNMWxb3bJRxiLUAGDUSMZ1yg": "G7zzgdvZwte7sm9x1oZOR/61iMTxwdJUUeoB8h+6kFPIsSi1BsOEqSDMrJ+zZzWFFvlHMwYoZTulTaKD214AFxE="
+  "1LKkEXGKuTSNMWxb3bJRxiLUAGDUSMZ1yg": "HGNDTpqN2qLsnX8OVBxZdXHhEj/GFZJKixPeStZuryIDvPU4LEaV2USt7SVV9KDNjD9It0v28+AvP5CM5qWAIpY="
  }
 }

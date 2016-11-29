@@ -1,7 +1,7 @@
 {
 	"next_post_id": 32,
 	"next_comment_id": 37,
-	"next_follow_id": 32,
+	"next_follow_id": 34,
 	"avatar": "jpg",
 	"user_name": "ZAlex",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -265,7 +265,8 @@
 		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310": 1479553771,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479546563": 1479642759,
 		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479666435": 1479688490,
-		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479967047": 1479980102
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479967047": 1479980102,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1480340164": 1480377935
 	},
 	"comment": [
 		{
@@ -669,6 +670,20 @@
 			"auth_address": "1L2FnXBU5fhVATcwtJLvX2ZhsZSGDSqJcn",
 			"user_name": "Codegeass",
 			"date_added": 1479903161
+		},
+		{
+			"follow_id": 32,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1Nyv5sTPtqCPQmK81bgx3iHWYDQDwLMNZX",
+			"user_name": "gaslimit",
+			"date_added": 1480378184
+		},
+		{
+			"follow_id": 33,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1480378195
 		}
 	],
 	"settings": {
