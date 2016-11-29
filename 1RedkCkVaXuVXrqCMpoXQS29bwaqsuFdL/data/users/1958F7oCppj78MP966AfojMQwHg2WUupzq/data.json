@@ -1,7 +1,7 @@
 {
-	"next_post_id": 32,
-	"next_comment_id": 117,
-	"next_follow_id": 192,
+	"next_post_id": 34,
+	"next_comment_id": 120,
+	"next_follow_id": 195,
 	"avatar": "png",
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -164,6 +164,11 @@
 			"post_id": 1480342168,
 			"body": "又发现一个新现象，右边的活动摘要里发现的帖子点进去看不到，但是在公共代理上能看到，点更新都没用，但是删除 Hub 后重进，404 了，再重启 ZeroNet ，终于能看到了。",
 			"date_added": 1480342137
+		},
+		{
+			"post_id": 1480395885,
+			"body": "外界压力？支付宝“白领日记”、“校园日记”争议性圈子已无法搜到\n\n> 11月29日消息，最近更新的新版支付宝引入了“圈子功能”，不过其中“校园日记”和“白领日记”仅对女性用户开放，并且芝麻信用大于750的用户才能与这些女性用户评论互动，此举引发巨大社会争议。\n\n> 根据IT之家网友**liuweiczu**的反馈，现在支付宝内已经无法搜到到“白领日记”、“校园日记”这两个有“露骨”内容的争议圈子，目前尚不清楚是否为支付宝做出了调整。\n\nhttp://www.ithome.com/html/it/276409.htm",
+			"date_added": 1480395853
 		}
 	],
 	"post_like": {
@@ -827,6 +832,24 @@
 			"body": "@说鸡不说巴: 我这里显示这个好久了啊！",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480342168",
 			"date_added": 1480344257
+		},
+		{
+			"comment_id": 117,
+			"body": "因为管理域名的人脑残，只设置了 www 子域的解析而没设置 @ 域的解析。",
+			"post_uri": "1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd_1480383890",
+			"date_added": 1480393644
+		},
+		{
+			"comment_id": 118,
+			"body": "所以你配置好网桥或者前置代理了没？",
+			"post_uri": "1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd_1480384029",
+			"date_added": 1480393695
+		},
+		{
+			"comment_id": 119,
+			"body": "@Ysc3839: Are you sure? I tested to enable Tor for every connection without a pluggable transport or a proxy, then the ZeroHello Displayed `Tor: Available`, but I coun't access any new sites (`No peers` was displayed). And If I published some contents, I can't see the contents on public proxy. So it seems to be an illusion.",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1480340164",
+			"date_added": 1480406140
 		}
 	],
 	"follow": [
@@ -2138,6 +2161,27 @@
 			"auth_address": "17u2vBbwR5NAkg6XarzRXdmW1czuFgYMor",
 			"user_name": "Smallorange",
 			"date_added": 1480329570
+		},
+		{
+			"follow_id": 192,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1CKyj95EMuQiKCYaRcfY6JgXgdmLWBUjyM",
+			"user_name": "Kilva",
+			"date_added": 1480348828
+		},
+		{
+			"follow_id": 193,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1PvuX8HD3uoKanDSBvicJvXHuqSC1TSBsp",
+			"user_name": "Mopperwhite",
+			"date_added": 1480348840
+		},
+		{
+			"follow_id": 194,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1DiBurSdqEiCRkakrWMtemNZeXj6F1MLkS",
+			"user_name": "Lengchenyang1",
+			"date_added": 1480393713
 		}
 	],
 	"settings": {
