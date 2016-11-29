@@ -1,7 +1,7 @@
 {
-	"next_post_id": 28,
-	"next_comment_id": 35,
-	"next_follow_id": 14,
+	"next_post_id": 30,
+	"next_comment_id": 37,
+	"next_follow_id": 30,
 	"avatar": "jpg",
 	"user_name": "Border0464fred",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -141,6 +141,16 @@
 			"post_id": 1480261389,
 			"body": "https://imgur.com/a/y9t4c\nCastro Trump \n I will not die until america is destroyed",
 			"date_added": 1480261362
+		},
+		{
+			"post_id": 1480385622,
+			"body": "I just pass from 0.4.3 to 0.5.1 and I copied all the Zeronet/data into my new version but looks like it's not working like that. \n\nThat's sad it was a 3.4 Gig folder. and ill have to redownload it all. \n\n",
+			"date_added": 1480385594
+		},
+		{
+			"post_id": 1480385759,
+			"date_added": 1480385730,
+			"meta": "{\"img\":\"748,700,fffeddcddeeeebbdaacbc9bc8ce9cdccbcbabcdcdbab9bca,01111233200455678890045567889004556788900ABBACCCC30DDEEA66610DFFFA66660DDDDA6666000003A666\"}"
 		}
 	],
 	"post_like": {
@@ -163,7 +173,9 @@
 		"1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1472108563": 1479772346,
 		"1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1479944536": 1479949089,
 		"1AxLMGKjSdsL3Sxa2x1WHJmoap3Z93YdCm_1479915505": 1479999204,
-		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1480177371": 1480207604
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1480177371": 1480207604,
+		"1AwNV17STiNUZZ4Z712z2FBf8YyERJ87rE_1480365971": 1480385448,
+		"1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1480334973": 1480387274
 	},
 	"comment": [
 		{
@@ -369,6 +381,18 @@
 			"body": "@Firebox: \n\nthx ill take a look at it, it have some minimified JS not sure what is for and no checksum ....   I was just expecting URL to include. ",
 			"post_uri": "18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6_1480208470",
 			"date_added": 1480261519
+		},
+		{
+			"comment_id": 35,
+			"body": "On the other hand .bit resolve now :D ",
+			"post_uri": "18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6_1480385622",
+			"date_added": 1480385708
+		},
+		{
+			"comment_id": 36,
+			"body": "@Mrch4os: oui je suis au quebec. ",
+			"post_uri": "18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6_1477540208",
+			"date_added": 1480385905
 		}
 	],
 	"follow": [
@@ -455,6 +479,118 @@
 			"auth_address": "17AMQVbBa12XB3xFWKDnP2dCEx92TaiY7X",
 			"user_name": "Anonymous Login",
 			"date_added": 1480270853
+		},
+		{
+			"follow_id": 14,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1KWqhuQ8bWbd8Pp6w65uSJ6Q2jjBKERL4H",
+			"user_name": "Peponi",
+			"date_added": 1480386237
+		},
+		{
+			"follow_id": 15,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "177ia43eQrnWCHCWt1ik6viQGRzWuNXGzD",
+			"user_name": "Mkg20001",
+			"date_added": 1480386264
+		},
+		{
+			"follow_id": 16,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1AfUx1vEUBbKuZM68btdTpdQEeWa6XREx",
+			"user_name": "Twelves",
+			"date_added": 1480386290
+		},
+		{
+			"follow_id": 17,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1MHtX5TppqTrSNYVqB15qJpwtTu21BjkHs",
+			"user_name": "0trust",
+			"date_added": 1480386317
+		},
+		{
+			"follow_id": 18,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "12ZjwfLKmNhxH8vubjeyWonB3zjW1U3StP",
+			"user_name": "Marxist",
+			"date_added": 1480386357
+		},
+		{
+			"follow_id": 19,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1EcTBTYsro4Vr5ea5NahkseWCK883quWM1",
+			"user_name": "ninjapi",
+			"date_added": 1480386404
+		},
+		{
+			"follow_id": 20,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "14fv4bZMEaK5kTUjad5k3FgcBymUbygupJ",
+			"user_name": "Alex539",
+			"date_added": 1480386485
+		},
+		{
+			"follow_id": 21,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1NcJpmb77ERaoKxXMebaCTXqDQZxxm8Euc",
+			"user_name": "Marc",
+			"date_added": 1480386497
+		},
+		{
+			"follow_id": 22,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "16w7UuJAHbt8YBa8zxHS7UFk9mq8Q5DpE4",
+			"user_name": "Kopykate",
+			"date_added": 1480386500
+		},
+		{
+			"follow_id": 23,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "17tpqoZw9eG2MQq6C3CVZ9MVxJxLTtCPZC",
+			"user_name": "0face",
+			"date_added": 1480386504
+		},
+		{
+			"follow_id": 24,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1ACc4pa2pJam33SkSE1zF1seF3LQKWR24v",
+			"user_name": "Punkcoder",
+			"date_added": 1480386511
+		},
+		{
+			"follow_id": 25,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN",
+			"user_name": "Cyborg Warrior",
+			"date_added": 1480386537
+		},
+		{
+			"follow_id": 26,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx",
+			"user_name": "ks",
+			"date_added": 1480386544
+		},
+		{
+			"follow_id": 27,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1480386632
+		},
+		{
+			"follow_id": 28,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx",
+			"user_name": "Kindlyfire",
+			"date_added": 1480386639
+		},
+		{
+			"follow_id": 29,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u",
+			"user_name": "Lola",
+			"date_added": 1480386770
 		}
 	],
 	"settings": {
