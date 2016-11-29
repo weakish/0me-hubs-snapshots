@@ -1,6 +1,6 @@
 {
 	"next_post_id": 34,
-	"next_comment_id": 124,
+	"next_comment_id": 128,
 	"next_follow_id": 198,
 	"avatar": "png",
 	"user_name": "Lmath",
@@ -874,6 +874,30 @@
 			"body": "@Ysc3839: Kaffie Hub 的限制貌似是 10M ，所以够用好久了吧！然而 Kaffie 貌似已经隐退了，也不知道 Hub 需不需要特殊维护。",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480422387",
 			"date_added": 1480430291
+		},
+		{
+			"comment_id": 124,
+			"body": "@Nekocross: 要是以后有人发 spam ，总得有个人处理下吧！",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480422387",
+			"date_added": 1480435314
+		},
+		{
+			"comment_id": 125,
+			"body": "@Nekocross: 但是 spam 可以进一步拖累计算机的处理能力并弄坏人的心情啊！",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480422387",
+			"date_added": 1480435884
+		},
+		{
+			"comment_id": 126,
+			"body": "@Nekocross: 参见 @PedoBlocker 的方法，目前就可以用 dirty 的方法做到不加载某人的文件，但是我认为让所有用户都需要操作一遍不是一个好主意，自动同步的订阅列表更好。提高注册门槛你说使用什么方法好？分布式验证码？",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480422387",
+			"date_added": 1480436273
+		},
+		{
+			"comment_id": 127,
+			"body": "@Nekocross: 我倒是觉得 ID 站不只有这个问题，还有一个问题就是如果我把我的主密钥在公共代理上登录，公共代理可能窃取我的主密钥，而一旦窃取无法挽回（除非与 ID 站管理者联系处理）。所以是否应该搞两个密钥，一个用于日常签名（采取一般的保管措施即可），另一个用于更新日常签名的密钥（高安全等级，应妥善保管）？",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480422387",
+			"date_added": 1480436874
 		}
 	],
 	"follow": [
