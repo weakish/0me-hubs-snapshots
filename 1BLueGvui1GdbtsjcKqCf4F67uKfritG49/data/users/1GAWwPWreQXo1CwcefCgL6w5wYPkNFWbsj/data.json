@@ -1,6 +1,6 @@
 {
 	"next_post_id": 46,
-	"next_comment_id": 63,
+	"next_comment_id": 65,
 	"next_follow_id": 8,
 	"avatar": "jpg",
 	"user_name": "西木野真姬",
@@ -592,6 +592,12 @@
 			"body": "@Mopperwhite: 可能是zeronet不让传大图吧= =",
 			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1480335104",
 			"date_added": 1480349556
+		},
+		{
+			"comment_id": 64,
+			"body": "@P2P: 刚刚就出现了 Internal error: OperationalError: cannot start a transaction within a transaction\nUiWebsocket.py line 99 > UiWebsocket.py line 182 > MergerSitePlugin.py line 180 > MergerSitePlugin.py line 169 > UiWebsocket.py line 333 > MergerSitePlugin.py line 177 > MergerSitePlugin.py line 174 > UiWebsocket.py line 314 > ContentManager.py line 601 > ContentDbDict.py line 61 > ContentDbPlugin.py line 201 > ContentDbPlugin.py line 160 > Db.py line 77 > DbCursor.py line 5",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1480408624",
+			"date_added": 1480439219
 		}
 	],
 	"follow": [
