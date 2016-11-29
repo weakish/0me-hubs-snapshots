@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 75,
+	"next_comment_id": 76,
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -85,7 +85,8 @@
 		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479623646": 1479626749,
 		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084": 1479825659,
 		"1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd_1479969749": 1479993264,
-		"137PNA5gLgCTLZTBtzUqCmMoZ752NQGQSJ_1479939652": 1479993789
+		"137PNA5gLgCTLZTBtzUqCmMoZ752NQGQSJ_1479939652": 1479993789,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1480340164": 1480424004
 	},
 	"comment": [
 		{
@@ -531,6 +532,12 @@
 			"body": "@Ysc3839: 可以加白名单啊。",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084",
 			"date_added": 1480410444
+		},
+		{
+			"comment_id": 75,
+			"body": "我这里输入`mi.com`会自动跳转到`www.mi.com`. 可能是你的dns问题。另外，偷懒的办法是浏览器地址栏输入`mi`然后按`ctrl-enter`",
+			"post_uri": "1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd_1480383890",
+			"date_added": 1480423558
 		}
 	]
 }

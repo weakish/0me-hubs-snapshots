@@ -1,5 +1,5 @@
 {
-	"next_post_id": 43,
+	"next_post_id": 44,
 	"next_comment_id": 245,
 	"next_follow_id": 177,
 	"avatar": "jpg",
@@ -217,6 +217,11 @@
 			"post_id": 1480178649,
 			"body": "官网zeronet.io理论上是不是应该像zeronet内部网页一样根据浏览器语言来自动显示翻译呢？请大家测试。",
 			"date_added": 1480178607
+		},
+		{
+			"post_id": 1480422387,
+			"body": "水了这么多，一直没超hub限额，还以为自己不够水。谁知一看自己hub的`ZeroNet/data/hub_address/data/users/content.json`，原来nofish早就帮提了限额，提到了200多KB。到ZeroHello首页左侧点进自己hub，拉开右侧隐藏菜单，在`身份地址 (限制已用`（最好翻译成限额）那里可以看到自己用了多少。我用了100多KB，超过默认限额60KB两倍。如果在发帖、评论时报错，可以自查自己有没有到限额，是的话让nofish帮提限额。注意，评论是发在po主的hub，所以也要检查其他hub上你用了多少限额。",
+			"date_added": 1480422344
 		}
 	],
 	"post_like": {

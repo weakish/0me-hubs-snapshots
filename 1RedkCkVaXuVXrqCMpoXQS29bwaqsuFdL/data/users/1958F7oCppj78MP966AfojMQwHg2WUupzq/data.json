@@ -1,6 +1,6 @@
 {
 	"next_post_id": 34,
-	"next_comment_id": 121,
+	"next_comment_id": 123,
 	"next_follow_id": 197,
 	"avatar": "png",
 	"user_name": "Lmath",
@@ -856,6 +856,18 @@
 			"body": "@P2P: 那天我删了重新安装也不行，今天看到我的限额提升了也没这个现象了，以前貌似有人说过站点比较接近限额但是还没到限额的时候就会出现这种现象，看来这个问题在 ZeroMe 同样存在？",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480003994",
 			"date_added": 1480408150
+		},
+		{
+			"comment_id": 121,
+			"body": "@P2P: 后来那个问题在关注新用户时又出现了，删除 Hub 后关闭 ZeroNet ，直接打不开了，无奈去看日志，之后删除了 `lock.pid` 和 `content.db` 两个文件，再次启动，到现在为止没再出现过问题，就是感觉显示的节点数少了许多。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480003994",
+			"date_added": 1480422678
+		},
+		{
+			"comment_id": 122,
+			"body": "@weakish: 要是 .net .org 的还怎么偷懒？",
+			"post_uri": "1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd_1480383890",
+			"date_added": 1480423690
 		}
 	],
 	"follow": [
