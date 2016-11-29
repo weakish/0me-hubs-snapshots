@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 325,
+	"next_comment_id": 326,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -1953,6 +1953,12 @@
 			"body": "我这里 bit.no.com 除了少数地方被 DNS 劫持其他挺正常，倒是 onlyzero.net 各种卡顿。",
 			"post_uri": "1LKkEXGKuTSNMWxb3bJRxiLUAGDUSMZ1yg_1480378953",
 			"date_added": 1480398856
+		},
+		{
+			"comment_id": 325,
+			"body": "可以把壳子卸载，但是内核不能卸载，方法是控制面板的 `启用或删除 Windows 功能` 那里。因为很多 Windows 程序依赖 WebBrowser 控件。",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1480401693",
+			"date_added": 1480401824
 		}
 	],
 	"flags": {},
