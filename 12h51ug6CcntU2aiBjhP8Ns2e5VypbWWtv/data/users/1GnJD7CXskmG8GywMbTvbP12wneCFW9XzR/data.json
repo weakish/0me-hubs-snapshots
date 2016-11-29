@@ -1,5 +1,5 @@
 {
-	"next_post_id": 62,
+	"next_post_id": 63,
 	"next_comment_id": 36,
 	"next_follow_id": 189,
 	"avatar": "png",
@@ -311,6 +311,11 @@
 			"post_id": 1480246390,
 			"body": "Tunanota and ProtonMail looks promising, but they do not work with others, i.e. Tunanota users cannot exchange encrypted mails with ProtonMail users. Also, Tunanota and ProtonMail do not work with GPG users. Encryption is important, but openness is also important. And GPG is a good example of implementating encryption without reducing openness.\n\nAn conterexample is Scryptmail, which supports import and export of GPG keys.",
 			"date_added": 1480246329
+		},
+		{
+			"post_id": 1480426322,
+			"body": "[$20 credit for new users of Vultr](http://www.vultr.com/?ref=7046521-3B) (KVM VPS with SSD, billed hourly/monthly, located in US, EU, Austrilia, Singapore, and Japan). \n\nVultr v.s. DigitalOcean: They are quite similar except that Vultr has slightly more RAM for $5/m plan, and Vultr's snapshots are still free right now.",
+			"date_added": 1480426260
 		}
 	],
 	"post_like": {
@@ -340,7 +345,8 @@
 		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1479211113": 1479297807,
 		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1479222139": 1479298277,
 		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1479512809": 1479625996,
-		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1479812062": 1479828039
+		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1479812062": 1479828039,
+		"13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1480264571": 1480424606
 	},
 	"comment": [
 		{
