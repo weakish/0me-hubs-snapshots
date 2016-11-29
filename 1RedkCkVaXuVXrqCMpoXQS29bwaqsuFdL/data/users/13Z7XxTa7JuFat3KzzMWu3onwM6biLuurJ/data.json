@@ -1,6 +1,6 @@
 {
 	"next_post_id": 43,
-	"next_comment_id": 244,
+	"next_comment_id": 245,
 	"next_follow_id": 176,
 	"avatar": "jpg",
 	"user_name": "P2P",
@@ -1729,6 +1729,12 @@
 			"body": "裸奔还是用了代理？",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480342168",
 			"date_added": 1480342245
+		},
+		{
+			"comment_id": 244,
+			"body": "@Lmath: 以前到限额时不会报db的错，现在可能是zeronet完全依靠db了。这样报错对用户很不友好的，限额到就应该说限额到。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480003994",
+			"date_added": 1480416239
 		}
 	],
 	"follow": [
