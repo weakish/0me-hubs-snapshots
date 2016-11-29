@@ -1,5 +1,5 @@
 {
-	"next_post_id": 111,
+	"next_post_id": 112,
 	"next_comment_id": 358,
 	"next_follow_id": 61,
 	"avatar": "jpg",
@@ -553,6 +553,11 @@
 			"post_id": 1480417669,
 			"body": "分享2个SSR梯子的邀请码，内附2G流量，先到先得\n梯子地址：ss1.gate-project.com\n邀请码： \n1Xo6qejuedrDwurlpFyWfCHIThY1TErD\n7Cq3dAN9VVOJISE1pLFfOP2jD3fQRIlO",
 			"date_added": 1480417559
+		},
+		{
+			"post_id": 1480434720,
+			"body": "123kb的data.json，gzip压缩后只有41kb，压缩到原来的1/3\n。我认为对于站点中的绝大多数大于50kb的json，都可以用gzip压缩一下。以后可以搞个专门的文件格式，比如.gzon。这样就可以大幅度提高hub的承载能力或者用户的可用空间",
+			"date_added": 1480434609
 		}
 	],
 	"post_like": {
