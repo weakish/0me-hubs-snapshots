@@ -1,7 +1,7 @@
 {
 	"next_post_id": 34,
-	"next_comment_id": 120,
-	"next_follow_id": 195,
+	"next_comment_id": 121,
+	"next_follow_id": 196,
 	"avatar": "png",
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -847,9 +847,15 @@
 		},
 		{
 			"comment_id": 119,
-			"body": "@Ysc3839: Are you sure? I tested to enable Tor for every connection without a pluggable transport or a proxy, then the ZeroHello Displayed `Tor: Available`, but I coun't access any new sites (`No peers` was displayed). And If I published some contents, I can't see the contents on public proxy. So it seems to be an illusion.",
+			"body": "@Ysc3839: Are you sure? I tested to enable Tor for every connection without a pluggable transport or a proxy, then the ZeroHello Displayed `Tor: Available`, but I couldn't access any new sites (`No peers` was displayed). And If I published some contents, I can't see the contents on public proxy. So it seems to be an illusion.",
 			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1480340164",
 			"date_added": 1480406140
+		},
+		{
+			"comment_id": 120,
+			"body": "@P2P: 那天我删了重新安装也不行，今天看到我的限额提升了也没这个现象了，以前貌似有人说过站点比较接近限额但是还没到限额的时候就会出现这种现象，看来这个问题在 ZeroMe 同样存在？",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480003994",
+			"date_added": 1480408150
 		}
 	],
 	"follow": [
@@ -2182,6 +2188,13 @@
 			"auth_address": "1DiBurSdqEiCRkakrWMtemNZeXj6F1MLkS",
 			"user_name": "Lengchenyang1",
 			"date_added": 1480393713
+		},
+		{
+			"follow_id": 195,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "15TMCGSiwvvrDjuvU2arnpsyC19BHnj8k7",
+			"user_name": "Fargo",
+			"date_added": 1480407698
 		}
 	],
 	"settings": {
