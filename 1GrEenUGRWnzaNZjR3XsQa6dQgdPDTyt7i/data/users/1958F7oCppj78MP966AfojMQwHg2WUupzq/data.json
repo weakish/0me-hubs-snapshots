@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 320,
+	"next_comment_id": 325,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -1923,6 +1923,36 @@
 			"body": "@Areyouok: 15441 是默认的 FileServer 端口（用于与其他节点连接），43110 是默认的 UiServer 端口（用于与本地浏览器交互）。",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480344411",
 			"date_added": 1480395568
+		},
+		{
+			"comment_id": 320,
+			"body": "@Areyouok: 路由器里设置打开 15441 即可，Windows 下会自动提示是否允许 python 通过防火墙，Linux 下有防火墙的请手动打开，当然如果你的上级网关已经给你 NAT 过了那你只能手动配置 ngrok 了。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480344411",
+			"date_added": 1480397182
+		},
+		{
+			"comment_id": 321,
+			"body": "@Ysc3839: 很多路由器 UPnP 默认关闭或是半残，比如我在 Freenet 里总是 UPnP 失败。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480344411",
+			"date_added": 1480398273
+		},
+		{
+			"comment_id": 322,
+			"body": "@Areyouok: 43110 默认只监听本地所以远程连不了，一般不需要手工打开或关闭。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480344411",
+			"date_added": 1480398440
+		},
+		{
+			"comment_id": 323,
+			"body": "@Areyouok: 这个分支不给开发者：http://zclassic.org/ 另外我觉得 Zcash 最大的问题是去中心化程度降低了。",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1480388503",
+			"date_added": 1480398730
+		},
+		{
+			"comment_id": 324,
+			"body": "我这里 bit.no.com 除了少数地方被 DNS 劫持其他挺正常，倒是 onlyzero.net 各种卡顿。",
+			"post_uri": "1LKkEXGKuTSNMWxb3bJRxiLUAGDUSMZ1yg_1480378953",
+			"date_added": 1480398856
 		}
 	],
 	"flags": {},
