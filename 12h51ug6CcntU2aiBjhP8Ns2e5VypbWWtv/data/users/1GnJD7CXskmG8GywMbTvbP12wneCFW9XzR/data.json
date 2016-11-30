@@ -1,7 +1,7 @@
 {
 	"next_post_id": 63,
-	"next_comment_id": 36,
-	"next_follow_id": 189,
+	"next_comment_id": 38,
+	"next_follow_id": 190,
 	"avatar": "png",
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -559,6 +559,18 @@
 			"body": "@P2P: No need for JS. Just some customize css to hide the element for Zhihu.",
 			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1479344270",
 			"date_added": 1479625097
+		},
+		{
+			"comment_id": 36,
+			"body": "SSH works in the U2F way decades ago. The TOTP does have one advantage: the device generates TOTP does not need to stay online, and need to communicate with neither the server nor the client. U2F has to communicate with either the server or the client on every auth, unless the chanllenge bytes are a very short string (e.g. one or two word), and the user types the chanllenge bytes and the signed result (probably only the beginning few characters, can also be encoded as words) manually (this is definitely not the approach of the one-click product mentioned in the article chooses).",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1479886327",
+			"date_added": 1480501139
+		},
+		{
+			"comment_id": 37,
+			"body": "@Zerg: Their dedicated offers are really cheap! Have you used them? Are they reliable? Do they accept BitCoin. Also one big advantage of DO/Vultr and so on is api and billed hourly, thus it is possible to increase/reduce instances easily.",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1480426322",
+			"date_added": 1480501869
 		}
 	],
 	"follow": [
@@ -1821,6 +1833,13 @@
 			"auth_address": "1HtucMdx8NJXDK18h17uMoEnAesV3CgonT",
 			"user_name": "2578630267",
 			"date_added": 1480410489
+		},
+		{
+			"follow_id": 189,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "12qy2Nwa3wLQ3ymZpnsahGsXjckSBcsjdb",
+			"user_name": "L3n",
+			"date_added": 1480501176
 		}
 	]
 }
