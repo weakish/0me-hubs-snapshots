@@ -1,7 +1,7 @@
 {
 	"next_post_id": 13,
-	"next_comment_id": 42,
-	"next_follow_id": 35,
+	"next_comment_id": 43,
+	"next_follow_id": 36,
 	"avatar": "jpg",
 	"user_name": "gfwbot79",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -310,6 +310,12 @@
 			"body": "@Ebanator: Hi there. At present GFW is not restricting Zeronet, which means that we can access it directly in most of the cases. A proxy is needed when surfing zeronet with tor (the tor service is banned by GFW).",
 			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1480435051",
 			"date_added": 1480472391
+		},
+		{
+			"comment_id": 42,
+			"body": "除此之外还有小文件数目太多，实际占用磁盘很大的问题呢。可以想办法弄一个带压缩的container……",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480434720",
+			"date_added": 1480486059
 		}
 	],
 	"follow": [
@@ -536,6 +542,13 @@
 			"auth_address": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq",
 			"user_name": "zero",
 			"date_added": 1480359113
+		},
+		{
+			"follow_id": 35,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1BqTUcFDLtu5ZUvPEKkVXs9aPHcpLHyDuC",
+			"user_name": "Silencer",
+			"date_added": 1480485747
 		}
 	]
 }
