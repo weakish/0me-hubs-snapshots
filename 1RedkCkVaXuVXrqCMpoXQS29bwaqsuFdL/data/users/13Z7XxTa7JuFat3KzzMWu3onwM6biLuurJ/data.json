@@ -1,6 +1,6 @@
 {
 	"next_post_id": 44,
-	"next_comment_id": 246,
+	"next_comment_id": 247,
 	"next_follow_id": 178,
 	"avatar": "jpg",
 	"user_name": "P2P",
@@ -1747,6 +1747,12 @@
 			"body": "@Apuar: \n```\n  \"permission_rules\": {\n   \".*\": {\n    \"files_allowed\": \"(data.json|avatar.jpg|avatar.png)\",\n    \"max_size\": 50000\n   },\n   \"bitid/.*@zeroid.bit\": {\"max_size\": 60000},\n   \"bitmsg/.*@zeroid.bit\": {\"max_size\": 60000}\n  },\n```\n以小的为准，应该是48KB没错。但是头像貌似也算空间占用，那么就更小。",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480422387",
 			"date_added": 1480494957
+		},
+		{
+			"comment_id": 246,
+			"body": "一定要痛骂用360的人，并且给出靠谱的替代工具",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480516438",
+			"date_added": 1480520257
 		}
 	],
 	"follow": [

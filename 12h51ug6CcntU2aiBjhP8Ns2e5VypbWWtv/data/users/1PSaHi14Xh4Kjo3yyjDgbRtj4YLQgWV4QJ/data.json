@@ -1,6 +1,6 @@
 {
 	"next_post_id": 67,
-	"next_comment_id": 38,
+	"next_comment_id": 39,
 	"next_follow_id": 88,
 	"avatar": "jpg",
 	"user_name": "ulrichard",
@@ -565,6 +565,12 @@
 			"body": "@ks: One would think at least some people in Germany had sufficient experience with the STASI.",
 			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1480190842",
 			"date_added": 1480278049
+		},
+		{
+			"comment_id": 38,
+			"body": "@Border0464fred: And it's not only for the official repositories, but also for the PPA infrastructure. Worst of all, without some client side tools to compare the different results from the reproducible builds, a targeted attack from the owner of a trusted apt key wold be very difficult to detect.",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1480514467",
+			"date_added": 1480518039
 		}
 	],
 	"follow": [
