@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 65,
+	"next_comment_id": 66,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -14,7 +14,9 @@
 		"13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479025118": 1479032752,
 		"13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479132525": 1479135924,
 		"1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1479909586": 1479916728,
-		"13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1480264571": 1480300562
+		"13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1480264571": 1480300562,
+		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1480246390": 1480342036,
+		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1480503940": 1480508796
 	},
 	"comment": [
 		{
@@ -400,6 +402,12 @@
 			"body": "@Ysc3839: 是不是要把zeronet.py改名为main.py？否则p4a不知道入口。我试过改名，照样正常运行。",
 			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479630596",
 			"date_added": 1479706714
+		},
+		{
+			"comment_id": 65,
+			"body": "in case 1, `Running the browser on A and Tor on B, and the connection between A and B is configured as NAT only. So A can only connect to Internet via Tor` could you give more details of howto?",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1480503940",
+			"date_added": 1480508944
 		}
 	],
 	"flags": {},

@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 13,
+	"next_comment_id": 17,
 	"user_name": "Silencer",
 	"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
 	"post_like": {},
@@ -69,6 +69,30 @@
 			"body": "@Lmath: 具体实现或许还有些难度，虽然Python的machine learning非常好，但是考虑到客户端算力不可能每台机器上都跑智能自律代码呀。。所以还得看实现",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480422387",
 			"date_added": 1480507088
+		},
+		{
+			"comment_id": 13,
+			"body": "@Lmath: 我记得腾讯有反这个的研发，等等，我找找论文",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480422387",
+			"date_added": 1480509866
+		},
+		{
+			"comment_id": 14,
+			"body": "@Lmath: 这一个是知乎的：https://zhuanlan.zhihu.com/p/23385044",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480422387",
+			"date_added": 1480510078
+		},
+		{
+			"comment_id": 15,
+			"body": "@Lmath: 这一个是另一篇：http://zhuanlan.zhihu.com/p/22453613",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480422387",
+			"date_added": 1480510343
+		},
+		{
+			"comment_id": 16,
+			"body": "@Lmath: 找不到了，不过大概原理还记得，通过去除特殊字符以及全部转小写火星文转化之后和比对即可，智能一点的还可以通过machine learning，记得有的成功率达到百分之74到百分之96，优化算法还有更多，得继续研究",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480422387",
+			"date_added": 1480510665
 		}
 	]
 }

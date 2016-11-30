@@ -1,6 +1,6 @@
 {
 	"next_post_id": 12,
-	"next_comment_id": 18,
+	"next_comment_id": 20,
 	"next_follow_id": 58,
 	"avatar": "jpg",
 	"user_name": "Mylifewaiting",
@@ -172,6 +172,18 @@
 			"body": "@HelloArch: 为什么呢？又不准备加税",
 			"post_uri": "14MrxSzhaSXiFwsAbyhwtipmU3Lh55Xcrr_1478676611",
 			"date_added": 1478686513
+		},
+		{
+			"comment_id": 18,
+			"body": "有安卓手机么？用gnuroot装python再装zeronet就行了",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1480435051",
+			"date_added": 1480509675
+		},
+		{
+			"comment_id": 19,
+			"body": "apt-get install msgpack-python python-gevent\nwget https://github.com/HelloZeroNet/ZeroNet/archive/master.tar.gz\ntar xvpfz master.tar.gz\ncd ZeroNet-master",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1480435051",
+			"date_added": 1480509887
 		}
 	],
 	"follow": [
