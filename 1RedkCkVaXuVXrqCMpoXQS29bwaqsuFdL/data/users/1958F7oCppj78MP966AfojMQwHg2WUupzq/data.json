@@ -1,7 +1,7 @@
 {
 	"next_post_id": 34,
-	"next_comment_id": 128,
-	"next_follow_id": 198,
+	"next_comment_id": 129,
+	"next_follow_id": 200,
 	"avatar": "png",
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -898,6 +898,12 @@
 			"body": "@Nekocross: 我倒是觉得 ID 站不只有这个问题，还有一个问题就是如果我把我的主密钥在公共代理上登录，公共代理可能窃取我的主密钥，而一旦窃取无法挽回（除非与 ID 站管理者联系处理）。所以是否应该搞两个密钥，一个用于日常签名（采取一般的保管措施即可），另一个用于更新日常签名的密钥（高安全等级，应妥善保管）？",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480422387",
 			"date_added": 1480436874
+		},
+		{
+			"comment_id": 128,
+			"body": "@Helloword: 进个人资料页，可以看到地址这里有 1GrEen （比特币虚荣地址），所以就是 Green Hub 。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480422387",
+			"date_added": 1480476029
 		}
 	],
 	"follow": [
@@ -2251,6 +2257,20 @@
 			"auth_address": "18kDuSDb2D5QTtabXj6Ert7dTvnUA3FSHN",
 			"user_name": "Mydf",
 			"date_added": 1480431261
+		},
+		{
+			"follow_id": 198,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1B4mGfgJm7xyFCRyaUbLSUwBKxKZRiyb6Q",
+			"user_name": "Ebanator",
+			"date_added": 1480476252
+		},
+		{
+			"follow_id": 199,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1BqTUcFDLtu5ZUvPEKkVXs9aPHcpLHyDuC",
+			"user_name": "Silencer",
+			"date_added": 1480476449
 		}
 	],
 	"settings": {
