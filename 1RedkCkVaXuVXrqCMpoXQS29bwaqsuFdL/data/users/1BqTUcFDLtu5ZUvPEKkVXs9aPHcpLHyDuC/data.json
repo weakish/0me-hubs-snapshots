@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 17,
+	"next_comment_id": 18,
 	"user_name": "Silencer",
 	"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
 	"post_like": {},
@@ -93,6 +93,12 @@
 			"body": "@Lmath: 找不到了，不过大概原理还记得，通过去除特殊字符以及全部转小写火星文转化之后和比对即可，智能一点的还可以通过machine learning，记得有的成功率达到百分之74到百分之96，优化算法还有更多，得继续研究",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480422387",
 			"date_added": 1480510665
+		},
+		{
+			"comment_id": 17,
+			"body": "@Lmath: 不是抽风率，是拦截成功率，指在经过训练样本大量训练总结之后的结果再进行啥。。机器学习方面我很水啦，但这个有自动学习功能，发的spam越多他学的越多，也越精确，不会那样误删",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480422387",
+			"date_added": 1480510922
 		}
 	]
 }
