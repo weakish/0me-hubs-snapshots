@@ -1,0 +1,17 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "HO2B2Dmm87HPoVyV6TCVu8SyuZGfqU1BEVhLnI9XsNRxDe17VIsCmhT2fmCR7sdaV1NVmlWO5FZpqomLKWJY4DI=",
+ "cert_user_id": "firestalk@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5c8c971ea9fac95e1159a7a38fd252b61e7cf32e002e21b102709ca64eba149b",
+   "size": 341
+  }
+ },
+ "inner_path": "data/users/1KZniEeQTv4wrkWv77z681h2VjAbmX2NY3/content.json",
+ "modified": 1480506783.44,
+ "signs": {
+  "1KZniEeQTv4wrkWv77z681h2VjAbmX2NY3": "GzY7+ke9hpJZOm7mj+6EcmHLU27l1eWyjV7IXLRdPXQ4IY2YLLS2ALyOzMUKLYjUJRDf/jNVUel0gcRvAG3RPco="
+ }
+}

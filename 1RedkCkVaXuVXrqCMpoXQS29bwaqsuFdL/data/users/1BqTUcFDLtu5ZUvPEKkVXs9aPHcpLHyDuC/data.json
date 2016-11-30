@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 3,
+	"next_comment_id": 13,
 	"user_name": "Silencer",
 	"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
 	"post_like": {},
@@ -15,6 +15,60 @@
 			"body": "@Lmath: 哦，还好还好，看到今天一天好像都只有我一个人讲话刚才我还在考虑是不是再过不久就要被“禁言”了呢，哈哈~不过这里人真的好少啊。。",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480422387",
 			"date_added": 1480496535
+		},
+		{
+			"comment_id": 3,
+			"body": "现在提限额都是hub的创建者手动去调吗？岂不是很麻烦。。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480422387",
+			"date_added": 1480505469
+		},
+		{
+			"comment_id": 4,
+			"body": "@Lmath: 我觉得是不是应该在zeronet中设置一个自律规则，限制一段时间中的发帖数量但又不影响访问，通过机器人的话去中心化就没意义了呀",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480422387",
+			"date_added": 1480506131
+		},
+		{
+			"comment_id": 6,
+			"body": "@Lmath: 自律规则就是一套反spam规则呀，通过限定接收数据来反spam",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480422387",
+			"date_added": 1480506628
+		},
+		{
+			"comment_id": 7,
+			"body": "@Lmath: 对于捣乱的数据自律规则抛弃就可以了",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480422387",
+			"date_added": 1480506666
+		},
+		{
+			"comment_id": 8,
+			"body": "你好",
+			"post_uri": "1BaLTmm1fcVdg18pxXaLRKGbCuVvVA5cCQ_1",
+			"date_added": 1480506848
+		},
+		{
+			"comment_id": 9,
+			"body": "@Lmath: 站点发布者呀",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480422387",
+			"date_added": 1480506864
+		},
+		{
+			"comment_id": 10,
+			"body": "@Lmath: 站点发布者可以设置一套全局，个人可以再进阶设置局部",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480422387",
+			"date_added": 1480506910
+		},
+		{
+			"comment_id": 11,
+			"body": "@Lmath: 站点发布者的规则可以倾向于那些无意义的刷屏大量重复数据，或者通过某种方式自动清除无意义数据，用户的可以设置自己的偏好，大致这样",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480422387",
+			"date_added": 1480507001
+		},
+		{
+			"comment_id": 12,
+			"body": "@Lmath: 具体实现或许还有些难度，虽然Python的machine learning非常好，但是考虑到客户端算力不可能每台机器上都跑智能自律代码呀。。所以还得看实现",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480422387",
+			"date_added": 1480507088
 		}
 	]
 }
