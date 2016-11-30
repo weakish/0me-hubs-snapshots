@@ -1,6 +1,6 @@
 {
 	"next_post_id": 35,
-	"next_comment_id": 136,
+	"next_comment_id": 137,
 	"next_follow_id": 201,
 	"avatar": "png",
 	"user_name": "Lmath",
@@ -951,6 +951,12 @@
 			"body": "@Silencer: 所以误拦截率怎么样？还有就是专栏里面的这个具体算法是不对外公开的，而且是集中处理的，使用你说的“自律规则”就导致这具体算法必须公开，所以发 spam 的人完全可以在检测通过后再发啊！",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480422387",
 			"date_added": 1480511349
+		},
+		{
+			"comment_id": 136,
+			"body": "@Ysc3839: 不能加载的原因貌似与内核太老不支持某些特性有关，而此类浏览器一般都使用一个特定的，Chrome 几乎不再会用的（Chrome 用户总是维持在最新版本或次新版本）版本号的 User Agent ，所以识别比较容易。\n还有一些国产浏览器也有问题，因为那所谓的双核浏览器有时候会默认使用 Trident 的内核，而许多用户认为 IE 几乎不用所以不需要升级，导致了使用老版本 Trident 内核的问题，360 的文档尚且提供了如何指定内核的 <meta> 标记。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480516438",
+			"date_added": 1480524996
 		}
 	],
 	"follow": [
