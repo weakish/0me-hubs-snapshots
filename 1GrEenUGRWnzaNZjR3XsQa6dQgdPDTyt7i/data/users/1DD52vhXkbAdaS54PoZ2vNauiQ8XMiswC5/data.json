@@ -1,7 +1,7 @@
 {
 	"next_post_id": 31,
-	"next_comment_id": 171,
-	"next_follow_id": 162,
+	"next_comment_id": 172,
+	"next_follow_id": 163,
 	"avatar": "jpg",
 	"user_name": "莱文倩",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -1161,6 +1161,12 @@
 			"body": "@Apuar: 这是因为节点分享，当前似乎是还依赖于一个桌面应用程序，也就意味着观看者并没有成为节点。",
 			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1480468458",
 			"date_added": 1480470533
+		},
+		{
+			"comment_id": 171,
+			"body": "@Apuar: 可能是传播者和下载者在共享节点",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1480468458",
+			"date_added": 1480472582
 		}
 	],
 	"follow": [
@@ -2234,6 +2240,13 @@
 			"auth_address": "1M54tXvq9WvmbAPBDdwCx72ZxQpeQdMCzw",
 			"user_name": "Vinyl",
 			"date_added": 1480468009
+		},
+		{
+			"follow_id": 162,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1BqTUcFDLtu5ZUvPEKkVXs9aPHcpLHyDuC",
+			"user_name": "Silencer",
+			"date_added": 1480474400
 		}
 	]
 }

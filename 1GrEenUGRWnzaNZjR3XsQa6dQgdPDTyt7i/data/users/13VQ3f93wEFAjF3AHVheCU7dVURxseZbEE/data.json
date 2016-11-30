@@ -1,6 +1,6 @@
 {
 	"next_post_id": 13,
-	"next_comment_id": 39,
+	"next_comment_id": 42,
 	"next_follow_id": 35,
 	"avatar": "jpg",
 	"user_name": "gfwbot79",
@@ -292,6 +292,24 @@
 			"body": "@Ysc3839: 啊，是我错了，不带参数就可以。。。\n是我没试验就臆断了，我认错。。我一直以为代参数才调用相关插件。。",
 			"post_uri": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE_1479918476",
 			"date_added": 1480003315
+		},
+		{
+			"comment_id": 39,
+			"body": "@TeddyDD: Would it be strange when an IM app requires stay foreground for receiving messages (Antidote does so)? I don't think tox is a good protocol for smartphones.",
+			"post_uri": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE_1480437899",
+			"date_added": 1480471561
+		},
+		{
+			"comment_id": 40,
+			"body": "@Meidan: In my view it is just like bitmessage. Both of them require a persistent network connection. This doesn't seem good when smartphones conquering.",
+			"post_uri": "13VQ3f93wEFAjF3AHVheCU7dVURxseZbEE_1480437899",
+			"date_added": 1480471896
+		},
+		{
+			"comment_id": 41,
+			"body": "@Ebanator: Hi there. At present GFW is not restricting Zeronet, which means that we can access it directly in most of the cases. A proxy is needed when surfing zeronet with tor (the tor service is banned by GFW).",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1480435051",
+			"date_added": 1480472391
 		}
 	],
 	"follow": [
