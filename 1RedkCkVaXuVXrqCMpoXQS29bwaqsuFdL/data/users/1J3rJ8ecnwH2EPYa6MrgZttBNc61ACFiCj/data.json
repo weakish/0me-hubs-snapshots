@@ -1,6 +1,6 @@
 {
 	"next_post_id": 22,
-	"next_comment_id": 128,
+	"next_comment_id": 129,
 	"next_follow_id": 29,
 	"avatar": "png",
 	"user_name": "Nofish",
@@ -872,6 +872,12 @@
 			"body": "@说鸡不说巴: There is trackers on Tor network, so it should not be a problem. And since 0.5.0 the peers are saved between restarts, so your ZeroNet client will still work even if you can't reach any tracker.",
 			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1480340164",
 			"date_added": 1480342013
+		},
+		{
+			"comment_id": 128,
+			"body": "You distribute json files between peers. The .db is automatically generated from them (for faster and easier data access) and not synced on the network.",
+			"post_uri": "1A2pTbDfU7P1JLSw3SZTiA1Lf7SRSu4Nn9_1480539305",
+			"date_added": 1480541591
 		}
 	],
 	"follow": [

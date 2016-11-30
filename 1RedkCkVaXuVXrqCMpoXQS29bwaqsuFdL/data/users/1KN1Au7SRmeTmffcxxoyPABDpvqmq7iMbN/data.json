@@ -1,5 +1,5 @@
 {
-	"next_post_id": 4,
+	"next_post_id": 5,
 	"next_comment_id": 1,
 	"next_follow_id": 1,
 	"avatar": "png",
@@ -21,6 +21,11 @@
 			"post_id": 1480026407,
 			"body": "**[Antilibrary.bit](/Antilibrary.bit) Updated:**\n\n- +22900 new books added\n- Pagination added to list of latest books\n",
 			"date_added": 1480026404
+		},
+		{
+			"post_id": 1480540993,
+			"body": "**[Antilibrary.bit](/Antilibrary.bit) Bug fix:**\n\n- Bug on the goodreads import fixed. If you imported your goodreads export CSV you will need to re-import it or the 'Pending' books won't be added by our systems into the database. \n\nSorry about this. :(\n",
+			"date_added": 1480540989
 		}
 	],
 	"post_like": {},
