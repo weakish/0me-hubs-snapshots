@@ -1,7 +1,7 @@
 {
 	"next_post_id": 44,
-	"next_comment_id": 245,
-	"next_follow_id": 177,
+	"next_comment_id": 246,
+	"next_follow_id": 178,
 	"avatar": "jpg",
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -274,7 +274,8 @@
 		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479666435": 1479710707,
 		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084": 1479803852,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479967047": 1479967846,
-		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1480340164": 1480341170
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1480340164": 1480341170,
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1480491237": 1480493843
 	},
 	"comment": [
 		{
@@ -1740,6 +1741,12 @@
 			"body": "@Lmath: 以前到限额时不会报db的错，现在可能是zeronet完全依靠db了。这样报错对用户很不友好的，限额到就应该说限额到。",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480003994",
 			"date_added": 1480416239
+		},
+		{
+			"comment_id": 245,
+			"body": "@Apuar: \n```\n  \"permission_rules\": {\n   \".*\": {\n    \"files_allowed\": \"(data.json|avatar.jpg|avatar.png)\",\n    \"max_size\": 50000\n   },\n   \"bitid/.*@zeroid.bit\": {\"max_size\": 60000},\n   \"bitmsg/.*@zeroid.bit\": {\"max_size\": 60000}\n  },\n```\n以小的为准，应该是48KB没错。但是头像貌似也算空间占用，那么就更小。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480422387",
+			"date_added": 1480494957
 		}
 	],
 	"follow": [
@@ -2932,6 +2939,13 @@
 			"auth_address": "1CKyj95EMuQiKCYaRcfY6JgXgdmLWBUjyM",
 			"user_name": "Kilva",
 			"date_added": 1480420335
+		},
+		{
+			"follow_id": 177,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1BqTUcFDLtu5ZUvPEKkVXs9aPHcpLHyDuC",
+			"user_name": "Silencer",
+			"date_added": 1480495433
 		}
 	],
 	"settings": {
