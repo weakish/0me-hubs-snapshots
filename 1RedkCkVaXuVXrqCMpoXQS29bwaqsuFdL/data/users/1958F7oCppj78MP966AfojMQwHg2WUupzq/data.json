@@ -1,6 +1,6 @@
 {
 	"next_post_id": 36,
-	"next_comment_id": 140,
+	"next_comment_id": 141,
 	"next_follow_id": 201,
 	"avatar": "png",
 	"user_name": "Lmath",
@@ -981,6 +981,12 @@
 			"body": "@weakish: 一个 Chrome 占 8G ，4G 内存开虚拟机很纠结。而且总有人觉得虚拟机严重影响性能（还停留在没硬件虚拟化支持时代的观念上）。",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480516438",
 			"date_added": 1480598945
+		},
+		{
+			"comment_id": 140,
+			"body": "@P2P: 我发现限额显示有两个问题，一个是小数点后面永运是 00 ，另一个是实际计算单位是 KiB ，而显示单位却是 kB （也就造成了限额 50kB 实际显示 48 kB 的问题）。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480422387",
+			"date_added": 1480611245
 		}
 	],
 	"follow": [

@@ -5,12 +5,12 @@
  "cert_user_id": "sirenyc@zeroid.bit",
  "files": {
   "avatar.jpg": {
-   "sha512": "bf8bd0d155522e0f487e926fe7a942d4bb643efc4f3557327e3fa9a7aadb2f88",
-   "size": 1591
+   "sha512": "0bd520006c1a21a13862788d8b739624e39b6ab7d7f352272bb562c6786cb74b",
+   "size": 1485
   },
   "data.json": {
-   "sha512": "ec00d02370ce1497463b418d29235f9adc5849811159e885b3bb5b0cbc78c77c",
-   "size": 73520
+   "sha512": "30e3ab48582ea64229a9f002dc591b67692648eeabc3477a00d6890c9a9ddb7b",
+   "size": 73680
   }
  },
  "files_optional": {
@@ -21,12 +21,16 @@
   "1480555820.jpg": {
    "sha512": "aa4d11554f2bd08677c81ac05a076eb4d0f4f2f8bc1b34aa5c146f0eecabaaa7",
    "size": 35516
+  },
+  "1480618836.jpg": {
+   "sha512": "458daa7b02b004a9cadfdc25b1a4f10f1a64ce5a2e4d3d37b7c319a552708013",
+   "size": 37362
   }
  },
  "inner_path": "data/users/19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ/content.json",
- "modified": 1480562986.41,
+ "modified": 1480618902.841,
  "optional": "(?!avatar).*jpg",
  "signs": {
-  "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": "Gx3H34NROh1dgYlcLOx857h4ORWoSOtqY1JtcAGgKuaABhYuYmpwFhpyi86dqYNTwAFKmQ76rRRb5QaBCjgi0OI="
+  "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": "G/tL/l4IuF0PRmiPyc3ddVEeoLbn2zI+1CoFkO8D1u/ZQjZY6mAPuGyVe00Ph3YimVo/UycEXp0qgWGyRX4LlWg="
  }
 }

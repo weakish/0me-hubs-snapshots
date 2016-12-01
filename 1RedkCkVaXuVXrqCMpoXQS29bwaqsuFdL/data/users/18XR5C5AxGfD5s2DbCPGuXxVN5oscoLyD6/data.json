@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 19,
+	"next_comment_id": 20,
 	"user_name": "Border0464fred",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {
@@ -116,6 +116,12 @@
 			"body": "You mean torrc in /etc/tor/torrc ? ",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480559679",
 			"date_added": 1480598194
+		},
+		{
+			"comment_id": 19,
+			"body": "@Callmypants: IPFS filenames are hash of their contents  so it would be a rewrite of all the links but yes it would work for static content. \n\nI have a site on both IPFS and zeronet. But I port them by hands. ",
+			"post_uri": "1A2pTbDfU7P1JLSw3SZTiA1Lf7SRSu4Nn9_1480537659",
+			"date_added": 1480617135
 		}
 	],
 	"flags": {},
