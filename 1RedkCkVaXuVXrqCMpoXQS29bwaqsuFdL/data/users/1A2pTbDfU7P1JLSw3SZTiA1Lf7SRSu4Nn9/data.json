@@ -1,6 +1,6 @@
 {
 	"next_post_id": 6,
-	"next_comment_id": 5,
+	"next_comment_id": 6,
 	"next_follow_id": 9,
 	"avatar": "jpg",
 	"user_name": "Callmypants",
@@ -58,6 +58,12 @@
 			"body": "Would it be difficult to port a zerosite to ipfs?",
 			"post_uri": "1A2pTbDfU7P1JLSw3SZTiA1Lf7SRSu4Nn9_1480537659",
 			"date_added": 1480538777
+		},
+		{
+			"comment_id": 5,
+			"body": "ipfs can also serve websites/html+js+css, I doubt it would be difficult to place a zerosite on ipfs. Gonna try it.  But guess it will fail where zeronet is expecting the address to be bitcoin-like public key but ipfs expects something else.",
+			"post_uri": "1A2pTbDfU7P1JLSw3SZTiA1Lf7SRSu4Nn9_1480537659",
+			"date_added": 1480598226
 		}
 	],
 	"follow": [

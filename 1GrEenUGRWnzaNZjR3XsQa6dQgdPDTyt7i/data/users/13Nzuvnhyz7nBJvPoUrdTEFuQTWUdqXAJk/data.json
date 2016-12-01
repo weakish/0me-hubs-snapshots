@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 36,
+	"next_comment_id": 39,
 	"next_follow_id": 352,
 	"avatar": "generate",
 	"user_name": "Linkerlin",
@@ -39,7 +39,10 @@
 		"1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1480172809": 1480175928,
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480224709": 1480239170,
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480178799": 1480239926,
-		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480249045": 1480261087
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480249045": 1480261087,
+		"1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1480561128": 1480597705,
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1480496615": 1480597915,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480434720": 1480599197
 	},
 	"comment": [
 		{
@@ -251,6 +254,24 @@
 			"body": "上海有线通还能用呢",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480344411",
 			"date_added": 1480596430
+		},
+		{
+			"comment_id": 36,
+			"body": "豪华车加税倒是蛮好的。",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1480561128",
+			"date_added": 1480597757
+		},
+		{
+			"comment_id": 37,
+			"body": "对，而且Python原生支持直接读zip里面的文件内容，不需要解压缩。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480434720",
+			"date_added": 1480599223
+		},
+		{
+			"comment_id": 38,
+			"body": "或者用message pack格式替代json格式。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480434720",
+			"date_added": 1480599257
 		}
 	],
 	"follow": [

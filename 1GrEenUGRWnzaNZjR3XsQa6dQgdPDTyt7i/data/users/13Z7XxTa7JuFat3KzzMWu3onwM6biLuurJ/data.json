@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 218,
+	"next_comment_id": 220,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -1350,6 +1350,18 @@
 			"body": "Matrix感觉不是P2P，需要搭建home server",
 			"post_uri": "17u2vBbwR5NAkg6XarzRXdmW1czuFgYMor_1480530764",
 			"date_added": 1480580008
+		},
+		{
+			"comment_id": 218,
+			"body": "@weakish: @Mzero: Matrix这种结构的之前就有好几个了，这种只能算半P2P，一般称为`去中心化`。一般我们说P2P都指`分布式`。",
+			"post_uri": "17u2vBbwR5NAkg6XarzRXdmW1czuFgYMor_1480530764",
+			"date_added": 1480597536
+		},
+		{
+			"comment_id": 219,
+			"body": "@weakish: ZeroNet over webRTC  https://github.com/HelloZeroNet/ZeroNet/issues/449",
+			"post_uri": "17u2vBbwR5NAkg6XarzRXdmW1czuFgYMor_1480530764",
+			"date_added": 1480598426
 		}
 	],
 	"flags": {},
