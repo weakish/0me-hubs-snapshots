@@ -1,7 +1,7 @@
 {
-	"next_post_id": 44,
-	"next_comment_id": 247,
-	"next_follow_id": 178,
+	"next_post_id": 45,
+	"next_comment_id": 248,
+	"next_follow_id": 179,
 	"avatar": "jpg",
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -222,6 +222,11 @@
 			"post_id": 1480422387,
 			"body": "水了这么多，一直没超hub限额，还以为自己不够水。谁知一看自己hub的`ZeroNet/data/hub_address/data/users/content.json`，原来nofish早就帮提了限额，提到了200多KB。到ZeroHello首页左侧点进自己hub，拉开右侧隐藏菜单，在`身份地址 (限制已用`（最好翻译成限额）那里可以看到自己用了多少。我用了100多KB，超过默认限额60KB两倍。如果在发帖、评论时报错，可以自查自己有没有到限额，是的话让nofish帮提限额。注意，评论是发在po主的hub，所以也要检查其他hub上你用了多少限额。",
 			"date_added": 1480422344
+		},
+		{
+			"post_id": 1480580471,
+			"body": "老外 [@G1tich](http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Profile/1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v/133PfjoNP94oHC3GczL9e7SCKoeKEMyCDJ/g1tich@zeroid.bit) 搞了个ZeroNet的GO实现，虽然很粗糙，很初始 http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1_133PfjoNP94oHC3GczL9e7SCKoeKEMyCDJ",
+			"date_added": 1480580427
 		}
 	],
 	"post_like": {
@@ -1753,6 +1758,12 @@
 			"body": "一定要痛骂用360的人，并且给出靠谱的替代工具",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480516438",
 			"date_added": 1480520257
+		},
+		{
+			"comment_id": 247,
+			"body": "@Lmath: @Silencer:  需要普及电脑常识",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480516438",
+			"date_added": 1480580153
 		}
 	],
 	"follow": [
@@ -2952,6 +2963,13 @@
 			"auth_address": "1BqTUcFDLtu5ZUvPEKkVXs9aPHcpLHyDuC",
 			"user_name": "Silencer",
 			"date_added": 1480495433
+		},
+		{
+			"follow_id": 178,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "133PfjoNP94oHC3GczL9e7SCKoeKEMyCDJ",
+			"user_name": "G1tich",
+			"date_added": 1480580285
 		}
 	],
 	"settings": {
