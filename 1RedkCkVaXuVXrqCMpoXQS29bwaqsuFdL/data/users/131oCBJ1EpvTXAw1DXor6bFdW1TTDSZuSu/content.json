@@ -4,14 +4,18 @@
  "cert_sign": "HM7HSx8wP2PbTYaXZvfrVFLWy86cVNStx4G8WxqxPRhDREcpg4gY4giiIk9IWAX/Qj/4kr0MLDTLIK7q0f72Kdo=",
  "cert_user_id": "nodream@zeroid.bit",
  "files": {
+  "avatar.jpg": {
+   "sha512": "4b4105bd23b0f587b97c645992124c44590cc074fa05a65bda2a091ba57c2402",
+   "size": 1585
+  },
   "data.json": {
-   "sha512": "16e7a04663a4f593fc63fbd55e311d6fac2151626dea397d78774462b957f67c",
-   "size": 338
+   "sha512": "f46c4d4a775ae50b6c93c7f7c059541bfbba8c444a605ad5c015eb59ce1b4712",
+   "size": 708
   }
  },
  "inner_path": "data/users/131oCBJ1EpvTXAw1DXor6bFdW1TTDSZuSu/content.json",
- "modified": 1480542409.175127,
+ "modified": 1480597196.35,
  "signs": {
-  "131oCBJ1EpvTXAw1DXor6bFdW1TTDSZuSu": "HBSimkIMoC6uuZPUrU3Z9BDn8iUKPQp7hJzc4ECXpaPPUelUMdOwKYmjdnKTXscBMvw0Nv0KhC+ORfKfBVwR27k="
+  "131oCBJ1EpvTXAw1DXor6bFdW1TTDSZuSu": "HFbeVmWAWs5fcvpACvvrmEnbFwhbobV7Vee5mVldL1P8bZXTMix0DjVNZmqMzU2iYnT/WAG3QwdbRPfJymy3YWk="
  }
 }

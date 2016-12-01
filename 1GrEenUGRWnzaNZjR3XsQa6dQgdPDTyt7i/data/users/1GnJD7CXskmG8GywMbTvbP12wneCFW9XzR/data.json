@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 73,
+	"next_comment_id": 76,
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -468,6 +468,24 @@
 			"body": "@Lmath: https://en.bitcoin.it/wiki/Mixing_service",
 			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1480388503",
 			"date_added": 1480428337
+		},
+		{
+			"comment_id": 73,
+			"body": "首先科普WebRTC，是一个协议，用于实时的P2P Web通讯。如果知道XMPP的话，WebRTC可以理解为Web版的XMPP。WebRTC只是一个协议，matrix是实现WebRTC，封装了WebRTC通讯的底层细节，以及其他一些开发WebRTC应用常用的功能，比如端到端加密。riot 是基于 matrix 开发的一个IM应用（或者说，泛IM应用，毕竟协同编辑文档、微博客之类的应用其实和IM很像）。",
+			"post_uri": "17u2vBbwR5NAkg6XarzRXdmW1czuFgYMor_1480530764",
+			"date_added": 1480594478
+		},
+		{
+			"comment_id": 74,
+			"body": "@P2P: 类似XMPP，算P2P（老版的QQ、Email都可以算P2P），不是彻底的P2P. ",
+			"post_uri": "17u2vBbwR5NAkg6XarzRXdmW1czuFgYMor_1480530764",
+			"date_added": 1480594576
+		},
+		{
+			"comment_id": 75,
+			"body": "「世界上大约一半成年人身家不足2222美元」、「全球大约73%的成年人个人财富不到1万美元」，看来我属于37%-50%的区间。",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1480561128",
+			"date_added": 1480594832
 		}
 	]
 }

@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_comment_id": 4,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Blackbear",
@@ -14,6 +14,25 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Silencer: 大家好",
+			"post_uri": "1BaLTmm1fcVdg18pxXaLRKGbCuVvVA5cCQ_1",
+			"date_added": 1480592237
+		},
+		{
+			"comment_id": 2,
+			"body": "@Rainlime: 这里没有墙，分不清哪个世界啦",
+			"post_uri": "1BaLTmm1fcVdg18pxXaLRKGbCuVvVA5cCQ_1",
+			"date_added": 1480592883
+		},
+		{
+			"comment_id": 3,
+			"body": "也许2.5次元？",
+			"post_uri": "1BaLTmm1fcVdg18pxXaLRKGbCuVvVA5cCQ_1",
+			"date_added": 1480593731
+		}
+	],
 	"follow": []
 }

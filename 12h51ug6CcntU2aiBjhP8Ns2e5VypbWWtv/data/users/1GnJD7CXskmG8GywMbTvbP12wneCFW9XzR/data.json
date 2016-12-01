@@ -1,6 +1,6 @@
 {
-	"next_post_id": 64,
-	"next_comment_id": 39,
+	"next_post_id": 65,
+	"next_comment_id": 40,
 	"next_follow_id": 190,
 	"avatar": "png",
 	"user_name": "weakish",
@@ -321,6 +321,11 @@
 			"post_id": 1480503940,
 			"body": "Firefox version 41 to 50 (including 45 ESR used by the latest version of the Tor browser) has a memory corruption vulnerability allows malicious code to be executed on Windows, thus deanonymize Tor users.\n\nTo protect yourself from similar possible future vulnerabilities:\n\n1. the ultimate 2 physical machine solution: use two physical machine A and B. A has only one lan card to connect to B (make sure A does not have a wireless card, or has a physical switch to turn off wireless card).  B has 2 lan card, one for A, one for Internet. Running the browser on A and Tor on B,  and the connection between A and B is configured as NAT only. So A can only connect to Internet via Tor, and possible vulnerability in browser can only leak IP/MAC etc of A, not B. For max security, do not buy A online, incase the online seller may record A's hardware information together with your identity/address.\n\n2. the 2 virtual machine solution: similarly to the solution above, but use two Virtual machine instead. This does not protect you from virtual emualtor's escape vul­nerabilities though. However, virtual emualtor's escape vulnerabilities are rare (and your machine need to encounter both virtual emualtor's escape vulnerability and browser's vulnerability at the same time to leak the information of physical machine).\n\n3. Less secure than the above solutions, but the easiest: Use Tor Browser with JavaScript off, or at least block JavaScript by default, and whitelist sites you trusted.",
 			"date_added": 1480503877
+		},
+		{
+			"post_id": 1480595719,
+			"body": "ZeroNet's answer to CDN/cloud hosting industry: kill it. I think this is one of the most charming part of technology: rather than sloving a problem, make the problem irrelevant.",
+			"date_added": 1480595655
 		}
 	],
 	"post_like": {
@@ -584,6 +589,12 @@
 			"body": "@P2P: Assign A and B1(B's first network interface/card) a private subnet (i.e. assgin private IP addresses in the same subnet). Configure B2 (B's second network card, connected to Internet) as usual. Check `man interface` on Linux. Windows configuration should be the same (not sure if there are some smart network auto configuring tools on Windows to discover connected devices and do nat forwarding automatically). The tor part is as usual, i.e. configure tor on B as socks proxy bind to B1's private IP, and set socks proxy to B1 in A's web browser.",
 			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1480503940",
 			"date_added": 1480593057
+		},
+		{
+			"comment_id": 39,
+			"body": "@P2P: You may refer to [whonix wiki](https://www.whonix.org/wiki/Dev/Build_Documentation/Physical_Isolation). Note that whonix is intended to protect you even if you are using untrusted software/malware. So the setup lengthy. If both A and B are clean and trusted, the setup is actually simple.",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1480503940",
+			"date_added": 1480596440
 		}
 	],
 	"follow": [
