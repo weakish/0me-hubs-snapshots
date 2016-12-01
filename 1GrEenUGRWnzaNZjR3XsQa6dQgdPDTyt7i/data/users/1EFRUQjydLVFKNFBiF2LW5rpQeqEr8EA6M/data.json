@@ -1,7 +1,7 @@
 {
 	"next_post_id": 70,
 	"next_comment_id": 168,
-	"next_follow_id": 122,
+	"next_follow_id": 123,
 	"avatar": "jpg",
 	"user_name": "Rainlime",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -2153,15 +2153,24 @@
 			"auth_address": "1KN1Au7SRmeTmffcxxoyPABDpvqmq7iMbN",
 			"user_name": "Antilibrary",
 			"date_added": 1480567734
+		},
+		{
+			"follow_id": 122,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1L2FnXBU5fhVATcwtJLvX2ZhsZSGDSqJcn",
+			"user_name": "Codegeass",
+			"date_added": 1480590083
 		}
 	],
 	"settings": {
 		"reverse_comment_order": false,
 		"mute_ugly": false,
 		"mute_spam": false,
-		"mute_blocked": false
+		"mute_blocked": true
 	},
-	"blocked": [],
+	"blocked": [
+		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ"
+	],
 	"flags": {},
 	"comment_like": {
 		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_43": 1476721415,

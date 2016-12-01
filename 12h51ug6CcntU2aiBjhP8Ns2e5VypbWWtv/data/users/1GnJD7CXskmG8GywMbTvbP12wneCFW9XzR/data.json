@@ -1,6 +1,6 @@
 {
 	"next_post_id": 64,
-	"next_comment_id": 38,
+	"next_comment_id": 39,
 	"next_follow_id": 190,
 	"avatar": "png",
 	"user_name": "weakish",
@@ -352,7 +352,9 @@
 		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1479512809": 1479625996,
 		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1479812062": 1479828039,
 		"13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1480264571": 1480424606,
-		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1480190842": 1480500002
+		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1480190842": 1480500002,
+		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1480514467": 1480593193,
+		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1480521889": 1480593534
 	},
 	"comment": [
 		{
@@ -576,6 +578,12 @@
 			"body": "@Zerg: Their dedicated offers are really cheap! Have you used them? Are they reliable? Do they accept BitCoin. Also one big advantage of DO/Vultr and so on is api and billed hourly, thus it is possible to increase/reduce instances easily.",
 			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1480426322",
 			"date_added": 1480501869
+		},
+		{
+			"comment_id": 38,
+			"body": "@P2P: Assign A and B1(B's first network interface/card) a private subnet (i.e. assgin private IP addresses in the same subnet). Configure B2 (B's second network card, connected to Internet) as usual. Check `man interface` on Linux. Windows configuration should be the same (not sure if there are some smart network auto configuring tools on Windows to discover connected devices and do nat forwarding automatically). The tor part is as usual, i.e. configure tor on B as socks proxy bind to B1's private IP, and set socks proxy to B1 in A's web browser.",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1480503940",
+			"date_added": 1480593057
 		}
 	],
 	"follow": [
