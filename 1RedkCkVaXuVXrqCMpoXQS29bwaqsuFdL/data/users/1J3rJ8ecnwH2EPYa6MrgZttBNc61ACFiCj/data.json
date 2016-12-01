@@ -875,7 +875,7 @@
 		},
 		{
 			"comment_id": 128,
-			"body": "You distribute json files between peers. The .db is automatically generated from them (for faster and easier data access) and not synced on the network.",
+			"body": "The network distribute the user's json files. The .db downloaded from other users, but automatically generated from the json files (so its just a cache for faster and easier data access)",
 			"post_uri": "1A2pTbDfU7P1JLSw3SZTiA1Lf7SRSu4Nn9_1480539305",
 			"date_added": 1480541591
 		}

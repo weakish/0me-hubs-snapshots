@@ -1,8 +1,10 @@
 {
-	"next_comment_id": 18,
+	"next_comment_id": 21,
 	"user_name": "Silencer",
 	"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
-	"post_like": {},
+	"post_like": {
+		"1KN1Au7SRmeTmffcxxoyPABDpvqmq7iMbN_1480540993": 1480554258
+	},
 	"comment": [
 		{
 			"comment_id": 1,
@@ -99,6 +101,26 @@
 			"body": "@Lmath: 不是抽风率，是拦截成功率，指在经过训练样本大量训练总结之后的结果再进行啥。。机器学习方面我很水啦，但这个有自动学习功能，发的spam越多他学的越多，也越精确，不会那样误删",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480422387",
 			"date_added": 1480510922
+		},
+		{
+			"comment_id": 18,
+			"body": "Thanks~! But when I import my goodreads export CSV, It show a error to me:\"File write error: undefined\", I don't know how to deal with it.",
+			"post_uri": "1KN1Au7SRmeTmffcxxoyPABDpvqmq7iMbN_1480540993",
+			"date_added": 1480554664
+		},
+		{
+			"comment_id": 19,
+			"body": "@P2P: 替代工具也不是那么好给的呀。。而且基于人类的懒惰性那些人大多数都不会去折腾卸载这些。再说，360系列还喜欢搞卸载了软件就不给你启动/蓝屏/修改explorer.exe让你开机没桌面等等一系列手段让用户不敢卸载，并不是那么简单的事情。说360是中国互联网最大的一颗毒瘤，丝毫不为过。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480516438",
+			"date_added": 1480555410
+		},
+		{
+			"comment_id": 20,
+			"body": "and book [The Adventures of Tom Sawyer](/Antilibrary.bit/?view:40001)'s cover image url should be http://images.gr-assets.com/books/1366551846m/7010346.jpg , not be http://d.gr-assets.com/books/1366551846m/7010346.jpg",
+			"post_uri": "1KN1Au7SRmeTmffcxxoyPABDpvqmq7iMbN_1480540993",
+			"date_added": 1480556640
 		}
-	]
+	],
+	"flags": {},
+	"comment_like": {}
 }
