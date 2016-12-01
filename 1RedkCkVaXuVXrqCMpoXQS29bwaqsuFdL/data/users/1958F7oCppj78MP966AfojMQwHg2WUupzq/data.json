@@ -1,6 +1,6 @@
 {
-	"next_post_id": 35,
-	"next_comment_id": 137,
+	"next_post_id": 36,
+	"next_comment_id": 138,
 	"next_follow_id": 201,
 	"avatar": "png",
 	"user_name": "Lmath",
@@ -174,6 +174,11 @@
 			"post_id": 1480516438,
 			"body": "我觉得我那个工具存档区有必要禁止 360 浏览器访问并提示了，反正也不能正常加载，还给人一种是站点问题的错觉。",
 			"date_added": 1480516404
+		},
+		{
+			"post_id": 1480559679,
+			"body": "@nofish Every time I update ZeroNet, I have to reconfigure `torrc` to set up bridges or proxy because `torrc` will be overwritten. Whether the file should be ignored when ZeroNet update?",
+			"date_added": 1480559644
 		}
 	],
 	"post_like": {
@@ -957,6 +962,12 @@
 			"body": "@Ysc3839: 不能加载的原因貌似与内核太老不支持某些特性有关，而此类浏览器一般都使用一个特定的，Chrome 几乎不再会用的（Chrome 用户总是维持在最新版本或次新版本）版本号的 User Agent ，所以识别比较容易。\n还有一些国产浏览器也有问题，因为那所谓的双核浏览器有时候会默认使用 Trident 的内核，而许多用户认为 IE 几乎不用所以不需要升级，导致了使用老版本 Trident 内核的问题，360 的文档尚且提供了如何指定内核的 <meta> 标记。",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480516438",
 			"date_added": 1480524996
+		},
+		{
+			"comment_id": 137,
+			"body": "@Nekocross: 重装系统这个难度更大。我对人说了重装系统很多人的反应是“不行不行，我的文件不能丢”，另一部分人的反应是直接百度系统之家下个 GHOST 封装的自带垃圾软件的镜像包装完了。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480516438",
+			"date_added": 1480560833
 		}
 	],
 	"follow": [
