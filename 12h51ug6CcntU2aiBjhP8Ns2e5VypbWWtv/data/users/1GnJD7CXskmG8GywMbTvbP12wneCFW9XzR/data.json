@@ -1,6 +1,6 @@
 {
 	"next_post_id": 65,
-	"next_comment_id": 40,
+	"next_comment_id": 41,
 	"next_follow_id": 192,
 	"avatar": "png",
 	"user_name": "weakish",
@@ -595,6 +595,12 @@
 			"body": "@P2P: You may refer to [whonix wiki](https://www.whonix.org/wiki/Dev/Build_Documentation/Physical_Isolation). Note that whonix is intended to protect you even if you are using untrusted software/malware. So the setup lengthy. If both A and B are clean and trusted, the setup is actually simple.",
 			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1480503940",
 			"date_added": 1480596440
+		},
+		{
+			"comment_id": 40,
+			"body": "Windows' unicode-aware API allows 255 unicode codepoints (basically 255 bytes). The widely used traditional APIs are still limited by 259 characters (for backward compatibility?)",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1480625381",
+			"date_added": 1480681645
 		}
 	],
 	"follow": [
