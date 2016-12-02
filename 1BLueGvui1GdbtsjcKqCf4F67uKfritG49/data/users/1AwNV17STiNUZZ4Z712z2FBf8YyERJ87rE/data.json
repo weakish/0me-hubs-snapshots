@@ -1,7 +1,7 @@
 {
 	"next_post_id": 5,
 	"next_comment_id": 1,
-	"next_follow_id": 1,
+	"next_follow_id": 2,
 	"avatar": "jpg",
 	"user_name": "Jetstar",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -25,5 +25,13 @@
 	],
 	"post_like": {},
 	"comment": [],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1Pg3bGXNVV9uB2HnirHFU2vaJLvmK77Dox",
+			"user_name": "Ekodjtal",
+			"date_added": 1480685976
+		}
+	]
 }
