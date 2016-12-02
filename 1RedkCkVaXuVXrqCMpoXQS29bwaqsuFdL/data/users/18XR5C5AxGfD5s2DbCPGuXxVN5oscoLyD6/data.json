@@ -1,12 +1,13 @@
 {
-	"next_comment_id": 20,
+	"next_comment_id": 22,
 	"user_name": "Border0464fred",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {
 		"19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1475359406": 1475420462,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1477016753": 1477444630,
 		"12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1479068328": 1479087849,
-		"1A2pTbDfU7P1JLSw3SZTiA1Lf7SRSu4Nn9_1480083544": 1480106537
+		"1A2pTbDfU7P1JLSw3SZTiA1Lf7SRSu4Nn9_1480083544": 1480106537,
+		"1ByuEoBeryNCZXqRArMfDiAL9bFTqmM5yN_1480607025": 1480695493
 	},
 	"comment": [
 		{
@@ -122,6 +123,18 @@
 			"body": "@Callmypants: IPFS filenames are hash of their contents  so it would be a rewrite of all the links but yes it would work for static content. \n\nI have a site on both IPFS and zeronet. But I port them by hands. ",
 			"post_uri": "1A2pTbDfU7P1JLSw3SZTiA1Lf7SRSu4Nn9_1480537659",
 			"date_added": 1480617135
+		},
+		{
+			"comment_id": 20,
+			"body": "I live without any windows since 6 years now, when I RLY RLY need one, I use a VM.\n\nDo you need win10 ? :p",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1480648650",
+			"date_added": 1480695446
+		},
+		{
+			"comment_id": 21,
+			"body": "I go for one for some feature and on the other for some other features.\nWhat's the problem between zerome and zerome+, can't you mutualy accept PR ? \n\nIt seem like a huge duplication of work. ",
+			"post_uri": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa_1475359406",
+			"date_added": 1480696781
 		}
 	],
 	"flags": {},
