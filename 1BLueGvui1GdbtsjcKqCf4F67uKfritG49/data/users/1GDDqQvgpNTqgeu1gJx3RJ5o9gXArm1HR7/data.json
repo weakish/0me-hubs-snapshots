@@ -1,19 +1,28 @@
 {
 	"next_post_id": 2,
 	"next_comment_id": 1,
-	"next_follow_id": 2,
+	"next_follow_id": 4,
 	"avatar": "generate",
 	"user_name": "20161110",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"intro": "新 ZeroNet 用户",
-	"post": [
-		{
-			"post_id": 1,
-			"date_added": 1479629732,
-			"body": "你好 ZeroMe!"
-		}
-	],
+	"post": [],
 	"post_like": {},
 	"comment": [],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 2,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq",
+			"user_name": "zero",
+			"date_added": 1480667173
+		},
+		{
+			"follow_id": 3,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "157VksPLxufKMy8U344wPhayVY3RhkL8SK",
+			"user_name": "怡红院",
+			"date_added": 1480667482
+		}
+	]
 }

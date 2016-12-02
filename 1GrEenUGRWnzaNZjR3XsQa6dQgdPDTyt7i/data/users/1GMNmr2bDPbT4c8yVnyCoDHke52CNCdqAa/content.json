@@ -4,9 +4,13 @@
  "cert_sign": "GxAy4YpBeegD3PZ5zCYUhFjHWoQqDZJS4d3qg2nZij3fYhZCT1Upke82P/U7rpvfTxFEhPsAvjZGIQMp00zD78k=",
  "cert_user_id": "apuar@zeroid.bit",
  "files": {
+  "avatar.jpg": {
+   "sha512": "d6d7061b9446af862b9bf59205e6c57267415f957c3eaa9ed218b2d465b0a6bc",
+   "size": 1092
+  },
   "data.json": {
-   "sha512": "3fb4e03083c1289e96d129323568dc67cdd2570f4abd76545534f38de579414a",
-   "size": 20080
+   "sha512": "b8e813dba2cdc51db1ef07e1bfdef2a9cdb95c4b55bacb05b56a46737e344706",
+   "size": 20446
   }
  },
  "files_optional": {
@@ -16,9 +20,9 @@
   }
  },
  "inner_path": "data/users/1GMNmr2bDPbT4c8yVnyCoDHke52CNCdqAa/content.json",
- "modified": 1480657492.002,
+ "modified": 1480668778.583,
  "optional": "(?!avatar).*jpg",
  "signs": {
-  "1GMNmr2bDPbT4c8yVnyCoDHke52CNCdqAa": "HDxU3VmQyxDSm/6LFXBTEigY5cXvPqCCioITjp/kA4BIkz/zKttRf4z/5Ken+j37Q7Q+X/OefN7c60nvHMcRwOg="
+  "1GMNmr2bDPbT4c8yVnyCoDHke52CNCdqAa": "G2U+K4zuF9b1c+tCHfaBI6pIvRoFMikPO62v8t1XdYJpnZOcyYv/uNkK5xMvbcCBu8igv7WyBYE87J/M6UmOHos="
  }
 }
