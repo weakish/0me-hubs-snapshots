@@ -1,8 +1,10 @@
 {
-	"next_comment_id": 4,
+	"next_comment_id": 6,
 	"user_name": "Border0464fred",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
-	"post_like": {},
+	"post_like": {
+		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1480684461": 1480693227
+	},
 	"comment": [
 		{
 			"comment_id": 1,
@@ -21,6 +23,18 @@
 			"body": "we are doomed, we are fucking doomed",
 			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1480514467",
 			"date_added": 1480518419
+		},
+		{
+			"comment_id": 4,
+			"body": "Putting the  operator in front help to make clear that the line is part of a statement evaluation.\n\n`if (starts_with(path, home, path_size, home_path_size) `\n` ....    || check_with(path, home, path_size, home_path_size) {`\n`....     recreate(path, home);`\n` ....    return home_path_size;`\n` } else {`\n`  ....   return 0;`\n` }`\n\n\nI also once literaly saw someone not tabbing the second row of the statement from the point of view that it's not inside the brackets and should not be tabbed.  \n\n",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1480684461",
+			"date_added": 1480693322
+		},
+		{
+			"comment_id": 5,
+			"body": "how can I post preformated text in comments ? \n[code][/code] <pre></pre> back quote ? \n",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1480684461",
+			"date_added": 1480693861
 		}
 	],
 	"flags": {},

@@ -5,13 +5,20 @@
  "cert_user_id": "jiang@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "22aaf50b9706d3a00ddd47df99306d7c2f8a1af93cfb6356d5080e505fd9366e",
-   "size": 2799
+   "sha512": "5526ccf4218631013ad351d00eb84f350960cf23feed897247aeeb90c036f5b7",
+   "size": 3122
+  }
+ },
+ "files_optional": {
+  "1480690831.jpg": {
+   "sha512": "5e40ecec3e72a299a37d7fe509b297697cd522e3ff0c602270238cba19920203",
+   "size": 45376
   }
  },
  "inner_path": "data/users/1BC54suJNJZRD27uGkLYRGbqneCrPBJDaT/content.json",
- "modified": 1472392834.734,
+ "modified": 1480690829.625,
+ "optional": "(?!avatar).*jpg",
  "signs": {
-  "1BC54suJNJZRD27uGkLYRGbqneCrPBJDaT": "Gx3IMyRNtdJzCOunwfv4VshOIYczOFfTNNP27/0qBqLVcc+SfYFfQSqHXCfYNJB5QbyQT9OW1BNwgFCUuVq83kE="
+  "1BC54suJNJZRD27uGkLYRGbqneCrPBJDaT": "HNV1pP4VjtNleps0gLqJ7wjDjaPcmrl++2YB3kndVfKn4K5W82gJ7uRja5rwG3xct7UeJLzl4YB7TMDBAEd4+G8="
  }
 }
