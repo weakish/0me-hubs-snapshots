@@ -1,11 +1,11 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 13,
-	"avatar": "generate",
+	"avatar": "jpg",
 	"user_name": "0fractal",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
-	"intro": "Random ZeroNet user",
+	"intro": "Linux User and love ZeroNet",
 	"post": [
 		{
 			"post_id": 1,
@@ -14,7 +14,14 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Me, why ?",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1480648650",
+			"date_added": 1480660239
+		}
+	],
 	"follow": [
 		{
 			"follow_id": 1,

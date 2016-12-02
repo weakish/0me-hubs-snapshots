@@ -4,14 +4,18 @@
  "cert_sign": "G56oAO/uCxj9+61wnuY0sv8AyVlF6fML7Lvd8nAKQ5iY3SEiK99VSCnOChN/3mwbX5nWRlZy3bt8FESsAjctNlc=",
  "cert_user_id": "0fractal@zeroid.bit",
  "files": {
+  "avatar.jpg": {
+   "sha512": "0511a78116dc1f1c19ea2dbcc452692870c6cd45b102a29a924366b7ce508fa8",
+   "size": 1655
+  },
   "data.json": {
-   "sha512": "d685f736a5acb31e1e31ccb5c22f36a6c72063127621d53c8a5a70f7c4007ee7",
-   "size": 2606
+   "sha512": "1598c3bfeffd91e28232eb37a7636cd6108f792c88af4a16f1d08b489b4dbb12",
+   "size": 2755
   }
  },
  "inner_path": "data/users/1HcPSuDPs7L5wAAkBpzjt5QTvZfBxMKSoe/content.json",
- "modified": 1479117344.648254,
+ "modified": 1480660608.857422,
  "signs": {
-  "1HcPSuDPs7L5wAAkBpzjt5QTvZfBxMKSoe": "G1ZWp3IIw2jDKo1RAefd9QEUNXSr02PLbF4eUQalh1zlkUPKNZXhlpvilVuGXtr/PH5OmuFLxPVctIbdRO4ur9U="
+  "1HcPSuDPs7L5wAAkBpzjt5QTvZfBxMKSoe": "G6EmvMSovB+Gj7BnbMpZulYSVnJ1JWPm9rDXYxYCMdsR91xahQfR3XRwN7AbgYZvVf+653weidM0GZLvMNkjNlg="
  }
 }

@@ -1,6 +1,6 @@
 {
 	"next_post_id": 65,
-	"next_comment_id": 50,
+	"next_comment_id": 51,
 	"next_follow_id": 14,
 	"avatar": "generate",
 	"user_name": "Firebox",
@@ -616,6 +616,12 @@
 			"body": "@Splitfire: The site owner did not get back.",
 			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1480308738",
 			"date_added": 1480547798
+		},
+		{
+			"comment_id": 50,
+			"body": "@0fractal: I heard Windows 10 modifies UEFI entries and makes it always boot first, ignoring GRUB. Did you make changes on your UEFI before installing ubuntu?",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1480648650",
+			"date_added": 1480661009
 		}
 	],
 	"follow": [
