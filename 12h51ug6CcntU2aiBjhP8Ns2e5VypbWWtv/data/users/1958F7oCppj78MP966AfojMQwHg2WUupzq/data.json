@@ -1,190 +1,22 @@
 {
-	"next_comment_id": 30,
+	"next_comment_id": 3,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
-		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1479206117": 1479207418
+		"1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1480687343": 1480687744
 	},
 	"comment": [
 		{
 			"comment_id": 1,
-			"body": "ZeroNet 目前在非 Tor 模式下根本没有保证匿名的措施啊！即使开启 Tor Always 模式，目前跨站保护措施也值得怀疑。",
-			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1478337589",
-			"date_added": 1478406707
+			"body": "所以你要再写一个 Lantern ？",
+			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1480687343",
+			"date_added": 1480687443
 		},
 		{
 			"comment_id": 2,
-			"body": "今天凌晨 Pull Request 了，貌似质量有点差，勿喷。",
-			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1478439303",
-			"date_added": 1479003476
-		},
-		{
-			"comment_id": 3,
-			"body": "求 .py 文件。",
-			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479025118",
-			"date_added": 1479025165
-		},
-		{
-			"comment_id": 4,
-			"body": "@Ysc3839: 直接覆盖原 ZeroNet 目录的文件即可？",
-			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479025118",
-			"date_added": 1479025504
-		},
-		{
-			"comment_id": 5,
-			"body": "@Ysc3839: 所以相比纯 JSON ，gettext 方案真的明显影响性能？",
-			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479025118",
-			"date_added": 1479044803
-		},
-		{
-			"comment_id": 6,
-			"body": "据说过几天就能出来了？",
-			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479132525",
-			"date_added": 1479133354
-		},
-		{
-			"comment_id": 7,
-			"body": "@Rainlime: Google 拼音目前不更新了，有两个小坑。\n一个是同步服务器关闭了（不是被墙，是关闭），另一个是会造成 Java 程序停止运行。",
-			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1479118734",
-			"date_added": 1479207518
-		},
-		{
-			"comment_id": 8,
-			"body": "@weakish: 小狼毫对一些程序兼容不太好，然后就搞了 IME 和 TSF 两个坑。",
-			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1479118734",
-			"date_added": 1479207661
-		},
-		{
-			"comment_id": 9,
-			"body": "@Ysc3839: Windows 10 我一直感觉有隐私问题，因为只要我在 .onion 网络的文件，Windows Defender 一直提示可疑文件，请求上报。",
-			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1479118734",
-			"date_added": 1479219329
-		},
-		{
-			"comment_id": 10,
-			"body": "@P2P: 所以隐私性的东西大概我还是到 Linux 下搞好了。",
-			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1479118734",
-			"date_added": 1479220944
-		},
-		{
-			"comment_id": 11,
-			"body": "@Jabasukuriputo Wang: sandbox 主要是解决同域的权限问题的，对匿名性没啥大的作用。",
-			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1478337589",
-			"date_added": 1479469629
-		},
-		{
-			"comment_id": 12,
-			"body": "同样遇到这个问题，有时候 Tor 连不上的时候还要关闭 ZeroNet 后手工结束 Tor 的进程才可以。",
-			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1479518586",
-			"date_added": 1479519357
-		},
-		{
-			"comment_id": 13,
-			"body": "@Jabasukuriputo Wang: 理论上 Unicode 系的网页都能支持 Emoji ，其实 Windows 上的 Chrome 最近才支持彩色的 Emoji 。",
-			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1479478870",
-			"date_added": 1479519916
-		},
-		{
-			"comment_id": 14,
-			"body": "@weakish: 在 Microsoft Office 2016 上，小狼毫 TSF 无法运行。",
-			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1479118734",
-			"date_added": 1479556447
-		},
-		{
-			"comment_id": 15,
-			"body": "@Obatoyou: 我就想知道一般 Modem 对于主存储器有没有完全的访问权限？如果有的话确实感觉安全性堪忧。",
-			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1479118734",
-			"date_added": 1479556657
-		},
-		{
-			"comment_id": 16,
-			"body": "@Obatoyou: 所以在美国的怎么办？刷个 COS (Copy Other System) 保护？",
-			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1479118734",
-			"date_added": 1479566329
-		},
-		{
-			"comment_id": 17,
-			"body": "@P2P: Tor 菜单里还有一件本地化的事就是点击“How to use ZeroNet in Tor browser”这个菜单项以后应该要能转到各自语言的文档，而不是都是英文文档。",
-			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479132525",
-			"date_added": 1479571952
-		},
-		{
-			"comment_id": 18,
-			"body": "@Jabasukuriputo Wang: 实际上 Wi-Fi 万能钥匙已经考虑到了这点，所以在不插 SIM 卡的情况下用一个 Wi-Fi 来获取另一个 Wi-Fi 的信息会失败，所以就起到了手机号认证的效果，所以从这个角度讲不能用获取 Wi-Fi 信息的设备来上。",
-			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1478337589",
-			"date_added": 1479572207
-		},
-		{
-			"comment_id": 19,
-			"body": "@Ysc3839: 你是使用了国内大学的 DNS 么？国内的服务器确实可以联通，不知道为什么 Google 以前不解析回来。",
-			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479623947",
-			"date_added": 1479629666
-		},
-		{
-			"comment_id": 20,
-			"body": "@Ysc3839: File -> Settings -> Appearance & Behavior -> System Settings -> HTTP Proxy 可以设置代理，之后如果运行模拟器的话貌似会问你是否给模拟器也使用代理。",
-			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479623947",
-			"date_added": 1479640091
-		},
-		{
-			"comment_id": 21,
-			"body": "@Ysc3839: 我以为你说的是 Android Studio ……所以你是要给 Python for Android 挂代理？",
-			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479623947",
-			"date_added": 1479650925
-		},
-		{
-			"comment_id": 22,
-			"body": "有一台越狱的 iPhone 5S ，可是屏幕挂了……",
-			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479736318",
-			"date_added": 1479741617
-		},
-		{
-			"comment_id": 23,
-			"body": "@Ysc3839: 实际上 iOS 越狱后的 Cydia 有点像是 Android 上的 Xposed ，只不过在 Android 上好像大家更倾向于直接操作。",
-			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479736318",
-			"date_added": 1479750213
-		},
-		{
-			"comment_id": 24,
-			"body": "我更倾向与参照 Google+ 的实现。",
-			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479741216",
-			"date_added": 1479750509
-		},
-		{
-			"comment_id": 25,
-			"body": "@Apuar: 主要是我觉得目前无论是目前的微博类的东西对宽屏的空间利用率过低，Google+ 的布局很好地利用了屏幕空间。",
-			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479741216",
-			"date_added": 1479788631
-		},
-		{
-			"comment_id": 26,
-			"body": "用 Telegram 所谓的隐私是别人不能监控到你发的消息。如果要达到你这个目的，请使用 Tox 。",
-			"post_uri": "17z9bkjwGkCNEGCJ9E6TUu1kEs5V1f7zYL_1479824219",
-			"date_added": 1479825481
-		},
-		{
-			"comment_id": 27,
-			"body": "@Ysc3839: 不过 Telegram 依然可以提醒其他人你在用 Telegram ，至于主动探测我认为很难避免。",
-			"post_uri": "17z9bkjwGkCNEGCJ9E6TUu1kEs5V1f7zYL_1479824219",
-			"date_added": 1479825942
-		},
-		{
-			"comment_id": 28,
-			"body": "@Ysc3839: 在路由器上装一个？",
-			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479736318",
-			"date_added": 1479877835
-		},
-		{
-			"comment_id": 29,
-			"body": "记事本？",
-			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1480006717",
-			"date_added": 1480008174
+			"body": "期待。",
+			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1480687343",
+			"date_added": 1480687751
 		}
-	],
-	"flags": {},
-	"comment_like": {
-		"12yaKkoqVKBUi66uB5pYXamWguKFaWdDnx_47": 1478570498,
-		"144GQ5Uz9dYQJ1MwjSFWWboLgHwdGpv21x_1": 1479027399,
-		"157VksPLxufKMy8U344wPhayVY3RhkL8SK_2": 1479033710
-	}
+	]
 }
