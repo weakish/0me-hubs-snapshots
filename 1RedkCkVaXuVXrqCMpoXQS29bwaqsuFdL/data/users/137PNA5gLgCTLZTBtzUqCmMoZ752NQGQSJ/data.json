@@ -1,11 +1,11 @@
 {
 	"next_post_id": 8,
-	"next_comment_id": 12,
-	"next_follow_id": 30,
+	"next_comment_id": 13,
+	"next_follow_id": 31,
 	"avatar": "jpg",
 	"user_name": "Arsene Lupin",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
-	"intro": "Gentleman thief",
+	"intro": "Gentleman thief. \nCoder at [Antilibrary.bit](/antilibrary.bit)",
 	"post": [
 		{
 			"post_id": 1,
@@ -104,6 +104,12 @@
 			"body": "@Firebox: 350MB for the English DB. 500MB is the site size limit.",
 			"post_uri": "1KN1Au7SRmeTmffcxxoyPABDpvqmq7iMbN_1480026407",
 			"date_added": 1480104421
+		},
+		{
+			"comment_id": 12,
+			"body": "A good example of integrating the best of 2 worlds is [Antilibrary.bit](/antilibrary.bit)\nThe books database and site front-end is on ZeroNet.\nThe ebooks files are on IPFS.",
+			"post_uri": "1A2pTbDfU7P1JLSw3SZTiA1Lf7SRSu4Nn9_1480537659",
+			"date_added": 1480703187
 		}
 	],
 	"follow": [
@@ -302,6 +308,13 @@
 			"auth_address": "1KN1Au7SRmeTmffcxxoyPABDpvqmq7iMbN",
 			"user_name": "Antilibrary",
 			"date_added": 1480018165
+		},
+		{
+			"follow_id": 30,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1KkA3C1iVDfieotYpuPUCpUtKzdFcfHMRy",
+			"user_name": "cryp7ix",
+			"date_added": 1480703355
 		}
 	],
 	"settings": {
