@@ -1,10 +1,11 @@
 {
-	"next_comment_id": 2,
+	"next_comment_id": 5,
 	"user_name": "Mbp374",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {
 		"18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6_1479951334": 1479956001,
-		"1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1479944536": 1479956069
+		"1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1479944536": 1479956069,
+		"1KUBcGBxautCfBVt91sQ3HSJUAYJb2ahYu_1480649385": 1480649683
 	},
 	"comment": [
 		{
@@ -12,6 +13,24 @@
 			"body": "是的。",
 			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1479868339",
 			"date_added": 1479879739
+		},
+		{
+			"comment_id": 2,
+			"body": "WebTorrent 的用户群还是太小了",
+			"post_uri": "1KUBcGBxautCfBVt91sQ3HSJUAYJb2ahYu_1480649385",
+			"date_added": 1480649708
+		},
+		{
+			"comment_id": 3,
+			"body": "@Ysc3839: BT有好处的，比如打包后内容不可变。BTSync内容会变化，这点不好。",
+			"post_uri": "1KUBcGBxautCfBVt91sQ3HSJUAYJb2ahYu_1480649385",
+			"date_added": 1480651020
+		},
+		{
+			"comment_id": 4,
+			"body": "@Areyouok: WebTorrent还是依赖固定的网站的。最好是ZeroNet能内置对WebTorrent的支持。",
+			"post_uri": "1KUBcGBxautCfBVt91sQ3HSJUAYJb2ahYu_1480649385",
+			"date_added": 1480651057
 		}
 	]
 }

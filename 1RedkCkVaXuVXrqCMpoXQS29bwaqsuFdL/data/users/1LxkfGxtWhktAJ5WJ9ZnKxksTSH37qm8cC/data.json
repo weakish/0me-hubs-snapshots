@@ -1,5 +1,5 @@
 {
-	"next_post_id": 64,
+	"next_post_id": 65,
 	"next_comment_id": 50,
 	"next_follow_id": 14,
 	"avatar": "generate",
@@ -308,6 +308,11 @@
 			"post_id": 1480491237,
 			"body": "## New Firefox Exploit Reported this Morning\nAn [email entry](https://lists.torproject.org/pipermail/tor-talk/2016-November/042639.html) reporting a recently discovered JavaScript exploit of Firefox appeared in Tor's mailing list. [News link](/Talk.ZeroNetwork.bit/?Topic:9244_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG/Firefox+0day+used+against+Tor+users+almost+identical+to+one+FBI+used) [Research on Twitter](https://twitter.com/TheWack0lian/status/803736507521474560)\n\n>slipstream/RoL ‏@TheWack0lian 8 hours ago\n>When I first noticed the old shellcode was so similar, I had to double check the dates to make sure I wasn't looking at a 3-year-old post.\n\n\nIf you are using Tor Browser, it's time to slide the security slider to High. Using Tor Browser in a properly firewalled virtual machine is also a good means of mitigating browser exploits.",
 			"date_added": 1480491174
+		},
+		{
+			"post_id": 1480648650,
+			"body": "After Windows 10's forced update, some of my privacy settings seems to be reset, and there appears to more telemetries that are not switched off by default.\n\nDoes anyone have experience on dual booting Ubuntu and Windows 10?",
+			"date_added": 1480648586
 		}
 	],
 	"post_like": {
