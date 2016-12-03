@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 353,
+	"next_comment_id": 357,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -2122,6 +2122,30 @@
 			"body": "@Ysc3839: 我看好 MaidSafe ，不过暂时还没弄出真正可以跑的东西。如果明年年中还没弄出真正可以跑的东西，我就不看好了。",
 			"post_uri": "1CogrjsFiTL3nHH74BXnAcM1S3KsNaLtEx_1480759678",
 			"date_added": 1480763813
+		},
+		{
+			"comment_id": 353,
+			"body": "@说鸡不说巴: 点到你的个人页上是 `zero` ，在评论里就是 `说鸡不说巴` 。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480772242",
+			"date_added": 1480773732
+		},
+		{
+			"comment_id": 354,
+			"body": "@说鸡不说巴: 我看了下，貌似是这个改名的功能有点问题（或者说是特性？），只会改用户注册表和你的 Hub 里面的名字，你到其他 Hub 里看下，比如这个 ：`data\\1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL\\data\\users\\1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq\\data.json`\n~~目前在还没修复之前，你把它手工改过来然后在响应的 Hub 里面发点内容应该就在响应的 Hub 里更新了！~~之前这方法有点麻烦，其实直接在相应 Hub 里改名即可。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480772242",
+			"date_added": 1480776096
+		},
+		{
+			"comment_id": 355,
+			"body": "@说鸡不说巴: 我发现直接到相应 Hub 的个人资料页改名即可。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480772242",
+			"date_added": 1480776607
+		},
+		{
+			"comment_id": 356,
+			"body": "@name: 是因为 ZeroMePlus 吧！我这里原版还是不能点赞啊！",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480772242",
+			"date_added": 1480776819
 		}
 	],
 	"flags": {},
