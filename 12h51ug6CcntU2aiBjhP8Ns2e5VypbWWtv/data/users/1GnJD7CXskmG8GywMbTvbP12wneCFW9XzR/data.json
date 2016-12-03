@@ -1,6 +1,6 @@
 {
-	"next_post_id": 66,
-	"next_comment_id": 44,
+	"next_post_id": 67,
+	"next_comment_id": 46,
 	"next_follow_id": 196,
 	"avatar": "png",
 	"user_name": "weakish",
@@ -331,6 +331,11 @@
 			"post_id": 1480684461,
 			"body": "Brace formatting style\n\nI used to prefer Java style (braces on the same line) over Allman style (braces on their own line). I use large fonts on a small screen, thus a condensed style is preferred.\n\nHowever, I recently found out that although Java style is clean for simple code, it does not work well with long parameter/conditional list. For example:\n\n```c\nif (starts_with(path, home, path_size, home_path_size) ||\n    check_with(path, home, path_size, home_path_size) {\n    recreate(path, home);\n    return home_path_size;\n} else {\n    return 0;\n}\n```\n\nThe simple statement `return 0` in else branch is clear.\nBut I cannot tell whether `recreate(path, home)` belongs to the conditional list or the function body at a glance.\n\nOn the other side, I can get the whole structure at a glance with Allman style:\n\n```c\nif (starts_with(path, home, path_size, home_path_size) ||\n    check_with(path, home, path_size, home_path_size)\n{\n    recreate(path, home);\n    return home_path_size;\n}\nelse\n{\n    return 0;\n}\n```\n\nAlso, since I use large fonts on small screen,\nI can not read `if (long || next_line ) {` at once.\nSo the Java style requires me to move my eyes to right, then move my eyes back to next line, which is slow.\nWith Allman style, to get an overview of structure,\nI only need to focus on the left half of the code block, and no eye movements are needed. This makes up the wasted lines.\n\nI guess for large screens a few wasted lines is affordable for clarity.\n\nMaybe the Java style is suitable for a setup with small fonts on a small screen, provided the syntax highlight scheme distinguishes braces clearly?",
 			"date_added": 1480684396
+		},
+		{
+			"post_id": 1480767976,
+			"body": "[911 The new pearl harbor](https://www.youtube.com/watch?v=8DOnAn_PX6M) Politicians do not have imagination is totally a stereotype!",
+			"date_added": 1480767910
 		}
 	],
 	"post_like": {
@@ -364,7 +369,8 @@
 		"13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1480264571": 1480424606,
 		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1480190842": 1480500002,
 		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1480514467": 1480593193,
-		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1480521889": 1480593534
+		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1480521889": 1480593534,
+		"1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1480687343": 1480767172
 	},
 	"comment": [
 		{
@@ -624,6 +630,18 @@
 			"body": "@Border0464fred: For conditionals putting `||` and `&&` in front helps. But for function parameter list, `,` is hard to be noticed at a glance. I once tried to indentent the second line at an extra level, in essence the same  as not indent the second line. The problem is parameters/conditionals are not alligned. I like the idea to allign similar structures.",
 			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1480684461",
 			"date_added": 1480766151
+		},
+		{
+			"comment_id": 44,
+			"body": "@Jabasukuriputo Wang: 最近Lantern好像很不稳定，时时出现所以网站EOF，要关Lantern重启浏览器才行。",
+			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1480687343",
+			"date_added": 1480767286
+		},
+		{
+			"comment_id": 45,
+			"body": "下载后不校验checksum？还有刻盘好不环保。为什么不用U盘？",
+			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1480730067",
+			"date_added": 1480767469
 		}
 	],
 	"follow": [

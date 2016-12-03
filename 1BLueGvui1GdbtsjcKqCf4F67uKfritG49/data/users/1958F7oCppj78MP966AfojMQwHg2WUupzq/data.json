@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 232,
+	"next_comment_id": 234,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -1395,6 +1395,18 @@
 			"body": "大致是这样：`trackers = ['zero://boot3rdez4rzn36x.onion:15441', 'zero://boot.zeronet.io#f36ca555bee6ba216b14d10f38c16f7769ff064e0e37d887603548cc2e64191d:15441', 'udp://tracker.coppersurfer.tk:6969', 'udp://tracker.leechers-paradise.org:6969', 'udp://9.rarbg.com:2710', 'http://tracker.tordb.ml:6881/announce', 'http://explodie.org:6969/announce', 'http://tracker1.wasabii.com.tw:6969/announce', 'zero://boottrackerzn36x.onion:15441']`\nconf 文件里面的配置是与命令行对应的，trackers 的值是包含 tracker 地址列表的 JSON 数组。另外，Tracker 一定要有一定的用户量才比较有意义。",
 			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1480757921",
 			"date_added": 1480758494
+		},
+		{
+			"comment_id": 232,
+			"body": "@TCP: ZeroNet 可以使用传统 BT Tracker 做种，但是有限制，比如不支持 .onion 什么的。",
+			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1480761984",
+			"date_added": 1480769361
+		},
+		{
+			"comment_id": 233,
+			"body": "@KhA: conf 的格式就是一个 `[global]` 的段，然后里面是 `zeronet.py --help` 里面列出的的参数转换成 key -> value 的形式。",
+			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1480752834",
+			"date_added": 1480769565
 		}
 	],
 	"flags": {

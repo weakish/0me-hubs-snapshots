@@ -1,6 +1,6 @@
 {
 	"next_post_id": 6,
-	"next_comment_id": 8,
+	"next_comment_id": 9,
 	"avatar": "generate",
 	"user_name": "frog",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -75,6 +75,12 @@
 			"body": "@Zanity: Oh, I got it. here is a great tutorial, http://127.0.0.1:43110/blog.kaffie.bit/?Post:25:How+to+change+your+ZeroMe+Hub",
 			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1479923346",
 			"date_added": 1479953687
+		},
+		{
+			"comment_id": 8,
+			"body": "for me, this will suffice: \n\n\tif (starts_with(path, home, pathsz, homesz)\n\t    || check_with(path, home, pathsz, homesz)) {\n\t\trecreate(path, home);\n\t\treturn homesz;\n\t}\n\treturn 0;\n\nparticulary, for function definitions:\n\n\tvoid\n\tfunc(int param1, ....\n\t{\n\t}\n\none benifit of it is that function names are easier to grep.",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1480684461",
+			"date_added": 1480768086
 		}
 	]
 }
