@@ -9,20 +9,24 @@
    "size": 1653
   },
   "data.json": {
-   "sha512": "d6c295da5be221011bdd8194bdbc4f31ec5192e6240fa61c8dadb9aa54e8f7a2",
-   "size": 31269
+   "sha512": "84a5eff89da119a094a191c567d06939f7a403aa77dbd08543c546042607111e",
+   "size": 36153
   }
  },
  "files_optional": {
   "1480314361.jpg": {
    "sha512": "7fb895f94508ecdea1f6615c16595bb356fc1483f843c5331125cf1936d7b1ac",
    "size": 84216
+  },
+  "1480754081.jpg": {
+   "sha512": "9ef9b6c92b6db495485eaec61c445c68d3707bffef6c16d27aa250dee59438f2",
+   "size": 77161
   }
  },
  "inner_path": "data/users/12kcMDfKMos1marvnhfduW5aBbwXcPV2ka/content.json",
- "modified": 1480695680.681,
+ "modified": 1480755415.549,
  "optional": "(?!avatar).*jpg",
  "signs": {
-  "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka": "G6PEngiz2Cp913LyzSB+OuR+pIliBnwoDzQbhuafeBHsPpzIbZloa4Idp938ugwWfMlBBe4pyqhz4Vo9qTmllxM="
+  "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka": "HHCovN2RyEJTgyJ2prSbqT9RR2uJS6jaL8Wh2sO5SMHgZ/EIND5VeIys+dK7n6IPz9A3PXEpr7rE0m/YBKIo/Ww="
  }
 }

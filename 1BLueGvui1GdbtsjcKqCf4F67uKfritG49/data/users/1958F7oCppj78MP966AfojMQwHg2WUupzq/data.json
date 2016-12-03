@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 221,
+	"next_comment_id": 228,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -1329,6 +1329,48 @@
 			"body": "@Areyouok: 以前还有一段时间好像橄榄油也卖得挺热，照你这么说也是因为非转基因的原因。另外，这里你犯了逻辑谬误：https://program-think.blogspot.com/2011/03/logical-fallacies.html\n> 俺：建议网友参加“茉莉花集会”。\n> 五毛：你们这帮汉奸走狗！\n> 分析：【质疑身份】\n没有证明，此质疑无意义。",
 			"post_uri": "1KUBcGBxautCfBVt91sQ3HSJUAYJb2ahYu_1480748918",
 			"date_added": 1480751274
+		},
+		{
+			"comment_id": 221,
+			"body": "Tracker ，用于发现节点。",
+			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1480752834",
+			"date_added": 1480753206
+		},
+		{
+			"comment_id": 222,
+			"body": "看了昨天你发的，差点以为你今天发的项目是借贷宝裸体关系网络了。",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1480753229",
+			"date_added": 1480753333
+		},
+		{
+			"comment_id": 223,
+			"body": "@KhA: 就是一般的 Tracker 就行，但是貌似插件里面那个工作得更好。让想用你的 Tracker 的人在启动参数里面添加个 `--trackers [protocol://address [protocol://address ...]]` 参数并在里面包含你的地址（由于多数个人网络都是动态 IP ，你需要用 DDNS 绑定个域名；zero: 开头的是 ZeroNet 的专用 Tracker ，另外请注意，一般的 DDNS 的 Tracker 不是匿名的，如果你不想让人知道 Tracker 的真实 IP ，可以配置个 Tor Hidden Service）就可以用了（长期使用可以编辑 `zeronet.conf` 文件）。",
+			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1480752834",
+			"date_added": 1480753850
+		},
+		{
+			"comment_id": 224,
+			"body": "你也不要猜测人家背后是什么，只要知道有严重逻辑谬误就行。",
+			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1480754081",
+			"date_added": 1480754185
+		},
+		{
+			"comment_id": 225,
+			"body": "@Areyouok: 目前动物上的转基因不是很方便操作啊！所以目前转基因的动物并不多。~~试想如果人也能方便地转基因……~~",
+			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1480754081",
+			"date_added": 1480754679
+		},
+		{
+			"comment_id": 226,
+			"body": "看看甲醇在大鼠上的半数致死量再看看甲醇酒的新闻，就知道科学不是这么简单的事了。",
+			"post_uri": "1KUBcGBxautCfBVt91sQ3HSJUAYJb2ahYu_1480755166",
+			"date_added": 1480755253
+		},
+		{
+			"comment_id": 227,
+			"body": "@Areyouok: ~~你之前还说美国人自己不吃转基因食品特供中国人的。~~好吧！我理解错误。",
+			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1480754081",
+			"date_added": 1480755321
 		}
 	],
 	"flags": {
