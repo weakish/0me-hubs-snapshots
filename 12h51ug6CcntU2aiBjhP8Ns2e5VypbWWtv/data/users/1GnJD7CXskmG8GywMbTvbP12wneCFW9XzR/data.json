@@ -1,6 +1,6 @@
 {
 	"next_post_id": 66,
-	"next_comment_id": 41,
+	"next_comment_id": 44,
 	"next_follow_id": 196,
 	"avatar": "png",
 	"user_name": "weakish",
@@ -606,6 +606,24 @@
 			"body": "Windows' unicode-aware API allows 255 unicode codepoints (basically 255 bytes). The widely used traditional APIs are still limited by 259 characters (for backward compatibility?)",
 			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1480625381",
 			"date_added": 1480681645
+		},
+		{
+			"comment_id": 41,
+			"body": "@Border0464fred: Isn't the syntax the same in posts?\n\n```c\nfor (size_t i = match + 1; path[i] != '\\0'; i++)\n{\n    putchar(path[i]);\n}\n```",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1480684461",
+			"date_added": 1480765271
+		},
+		{
+			"comment_id": 42,
+			"body": "@Border0464fred: Same as post. But press `Enter` will sumbit the comment form. So edit your comment in editors, then post it to the comment form and submit.",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1480684461",
+			"date_added": 1480765374
+		},
+		{
+			"comment_id": 43,
+			"body": "@Border0464fred: For conditionals putting `||` and `&&` in front helps. But for function parameter list, `,` is hard to be noticed at a glance. I once tried to indentent the second line at an extra level, in essence the same  as not indent the second line. The problem is parameters/conditionals are not alligned. I like the idea to allign similar structures.",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1480684461",
+			"date_added": 1480766151
 		}
 	],
 	"follow": [
