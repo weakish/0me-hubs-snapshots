@@ -4,14 +4,18 @@
  "cert_sign": "HDDuE8Lf0v/dZkQVAo2EMImyHbfDjmNfGrSdqqnFfNKusCW6rp3RYB5oVy9BvdHpg7rhazcr3DH64NTyUz8JKAE=",
  "cert_user_id": "dahmer@zeroid.bit",
  "files": {
+  "avatar.jpg": {
+   "sha512": "db758b1afdcdcceb985b3093329abacb21885f6a0d6aec294a56869a3054e02c",
+   "size": 1675
+  },
   "data.json": {
-   "sha512": "f4782c49e882e0ff593efd00c0f6db1b99396b2258854940ca2406975776bc7b",
+   "sha512": "9cd760664ac6632c7416263f6d19d39019804fd7db2081c8421ad0863455e66d",
    "size": 338
   }
  },
  "inner_path": "data/users/19wULLTfQBG9e8nLqPwuirGSBeUZ6iskuL/content.json",
- "modified": 1480797404.719089,
+ "modified": 1480799522.721836,
  "signs": {
-  "19wULLTfQBG9e8nLqPwuirGSBeUZ6iskuL": "G12US40dLNsp/jSvozm05Dpjn3FphA/qE7C5tTeD+IvXt7fSvUIfQBTMEJiuixnH1Qd4ycuoVyg+bioB8H1ZyRA="
+  "19wULLTfQBG9e8nLqPwuirGSBeUZ6iskuL": "GwpD/4oim+c4Q9D/QD+ZRvR/eGI2lJITNgWLe4ZxKJEkp/+adtfF9rbL3CHDKzcmAODanXgGe6e1WznXI5MMDyk="
  }
 }
