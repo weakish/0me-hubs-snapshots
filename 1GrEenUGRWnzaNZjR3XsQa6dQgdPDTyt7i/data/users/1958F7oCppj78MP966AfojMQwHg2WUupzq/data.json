@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 348,
+	"next_comment_id": 351,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -2092,6 +2092,24 @@
 			"body": "@weakish: 亲测 Wine 可用。",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1480420794",
 			"date_added": 1480688521
+		},
+		{
+			"comment_id": 348,
+			"body": "貌似 BT 和 eMule 都加了反吸血机制，只要上行小的都不会有好的速度。",
+			"post_uri": "1CogrjsFiTL3nHH74BXnAcM1S3KsNaLtEx_1480759678",
+			"date_added": 1480760217
+		},
+		{
+			"comment_id": 349,
+			"body": "@TCP: 我在移动网下下 BT 和 eMule 在节点数多的情况下还是挺快的，如果节点数少就没办法了。目前 Tribler 和 MaidSafe 也在试图将反吸血机制改成虚拟货币记账制，也就是如果你长时间挂机，那么在下载时依然可以获得较好的速度。ZeroNet 暂时为了避免破坏 Tor 的匿名性而没有计划搞这么个东西。详情请见：https://github.com/HelloZeroNet/ZeroNet/issues/686",
+			"post_uri": "1CogrjsFiTL3nHH74BXnAcM1S3KsNaLtEx_1480759678",
+			"date_added": 1480760684
+		},
+		{
+			"comment_id": 350,
+			"body": "@Ysc3839: 貌似有的运营商封常见的 P2P 。我这边 WebTorrent 效果很好，但是你说的保种真的是一个问题。",
+			"post_uri": "1CogrjsFiTL3nHH74BXnAcM1S3KsNaLtEx_1480759678",
+			"date_added": 1480762040
 		}
 	],
 	"flags": {},

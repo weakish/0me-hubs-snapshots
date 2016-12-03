@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 7,
+	"next_comment_id": 8,
 	"user_name": "Zanity",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {
@@ -48,6 +48,12 @@
 			"body": "@Sirenyc: That's a lot of work",
 			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1479355183",
 			"date_added": 1479508365
+		},
+		{
+			"comment_id": 7,
+			"body": "After installing Ubuntu do this command on CMD as Admin\n```\nbcdedit /set {bootmgr} path \\EFI\\ubuntu\\shimx64.efi\n```\n\nThen do this also if u have to:\n\nhttps://help.ubuntu.com/community/Boot-Repair",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1480648650",
+			"date_added": 1480759792
 		}
 	],
 	"flags": {},
