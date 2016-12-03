@@ -1,6 +1,6 @@
 {
-	"next_post_id": 22,
-	"next_comment_id": 53,
+	"next_post_id": 23,
+	"next_comment_id": 56,
 	"next_follow_id": 26,
 	"avatar": "png",
 	"user_name": "Ysc3839",
@@ -84,6 +84,11 @@
 			"post_id": 1480264571,
 			"body": "刚买了17NMC，可以搞事情了，想要域名的可以联系我",
 			"date_added": 1480264550
+		},
+		{
+			"post_id": 1480784783,
+			"body": "有谁有Linux GUI程序开发经验？如何创建一个状态栏图标？就像Windows右下角那种图标。",
+			"date_added": 1480784761
 		}
 	],
 	"post_like": {
@@ -415,6 +420,24 @@
 			"body": "@Cxgreat2014: 我觉得挺简单的",
 			"post_uri": "17z9bkjwGkCNEGCJ9E6TUu1kEs5V1f7zYL_1480336430",
 			"date_added": 1480343101
+		},
+		{
+			"comment_id": 53,
+			"body": "@Lmath: 只考虑主流的Linux，例如Ubuntu。我手头上只有Ubuntu的虚拟机。",
+			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1480784783",
+			"date_added": 1480784950
+		},
+		{
+			"comment_id": 54,
+			"body": "@Lmath: 有个通用的接口吗？用GTK可以实现吗？",
+			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1480784783",
+			"date_added": 1480785360
+		},
+		{
+			"comment_id": 55,
+			"body": "@Lmath: 问这个是想在Linux下给ZeroNet加个状态图标，不知道有什么好方法没有",
+			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1480784783",
+			"date_added": 1480786059
 		}
 	],
 	"follow": [
@@ -543,13 +566,6 @@
 			"auth_address": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC",
 			"user_name": "Firebox",
 			"date_added": 1478311954
-		},
-		{
-			"follow_id": 20,
-			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
-			"auth_address": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS",
-			"user_name": "Jabasukuriputo Wang",
-			"date_added": 1478356601
 		},
 		{
 			"follow_id": 21,
