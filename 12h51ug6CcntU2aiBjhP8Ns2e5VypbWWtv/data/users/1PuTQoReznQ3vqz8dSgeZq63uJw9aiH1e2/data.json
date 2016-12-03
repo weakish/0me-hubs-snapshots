@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
 	"next_comment_id": 1,
-	"next_follow_id": 37,
+	"next_follow_id": 39,
 	"avatar": "generate",
 	"user_name": "Mapod",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -13,7 +13,9 @@
 			"body": "Hello ZeroMe!"
 		}
 	],
-	"post_like": {},
+	"post_like": {
+		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1480595719": 1480748076
+	},
 	"comment": [],
 	"follow": [
 		{
@@ -260,6 +262,29 @@
 			"auth_address": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib",
 			"user_name": "megfault",
 			"date_added": 1479395363
+		},
+		{
+			"follow_id": 37,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1480747432
+		},
+		{
+			"follow_id": 38,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1KN1Au7SRmeTmffcxxoyPABDpvqmq7iMbN",
+			"user_name": "Antilibrary",
+			"date_added": 1480748274
 		}
-	]
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }
