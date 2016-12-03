@@ -205,7 +205,7 @@
 		},
 		{
 			"comment_id": 19,
-			"body": "@weakish: Lantern的中转服务器是走cloudfront拿，一次拿一个，一段时间内不变，有时候拿来就是坏的，有时候用一会坏了，但是远端没有改，所以本地也没办法（",
+			"body": "@weakish: Lantern的中转服务器是走cloudfront CDN拿（防墙，但有的时候TTL本身就是个问题），一次拿一个，一段时间内不变，有时候拿来就是坏的，有时候用一会坏了，但是远端没有改，所以本地也没办法（",
 			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1480687343",
 			"date_added": 1480780657
 		}
