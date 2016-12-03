@@ -1,7 +1,7 @@
 {
-	"next_post_id": 36,
+	"next_post_id": 37,
 	"next_comment_id": 141,
-	"next_follow_id": 201,
+	"next_follow_id": 203,
 	"avatar": "png",
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -179,6 +179,11 @@
 			"post_id": 1480559679,
 			"body": "@nofish Every time I update ZeroNet, I have to reconfigure `torrc` to set up bridges or proxy because `torrc` will be overwritten. Whether the file should be ignored when ZeroNet update?",
 			"date_added": 1480559644
+		},
+		{
+			"post_id": 1480737075,
+			"body": "Update: 目前“金三胖”又可以在百度和搜狗正常搜索了，知乎还是不行。",
+			"date_added": 1480737039
 		}
 	],
 	"post_like": {
@@ -2361,6 +2366,20 @@
 			"auth_address": "1Aeq3FeiuDBaUj6CzUoWfk5S2EVqqRnteg",
 			"user_name": "Wahaha2003",
 			"date_added": 1480516998
+		},
+		{
+			"follow_id": 201,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1725TwdsJ9jJ9bTY2rWjEDhgAxp1SXzcr",
+			"user_name": "Fanqiangla",
+			"date_added": 1480734095
+		},
+		{
+			"follow_id": 202,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1DtpDFnohBaTxziHmH9tjuMnzC5TMvpXeU",
+			"user_name": "Satoshilee",
+			"date_added": 1480736506
 		}
 	],
 	"settings": {
