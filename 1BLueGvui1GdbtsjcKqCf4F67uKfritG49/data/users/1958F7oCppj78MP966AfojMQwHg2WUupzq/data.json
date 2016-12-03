@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 228,
+	"next_comment_id": 232,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -1371,6 +1371,30 @@
 			"body": "@Areyouok: ~~你之前还说美国人自己不吃转基因食品特供中国人的。~~好吧！我理解错误。",
 			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1480754081",
 			"date_added": 1480755321
+		},
+		{
+			"comment_id": 228,
+			"body": "@Areyouok: 好吧！我贴一个 FDA 批准的页面：http://www.fda.gov/ForConsumers/ConsumerUpdates/ucm472487.htm\n仅供出口不内销的页面请帮我找一下。\n相关页面：http://www.fda.gov/AnimalVeterinary/DevelopmentApprovalProcess/GeneticEngineering/GeneticallyEngineeredAnimals/ucm280853.htm\n这篇貌似相关：http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm473249.htm\n> The AquAdvantage Salmon may be raised only in land-based, contained hatchery tanks in two specific facilities in Canada and Panama. The approval does not allow AquAdvantage Salmon to be bred or raised in the United States. In fact, under this approval, no other facilities or locations, in the United States or elsewhere, are authorized for breeding or raising AquAdvantage Salmon that are intended for marketing as food to U.S. consumers. As required by the National Environmental Policy Act, the FDA completed an environmental assessment to determine whether approval of the application would result in significant effects on the quality of the human environment in the United States. The FDA has determined that the approval of the AquAdvantage Salmon application would not have a significant environmental impact because of the multiple and redundant measures being taken to contain the fish and prevent their escape and establishment in the environment.",
+			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1480754081",
+			"date_added": 1480755645
+		},
+		{
+			"comment_id": 229,
+			"body": "@Areyouok: 我看了下，那个被批准的转基因三文鱼转的并不是毒蛋白基因，所以你的观点是？美国人自己不吃，祸害外国人？",
+			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1480754081",
+			"date_added": 1480756937
+		},
+		{
+			"comment_id": 230,
+			"body": "是你自己拉上三文鱼说话的吧！在你提三文鱼之前我都没提过。",
+			"post_uri": "1KUBcGBxautCfBVt91sQ3HSJUAYJb2ahYu_1480757162",
+			"date_added": 1480757235
+		},
+		{
+			"comment_id": 231,
+			"body": "大致是这样：`trackers = ['zero://boot3rdez4rzn36x.onion:15441', 'zero://boot.zeronet.io#f36ca555bee6ba216b14d10f38c16f7769ff064e0e37d887603548cc2e64191d:15441', 'udp://tracker.coppersurfer.tk:6969', 'udp://tracker.leechers-paradise.org:6969', 'udp://9.rarbg.com:2710', 'http://tracker.tordb.ml:6881/announce', 'http://explodie.org:6969/announce', 'http://tracker1.wasabii.com.tw:6969/announce', 'zero://boottrackerzn36x.onion:15441']`\nconf 文件里面的配置是与命令行对应的，trackers 的值是包含 tracker 地址列表的 JSON 数组。另外，Tracker 一定要有一定的用户量才比较有意义。",
+			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1480757921",
+			"date_added": 1480758494
 		}
 	],
 	"flags": {
@@ -1390,6 +1414,9 @@
 		"15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_86": 1478527199,
 		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_84": 1478829418,
 		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_6": 1478871452,
-		"1J26AUH6hffJXtGKzjX6vPGsN7zub6bxvL_1": 1480046153
+		"1J26AUH6hffJXtGKzjX6vPGsN7zub6bxvL_1": 1480046153,
+		"1958F7oCppj78MP966AfojMQwHg2WUupzq_230": 1480757336,
+		"1CKyj95EMuQiKCYaRcfY6JgXgdmLWBUjyM_2": 1480757342,
+		"1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_61": 1480757512
 	}
 }
