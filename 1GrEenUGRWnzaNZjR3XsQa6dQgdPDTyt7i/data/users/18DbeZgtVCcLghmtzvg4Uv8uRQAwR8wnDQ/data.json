@@ -1,5 +1,5 @@
 {
-	"next_post_id": 13,
+	"next_post_id": 14,
 	"next_comment_id": 29,
 	"next_follow_id": 15,
 	"avatar": "jpg",
@@ -37,6 +37,12 @@
 			"body": "http://127.0.0.1:43110/1JeHa67QEvrrFpsSow82fLypw8LoRcmCXk\n\nStill long to go before I am done with Money Network, but private chat function including group chat can be used now. Pic with a 3 person chat group. Me and two guest accounts.",
 			"date_added": 1479926579,
 			"meta": "{\"img\":\"900,515,eeedeeeedeefedbeddeccddefffedcecba9ebbedddbcfcde,00111100020330440356007722089A00BC380DDD01CE08035601FF78089A\"}"
+		},
+		{
+			"post_id": 1480789484,
+			"body": "Money Network\nhttp://127.0.0.1:43110/1JeHa67QEvrrFpsSow82fLypw8LoRcmCXk\n\nOnly minor changes in the UI. Fixed some css problems and added more hits how to use the private chat part of the site. Including hits how to start a private group chat.\n\nInternal many changes. Now keeping track of received and not received messages. Trying to keep data.json small for fast chat and must sometime delete messages that maybe have not been received. Added a message lost in cyberspace function to fix this problem.\n\nWill finish the chat part of the project and maybe split the site in two. One site with private chat alone and this site with Money Network and chat as a integrated function.\n\nPic with a private group chat from a \"message lost in cyberspace\" test",
+			"date_added": 1480789471,
+			"meta": "{\"img\":\"626,700,eeecccfffeddddccdfddddb7dc9fd8eb9bdeacdacedef,00000000000110002030455555503155000006002277811622299A331BB0220003CDB22000355EE00006555500\"}"
 		}
 	],
 	"post_like": {
