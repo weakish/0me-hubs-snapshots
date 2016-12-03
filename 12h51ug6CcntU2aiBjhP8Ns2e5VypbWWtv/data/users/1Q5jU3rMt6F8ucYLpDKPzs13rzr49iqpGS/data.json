@@ -1,6 +1,6 @@
 {
-	"next_post_id": 44,
-	"next_comment_id": 17,
+	"next_post_id": 45,
+	"next_comment_id": 20,
 	"next_follow_id": 23,
 	"avatar": "jpg",
 	"user_name": "Jabasukuriputo Wang",
@@ -86,6 +86,11 @@
 			"post_id": 1480730067,
 			"body": "蟆的...装Win10刻了四张盘没装成，后来发现iso是坏的",
 			"date_added": 1480730024
+		},
+		{
+			"post_id": 1480780443,
+			"body": "嗯哼？听说杨永信又猖狂了。",
+			"date_added": 1480780399
 		}
 	],
 	"post_like": {},
@@ -185,6 +190,24 @@
 			"body": "（其实我是手懒不大想写 但是实在找不出成品高效方案可以解决自签名HTTPS上游代理+挂authtoken的",
 			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1480687343",
 			"date_added": 1480688737
+		},
+		{
+			"comment_id": 17,
+			"body": "@weakish: 其实最好的办法是让lantern换服务器，但是他们并没有给出这种办法（也不打算给），所以要自己写flashlight实现（",
+			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1480687343",
+			"date_added": 1480780473
+		},
+		{
+			"comment_id": 18,
+			"body": "@weakish: 从朋友服务器里直接搞来的 没想这个问题（",
+			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1480730067",
+			"date_added": 1480780570
+		},
+		{
+			"comment_id": 19,
+			"body": "@weakish: Lantern的中转服务器是走cloudfront拿，一次拿一个，一段时间内不变，有时候拿来就是坏的，有时候用一会坏了，但是远端没有改，所以本地也没办法（",
+			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1480687343",
+			"date_added": 1480780657
 		}
 	],
 	"follow": [
