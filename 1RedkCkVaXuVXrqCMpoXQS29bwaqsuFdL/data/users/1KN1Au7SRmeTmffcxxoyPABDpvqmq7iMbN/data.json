@@ -1,6 +1,6 @@
 {
 	"next_post_id": 6,
-	"next_comment_id": 3,
+	"next_comment_id": 4,
 	"next_follow_id": 1,
 	"avatar": "png",
 	"user_name": "Antilibrary",
@@ -46,6 +46,12 @@
 			"body": "@Flyman: After you merge the database it takes some minutes until the database is rebuilt by zeronet. It should work after 5-10minutes. Please let me know if it doesn't.",
 			"post_uri": "1KN1Au7SRmeTmffcxxoyPABDpvqmq7iMbN_1480803837",
 			"date_added": 1480843828
+		},
+		{
+			"comment_id": 3,
+			"body": "@ks: I'm not sure if I understand your question.\nWe just use goodreads as to normalize the libgen database. Currently users can't add books to the database.",
+			"post_uri": "1KN1Au7SRmeTmffcxxoyPABDpvqmq7iMbN_1480803837",
+			"date_added": 1480857199
 		}
 	],
 	"follow": [],
