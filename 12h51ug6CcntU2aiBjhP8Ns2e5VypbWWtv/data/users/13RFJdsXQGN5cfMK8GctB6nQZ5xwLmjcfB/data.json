@@ -1,6 +1,6 @@
 {
-	"next_post_id": 23,
-	"next_comment_id": 56,
+	"next_post_id": 24,
+	"next_comment_id": 57,
 	"next_follow_id": 26,
 	"avatar": "png",
 	"user_name": "Ysc3839",
@@ -438,6 +438,12 @@
 			"body": "@Lmath: 问这个是想在Linux下给ZeroNet加个状态图标，不知道有什么好方法没有",
 			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1480784783",
 			"date_added": 1480786059
+		},
+		{
+			"comment_id": 56,
+			"body": "@P2P: 不使用其他模块，不使用Qt，完全用内置库实现。\nhttp://stackoverflow.com/a/2473991 这个链接我之前就找到了，但是不知道如何使用。",
+			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1480784783",
+			"date_added": 1480832113
 		}
 	],
 	"follow": [

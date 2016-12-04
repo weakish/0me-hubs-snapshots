@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 69,
+	"next_comment_id": 70,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -428,6 +428,12 @@
 			"body": "@Lmath: 你看看那个搜索结果里有没有轻量方案。You might be able to use it straight from python using ctype to call X11 methods http://stackoverflow.com/a/2473991",
 			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1480784783",
 			"date_added": 1480822906
+		},
+		{
+			"comment_id": 69,
+			"body": "@Ysc3839: https://pypi.python.org/pypi?%3Aaction=search&term=Tray&submit=search 这个有没有看过？难道没有ctypes to call X11 methods 的？",
+			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1480784783",
+			"date_added": 1480833899
 		}
 	],
 	"flags": {},
