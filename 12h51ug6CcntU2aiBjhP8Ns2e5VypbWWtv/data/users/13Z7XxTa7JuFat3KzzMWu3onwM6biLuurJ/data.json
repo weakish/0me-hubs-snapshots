@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 66,
+	"next_comment_id": 69,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -410,6 +410,24 @@
 			"body": "in case 1, `Running the browser on A and Tor on B, and the connection between A and B is configured as NAT only. So A can only connect to Internet via Tor` could you give more details of howto?",
 			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1480503940",
 			"date_added": 1480508944
+		},
+		{
+			"comment_id": 66,
+			"body": "@Ysc3839: @Lmath:  可以参考 https://github.com/programthink/opensource/blob/master/libs/python.wiki#7_GUI",
+			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1480784783",
+			"date_added": 1480820735
+		},
+		{
+			"comment_id": 67,
+			"body": "@Ysc3839: @Lmath: 或者 https://pypi.python.org/pypi/pystray  ，更多 \nhttps://pypi.python.org/pypi?%3Aaction=search&term=Tray&submit=search",
+			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1480784783",
+			"date_added": 1480822270
+		},
+		{
+			"comment_id": 68,
+			"body": "@Lmath: 你看看那个搜索结果里有没有轻量方案。You might be able to use it straight from python using ctype to call X11 methods http://stackoverflow.com/a/2473991",
+			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1480784783",
+			"date_added": 1480822906
 		}
 	],
 	"flags": {},

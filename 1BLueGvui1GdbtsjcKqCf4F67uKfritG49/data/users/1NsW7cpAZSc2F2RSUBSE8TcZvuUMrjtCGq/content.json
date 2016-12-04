@@ -5,8 +5,8 @@
  "cert_user_id": "jb@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "3e384785c2349b9e9152300f750259f54c01c3fffe92452eef20309f356473a4",
-   "size": 27143
+   "sha512": "5b41723c387d9171006a68f01858ce0eb9eb919ae12dc2936c487076c9d82176",
+   "size": 27395
   }
  },
  "files_optional": {
@@ -105,12 +105,16 @@
   "1480692269.jpg": {
    "sha512": "eb93da51436bb5f74163005a6b21e0c3c85979adc3424a1b7bf19556f87c2f72",
    "size": 42611
+  },
+  "1480820426.jpg": {
+   "sha512": "5cdf79a2b32113c8a9514e9e986f81dc069254eae144de5abffa9069361766d6",
+   "size": 28293
   }
  },
  "inner_path": "data/users/1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq/content.json",
- "modified": 1480775269.18,
+ "modified": 1480820392.558,
  "optional": "(?!avatar).*jpg",
  "signs": {
-  "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq": "G0bv6VV5XSf6oUzA41Ds041XzS4NReQZgOEThDRyzFs3RgZ9gCPjKTILl/SybhZQVQoNKByjiVZgFGCtRJyJfXA="
+  "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq": "HADgBotp3/4nh8YcsTsy06J/a0JnsxZbmuaK457IIbfqVhcESQGrar6o8k8A2nAhjtuW4Uc5JSbYc7xK0016oHc="
  }
 }

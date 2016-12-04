@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 234,
+	"next_comment_id": 235,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -1407,6 +1407,12 @@
 			"body": "@KhA: conf 的格式就是一个 `[global]` 的段，然后里面是 `zeronet.py --help` 里面列出的的参数转换成 key -> value 的形式。",
 			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1480752834",
 			"date_added": 1480769565
+		},
+		{
+			"comment_id": 234,
+			"body": "之前也遇到过，解决方案是重启节点，再不行就删 `content.db` 让节点自己重建。\n另外是 \"doesn't\" ，不是 \"sosen't\" 。",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1480820426",
+			"date_added": 1480822766
 		}
 	],
 	"flags": {
