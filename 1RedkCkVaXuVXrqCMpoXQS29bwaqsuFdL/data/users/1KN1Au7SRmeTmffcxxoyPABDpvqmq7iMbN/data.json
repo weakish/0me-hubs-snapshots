@@ -1,6 +1,6 @@
 {
 	"next_post_id": 6,
-	"next_comment_id": 2,
+	"next_comment_id": 3,
 	"next_follow_id": 1,
 	"avatar": "png",
 	"user_name": "Antilibrary",
@@ -40,6 +40,12 @@
 			"body": "@Silencer: I've noticed that error as well but I can't find any debug information. I'll give it another look and file a bug on zeronet if it is the case.\nFor the cover, I'm currently using whatever is on goodreads. In the future users will be able to correct the books information. Thanks for pointing it out anyway. Maybe there's a way to set the correct cover on goodreads?",
 			"post_uri": "1KN1Au7SRmeTmffcxxoyPABDpvqmq7iMbN_1480540993",
 			"date_added": 1480698656
+		},
+		{
+			"comment_id": 2,
+			"body": "@Flyman: After you merge the database it takes some minutes until the database is rebuilt by zeronet. It should work after 5-10minutes. Please let me know if it doesn't.",
+			"post_uri": "1KN1Au7SRmeTmffcxxoyPABDpvqmq7iMbN_1480803837",
+			"date_added": 1480843828
 		}
 	],
 	"follow": [],
