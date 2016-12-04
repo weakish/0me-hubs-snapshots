@@ -1404,7 +1404,7 @@
 		},
 		{
 			"comment_id": 233,
-			"body": "@KhA: conf 的格式就是一个 `[global]` 的段，然后里面是 `zeronet.py --help` 里面列出的的参数转换成 key -> value 的形式。",
+			"body": "@KhA: conf 的格式就是一个 `[global]` 的段，然后里面是 `zeronet.py --help` 里面列出的的参数转换成 key = value 的形式。",
 			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1480752834",
 			"date_added": 1480769565
 		},

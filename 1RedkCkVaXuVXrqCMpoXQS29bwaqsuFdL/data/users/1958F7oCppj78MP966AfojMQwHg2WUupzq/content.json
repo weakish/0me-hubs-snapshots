@@ -5,12 +5,12 @@
  "cert_user_id": "lmath@zeroid.bit",
  "files": {
   "avatar.png": {
-   "sha512": "c3b82b7f15de911f3efd83692a458006d255fd454e6077f0494656e8ff21f0c6",
-   "size": 697
+   "sha512": "63d35fd56fdda717087d59f2a3d654c6faaffaad23cd7770f3e5a3dfbc0bd164",
+   "size": 112
   },
   "data.json": {
-   "sha512": "89e358b62f4f8ac34da8459c36e259f047f96239aab05202fd01ab16043ac900",
-   "size": 94523
+   "sha512": "84d65ffe9229d167108cd18cd39c7a49d4fc9ed2ee8ddcb2754e00f21ce0206b",
+   "size": 95411
   }
  },
  "files_optional": {
@@ -52,9 +52,9 @@
   }
  },
  "inner_path": "data/users/1958F7oCppj78MP966AfojMQwHg2WUupzq/content.json",
- "modified": 1480838315.955,
+ "modified": 1480840812.621,
  "optional": "(?!avatar).*jpg",
  "signs": {
-  "1958F7oCppj78MP966AfojMQwHg2WUupzq": "HC+uR6kIabOxSVYm5nZcoay4d35g7xpBJTSzByW3hGx/X3Y824f7JZDRij0du8TumiuUpzwAsmEH6vpYtDkrCfo="
+  "1958F7oCppj78MP966AfojMQwHg2WUupzq": "HL8EmYD6KdAanAPV+yeEyZFwP29kLGCPkypZlyjD4ykyTjhbhDhKGin3+4CudjIKnMFFpGleWBHL2Soy3Vll2zw="
  }
 }

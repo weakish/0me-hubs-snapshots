@@ -1,7 +1,7 @@
 {
 	"next_post_id": 40,
-	"next_comment_id": 145,
-	"next_follow_id": 205,
+	"next_comment_id": 147,
+	"next_follow_id": 206,
 	"avatar": "png",
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -1032,6 +1032,18 @@
 			"body": "@P2P: 好吧！那我改一下。",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480832258",
 			"date_added": 1480838315
+		},
+		{
+			"comment_id": 145,
+			"body": "@P2P: 并没有，我是直接替换了我的目录里的文件。我刚刚尝试了下直接在页面上上传 GIF 图像，结果只保留了最后一帧（尽管大小只有 1 KiB）。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480834924",
+			"date_added": 1480838612
+		},
+		{
+			"comment_id": 146,
+			"body": "@Swulling: 前三个的介绍的翻译有一段，在 https://github.com/l5h5t7/Documentation-zh/blob/master/docs/using_zeronet/sample_sites.md ，但是 @Ysc3839 没有合并。后一个介绍……还真没有，要不我写一段？",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480832258",
+			"date_added": 1480840707
 		}
 	],
 	"follow": [
@@ -2434,6 +2446,13 @@
 			"auth_address": "1DzqZK5FdLSmsApSwT8Z56SmZDoeD34FJQ",
 			"user_name": "Swulling",
 			"date_added": 1480836364
+		},
+		{
+			"follow_id": 205,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "18WuQsUbszu95sZDiKvrfswRnEpuB5WEQh",
+			"user_name": "Kaishen",
+			"date_added": 1480840811
 		}
 	],
 	"settings": {
