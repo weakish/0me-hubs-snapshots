@@ -1,7 +1,7 @@
 {
 	"next_post_id": 40,
-	"next_comment_id": 148,
-	"next_follow_id": 207,
+	"next_comment_id": 151,
+	"next_follow_id": 208,
 	"avatar": "png",
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -214,7 +214,8 @@
 		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479623646": 1479625933,
 		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1479740084": 1479800880,
 		"1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd_1479953799": 1479992467,
-		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480580471": 1480584131
+		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480580471": 1480584131,
+		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480907329": 1480908912
 	},
 	"comment": [
 		{
@@ -1050,6 +1051,24 @@
 			"body": "@P2P: 是的。",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480834924",
 			"date_added": 1480851727
+		},
+		{
+			"comment_id": 148,
+			"body": "@Swulling: 我这里并没有。由于现在的 GFW 是运营商配合的，所以不好说你这里没有，而且最可能是运营商在 DNS 层面的处理。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480907329",
+			"date_added": 1480909431
+		},
+		{
+			"comment_id": 149,
+			"body": "@Nekocross: 我是移动，并没有被墙，表示移动的墙中墙一般只墙色情网站。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480907329",
+			"date_added": 1480909809
+		},
+		{
+			"comment_id": 150,
+			"body": "@Swulling: 经过这个网站的检测：http://www.websitepulse.com/help/testtools.china-test.html\n上海和北京没被墙，广州被墙了。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480907329",
+			"date_added": 1480909849
 		}
 	],
 	"follow": [
@@ -2466,6 +2485,13 @@
 			"auth_address": "18rw2L1dzr66Rkaa9n6R5DUPZe9miEDvLU",
 			"user_name": "Dla",
 			"date_added": 1480862214
+		},
+		{
+			"follow_id": 207,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "17AYUJE9dqiwbi1s5tokPxks5cSgQQs2o7",
+			"user_name": "Shadesong",
+			"date_added": 1480909185
 		}
 	],
 	"settings": {
