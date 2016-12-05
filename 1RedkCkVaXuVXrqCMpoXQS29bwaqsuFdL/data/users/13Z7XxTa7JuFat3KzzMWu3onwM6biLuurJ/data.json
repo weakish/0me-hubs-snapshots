@@ -1,7 +1,7 @@
 {
-	"next_post_id": 46,
+	"next_post_id": 47,
 	"next_comment_id": 255,
-	"next_follow_id": 189,
+	"next_follow_id": 194,
 	"avatar": "jpg",
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -227,6 +227,11 @@
 			"post_id": 1480580471,
 			"body": "老外 [@G1tich](http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Profile/1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v/133PfjoNP94oHC3GczL9e7SCKoeKEMyCDJ/g1tich@zeroid.bit) 搞了个ZeroNet的GO实现，虽然很粗糙，很初始 http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1_133PfjoNP94oHC3GczL9e7SCKoeKEMyCDJ",
 			"date_added": 1480580427
+		},
+		{
+			"post_id": 1480907329,
+			"body": "Rev1761, Update ZeroNet from ZeroNet network 支持从ZeroNet网络自身升级ZeroNet ，具体情况还待观察 \nhttps://github.com/HelloZeroNet/ZeroNet/commit/b66317fa7dd7d1d9653b641545be315e2a90547f",
+			"date_added": 1480907283
 		}
 	],
 	"post_like": {
@@ -3083,6 +3088,41 @@
 			"auth_address": "18rw2L1dzr66Rkaa9n6R5DUPZe9miEDvLU",
 			"user_name": "Dla",
 			"date_added": 1480871651
+		},
+		{
+			"follow_id": 189,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1Mqiq1F6sKj2QHMagp5YpkAzAt9Wzs2Lj9",
+			"user_name": "Dilili",
+			"date_added": 1480911083
+		},
+		{
+			"follow_id": 190,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1EEMNEgU6j4uJG5YowsBpRVq4j2Pe5dm3G",
+			"user_name": "Lancer",
+			"date_added": 1480911124
+		},
+		{
+			"follow_id": 191,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "17UMiSLuJwT3HR9Q153KxVStpcjs214RLw",
+			"user_name": "Asdf135246",
+			"date_added": 1480911143
+		},
+		{
+			"follow_id": 192,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1JNvvUHnhof7b1XugUNhi6ne1ReU5yrEro",
+			"user_name": "Banshouren",
+			"date_added": 1480911167
+		},
+		{
+			"follow_id": 193,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1725TwdsJ9jJ9bTY2rWjEDhgAxp1SXzcr",
+			"user_name": "Fanqiangla",
+			"date_added": 1480911256
 		}
 	],
 	"settings": {

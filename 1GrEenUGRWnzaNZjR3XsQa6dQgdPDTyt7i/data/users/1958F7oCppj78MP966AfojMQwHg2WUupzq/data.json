@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 360,
+	"next_comment_id": 366,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -2167,6 +2167,42 @@
 			"body": "其实根本不用“移动妈妈团”，因为其实电信会举报，然后移动就照着封。",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480909926",
 			"date_added": 1480910010
+		},
+		{
+			"comment_id": 360,
+			"body": "@Swulling: 我这里貌似有所不同，有的国内网站托管的服务器只有电信线路的倒是不走 Shadowsocks 慢得要死，而很多国外网站很快，不过确实封了一些国外的网盘什么的。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480909926",
+			"date_added": 1480910672
+		},
+		{
+			"comment_id": 361,
+			"body": "@Swulling: 只是带宽大而已，高峰期丢包率还是挺高的，而且延迟也不低。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480909926",
+			"date_added": 1480910828
+		},
+		{
+			"comment_id": 362,
+			"body": "@P2P: 没，要么你自己编译一个。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480909926",
+			"date_added": 1480910921
+		},
+		{
+			"comment_id": 363,
+			"body": "@P2P: 折腾麻烦（命令行）、开销大，以及我看 cow 仓库已经好久没维护过了。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480909926",
+			"date_added": 1480911714
+		},
+		{
+			"comment_id": 364,
+			"body": "@P2P: 且不说 Android 版的 Shadowsocks 依然没有自动切换服务器的支持，而且做一个 UI 也是麻烦又消耗成本的东西，所以你看 Linux 上很多工具不是没有 UI 也是 WebUI （跨平台）。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480909926",
+			"date_added": 1480912021
+		},
+		{
+			"comment_id": 365,
+			"body": "ZeroNet 为改善网络性能和易用性设计。\nFreenet 为抗封锁抗攻击抗查水表设计。",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1480913259",
+			"date_added": 1480913903
 		}
 	],
 	"flags": {},
