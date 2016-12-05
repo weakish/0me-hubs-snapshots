@@ -1,5 +1,5 @@
 {
-	"next_post_id": 49,
+	"next_post_id": 50,
 	"next_comment_id": 36,
 	"next_follow_id": 21,
 	"avatar": "png",
@@ -223,6 +223,11 @@
 			"post_id": 1480785032,
 			"body": "In Security, there Crypto, key exchange and very important the virtualization and yes because if the host (not vm) is infected by virus or trojan he can spy the guests, some machines can running 10000 virtual machines so your indication your website via web browser the row is is type of crypto, key exchange, sign, and virtualization if used the score is zero.",
 			"date_added": 1480784984
+		},
+		{
+			"post_id": 1480962029,
+			"body": "how to make a web badge? ::\nuse ~~ImageMagick~~ GraphicsMagick\n`gm convert -font font.ttf -background color -fill color_text -size 50x15 -gravity west label:your_text west.miff`\n`gm convert -font font.ttf -background color -fill color_text -size 50x15 -gravity east label:your_text east.miff`\n`gm convert +append west.miff east.miff output.png`\nhave fun!",
+			"date_added": 1480961980
 		}
 	],
 	"post_like": {
