@@ -1,6 +1,6 @@
 {
-	"next_post_id": 36,
-	"next_comment_id": 73,
+	"next_post_id": 37,
+	"next_comment_id": 74,
 	"next_follow_id": 5,
 	"avatar": "generate",
 	"user_name": "zero",
@@ -202,6 +202,12 @@
 			"post_id": 1480912158,
 			"body": "@lmath翻译的这个Zeronet文档真给力http://127.0.0.1:43110/docs.ysc3839.bit\nZeronet[幻灯片介绍](https://docs.google.com/presentation/d/e/2PACX-1vTwAt3deOHyFPLrL0ooF-AxkVmBljBLhaPXTQ8VUdbmxFI92Uv5PujSIpKjtza6UrKINSwK6Qf2pvVW/pub?start=false&loop=false&delayms=3000)",
 			"date_added": 1480912123
+		},
+		{
+			"post_id": 1480919575,
+			"body": "zeronet的这些插件，各自都是些什么功能？怎么有一些前面有个disabled呢？我全部去掉disabled后，再打开就提示变成代理了，还登不上账号。",
+			"date_added": 1480919539,
+			"meta": "{\"img\":\"498,700,eedeeefffeecdddbbbccc,0112222344422235656223644222011222212222223512222341222204122221222222\"}"
 		}
 	],
 	"post_like": {},
@@ -625,6 +631,12 @@
 			"body": "今天更新到了rev1766版了，客户端也汉化了，真好",
 			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1480912158",
 			"date_added": 1480912570
+		},
+		{
+			"comment_id": 73,
+			"body": "@Lmath: 每个插件都是些什么功能呢？",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1480919575",
+			"date_added": 1480920956
 		}
 	],
 	"follow": [
