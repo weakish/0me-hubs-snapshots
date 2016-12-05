@@ -1,5 +1,5 @@
 {
-	"next_post_id": 50,
+	"next_post_id": 51,
 	"next_comment_id": 36,
 	"next_follow_id": 21,
 	"avatar": "png",
@@ -185,7 +185,7 @@
 		},
 		{
 			"post_id": 1480423575,
-			"body": "[Ramon Covalo](http://pleer.net/en/search?q=artist%3ARamon+Covalo) Is A Compositor For Who Wants To Be A Millionaire Since 2007 But In Contrary Keith And Mattiew Strachan We Noting Know to Biography And No Website Execpt Name. I Esteem Is Are Russian?",
+			"body": "[Ramon Covalo](http://pleer.net/en/search?q=artist%3ARamon+Covalo) Is A Compositor For Who Wants To Be A Millionaire Since 2007 But In Contrary Keith And Matthew Strachan We Noting Know to Biography And No Website Execpt Name. I Esteem Is Are Russian?",
 			"date_added": 1480423534
 		},
 		{
@@ -228,6 +228,11 @@
 			"post_id": 1480962029,
 			"body": "how to make a web badge? ::\nuse ~~ImageMagick~~ GraphicsMagick\n`gm convert -font font.ttf -background color -fill color_text -size 50x15 -gravity west label:your_text west.miff`\n`gm convert -font font.ttf -background color -fill color_text -size 50x15 -gravity east label:your_text east.miff`\n`gm convert +append west.miff east.miff output.png`\nhave fun!",
 			"date_added": 1480961980
+		},
+		{
+			"post_id": 1480968576,
+			"body": "more the graph is big more is precise and more the difficulty is big",
+			"date_added": 1480968526
 		}
 	],
 	"post_like": {

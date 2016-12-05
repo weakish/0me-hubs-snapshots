@@ -1,6 +1,6 @@
 {
 	"next_post_id": 107,
-	"next_comment_id": 150,
+	"next_comment_id": 151,
 	"next_follow_id": 225,
 	"avatar": "jpg",
 	"user_name": "ks",
@@ -1398,6 +1398,12 @@
 			"body": "@Flyman: Plus: many people actually enjoy being in the spotlight, no matter what the circumstances are.",
 			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1480237912",
 			"date_added": 1480322826
+		},
+		{
+			"comment_id": 150,
+			"body": "No, but I think I have increased “max open files” to 8192.\n\nYes, I have\n```\nLimitNOFILE=8192\n```\nin zeronet.service.",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1480960771",
+			"date_added": 1480971135
 		}
 	],
 	"follow": [
