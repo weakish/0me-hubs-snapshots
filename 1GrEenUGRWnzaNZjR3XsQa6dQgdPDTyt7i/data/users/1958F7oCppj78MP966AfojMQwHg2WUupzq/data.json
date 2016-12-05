@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 369,
+	"next_comment_id": 372,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -2221,6 +2221,24 @@
 			"body": "@猫叉酱: 不是，而是我有一堆 Shadowsocks 的服务器，然后发现开始掉速或者断开后自己换（高可用）。或者保持每个服务器都使用一定的流量（负载均衡）。",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480909926",
 			"date_added": 1480916343
+		},
+		{
+			"comment_id": 369,
+			"body": "一个 ZeroMe 的增强版，但是由于目前没人维护，所以很多功能上反倒落后了。",
+			"post_uri": "12kgNNnBaR3s7bN761BCQtkzSC7EbrK2Jd_1480954794",
+			"date_added": 1480955278
+		},
+		{
+			"comment_id": 370,
+			"body": "@Emacsen: 数据是存在合并站点上的。",
+			"post_uri": "12kgNNnBaR3s7bN761BCQtkzSC7EbrK2Jd_1480954794",
+			"date_added": 1480956072
+		},
+		{
+			"comment_id": 371,
+			"body": "@Emacsen: 是的，除了 Hub ，还有个存放用户信息的 ZeroMe user registry 。",
+			"post_uri": "12kgNNnBaR3s7bN761BCQtkzSC7EbrK2Jd_1480954794",
+			"date_added": 1480957030
 		}
 	],
 	"flags": {},
