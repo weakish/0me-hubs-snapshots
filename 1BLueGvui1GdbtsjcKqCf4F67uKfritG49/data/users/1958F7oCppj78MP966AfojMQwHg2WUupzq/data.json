@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 247,
+	"next_comment_id": 248,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -1477,9 +1477,15 @@
 		},
 		{
 			"comment_id": 246,
-			"body": "disabled 就是被禁用。\n- Bootstrapper: 用于将你的节点作为 Tracker\n- Dnschain: 在使用 `api.dnschain.net` 查询域名信息\n- DonationMessage: 显示站点捐助信息\n- Multiuser: 多用户支持\n- Zeroname-local: 使用本地的 Namecoin 客户端建立一个 ZeroName 来解析域名（默认是通过 ZeroName 解析域名的）",
+			"body": "disabled 就是被禁用。\n- AnnounceZero: 据说与 Tracker 有关，但是我也不知道干嘛的\n- CryptMessage: 用于为站点提供加密功能\n- Bootstrapper: 用于将你的节点作为 Tracker\n- Dnschain: 在使用 `api.dnschain.net` 查询域名信息\n- DonationMessage: 显示站点捐助信息\n- Multiuser: 多用户支持\n- UiPassword: 访问 UiServer 时需要输入密码\n- Zeroname-local: 使用本地的 Namecoin 客户端来解析域名（默认是通过 ZeroName 解析域名的）\n- MergerSite: 支持合并站点\n- Newsfeed: 你在 ZeroHello 看到的新闻源订阅\n- OptionalManager: ZeroHello 看到的可选文件管理器\n- PeerDb: 用于存储和查询节点信息\n- Sidebar: 每个站点都有的侧边栏\n- Stats: 在 `http://127.0.0.1:43110/Stats` 看到的统计页面\n- TranslateSite: 为站点提供翻译功能支持\n- Trayicon: Windows 显示在状态栏的图标和右键菜单\n- Zeroname: 官方的 .bit 域名解析服务",
 			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1480919575",
 			"date_added": 1480920795
+		},
+		{
+			"comment_id": 247,
+			"body": "@zero: 只要访问站点任意站点就会提示输入密码，感觉这个功能主要用于给自己搭个别人不能用的 ZeroNet 代理。",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1480919575",
+			"date_added": 1480921750
 		}
 	],
 	"flags": {

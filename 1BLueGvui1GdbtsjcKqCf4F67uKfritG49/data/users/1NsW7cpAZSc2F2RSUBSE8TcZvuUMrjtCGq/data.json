@@ -1,7 +1,7 @@
 {
 	"next_post_id": 37,
-	"next_comment_id": 74,
-	"next_follow_id": 5,
+	"next_comment_id": 76,
+	"next_follow_id": 8,
 	"avatar": "generate",
 	"user_name": "zero",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -205,7 +205,7 @@
 		},
 		{
 			"post_id": 1480919575,
-			"body": "zeronet的这些插件，各自都是些什么功能？怎么有一些前面有个disabled呢？我全部去掉disabled后，再打开就提示变成代理了，还登不上账号。",
+			"body": "zeronet的这些插件，各自都是些什么功能？怎么有一些前面有个disabled呢？我全部去掉disabled后，再打开就提示变成代理了，还登不上账号。\n\n每个插件的功能，谢谢大神@lmath\n\ndisabled 就是被禁用。\n\n    AnnounceZero: 据说与 Tracker 有关，但是我也不知道干嘛的\n    CryptMessage: 用于为站点提供加密功能\n    Bootstrapper: 用于将你的节点作为 Tracker\n    Dnschain: 在使用 api.dnschain.net 查询域名信息\n    DonationMessage: 显示站点捐助信息\n    Multiuser: 多用户支持\n    UiPassword: 访问 UiServer 时需要输入密码\n    Zeroname-local: 使用本地的 Namecoin 客户端来解析域名（默认是通过 ZeroName 解析域名的）\n    MergerSite: 支持合并站点\n    Newsfeed: 你在 ZeroHello 看到的新闻源订阅\n    OptionalManager: ZeroHello 看到的可选文件管理器\n    PeerDb: 用于存储和查询节点信息\n    Sidebar: 每个站点都有的侧边栏\n    Stats: 在 http://127.0.0.1:43110/Stats 看到的统计页面\n    TranslateSite: 为站点提供翻译功能支持\n    Trayicon: Windows 显示在状态栏的图标和右键菜单\n    Zeroname: 官方的 .bit 域名解析服务\n\n",
 			"date_added": 1480919539,
 			"meta": "{\"img\":\"498,700,eedeeefffeecdddbbbccc,0112222344422235656223644222011222212222223512222341222204122221222222\"}"
 		}
@@ -637,6 +637,18 @@
 			"body": "@Lmath: 每个插件都是些什么功能呢？",
 			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1480919575",
 			"date_added": 1480920956
+		},
+		{
+			"comment_id": 74,
+			"body": "@Lmath: UiPassword是不是可以给首页设置密码？",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1480919575",
+			"date_added": 1480921667
+		},
+		{
+			"comment_id": 75,
+			"body": "@Lmath: 好的，好详细，又学到新东西",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1480919575",
+			"date_added": 1480921942
 		}
 	],
 	"follow": [
@@ -667,6 +679,27 @@
 			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
 			"user_name": "Nofish",
 			"date_added": 1480342585
+		},
+		{
+			"follow_id": 5,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1958F7oCppj78MP966AfojMQwHg2WUupzq",
+			"user_name": "Lmath",
+			"date_added": 1480923051
+		},
+		{
+			"follow_id": 6,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq",
+			"user_name": "zero",
+			"date_added": 1480923160
+		},
+		{
+			"follow_id": 7,
+			"hub": "1JUDmCT4UCSdnPsJAHBoXNkDS61Y31Ue52",
+			"auth_address": "1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R",
+			"user_name": "Scrub",
+			"date_added": 1480923251
 		}
 	],
 	"settings": {
