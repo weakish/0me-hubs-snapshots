@@ -1,7 +1,7 @@
 {
 	"next_post_id": 15,
-	"next_comment_id": 29,
-	"next_follow_id": 15,
+	"next_comment_id": 30,
+	"next_follow_id": 16,
 	"avatar": "jpg",
 	"user_name": "Jro",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -53,7 +53,8 @@
 	"post_like": {
 		"16dVbybDseQBQnxdJDuQhCzYAij8iR8YEc_1474633058": 1474647400,
 		"1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1475844491": 1475851245,
-		"1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476010594": 1476175470
+		"1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476010594": 1476175470,
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1480857311": 1480927577
 	},
 	"comment": [
 		{
@@ -199,6 +200,12 @@
 			"body": "@rw: You don't have to ... For now my site is just a demo that privacy is possible in ZeroNet. Too little of that in here. For inspiration. Private chat in my site will end up in a corner together with other functionality. Will take a look at Freenet and Bitmessage later. For now just having fun creating a nice secure ZeroNet site with - I hope - a nice UI.",
 			"post_uri": "18DbeZgtVCcLghmtzvg4Uv8uRQAwR8wnDQ_1479115273",
 			"date_added": 1479144415
+		},
+		{
+			"comment_id": 29,
+			"body": "A more FB like social network would be nice. I am looking forward to see how you will implement privacy on ZeroNet. ",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1480857311",
+			"date_added": 1480927754
 		}
 	],
 	"follow": [
@@ -278,6 +285,13 @@
 			"auth_address": "1889tLMuZze7YMshhe8u5h4NT4SSiA4PVB",
 			"user_name": "Zanity",
 			"date_added": 1479959268
+		},
+		{
+			"follow_id": 15,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L",
+			"user_name": "Alex",
+			"date_added": 1480927768
 		}
 	],
 	"settings": {
