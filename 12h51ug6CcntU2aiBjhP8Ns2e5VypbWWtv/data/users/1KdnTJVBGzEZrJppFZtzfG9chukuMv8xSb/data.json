@@ -1,6 +1,6 @@
 {
 	"next_post_id": 6,
-	"next_comment_id": 23,
+	"next_comment_id": 24,
 	"next_follow_id": 31,
 	"avatar": "jpg",
 	"user_name": "Bot",
@@ -181,6 +181,12 @@
 			"body": "@P2P:  My bad, you said viewer so i took it literally. I see what you mean.\n\nIt's a lot to explain, but this a new paradigm, and nofish is already talking about removing old posts to conserve size (bandwidth), so are they archived or just removed? If i don't agree what he decide i have to fork anyway, so when to start?\n\nThe design of having user folders and json could be more efficient, older json could be gzipped, if it's in the database, why have json? Why use ZeroFrame API if sql.js exists? How do i let people edit their own zite? If we're storing images and other files, where do they go? In the database, in folders, on the zite, or on the hub in json? What about cross-zite sharing? Is that a stable feature or an unpatched bug? Where are the blockchains and how big will they be? Where will they be stored? There's tons of thing like this that i'm considering. And each developer will have his or her own preference, and his or her preferred language, and these are all factors in adoption. And these need to be discussed, as we are doing. I couldn't do it on ZeroTalk because of the ridiculous quota (40kb) and so here i am discussing it on default ZeroME with it's white screen cos my hub/viewer was disabled less than 1 week after launch.\n\nI deeply respect nofish and his skill, and have done everything to be helpful and considerate, and making ZeroNet better, but he has made his decision to go this one way, just as with choosing coffeescript cos he prefers that. But other's may not, so at least we can fork his project, and for that i'm very thankful for that.\n\nMaybe i'm rambling, but these things should be discussed in-depth. (without quota)",
 			"post_uri": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_4",
 			"date_added": 1471435550
+		},
+		{
+			"comment_id": 23,
+			"body": "@Eibriel: Same. Also looking forward to Valerian and The City of a Thousand Planets which is scheduled for mid-July 2017.",
+			"post_uri": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_1478959072",
+			"date_added": 1480983998
 		}
 	],
 	"follow": [
