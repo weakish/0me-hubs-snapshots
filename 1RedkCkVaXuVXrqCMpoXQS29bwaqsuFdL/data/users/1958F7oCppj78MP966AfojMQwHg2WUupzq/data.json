@@ -1,6 +1,6 @@
 {
 	"next_post_id": 42,
-	"next_comment_id": 151,
+	"next_comment_id": 152,
 	"next_follow_id": 212,
 	"avatar": "png",
 	"user_name": "Lmath",
@@ -1080,6 +1080,12 @@
 			"body": "@Swulling: 经过这个网站的检测：http://www.websitepulse.com/help/testtools.china-test.html\n上海和北京没被墙，广州被墙了。",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480907329",
 			"date_added": 1480909849
+		},
+		{
+			"comment_id": 151,
+			"body": "@小红帽的哥哥: 你说什么不能连？Freenet 彻底连不上？你的路由器是不是彻底阻止了 UDP 或者 ICMP 包？",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480999911",
+			"date_added": 1481001935
 		}
 	],
 	"follow": [
