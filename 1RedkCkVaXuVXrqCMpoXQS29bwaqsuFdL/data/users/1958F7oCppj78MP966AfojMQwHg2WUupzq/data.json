@@ -1,5 +1,5 @@
 {
-	"next_post_id": 41,
+	"next_post_id": 42,
 	"next_comment_id": 151,
 	"next_follow_id": 212,
 	"avatar": "png",
@@ -205,6 +205,12 @@
 			"post_id": 1480952112,
 			"body": "今天我打开 Tor Browser 后试图使用内置的 obfs4 网桥，结果秒连，现在内置的 obfs4 网桥也可以直接连了吗？请大家测试下。",
 			"date_added": 1480952072
+		},
+		{
+			"post_id": 1480999911,
+			"body": "Freenet 的更新系统是有吊销机制的，为了避免 ZeroNet 的更新系统沦陷后网络迅速被破坏，是否也应该弄一个吊销机制？",
+			"date_added": 1480999870,
+			"meta": "{\"img\":\"900,100,ddd,0000000000\"}"
 		}
 	],
 	"post_like": {
