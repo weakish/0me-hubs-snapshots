@@ -1,6 +1,6 @@
 {
-	"next_post_id": 49,
-	"next_comment_id": 65,
+	"next_post_id": 50,
+	"next_comment_id": 66,
 	"next_follow_id": 8,
 	"avatar": "jpg",
 	"user_name": "西木野真姬",
@@ -237,6 +237,11 @@
 			"body": "你们自己判断...",
 			"date_added": 1480962510,
 			"meta": "{\"img\":\"627,700,fffeeebbb443776998bdeaa9cccddd887aaa988877,001111000001111200001345600000788600000000000228291111988990100234A2B2009C287DB0019912B200\"}"
+		},
+		{
+			"post_id": 1481009114,
+			"body": "我开了TOR还是没有办法刷出在表网代理发的那篇Z推...\n而且 连发也发不出去了... 提示“内容发布失败。”",
+			"date_added": 1481009065
 		}
 	],
 	"post_like": {
@@ -614,6 +619,12 @@
 			"body": "@P2P: 刚刚就出现了 Internal error: OperationalError: cannot start a transaction within a transaction\nUiWebsocket.py line 99 > UiWebsocket.py line 182 > MergerSitePlugin.py line 180 > MergerSitePlugin.py line 169 > UiWebsocket.py line 333 > MergerSitePlugin.py line 177 > MergerSitePlugin.py line 174 > UiWebsocket.py line 314 > ContentManager.py line 601 > ContentDbDict.py line 61 > ContentDbPlugin.py line 201 > ContentDbPlugin.py line 160 > Db.py line 77 > DbCursor.py line 5",
 			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1480408624",
 			"date_added": 1480439219
+		},
+		{
+			"comment_id": 65,
+			"body": "@Nekocross: 我勒个去... 为了发个Z推 我还得用bit.no.com提供的代理 没想到这个信息居然无法同步到我自己开的zeronet里...",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1480962558",
+			"date_added": 1481006956
 		}
 	],
 	"follow": [

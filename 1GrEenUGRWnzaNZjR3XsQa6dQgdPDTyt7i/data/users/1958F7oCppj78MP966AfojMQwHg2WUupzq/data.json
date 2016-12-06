@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 374,
+	"next_comment_id": 377,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -2252,6 +2252,24 @@
 			"body": "@Generate: Freenet 的“慢”有两种慢，一种是查找并接收键值的慢，对于站点开发者来说，改善的方案是把内容放在容器里并尽量减少 ActiveLink ，对于访问者来说，访问时建议现在后台打开一些页面并在加载完成后切过去看。\n第二种慢是带宽低，改善方法：\n- Freenet 里的 UPnP 不太稳定，建议去 `状态 -> 互联网连接` 查看端口并手动打开。\n- Freenet 更信任长期在线的节点，如果可能，请 24 小时开启节点。\n- 数据存储越少，可以达到的线程数越低，建议数据存储最好有几十 G ，如果想在上面跑蜘蛛什么的，几百 G 。\n- 有时候线程数被限制，内存分配太少也会造成频繁 GC ，如果不够请调大限制。",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1480984062",
 			"date_added": 1481000693
+		},
+		{
+			"comment_id": 374,
+			"body": "@Generate: 是的，ZeroNet 比较注重体验，Freenet 为了各种安全特性损失性能很严重。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1480984062",
+			"date_added": 1481006286
+		},
+		{
+			"comment_id": 375,
+			"body": "@Rainlime: 但是如果要使得节点可以被连入，需要启用 Tor Hidden Service ，简单地使用 VPN 模式做不到这一点。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480162314",
+			"date_added": 1481006651
+		},
+		{
+			"comment_id": 376,
+			"body": "@Rainlime: 你太轻视了 Hidden Service 了。相对于电脑，更多的手机处于 NAT 环境，这种环境下要是不提供一个被动连入的手段，就会像很多新用户在 ZeroMe 上发图一样很长时间就是加载不出来。另外，看起来似乎应该在 ZeroNet 自带下载 Tor 的地址里面加几个镜像（因为很多地区不能访问 Tor 官网），比如 https://tor.eff.org 这样的。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480162314",
+			"date_added": 1481006952
 		}
 	],
 	"flags": {},

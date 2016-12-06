@@ -5,13 +5,20 @@
  "cert_user_id": "areyouok@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "d43e25d9ba443656f8746e540ce8e296ce0638e1909e14410af24cce991d01c4",
-   "size": 18559
+   "sha512": "6cd40be67c49ef23d821d6b64f085ec7ca0a40acd1e89e9e2530c0ebea5cf761",
+   "size": 20912
+  }
+ },
+ "files_optional": {
+  "1481008087.jpg": {
+   "sha512": "5a86d8f130e0475fe0c284e82b63ce307fe7ae6c1e0bbd79da56879082bbbf3c",
+   "size": 138354
   }
  },
  "inner_path": "data/users/1KUBcGBxautCfBVt91sQ3HSJUAYJb2ahYu/content.json",
- "modified": 1481003386.444,
+ "modified": 1481010742.674,
+ "optional": "(?!avatar).*jpg",
  "signs": {
-  "1KUBcGBxautCfBVt91sQ3HSJUAYJb2ahYu": "HP7CTAI6tl0Y9UQ8PCVnURg+psmFc6aeh6cjqr4jY3/ShJpX1Cd5Em/mSZsnFiI6lkby3g0jVCGFFo8xrjhvtHk="
+  "1KUBcGBxautCfBVt91sQ3HSJUAYJb2ahYu": "HGMrF+QcbIRPQMJk6UopFsZObHaVL+Ggl1zl3pVVEtFRGZNHPZRQO/Kz58o2f0Aa/W2rZlur3o3k5Z5L9pneB/w="
  }
 }
