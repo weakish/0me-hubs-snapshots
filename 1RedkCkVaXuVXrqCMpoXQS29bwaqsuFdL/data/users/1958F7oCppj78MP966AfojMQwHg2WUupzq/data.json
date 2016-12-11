@@ -1,7 +1,7 @@
 {
 	"next_post_id": 55,
-	"next_comment_id": 199,
-	"next_follow_id": 225,
+	"next_comment_id": 206,
+	"next_follow_id": 227,
 	"avatar": "png",
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -1398,6 +1398,48 @@
 			"body": "See: http://127.0.0.1:43110/bwoi.bit/psa.html\n> Abuse of the keywords tag will result in either your site being marked as untrusted or taken down completely depending on the severity of the offence; \n> you will be able to report zites with falsified tags to me when this service goes live on 10/12/2016 (12/10/2016 for the US).",
 			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1481435226",
 			"date_added": 1481435677
+		},
+		{
+			"comment_id": 199,
+			"body": "Crashed.\n```\n ⇛ http server started on :43111\n> 1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D\nDownload site: 1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D\npanic: reflect: call of reflect.Value.Type on zero Value\n\ngoroutine 41 [running]:\npanic(0x7f00a0, 0xc0422e0720)\n        C:/Go/src/runtime/panic.go:500 +0x1af\nreflect.Value.Type(0x0, 0x0, 0x0, 0x410301, 0xc04202a400)\n        C:/Go/src/reflect/value.go:1670 +0x22b\nencoding/gob.(*Encoder).EncodeValue(0xc0422ea1e0, 0x0, 0x0, 0x0, 0x0, 0x0)\n        C:/Go/src/encoding/gob/encoder.go:230 +0xf0\nencoding/gob.(*Encoder).Encode(0xc0422ea1e0, 0x0, 0x0, 0x0, 0x0)\n        C:/Go/src/encoding/gob/encoder.go:175 +0x68\ngithub.com/G1itchZero/zeronet-go/utils.GetBytes(0x0, 0x0, 0x866100, 0x5, 0xa7eae0, 0x0, 0xc6)\n        C:/Users/averr_000/Documents/go/src/github.com/G1itchZero/zeronet-go/utils/utils.go:132 +0x9a\ngithub.com/G1itchZero/zeronet-go/peer_manager.(*PeerManager).announceHTTP(0xc04228f440, 0x8762fd, 0x21, 0x7, 0x1, 0x0)\n        C:/Users/averr_000/Documents/go/src/github.com/G1itchZero/zeronet-go/peer_manager/peer_manager.go:183 +0x532\ngithub.com/G1itchZero/zeronet-go/peer_manager.(*PeerManager).announceTracker(0xc04228f440, 0x8762fd, 0x21, 0x0, 0x0, 0x0\n)\n        C:/Users/averr_000/Documents/go/src/github.com/G1itchZero/zeronet-go/peer_manager/peer_manager.go:321 +0x177\ngithub.com/G1itchZero/zeronet-go/peer_manager.(*PeerManager).Announce.func1(0xc04228f440, 0x8762fd, 0x21)\n        C:/Users/averr_000/Documents/go/src/github.com/G1itchZero/zeronet-go/peer_manager/peer_manager.go:94 +0x61\ncreated by github.com/G1itchZero/zeronet-go/peer_manager.(*PeerManager).Announce\n        C:/Users/averr_000/Documents/go/src/github.com/G1itchZero/zeronet-go/peer_manager/peer_manager.go:114 +0xda\n```\nNeed I installing Golang?",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481465132",
+			"date_added": 1481466798
+		},
+		{
+			"comment_id": 200,
+			"body": "@梦里乾坤大: performance",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481465132",
+			"date_added": 1481466993
+		},
+		{
+			"comment_id": 201,
+			"body": "是的，如果没有其他节点的话你就必须在线而且端口或者 Tor 开着。",
+			"post_uri": "1EdTcrdawEZeK3M6CedCxeka3d39gND7mK_1481467930",
+			"date_added": 1481468287
+		},
+		{
+			"comment_id": 202,
+			"body": "@P2P: averr_000 与我没有任何关系。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481465132",
+			"date_added": 1481468634
+		},
+		{
+			"comment_id": 203,
+			"body": "@P2P: It works. Opened ZeroHello successfully.",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481465132",
+			"date_added": 1481471748
+		},
+		{
+			"comment_id": 204,
+			"body": "@P2P: Only ZeroHello and ZeroUpdate.",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481465132",
+			"date_added": 1481471920
+		},
+		{
+			"comment_id": 205,
+			"body": "@P2P: Looks like this, I did NOT open the port.",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481465132",
+			"date_added": 1481472095
 		}
 	],
 	"follow": [
@@ -2940,6 +2982,20 @@
 			"auth_address": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka",
 			"user_name": "Kha",
 			"date_added": 1481454447
+		},
+		{
+			"follow_id": 225,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EdTcrdawEZeK3M6CedCxeka3d39gND7mK",
+			"user_name": "Donkeyever",
+			"date_added": 1481468253
+		},
+		{
+			"follow_id": 226,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "133PfjoNP94oHC3GczL9e7SCKoeKEMyCDJ",
+			"user_name": "G1tich",
+			"date_added": 1481473553
 		}
 	],
 	"settings": {
