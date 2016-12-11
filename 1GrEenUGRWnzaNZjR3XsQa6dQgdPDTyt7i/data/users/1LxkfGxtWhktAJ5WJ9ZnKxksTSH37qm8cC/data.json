@@ -1,12 +1,13 @@
 {
-	"next_comment_id": 60,
+	"next_comment_id": 67,
 	"user_name": "Waterrabbit",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
 		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1474187738": 1474382151,
 		"15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1475541570": 1475545363,
 		"152kdpXWPevMLNm7755GKuzQPsu71bs13t_1": 1477593699,
-		"152kdpXWPevMLNm7755GKuzQPsu71bs13t_1479583965": 1479584877
+		"152kdpXWPevMLNm7755GKuzQPsu71bs13t_1479583965": 1479584877,
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481489160": 1481492329
 	},
 	"comment": [
 		{
@@ -362,6 +363,42 @@
 			"body": "**IP address 110.185.247.67**\n\n110.185.247.67 is an IPv4 address owned by Chinanet-sc and located in Jinjiang Qu, China",
 			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479796357",
 			"date_added": 1479799512
+		},
+		{
+			"comment_id": 60,
+			"body": "Bwoi Search sends requests to grab the database every time I press a key. Searching can be faster if the database is downloaded only once.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481149836",
+			"date_added": 1481156045
+		},
+		{
+			"comment_id": 61,
+			"body": "@Sirenyc: Merger site?",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481137760",
+			"date_added": 1481162266
+		},
+		{
+			"comment_id": 63,
+			"body": "It's very simple to count. Just scroll all the way down and count white boxes. (~70 posts in last 24 hours)",
+			"post_uri": "152kdpXWPevMLNm7755GKuzQPsu71bs13t_1481239260",
+			"date_added": 1481249993
+		},
+		{
+			"comment_id": 64,
+			"body": "I would recommend `deb https://deb.torproject.org/torproject.org jessie main`. Using Tor Browser as a proxy will also work.",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481269750",
+			"date_added": 1481269795
+		},
+		{
+			"comment_id": 65,
+			"body": "Some Russian tags are not properly decoded using the right text codec.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481489160",
+			"date_added": 1481491990
+		},
+		{
+			"comment_id": 66,
+			"body": "@ks: Yeah, very good idea. Looking for `src` `href` attributes and patterns like `http://127.0.0.1:43110/` `*.bit` `1[a-zA-Z0-9]{25,40}`",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481483520",
+			"date_added": 1481492288
 		}
 	]
 }
