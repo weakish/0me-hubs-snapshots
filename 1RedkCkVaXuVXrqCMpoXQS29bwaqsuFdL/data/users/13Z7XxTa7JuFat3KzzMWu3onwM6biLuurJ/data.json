@@ -1,7 +1,7 @@
 {
-	"next_post_id": 49,
-	"next_comment_id": 280,
-	"next_follow_id": 206,
+	"next_post_id": 50,
+	"next_comment_id": 289,
+	"next_follow_id": 208,
 	"avatar": "jpg",
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -242,6 +242,11 @@
 			"post_id": 1481377438,
 			"body": "[接上](http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Profile/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ/p2p@zeroid.bit)，讨论贴：关于hub越来越大怎么办？\n###现在本贴已经刷不出老评论了，还是到GFW talk继续讨论吧 http://127.0.0.1:43110/gfwtalk.bit/?Topic:51_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ/+ZeroMe+hub",
 			"date_added": 1481377390
+		},
+		{
+			"post_id": 1481465132,
+			"body": "Go版的ZeroNet实验版已可下载： http://127.0.0.1:43110/g1itch.bit 讨论贴 http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:3_133PfjoNP94oHC3GczL9e7SCKoeKEMyCDJ",
+			"date_added": 1481465083
 		}
 	],
 	"post_like": {
@@ -1975,6 +1980,60 @@
 			"body": "@frog: hub是方便管理，以及去中心化。你的观点有一定的参考性。我的idea：\n- 所有用户文件夹内都加一个ping.json\n- 除了ping.json以外，其他全部是optional files\n- ping.json里存放该用户对哪些人评论过、@过（统称为ping过）\n- 当有人ping过你，你就下载Ta的data.json（当然，你fo的和你like的，自然也会下载其data.json）\n- 一个hub里，只有所有的ping.json是必须下载的，大大减少了所需空间和首次加载时间，并且不丢失社交网络的特性。\n\nEDIT：为了方便看你fo人的po下评论，还应该下载ping过Ta的人的data.json\n\n现在本贴已经刷不出老评论了，还是到GFW talk继续讨论吧 http://127.0.0.1:43110/gfwtalk.bit/?Topic:51_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ/+ZeroMe+hub ",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
 			"date_added": 1481386562
+		},
+		{
+			"comment_id": 280,
+			"body": "@Lmath:应该不需要安装golang就能用的啊。averr_000是你的还是作者的？感觉他没有打包好",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481465132",
+			"date_added": 1481468473
+		},
+		{
+			"comment_id": 281,
+			"body": "@Lmath: reported",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481465132",
+			"date_added": 1481470077
+		},
+		{
+			"comment_id": 282,
+			"body": "@Lmath: 说一个非常搞笑的事。Go版的ZeroNet作者g1itch在我po里提到的那个讨论贴中，说着说着，就说自己发现自己的ID里有个typo，g1tich，原文语境非常搞笑，笑了我半天",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481465132",
+			"date_added": 1481470411
+		},
+		{
+			"comment_id": 283,
+			"body": "@Lmath: 你再下载试试\n>Update binary in blog post with possibly fixed crash\n>Now i upload packed version, but im not sure that i used all available keys for cutting out debug info",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481465132",
+			"date_added": 1481471676
+		},
+		{
+			"comment_id": 284,
+			"body": "@Lmath: 能打开什么网站？",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481465132",
+			"date_added": 1481471839
+		},
+		{
+			"comment_id": 285,
+			"body": "@Lmath: 其他的静态站都打不开？",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481465132",
+			"date_added": 1481471991
+		},
+		{
+			"comment_id": 286,
+			"body": "@Lmath: 看来还要等待成熟。我现在才发现go的二进制文件这么大。跟py解释器有得一拼",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481465132",
+			"date_added": 1481472314
+		},
+		{
+			"comment_id": 287,
+			"body": "@Lmath:  ZeroGo currently cannot open blogs and other sites, which use db 按照作者说法，应该能打开不用db的静态站，是不是你用了域名？域名应该还没有支持。你用长地址试试，比如SSR http://127.0.0.1:43110/1GUwoyRUxHWkUik5o4BBKgjrpbeCMXFj9z\n",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481465132",
+			"date_added": 1481476086
+		},
+		{
+			"comment_id": 288,
+			"body": "@Lmath: 可能是计算空间的代码有bug。的确还不能做种",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481465132",
+			"date_added": 1481478838
 		}
 	],
 	"follow": [
@@ -3363,6 +3422,20 @@
 			"auth_address": "1FNWXmY94yzHMaWnLMup3XZyuWkqnNP12U",
 			"user_name": "Omaidb",
 			"date_added": 1481461793
+		},
+		{
+			"follow_id": 206,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EdTcrdawEZeK3M6CedCxeka3d39gND7mK",
+			"user_name": "Donkeyever",
+			"date_added": 1481468543
+		},
+		{
+			"follow_id": 207,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "15gSU46SP1xQQzbzCJ9VkfshS5mYhcKaVu",
+			"user_name": "Gamezen",
+			"date_added": 1481468593
 		}
 	],
 	"settings": {
