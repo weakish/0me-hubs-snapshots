@@ -1,7 +1,7 @@
 {
 	"next_post_id": 26,
-	"next_comment_id": 87,
-	"next_follow_id": 40,
+	"next_comment_id": 88,
+	"next_follow_id": 42,
 	"avatar": "jpg",
 	"user_name": "Mynameislegion",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -660,6 +660,12 @@
 			"body": "nice work :)",
 			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1479836569",
 			"date_added": 1479841117
+		},
+		{
+			"comment_id": 87,
+			"body": "Please don't feel offended, but alone the slogan \"the most trusted messenger in the world\" exposes Wickr as bullsh*t. It is closed source, commercial and American and therefore cannot be trusted - there are much better alternatives, e.g. Signal or Antox https://www.eff.org/node/82654",
+			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1481492476",
+			"date_added": 1481497097
 		}
 	],
 	"follow": [
@@ -872,6 +878,20 @@
 			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
 			"user_name": "PaintNinja",
 			"date_added": 1479931974
+		},
+		{
+			"follow_id": 40,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "177ia43eQrnWCHCWt1ik6viQGRzWuNXGzD",
+			"user_name": "Mkg20001",
+			"date_added": 1480015277
+		},
+		{
+			"follow_id": 41,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L",
+			"user_name": "Alex",
+			"date_added": 1481233934
 		}
 	],
 	"comment_order": 0,
