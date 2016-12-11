@@ -1,6 +1,6 @@
 {
-	"next_post_id": 113,
-	"next_comment_id": 82,
+	"next_post_id": 115,
+	"next_comment_id": 83,
 	"next_follow_id": 28,
 	"avatar": "jpg",
 	"user_name": "Alex",
@@ -478,6 +478,16 @@
 			"post_id": 1481390985,
 			"body": "Rolled out another update for Bwoi, complete javascript rewrite and some new HTML stuff",
 			"date_added": 1481390873
+		},
+		{
+			"post_id": 1481483520,
+			"body": "Quick question:\nWould you rather I built my own index from scratch, tagging everything using my own methods\nOR\nbase my index from Kaffiene's, slowly replacing tags as time goes on?",
+			"date_added": 1481483407
+		},
+		{
+			"post_id": 1481486513,
+			"body": "Bringing back the \"I'm feeling lucky\" button and the Google-style button positioning, preferred it that way",
+			"date_added": 1481486399
 		}
 	],
 	"post_like": {
@@ -946,6 +956,12 @@
 			"body": "@Grae: Best 3 seconds of my life haha",
 			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481149192",
 			"date_added": 1481316590
+		},
+		{
+			"comment_id": 82,
+			"body": "@ks: That's probably a better idea.  Better than going through tagging everything manually (apart from maybe 1% of zites) and then adding more zites, tagging those... etc etc.  Better to have a base to work from, especially considering it's like double the size.\n@Sirenyc: I agree.  The tags are much better, and there's just generally more to work with.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481483520",
+			"date_added": 1481484834
 		}
 	],
 	"follow": [
