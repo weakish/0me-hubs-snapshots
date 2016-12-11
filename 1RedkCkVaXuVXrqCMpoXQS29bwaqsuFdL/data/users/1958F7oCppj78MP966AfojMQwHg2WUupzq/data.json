@@ -1,6 +1,6 @@
 {
 	"next_post_id": 55,
-	"next_comment_id": 207,
+	"next_comment_id": 208,
 	"next_follow_id": 227,
 	"avatar": "png",
 	"user_name": "Lmath",
@@ -1446,6 +1446,12 @@
 			"body": "@P2P: 后来试了一下，域名站需要 ZeroName 的支持所以确实是打不开的，静态站可以打开，但是貌似性能并不好，而且经常一个很小的站就会提示超出限额需要提升限额。另外，我并没有看到外部端口的相关参数，大概目前还只能浏览不能做种。",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481465132",
 			"date_added": 1481478530
+		},
+		{
+			"comment_id": 207,
+			"body": "@P2P: 刚才经过进一步测试发现站点在下载完成后需要手动重新加载才能看到页面，而且里面的链接是点不开的，只能看到首页。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481465132",
+			"date_added": 1481479454
 		}
 	],
 	"follow": [
