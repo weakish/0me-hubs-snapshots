@@ -1,0 +1,28 @@
+{
+ "address": "1JUDmCT4UCSdnPsJAHBoXNkDS61Y31Ue52",
+ "cert_auth_type": "web",
+ "cert_sign": "HCVQ6ZG56Tlw76y6biqCKcFvfZk/4UE+Mokhl/9XWI+mUwJL2ajcRDSN+222D9TVrWpSZvfUqkcWgbIxARlw3Yo=",
+ "cert_user_id": "akwest@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "9c00a2b7698c9ea7b6f9bb50d3e065d9eb2ee2ea11612ae8285e67fc2c030e7e",
+   "size": 87
+  },
+  "data.json": {
+   "sha512": "007abb9e4dbebb5d1a334d33ed60f6690f1a565fa04d78b0f3537bc362a1cbeb",
+   "size": 3832
+  }
+ },
+ "files_optional": {
+  "1481297237.jpg": {
+   "sha512": "36bb5ef7f7271778d8b47f9aa04d23f360a62f75c48023738ca3fe280e26f677",
+   "size": 114925
+  }
+ },
+ "inner_path": "data/users/19PEhjit9dNUdcrJKu8Pw4xXJuVJwB1Hzr/content.json",
+ "modified": 1481302869.898,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "19PEhjit9dNUdcrJKu8Pw4xXJuVJwB1Hzr": "HM4imJlmx9ugAiZndgIB93jcwf65X4Yl/pXOf1VyErkI92gxLIG2BGNG3IIHLJO9Ki/wANysf5W0HGulSmumYAI="
+ }
+}

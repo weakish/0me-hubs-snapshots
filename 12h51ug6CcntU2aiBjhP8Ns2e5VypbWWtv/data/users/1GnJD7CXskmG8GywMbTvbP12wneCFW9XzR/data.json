@@ -1,7 +1,7 @@
 {
-	"next_post_id": 68,
-	"next_comment_id": 46,
-	"next_follow_id": 197,
+	"next_post_id": 74,
+	"next_comment_id": 61,
+	"next_follow_id": 209,
 	"avatar": "png",
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -341,6 +341,36 @@
 			"post_id": 1480945677,
 			"body": "mypy is still incomplete.",
 			"date_added": 1480945610
+		},
+		{
+			"post_id": 1481017075,
+			"body": "ZeroMail does not hide sender (and effectively timestamp and conversations may reveal receipt).\n\nSimilarly, MaidSafe Email does not hide receipt.",
+			"date_added": 1481017007
+		},
+		{
+			"post_id": 1481108612,
+			"body": "@zeronetuseri6293 asked how to explain Systemd is bad \"like I am five\". I just prepare some text to brainwash five-year-old \"Systemd is bad\":\n\nYou are five. You do not know how to cook pasta, how to bake bread, and how to clean the window, etc. Fortunately there are a lot of volunteers to help you to do all these things.\n\nThe problem is these volunteers tend to commit suicide because of intrinsic depression. (They think helping a five year old may helps to reduce depression.)  And you are lazy and shy. You do not want to manage them yourself. There is a magician called Sysfive. When you go to sleep, Sysfive will kill those volunteers (not let them go home to avoid  traffic jam), and when you awake, Sysfive will reborn those volunteers. Also if you find some volunteer killed themselves, you can ask Sysfive to reborn them.\n\nThese volunteers speak a language named Gnome. You happen to speak this language, too. And all those volunteers are from the same nation Debian. Debian is located at a continent called Linux. The continent Linux is located at a planet called unix.\n\nYour friends have volunteers speaking different languages like KDE and Xfce, from different places like OpenSUSE (also on Linux continent) and FreeBSD (on the BSD continent), and different magicians like OpenRC and RunIt (one magician can work for a lot of children.) You talked with your friends, and found out that you can find volunteers speaking Gnome from any nation and continent. Also, although volunteers from some certain countries only have experience with some magicians, all magicians can reborn volunteers from any country with some effort. \"This is good. Maybe one day I will ask FreeBSD volunteers to help me. One of my friends said FreeBSD volunteers are cool.\" You thought. \"And maybe one day I can ask RunIt the master to reborn volunteers for me. I heard that Sysfive the master is too old.\"\n\nUntil one day, you learned that Systemd the master can only reborn volunteers from the Linux continent. Systemd refuses to reborn any volunteer from other continents such as BSD and Solaris.\n\nAlso you learned that soon volunteers speaking Gnome can only be reborn by Systemd. They refuse to be reborn by other magicians.\n\nAlso, there used to be different volunteers to do different things, for example, one helps you to do accounting (e.g. how much ham you have eaten, eating ham is bad for your health), and one configures your smart phone (smart phones are too smart to configure for a five year old). But\nSystemd said: \"I am very very powerful. I will do all these things. Send those volunteers away.\"\n\nYou as a five year old may not think Systemd is bad.\nBut I hope you understand why some people consider Systemd as \"bad\".\n",
+			"date_added": 1481108543
+		},
+		{
+			"post_id": 1481203573,
+			"body": "C is a hacky language. For example, string in C. If you think string in C is an array of characters, then you cannot put some characters in string (such as Unicode character) and you can put some noncharacters into string. If you think string is an an array of bytes, like a buffer, then you cannot put the byte `\\0` into string. So string in C is inconsistent viewed from both high level and low level.\n\nGo, advertised as modern C, inherits C's hacky mindset:\n\n- Error handling. Go uses multiple return values to represent union type `Result | SomeError` or optional type `Result | Null`: returning either `{result, nil}` or `{nil, error}`. The ordering of `result` and `error`, and one and only one of them must be `nil` is just a convention followed by programmers, not enforced by type system.\n\n- For variable declaration without initialization, instead of checking it is correctly initialized later, Go just implicitly initialize it with a zero value. Even worse, Go uses `nil` as zero value for pointers, slices, interfaces, maps, channels, and functions.\n ",
+			"date_added": 1481203503
+		},
+		{
+			"post_id": 1481288760,
+			"body": "Go back to use paper to manage my todos. (Some todos are still in WunderList, e.g. shopping list, cause I do not want to bring paper and pencil to supermarkets.)",
+			"date_added": 1481288689
+		},
+		{
+			"post_id": 1481373086,
+			"body": "When the function parameter is a function pointer, CLion (2016.3) cannot auto complete function name as parameter, like IntelliJ Idea for Java.",
+			"date_added": 1481373014
+		},
+		{
+			"post_id": 1481456846,
+			"body": "Lesson learned: when your `data.json` local copy is outdated (e.g. rollback to an old version manually because of file system issue), do not post new content to the zite that outdated `data.json` belongs to. Otherwise you will publish your \"deletions\".",
+			"date_added": 1481456773
 		}
 	],
 	"post_like": {
@@ -375,7 +405,8 @@
 		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1480190842": 1480500002,
 		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1480514467": 1480593193,
 		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1480521889": 1480593534,
-		"1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1480687343": 1480767172
+		"1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1480687343": 1480767172,
+		"1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481291249": 1481371611
 	},
 	"comment": [
 		{
@@ -647,6 +678,96 @@
 			"body": "下载后不校验checksum？还有刻盘好不环保。为什么不用U盘？",
 			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1480730067",
 			"date_added": 1480767469
+		},
+		{
+			"comment_id": 46,
+			"body": "@P2P: Download/Monitor ZeroMail continusly, we get a lot of encrypted messages. For every message, I know who (zeroid) sent and when they sent it (every sent mail is stored in data/user/UserKey/data.json). So ZeroMail does not hide sender of messages.Similarly, in MaidSafe Email, encrypted messages are appended to receipt's data structure, thus not hide the receipt. Monitor ZeroMail continuously, a lot of information can be analysed, since messages are usually replied within a few minutes/hours/days, and deletion of messages probably marks end of conversation. Analysis can be speed up with other activities on ZeroNet (ZeroMe, ZeroTalk, etc). For example, someone are more likely to send a zmail to someone they follow on ZeroMe, or have some conversation on a post on some forum. Another example is someone only posting in Chinese on ZeroMe are less likely to send a zmail to someone only posting Russia on ZeroMe. Also connecting some sender and receipt in analysis will help to connect senders and receipts unlinked yet.",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1481017075",
+			"date_added": 1481103087
+		},
+		{
+			"comment_id": 47,
+			"body": "@rushka life feed: I just posted [How to brainwash a five year old \"systemd is bad\"](/Me.ZeroNetwork.bit/?Post/12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv/1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR/1481108612)",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1478179185",
+			"date_added": 1481104868
+		},
+		{
+			"comment_id": 48,
+			"body": "Computers are after all a new thing. Once most people did not know how to read and write.",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1481027808",
+			"date_added": 1481107849
+		},
+		{
+			"comment_id": 49,
+			"body": "@Flyman: volunteers = services(programs running continuously), magician = a program to manage (start, stop, etc) services,",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1481108612",
+			"date_added": 1481195885
+		},
+		{
+			"comment_id": 50,
+			"body": "NSFW",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481190961",
+			"date_added": 1481283507
+		},
+		{
+			"comment_id": 51,
+			"body": "@Linkerlin: Swift itself is not a hacky language. But its developing process is quite hacky. Each version brings a lot of incompatible changes. In an ideal design, a language may lack features, but no bad features should be introduced to prevent incompatible changes in future. However, to be fair, if a bad initial design is already made, maybe introducing incompatibilities is less evil than not fixing it.",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1481203573",
+			"date_added": 1481285422
+		},
+		{
+			"comment_id": 52,
+			"body": "@Arkre: Rust is not hacky but too smart. For example, `let x = 1` and `let x = \"1\"` is two immutable variables which happen to have the same name. And array concepts are confusing to me: `[T; n]` and `&[T; n]`, combined with `let` and `let mut`, and slice syntax is also similar `[T]` and `&[T]`. I haven't look at Rust's memory management (which I guess is also very \"smart\").",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1481203573",
+			"date_added": 1481286863
+		},
+		{
+			"comment_id": 53,
+			"body": "@Flyman: Have never tried to go so deeply to low level assembler language. ;-)",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1481203573",
+			"date_added": 1481287039
+		},
+		{
+			"comment_id": 54,
+			"body": "@Flyman: Although notebooks are hard to kill, they are easily to get lost, just like digital ones. I lost all my high school (K10-K12) math notebooks when moving house. This is not an issue for short term todos though.",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1481288760",
+			"date_added": 1481368370
+		},
+		{
+			"comment_id": 55,
+			"body": "@Arkre: In most languages, variable shadowing are variables in inner scope shadowing ones in outer scope.\nBut Rust allows shadowing and shadowned variables in the same scope.\nThis may be confusing. \n\n```rust\nfn main() {\n    let x = 1;\n    // N lines later...\n    println!(\"x is {}\", x);\n    // N lines later...\n    let x = 1.0;\n    // N lines later...\n    println!(\"x is {}\", x);\n}\n```",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1481203573",
+			"date_added": 1481369442
+		},
+		{
+			"comment_id": 56,
+			"body": "@Peponi: It is a static type checker for Python 2 & 3.",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1480945677",
+			"date_added": 1481369762
+		},
+		{
+			"comment_id": 57,
+			"body": "@frog: Null terminated byte stream means the stream cannot store the null byte itself. It is not a general byte stream type.",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1481203573",
+			"date_added": 1481370328
+		},
+		{
+			"comment_id": 58,
+			"body": "@frog: `String` is a high level concept, and its storage/encoded form is a low level concept. “general enough\" == \"hacky\"",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1481203573",
+			"date_added": 1481372907
+		},
+		{
+			"comment_id": 59,
+			"body": "@frog: `works fine != not hacky`. ZeroMe does not support attach a file (except images). I may post a music file in base64 encoded text and it may work fine. But it is still hacky. Encoding is an algorithm for storage and communication, not has nothing to do with storage. \"encoded form\" is more accurate than \"storage\" though. I use `String` for an abstract **concept**. Most OO languages use an `String` object to represent the `String` concept, Common Lisp uses a one-dimensional array of characters for `String`, Erlang uses a list of integers(also very hacky), and C uses `char *`. C does not have to have a `String` object but it has to have something to represent the `String` concept (unless in a project not involving strings).",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1481203573",
+			"date_added": 1481380195
+		},
+		{
+			"comment_id": 60,
+			"body": "@frog: \n\n> and if you mean to operate\n\nYes. I mean \"to operate\".\nJust storing does not make much sense.\nWith proper encoding, I can store image and audio in `char *`.\n\n> string is meant to be human-readable.\n\nBut C's type system does not enforce it.\n\n> now you mean string literals,\n\nNo. I mean literally byte, or buffer.\nFor example data passed to and by sockets.",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1481203573",
+			"date_added": 1481457698
 		}
 	],
 	"follow": [
@@ -1965,6 +2086,90 @@
 			"auth_address": "17AYUJE9dqiwbi1s5tokPxks5cSgQQs2o7",
 			"user_name": "Shadesong",
 			"date_added": 1480942161
+		},
+		{
+			"follow_id": 197,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "17Ztm55wQXsa79hfcVCx5Fk3xa45njSZui",
+			"user_name": "Sololele",
+			"date_added": 1481107490
+		},
+		{
+			"follow_id": 198,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq",
+			"user_name": "zero",
+			"date_added": 1481195942
+		},
+		{
+			"follow_id": 199,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "17Xo25emK8WXkrWouD5DsuLrcRnkrREfTa",
+			"user_name": "Arkre",
+			"date_added": 1481198452
+		},
+		{
+			"follow_id": 200,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1Mzjg3DjFFiUBz42zZa9w9oM2Lf4vHeLK3",
+			"user_name": "Nextbit",
+			"date_added": 1481199712
+		},
+		{
+			"follow_id": 201,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "13t4MG77faypJBpk5CdKjDMqkyLoFF3P5b",
+			"user_name": "Linusl",
+			"date_added": 1481201752
+		},
+		{
+			"follow_id": 202,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb",
+			"user_name": "火犬",
+			"date_added": 1481283442
+		},
+		{
+			"follow_id": 203,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "19jJsNJe7hHPwCJdSizngPDFpjnGxhfpmA",
+			"user_name": "Shinonome",
+			"date_added": 1481283802
+		},
+		{
+			"follow_id": 204,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1GKFsYgkrTp4xYAxMP5x7artq7yoTKKCbS",
+			"user_name": "Winarm",
+			"date_added": 1481378273
+		},
+		{
+			"follow_id": 205,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "18KhAfkwavAUrUQk67T4x6Gczq5hL5wE4Z",
+			"user_name": "Generate",
+			"date_added": 1481455039
+		},
+		{
+			"follow_id": 206,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1GV18LF544ZXoLCTq6fjxh4jPrJ46eLf9W",
+			"user_name": "234",
+			"date_added": 1481456525
+		},
+		{
+			"follow_id": 207,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "157VksPLxufKMy8U344wPhayVY3RhkL8SK",
+			"user_name": "怡红院",
+			"date_added": 1481456531
+		},
+		{
+			"follow_id": 208,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk",
+			"user_name": "Userzero",
+			"date_added": 1481456535
 		}
 	]
 }

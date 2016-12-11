@@ -1,8 +1,15 @@
 {
-	"next_comment_id": 4,
+	"next_comment_id": 83,
 	"user_name": "Generate",
 	"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
-	"post_like": {},
+	"post_like": {
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1480984062": 1481072851,
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481261964": 1481262791,
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481416844": 1481417722,
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481416577": 1481417727,
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481386818": 1481417732,
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481452400": 1481457848
+	},
 	"comment": [
 		{
 			"comment_id": 1,
@@ -21,6 +28,462 @@
 			"body": "@Lmath: 没zn好用",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1480984062",
 			"date_added": 1481006226
+		},
+		{
+			"comment_id": 4,
+			"body": "@Lmath: 如何在安全和体验做好平衡，it's a question",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1480984062",
+			"date_added": 1481020173
+		},
+		{
+			"comment_id": 5,
+			"body": "@Lmath: talk 不就是贴吧吗。。talk和贴吧比起来现在真正缺少的是所见即所得编辑器和文件上传插入图片（以及广告（逃））",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481089509",
+			"date_added": 1481097531
+		},
+		{
+			"comment_id": 6,
+			"body": "@Bullseye: zn还没发展起来，未来取代fn是肯定的事",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1480913259",
+			"date_added": 1481106462
+		},
+		{
+			"comment_id": 7,
+			"body": "@Lmath: 抗封锁抗攻击抗查水表设计未来zn肯定要加上的，不然何谈强鲁棒性的去中心？",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1480913259",
+			"date_added": 1481106669
+		},
+		{
+			"comment_id": 8,
+			"body": "@Lmath: 我这打开一个fn站点基本要半小时，开了vpn还是没啥两样（或许和我访问的网站热度也有关），但，zn的速度和fn比起来真的不知道好多少，fn的速度是瓶颈，若是不解决这一个根本无从谈起抗封锁攻击抗水表，（上都上不去查啥。。）",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1480913259",
+			"date_added": 1481106962
+		},
+		{
+			"comment_id": 9,
+			"body": "@Lmath: 那我就不知道了，fn那糟糕的用户体验真是让我刻骨铭心，再也不会想去碰它。",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1480913259",
+			"date_added": 1481108284
+		},
+		{
+			"comment_id": 10,
+			"body": "@猫叉酱: webpage丢ipfs，将主域名hash之后存储到zeronet的数据库？",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481089509",
+			"date_added": 1481108356
+		},
+		{
+			"comment_id": 11,
+			"body": "@Bullseye: 实际上，对于大多数人来说只是不想被那操蛋管理员干而已。",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1480913259",
+			"date_added": 1481108779
+		},
+		{
+			"comment_id": 12,
+			"body": "@Lmath: YaCy可以解决，但是效果并不好",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481089509",
+			"date_added": 1481180264
+		},
+		{
+			"comment_id": 13,
+			"body": "bitcoin core现在太笨重了...",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481181052",
+			"date_added": 1481181077
+		},
+		{
+			"comment_id": 14,
+			"body": "@Rainlime: 我记得有定期打包的官方区块链dat文件，可以通过BT下载然后放到目录就好，同步会慢死去。。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481181052",
+			"date_added": 1481181944
+		},
+		{
+			"comment_id": 15,
+			"body": "https://bitcoin.org/bin/blockchain/bootstrap.dat.torrent",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481181052",
+			"date_added": 1481182269
+		},
+		{
+			"comment_id": 16,
+			"body": "Bitcoin Core首次同步需要花费很长的时间才能完成。你必须确保有足够的带宽以及存储整个块链大小的磁盘空间(超过65GB)。如果你知道如何下载一个 torrent 文件，你可以在开始运行软件前将bootstrap.dat文件(一个以前的块链备份)放到 Bitcoin Core 的数据目录中，从而加速同步过程。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481181052",
+			"date_added": 1481182292
+		},
+		{
+			"comment_id": 17,
+			"body": "https://bitcoin.org/en/full-node",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481181052",
+			"date_added": 1481182311
+		},
+		{
+			"comment_id": 18,
+			"body": "不如上传ipfs？(逃",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481181433",
+			"date_added": 1481185060
+		},
+		{
+			"comment_id": 19,
+			"body": "@Rainlime: 嗯，BTSync也是需要的",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481181052",
+			"date_added": 1481185383
+		},
+		{
+			"comment_id": 20,
+			"body": "@Areyouok: +1",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481181052",
+			"date_added": 1481259745
+		},
+		{
+			"comment_id": 21,
+			"body": "安装那我就看不下去了。。/笑cry",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481259085",
+			"date_added": 1481259902
+		},
+		{
+			"comment_id": 22,
+			"body": "@Rainlime: ~w~主要一开始就涉及一些高危操作，在实体机上没弄好全盘数据丢失也是有可能的事。。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481259085",
+			"date_added": 1481262322
+		},
+		{
+			"comment_id": 23,
+			"body": "@Rainlime: 正在安装。。看的是这篇教程：http://www.jianshu.com/p/82a40aac52aa 顿时感觉没有debian好用。。好多debian下在屏幕上上下键回车就能完成的操作都要自己手动去修改。。tat",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481259085",
+			"date_added": 1481263815
+		},
+		{
+			"comment_id": 24,
+			"body": "+1, ~~看了下代码貌似是没做过滤=W=~~准确的说是没有真正通过id block掉他",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481264990",
+			"date_added": 1481265068
+		},
+		{
+			"comment_id": 25,
+			"body": "检查markdown语法",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481269750",
+			"date_added": 1481269875
+		},
+		{
+			"comment_id": 27,
+			"body": "https://storj.io/ 这里有去中心化的共享磁盘服务",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1480388503",
+			"date_added": 1481339986
+		},
+		{
+			"comment_id": 28,
+			"body": "hi~",
+			"post_uri": "152kdpXWPevMLNm7755GKuzQPsu71bs13t_1481340105",
+			"date_added": 1481341940
+		},
+		{
+			"comment_id": 29,
+			"body": "WoW~好漂亮",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481363507
+		},
+		{
+			"comment_id": 30,
+			"body": "@Rainlime: 是的，arch是业界出了名的容易在更新之后各种XX",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481365111
+		},
+		{
+			"comment_id": 31,
+			"body": "@Winarm: fedora感觉没centos好用，centos感觉没debian好用，debian感觉没rasbian好用，rasbian感觉没deepin好用（逃",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481381599
+		},
+		{
+			"comment_id": 33,
+			"body": "@Rainlime: 但是Arch 的维护时间超长，为了节约时间不重复造轮子不写括号人们都用上Python了。。😂维护这样一个脆弱的系统真的是一件十分麻烦的事情，而且。。感觉和其他发行版比起来并无绝对优势。。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481381851
+		},
+		{
+			"comment_id": 34,
+			"body": "@Rainlime: +1，Debian Stable还有Centos好多包都是老掉牙的",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481382103
+		},
+		{
+			"comment_id": 35,
+			"body": "@Rainlime: 稳定性蛮好呀，同学7sdream用deepin用了一年半了没出任何问题，而且还自带crossover运行windows软件",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481382160
+		},
+		{
+			"comment_id": 36,
+			"body": "@Winarm: 2333，deepin就是不能开swap让人比较烦躁，小内存笔记本一不小心点开chrome直接GG",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481382224
+		},
+		{
+			"comment_id": 37,
+			"body": "@Winarm: 不喜欢。。我更喜欢带比较新版本包的stable，如Fedora，但也不要太新，实在是容易出问题",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481382396
+		},
+		{
+			"comment_id": 38,
+			"body": "@Winarm: 今天下午我在给人写微博爬虫时就遇到这个问题，由于我的Python是3.6，增加了更多的泛类型转换，bytes可以不经过decode直接当string来使用，但客户那是3.4的环境不支持这种方法，就跑不起来了。。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481382553
+		},
+		{
+			"comment_id": 39,
+			"body": "@Winarm: 笔记本不是我的，别人笔记本给我用，我把deepin装在移动硬盘上的",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481382616
+		},
+		{
+			"comment_id": 40,
+			"body": "@Winarm: deepin比xp兼容性不知道好多少，装在移动硬盘上插哪都可以启动运行，管他A还是I，都通吃的，233333",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481382696
+		},
+		{
+			"comment_id": 41,
+			"body": "@Rainlime: xp的驱动不行，而且不支持那样，只有修改版可以",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481382862
+		},
+		{
+			"comment_id": 42,
+			"body": "@Rainlime: 我主要使用的是win7，xp是研究系统漏洞和跑16位上古程序用的，23333",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481382904
+		},
+		{
+			"comment_id": 43,
+			"body": "@Lmath: deepin",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481383196
+		},
+		{
+			"comment_id": 44,
+			"body": "@Rainlime: 16位程序  [PKCrack](https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html)",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481383241
+		},
+		{
+			"comment_id": 45,
+			"body": "@Lmath: opensuse进去默认的中文字库都是残缺的，差评",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481383278
+		},
+		{
+			"comment_id": 46,
+			"body": "@Lmath: 2333，deepin反正是开源的，代码也被好多人检查过，我也不存敏感数据随便在外面装逼用着玩，做linux环境临时工作台，因此~基本没影响",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481383380
+		},
+		{
+			"comment_id": 47,
+			"body": "@Lmath: 那UI真心漂亮",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481383399
+		},
+		{
+			"comment_id": 48,
+			"body": "@Rainlime: 为了漂亮（zhuangbiology）多吃点资源也是可以忍的。。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481383602
+		},
+		{
+			"comment_id": 49,
+			"body": "@Lmath: 插上我的移动硬盘，3秒变苹果（逃",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481383673
+		},
+		{
+			"comment_id": 50,
+			"body": "@Lmath: 好像是可以的，貌似可以从苹果UI到经典进行切换。而且社区响应速度很快，如果没有想要的功能可以反馈添加",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481383744
+		},
+		{
+			"comment_id": 51,
+			"body": "感觉linux用来用去，还是raspbian的Noobs好用",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481383811
+		},
+		{
+			"comment_id": 53,
+			"body": "@Lmath: mint。。。没听说过，没见过别人用过。。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481384066
+		},
+		{
+			"comment_id": 54,
+			"body": "@Lmath: ubuntu并不觉得好用，，，还有debian现在的桌面也不太适应。。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481384209
+		},
+		{
+			"comment_id": 55,
+			"body": "@Lmath: 感觉windows的UI加上linux系统就好了，wait，还真有",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481384238
+		},
+		{
+			"comment_id": 56,
+			"body": "@Lmath: 怎么我们都把windows的linux子系统给忘了？那个可真是神器啊23333，现在还能跑chrome了",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481384282
+		},
+		{
+			"comment_id": 57,
+			"body": "@Lmath: 在我这并没有出现。。或许是特殊情况BUG？",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481384334
+		},
+		{
+			"comment_id": 58,
+			"body": "@Lmath: IDK，but py，nodejs运行蛮好",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481384393
+		},
+		{
+			"comment_id": 59,
+			"body": "@Lmath: 2333，去论坛反馈一下吧",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481384503
+		},
+		{
+			"comment_id": 60,
+			"body": "@Rainlime: 感觉这是一个BUG",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481386818",
+			"date_added": 1481417747
+		},
+		{
+			"comment_id": 61,
+			"body": "小时候计划过把技能树点满的路过（逃",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481416844",
+			"date_added": 1481417781
+		},
+		{
+			"comment_id": 62,
+			"body": "@Rainlime: 节哀。。建议用git做下版本控制",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481422468",
+			"date_added": 1481423604
+		},
+		{
+			"comment_id": 63,
+			"body": "@P2P: 然而按照zeronet的极速同步，离线用户上来看到这个消息时就已经没了",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481422468",
+			"date_added": 1481426073
+		},
+		{
+			"comment_id": 64,
+			"body": "查人身份信息呗。。满足个人偷窥欲。或者破解他人账号密码黑资料拿权限控制xx基础设施，随时监控城市一举一动关闭核电站啥",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481431835",
+			"date_added": 1481432016
+		},
+		{
+			"comment_id": 65,
+			"body": "@Rainlime: 我这有2016/11/12 22:43:45.80244版本的，已打包zip，有需要吗？",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481422468",
+			"date_added": 1481432411
+		},
+		{
+			"comment_id": 66,
+			"body": "@Lmath: freebuf还有用bb机入侵核电站。。。不忍直视现在的网络安全",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481431835",
+			"date_added": 1481432483
+		},
+		{
+			"comment_id": 67,
+			"body": "若有需求还可以反馈假的数据包给中控，然后自己控制设施譬如说使劲加核燃料啥，然后就可以BOOM",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481431835",
+			"date_added": 1481432541
+		},
+		{
+			"comment_id": 68,
+			"body": "然而中控看到的还是毫无异常",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481431835",
+			"date_added": 1481432567
+		},
+		{
+			"comment_id": 69,
+			"body": "@Lmath: Bootstrap 按理来说是可以的，我去试试",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481432667",
+			"date_added": 1481432976
+		},
+		{
+			"comment_id": 70,
+			"body": "@Rainlime: 是的",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481422468",
+			"date_added": 1481433291
+		},
+		{
+			"comment_id": 71,
+			"body": "http://127.0.0.1:43110/1AKTPjiwmMGUgpyBHgLKntGGzXUFUtqcUi/examples/theme/",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481432667",
+			"date_added": 1481433303
+		},
+		{
+			"comment_id": 72,
+			"body": "是可以的",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481432667",
+			"date_added": 1481433309
+		},
+		{
+			"comment_id": 73,
+			"body": "@Rainlime: 我先用公代做下种去",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481432667",
+			"date_added": 1481433488
+		},
+		{
+			"comment_id": 74,
+			"body": "@Rainlime: 好的，我试下",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481422468",
+			"date_added": 1481433648
+		},
+		{
+			"comment_id": 75,
+			"body": "@Rainlime: 目前正在通过tor网桥向公共代理发送数据，一会就好。我先去发文件给你",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481432667",
+			"date_added": 1481433823
+		},
+		{
+			"comment_id": 76,
+			"body": "@Rainlime: 信到文件到.7z.base64",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481422468",
+			"date_added": 1481434254
+		},
+		{
+			"comment_id": 77,
+			"body": "@Lmath: 包括最底下的展示框等都可以正常运作",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481432667",
+			"date_added": 1481434454
+		},
+		{
+			"comment_id": 78,
+			"body": "@Rainlime: 核电站全部与外网隔离，但是很多设备都是低加密无线电通信，用个200块的SDR就能抓包破解",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481431835",
+			"date_added": 1481434564
+		},
+		{
+			"comment_id": 79,
+			"body": "2333,6666",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481434522",
+			"date_added": 1481434667
+		},
+		{
+			"comment_id": 80,
+			"body": "@Rainlime: You are Welcome. : )",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481431835",
+			"date_added": 1481435840
+		},
+		{
+			"comment_id": 81,
+			"body": "shadowsocks",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1481447733",
+			"date_added": 1481447774
+		},
+		{
+			"comment_id": 82,
+			"body": "@Woodsfirezyj: 自己买个国外vps搭建一个最好，实在不会就去买",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1481447733",
+			"date_added": 1481448689
 		}
 	]
 }

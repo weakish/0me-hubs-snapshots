@@ -1,0 +1,17 @@
+{
+ "address": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+ "cert_auth_type": "web",
+ "cert_sign": "G/nikm0eGXtVnydgUvOEdmoPbW0TgFW6sO1Sfph7HN4j3Jo3FOCc4BYtPJ7ZS48ex3ysac80CZCyoHFd580RhgI=",
+ "cert_user_id": "davidnelband@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "caca6b433ce200e48e303be864b8be55a4baafb7e4ca09702f9d410e8b18f6b7",
+   "size": 6676
+  }
+ },
+ "inner_path": "data/users/1C1gnFcVv9J9kUjF4odDMRYcEWVPJbbqFp/content.json",
+ "modified": 1481031610.179481,
+ "signs": {
+  "1C1gnFcVv9J9kUjF4odDMRYcEWVPJbbqFp": "HLMDOhtdHLI1ZR+4PwZWL0WYE8YsfNAxEXo3Swev01f4TTgssNeihm3oSXwsZwtmZHBJwVWCjtyOVxg3Zkg6joY="
+ }
+}

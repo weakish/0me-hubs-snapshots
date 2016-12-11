@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 4,
+	"next_comment_id": 58,
 	"user_name": "Generate",
 	"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
 	"post_like": {
@@ -23,6 +23,330 @@
 			"body": "@Sirenyc: Thanks for you help~ :D",
 			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1480999674",
 			"date_added": 1481006061
+		},
+		{
+			"comment_id": 4,
+			"body": "@Rainlime: +1",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481005078",
+			"date_added": 1481020012
+		},
+		{
+			"comment_id": 5,
+			"body": "卧槽。。zn的吵架楼又来了，听着，我们大家都要冷静一下，现在zm还没有block功能，等到block功能出来了再吵好吗？以及，爱吃转基因的让他们自己吃就是了，给普通大众提供的必须得是无公害天然食品，毕竟转基因食品并未经过上千年的实际检测无法预知是否对人体有危害，就如当年还在说镭射长寿，还有镭射水镭射玩具，那些骨头发着镭射光芒的钟表姑娘死了才没多久呢，以及加铅汽油当年科学家是怎么洗地的？最新的科学成果不一定是百分百的好东西，还有可能是慢性（或剧烈）毒药，就这样完毕。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481005078",
+			"date_added": 1481262636
+		},
+		{
+			"comment_id": 6,
+			"body": "@Areyouok: 科学家和喝血家之间貌似没有太多区别，毕竟正义的科学家太少太少。没事，回农村自己种地去。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481005078",
+			"date_added": 1481262955
+		},
+		{
+			"comment_id": 7,
+			"body": "@Areyouok: 这个社会不适合善人生存，劣币逐良币",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481005078",
+			"date_added": 1481262994
+		},
+		{
+			"comment_id": 8,
+			"body": "我建议提个pr，把浏览器语言是中文的第一次访问zerotalk的强制跳转gfw，第二次才准进",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481359048
+		},
+		{
+			"comment_id": 9,
+			"body": "@P2P: +1",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481359089
+		},
+		{
+			"comment_id": 10,
+			"body": "@Lmath: 不强制跳转十之八九直接关了提示继续发",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481359670
+		},
+		{
+			"comment_id": 11,
+			"body": "@P2P: 在gew talk发个帖子，强制跳转到gfwtalk的那个帖子里去，说明这里是中文社区，不要到英文那边发帖",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481360064
+		},
+		{
+			"comment_id": 12,
+			"body": "```\nif(navigator.language.toLowerCase() == 'zh-cn'){\n    var loc = window.document.location;\n    loc.href = loc.href.substring(0, loc.href.indexOf(loc.pathname))+\"/gfwtalk.bit?Topic:1_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ\";\n}\n```\n再加个调用zeronet的API来记录以及提示的代码，第一次访问zeronet的中国用户自动跳转功能就搞定了~",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481366155
+		},
+		{
+			"comment_id": 13,
+			"body": "@Lmath: 诶，这个可以有，直接替换入口链接，一劳永逸（XD）",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481367019
+		},
+		{
+			"comment_id": 14,
+			"body": "@Lmath: TranslateSite插件更新一下，把链接也加入翻译范围",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481375940
+		},
+		{
+			"comment_id": 15,
+			"body": "@Winarm: +1",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481375962
+		},
+		{
+			"comment_id": 16,
+			"body": "@P2P: 不是，发个帖子说明情况原因，要他们访问GFW Talk，然后当用户点击zerotalk时强制用户跳转到gfw talk的帖子里去，",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481376045
+		},
+		{
+			"comment_id": 17,
+			"body": "@P2P: +1",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481376073
+		},
+		{
+			"comment_id": 18,
+			"body": "@Winarm: 强制跳转就可以了（逃",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481376091
+		},
+		{
+			"comment_id": 19,
+			"body": "@Winarm: 还是自适应吧",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481376099
+		},
+		{
+			"comment_id": 20,
+			"body": "@P2P: 是否可以建议zn官方加入为对tor进行屏蔽的地区的tor网桥快速设置工具？",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481376601
+		},
+		{
+			"comment_id": 21,
+			"body": "@Lmath: +1",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481376612
+		},
+		{
+			"comment_id": 22,
+			"body": "@Linkerlin: +1，很不可行，再怎么merge hub也是没法解决数据越来越大越来越多的问题的，除非hash分布",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481376792
+		},
+		{
+			"comment_id": 23,
+			"body": "还有，发帖间隔30s的限制也会导致自己等半天没回复，30s之后一刷刷四五条出来",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481376856
+		},
+		{
+			"comment_id": 24,
+			"body": "@Winarm: +1，加多个hub会崩溃",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481376928
+		},
+		{
+			"comment_id": 25,
+			"body": "还有，点击这条消息最底下的显示更多评论吧，http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Post/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ/1481353639 好多评论已经被吃掉了",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481376989
+		},
+		{
+			"comment_id": 26,
+			"body": "@Linkerlin: +1，和我的想法一致",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481377016
+		},
+		{
+			"comment_id": 27,
+			"body": "@Lmath: 若是完全离线浏览用户可以自主选择，最好加入选项选择",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481377052
+		},
+		{
+			"comment_id": 28,
+			"body": "通过IPFS将数据分块打包？",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481377295
+		},
+		{
+			"comment_id": 29,
+			"body": "@P2P: 要不回Talk？",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481377480
+		},
+		{
+			"comment_id": 30,
+			"body": "@Linkerlin: https://neo4j.com/ ？",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481377610
+		},
+		{
+			"comment_id": 31,
+			"body": "IPFS是分布式文件存储，有没有IPDB。。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481377682
+		},
+		{
+			"comment_id": 32,
+			"body": "@Linkerlin: MongoDB是一个基于分布式文件存储的数据库。由C++语言编写。旨在为WEB应用提供可扩展的高性能数据存储解决方案。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481377734
+		},
+		{
+			"comment_id": 33,
+			"body": "Hadoop是一个由Apache基金会所开发的分布式系统基础架构。\n用户可以在不了解分布式底层细节的情况下，开发分布式程序。充分利用集群的威力进行高速运算和存储。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481377842
+		},
+		{
+			"comment_id": 34,
+			"body": "@Winarm: 。。。三秒鱼",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481377895
+		},
+		{
+			"comment_id": 35,
+			"body": "@Winarm: 呸，是七秒",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481377909
+		},
+		{
+			"comment_id": 36,
+			"body": "不过随着用户的增长，最终会变成一秒鱼",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481377956
+		},
+		{
+			"comment_id": 37,
+			"body": "@Lmath: ????????",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481378021
+		},
+		{
+			"comment_id": 38,
+			"body": "@Lmath: 好吧，那么图书馆呢？",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481378041
+		},
+		{
+			"comment_id": 39,
+			"body": "@Lmath: 是的，现在就是要协调机制",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481378118
+		},
+		{
+			"comment_id": 40,
+			"body": "@Linkerlin: 如何把一只大象装进冰箱，然后让每个冰箱里都能取到大象身上的任意一块肉，如何实现这个问题，it's a question，而不是单纯的去考虑抛弃历史数据，那样是逃避，并非真正解决问题的办法",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481378218
+		},
+		{
+			"comment_id": 41,
+			"body": "@P2P: yacy的确可以做到这一点，性能还不错，但是无法取到大象身上的每一块肉，而且大量算力都重复浪费了",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481378307
+		},
+		{
+			"comment_id": 42,
+			"body": "@P2P: 让用户选择是否离线所有数据",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481378341
+		},
+		{
+			"comment_id": 43,
+			"body": "@P2P: 现在的option file一样违背了zeronet可以离线浏览的哲学。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481378369
+		},
+		{
+			"comment_id": 44,
+			"body": "@P2P: 只有开启了帮助分发所有文件的才能在离线状态下看到网站全貌",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481378426
+		},
+		{
+			"comment_id": 45,
+			"body": "@Lmath: +1",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481378431
+		},
+		{
+			"comment_id": 46,
+			"body": "@Linkerlin: ..............mysql不适用",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481378449
+		},
+		{
+			"comment_id": 47,
+			"body": "@Linkerlin: 你要离线看一幅100MB的图片你的电脑上必须有这个文件，不然怎么离线浏览？",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481378548
+		},
+		{
+			"comment_id": 48,
+			"body": "@Winarm: 又开始丢弃历史数据了",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481378578
+		},
+		{
+			"comment_id": 49,
+			"body": "@Winarm: 图书馆呢？",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481378585
+		},
+		{
+			"comment_id": 50,
+			"body": "@Lmath: 的确如此",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481378646
+		},
+		{
+			"comment_id": 51,
+			"body": "@P2P: 是的，离线的话那些图片或者历史po就无法浏览了，也就失去了数据的完整性",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481378770
+		},
+		{
+			"comment_id": 52,
+			"body": "@Lmath: +1",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481378783
+		},
+		{
+			"comment_id": 53,
+			"body": "@Lmath: 这才是ZeroNet比freenet要优越的地方",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481378815
+		},
+		{
+			"comment_id": 54,
+			"body": "优先考虑的是分布式存储，而不是数据丢弃，用户可以自主选择离线全部文件以加快访问速度，或者选择在线模式以较慢速度换取节省硬盘空间",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481378889
+		},
+		{
+			"comment_id": 55,
+			"body": "@P2P: 社交网络就应该遗忘过去，你是对的",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481378995
+		},
+		{
+			"comment_id": 56,
+			"body": "但是，当站点越来越大，zn到底何去何从？",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481379128
+		},
+		{
+			"comment_id": 57,
+			"body": "@Rainlime: 他已经把杀马特头像换成纯白图片以节省hub空间了",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480834924",
+			"date_added": 1481418285
 		}
 	]
 }

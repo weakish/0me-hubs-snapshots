@@ -1,0 +1,17 @@
+{
+ "address": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+ "cert_auth_type": "web",
+ "cert_sign": "G8+tkNEMpv4Y6r8Jz+vX4K4YLhXGy8PjcElf5gyC3dRiouRKgM9Y2lw1YJy0r5ow4IjiW097vsdjXLg4I6Zy42w=",
+ "cert_user_id": "arkimedes@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "163bf8b89fc3734cdd2a23ef852c0329b8523682ef04847e6832cdc0d5a28ef3",
+   "size": 300
+  }
+ },
+ "inner_path": "data/users/1NZbgDUpFDLLFfy3BFN6No2RVQYvcwstrn/content.json",
+ "modified": 1481243987.799162,
+ "signs": {
+  "1NZbgDUpFDLLFfy3BFN6No2RVQYvcwstrn": "G+2gAhPK88chSUrUagd5ar87oFZhvngF/jVJ4/VKPDlqvKirQ6eVrFnXijIoRpihzWfuwpNJbnXX4cNgMHM6/AU="
+ }
+}

@@ -1,11 +1,11 @@
 {
-	"next_post_id": 98,
-	"next_comment_id": 69,
-	"next_follow_id": 24,
+	"next_post_id": 113,
+	"next_comment_id": 82,
+	"next_follow_id": 28,
 	"avatar": "jpg",
 	"user_name": "Alex",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"intro": "##Bwoi##\n----\n- Gamedev (C#/C++) \n- Webdev\n- 15 y/o from britlands\n- Stalk me:\n    @fourkbytes on Twitter\n    @LetsRaceBwoi on GitHub\n    @Bwoi on BwoiMusic\n    @SovietWomble on Instagram\n- Wrench?\n---",
+	"intro": "##[Bwoi](http://127.0.0.1:43110/bwoi.bit)##\n----\n- Gamedev (C#/C++) \n- Webdev\n- 15 y/o from britlands\n- Stalk me:\n    @fourkbytes on Twitter\n    @LetsRaceBwoi on GitHub\n    @Bwoi on BwoiMusic\n    @SovietWomble on Instagram\n- Wrench?\n---",
 	"post": [
 		{
 			"post_id": 2,
@@ -428,6 +428,56 @@
 			"post_id": 1480869940,
 			"body": "(also you can't really do anything, it's just more of a proof of concept at the minute)",
 			"date_added": 1480869843
+		},
+		{
+			"post_id": 1481134045,
+			"body": "So um\nI'm actually thinking of bringing the original Bwoi search engine back and making a whole line of products (a la Microsoft or Google), including the social network and Bwoi Music.\n\nThoughts?",
+			"date_added": 1481133947
+		},
+		{
+			"post_id": 1481137760,
+			"body": "Wow damn Bwoi Search looks better under the new design... honestly I thought it'd look a lot worse.  It actually fits really well",
+			"date_added": 1481137661
+		},
+		{
+			"post_id": 1481148885,
+			"body": "~400 sites are untagged but can be added... tagging them myself is going to take a while haha\n",
+			"date_added": 1481148784
+		},
+		{
+			"post_id": 1481149192,
+			"body": "Nobody told me the index was in lowercase wtf",
+			"date_added": 1481149086
+		},
+		{
+			"post_id": 1481149836,
+			"body": "Never actually thought I'd go back to running a search engine to be honest... a lot more tedious than I remember though.  But some of it's fun; the general feel you get from \"I did that\" and \"that's my work\" is great",
+			"date_added": 1481149729
+		},
+		{
+			"post_id": 1481220347,
+			"body": "PSA for zite owners:\nI am currently working on automatic tag grabbing, either from the site metadata (simply include '<meta name=\"keywords\" content=\"your,tags,separated,by,commas\">' in your index.html's <head> element).  Automatic tagging based on title/content will be deprecated after 10/12/2016, meaning that if your zite does not have the meta tag then either it will not be indexed, or it will keep the tags it currently has.  \n\nCurrently, only 80 sites have tags (due to the fact I'm doing it manually and it's taking forever) which probably means your site doesn't have tags.  So go add the meta element, and you'll have more control over who sees your site.  :)\n\nAbuse of the keywords tag will result in either your site being marked as untrusted or taken down completely depending on the severity of the offence; you will be able to report zites with falsified tags to me when this service goes live on 10/12/2016 (12/10/2016 for the US).",
+			"date_added": 1481220239
+		},
+		{
+			"post_id": 1481231575,
+			"body": "Also if the meta tagging system could get passed round to most sites, especially those with a high peer count, and it begins to catch on other search engines might start using it too, and maybe it'll get implemented into ZeroNet officially somehow?  Depends on how popular it gets I guess...",
+			"date_added": 1481231466
+		},
+		{
+			"post_id": 1481316045,
+			"body": "Updated Bwoi, hopefully sites with the meta tag have been added correctly; I know that ZeroLeakZ and Money Network have been (checked against their html files), contact me if there are any issues.",
+			"date_added": 1481315935
+		},
+		{
+			"post_id": 1481320253,
+			"body": "Working on a re-write of the entire Bwoi engine (javascript) because right now it's pretty fucked.  Should be done tomorrow morning (GMT)",
+			"date_added": 1481320142
+		},
+		{
+			"post_id": 1481390985,
+			"body": "Rolled out another update for Bwoi, complete javascript rewrite and some new HTML stuff",
+			"date_added": 1481390873
 		}
 	],
 	"post_like": {
@@ -818,6 +868,84 @@
 			"body": "@Border0464fred: Because the whole idea of innovation is to re-invent and make things better.\n\n@Hexagon: Yep.  The same way people figured out who used Twitter, Facebook, Instagram... etc.  \n\n@Jro: Honestly I'm looking forward to seeing how I do it too... sounds easy on paper, difficult in practice.\n",
 			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1480857311",
 			"date_added": 1480967287
+		},
+		{
+			"comment_id": 69,
+			"body": "@ks: At least I won't be a hypocrite unlike some... no names, Google. :P",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481134045",
+			"date_added": 1481136395
+		},
+		{
+			"comment_id": 70,
+			"body": "@Grae: Agreed.  Thanks :)",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481134045",
+			"date_added": 1481142521
+		},
+		{
+			"comment_id": 71,
+			"body": "@Zerg: To be honest, I'd like it if there wasn't an end and that I could keep updating everything, adding more services and making Bwoi more useful.  But I don't think that'll be the case - nothing really lasts forever.  If you're referring to how long it'll take me to merge all services together, I'll probably have finished by the end of tomorrow (got to make styles uniform, add links to other sites, etc).",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481134045",
+			"date_added": 1481143203
+		},
+		{
+			"comment_id": 72,
+			"body": "@Sirenyc: Yep.  Haven't updated the index in a while - sorry, I'll get to it as soon as I can.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481137760",
+			"date_added": 1481147503
+		},
+		{
+			"comment_id": 73,
+			"body": "@Waterrabbit: Working on caching the DB right now, thanks :)",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481149836",
+			"date_added": 1481219383
+		},
+		{
+			"comment_id": 74,
+			"body": "@莱文倩: @Grae: https://www.youtube.com/watch?v=fvtQYsckLxk <-- Clearnet link on how to pronounce \"Bwoi\"",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481149192",
+			"date_added": 1481219436
+		},
+		{
+			"comment_id": 75,
+			"body": "@Sirenyc: Simply include '<meta name=\"keywords\" content=\"your,tags,separated,by,commas\">' in your HTML <head> element",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481220347",
+			"date_added": 1481222173
+		},
+		{
+			"comment_id": 76,
+			"body": "@Sirenyc: In your index.html, where you have your <title> and <script> tags on your site, place '<meta name=\"keywords\" content=\"your,tags,separated,by,commas\">' (without the ' marks) and replace \"your,tags,separated,by,commas\" with your tags, for example \"zero,tv,torrent,free,television,sirenyc\".",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481220347",
+			"date_added": 1481231391
+		},
+		{
+			"comment_id": 77,
+			"body": "@Sirenyc: As long as it's properly formatted (like this: <meta name=\"keywords\" content=\"tv,torrent,series,torrents,episodes,shows,pirate,download,magnet,links\">) then it'll work fine.  Remember don't put spaces between tags or it messes things up (working on fixing that now)",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481220347",
+			"date_added": 1481234580
+		},
+		{
+			"comment_id": 78,
+			"body": "@Sirenyc: Okay, I'll tell you if there are any problems. :)",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481220347",
+			"date_added": 1481234851
+		},
+		{
+			"comment_id": 79,
+			"body": "@Mynameislegion: Every so often (1-2 days at most) I'll update the index.  I know a site exists because public proxies keep sites seeded most of the time and you can view the sites seeded on ZeroHello :)",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481220347",
+			"date_added": 1481303415
+		},
+		{
+			"comment_id": 80,
+			"body": "@Mynameislegion: Sure.  Updating the index in a few minutes :)",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481220347",
+			"date_added": 1481315685
+		},
+		{
+			"comment_id": 81,
+			"body": "@Grae: Best 3 seconds of my life haha",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481149192",
+			"date_added": 1481316590
 		}
 	],
 	"follow": [
@@ -953,6 +1081,34 @@
 			"auth_address": "1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9",
 			"user_name": "Shellbound",
 			"date_added": 1480802614
+		},
+		{
+			"follow_id": 24,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1qA5PLyTTNtJjaK1zRz1fnyQMgiDpv5td",
+			"user_name": "Grae",
+			"date_added": 1481142525
+		},
+		{
+			"follow_id": 25,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L",
+			"user_name": "Alex",
+			"date_added": 1481147519
+		},
+		{
+			"follow_id": 26,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ",
+			"user_name": "ulrichard",
+			"date_added": 1481375047
+		},
+		{
+			"follow_id": 27,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "133PfjoNP94oHC3GczL9e7SCKoeKEMyCDJ",
+			"user_name": "G1tich",
+			"date_added": 1481396684
 		}
 	],
 	"settings": {

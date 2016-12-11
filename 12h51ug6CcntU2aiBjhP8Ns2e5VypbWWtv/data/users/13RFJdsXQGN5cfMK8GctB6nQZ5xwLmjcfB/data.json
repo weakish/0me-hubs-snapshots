@@ -1,6 +1,6 @@
 {
 	"next_post_id": 24,
-	"next_comment_id": 58,
+	"next_comment_id": 62,
 	"next_follow_id": 26,
 	"avatar": "png",
 	"user_name": "Ysc3839",
@@ -106,7 +106,8 @@
 		"13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479620662": 1479622571,
 		"13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1479745931": 1479793152,
 		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1480521889": 1480567403,
-		"1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1480730067": 1480761576
+		"1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1480730067": 1480761576,
+		"1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481173534": 1481260659
 	},
 	"comment": [
 		{
@@ -450,6 +451,30 @@
 			"body": "@P2P: 我搜索看到过pystray，印象中是GTK的",
 			"post_uri": "13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_1480784783",
 			"date_added": 1480839406
+		},
+		{
+			"comment_id": 58,
+			"body": "@Lmath: 这肯定要一个中心服务器的，我这里端口一直是开启的",
+			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1481379479",
+			"date_added": 1481385871
+		},
+		{
+			"comment_id": 59,
+			"body": "@Lmath: 不能保证其他节点开放了端口",
+			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1481379479",
+			"date_added": 1481441973
+		},
+		{
+			"comment_id": 60,
+			"body": "@Lmath: 节点有可能都是关闭的，检测不了端口不代表 ZeroNet 就不能使用",
+			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1481379479",
+			"date_added": 1481442431
+		},
+		{
+			"comment_id": 61,
+			"body": "@Lmath: 我不了解具体的实现，我觉得你应该去问问ZeroNet的开发者",
+			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1481379479",
+			"date_added": 1481449220
 		}
 	],
 	"follow": [

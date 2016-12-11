@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 8,
+	"next_comment_id": 26,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -49,6 +49,116 @@
 			"body": "还没睡啊？小心长不高哦！",
 			"post_uri": "17z9bkjwGkCNEGCJ9E6TUu1kEs5V1f7zYL_1480953388",
 			"date_added": 1480953756
+		},
+		{
+			"comment_id": 8,
+			"body": "@P2P: If you send a message via ZeroMail, you will update the file in your identity address and all peer seed for ZeroMail can see that. If one user add a message, all peer online can see a new message_id.",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1481017075",
+			"date_added": 1481017663
+		},
+		{
+			"comment_id": 9,
+			"body": "@Generate: 你注册的时候也遇到了这个问题？我没见过啊！",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481173534",
+			"date_added": 1481188128
+		},
+		{
+			"comment_id": 10,
+			"body": "作者说不支持 GIF 动图的原因是体积大性能差（不过可以考虑转 MP4），这样看来 ZeroMe 的发图功能又要被玩坏了。",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481190000",
+			"date_added": 1481191146
+		},
+		{
+			"comment_id": 11,
+			"body": "@火犬: 暂时不支持，只是曾经作者表达过更看好 MP4 的小视频而不是 GIF 动图的意见，当然你可以想办法自己做出来。",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481190000",
+			"date_added": 1481191683
+		},
+		{
+			"comment_id": 12,
+			"body": "@Generate: 如果大家都为了看动图给你的图片做种，那么说明你的图就是受欢迎的；如果大家都觉得你的图太占空间而不做种，说明你的图不受欢迎，不过至少人家不需要为你的图做种。",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481190000",
+			"date_added": 1481207392
+		},
+		{
+			"comment_id": 13,
+			"body": "其实已经有一个给你们发动图（会被转成 MP4）的地方了：http://127.0.0.1:43110/1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h/",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481196409",
+			"date_added": 1481208121
+		},
+		{
+			"comment_id": 14,
+			"body": "@火犬: 没注意到，现在发现貌似真的不能发。",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481196409",
+			"date_added": 1481208365
+		},
+		{
+			"comment_id": 15,
+			"body": "@火犬: 2333，那就没意思了，最好像煎蛋无聊图那样允许用户发。",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481196409",
+			"date_added": 1481208497
+		},
+		{
+			"comment_id": 16,
+			"body": "@火犬: 考虑中，近期会弄。",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481196409",
+			"date_added": 1481208780
+		},
+		{
+			"comment_id": 17,
+			"body": "@Apuar: 不能更新 ZeroNet 主程序，而是应该更新 ZeroHello 。",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481251777",
+			"date_added": 1481270731
+		},
+		{
+			"comment_id": 18,
+			"body": "@Generate: https://github.com/HelloZeroNet/ZeroHello/pull/28/commits\n已推送修正版本，请等待合并。",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481251777",
+			"date_added": 1481270750
+		},
+		{
+			"comment_id": 19,
+			"body": "挂前置代理？",
+			"post_uri": "17z9bkjwGkCNEGCJ9E6TUu1kEs5V1f7zYL_1481297585",
+			"date_added": 1481298130
+		},
+		{
+			"comment_id": 20,
+			"body": "你的图越来越大了，真要考虑不给你做种了……\n你还是考虑自己配置好端口吧！",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481298534",
+			"date_added": 1481298909
+		},
+		{
+			"comment_id": 21,
+			"body": "我还是给你做种了，图已经加载出来。",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481298534",
+			"date_added": 1481339630
+		},
+		{
+			"comment_id": 22,
+			"body": "貌似是运营商对国外网站选择性 NAT 的问题。而且貌似检测 IP 的是一个中心化服务。",
+			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1481379479",
+			"date_added": 1481379598
+		},
+		{
+			"comment_id": 23,
+			"body": "@Ysc3839: 为啥要中心服务器呢？让其他开放节点帮检测下 IP 不行吗？",
+			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1481379479",
+			"date_added": 1481387303
+		},
+		{
+			"comment_id": 24,
+			"body": "@Ysc3839: 可以多请求几个节点的啊！不会节点端口都关着吧！这个地方中心化了以后以后这个站 down 掉不是 ZeroNet 就挂掉了？",
+			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1481379479",
+			"date_added": 1481442238
+		},
+		{
+			"comment_id": 25,
+			"body": "@Ysc3839: 节点如果都是关闭的，那么 ZeroNet 基本也就不存在了（Tor Hidden Service 下还是可以实现，但是那玩意下 IP 已经没什么用了）。应该 Tracker 是可以知道 IP 的，所以确实可能这个节点检测到的 IP 只是给我们看看罢了。",
+			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1481379479",
+			"date_added": 1481442808
 		}
-	]
+	],
+	"flags": {},
+	"comment_like": {}
 }

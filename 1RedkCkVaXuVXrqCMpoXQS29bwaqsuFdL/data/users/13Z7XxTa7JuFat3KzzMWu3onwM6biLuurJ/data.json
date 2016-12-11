@@ -1,7 +1,7 @@
 {
-	"next_post_id": 47,
-	"next_comment_id": 256,
-	"next_follow_id": 196,
+	"next_post_id": 49,
+	"next_comment_id": 280,
+	"next_follow_id": 205,
 	"avatar": "jpg",
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -232,6 +232,16 @@
 			"post_id": 1480907329,
 			"body": "Rev1761, Update ZeroNet from ZeroNet network 支持从ZeroNet网络自身升级ZeroNet ，具体情况还待观察 \nhttps://github.com/HelloZeroNet/ZeroNet/commit/b66317fa7dd7d1d9653b641545be315e2a90547f",
 			"date_added": 1480907283
+		},
+		{
+			"post_id": 1481353639,
+			"body": "果然不出我所料，自从ZeroTalk界面被翻译后，官方ZeroTalk又充斥中文新用户的simple/naive提问。他们忽视页面顶部的`中文`，以为那是个切换语言选项，但实际上是中文论坛的链接。我打算让nofish把`中文`改成`中文论坛`，any ideas?",
+			"date_added": 1481353592
+		},
+		{
+			"post_id": 1481377438,
+			"body": "[接上](http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Profile/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ/p2p@zeroid.bit)，讨论贴：关于hub越来越大怎么办？\n###现在本贴已经刷不出老评论了，还是到GFW talk继续讨论吧 http://127.0.0.1:43110/gfwtalk.bit/?Topic:51_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ/+ZeroMe+hub",
+			"date_added": 1481377390
 		}
 	],
 	"post_like": {
@@ -286,7 +296,10 @@
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1479967047": 1479967846,
 		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1480340164": 1480341170,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1480491237": 1480493843,
-		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1480832258": 1480833922
+		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1480832258": 1480833922,
+		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1480999911": 1481015850,
+		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1480982462": 1481016775,
+		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1481018904": 1481037734
 	},
 	"comment": [
 		{
@@ -1818,6 +1831,150 @@
 			"body": "@Nekocross: 你少看一句话 It now lives at https://github.com/G1itchZero/zeronet-go",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480580471",
 			"date_added": 1480934128
+		},
+		{
+			"comment_id": 256,
+			"body": "先观察一下，貌似把那个更新的zite删掉就不会从那更新了",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480999911",
+			"date_added": 1481016155
+		},
+		{
+			"comment_id": 257,
+			"body": "it is sad that @Erkan is not active:(",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1480982462",
+			"date_added": 1481016871
+		},
+		{
+			"comment_id": 258,
+			"body": "@Rainlime: 按照绝对数量来说不多，但是你看看其他非英语语言的新用户有这样的吗？显得中文用户很simple/naive",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481356291
+		},
+		{
+			"comment_id": 259,
+			"body": "@Lmath: 你自己看节点地球，来自非英语国家的非常多。但是他们的英语基础好，习惯用英语在互联网交流。而中文用户。。。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481357566
+		},
+		{
+			"comment_id": 260,
+			"body": "@Generate: 强制跳转后知道有中文论坛，但是第二次进ZeroTalk却找不到了，又会问中文论坛在哪",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481359844
+		},
+		{
+			"comment_id": 261,
+			"body": "@Lmath: 能一劳永逸是最好了，要看nofish愿不愿意",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481375731
+		},
+		{
+			"comment_id": 262,
+			"body": "@Generate: 发帖子引导的事我早就做过了， 不到半天帖子就沉了，谁来顶？",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481375889
+		},
+		{
+			"comment_id": 263,
+			"body": "@Lmath: 根据语言自适应吧。fork的话原版升级还要同步维护，麻烦",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481376042
+		},
+		{
+			"comment_id": 264,
+			"body": "@Generate: 最好是在zerohello多一个site，原版的也保留，站点描述上加以区分",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481376231
+		},
+		{
+			"comment_id": 265,
+			"body": "@Winarm: 嗯，类似这样的",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481376377
+		},
+		{
+			"comment_id": 266,
+			"body": "@Lmath: 本来就是被墙，怎么自动配置",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481376418
+		},
+		{
+			"comment_id": 267,
+			"body": "@Lmath: 哪有可靠的网桥？我记得xiaolan 好想折腾过剥离meek",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481376500
+		},
+		{
+			"comment_id": 268,
+			"body": "@Lmath: CONNECTED这个状态有一定误导性",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481376764
+		},
+		{
+			"comment_id": 269,
+			"body": "@Linkerlin: nofish很早就有个想法：把用户的老帖子移到archive.json，设置成optional files",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481377058
+		},
+		{
+			"comment_id": 270,
+			"body": "@Lmath: 非关注用户评论你的帖子怎么办？",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481377238
+		},
+		{
+			"comment_id": 271,
+			"body": "请大家移步到这里讨论，以免本贴评论太多刷不出来 \nhttp://127.0.0.1:43110/Me.ZeroNetwork.bit/?Profile/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ/p2p@zeroid.bit",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481377407
+		},
+		{
+			"comment_id": 272,
+			"body": "@Generate: 就在这讨论吧",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481377615
+		},
+		{
+			"comment_id": 273,
+			"body": "[回上贴的几位](http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Profile/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ/p2p@zeroid.bit)，根据目前zeronet的架构，你下载了别人的data.json才能知道有人回复你的帖子，所以要全站下载",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481377836
+		},
+		{
+			"comment_id": 274,
+			"body": "@Linkerlin: `发送一个类SQL的查询给对端（类似Neo4J的Cypher）,然后由对端返回数据`什么意思？实时去P2P网络查询？性能呢？",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481378136
+		},
+		{
+			"comment_id": 275,
+			"body": "@Lmath: 这样违背了zeronet可以离线浏览的哲学。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481378323
+		},
+		{
+			"comment_id": 276,
+			"body": "@Generate: 那不一样。optional files只是存图片或历史po，但是谁最近有回复我，必定是可以离线浏览的。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481378664
+		},
+		{
+			"comment_id": 277,
+			"body": "@Generate: 对比图片或者历史po，我当然更关心的是最近是否有人回复我，毕竟这是社交网络",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481378872
+		},
+		{
+			"comment_id": 278,
+			"body": "现在本贴已经刷不出老评论了，还是到talk讨论吧 http://127.0.0.1:43110/gfwtalk.bit/?Topic:51_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ/+ZeroMe+hub",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481379154
+		},
+		{
+			"comment_id": 279,
+			"body": "@frog: hub是方便管理，以及去中心化。你的观点有一定的参考性。我的idea：\n- 所有用户文件夹内都加一个ping.json\n- 除了ping.json以外，其他全部是optional files\n- ping.json里存放该用户对哪些人评论过、@过（统称为ping过）\n- 当有人ping过你，你就下载Ta的data.json（当然，你fo的和你like的，自然也会下载其data.json）\n- 一个hub里，只有所有的ping.json是必须下载的，大大减少了所需空间和首次加载时间，并且不丢失社交网络的特性。\n\nEDIT：为了方便看你fo人的po下评论，还应该下载ping过Ta的人的data.json\n\n现在本贴已经刷不出老评论了，还是到GFW talk继续讨论吧 http://127.0.0.1:43110/gfwtalk.bit/?Topic:51_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ/+ZeroMe+hub ",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481386562
 		}
 	],
 	"follow": [
@@ -2998,13 +3155,6 @@
 			"date_added": 1480244029
 		},
 		{
-			"follow_id": 175,
-			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
-			"auth_address": "1KUBcGBxautCfBVt91sQ3HSJUAYJb2ahYu",
-			"user_name": "Areyouok",
-			"date_added": 1480398289
-		},
-		{
 			"follow_id": 176,
 			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
 			"auth_address": "1CKyj95EMuQiKCYaRcfY6JgXgdmLWBUjyM",
@@ -3143,6 +3293,69 @@
 			"auth_address": "1Q2CxBg8mPLduTXJ9g5TaQY3oYKQwZrSHi",
 			"user_name": "Amain",
 			"date_added": 1480933910
+		},
+		{
+			"follow_id": 196,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "15Yo2Rq8VT64S1SfAiFyYDBdt1KsfCmRqH",
+			"user_name": "Ivan",
+			"date_added": 1481080317
+		},
+		{
+			"follow_id": 197,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "178BAeske17wXhT43ieUk2YYWgG4CAvZz7",
+			"user_name": "915622581",
+			"date_added": 1481080363
+		},
+		{
+			"follow_id": 198,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb",
+			"user_name": "火犬",
+			"date_added": 1481205021
+		},
+		{
+			"follow_id": 199,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "13t4MG77faypJBpk5CdKjDMqkyLoFF3P5b",
+			"user_name": "Linus_L",
+			"date_added": 1481205622
+		},
+		{
+			"follow_id": 200,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "19wGjxMT4cXn7sQDctssGyWwjjFigsrxgC",
+			"user_name": "Goschech",
+			"date_added": 1481213782
+		},
+		{
+			"follow_id": 201,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "19jJsNJe7hHPwCJdSizngPDFpjnGxhfpmA",
+			"user_name": "Shinonome",
+			"date_added": 1481302898
+		},
+		{
+			"follow_id": 202,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "184vGP5fcYRNVupDCBcxi938D8AqGCU6JT",
+			"user_name": "Ero",
+			"date_added": 1481303910
+		},
+		{
+			"follow_id": 203,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1GKFsYgkrTp4xYAxMP5x7artq7yoTKKCbS",
+			"user_name": "Winarm",
+			"date_added": 1481375737
+		},
+		{
+			"follow_id": 204,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "18RzEo78ovmu3yfrXcxvezrpRaoXFjJ1QK",
+			"user_name": "Aen",
+			"date_added": 1481386758
 		}
 	],
 	"settings": {

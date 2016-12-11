@@ -1,7 +1,7 @@
 {
-	"next_post_id": 6,
-	"next_comment_id": 18,
-	"next_follow_id": 11,
+	"next_post_id": 12,
+	"next_comment_id": 21,
+	"next_follow_id": 13,
 	"avatar": "generate",
 	"user_name": "Windonsurf",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -12,6 +12,11 @@
 			"body": "三虚拟机代理下，有些0net的网站，特别是内容比较丰富的，会出现:content.json download failed 的错误。有什么办法能解决呢？\n",
 			"date_added": 1479290137,
 			"meta": "{\"img\":\"900,506,dddeee999555444445aaabbb111222ccc333666777fff,011111111023452666768989A11111899BA11110CCCD0EEEE1000AA00AAA\"}"
+		},
+		{
+			"post_id": 1481427124,
+			"body": "好几天没冒泡了，其实是有发言过的，只是都发布失败了。tor显示always模式，更新的时候却得关闭tor，网站才能更新，今天，偶然点开torrc文件，哎哟，我去，原来是torrc被默认配置覆盖了，于是把以前备份好的torrc甩进去覆盖掉，哟西，又恢复正常了，站点更新了。",
+			"date_added": 1481427113
 		}
 	],
 	"post_like": {},
@@ -117,6 +122,24 @@
 			"body": "@Lmath: 嗯，我在设置代理的时候，把zeronet 的tor 关掉了。毕竟会出现 tor over tor的情况。tor官网不允许这么做。",
 			"post_uri": "1KNe8oqdHjEAYSEZByAikQi66GjZB1rSxL_1479290142",
 			"date_added": 1479293113
+		},
+		{
+			"comment_id": 18,
+			"body": "@Nekocross: 这条约束是从编程随想那儿知道的。本来没想过什么理由，你问了，我就特意去查了。官网文章链接： https://trac.torproject.org/projects/tor/wiki/doc/TorifyHOWTO#ToroverTor 官网上提到tor over tor 方案会影响匿名性。 用了discouraged 这个词来否决这一方案。",
+			"post_uri": "1KNe8oqdHjEAYSEZByAikQi66GjZB1rSxL_1479290142",
+			"date_added": 1479306389
+		},
+		{
+			"comment_id": 19,
+			"body": "大家把新浪微博习以为常地省略掉了“新浪”，只剩下微博了。",
+			"post_uri": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1479780485",
+			"date_added": 1479803976
+		},
+		{
+			"comment_id": 20,
+			"body": "@Linkerlin: 要写的有很多，但是都很敏感",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1481030978",
+			"date_added": 1481077418
 		}
 	],
 	"follow": [
@@ -140,6 +163,20 @@
 			"auth_address": "144GQ5Uz9dYQJ1MwjSFWWboLgHwdGpv21x",
 			"user_name": "Mzero",
 			"date_added": 1479137938
+		},
+		{
+			"follow_id": 11,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M",
+			"user_name": "Rainlime",
+			"date_added": 1479306089
+		},
+		{
+			"follow_id": 12,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ",
+			"user_name": "P2P",
+			"date_added": 1479306100
 		}
 	]
 }

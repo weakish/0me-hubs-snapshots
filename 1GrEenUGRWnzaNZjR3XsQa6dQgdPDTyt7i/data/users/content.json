@@ -3,9 +3,9 @@
  "files": {},
  "ignore": ".*",
  "inner_path": "data/users/content.json",
- "modified": 1480603807.361,
+ "modified": 1481455586.205,
  "signs": {
-  "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i": "HBkCOf1IQAs/6GL++5fM5b1zGu41lFVzqqNrn8Il4s2v1Bav6NQ53/vkq2AbG2S8ApaoZUSd7BrjbbqWNW/s2vw="
+  "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i": "HEUsJ/fcKJdYCsmNrNi6GDupjAkmdCwIvNhB6RAaTMbVBCAJJaVTjOz7gJO2s1hOLw0yWFd2cVPIXgdODCX5XdY="
  },
  "user_contents": {
   "archived": {"1MRSDFESsBXDGvNoZ5ifztA89XfEahA5ka": 1475024550},
@@ -38,12 +38,13 @@
    "nofish@zeroid.bit": {"max_size": 20000},
    "p2p@zeroid.bit": {"max_size": 100000},
    "plac@zeroid.bit": false,
-   "rainlime@zeroid.bit": {"max_size": 100000},
+   "rainlime@zeroid.bit": {"max_size": 200000},
    "sadkitten@zeroid.bit": {"max_size": 100000},
    "sickbird@zeroid.bit": {"max_size": 75000},
    "thejumono@zeroid.bit": false,
    "userzero@zeroid.bit": {"max_size": 75000},
-   "woodsfirezyj@zeroid.bit": {"max_size": 75000}
+   "woodsfirezyj@zeroid.bit": {"max_size": 75000},
+   "zerg@zeroid.bit": {"max_size": 100000}
   }
  }
 }

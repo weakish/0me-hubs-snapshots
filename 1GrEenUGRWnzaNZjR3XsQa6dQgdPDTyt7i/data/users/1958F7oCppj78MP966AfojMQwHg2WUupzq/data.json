@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 377,
+	"next_comment_id": 466,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -30,7 +30,10 @@
 		"1GMNmr2bDPbT4c8yVnyCoDHke52CNCdqAa_1480778978": 1480780982,
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480811585": 1480811863,
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480832206": 1480832560,
-		"1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1480995948": 1480996780
+		"1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1480995948": 1480996780,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481171804": 1481172792,
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481433253": 1481433236,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481434522": 1481434595
 	},
 	"comment": [
 		{
@@ -2270,6 +2273,534 @@
 			"body": "@Rainlime: 你太轻视了 Hidden Service 了。相对于电脑，更多的手机处于 NAT 环境，这种环境下要是不提供一个被动连入的手段，就会像很多新用户在 ZeroMe 上发图一样很长时间就是加载不出来。另外，看起来似乎应该在 ZeroNet 自带下载 Tor 的地址里面加几个镜像（因为很多地区不能访问 Tor 官网），比如 https://tor.eff.org 这样的。",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480162314",
 			"date_added": 1481006952
+		},
+		{
+			"comment_id": 377,
+			"body": "很好奇是什么事情。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481013137",
+			"date_added": 1481016882
+		},
+		{
+			"comment_id": 378,
+			"body": "貌似无法在禁止 UDP 或 ICMP 的网络下运行 Freenet 。\n等等！你不是之前还说 Freenet 没那么难用么？我以为你连上了。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481022903",
+			"date_added": 1481022890
+		},
+		{
+			"comment_id": 379,
+			"body": "@Rainlime: 不能在 Tor 网络中运行 Freenet ，因为 Tor 网络只能传输 TCP 包。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481022903",
+			"date_added": 1481023100
+		},
+		{
+			"comment_id": 380,
+			"body": "remove `data/content.db` and restart ZeroNet, it will rebulid `content.db` automatically. But it seems all peer-infomation will be lost.",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1481023118",
+			"date_added": 1481023253
+		},
+		{
+			"comment_id": 382,
+			"body": "@Rainlime: 看起来很有意思，或许可以通过这种方法在防火墙禁止 UDP 的网络下运行 Freenet 。之前我一直搜索在禁止 UDP 的网络下运行 Freenet 但是没有结果，想不到搜在 Tor 上运行 Freenet 就可以了。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481022903",
+			"date_added": 1481024469
+		},
+		{
+			"comment_id": 383,
+			"body": "@MilitaryRiotLab: Maybe an unexpected shutdown happened.",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1481023118",
+			"date_added": 1481025084
+		},
+		{
+			"comment_id": 384,
+			"body": "@Bullseye: \n- 无法执行服务端代码\n- 没有 ACID 保证",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1480913259",
+			"date_added": 1481032024
+		},
+		{
+			"comment_id": 385,
+			"body": "为啥我觉得是 Wikipedia ？",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481089509",
+			"date_added": 1481089441
+		},
+		{
+			"comment_id": 386,
+			"body": "@Apuar: 贴吧^_^ 估计贴吧的抽风率比 ZeroTalk 还高。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481089509",
+			"date_added": 1481092209
+		},
+		{
+			"comment_id": 387,
+			"body": "@Generate: 路线都不同，何谈取代？",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1480913259",
+			"date_added": 1481106568
+		},
+		{
+			"comment_id": 388,
+			"body": "@Generate: Freenet 的目标貌似是更完全地去中心，并不怎么支持建立一个有人管理的 Hub 并且站点拥有者能控制整个站点并删除上面的内容的做法。所以说，即使以后 ZeroNet 加上各种混淆匿名插件，依然是两个并存。",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1480913259",
+			"date_added": 1481106763
+		},
+		{
+			"comment_id": 389,
+			"body": "@Generate: 我即使第一次使用 Freenet 也没有半小时才能开页面啊（热门的两三秒，冷门的一分多钟的样子）！再说以后也可以考虑先把用户订阅的站点同步到本地（或者直接整合 ZeroNet 的相关功能）。Freenet 目前最大的问题就是搞死了 JS 而把数据处理的任务交给了使用 FCP 协议的程序。",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1480913259",
+			"date_added": 1481107138
+		},
+		{
+			"comment_id": 390,
+			"body": "@weakish: Freenet 自带匿名，但是在 Opennet 模式下依然可以连接到钓鱼节点并骗取一些信息，另外朋友节点可以看到真实 IP 。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481022903",
+			"date_added": 1481108074
+		},
+		{
+			"comment_id": 391,
+			"body": "@Ivan: 我觉得加 tag 即可，分板块最大的问题就是很可能我觉得这内容可能同时适合多个板块。",
+			"post_uri": "1GMNmr2bDPbT4c8yVnyCoDHke52CNCdqAa_1480778978",
+			"date_added": 1481110053
+		},
+		{
+			"comment_id": 392,
+			"body": "@Ivan: 我觉得我是不是认识你？我认识的一个人也叫 Ivan 。",
+			"post_uri": "1GMNmr2bDPbT4c8yVnyCoDHke52CNCdqAa_1480778978",
+			"date_added": 1481110260
+		},
+		{
+			"comment_id": 393,
+			"body": "@猫叉酱: 但是一些更敏感的自由发言，比如 xiaolan 的五毛相关的文件，是会有人来查水表的。所以对于一些更大的“自由”，是需要匿名来保证的。正如你说的匿名不是大多数人的强需求，所以 Freenet 以这样的目标发展下去也不会是主流，但是并不意味这个项目本身不重要。",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1480913259",
+			"date_added": 1481115130
+		},
+		{
+			"comment_id": 394,
+			"body": "@name: 如果转发帖子就很容易被挂上“传播谣言”等罪名，那么我相信匿名就显得更有意义。事实上，我也不希望“匿名”变成强需求，但是工具我们要有。不能等到我们发现我们不匿名很容易受迫害以后却发现没有多少工具可用了。",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1480913259",
+			"date_added": 1481115634
+		},
+		{
+			"comment_id": 395,
+			"body": "@Linkerlin: 在位的时候几乎是看不到负面评价的，不是吗？说明有很多人是不敢说的。",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1480913259",
+			"date_added": 1481115751
+		},
+		{
+			"comment_id": 396,
+			"body": "@Linkerlin: 这些大型网站的部署难度 @Generate 已经说过了，主要是 ZeroNet 目前还没有一个协调机制来给这些数据分布在不同节点并快速检索。而每个节点上存储很大的数据量又不太现实。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481089509",
+			"date_added": 1481116713
+		},
+		{
+			"comment_id": 397,
+			"body": "试试 orbot 中提取出来的 Tor 。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481165947",
+			"date_added": 1481167857
+		},
+		{
+			"comment_id": 398,
+			"body": "@莱文倩: FBI 发现了又怎样？又不搞儿童色情。——等等！你是说盗版？",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481162723",
+			"date_added": 1481168061
+		},
+		{
+			"comment_id": 399,
+			"body": "刚刚我这里看了一下，怡红院有 910 节点，GFW Talk 有 1064 节点。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481162723",
+			"date_added": 1481168149
+		},
+		{
+			"comment_id": 400,
+			"body": "@莱文倩: 参见这里：https://github.com/l5h5t7/ZeroNet/commit/d3913567ced9e752a11c19a9bcd72c019c491411\n说明连上了控制器但是 Tor 没通，通了会显示 `TOR: AVAILABLE` 。",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481159403",
+			"date_added": 1481168201
+		},
+		{
+			"comment_id": 401,
+			"body": "@Coder: 貌似开的时间越久，显示的节点数越多。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481162723",
+			"date_added": 1481189614
+		},
+		{
+			"comment_id": 402,
+			"body": "@Mbp374: 貌似客户端向 Tracker 请求节点的时候只会返回一部分节点（50 个左右），之所以时间长了节点数多是存储了以前记录的节点。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481089509",
+			"date_added": 1481191002
+		},
+		{
+			"comment_id": 403,
+			"body": "~~我发现使用 Tor 在 GFW Talk 里面经常内容发布失败，估计与墙导致墙内很少有人正常使用 Tor 有关？~~好吧！我的数据量下已经不能很好地跑 Tor 了。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481165947",
+			"date_added": 1481195465
+		},
+		{
+			"comment_id": 404,
+			"body": "为啥我觉得厕所极有可能堵住？",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1481281579",
+			"date_added": 1481281736
+		},
+		{
+			"comment_id": 405,
+			"body": "@frog: 我觉得换着装这事就够可疑了，而且目前公共 Wi-Fi 多数需要手机短信/微信验证。你还不如换个思路，去农村蹭 Wi-Fi 去。那里没摄像头，而且很多 Wi-Fi 都是开放的。",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1481281579",
+			"date_added": 1481282081
+		},
+		{
+			"comment_id": 406,
+			"body": "@frog: 既然你觉得本身可疑了，那么相比你在自己家搞台安全的电脑里面搞个虚拟机跑 Tor 有什么区别？而且目前上 Tor 的观光客和用来翻墙的人还挺多，并不这么容易被分析。",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1481281579",
+			"date_added": 1481282338
+		},
+		{
+			"comment_id": 407,
+			"body": "@frog: 单个伪装的节点捕捉到也看不到什么，要多个节点协同伪装才有意义。\n当然如果是常规的 HTTP 节点的话，可以看到你的消息，但是也不能直接判定你的身份。\n或者你可以考虑 I2P in Tor 或者 Jondo in Tor 这样的方法，这时候两个项目的节点互相配合就更难了。",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1481281579",
+			"date_added": 1481282584
+		},
+		{
+			"comment_id": 408,
+			"body": "@frog: 你直接连接的节点知道你的 IP ，但是并不知道你发的内容，Tor 中转的时候有一定的随机延迟来提高匿名性。而且全国同一时刻用 Tor 的人太多了，很难判断是谁连上后发的。倒是如果你在一个小公司发小公司的内部文件，挺有可能被发现的。但是目前由于 Tor 不能裸连，所以基本只能看到前置代理的流量，而如果不是你专属的前置代理，很可能在上面有多人使用 Tor 。",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1481281579",
+			"date_added": 1481283075
+		},
+		{
+			"comment_id": 409,
+			"body": "@frog: 为了避免被通过时间分析攻击，我 24 小时连接到 Tor 并产生一定的流量。这样，我发东西的时候也不太会有大幅度的流量增加的问题。\n你说的时间分析大概是希望发现一旦发现某个 Tor 连接，就会在某个网站上出现以某个身份出现敏感内容吧！对于全国范围内的追踪，由于有足够多的用户会比较麻烦。如果是有一条消息看起来就一定是你们村里的人发的，那么你真的要考虑下通过时间追踪的可能性了。",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1481281579",
+			"date_added": 1481283208
+		},
+		{
+			"comment_id": 410,
+			"body": "@frog: Tor 是个 SOCKS 代理，所以你出去的流量完全是一个管道，而不是能看到一个个加密的请求，所以你只能看到 10 条留言对应总大小的加密数据流，而不是 10 个加密的单独请求，这点与 HTTPS 是不同的。",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1481281579",
+			"date_added": 1481283664
+		},
+		{
+			"comment_id": 411,
+			"body": "@frog: I2P 有一个不同的思路，就是把数据包（并不是根据高层的请求拆分）拆分到不同的链路中，这样更不容易被多个节点配合的攻击。但是问题是 I2P 本身并没有提供一个为匿名设计的浏览器，而且 I2P 用户数少很难做到充分混淆。（比如首先你批评你这个镇的某项政策，相关的人一查是 I2P 的出口，然后一看这个镇上只有你在这个时间段用 I2P ，所以就是你了）\n目前国内新闻媒体试图通过报道 Tor 的一些安全缺陷（实际利用并没这么容易）来产生寒蝉效应，关键是有些手法太 Low 了，比如搞得出口节点什么都能看到似的，实际访问 .onion 站点的时候完全就是个管道 。",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1481281579",
+			"date_added": 1481284187
+		},
+		{
+			"comment_id": 412,
+			"body": "@Rainlime: 目前一般人使用 Tor 之类的匿名软件把身份泄露出去的原因不外乎几点：\n1. 大灾软件上传日志\n2. 自己在非匿名软件的时候使用了相同的身份\n3. 自己不慎在使用匿名软件时说出了可以一定程度上确定身份的内容（比如之前有人在暗网中文论坛上贴日志时暴露了他在计算机上的用户名）\n4. 之前有拍那啥片并传上网的，脸都露出来了（还留了 QQ），在啥匿名软件帮助下都没啥用。\nhttp://share.iclient.ifeng.com/news/sharenews.f?&aid=110267042",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1481281579",
+			"date_added": 1481284548
+		},
+		{
+			"comment_id": 413,
+			"body": "@Rainlime: 很多国内安全软件会记录你访问的地址（在系统比较底层）并上传到服务器，因为是在本地的，所以可以在流量还没经过 Tor 的加密时搞。另外 Tor Browser 其实就是个被改装过的 Firefox （MPL 规定 Firefox 是商标，不能随意用），所以很容易记录。\n实际上，由于目前的下载工具、支付工具的安全控件、广告过滤器都是通过通过内核模块强行注入 DLL 等手段来过滤流量的（之前的 NPAPI 基本被废了，而 PPAPI 的权限限制严格）。",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1481281579",
+			"date_added": 1481285833
+		},
+		{
+			"comment_id": 414,
+			"body": "@frog: 参见这里：https://www.v2ex.com/t/320218\n貌似 MS 是分地区运营的，所以如果你觉得 Linux 不习惯而且对匿名性要求不高的话，可以先切换到其他语言。",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1481281579",
+			"date_added": 1481286162
+		},
+		{
+			"comment_id": 415,
+			"body": "@frog: 极端一点的可以用这页上的操作系统：https://www.gnu.org/distros/free-distros.html\n这是完全的自由软件组成的，而一般的 Linux 发行版里或多或少带有一些闭源软件（特别是驱动部分）。",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1481281579",
+			"date_added": 1481286394
+		},
+		{
+			"comment_id": 416,
+			"body": "@Rainlime: 很多人说，中国市场销售的 TPM 模块是留有后门的，但是其他硬件并不清楚。",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1481281579",
+			"date_added": 1481286530
+		},
+		{
+			"comment_id": 417,
+			"body": "@Rainlime: 一个作用是`在内部支持：散列、随机数生成、非对称密钥生成、非对称加密/解密`（via Wikipedia）。\n一个作用是在内部保存密钥：比如你想用指纹加密你的电脑，那么存在一个问题：指纹本身并不能作为一个密钥。所以实际实现是在 TPM 里存储密钥（这里假设芯片不能通过外部接口读取，而且是芯片不能被裸读，实际上一些不那么先进的制程的可以做到），如果指纹验证成功，就在内部解密。\n顺便提醒下，不应该把指纹当作高强度验证手段，因为容易被读取和碰撞，泄露后还不容易更改，而且还依赖一个实际并不能确定安全的“安全硬件”。",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1481281579",
+			"date_added": 1481286758
+		},
+		{
+			"comment_id": 418,
+			"body": "@Linkerlin: 另外再说一个笑话：安司密信。\n请自行提取笑点。",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1481281579",
+			"date_added": 1481287222
+		},
+		{
+			"comment_id": 419,
+			"body": "@Linkerlin: 用硬件保存密钥很大的一个问题就是我们默认这个硬件是可信的，但事实往往不是如此。毕竟 TPM 啥的又没公开硬件细节。而算法本事是公开可验证的，所以这么多人相信它。\n减少单个身份出没的次数确实大大提高了匿名性，问题在于只出现一次的身份很难被人信任或者产生影响力，往往淹没在垃圾内容里。",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1481281579",
+			"date_added": 1481287657
+		},
+		{
+			"comment_id": 420,
+			"body": "@Rainlime: 请自行搜索双证书体系。而且安司密信宣称由 Telegram (GPL) 改造而成，但是没有在同一页面看到源码，本来就很可疑。",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1481281579",
+			"date_added": 1481287991
+		},
+		{
+			"comment_id": 421,
+			"body": "@Firedog: 实际比较难做，网络接入经常有认证。",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1481281579",
+			"date_added": 1481293876
+		},
+		{
+			"comment_id": 422,
+			"body": "把 `user.json` 复制过去。",
+			"post_uri": "1VU4YuLth4bBcRtxtGatSwBbQuLXNzgVk_1481299418",
+			"date_added": 1481300259
+		},
+		{
+			"comment_id": 423,
+			"body": "@Generate: 从价格优势的角度来看，没体现出来。不过依然是一个很有意思的服务，谢谢推荐。",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1480388503",
+			"date_added": 1481340298
+		},
+		{
+			"comment_id": 424,
+			"body": "@Firedog: \nRev1781: 地址后强制斜杠；\nRev1780: 保存侧边栏时忽略未同步完成的文件，克隆根目录参数，权限错误修复，插件翻译完善。",
+			"post_uri": "17u2vBbwR5NAkg6XarzRXdmW1czuFgYMor_1481319135",
+			"date_added": 1481345124
+		},
+		{
+			"comment_id": 425,
+			"body": "@Firedog: 简单地说，你可以当作修复了几个没啥大碍的 Bug 。",
+			"post_uri": "17u2vBbwR5NAkg6XarzRXdmW1czuFgYMor_1481319135",
+			"date_added": 1481345368
+		},
+		{
+			"comment_id": 426,
+			"body": "@Firedog: 我已经提交修复方案了，请等待作者合并，等不及的我直接到这里拉：https://github.com/l5h5t7/ZeroHello\n然后在首页上拉出侧边栏，打开“这是我的站点”，并保存站点设置，然后将 `data\\1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D` 里面的文件替换，禁用浏览器缓存并重新加载。",
+			"post_uri": "17u2vBbwR5NAkg6XarzRXdmW1czuFgYMor_1481319135",
+			"date_added": 1481345952
+		},
+		{
+			"comment_id": 427,
+			"body": "@猫叉酱: 因为压根没有这个 Tracker （域名解析提示 `Non-existent domain`） 啊！有一个类似的 `tracker1.wasabii.com.tw` 。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481346049",
+			"date_added": 1481346233
+		},
+		{
+			"comment_id": 428,
+			"body": "@猫叉酱: 所以你现在看看是不是被墙了？我这里连接正常。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481346049",
+			"date_added": 1481346523
+		},
+		{
+			"comment_id": 429,
+			"body": "@猫叉酱: IP 应该是 `210.244.71.25` ，你看看是不是 DNS 劫持？",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481346049",
+			"date_added": 1481346987
+		},
+		{
+			"comment_id": 430,
+			"body": "@猫叉酱: 我这里开放端口的情况下节点数最多的是 ZeroName ，节点数是 3499 。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481346049",
+			"date_added": 1481347398
+		},
+		{
+			"comment_id": 431,
+			"body": "GitHub 上的包也可以在 docker 上跑吧！",
+			"post_uri": "17AYUJE9dqiwbi1s5tokPxks5cSgQQs2o7_1481350122",
+			"date_added": 1481351507
+		},
+		{
+			"comment_id": 432,
+			"body": "@Rainlime: 不是的，请联系 @ysc3839 。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481354948",
+			"date_added": 1481364467
+		},
+		{
+			"comment_id": 433,
+			"body": "@Rainlime: YLMF 不是停止维护了？还有 openSUSE 被你们吃掉了？",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481383082
+		},
+		{
+			"comment_id": 434,
+			"body": "@Generate: Debian 我这里可以开 swap 啊！为啥不行？",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481383139
+		},
+		{
+			"comment_id": 435,
+			"body": "@Rainlime: 我也不喜欢 RPM 系列的，但是我喜欢里面的 YaST2 和快照啊！",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481383210
+		},
+		{
+			"comment_id": 436,
+			"body": "@Winarm: @Generate: 总对国产的东西里面会不会有什么私货有担忧，毕竟它还是做 XP Mod 起步的。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481383283
+		},
+		{
+			"comment_id": 437,
+			"body": "@Generate: 毕竟用的人少，中文用户就更加没啥生态了，中文字库缺失真心没发现。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481383351
+		},
+		{
+			"comment_id": 438,
+			"body": "@Generate: deepin 本体开源没错，但是有不少合作软件没开源，而官方也没给出只安装开源软件的选项。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481383519
+		},
+		{
+			"comment_id": 439,
+			"body": "@Generate: 不能忍的是把经典模式去掉了，导致多开相同应用程序的时候根本不能快速切换啊！",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481383680
+		},
+		{
+			"comment_id": 440,
+			"body": "@Generate: 15.3 去掉了那个玩意，而且 Deepin 不提供休眠支持，参照 Debian 的休眠方法老失败。向官方反映就说是 systemd 的锅不背内核的锅不背什么的，但是我明明在 Linux Mint 和 openSUSE 里都休眠得很好。\n等等！为啥市场占有率挺高的 Linux Mint 没人提到？是嫌它不清真？",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481383900
+		},
+		{
+			"comment_id": 441,
+			"body": "@Generate: 很多人批评它包含了太多闭源软件和专利产品，但是易用性和稳定性确实比 Ubuntu 改进不少。而且 Deepin 和优麒麟不是包含了更多闭源软件和专利产品？\n而且其实我挺好奇的，MP3 专利不是过期了么？为什么还要拿出来说它是不自由的所以要单独选择？",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481384133
+		},
+		{
+			"comment_id": 442,
+			"body": "@Generate: Windows 10 的 Explorer 可是经常崩溃的，特别是挂了什么钩子以后。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481384303
+		},
+		{
+			"comment_id": 443,
+			"body": "@Generate: 上次我在里面编译了个 DNSPod_sr 跑不起来。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481384355
+		},
+		{
+			"comment_id": 444,
+			"body": "@Generate: 可能是插件的关系，也有可能是我任务栏托盘还有桌面堆的东西过多都溢出了的关系。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481384463
+		},
+		{
+			"comment_id": 445,
+			"body": "Block 自己是一种什么体验？",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481386818",
+			"date_added": 1481388157
+		},
+		{
+			"comment_id": 446,
+			"body": "是 Arch 的大死还是 ZeroNet 上的大死？",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481422468",
+			"date_added": 1481422644
+		},
+		{
+			"comment_id": 447,
+			"body": "@Rainlime: 那既 Follow 自己又 Block 自己呢？",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481386818",
+			"date_added": 1481422940
+		},
+		{
+			"comment_id": 448,
+			"body": "@Rainlime: 但是我刚才去看了一下你的博客没有大问题啊！是我没更新的缘故？",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481422468",
+			"date_added": 1481423116
+		},
+		{
+			"comment_id": 449,
+			"body": "@Generate: 貌似非活跃站点自动更新频率并不高。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481422468",
+			"date_added": 1481426122
+		},
+		{
+			"comment_id": 450,
+			"body": "其实非标准端口也不是必需吧！",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481416577",
+			"date_added": 1481426185
+		},
+		{
+			"comment_id": 451,
+			"body": "@Rainlime: bit.no.com 用了这么长时间 43110 端口也没被封啊！",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481416577",
+			"date_added": 1481428320
+		},
+		{
+			"comment_id": 452,
+			"body": "torrc 会被覆盖吧！",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481427292",
+			"date_added": 1481428451
+		},
+		{
+			"comment_id": 453,
+			"body": "@Rainlime: 运营商对 43110 端口这么敏感？我以前开 80 和 443 端口 host 了一些作大死的文件都没事（tested on China Unicom & China Mobile）。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481416577",
+			"date_added": 1481428779
+		},
+		{
+			"comment_id": 454,
+			"body": "@Rainlime: 貌似电信默认干掉 80 但是不干掉 443 ，其他的基本没听说过用了以后才干掉的（要不然干嘛不直接一开始就干掉？）。HTTPS 的话你是打算自签证书么？",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481416577",
+			"date_added": 1481430089
+		},
+		{
+			"comment_id": 455,
+			"body": "@Generate: 能关闭核电站？想想都有点小激动呢！",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481431835",
+			"date_added": 1481432171
+		},
+		{
+			"comment_id": 456,
+			"body": "@Rainlime: 自备发电机的表示无压力。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481431835",
+			"date_added": 1481432362
+		},
+		{
+			"comment_id": 457,
+			"body": "@Rainlime: 不过出了什么大事估计负责人会被查水表的，所以在生产效率上可以不怎么改进，但是应该不会这么允许被破坏。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481431835",
+			"date_added": 1481432758
+		},
+		{
+			"comment_id": 458,
+			"body": "出现了什么问题？Bootstrap 的框架太重吧！还有一个是 ZeroNet 的站点运行在 sandbox 的 <iframe> 里，所以一些功能被禁用吧！",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481432667",
+			"date_added": 1481432838
+		},
+		{
+			"comment_id": 459,
+			"body": "所以把 ZeroNet 也当成一种暗网？",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481433253",
+			"date_added": 1481433279
+		},
+		{
+			"comment_id": 460,
+			"body": "@Rainlime: 曾经在 QQ 群上加入几个所谓的暗网交流群，然后我发了一个 Freenet 的键值，基本都不会访问。然后我说要下载 Freenet 来访问，然后就有人说我看还是暗网体验好，合着他们指的“暗网”就是专指 `.onion` 的 Tor Hidden Service 。\n还有很多人说想找都市传说里的什么马里亚纳网络……",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481433253",
+			"date_added": 1481433553
+		},
+		{
+			"comment_id": 461,
+			"body": "@Rainlime: 他们只是观光客，只是好奇，所以不需要什么匿名性，一堆人还是装着 360 间谍软件的……另外顺便跟周围的人装装逼。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481433253",
+			"date_added": 1481434040
+		},
+		{
+			"comment_id": 462,
+			"body": "@Generate: 正常打开了。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481432667",
+			"date_added": 1481434277
+		},
+		{
+			"comment_id": 463,
+			"body": "@Generate: Sounds interesting.",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481431835",
+			"date_added": 1481434785
+		},
+		{
+			"comment_id": 464,
+			"body": "@狗蛋: 不能，因为 Python 并没有 arm 平台的 Windows 版，即使自己编译一个，你也要想办法越狱。",
+			"post_uri": "14MrxSzhaSXiFwsAbyhwtipmU3Lh55Xcrr_1473251667",
+			"date_added": 1481456144
+		},
+		{
+			"comment_id": 465,
+			"body": "无界浏览免费稳定还有 Linux 版（逃\n缺点是不开源而且很多人认为背景不好",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1481447733",
+			"date_added": 1481456288
 		}
 	],
 	"flags": {},
@@ -2302,6 +2833,8 @@
 		"144GQ5Uz9dYQJ1MwjSFWWboLgHwdGpv21x_29": 1479825282,
 		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_62": 1479900815,
 		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_63": 1479900818,
-		"1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_116": 1480240220
+		"1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_116": 1480240220,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_382": 1481277583,
+		"18KhAfkwavAUrUQk67T4x6Gczq5hL5wE4Z_64": 1481432100
 	}
 }

@@ -1,0 +1,27 @@
+{
+	"next_comment_id": 3,
+	"user_name": "Arkre",
+	"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+	"post_like": {
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1474786070": 1481040873,
+		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1481027808": 1481059273,
+		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1481108612": 1481131259,
+		"1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481190961": 1481221668,
+		"1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481190000": 1481221676,
+		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1481203573": 1481258055
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Rust ftw!",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1481203573",
+			"date_added": 1481258196
+		},
+		{
+			"comment_id": 2,
+			"body": "@weakish: I don't get the idea with x. Variable shadowing works quite intuitively like in almost every language: https://ideone.com/gDS3rK Memory management and all that \"borrowing\" issues are indeed complicated in Rust, it requires your program to be memory safe by construction via type system (which is inspired by region types and linear type systems in general), but in some cases you will need to give up and turn unsafe mode.",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1481203573",
+			"date_added": 1481291109
+		}
+	]
+}

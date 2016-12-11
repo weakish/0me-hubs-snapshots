@@ -1,0 +1,28 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "HD1vAFG1pjpXUvtqZu6Denr4ig9CAUXYGIlS5SNGAANuSZkP5qJ5zidoLHRsuY0n+spXBPWGoh8aIayPK9zvjAI=",
+ "cert_user_id": "solophaton@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "1c04ec0da78d100011d603c7726dcda5dfb730f6bfc8a1f9bed9448b4221c494",
+   "size": 1463
+  },
+  "data.json": {
+   "sha512": "4b0ecd1fd04f24f6ca1012baebc1118cc9001ad46909f4509d45558eadd8cc02",
+   "size": 7056
+  }
+ },
+ "files_optional": {
+  "1481036909.jpg": {
+   "sha512": "00651828bd4c57d1def6f737a45f2ec4304feba7ef5f8d16067fee0c119ee725",
+   "size": 64744
+  }
+ },
+ "inner_path": "data/users/1H6uyZHhKon3eWitN6xM8ziy8DbNJdcx3C/content.json",
+ "modified": 1481284391.315,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1H6uyZHhKon3eWitN6xM8ziy8DbNJdcx3C": "HB6Ygf2nZWdhSMNvex9Tu6dVtpi0NRs/vEwZ+4gW2acTO21nghjO+AfwXOVHYlaAgo3TakNkVqICLEuqy+t7Yt0="
+ }
+}

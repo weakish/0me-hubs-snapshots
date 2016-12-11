@@ -1,7 +1,7 @@
 {
-	"next_post_id": 82,
+	"next_post_id": 87,
 	"next_comment_id": 11,
-	"next_follow_id": 46,
+	"next_follow_id": 47,
 	"avatar": "jpg",
 	"user_name": "fre3net",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -406,6 +406,31 @@
 			"post_id": 1480949345,
 			"body": "¿Alguien conoce alguna tienda que ofresca [PCs, Tabletas o Moviles](../?Post:281) libres?\n\nTags #español",
 			"date_added": 1480949264
+		},
+		{
+			"post_id": 1481212605,
+			"body": "¿ Como instalar el [navegador dooble](../darkblog.bit/?Post:282) en #debian #ubuntu o #archlinux ?",
+			"date_added": 1481212523
+		},
+		{
+			"post_id": 1481218426,
+			"body": "Es curioso observar como se reduce el numero de usuarios activos en #Zerome. ¿Nos hemos convertido en simples consumidores sin capacidad creadora?",
+			"date_added": 1481218343
+		},
+		{
+			"post_id": 1481296740,
+			"body": "♻ ¿ Quien puede echarme una ayudita con Supybot / Limnoria ?",
+			"date_added": 1481296656
+		},
+		{
+			"post_id": 1481405043,
+			"body": "¿Alguien sabe que le sucedio a Erkan? Esta desaparecido desde mediados de octubre...",
+			"date_added": 1481404958
+		},
+		{
+			"post_id": 1481405136,
+			"body": "CyberPunk, CryptoPunk, y #Libertad una [mirada al libro](../darkblog.bit/?Post:285) de #Assange",
+			"date_added": 1481405050
 		}
 	],
 	"post_like": {
@@ -651,13 +676,20 @@
 			"auth_address": "1QFcL2PapA8NuvNWeHCafHaMPJcXgmb55i",
 			"user_name": "Juansantiago",
 			"date_added": 1478875034
+		},
+		{
+			"follow_id": 46,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92",
+			"user_name": "fre3net",
+			"date_added": 1481398319
 		}
 	],
 	"settings": {
 		"reverse_comment_order": true,
 		"mute_ugly": true,
 		"mute_spam": false,
-		"mute_blocked": false
+		"mute_blocked": true
 	},
 	"blocked": [
 		"1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk",

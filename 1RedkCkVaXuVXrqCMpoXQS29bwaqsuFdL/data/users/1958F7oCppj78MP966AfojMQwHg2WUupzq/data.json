@@ -1,11 +1,11 @@
 {
-	"next_post_id": 43,
-	"next_comment_id": 154,
-	"next_follow_id": 213,
+	"next_post_id": 55,
+	"next_comment_id": 199,
+	"next_follow_id": 225,
 	"avatar": "png",
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
-	"intro": "正太爱好者\n孟山都的走狗，汉奸（由 @Areyouok 评论）\n开的几个坑：\n实用工具存档区：http://localhost:43110/12VnwCxot8tiMS3bBvksqQJQ8mLPRZ6CQE/\n自由网中文站：http://localhost:43110/16e8vso5f2sUob2wDmCZgMxeyfSjiBEh4R/\n简体中文版幻灯片：https://docs.google.com/presentation/d/e/2PACX-1vTwAt3deOHyFPLrL0ooF-AxkVmBljBLhaPXTQ8VUdbmxFI92Uv5PujSIpKjtza6UrKINSwK6Qf2pvVW/pub?start=false&loop=false&delayms=3000",
+	"intro": "正太爱好者\n孟山都的走狗，汉奸（由 @Areyouok 评论）\n开的几个坑：\n实用工具存档区：http://127.0.0.1:43110/ZeroMux.bit\n自由网中文站：http://127.0.0.1:43110/16e8vso5f2sUob2wDmCZgMxeyfSjiBEh4R\n简体中文版幻灯片：https://docs.google.com/presentation/d/e/2PACX-1vTwAt3deOHyFPLrL0ooF-AxkVmBljBLhaPXTQ8VUdbmxFI92Uv5PujSIpKjtza6UrKINSwK6Qf2pvVW/pub?start=false&loop=false&delayms=3000",
 	"post": [
 		{
 			"post_id": 1,
@@ -217,6 +217,36 @@
 			"body": "非清真食品从来不敢标也几乎没人标，如果没有法律规定要标非清真标识，厂家都不会去标。你看看，相反的清真食品的，那标识标得多大，多么正大光明，可见非清真的化工生产的味精是得不到老百姓的认可呀。可惜共济会控制的媒体在大力“辟谣”，呵呵！\n另外有钱人做菜都选天然的鸡精而不是化工合成的味精。",
 			"date_added": 1481005036,
 			"meta": "{\"img\":\"525,700,4512316669809a29959a9485275ba068234856a772b81a70,000010023344333356447777565488874999994A4BC7C99942D2C5EE399995D4DEEEF3D525555565\"}"
+		},
+		{
+			"post_id": 1481018904,
+			"body": "是否应该在 ZeroNet 无法从官网下载 Tor 时从官网镜像下载？比如这个：https://tor.eff.org\n另外有可能的话，在不能正常连接时提示配置网桥或代理会更好？\n考虑到很多地区使用了运营商级 NAT ，配置好 Tor Hidden Service 应该有比较大的意义。",
+			"date_added": 1481018861
+		},
+		{
+			"post_id": 1481036576,
+			"body": "在 Reddit 上找到的一个 NES 模拟器站：http://127.0.0.1:43110/1RETRoPXWgnP5K5v7ggwBHTo7eyumPvq1\n也许我们可以搞一个 ZeroNet 版的 4399 ？",
+			"date_added": 1481036532
+		},
+		{
+			"post_id": 1481096224,
+			"body": "## 如何给你的 ZeroNet 站点添加多语言支持？\n1. 在 `content.json` 里添加 `translate` 字段，字段的值为包含需要翻译的文件的路径的数组\n2. 在你的站点根目录下创建 `translates` 目录，并在里面放上 `语言代码.json` 的翻译文件\n3. 如果你需要翻译 js 中的内容，请在调用 js 时加上 `?lang={lang}` 参数\n4. 翻译文件的内容是包含`\"被替换的文本\" : \"新文本\"`对象的元素\n5. 在浏览器开发者控制台禁用缓存，重新加载页面并查看效果\n6. 签名并发布站点\n\n### 注意\n- 用于分隔对象中的元素的逗号不能漏，最后一个元素后不能加逗号\n- 被替换的文本必须完整地包含在一个 HTML 标签内",
+			"date_added": 1481096174
+		},
+		{
+			"post_id": 1481173038,
+			"body": "ZeroNet 没有关于插件开发的相关文档，大家知道插件是怎么跑起来的吗？是重写方法？另外有没有注入点的清单？@Ysc3839",
+			"date_added": 1481172987
+		},
+		{
+			"post_id": 1481215286,
+			"body": "有谁知道 Free Download Manager 5 是不是被重写而且闭源了？没有在任何地方找到 FDM5 的源码。",
+			"date_added": 1481215234
+		},
+		{
+			"post_id": 1481300353,
+			"body": "如何看待12月6日天翼校园客户端自带木马病毒导致全国大面积win10蓝屏的问题？\nhttps://www.zhihu.com/question/53371389\n所以你们可以在下面评论了。",
+			"date_added": 1481300299
 		}
 	],
 	"post_like": {
@@ -1104,6 +1134,270 @@
 			"body": "@Areyouok: 已加入个人简介，谢谢！",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481005078",
 			"date_added": 1481005968
+		},
+		{
+			"comment_id": 154,
+			"body": "@weakish: 昨天突然发现 obfs4 可以直连并且速度很快，今天速度就不行了。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480952112",
+			"date_added": 1481016735
+		},
+		{
+			"comment_id": 155,
+			"body": "@老哥: See: https://raw.githubusercontent.com/l5h5t7/ZeroNet/master/tools/tor/manual_install-zh-cn.txt\nIf you make Tor work, Tor Hidden Service will start automatically.",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481018904",
+			"date_added": 1481022658
+		},
+		{
+			"comment_id": 156,
+			"body": "炒菜？如何实现的？我记得微波炉开门后自动停止运行啊！",
+			"post_uri": "144GQ5Uz9dYQJ1MwjSFWWboLgHwdGpv21x_1481026850",
+			"date_added": 1481027404
+		},
+		{
+			"comment_id": 157,
+			"body": "@小红帽的哥哥: 是是是。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481036576",
+			"date_added": 1481036619
+		},
+		{
+			"comment_id": 158,
+			"body": "@梦里乾坤大: 浏览器的缩放功能。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481036576",
+			"date_added": 1481037392
+		},
+		{
+			"comment_id": 159,
+			"body": "@Linkerlin: 主要成分也是谷氨酸钠，又放了其他调味的东西。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481005078",
+			"date_added": 1481038039
+		},
+		{
+			"comment_id": 160,
+			"body": "@Linkerlin: 具体说说？我不太明白。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1480999911",
+			"date_added": 1481040560
+		},
+		{
+			"comment_id": 162,
+			"body": "@Nekocross: nofish 暂时的意思是让用 ipfs ，ZeroNet 上的 Tor 节点太多，对大文件并不友好。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481036576",
+			"date_added": 1481084134
+		},
+		{
+			"comment_id": 163,
+			"body": "@KhA: 长期不使用，目前已关注你。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481005078",
+			"date_added": 1481096249
+		},
+		{
+			"comment_id": 164,
+			"body": "@Nekocross: 很早以前就有办法让 Flash 走 Tor 了，不过 Flash 近年爆出的安全漏洞是比较多。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481036576",
+			"date_added": 1481108452
+		},
+		{
+			"comment_id": 165,
+			"body": "@Mahoupao: 只保存里面的 master_seed 即可，如果有站点私钥，也要保存。",
+			"post_uri": "1CmUmoAfG7UdLBNtELeWG8dffHV6rYBy7A_1481118036",
+			"date_added": 1481119702
+		},
+		{
+			"comment_id": 166,
+			"body": "@Arkimedes: Yes, I can see the name in the ZeroMail.",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1480340164",
+			"date_added": 1481247627
+		},
+		{
+			"comment_id": 167,
+			"body": "@Ysc3839: 你发的这个，依然只到 3.9.7 的源码，而我问的是 FDM5 ，看起来是没开源。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481215286",
+			"date_added": 1481269503
+		},
+		{
+			"comment_id": 168,
+			"body": "@Linkerlin: 如果是开源的，我还是可以相信的（我想太多了，多数专用客户端就是为了干点偷偷摸摸的事的，怎么可能开源？）。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481300353",
+			"date_added": 1481303778
+		},
+		{
+			"comment_id": 169,
+			"body": "@Linkerlin: 我在电信和移动网络中也观察到了这个现象。\n另外，关于 HTTP 劫持，我提了个 Issue ：https://github.com/HelloZeroNet/zeronet.io/issues/13",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481300353",
+			"date_added": 1481305591
+		},
+		{
+			"comment_id": 170,
+			"body": "我要去围观一下。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481353655
+		},
+		{
+			"comment_id": 171,
+			"body": "@P2P: 其他语言（除英语）的使用者本来就少，活跃度也低……",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481356529
+		},
+		{
+			"comment_id": 172,
+			"body": "@Generate: 给个提示也比强制跳转好，太暴力了。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481359234
+		},
+		{
+			"comment_id": 173,
+			"body": "@Generate: 反对强制跳转，我的建议是允许在 ZeroHello 上加入每个语言的个性化内容。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481366963
+		},
+		{
+			"comment_id": 174,
+			"body": "@P2P: 你说是搞成根据地区自适应呢？还是干脆 fork 一个首页？",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481375866
+		},
+		{
+			"comment_id": 175,
+			"body": "@Generate: 我是强烈不建议强制跳转的，就像我去访问 mozilla.org 确被强制跳回中国版的尴尬。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481376200
+		},
+		{
+			"comment_id": 176,
+			"body": "@P2P: 还有能不能把 Tor 折腾一下搞成自动配置啊？",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481376354
+		},
+		{
+			"comment_id": 177,
+			"body": "@P2P: 检测到中国地区就自动开 meek 网桥啊！",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481376449
+		},
+		{
+			"comment_id": 178,
+			"body": "@Winarm: 至少很多人想用的应该在 GUI 里能配置本地代理吧！毕竟编辑 torrc 配置不方便。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481376552
+		},
+		{
+			"comment_id": 179,
+			"body": "@P2P: 编程随想也折腾过。目前的很多人还以为 CONNECTED 就是连上了呢……",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481376620
+		},
+		{
+			"comment_id": 180,
+			"body": "@Linkerlin: 一种兴趣的人加一个 Hub 啊！",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481376746
+		},
+		{
+			"comment_id": 181,
+			"body": "@Winarm: 根据 GreatFire 的文件，meek 除了速度慢，稳定性还是很靠谱的。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481376788
+		},
+		{
+			"comment_id": 182,
+			"body": "@Winarm: 以后搞成 GFW Hub （翻墙讨论）、Shota Hub （正太交流讨论）、P2P Hub （P2P 讨论）什么的。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481376878
+		},
+		{
+			"comment_id": 183,
+			"body": "@Generate: 我这里比较奇怪，有时候连续发两条也不需要等 30s ，有时候说好的等 30s 结果提前发出去了。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481376935
+		},
+		{
+			"comment_id": 184,
+			"body": "@Linkerlin: ZeroNet 有一个目标是离线浏览，拉取什么都要在线就违背这个目标了。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481377002
+		},
+		{
+			"comment_id": 185,
+			"body": "我更倾向于每个 peer 优先下载自己关注的内容，其他内容只存储最新的。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481377161
+		},
+		{
+			"comment_id": 186,
+			"body": "@P2P: 那这种情况搞一个 BoardCast 提醒下载好了。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481353639",
+			"date_added": 1481377292
+		},
+		{
+			"comment_id": 187,
+			"body": "一人一个轻量级 Hub ？",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481377586
+		},
+		{
+			"comment_id": 188,
+			"body": "@Generate: 虽然 ZeroNet 使用的是 SQLite ，但是它可以认为是 NoSQL 。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481377906
+		},
+		{
+			"comment_id": 189,
+			"body": "@Generate: 事实就是我们根本没必要去下载不关注的人的内容，就像我们根本没必要给我们从来不访问的站点做种一样。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481378004
+		},
+		{
+			"comment_id": 190,
+			"body": "@Generate: 图书馆就分布式存储，不过要有一个协调机制。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481378090
+		},
+		{
+			"comment_id": 191,
+			"body": "@P2P: 应该文件键值中就包含一部分路径信息，使得能快速找到存在文件的节点。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481378172
+		},
+		{
+			"comment_id": 192,
+			"body": "@Generate: 所以有一个问题，各大网站也面临的数据存量越来越多的问题，它们是怎么解决的呢？",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481378277
+		},
+		{
+			"comment_id": 193,
+			"body": "@P2P: 用户既想少占硬盘空间，又想离线浏览大量数据，必定是做不到的。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481378417
+		},
+		{
+			"comment_id": 194,
+			"body": "@P2P: @Generate: 用户最多能做到可以选择离线时能看什么数据。比如维基百科那样的站点，虽然数据总量很大，如果用户可以选择下载哪个分类，要不要下载图片，要不要下载历史编辑，这基本是做到的最大范围了。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481378633
+		},
+		{
+			"comment_id": 195,
+			"body": "@cnwfjsw: Freenet 就是自动丢弃没人看的内容的，但是 ZeroNet 希望用户决定做种什么。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481378746
+		},
+		{
+			"comment_id": 196,
+			"body": "@P2P: @Generate: 我们来想想离线浏览在什么情况下有优势吧！比如如果我们未来用在手机上，那么可以节约流量使用（这时候实际还是可以加载一部分信息的，就是浪费点流量）；还有如果比如航海等情况下卫星通讯相当昂贵；基础设施落后的地区；政府短时间切断网络。\n其实部分“离线浏览”还是允许收发少量内容的，这时候只要把经常访问的内容下载下来即可。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481378986
+		},
+		{
+			"comment_id": 197,
+			"body": "@Generate: 如果增长速度不快的话，是可以随着存储设备的更新而稀释的。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438",
+			"date_added": 1481379191
+		},
+		{
+			"comment_id": 198,
+			"body": "See: http://127.0.0.1:43110/bwoi.bit/psa.html\n> Abuse of the keywords tag will result in either your site being marked as untrusted or taken down completely depending on the severity of the offence; \n> you will be able to report zites with falsified tags to me when this service goes live on 10/12/2016 (12/10/2016 for the US).",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1481435226",
+			"date_added": 1481435677
 		}
 	],
 	"follow": [
@@ -2562,6 +2856,90 @@
 			"auth_address": "1EpY11syeaKbwRSNqv9tU1ZxoU1moJA9Bp",
 			"user_name": "Loligod",
 			"date_added": 1481006710
+		},
+		{
+			"follow_id": 213,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "15Yo2Rq8VT64S1SfAiFyYDBdt1KsfCmRqH",
+			"user_name": "Ivan",
+			"date_added": 1481034527
+		},
+		{
+			"follow_id": 214,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1K6HCsJskZENYG42GR7ocJXg9WjFbEq9hc",
+			"user_name": "Rapapobre",
+			"date_added": 1481092535
+		},
+		{
+			"follow_id": 215,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "13ak56mPXaCQC7oXYz8YWKfnkU1rRhnXuB",
+			"user_name": "Zeromux",
+			"date_added": 1481092968
+		},
+		{
+			"follow_id": 216,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb",
+			"user_name": "火犬",
+			"date_added": 1481191035
+		},
+		{
+			"follow_id": 217,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb",
+			"user_name": "火犬",
+			"date_added": 1481191162
+		},
+		{
+			"follow_id": 218,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "13t4MG77faypJBpk5CdKjDMqkyLoFF3P5b",
+			"user_name": "Linus_L",
+			"date_added": 1481208442
+		},
+		{
+			"follow_id": 219,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "15TMCGSiwvvrDjuvU2arnpsyC19BHnj8k7",
+			"user_name": "Fargo",
+			"date_added": 1481294642
+		},
+		{
+			"follow_id": 220,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1Q7UWk3im88kJkzmhzfD5q44rQDXLatxYq",
+			"user_name": "Mosen",
+			"date_added": 1481294696
+		},
+		{
+			"follow_id": 221,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1Q7UWk3im88kJkzmhzfD5q44rQDXLatxYq",
+			"user_name": "Mosen",
+			"date_added": 1481294806
+		},
+		{
+			"follow_id": 222,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "15TMCGSiwvvrDjuvU2arnpsyC19BHnj8k7",
+			"user_name": "Fargo",
+			"date_added": 1481294808
+		},
+		{
+			"follow_id": 223,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1464JyTpSgPeWwiM2rJAXnSJ2NzTLjbw27",
+			"user_name": "Dullskull",
+			"date_added": 1481360355
+		},
+		{
+			"follow_id": 224,
+			"hub": "1LQeBa8AgXPd9YXyfTGm9FbcJZTM4p1vgY",
+			"auth_address": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka",
+			"user_name": "Kha",
+			"date_added": 1481454447
 		}
 	],
 	"settings": {
@@ -2583,6 +2961,10 @@
 		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_66": 1479206984,
 		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_153": 1479518400,
 		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_154": 1479519013,
-		"1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_12": 1479564825
+		"1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_12": 1479564825,
+		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_87": 1481016825,
+		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_89": 1481198436,
+		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_264": 1481376300,
+		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_279": 1481387717
 	}
 }

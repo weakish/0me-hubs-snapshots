@@ -5,12 +5,12 @@
  "cert_user_id": "sirenyc@zeroid.bit",
  "files": {
   "avatar.jpg": {
-   "sha512": "0bd520006c1a21a13862788d8b739624e39b6ab7d7f352272bb562c6786cb74b",
-   "size": 1485
+   "sha512": "bf8bd0d155522e0f487e926fe7a942d4bb643efc4f3557327e3fa9a7aadb2f88",
+   "size": 1591
   },
   "data.json": {
-   "sha512": "1a452400c8ca5571b2f368e7b6d88986eec056cbdf9680b37add96c42a63dce7",
-   "size": 75659
+   "sha512": "8b170178df12f3d26b5c0c89ca3df2ad341749f360bf0dd78376b65c47c2b158",
+   "size": 69846
   }
  },
  "files_optional": {
@@ -18,19 +18,15 @@
    "sha512": "aa4d11554f2bd08677c81ac05a076eb4d0f4f2f8bc1b34aa5c146f0eecabaaa7",
    "size": 35516
   },
-  "1480983693.jpg": {
+  "1481390804.jpg": {
    "sha512": "b83e81b516afb7c62eee9b51404bf10628009beb5816d4bb9c8c06e232a47eea",
    "size": 15973
-  },
-  "1480999674.jpg": {
-   "sha512": "18045c16f975f4ceb3a5d607f38758b36916fead3a02747f8fccb7ccc5f1417a",
-   "size": 58070
   }
  },
  "inner_path": "data/users/19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ/content.json",
- "modified": 1481007517.52,
+ "modified": 1481425821.432,
  "optional": "(?!avatar).*jpg",
  "signs": {
-  "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": "G7t3qZtET3Mg9degl9gBLUDVV02LVhK/zf814zn0GJ4jn+R3cj3VrcGDQPacsweiacad+fTE5lUVtOupq1K7sC8="
+  "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": "HF3m8Qxzkn+RQbFvZpGfzF2kaaXTEFzWQrpA5uC/69iNsg44Q6YmaUe+FD1vu30V2E62++gdQrLZbINWDkFUs1I="
  }
 }

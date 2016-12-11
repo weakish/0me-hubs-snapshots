@@ -1,7 +1,7 @@
 {
-	"next_post_id": 117,
-	"next_comment_id": 371,
-	"next_follow_id": 62,
+	"next_post_id": 130,
+	"next_comment_id": 399,
+	"next_follow_id": 64,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -584,13 +584,80 @@
 			"post_id": 1480909926,
 			"body": "听说移动的墙中墙有两套机制，一个是由一群奴性十足的中年妇女组成的“移动妈妈团”，遇到色情、反动甚至不太符合主流价值观的网站就封。另一套是一个AI，发现某个国外网站被个人用户频繁访问，又不在白名单上，就自动给封了。",
 			"date_added": 1480909810
+		},
+		{
+			"post_id": 1481089509,
+			"body": "最需要部署在zeronet上的网站估计就是archive.org了吧，挺适合的",
+			"date_added": 1481089392
+		},
+		{
+			"post_id": 1481162723,
+			"body": "怡红院有350个节点了，比gfwtalk还多？",
+			"date_added": 1481162605
+		},
+		{
+			"post_id": 1481165947,
+			"body": "Gnuroot提供的tor版本太低(0.2.5.12)，zeronet至少要0.2.7，~~所以暂时没办法在手机上部署zeronet能用的tor，~~\n换源就行了，现在已经跑起来了",
+			"date_added": 1481165828
+		},
+		{
+			"post_id": 1481171804,
+			"body": "啦啦啦，tor跑起来了",
+			"date_added": 1481171684,
+			"meta": "{\"img\":\"394,700,eee444999334233fff223899ddeddd,000000112000342005142505367555332555342555362505342000890000\"}"
+		},
+		{
+			"post_id": 1481208261,
+			"body": "哪天写个在gnuroot上部署tor的教程吧",
+			"date_added": 1481208140
+		},
+		{
+			"post_id": 1481265289,
+			"body": "我要不要自己开个博客呢",
+			"date_added": 1481265167
+		},
+		{
+			"post_id": 1481269750,
+			"body": "1.添加源 \n`/etc/apt/sources.list`中添加 \n`deb https://deb.torproject.org/torproject.org jessie main` \n输入`apt show tor`，看看是不是2.8版本的，是就说明这一步成功了 \n2.梯子打开全局，输入apt update  \n3.输入`apt install tor `安装tor  \n4.将`etc/tor/torrc`改为以下内容(务必备份，因为我这个不太好)  \n>DataDirectory /home/tor\n>DirReqStatistics 0\n>GeoIPFile geoip\\geoip \n>GeoIPv6File geoip\\geoip6 \n>ControlPort 49051 \n>SOCKSPort 49050 \n>CookieAuthentication 1 \n>Socks5Proxy 127.0.0.1:你梯子的端口 \n5.编辑zeronet下的zeronet.conf,添加 \n>tor_proxy = 127.0.0.1:49050 \n>tor_controller = 127.0.0.1:49051 \n6.连接梯子，全局关了，启动tor \n7.等到100%，启动zeronet ",
+			"date_added": 1481269627
+		},
+		{
+			"post_id": 1481345797,
+			"body": "昨天zeronet崩溃了一次，似乎是某个站点content.json解析出了问题。删除网站目录和zeronet/data/conetent.db后重建数据库恢复正常",
+			"date_added": 1481345673
+		},
+		{
+			"post_id": 1481346049,
+			"body": "tracker1.wasabii.com.tw已经被墙，我说国内节点怎么这么少",
+			"date_added": 1481345924
+		},
+		{
+			"post_id": 1481365241,
+			"body": "~~一直有个问题，用户目录下的content.json的内容是由js决定的还是由data/users/content.json决定的？~~\n经过试验发现用户目录下的content.json是js写的",
+			"date_added": 1481365115
+		},
+		{
+			"post_id": 1481370704,
+			"body": "即使没有打开端口，开启tor后，连接性也是完全可以接受的",
+			"date_added": 1481370577
+		},
+		{
+			"post_id": 1481427292,
+			"body": "成功通过zeronet内部升级！一切运行正常",
+			"date_added": 1481427164
+		},
+		{
+			"post_id": 1481434522,
+			"body": "官媒是如此定义“暗网”的：凡是百度搜不到的，通通都是暗网。我想起前几年有些企业网站拒绝使用竞价排名被百度恶意屏蔽的新闻，这些网站：我一个公司官网，怎么就成暗网了呢？",
+			"date_added": 1481434393
 		}
 	],
 	"post_like": {
 		"1KRXEX6oD4HH4xwybvxnTBPW4DQm2HPdgj_1477324078": 1477327724,
 		"1JV3Fhq8uJZuJ3QAYAj1GAgX8s4u8D72Qi_1477120664": 1477400397,
 		"1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478437665": 1478439124,
-		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478960018": 1478961272
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478960018": 1478961272,
+		"1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1480995948": 1481009944
 	},
 	"comment": [
 		{
@@ -2812,6 +2879,174 @@
 			"body": "freenet最大的问题是用户无法选择为哪些内容做种",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1480984062",
 			"date_added": 1480991283
+		},
+		{
+			"comment_id": 371,
+			"body": "@Generate: zerome可以很简单地删除图片",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1480984062",
+			"date_added": 1480995191
+		},
+		{
+			"comment_id": 372,
+			"body": "@weakish: 分为几个merger site呗，并且也不是所有网站都要搬过来",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481089509",
+			"date_added": 1481108206
+		},
+		{
+			"comment_id": 373,
+			"body": "@Generate: 是一种方案",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481089509",
+			"date_added": 1481108454
+		},
+		{
+			"comment_id": 374,
+			"body": "比如我在这里骂一句政府操你妈，百度操你妈，新浪操你妈。并不会有人来查我水表。但是如果发在明网就会被删。所以对于多数人来说匿名并不是那么重要，能自由发言并且易用才是刚需",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1480913259",
+			"date_added": 1481113513
+		},
+		{
+			"comment_id": 375,
+			"body": "@Linkerlin: 要不我们把这些东西搬进zeronet或者freenet吧，免得哪天被和谐",
+			"post_uri": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7_1480913259",
+			"date_added": 1481117597
+		},
+		{
+			"comment_id": 376,
+			"body": "@Lmath: 换了tor官网的源后就有0.2.8了",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481165947",
+			"date_added": 1481171985
+		},
+		{
+			"comment_id": 377,
+			"body": "@Lmath: 我没开端口也没tor的时候只有350",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481162723",
+			"date_added": 1481173553
+		},
+		{
+			"comment_id": 378,
+			"body": "通了之后节点会变多",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481159403",
+			"date_added": 1481173584
+		},
+		{
+			"comment_id": 379,
+			"body": "@Firedog: 作服务端的手机性能要求不高，客户端的手机只要本身不卡就行",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481171804",
+			"date_added": 1481183567
+		},
+		{
+			"comment_id": 380,
+			"body": "我记得水菜丽拍过不少，你可以去javfor.me搜一下（她也拍过很多超重口味的）",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481258959",
+			"date_added": 1481263156
+		},
+		{
+			"comment_id": 381,
+			"body": "排版居然乱了？",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481269750",
+			"date_added": 1481269795
+		},
+		{
+			"comment_id": 382,
+			"body": "@Generate: 我知道怎么回事了，`2.`后面多了个空格",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481269750",
+			"date_added": 1481277185
+		},
+		{
+			"comment_id": 383,
+			"body": "那个站点是1Gfey7wVXXg1rxk751TBTxLJwhddDNfcdp，Zeroboard",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481345797",
+			"date_added": 1481345731
+		},
+		{
+			"comment_id": 384,
+			"body": "ERR_CONNECTION_ABORTED",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481346049",
+			"date_added": 1481345942
+		},
+		{
+			"comment_id": 385,
+			"body": "@Lmath: 哦打错了",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481346049",
+			"date_added": 1481346432
+		},
+		{
+			"comment_id": 386,
+			"body": "@Lmath: 我测的就是tracker1.wasabii.com.tw",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481346049",
+			"date_added": 1481346860
+		},
+		{
+			"comment_id": 387,
+			"body": "@Lmath: 不是，我用国外的在线ping工具ping出来的也是这个地址",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481346049",
+			"date_added": 1481347218
+		},
+		{
+			"comment_id": 388,
+			"body": "@Lmath: 无论是ping还是traceroute，出来的结果都很正常，可就是无法连接。另一个奇怪的地方是wasabii.com.tw是个游戏网站，翻墙能打开，不翻墙打不开",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481346049",
+			"date_added": 1481347330
+		},
+		{
+			"comment_id": 389,
+			"body": "@Lmath: 我这里只开了tor，最高的时候有900+，昨天删了数据库现在有868",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481346049",
+			"date_added": 1481347537
+		},
+		{
+			"comment_id": 390,
+			"body": "~~docker是什么~~Docker 是一个开源的应用容器引擎，让开发者可以打包他们的应用以及依赖包到一个可移植的容器中，然后发布到任何流行的 Linux 机器上，也可以实现虚拟化。容器是完全使用沙箱机制，相互之间不会有任何接口。\n这么牛逼？以后可以轻松在国内的云服务上部署zeronet了",
+			"post_uri": "17AYUJE9dqiwbi1s5tokPxks5cSgQQs2o7_1481350122",
+			"date_added": 1481363648
+		},
+		{
+			"comment_id": 391,
+			"body": "挖~天依",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481361561",
+			"date_added": 1481364351
+		},
+		{
+			"comment_id": 392,
+			"body": "@Shadesong: 搭好了叫我一下",
+			"post_uri": "17AYUJE9dqiwbi1s5tokPxks5cSgQQs2o7_1481350122",
+			"date_added": 1481371530
+		},
+		{
+			"comment_id": 393,
+			"body": "@Shadesong: 拿ZeroTalk开黄网的好多，而且节点也超多。技术博客反而没几个人看",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481265289",
+			"date_added": 1481372058
+		},
+		{
+			"comment_id": 394,
+			"body": "用nginx开个https吧",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481416577",
+			"date_added": 1481424236
+		},
+		{
+			"comment_id": 395,
+			"body": "@Lmath: 我的tor不在zeronet文件夹里面，torrc在etc/tor里，覆盖不掉",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481427292",
+			"date_added": 1481429174
+		},
+		{
+			"comment_id": 396,
+			"body": "@Generate: 已经看到了，简直6666666",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481432667",
+			"date_added": 1481435846
+		},
+		{
+			"comment_id": 397,
+			"body": "你好，你是新人吗",
+			"post_uri": "15gSU46SP1xQQzbzCJ9VkfshS5mYhcKaVu_1",
+			"date_added": 1481444840
+		},
+		{
+			"comment_id": 398,
+			"body": "SSR",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1481447733",
+			"date_added": 1481450175
 		}
 	],
 	"follow": [
@@ -3220,6 +3455,20 @@
 			"auth_address": "1BqTUcFDLtu5ZUvPEKkVXs9aPHcpLHyDuC",
 			"user_name": "Silencer",
 			"date_added": 1480563208
+		},
+		{
+			"follow_id": 62,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "16XhwuR6w5BURDK4bn3m3Fy9qXRmX24kDc",
+			"user_name": "Breakwa11",
+			"date_added": 1481269804
+		},
+		{
+			"follow_id": 63,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "18KhAfkwavAUrUQk67T4x6Gczq5hL5wE4Z",
+			"user_name": "Generate",
+			"date_added": 1481282872
 		}
 	],
 	"settings": {

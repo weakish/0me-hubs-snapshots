@@ -1,0 +1,32 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 3,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "Ero",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "新 ZeroNet 用户",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1481214141,
+			"body": "你好 ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "对虫有毒一定对人有毒？巧克力对猫狗有毒,人一样可以吃.桉树叶对考拉没毒,人吃了就会死.",
+			"post_uri": "1KUBcGBxautCfBVt91sQ3HSJUAYJb2ahYu_1481165451",
+			"date_added": 1481214230
+		},
+		{
+			"comment_id": 2,
+			"body": "@Generate: 猫和狗吃巧克力都会死,为什么人还吃巧克力？",
+			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1481267589",
+			"date_added": 1481286180
+		}
+	],
+	"follow": []
+}

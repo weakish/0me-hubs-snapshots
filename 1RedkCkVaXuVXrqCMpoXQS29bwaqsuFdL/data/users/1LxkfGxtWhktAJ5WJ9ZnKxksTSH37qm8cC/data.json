@@ -1,6 +1,6 @@
 {
-	"next_post_id": 66,
-	"next_comment_id": 51,
+	"next_post_id": 69,
+	"next_comment_id": 54,
 	"next_follow_id": 14,
 	"avatar": "generate",
 	"user_name": "Firebox",
@@ -169,7 +169,7 @@
 		},
 		{
 			"post_id": 1478128320,
-			"body": "**Issue \\#-2** ZeroMux for beginners\nLet's make a Dropbox for ZeroNet!\n\nCreate a link to download all necessary tools rather than telling people to find the site folder.\n- `[+]` Make the UI\n- `[+]` Write actual code\n- `[+]` Write a very simple tutorial on how to download Python.\n\nWrite a Python program to help people split files and configure ZeroMux without having to write a line of code.\n- `[+]` Command line options\n- `[ ]` Managing files and folders\n    - `[+]` Find files and folders\n    - `[+]` Add new file\n    - `[+]` Add new folder\n    - `[+]` Rename file / folder\n    - `[+]` Move file / folder\n    - `[+]` Delete file / folder\n    - `[ ]` \"Lost and Found\"\n    - `[+]` Front-end: Display files and folders\n    - `[+]` Front-end: Checkboxes\n    - `[+]` Front-end: Use the back-end to add new folder\n    - `[+]` Front-end: Use the back-end to rename files and folders\n    - `[ ]` Front-end: Use the back-end to delete files and folders\n    - `[ ]` Front-end for \"Lost and Found\"\n    - `[+]` Front-end: Use the back-end to move files and folders\n    - `[+]` Front-end: Make a UI for uploading new file\n\nCreate a permanent link for every big file.\n- `[+]` Files and folders are identified by random string IDs.\n- `[+]` Make a UI to parse permanent links and show their corresponding files.",
+			"body": "**Issue \\#-2** ZeroMux for beginners\nLet's make a Dropbox for ZeroNet!\n\nCreate a link to download all necessary tools rather than telling people to find the site folder.\n- `[+]` Make the UI\n- `[+]` Write actual code\n- `[+]` Write a very simple tutorial on how to download Python.\n\nWrite a Python program to help people split files and configure ZeroMux without having to write a line of code.\n- `[+]` Command line options\n- `[ ]` Managing files and folders\n    - `[+]` Find files and folders\n    - `[+]` Add new file\n    - `[+]` Add new folder\n    - `[+]` Rename file / folder\n    - `[+]` Move file / folder\n    - `[+]` Delete file / folder\n    - `[ ]` \"Lost and Found\"\n    - `[+]` Front-end: Display files and folders\n    - `[+]` Front-end: Checkboxes\n    - `[+]` Front-end: Use the back-end to add new folder\n    - `[+]` Front-end: Use the back-end to rename files and folders\n    - `[+]` Front-end: Use the back-end to delete files and folders\n    - `[ ]` Front-end for \"Lost and Found\" and importing files\n    - `[+]` Front-end: Use the back-end to move files and folders\n    - `[+]` Front-end: Make a UI for uploading new file\n\nCreate a permanent link for every big file.\n- `[+]` Files and folders are identified by random string IDs.\n- `[+]` Make a UI to parse permanent links and show their corresponding files.",
 			"date_added": 1478128286
 		},
 		{
@@ -318,6 +318,23 @@
 			"post_id": 1480982462,
 			"body": "`zeromux.bit` points to ZeroHello. Interesting fact.\n\n`15GAu5QYg34TLzD4b2WMpZSid9S2K6M54h`: 268 matches (Erkan)\n`Empty and malformed addresses`: 87 matches (What are they doing)\n`1HwwihAn2UNXF7XWm6ryRv1JkQzTFYSEej`: 26 matches (Erkan)\n`1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D`: 26 matches\n`13Lo9wpxbogHdaTQ9rGZruu9MJZnigzU3B`: 17 matches (Emoji Day)\n`1HHhAH6puMi37s7XzQ5d9yMBNcFEzy49SR`: 13 matches (ACBC.bit)\n`1HCM4s3rXyeco9A2WozrMnUMgk4HFh3F91`: 12 matches (redirects to Erkan's)\n`12mZD7GPDjmeBYcLtMTP1v6Lic4kzetmL5`: 11 matches (Erkan)\n` \t1CBPPmtUK4PUWzpVJbvmwz1txU8V4wUW9m`: 10 matches (RuZero)\n`1BLogC9LN4oPDcruNz3qo1ysa133E9AGg8`: 5 matches\n`1MeFqFfFFGQfa1J3gJyYYUvb5Lksczq7nH`: 4 matches\n",
 			"date_added": 1480982397
+		},
+		{
+			"post_id": 1481269974,
+			"date_added": 1481269908,
+			"meta": "{\"img\":\"900,600,fffeeeddecceccfeefddfbbf,0111111110020000000013445656501153747731110000000001000000000010110100\"}",
+			"body": "Choosing chunk size"
+		},
+		{
+			"post_id": 1481435226,
+			"body": "@bwoi:\nPlay **Untrusted site**\n1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp\ntorrent,films,movies,free,netflix\nPlay **Trusted site**\n1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp\nneed_tags,missing_tags,zero\n\nPlay, Untrusted?",
+			"date_added": 1481435159
+		},
+		{
+			"post_id": 1481437443,
+			"body": "Let's count peers. [Blog post](/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/?Post:7:Peers+over+Time)",
+			"date_added": 1481437375,
+			"meta": "{\"img\":\"900,675,fffeeeeefddd,00001000000000000000010000000000000000000000000000010000000000002200000133333311\"}"
 		}
 	],
 	"post_like": {
@@ -325,7 +342,8 @@
 		"12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu_1479068328": 1479071443,
 		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1479254170": 1479266232,
 		"1KN1Au7SRmeTmffcxxoyPABDpvqmq7iMbN_1480026407": 1480039374,
-		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1480308738": 1480313722
+		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1480308738": 1480313722,
+		"16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7_1481048308": 1481050541
 	},
 	"comment": [
 		{
@@ -627,6 +645,24 @@
 			"body": "@0fractal: I heard Windows 10 modifies UEFI entries and makes it always boot first, ignoring GRUB. Did you make changes on your UEFI before installing ubuntu?",
 			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1480648650",
 			"date_added": 1480661009
+		},
+		{
+			"comment_id": 51,
+			"body": "@火犬: You may want to do: `zeronet.py siteSign 1YouRsiTE --inner_path books/2014/content.json`",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1481269974",
+			"date_added": 1481313318
+		},
+		{
+			"comment_id": 52,
+			"body": "@Greatsick: Matplotlib, I guess",
+			"post_uri": "16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7_1481048308",
+			"date_added": 1481313761
+		},
+		{
+			"comment_id": 53,
+			"body": "@Greatsick: `fig.savefig('graph.png')`",
+			"post_uri": "16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7_1481048308",
+			"date_added": 1481343942
 		}
 	],
 	"follow": [

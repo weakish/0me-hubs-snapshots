@@ -1,10 +1,11 @@
 {
-	"next_comment_id": 20,
+	"next_comment_id": 21,
 	"user_name": "Firebox",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
 		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475393382": 1475427712,
-		"13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1476814314": 1476912820
+		"13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1476814314": 1476912820,
+		"1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1481307296": 1481313386
 	},
 	"comment": [
 		{
@@ -120,6 +121,12 @@
 			"body": "http://127.0.0.1:43110/1AMh6MG4K59ki1dPXX1PrgzeeqkMmZ1YKm/\nmake sure to check integrity",
 			"post_uri": "18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6_1480208470",
 			"date_added": 1480212930
+		},
+		{
+			"comment_id": 20,
+			"body": "Do you run a ZeroNet gateway?",
+			"post_uri": "1BsBRAymoTQ5qbXBLeGj3EFVkZz98kCbfh_1",
+			"date_added": 1481435185
 		}
 	]
 }
