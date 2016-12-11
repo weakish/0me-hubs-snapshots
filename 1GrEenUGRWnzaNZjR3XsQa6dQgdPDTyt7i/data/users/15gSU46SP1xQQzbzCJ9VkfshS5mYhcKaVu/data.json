@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_comment_id": 3,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Gamezen",
@@ -14,6 +14,19 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@猫叉酱: 是呀。还以为这里没人呢",
+			"post_uri": "15gSU46SP1xQQzbzCJ9VkfshS5mYhcKaVu_1",
+			"date_added": 1481461505
+		},
+		{
+			"comment_id": 2,
+			"body": "我都不知道自己什么时候说的这句话。可能是自动的吧",
+			"post_uri": "15gSU46SP1xQQzbzCJ9VkfshS5mYhcKaVu_1",
+			"date_added": 1481461548
+		}
+	],
 	"follow": []
 }
