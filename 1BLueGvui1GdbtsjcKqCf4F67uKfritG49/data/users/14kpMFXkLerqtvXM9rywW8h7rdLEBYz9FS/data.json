@@ -1,7 +1,7 @@
 {
 	"next_post_id": 3,
 	"next_comment_id": 1,
-	"next_follow_id": 2,
+	"next_follow_id": 3,
 	"avatar": "png",
 	"user_name": "Something",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -28,6 +28,13 @@
 			"auth_address": "18kDuSDb2D5QTtabXj6Ert7dTvnUA3FSHN",
 			"user_name": "Mydf",
 			"date_added": 1479619000
+		},
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ",
+			"user_name": "P2P",
+			"date_added": 1481523762
 		}
 	]
 }

@@ -1,7 +1,7 @@
 {
-	"next_post_id": 6,
-	"next_comment_id": 13,
-	"next_follow_id": 16,
+	"next_post_id": 7,
+	"next_comment_id": 15,
+	"next_follow_id": 17,
 	"avatar": "jpg",
 	"user_name": "Shift",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -32,6 +32,12 @@
 			"post_id": 1479992327,
 			"body": "Знаете что тут еще не хватает, что бы я был счастлив - сообществ или хабов что бы объдинять тематические посты, это же замена d3/reddit будет!",
 			"date_added": 1479992322
+		},
+		{
+			"post_id": 1481048308,
+			"body": "ZeroNet Stats: ",
+			"date_added": 1481048302,
+			"meta": "{\"img\":\"900,675,fffeeedddeedccbddcbb9cbaddfbbeeef,01211213100111121110045667674108122923110AA888A880010000000001111133300113313110\"}"
 		}
 	],
 	"post_like": {
@@ -44,7 +50,8 @@
 		"17eKk6mdR7bth2Fi8f74P5JV8AfHsERT4F_1475500626": 1475603805,
 		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1478620854": 1479410260,
 		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479666435": 1479983042,
-		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310": 1479983279
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1479506310": 1479983279,
+		"16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7_1481048308": 1481096057
 	},
 	"comment": [
 		{
@@ -118,6 +125,18 @@
 			"body": "@Gaslimit: ну а в чем проблема? профили через общий zerome  будут джоинится в один",
 			"post_uri": "16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7_1479992327",
 			"date_added": 1480362470
+		},
+		{
+			"comment_id": 13,
+			"body": "@Greatsick: it is peers, next time i make better image...",
+			"post_uri": "16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7_1481048308",
+			"date_added": 1481096053
+		},
+		{
+			"comment_id": 14,
+			"body": "@Greatsick: parse http:/127.0.0.1:43110/Stats",
+			"post_uri": "16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7_1481048308",
+			"date_added": 1481272059
 		}
 	],
 	"follow": [
@@ -218,6 +237,13 @@
 			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
 			"user_name": "Balancer73",
 			"date_added": 1480356621
+		},
+		{
+			"follow_id": 16,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC",
+			"user_name": "Firebox",
+			"date_added": 1481525770
 		}
 	]
 }
