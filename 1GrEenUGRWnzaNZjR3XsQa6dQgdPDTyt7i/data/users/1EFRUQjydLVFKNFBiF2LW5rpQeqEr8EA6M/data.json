@@ -1,6 +1,6 @@
 {
 	"next_post_id": 93,
-	"next_comment_id": 234,
+	"next_comment_id": 235,
 	"next_follow_id": 144,
 	"avatar": "jpg",
 	"user_name": "Rainlime",
@@ -1854,6 +1854,12 @@
 			"body": "試試加上 --debug 參數\n比如我的 `rainlime@Nexus ~/Z/ZeroNet> ../Python/python ./zeronet.py --debug`",
 			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481527750",
 			"date_added": 1481541868
+		},
+		{
+			"comment_id": 234,
+			"body": "@Lmath: 但裏面有提到 `Auto reload of some source files (UiRequest, UiWebsocket, FileRequest) on modification to prevent restarting (Requires PyFilesystem on GNU/Linux)`",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481527750",
+			"date_added": 1481544406
 		}
 	],
 	"follow": [
