@@ -1,6 +1,6 @@
 {
 	"next_post_id": 39,
-	"next_comment_id": 194,
+	"next_comment_id": 196,
 	"next_follow_id": 183,
 	"avatar": "jpg",
 	"user_name": "莱文倩",
@@ -1334,6 +1334,18 @@
 			"body": "@猫叉酱: magnet:?xt=urn:btih:c553ef7dc0c8a32d12fe289a7004cda6a45be7ea magnet:?xt=urn:btih:8adf5c317da22036e4eddeaa273623b553798682",
 			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481258959",
 			"date_added": 1481263595
+		},
+		{
+			"comment_id": 194,
+			"body": "@Lmath: 不是缓存的问题呀，ZN兴许是有什么特别的机制，从前置界面显现的内容与实际的文件内容都不一样。",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481527750",
+			"date_added": 1481530520
+		},
+		{
+			"comment_id": 195,
+			"body": "@Lmath: 不行哒，源文档是<script type=\"text/javascript\" src=\"js/all.js\" async></script>\n<script type=\"text/javascript\" src=\"js/tag.js\" async></script>\n</body>\n</html>在前置页面查看就变成了<script type=\"text/javascript\" src=\"/uimedia/all.js?rev=1754&lang=zh\"></script>\n\n</body>\n</html>",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481527750",
+			"date_added": 1481531459
 		}
 	],
 	"follow": [

@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 250,
+	"next_comment_id": 297,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -15,7 +15,9 @@
 		"18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1480326279": 1480327722,
 		"18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2_1480298883": 1480327915,
 		"16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T_1477211895": 1480863140,
-		"1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1480962558": 1480962629
+		"1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1480962558": 1480962629,
+		"1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481209994": 1481211375,
+		"12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1481267589": 1481268659
 	},
 	"comment": [
 		{
@@ -1499,6 +1501,288 @@
 			"body": "配置前置代理或者网桥了么？",
 			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481009114",
 			"date_added": 1481011416
+		},
+		{
+			"comment_id": 250,
+			"body": "被动模式：端口没有开放\n不显示 IP ：我去看一下源码再说",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1481030335",
+			"date_added": 1481032138
+		},
+		{
+			"comment_id": 251,
+			"body": "@zero: 源码看过了，貌似是去 http://www.canyouseeme.org/ 检测的 IP ，然后检测的时候由于未知原因挂了，你访问这个网站看看！",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1481030335",
+			"date_added": 1481034012
+		},
+		{
+			"comment_id": 252,
+			"body": "@zero: 不是能打开，你看看是不是正常显示 IP ，如果正常显示 IP 的话，在 ZeroHello 上重新检查端口打开状态，然后再看看 IP 有没有正常显示。\n另外，被动模式是我提交的翻译文件，听起来貌似比较容易误解。你有没有好的想法，翻译成什么好？",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1481030335",
+			"date_added": 1481034939
+		},
+		{
+			"comment_id": 253,
+			"body": "@zero: `活跃` `激活` 貌似也不合适，关键是要表达开放端口的意思。",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1481030335",
+			"date_added": 1481035585
+		},
+		{
+			"comment_id": 254,
+			"body": "没翻译过来是事实，没有这个功能我要测试下。",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1481038514",
+			"date_added": 1481039303
+		},
+		{
+			"comment_id": 255,
+			"body": "@Linkerlin: 说明你这里有运营商（企业/学校）级 NAT 。",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1481030335",
+			"date_added": 1481039947
+		},
+		{
+			"comment_id": 256,
+			"body": "@zero: @Linkerlin: 检测长度大于 5000 就显示 Read more",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1481038514",
+			"date_added": 1481040335
+		},
+		{
+			"comment_id": 257,
+			"body": "我只是为了感受一下长度才发的。",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1481040880",
+			"date_added": 1481040942
+		},
+		{
+			"comment_id": 258,
+			"body": "@zero: 看似是主帖 3000 评论 5000 。",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1481038514",
+			"date_added": 1481040980
+		},
+		{
+			"comment_id": 259,
+			"body": "@zero: \n用于渲染帖子的脚本：https://github.com/HelloZeroNet/ZeroMe/blob/5f4e936a074f6452e936dba9df629aae1c3d25f5/js/Post.coffee\n超出长度后的样式：https://github.com/HelloZeroNet/ZeroMe/blob/5f4e936a074f6452e936dba9df629aae1c3d25f5/css/Maxheight.css",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1481038514",
+			"date_added": 1481041185
+		},
+		{
+			"comment_id": 260,
+			"body": "@zero: `all.css` 是最终合并后的文件。",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1481038514",
+			"date_added": 1481041499
+		},
+		{
+			"comment_id": 261,
+			"body": "@zero: 有几个问题，就是英文几千个字符也不是显得很长，但是中文就显得很长了。还有就是如果频繁换行，也会造成高度增加（比如像我刚才那样两个字一行的情况）。\n所以怎么搞？要么每个帖子加载后都检测一遍高度，要么检测到中文（我并不知道如何判断）就降低阈值，并且在遇到换行符号时降低阈值。",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1481038514",
+			"date_added": 1481041658
+		},
+		{
+			"comment_id": 262,
+			"body": "@zero: 不科学！刚才测试一万字都没被折叠。",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1481038514",
+			"date_added": 1481042381
+		},
+		{
+			"comment_id": 263,
+			"body": "@Linkerlin: 好吧！我错了！实际上是自己的帖子永远不会被折叠。",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1481038514",
+			"date_added": 1481042633
+		},
+		{
+			"comment_id": 264,
+			"body": "@西木野真姬: 看起来是假象，我这里也有这种情况。",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481009114",
+			"date_added": 1481103250
+		},
+		{
+			"comment_id": 265,
+			"body": "是不是没有包含把原有的 zero:// 的 Tracker ？里面的 tracker 参数并不是附加 Tracker ，而是覆盖。",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481106086",
+			"date_added": 1481106885
+		},
+		{
+			"comment_id": 266,
+			"body": "@西木野真姬: 要有许多人添加 Tracker 才有意义，才几个人添加就是自嗨。",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481106086",
+			"date_added": 1481107713
+		},
+		{
+			"comment_id": 267,
+			"body": "点 ZeroHello 上的更新按钮就行，没必要手工复制。如果以后想继续在 GitHub 上更新，可以用 update.py 。",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1481107555",
+			"date_added": 1481107886
+		},
+		{
+			"comment_id": 268,
+			"body": "@Apuar: 还有一个方案，我们再搞一个 ZeroUpdate - Fast （从哪个站点更新是可以配置的）。",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1481107555",
+			"date_added": 1481111602
+		},
+		{
+			"comment_id": 269,
+			"body": "@zero: 如果 ZeroUpdate 由一个公开受信任的人来搞，是可以接受的（正如有人搞 ZeroMePlus 有很多人用一样，其实授权给了它就可以在很大程度上破坏你的 ZeroMe 数据）。而且我们本身就可以自行检查站点中的内容。",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1481107555",
+			"date_added": 1481115267
+		},
+		{
+			"comment_id": 270,
+			"body": "@Linkerlin: 可以与官方源码对比，而且你还可以自己看源码细节。",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1481107555",
+			"date_added": 1481116470
+		},
+		{
+			"comment_id": 271,
+			"body": "@Alien: 所以你加了哪些 Tracker ？",
+			"post_uri": "17wD81Tgg4Tr1heE3b35rNfrXYwhnJRsP5_1481117057",
+			"date_added": 1481117248
+		},
+		{
+			"comment_id": 272,
+			"body": "@zero: 你听谁说的？搞个微信支付看起来容易，到时候微信号被你懂的原因被封了……",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1481107555",
+			"date_added": 1481119900
+		},
+		{
+			"comment_id": 273,
+			"body": "@zero: 参考 Lantern 使用第三方收款机构如何？",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1481107555",
+			"date_added": 1481120706
+		},
+		{
+			"comment_id": 274,
+			"body": "@zero: 大陆和台湾目前使用的都是 UTC + 8:00 。",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1481120929",
+			"date_added": 1481123108
+		},
+		{
+			"comment_id": 275,
+			"body": "看了这个锯齿字体，不得不安利一波思源黑体和 MacType 。",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1481121967",
+			"date_added": 1481123254
+		},
+		{
+			"comment_id": 276,
+			"body": "@weakish: 实际上，许多人想用比特币还要研究一番。",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1481107555",
+			"date_added": 1481198899
+		},
+		{
+			"comment_id": 277,
+			"body": "@weakish: 话说我想买点 NameCoin 玩……或者现在 NameCoin 挖矿难度大不？",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1481107555",
+			"date_added": 1481199706
+		},
+		{
+			"comment_id": 278,
+			"body": "发生了什么？",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481201001",
+			"date_added": 1481202147
+		},
+		{
+			"comment_id": 279,
+			"body": "@西木野真姬:所以你备份了没？",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481201001",
+			"date_added": 1481204193
+		},
+		{
+			"comment_id": 280,
+			"body": "怎么做到的？发出来让大家参考一下。",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481207397",
+			"date_added": 1481207978
+		},
+		{
+			"comment_id": 281,
+			"body": "@Generate: 可以查水表，但是一般这种破事不会去查的。当然，真的发啥敏感言论的话，请使用 Tor 并在 Tor Browser 内使用 ZeroNet 。",
+			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1481270021",
+			"date_added": 1481271182
+		},
+		{
+			"comment_id": 282,
+			"body": "@KhA: 比较简单的方式是做个钓鱼节点来与你的博客上的各个节点连接，然后只要发现哪节点最先推送了新的文，就能知道了。",
+			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1481270021",
+			"date_added": 1481271921
+		},
+		{
+			"comment_id": 283,
+			"body": "@Nekocross: 所以应该给 bit.no.com:43110/%￥#&*￥#@ ？",
+			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1481270021",
+			"date_added": 1481277158
+		},
+		{
+			"comment_id": 284,
+			"body": "@KhA: 我这里前面不加 https:// 已经提示 `连接已重置` 了。但是 HTTPS 连接还是可以正常访问，另外我很好奇这个站为什么不部署 HSTS ？",
+			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1481270021",
+			"date_added": 1481288126
+		},
+		{
+			"comment_id": 285,
+			"body": "@KhA: 针对 HTTPS 早就有不封 IP 的阻断手段了，但是看来我这里没部署。",
+			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1481270021",
+			"date_added": 1481290252
+		},
+		{
+			"comment_id": 286,
+			"body": "@KhA: 据说封 IP 对路由器性能影响较大，而且现在很多网站都是用 CDN 来反向代理的，要是封了就一大批网站挂掉。",
+			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1481270021",
+			"date_added": 1481293541
+		},
+		{
+			"comment_id": 287,
+			"body": "@火犬: @KhA: 建 Hub 没啥难度，可以直接克隆，不过光你一个人的 Hub 不一定有人会看，那时候就变成你自嗨了。",
+			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1481336259",
+			"date_added": 1481339726
+		},
+		{
+			"comment_id": 288,
+			"body": "@Generate: 事实上，手机辐射也没三代以上对人体完全无害的报告。",
+			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1481267589",
+			"date_added": 1481341173
+		},
+		{
+			"comment_id": 289,
+			"body": "@Generate: 目前你也可以选择非转基因的粮食啊！@Areyouok 不是说非转基因食品的标识都标得大大的么？认准这些买就行了。",
+			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1481267589",
+			"date_added": 1481341778
+		},
+		{
+			"comment_id": 290,
+			"body": "@Generate: 直接输入血管的血液制品和吃进去的不是一码事，就比如说虽然你可以和牛奶果汁可乐什么的，但是要直接输入血管是万万不可行的。目前很多医院住院部依然提供微波炉给病人自行加热食品。目前明显标识的非转基因食品不可能撤（毕竟价格高不少有利可图）。至于“长沙炼油厂”，这就非常好玩了，难道石油还分是否转基因的？",
+			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1481267589",
+			"date_added": 1481342153
+		},
+		{
+			"comment_id": 291,
+			"body": "@Generate: 实际上，我对此的态度与使用地沟油什么的一样，监管不力。我也不想吃到地沟油什么的，但实际上用地沟油制作食品的并不会告诉我。我支持法律强制要求给转基因食品打标识的。",
+			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1481267589",
+			"date_added": 1481342436
+		},
+		{
+			"comment_id": 292,
+			"body": "@weakish: 小额存款有存款保险担着，不过更加普遍发生的风险就是人民币贬值，发生的概率比短时间内破产高多了。",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481283113",
+			"date_added": 1481370855
+		},
+		{
+			"comment_id": 293,
+			"body": "@weakish: 貌似存款保险好多年前就有吧！",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481283113",
+			"date_added": 1481373041
+		},
+		{
+			"comment_id": 294,
+			"body": "发图的人跑了吧！逼死强迫症，唉！",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481529496",
+			"date_added": 1481530283
+		},
+		{
+			"comment_id": 295,
+			"body": "你看看使用 Tor Always 模式下内容能不能发布成功，如果不能则是假象。",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481530346",
+			"date_added": 1481531742
+		},
+		{
+			"comment_id": 296,
+			"body": "成功看到。",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481531987",
+			"date_added": 1481532945
 		}
 	],
 	"flags": {
@@ -1522,6 +1806,9 @@
 		"1958F7oCppj78MP966AfojMQwHg2WUupzq_230": 1480757336,
 		"1CKyj95EMuQiKCYaRcfY6JgXgdmLWBUjyM_2": 1480757342,
 		"1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_61": 1480757512,
-		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_112": 1480846010
+		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_112": 1480846010,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_109": 1481277118,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_110": 1481277851,
+		"13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_53": 1481281591
 	}
 }
