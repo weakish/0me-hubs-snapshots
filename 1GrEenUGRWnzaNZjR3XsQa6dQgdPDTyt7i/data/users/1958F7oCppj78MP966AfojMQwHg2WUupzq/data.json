@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 469,
+	"next_comment_id": 479,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -2820,6 +2820,66 @@
 			"body": "@猫叉酱: 其实 Hub 主还是可以和谐你的帐户和你的发言的，广告以后也可能会有站点加，分析隐私的也可能会来。",
 			"post_uri": "15gSU46SP1xQQzbzCJ9VkfshS5mYhcKaVu_1",
 			"date_added": 1481473689
+		},
+		{
+			"comment_id": 469,
+			"body": "I2P 目前只有一个出口代理而且不能保持一直在线。",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1481511135",
+			"date_added": 1481512280
+		},
+		{
+			"comment_id": 470,
+			"body": "@Woodsfirezyj: I2P 更强调内网，你要匿名用外网，建议还是用 Tor ，毕竟出口节点比较多。",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1481511135",
+			"date_added": 1481512583
+		},
+		{
+			"comment_id": 471,
+			"body": "@Firedog: 抱歉，不能。I2P 是 HTTP 代理，目前 ZeroNet 尚未支持。",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1481511135",
+			"date_added": 1481512647
+		},
+		{
+			"comment_id": 472,
+			"body": "@Firedog: 外网指可以不使用 I2P 公开访问的网络，内网指必须安装节点才能使用的内部网络。",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1481511135",
+			"date_added": 1481512767
+		},
+		{
+			"comment_id": 473,
+			"body": "怡红院不是有么？",
+			"post_uri": "1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP_1481512802",
+			"date_added": 1481512821
+		},
+		{
+			"comment_id": 474,
+			"body": "@Woodsfirezyj: 你可以看看 Tor 文档里的如果 meek 网桥连不上[怎么办][1]（可以换连的域名，可以自建）。另外我觉得你 meek 连不上除新疆地区外多半是 DNS 的问题。\n[1]: https://lists.torproject.org/pipermail/tor-talk/2015-January/036410.html",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1481511135",
+			"date_added": 1481512887
+		},
+		{
+			"comment_id": 475,
+			"body": "@Firedog: I2P 的内网只是个管道，不托管内容。但是有一个内网的匿名 BT （速度往往只有几十 k）。",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1481511135",
+			"date_added": 1481512913
+		},
+		{
+			"comment_id": 476,
+			"body": "端口都是开放状态么？增加节点数的一个好方法就是长时间挂着。",
+			"post_uri": "1GMNmr2bDPbT4c8yVnyCoDHke52CNCdqAa_1481514442",
+			"date_added": 1481514544
+		},
+		{
+			"comment_id": 477,
+			"body": "@Apuar: 端口没开或是部分 Tracker 被墙？检查一下！",
+			"post_uri": "1GMNmr2bDPbT4c8yVnyCoDHke52CNCdqAa_1481514442",
+			"date_added": 1481514614
+		},
+		{
+			"comment_id": 478,
+			"body": "@Apuar: 那么你 Ping 一下 Tracker 列表里的 Tracker 试试！你说的“本机”是不是在公司的？很多公司有内部防火墙和流量控制设备。",
+			"post_uri": "1GMNmr2bDPbT4c8yVnyCoDHke52CNCdqAa_1481514442",
+			"date_added": 1481514742
 		}
 	],
 	"flags": {},
