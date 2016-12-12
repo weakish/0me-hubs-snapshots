@@ -1,7 +1,7 @@
 {
-	"next_post_id": 74,
+	"next_post_id": 75,
 	"next_comment_id": 61,
-	"next_follow_id": 209,
+	"next_follow_id": 210,
 	"avatar": "png",
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -371,6 +371,11 @@
 			"post_id": 1481456846,
 			"body": "Lesson learned: when your `data.json` local copy is outdated (e.g. rollback to an old version manually because of file system issue), do not post new content to the zite that outdated `data.json` belongs to. Otherwise you will publish your \"deletions\".",
 			"date_added": 1481456773
+		},
+		{
+			"post_id": 1481539996,
+			"body": "Visual Studio Code only provides 32 bit downloads for Windows.",
+			"date_added": 1481539922
 		}
 	],
 	"post_like": {
@@ -2170,6 +2175,13 @@
 			"auth_address": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk",
 			"user_name": "Userzero",
 			"date_added": 1481456535
+		},
+		{
+			"follow_id": 209,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "12siAdZevQ9xEBxZK9pRCyJV4wmKFZPkhW",
+			"user_name": "5thzhino",
+			"date_added": 1481538701
 		}
 	]
 }
