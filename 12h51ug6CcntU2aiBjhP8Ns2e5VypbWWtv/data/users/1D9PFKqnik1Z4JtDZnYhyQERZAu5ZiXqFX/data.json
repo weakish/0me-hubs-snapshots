@@ -1,6 +1,6 @@
 {
 	"next_post_id": 6,
-	"next_comment_id": 9,
+	"next_comment_id": 14,
 	"avatar": "generate",
 	"user_name": "frog",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -81,6 +81,36 @@
 			"body": "for me, this will suffice: \n\n\tif (starts_with(path, home, pathsz, homesz)\n\t    || check_with(path, home, pathsz, homesz)) {\n\t\trecreate(path, home);\n\t\treturn homesz;\n\t}\n\treturn 0;\n\nparticulary, for function definitions:\n\n\tvoid\n\tfunc(int param1, ....\n\t{\n\t}\n\none benifit of it is that function names are easier to grep.",
 			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1480684461",
 			"date_added": 1480768086
+		},
+		{
+			"comment_id": 9,
+			"body": "I disagree. sure you can put any byte into a string constant in c, including unicode characters, it just doesn't care about encodings. as far as c concerned, there is no such a thing as a string, and string constant is nothing but a handy way for putting a stream of bytes, and you need a special byte to mark the end of the stream.",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1481203573",
+			"date_added": 1481369781
+		},
+		{
+			"comment_id": 10,
+			"body": "@weakish: well, it's general enough to put strings with any encoding. and as I said, it's just a handy way to put some bytes, if it's not human-readable, then it make no sense to embed it directly into the program.",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1481203573",
+			"date_added": 1481370910
+		},
+		{
+			"comment_id": 11,
+			"body": "@weakish: ok, let me clarify this a little bit, the double quote notation, a la string constant is a way to put some *text* into the code, and that's all it was meant to be used for, and it works fine. encoding is more about algorithms which has nothing to do with storage. As for `String`, I think you're comparing it to `String`s in object-oriented languages, and yes c doesn't have `String`, and it doesn't have to.",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1481203573",
+			"date_added": 1481374529
+		},
+		{
+			"comment_id": 12,
+			"body": "@weakish:\n>and C uses char *\nso?\n>C is a hacky language. For example, string in C. If you think string in C is an >array of characters, then you cannot put some characters in string (such as >Unicode character)\nyes you can, and if you mean to operate on unicode characters rather than just storing them, I think there must be libraries for that.\n>and you can put some noncharacters into string.\nwhy woud you want to do that? string is meant to be human-readable. you can still operate on any bits of the string the way you want though.\n> If you think string is an an array of bytes, like a buffer, then you cannot put the byte \\0 into string.\nnow you mean string literals, right? again, string literals are meant to be human-readable, and they are immutable, which does not quite fit  your descriptions of the `String` concept . if you use the syntax `char str[] = \"...\"`, then you can use `str` as an array (and truely it is). In my opinion, it's more flexible than treating `String` as an object as in other languages.",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1481203573",
+			"date_added": 1481384405
+		},
+		{
+			"comment_id": 13,
+			"body": "@weakish: \n>Just storing does not make much sense.\n>With proper encoding, I can store image and audio in char *.\nlibraries enable you to do that, or you may roll your own.\n>No. I mean literally byte, or buffer.\n>For example data passed to and by sockets.\nthe c language does not prohibit you from putting '\\0' into buffers.\nit's  just a convention which most c programmers agree upon that to treat \\0 as the end of a string.  you absolutely can make up a string without the trailling zero, but you have to make adjustments on the string when it comes to calling library functions, as most library writters follow that convention.\n>But C's type system does not enforce it.\nc doesn't have to, who knows if  someone might find this \"feature\" useful. I guess that's the way the language was designed, enables you to do more than you could think of, even to shoot yourself in the foot.",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1481203573",
+			"date_added": 1481548400
 		}
 	]
 }
