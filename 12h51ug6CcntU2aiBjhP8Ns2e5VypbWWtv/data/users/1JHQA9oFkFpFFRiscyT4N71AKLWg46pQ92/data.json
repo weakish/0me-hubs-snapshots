@@ -1,7 +1,7 @@
 {
-	"next_post_id": 89,
-	"next_comment_id": 11,
-	"next_follow_id": 47,
+	"next_post_id": 90,
+	"next_comment_id": 12,
+	"next_follow_id": 51,
 	"avatar": "jpg",
 	"user_name": "fre3net",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -441,13 +441,19 @@
 			"post_id": 1481534342,
 			"body": "Las [otras verdades de la](./darkblog.bit/?Post:288) #Wikipedia | #privacidad #gnu ",
 			"date_added": 1481534254
+		},
+		{
+			"post_id": 1481559929,
+			"body": "# Los #Derechos de Autor\n## El Cancer que infecta a la #WWW\n\nAcabo de leer una noticia que me ha dejado algo preocupado. En un juicio por temas de derechos de autor en Alemania, se acaba de aplicar la nueva regulacion referente a Links en internet.\n\nEl infractor habia linkeado una foto que de por si ya se encontraba ilegalmente puesta en la pagina original. Segun la resolucion, en la cadena de links, todos son co-responsables del delito.\n\nLas implicaciones de esto son bastante claras «_cada vez que pongamos un link en nuestra web, que apunte a cualquier contenido, que no podamos verificar, nos estaremos convirtiendo en potenciales culpables de delitos a los derechos de autor_»\n\nNo porque un parrafo o un dato o una fotografia se encuentre publicada en la #Wikipedia bajo una licencia #GPL o #CC nos garantizara la liberacion de responsabilidad en caso de que esa informacion sea de origen no claro.\n\nSolo la »liberacion de responsabilidad«, que hasta ahora se usaba en muchas webs personales, ya no sera suficiente ante la (in)justicia.\n\nEsto tendra consecuencias a largo plazo principalmente en trabajos y proyectos colectivos como la propia Wikipedia, que pueden hacer peligrar incluso su propia existencia.\n\nEsto restringe casi mortalmente la #Libertad",
+			"date_added": 1481559840
 		}
 	],
 	"post_like": {
 		"1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_1477327033": 1477389607,
 		"1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_1477419010": 1477468252,
 		"1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_1477827813": 1477989857,
-		"1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_1478537268": 1478541563
+		"1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_1478537268": 1478541563,
+		"1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_1481296740": 1481558515
 	},
 	"comment": [
 		{
@@ -509,6 +515,12 @@
 			"body": "@FK: #joke\nVery bad Translation: Very very top secrets documents of NSA says that the truth name of Julian would be Assangevonic because he would be russian!!!\nThe same with Edward.",
 			"post_uri": "1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_1480065349",
 			"date_added": 1480076219
+		},
+		{
+			"comment_id": 11,
+			"body": "Solucionado: Corriendo lento, pero seguro 🕵",
+			"post_uri": "1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_1481296740",
+			"date_added": 1481558547
 		}
 	],
 	"follow": [
@@ -693,6 +705,34 @@
 			"auth_address": "1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92",
 			"user_name": "fre3net",
 			"date_added": 1481398319
+		},
+		{
+			"follow_id": 47,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1PXtqwuku4Srxgk3kdHCEE9qqViv5BrfW4",
+			"user_name": "Soloojos",
+			"date_added": 1481560288
+		},
+		{
+			"follow_id": 48,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1BBCbDdZtZ5ZJGhF2WcMRcn3FEKQ7PaoMS",
+			"user_name": "Drymer",
+			"date_added": 1481560330
+		},
+		{
+			"follow_id": 49,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1GNUSJaJc3sCUPYaGSEGYuMyFPp3GWYugB",
+			"user_name": "Puppetmaster",
+			"date_added": 1481560342
+		},
+		{
+			"follow_id": 50,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "13U9mRgV3bdkXiNXjMZeBWTcSHZjgNmk2z",
+			"user_name": "Dios",
+			"date_added": 1481560351
 		}
 	],
 	"settings": {

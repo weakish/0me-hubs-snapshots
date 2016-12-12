@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 69,
+	"next_comment_id": 73,
 	"user_name": "Ysc3839",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -33,7 +33,9 @@
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480666462": 1480671938,
 		"1GMNmr2bDPbT4c8yVnyCoDHke52CNCdqAa_1480778978": 1480779354,
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480832206": 1480832179,
-		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480811585": 1480832444
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480811585": 1480832444,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481269750": 1481280494,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481545869": 1481559029
 	},
 	"comment": [
 		{
@@ -443,6 +445,30 @@
 			"body": "居然还是墙内网站",
 			"post_uri": "1GMNmr2bDPbT4c8yVnyCoDHke52CNCdqAa_1480778978",
 			"date_added": 1480779012
+		},
+		{
+			"comment_id": 69,
+			"body": "@Rainlime: 这个reload是python程序。--debug是自动编译CoffeeScript。建议在能找到原始代码的情况下不要直接修改all.js",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481527750",
+			"date_added": 1481559150
+		},
+		{
+			"comment_id": 70,
+			"body": "逻辑错误。百度不能搜索到暗网网站，不代表百度不能搜索到的网站就是暗网网站。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481434522",
+			"date_added": 1481559427
+		},
+		{
+			"comment_id": 71,
+			"body": "@Lmath: 重新加载的是python代码",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481527750",
+			"date_added": 1481559472
+		},
+		{
+			"comment_id": 72,
+			"body": "@Lmath: 应该是",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481527750",
+			"date_added": 1481560064
 		}
 	],
 	"flags": {},

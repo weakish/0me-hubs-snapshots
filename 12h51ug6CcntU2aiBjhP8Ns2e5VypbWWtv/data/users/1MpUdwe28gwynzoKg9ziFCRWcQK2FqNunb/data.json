@@ -1,6 +1,6 @@
 {
-	"next_post_id": 24,
-	"next_comment_id": 19,
+	"next_post_id": 25,
+	"next_comment_id": 22,
 	"next_follow_id": 18,
 	"avatar": "jpg",
 	"user_name": "火犬",
@@ -122,6 +122,12 @@
 			"body": "~~5分钟前又出新版本了，nofish真拼。~~\n发现只是更新网站而已，版本没升。",
 			"date_added": 1481558016,
 			"meta": "{\"img\":\"900,81,334234223444fffeee,0012345555\"}"
+		},
+		{
+			"post_id": 1481559181,
+			"body": "这个bug还在。",
+			"date_added": 1481559157,
+			"meta": "{\"img\":\"900,379,45b55aa79ccdaad67b56b77c78c56a,0000012334005555000006788800000099990000\"}"
 		}
 	],
 	"post_like": {},
@@ -233,6 +239,24 @@
 			"body": "@Lmath: 今天才刚更新firefox，发现变彩色了",
 			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481557723",
 			"date_added": 1481557804
+		},
+		{
+			"comment_id": 19,
+			"body": "@Lmath: 还真是。不知道注册新账号时出现那个`缺少[`的bug修复没。",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481558039",
+			"date_added": 1481558469
+		},
+		{
+			"comment_id": 20,
+			"body": "@Lmath: 好像绝大部分的翻译是你贡献的啊，膜拜",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481558039",
+			"date_added": 1481558640
+		},
+		{
+			"comment_id": 21,
+			"body": "@Lmath: bug还在",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481558039",
+			"date_added": 1481559234
 		}
 	],
 	"follow": [
