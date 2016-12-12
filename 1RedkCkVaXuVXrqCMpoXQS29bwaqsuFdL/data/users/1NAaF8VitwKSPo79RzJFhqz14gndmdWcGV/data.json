@@ -1,6 +1,6 @@
 {
 	"next_post_id": 26,
-	"next_comment_id": 88,
+	"next_comment_id": 89,
 	"next_follow_id": 43,
 	"avatar": "jpg",
 	"user_name": "Mynameislegion",
@@ -667,6 +667,12 @@
 			"body": "Please don't feel offended, but alone the slogan \"the most trusted messenger in the world\" exposes Wickr as bullsh*t. It is closed source, commercial and American and therefore cannot be trusted - there are much better alternatives, e.g. Signal or Antox https://www.eff.org/node/82654",
 			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1481492476",
 			"date_added": 1481497097
+		},
+		{
+			"comment_id": 88,
+			"body": "@Sirenyc: Yes - for several reasons: it is open source (makes it harder to hide subpoena-mandated backdoors), was audited (https://threatpost.com/signal-audit-reveals-protocol-cryptographically-sound/121892/), is not saving meta-data (http://www.theregister.co.uk/2016/10/04/whisper_systems_signal_subpoena/), WhatsApp's encryption is based on it (however Whatsapp is not as safe, read https://security.stackexchange.com/questions/139493/is-signal-still-more-secure-than-whatsapp) and last but not least it is Snowden's favourite messaging app. ",
+			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1481492476",
+			"date_added": 1481526059
 		}
 	],
 	"follow": [
