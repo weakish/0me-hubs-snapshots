@@ -1,7 +1,7 @@
 {
 	"next_post_id": 93,
-	"next_comment_id": 233,
-	"next_follow_id": 143,
+	"next_comment_id": 234,
+	"next_follow_id": 144,
 	"avatar": "jpg",
 	"user_name": "Rainlime",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -1848,6 +1848,12 @@
 			"body": "@Generate: 数据收到了 ～ :)",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481431835",
 			"date_added": 1481435494
+		},
+		{
+			"comment_id": 233,
+			"body": "試試加上 --debug 參數\n比如我的 `rainlime@Nexus ~/Z/ZeroNet> ../Python/python ./zeronet.py --debug`",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481527750",
+			"date_added": 1481541868
 		}
 	],
 	"follow": [
@@ -2746,6 +2752,13 @@
 			"auth_address": "12kVnbiPFSDTYsmT2rf5rbRj4qxzFvqSBm",
 			"user_name": "Zaira",
 			"date_added": 1481446172
+		},
+		{
+			"follow_id": 143,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1FzZsDQdh8wk71bDLxURPzmAt2FXehoNAB",
+			"user_name": "Nekololi",
+			"date_added": 1481543127
 		}
 	],
 	"settings": {
@@ -2780,6 +2793,7 @@
 		"18KhAfkwavAUrUQk67T4x6Gczq5hL5wE4Z_61": 1481418531,
 		"1958F7oCppj78MP966AfojMQwHg2WUupzq_460": 1481433807,
 		"18KhAfkwavAUrUQk67T4x6Gczq5hL5wE4Z_75": 1481433889,
-		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_85": 1481445341
+		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_85": 1481445341,
+		"15gSU46SP1xQQzbzCJ9VkfshS5mYhcKaVu_3": 1481543111
 	}
 }

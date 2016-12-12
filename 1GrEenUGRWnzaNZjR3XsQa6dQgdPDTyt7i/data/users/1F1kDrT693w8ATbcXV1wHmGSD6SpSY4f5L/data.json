@@ -1,6 +1,6 @@
 {
 	"next_post_id": 116,
-	"next_comment_id": 83,
+	"next_comment_id": 85,
 	"next_follow_id": 28,
 	"avatar": "jpg",
 	"user_name": "Alex",
@@ -967,6 +967,18 @@
 			"body": "@ks: That's probably a better idea.  Better than going through tagging everything manually (apart from maybe 1% of zites) and then adding more zites, tagging those... etc etc.  Better to have a base to work from, especially considering it's like double the size.\n@Sirenyc: I agree.  The tags are much better, and there's just generally more to work with.",
 			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481483520",
 			"date_added": 1481484834
+		},
+		{
+			"comment_id": 83,
+			"body": "@Border0464fred: I'm trying to build standards anyone can use anyway, that's why I introduced the whole meta tag thing, and it's why I'll probably be introducing a few other things over the coming months.  It's been around for ages but it'd really find it's uses in ZeroNet.  I haven't heard anything from Kaffie for a while either, which makes me presume she's either quit ZeroNet or (worst case) something happened to her, but I hope that's not the case.\n \n@ks: & @Waterrabbit: Crawling their index.htmls alone can take from anywhere to 5 seconds to 5 minutes depending on the number of peers, how fast peers are, how big the site is... there are lots of variables.  Crawling their JSON will probably slow this down more; then again, it's probably worth it for the extra information.  I'll go through the documentation and see what could be used in the index; I fear I might need to switch to a more complex way of storing all the data soon :P",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481483520",
+			"date_added": 1481542665
+		},
+		{
+			"comment_id": 84,
+			"body": "@Eibriel: Thanks! :)\n\n@Waterrabbit: I can't figure that out.  I've looked at Kaffiene's source code (since it displays Russian text correctly) and can't really work out what Kaffie did to make it display differently... I'll have to go deeper!",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481489160",
+			"date_added": 1481542747
 		}
 	],
 	"follow": [
