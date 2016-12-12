@@ -1,5 +1,5 @@
 {
-	"next_post_id": 50,
+	"next_post_id": 51,
 	"next_comment_id": 290,
 	"next_follow_id": 211,
 	"avatar": "jpg",
@@ -247,6 +247,11 @@
 			"post_id": 1481465132,
 			"body": "Go版的ZeroNet实验版已可下载： http://127.0.0.1:43110/g1itch.bit 讨论贴 http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:3_133PfjoNP94oHC3GczL9e7SCKoeKEMyCDJ",
 			"date_added": 1481465083
+		},
+		{
+			"post_id": 1481557962,
+			"body": "\nGo版的ZeroNet实验版的linux版已经可以下载，为了避免跟原版UI（浏览器）端口冲突，可以用--port 参数指定另一个端口 \n http://127.0.0.1:43110/g1itch.bit/ZeroGo-lin-0.0.1.run",
+			"date_added": 1481557912
 		}
 	],
 	"post_like": {

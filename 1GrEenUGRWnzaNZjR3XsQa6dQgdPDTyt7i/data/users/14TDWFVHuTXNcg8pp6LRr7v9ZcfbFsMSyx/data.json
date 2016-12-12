@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 28,
+	"next_comment_id": 31,
 	"user_name": "ks",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {
@@ -18,7 +18,9 @@
 		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1480869940": 1480875166,
 		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481134045": 1481134621,
 		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481137760": 1481137938,
-		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481483520": 1481484378
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481483520": 1481484378,
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481554564": 1481555196,
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481554643": 1481555198
 	},
 	"comment": [
 		{
@@ -182,6 +184,24 @@
 			"body": "@Alex: Have you considered crawling sites (i.e., their JSON) in order to find more sites to index?",
 			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481483520",
 			"date_added": 1481492222
+		},
+		{
+			"comment_id": 28,
+			"body": "Where is Bwoi Social again?",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481554643",
+			"date_added": 1481555526
+		},
+		{
+			"comment_id": 29,
+			"body": "Did bwoi.bit [expire](https://namecha.in/name/d/bwoi) 46+ days ago?",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481554564",
+			"date_added": 1481555664
+		},
+		{
+			"comment_id": 30,
+			"body": "@Alex: You needn't subscribe and crawl in one sitting. You can subscribe to a given address and come back later (1 hour, 1 day, …) to examine the HTML or JSON.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481483520",
+			"date_added": 1481555928
 		}
 	]
 }
