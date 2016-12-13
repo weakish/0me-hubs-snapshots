@@ -1,5 +1,5 @@
 {
-	"next_post_id": 25,
+	"next_post_id": 27,
 	"next_comment_id": 23,
 	"next_follow_id": 18,
 	"avatar": "jpg",
@@ -128,6 +128,17 @@
 			"body": "这个bug还在。",
 			"date_added": 1481559157,
 			"meta": "{\"img\":\"900,379,45b55aa79ccdaad67b56b77c78c56a,0000012334005555000006788800000099990000\"}"
+		},
+		{
+			"post_id": 1481638477,
+			"body": "在必应搜索“zeronet”看到了这个",
+			"date_added": 1481638452,
+			"meta": "{\"img\":\"762,700,eeeefffffddddeecccccdcddedd,000000001121030040122033000001205674122220774111222211112222210003800021330000122133330000\"}"
+		},
+		{
+			"post_id": 1481639356,
+			"body": "Chrome浏览器装上这个插件，可以直接输入`zero/域名`打开zeronet网站。\nhttps://github.com/goldenratio/zeronet-protocol-crx",
+			"date_added": 1481639330
 		}
 	],
 	"post_like": {},

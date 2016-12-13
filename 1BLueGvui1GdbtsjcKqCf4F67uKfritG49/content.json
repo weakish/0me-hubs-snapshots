@@ -8,6 +8,10 @@
    "sha512": "4e37699bd5336b9c33ce86a3eb73b82e87460535793401874a653afeddefee59",
    "size": 735
   },
+  "data/users/check.py": {
+   "sha512": "ef85b38832c4b01c67a18a43333e6d1a2e4cb62b4b43e2c8be0ea3280e882525",
+   "size": 454
+  },
   "index.html": {
    "sha512": "087c6ae46aacc5661f7da99ce10dacc0428dbd48aa7bbdc1df9c2da6e81b1d93",
    "size": 466
@@ -22,17 +26,17 @@
  },
  "inner_path": "content.json",
  "merged_type": "ZeroMe",
- "modified": 1471725260.768,
+ "modified": 1481138875.097,
  "postmessage_nonce_security": true,
  "sign": [
-  1929378887318609490291586769082150576034686877569056398359559344902861954831,
-  35252753343278310997344543371384099695302941925910413878457313046282282696336
+  98269600475157727822720113907953976148763504526439759758705647006306529397039,
+  100143058830679185259830001330857813246517403579435501654291852509610033958031
  ],
  "signers_sign": "G9R8AeHqNxGo9fsqRsoLBaZW/LX/Btr4plh7Dgju4TzuwWGmN+2zhLz6nxJ/6yrdxoZXye8nbNnsBrLwueB9OrQ=",
  "signs": {
-  "1BLueGvui1GdbtsjcKqCf4F67uKfritG49": "G+jHrHkW7toLWTamflpp4SQoFYE6QSGYUp+CY0rkP3D1s7ozjQoja9ljHp3k8INWkGL1t14mlggeRXBa0SiFhWk="
+  "1BLueGvui1GdbtsjcKqCf4F67uKfritG49": "HGcGOv14h59hcYjwRt/j58kso5gLs+XDye67zq7fbMf1QeUjz7Vg/tyb7YP4SbLYxkW1+R1rR9Z+Z24ym98KrS0="
  },
  "signs_required": 1,
  "title": "BlueHub",
- "zeronet_version": "0.4.0"
+ "zeronet_version": "0.5.1"
 }

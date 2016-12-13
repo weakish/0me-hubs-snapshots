@@ -5,8 +5,8 @@
  "cert_user_id": "masta@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "9ca9673aa74d73353bbb979e0a7d485f46e65dc4529d55362f46f9427ee1257a",
-   "size": 16077
+   "sha512": "c876ba2b101c097503792e83ffbe84191b8c50fae448c48356ea9d4c6731dfda",
+   "size": 16318
   }
  },
  "files_optional": {
@@ -40,9 +40,9 @@
   }
  },
  "inner_path": "data/users/17z9bkjwGkCNEGCJ9E6TUu1kEs5V1f7zYL/content.json",
- "modified": 1481603429.685104,
+ "modified": 1481634061.964014,
  "optional": "(?!avatar).*jpg",
  "signs": {
-  "17z9bkjwGkCNEGCJ9E6TUu1kEs5V1f7zYL": "HOO8Yt/skANO2iFOnlEbOp3sAzARz3qdwAhhtoNdOqbUO7IFeAFH+3eBIuqOVIBGZbjDOKr3PtKExfGp9TBUed0="
+  "17z9bkjwGkCNEGCJ9E6TUu1kEs5V1f7zYL": "G6vqLfK2rfrFD6aIUH+gvh7VPzA+qVc2zhiLlSgc1dbtncFjdeE0L2TfL0NlhMSZB+qdFPPVlWw0NUSJ9Y3h5F4="
  }
 }

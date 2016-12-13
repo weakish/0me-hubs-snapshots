@@ -1,0 +1,38 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 2,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"settings": {
+		"comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"user_name": "The0",
+	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1481632903,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {
+		"1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_1481628573": 1481632917,
+		"17z9bkjwGkCNEGCJ9E6TUu1kEs5V1f7zYL_1481632982": 1481633022
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Fuck AMZ, Apple, BigGoogle and Co",
+			"post_uri": "17z9bkjwGkCNEGCJ9E6TUu1kEs5V1f7zYL_1481632982",
+			"date_added": 1481633055
+		}
+	],
+	"follow": [],
+	"flags": {},
+	"blocked": [],
+	"comment_like": {}
+}

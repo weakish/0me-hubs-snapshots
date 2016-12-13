@@ -1,6 +1,6 @@
 {
-	"next_post_id": 19,
-	"next_comment_id": 7,
+	"next_post_id": 20,
+	"next_comment_id": 8,
 	"next_follow_id": 61,
 	"avatar": "generate",
 	"user_name": "Masta",
@@ -98,6 +98,11 @@
 			"post_id": 1481542179,
 			"body": "同样语法，之前不能启动zeronet。昨天把内存卡拔出来重新插上就好了！\n#见鬼系列 \npython zeronet.py --ui_ip 0.0.0.0 --tor_controller 127.0.0.1:9052  --tor_proxy 127.0.0.1:9050",
 			"date_added": 1481542161
+		},
+		{
+			"post_id": 1481632982,
+			"body": "fuck amazon",
+			"date_added": 1481632963
 		}
 	],
 	"post_like": {},
@@ -137,6 +142,12 @@
 			"body": "@Rainlime: 手动执行什么？zeronet吗？",
 			"post_uri": "17z9bkjwGkCNEGCJ9E6TUu1kEs5V1f7zYL_1481429707",
 			"date_added": 1481450581
+		},
+		{
+			"comment_id": 7,
+			"body": "@The0: fuck them",
+			"post_uri": "17z9bkjwGkCNEGCJ9E6TUu1kEs5V1f7zYL_1481632982",
+			"date_added": 1481634061
 		}
 	],
 	"follow": [
