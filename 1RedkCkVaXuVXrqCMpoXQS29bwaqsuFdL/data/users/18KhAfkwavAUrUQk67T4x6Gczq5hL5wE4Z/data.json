@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 66,
+	"next_comment_id": 70,
 	"user_name": "Generate",
 	"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
 	"post_like": {
@@ -395,6 +395,30 @@
 			"body": "@Lmath: 都不算spam，然而还是被删了",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481546460",
 			"date_added": 1481626152
+		},
+		{
+			"comment_id": 66,
+			"body": "@Lmath: 而我绕过的方法也很简单，他们是对单个图片进行二维码扫描检测，而我则通过把散列图片设置成自定义的特殊图片，然后让数据在底下形成空带而又能正常扫描，再从空带那切开，再根据知乎页面css排版算好间隔丢弃空白数据让两张图重新看起来是个正方形😂果不其然，知乎系统顿时懵逼",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481546460",
+			"date_added": 1481627097
+		},
+		{
+			"comment_id": 67,
+			"body": "@Lmath: hash散列啊，我为了让管理员不那么容易发现我还特地加高了模糊度",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481546460",
+			"date_added": 1481627699
+		},
+		{
+			"comment_id": 68,
+			"body": "@Lmath: 因为知乎举报备份页的页面css和专栏页不一样，因此要调整。已修复",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481546460",
+			"date_added": 1481628491
+		},
+		{
+			"comment_id": 69,
+			"body": "@Lmath: 原理差不多。。嗯。。实际上实现方法不唯一，有抛弃一部分背景图像信息（如最左侧图像）来实现的方法，也有对图像信息进行锐化之后从中再筛选数据进行合并，也有在链接后面加上一长串hash tag来控制图像数据并求出最优解，等等",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481546460",
+			"date_added": 1481628720
 		}
 	]
 }

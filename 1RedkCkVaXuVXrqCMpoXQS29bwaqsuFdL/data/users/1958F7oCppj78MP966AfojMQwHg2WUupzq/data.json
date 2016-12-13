@@ -1,6 +1,6 @@
 {
 	"next_post_id": 57,
-	"next_comment_id": 220,
+	"next_comment_id": 222,
 	"next_follow_id": 230,
 	"avatar": "png",
 	"user_name": "Lmath",
@@ -1535,6 +1535,18 @@
 			"body": "@Generate: 原来知乎还搞了个二维码屏蔽技术？长姿势了。",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481546460",
 			"date_added": 1481626481
+		},
+		{
+			"comment_id": 220,
+			"body": "@Generate: 然而还是被知乎管理员手工删了。等等！你是怎么搞出一个长得像“他”的二维码的？",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481546460",
+			"date_added": 1481627382
+		},
+		{
+			"comment_id": 221,
+			"body": "@Generate: 抱歉我还是对生成二维码的原理不太了解，是通过 hash 强行凑成“他”的样子？等等！我发现我用手机没扫出来。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481546460",
+			"date_added": 1481627859
 		}
 	],
 	"follow": [

@@ -1,6 +1,6 @@
 {
 	"next_post_id": 66,
-	"next_comment_id": 76,
+	"next_comment_id": 80,
 	"next_follow_id": 31,
 	"avatar": "jpg",
 	"user_name": "西木野真姬",
@@ -756,6 +756,30 @@
 			"body": "@Nekocross: 男孩子哟～",
 			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481625930",
 			"date_added": 1481626376
+		},
+		{
+			"comment_id": 76,
+			"body": "@Nekocross: 照片能push出去 难道比照片还小的css和js就push不出去？",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481625930",
+			"date_added": 1481626910
+		},
+		{
+			"comment_id": 77,
+			"body": "@Nekocross: 我发现网站的 content.json里有一行\n<code>\"ignore\": \"(js|css)/(?!all.(js|css))\",</code>",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481625930",
+			"date_added": 1481627219
+		},
+		{
+			"comment_id": 78,
+			"body": "@Nekocross: 我删掉了那一行了 应该没问题了",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481625930",
+			"date_added": 1481627383
+		},
+		{
+			"comment_id": 79,
+			"body": "@Nekocross: 现在网站图片的纵向长度已经统一为720px 应该不会有这种问题了",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481625930",
+			"date_added": 1481628287
 		}
 	],
 	"follow": [
