@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 100,
+	"next_comment_id": 102,
 	"user_name": "Generate",
 	"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
 	"post_like": {
@@ -587,6 +587,18 @@
 			"body": "@莱文倩: 当初我直接修改all.js的，那时我只会js，没学coffee script。我看下该怎么做",
 			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481527750",
 			"date_added": 1481608177
+		},
+		{
+			"comment_id": 100,
+			"body": "这里有说明：http://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:43:ZeroNet+site+development+tutorial+1",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481527750",
+			"date_added": 1481611371
+		},
+		{
+			"comment_id": 101,
+			"body": "@莱文倩: Add <script type=\"text/javascript\" src=\"js/all.js\" async></script> line right before </body> in index.html file to automatically compile and merge all .coffee file within the js directory to a single all.js file.\n\n在index.html文件中添加<script type =“text / javascript”src =“js / all.js”async> </ script>行，以自动编译和合并js目录中的所有.coffee文件到单个all.js文件。",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481527750",
+			"date_added": 1481611381
 		}
 	]
 }

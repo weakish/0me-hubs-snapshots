@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 502,
+	"next_comment_id": 504,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -3019,6 +3019,18 @@
 			"body": "不能用多个域名解析站吧！不过替换掉默认的那个应该没问题。",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481605839",
 			"date_added": 1481607153
+		},
+		{
+			"comment_id": 502,
+			"body": "@Firedog: 应该是只要你有办法弄进域名解析站里即可，但是事实上域名解析站是通过 NameCoin 客户端来更新的。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481605839",
+			"date_added": 1481609764
+		},
+		{
+			"comment_id": 503,
+			"body": "@Rainlime: 不是，ZeroNet 默认解析域名是通过 ZeroName （目前是 Nofish 跑了个 NameCoin 客户端来更新 ZeroName）实现的，他想弄个这种东西。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481605839",
+			"date_added": 1481609808
 		}
 	],
 	"flags": {},
