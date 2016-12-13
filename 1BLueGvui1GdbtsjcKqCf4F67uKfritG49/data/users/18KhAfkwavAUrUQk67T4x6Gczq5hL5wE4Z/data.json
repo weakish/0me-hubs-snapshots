@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 45,
+	"next_comment_id": 46,
 	"user_name": "Generate",
 	"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
 	"post_like": {},
@@ -267,6 +267,12 @@
 			"body": "@西木野真姬: 23333",
 			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481625930",
 			"date_added": 1481627265
+		},
+		{
+			"comment_id": 45,
+			"body": "我猜是你处理的问题，移位貌似是描述的html tag造成的，移除时自动扩充，重新加入时又占据一部分空间，因此导致位移。最简单的解决办法是不移除tag直接改变内容，无描述的就设置css display none",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481630522",
+			"date_added": 1481631804
 		}
 	]
 }
