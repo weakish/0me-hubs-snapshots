@@ -1,6 +1,6 @@
 {
-	"next_post_id": 70,
-	"next_comment_id": 39,
+	"next_post_id": 73,
+	"next_comment_id": 41,
 	"next_follow_id": 90,
 	"avatar": "jpg",
 	"user_name": "ulrichard",
@@ -354,6 +354,21 @@
 			"post_id": 1480625381,
 			"body": "Windows is still based on MS DOS! Guess what? I ran into the 256 character limit for filenames again. This time it was with cpack and bamboo. But the error is not in these tools, but still with the operating system. https://ulrichard.ch/blog/?p=58",
 			"date_added": 1480625312
+		},
+		{
+			"post_id": 1481027808,
+			"body": "The Distribution of Users’ Computer Skills: Worse Than You Think:\nhttps://www.nngroup.com/articles/computer-skill-levels/",
+			"date_added": 1481027738
+		},
+		{
+			"post_id": 1481315347,
+			"body": "I received my PocketCHIP today. It is really cool. https://getchip.com/pages/pocketchip",
+			"date_added": 1481315276
+		},
+		{
+			"post_id": 1481664350,
+			"body": "And still they use it... https://www.trustwave.com/Resources/SpiderLabs-Blog/A-Backdoor-in-Skype-for-Mac-OS-X/",
+			"date_added": 1481664278
 		}
 	],
 	"post_like": {
@@ -587,6 +602,18 @@
 			"body": "@Border0464fred: And it's not only for the official repositories, but also for the PPA infrastructure. Worst of all, without some client side tools to compare the different results from the reproducible builds, a targeted attack from the owner of a trusted apt key wold be very difficult to detect.",
 			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1480514467",
 			"date_added": 1480518039
+		},
+		{
+			"comment_id": 39,
+			"body": "@Alex (Bwoi): I also ordered two bare CHIP devices. The plan is to set up a small mesh network. But from what I read so far it's not as straight forward as I hoped. I still hope the price will attract a big enough community to make these things happen.",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1481315347",
+			"date_added": 1481318671
+		},
+		{
+			"comment_id": 40,
+			"body": "@Eibriel: If I do, then only as a cache. But once it is deployed somewhere in a mesh network with a battery and a solar cell, that would be cool.",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1481315347",
+			"date_added": 1481376461
 		}
 	],
 	"follow": [
