@@ -1,6 +1,6 @@
 {
 	"next_post_id": 39,
-	"next_comment_id": 196,
+	"next_comment_id": 199,
 	"next_follow_id": 183,
 	"avatar": "jpg",
 	"user_name": "莱文倩",
@@ -1346,6 +1346,24 @@
 			"body": "@Lmath: 不行哒，源文档是<script type=\"text/javascript\" src=\"js/all.js\" async></script>\n<script type=\"text/javascript\" src=\"js/tag.js\" async></script>\n</body>\n</html>在前置页面查看就变成了<script type=\"text/javascript\" src=\"/uimedia/all.js?rev=1754&lang=zh\"></script>\n\n</body>\n</html>",
 			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481527750",
 			"date_added": 1481531459
+		},
+		{
+			"comment_id": 196,
+			"body": "@Lmath: 现在总算搞明白了，可是我创建的js文件要怎么编译进all.js里面呢",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481527750",
+			"date_added": 1481593811
+		},
+		{
+			"comment_id": 197,
+			"body": "@Lmath: js只要放在libs目录就会被编译进去吗",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481527750",
+			"date_added": 1481595339
+		},
+		{
+			"comment_id": 198,
+			"body": "@Lmath: 好像进不去，只有早前默认的进去了。",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481527750",
+			"date_added": 1481595586
 		}
 	],
 	"follow": [

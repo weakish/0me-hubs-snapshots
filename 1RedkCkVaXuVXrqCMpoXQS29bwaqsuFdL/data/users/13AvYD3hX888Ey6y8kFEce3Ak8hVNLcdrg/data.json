@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 15,
+	"next_comment_id": 16,
 	"user_name": "Dergatt",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {
@@ -90,6 +90,12 @@
 			"body": "@ks: Same here, If I'm not mistaken this is the google one and it analyses your surf behavior and decides if you have to enter further information.\nI'm using a tracker blocker and have to enter them every time.",
 			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1478422171",
 			"date_added": 1478463672
+		},
+		{
+			"comment_id": 15,
+			"body": "I prefer xmpp with omemo encryption: open source, federated you can run your own server if you want to. And you can use it on multiple devices as once.\n\nImplementation in android: https://github.com/siacs/Conversations\nImplementation ind Ios (should be releasing in a few days): https://github.com/ChatSecure/ChatSecure-iOS\nAnd desktop: https://dev.gajim.org/gajim/gajim-plugins",
+			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1481492476",
+			"date_added": 1481574860
 		}
 	],
 	"flags": {},

@@ -1,7 +1,7 @@
 {
-	"next_post_id": 2,
+	"next_post_id": 3,
 	"next_comment_id": 1,
-	"next_follow_id": 10,
+	"next_follow_id": 15,
 	"avatar": "jpg",
 	"user_name": "Sanglier",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -11,6 +11,11 @@
 			"post_id": 1,
 			"date_added": 1471283887,
 			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1481580318,
+			"body": "Bonjour les amis!",
+			"date_added": 1481580316
 		}
 	],
 	"post_like": {},
@@ -78,6 +83,41 @@
 			"auth_address": "1AdcxsExVKvxffQtEd72E5tckouzZHLEYC",
 			"user_name": "Teszt",
 			"date_added": 1472746070
+		},
+		{
+			"follow_id": 10,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1BBH8wSFw4NF7sjvSBA8SsSvZA6cQYxUBq",
+			"user_name": "5thvortex",
+			"date_added": 1481580350
+		},
+		{
+			"follow_id": 11,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1K7pivtg6E1qRnih7nmnnPrCnRRSxSCMQQ",
+			"user_name": "Lain",
+			"date_added": 1481580414
+		},
+		{
+			"follow_id": 12,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1D242AyQghFqqQTwo1f1csP5kRQe588BUm",
+			"user_name": "Francis Brunelle",
+			"date_added": 1481580427
+		},
+		{
+			"follow_id": 13,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1481580447
+		},
+		{
+			"follow_id": 14,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1KWqhuQ8bWbd8Pp6w65uSJ6Q2jjBKERL4H",
+			"user_name": "Peponi",
+			"date_added": 1481580473
 		}
 	]
 }
