@@ -1,0 +1,24 @@
+{
+ "address": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+ "cert_auth_type": "web",
+ "cert_sign": "HNJx+OWIxA36zHeOCmcWB9n4vJKH8qaDbykAar0Nw4AB5ed/XRBSuDN24V/BBF4s08NoDoaLNdR7qz73eIsjKI0=",
+ "cert_user_id": "idenpark@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3829a4152444ac944a5d8f95770c7773eda1427c26396e7289a577d22a8300cb",
+   "size": 4978
+  }
+ },
+ "files_optional": {
+  "1481712758.jpg": {
+   "sha512": "ae26af1388fa846cdea52f14bcc73af3027c6603ecaf350674946a1ea62b8ef9",
+   "size": 29480
+  }
+ },
+ "inner_path": "data/users/17qfe1YV8GdzQyyoxHKezPnVSEUvXtswgm/content.json",
+ "modified": 1481712886.387,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "17qfe1YV8GdzQyyoxHKezPnVSEUvXtswgm": "G/D3j+wgsV3P8PO+r9TlNWAsfB5XYVw8OHrgltxH0+58KMqLxqQczseUhs6oMs+430XbJUDTL+3b3AI5G89wQ4I="
+ }
+}

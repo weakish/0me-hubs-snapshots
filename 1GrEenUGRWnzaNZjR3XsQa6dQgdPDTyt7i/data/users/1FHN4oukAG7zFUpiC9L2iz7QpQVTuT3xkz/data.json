@@ -1,6 +1,6 @@
 {
-	"next_post_id": 134,
-	"next_comment_id": 404,
+	"next_post_id": 135,
+	"next_comment_id": 406,
 	"next_follow_id": 69,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
@@ -671,6 +671,11 @@
 			"post_id": 1481605839,
 			"body": "话说能设定多个域名解析站吗，我想搞个自己的域名站",
 			"date_added": 1481605706
+		},
+		{
+			"post_id": 1481626236,
+			"body": "现在zeronet里面的域名只有.bit，太单调了些",
+			"date_added": 1481626102
 		}
 	],
 	"post_like": {
@@ -3098,6 +3103,18 @@
 			"body": "我的网站(就是那个女装子福利)早就支持这三个站的登录了",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481600399",
 			"date_added": 1481605764
+		},
+		{
+			"comment_id": 404,
+			"body": "@Lmath: 我先复制一个，然后加入一些自己的域名，试试看能不能解析",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481605839",
+			"date_added": 1481614447
+		},
+		{
+			"comment_id": 405,
+			"body": "@Lmath: 后端只负责把新域名写进json里，我这个做个静态的就行了",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481605839",
+			"date_added": 1481625158
 		}
 	],
 	"follow": [
