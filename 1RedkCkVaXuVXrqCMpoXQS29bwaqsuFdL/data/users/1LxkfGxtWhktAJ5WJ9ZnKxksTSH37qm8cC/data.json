@@ -338,7 +338,7 @@
 		},
 		{
 			"post_id": 1481600368,
-			"body": "Tried Tor Always mode. \n`--tor always --disable_udp --tor_proxy 127.0.0.1:9150 --tor_controller 127.0.0.1:9151`\nUnable get my content published. Switched to `--tor disable --proxy 127.0.0.1:9150 --disable_udp`",
+			"body": "Tried Tor Always mode. \n`--tor always --disable_udp --tor_proxy 127.0.0.1:9150 --tor_controller 127.0.0.1:9151`\nUnable get my content published. Switched to `--tor disable --proxy 127.0.0.1:9150 --disable_udp`, not being a good seeder.",
 			"date_added": 1481600299
 		}
 	],

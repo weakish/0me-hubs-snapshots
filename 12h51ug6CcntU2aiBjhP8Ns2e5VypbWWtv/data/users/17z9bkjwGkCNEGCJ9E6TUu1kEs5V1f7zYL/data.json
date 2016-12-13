@@ -1,7 +1,7 @@
 {
-	"next_post_id": 18,
-	"next_comment_id": 6,
-	"next_follow_id": 58,
+	"next_post_id": 19,
+	"next_comment_id": 7,
+	"next_follow_id": 61,
 	"avatar": "generate",
 	"user_name": "Masta",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -93,6 +93,11 @@
 			"post_id": 1481429707,
 			"body": "有在树莓派上挂zeronet的吗？如何设置为开机启动？",
 			"date_added": 1481429690
+		},
+		{
+			"post_id": 1481542179,
+			"body": "同样语法，之前不能启动zeronet。昨天把内存卡拔出来重新插上就好了！\n#见鬼系列 \npython zeronet.py --ui_ip 0.0.0.0 --tor_controller 127.0.0.1:9052  --tor_proxy 127.0.0.1:9050",
+			"date_added": 1481542161
 		}
 	],
 	"post_like": {},
@@ -126,6 +131,12 @@
 			"body": "@Rainlime: 很久以前我也能用rc.local启动zeronet。后来重新安装系统，就再没成功过。",
 			"post_uri": "17z9bkjwGkCNEGCJ9E6TUu1kEs5V1f7zYL_1481429707",
 			"date_added": 1481431348
+		},
+		{
+			"comment_id": 6,
+			"body": "@Rainlime: 手动执行什么？zeronet吗？",
+			"post_uri": "17z9bkjwGkCNEGCJ9E6TUu1kEs5V1f7zYL_1481429707",
+			"date_added": 1481450581
 		}
 	],
 	"follow": [
@@ -520,6 +531,27 @@
 			"auth_address": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS",
 			"user_name": "Jabasukuriputo Wang",
 			"date_added": 1481431392
+		},
+		{
+			"follow_id": 58,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp",
+			"user_name": "Helloarch",
+			"date_added": 1481542185
+		},
+		{
+			"follow_id": 59,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "16YxtnaTrCSbvCXSYxrnvobmYnqtidxG23",
+			"user_name": "Hellozeronetwork",
+			"date_added": 1481542193
+		},
+		{
+			"follow_id": 60,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC",
+			"user_name": "Firebox",
+			"date_added": 1481603429
 		}
 	]
 }
