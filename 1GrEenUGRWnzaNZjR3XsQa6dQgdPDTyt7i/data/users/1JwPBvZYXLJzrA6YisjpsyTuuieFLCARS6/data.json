@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 4,
+	"next_comment_id": 6,
 	"user_name": "Emeraude",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {
@@ -7,7 +7,8 @@
 		"1DMBWEfQdEaRtsWEwZLY98b9t1ZcoG2ECM_1472248656": 1472209845,
 		"1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1475690188": 1475690277,
 		"15PZT6SDb3xX38PYQC5LH6NNWu7jD74KP2_1477267245": 1477307045,
-		"152kdpXWPevMLNm7755GKuzQPsu71bs13t_1480785032": 1480785853
+		"152kdpXWPevMLNm7755GKuzQPsu71bs13t_1480785032": 1480785853,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481171804": 1481218947
 	},
 	"comment": [
 		{
@@ -27,6 +28,18 @@
 			"body": "@Voruman: There are two json files listing the registered users. They can be found in the `ZeroNet/data/1iD5ZQJMNXu43w1qLB8sfdHVKppVMduGz/data` diretory",
 			"post_uri": "1KAfCgw4ECkqUccYQZDoPuTMhA2YPMaZwG_1475662794",
 			"date_added": 1475664661
+		},
+		{
+			"comment_id": 4,
+			"body": "I thinks the character `█` is prettier to do this kind of things.",
+			"post_uri": "152kdpXWPevMLNm7755GKuzQPsu71bs13t_1481677399",
+			"date_added": 1481677802
+		},
+		{
+			"comment_id": 5,
+			"body": "@Great Sick: Try with option `qrencode -t UTF8`",
+			"post_uri": "152kdpXWPevMLNm7755GKuzQPsu71bs13t_1481677399",
+			"date_added": 1481678012
 		}
 	],
 	"flags": {},
