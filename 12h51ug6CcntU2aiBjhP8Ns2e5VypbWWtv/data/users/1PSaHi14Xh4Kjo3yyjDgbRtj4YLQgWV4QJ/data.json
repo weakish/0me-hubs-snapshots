@@ -1,6 +1,6 @@
 {
 	"next_post_id": 73,
-	"next_comment_id": 41,
+	"next_comment_id": 42,
 	"next_follow_id": 91,
 	"avatar": "jpg",
 	"user_name": "ulrichard",
@@ -614,6 +614,12 @@
 			"body": "@Eibriel: If I do, then only as a cache. But once it is deployed somewhere in a mesh network with a battery and a solar cell, that would be cool.",
 			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1481315347",
 			"date_added": 1481376461
+		},
+		{
+			"comment_id": 41,
+			"body": "Yeah tell me. I recently switched ISP. Now I can't send mail from my private mail server anymore. It is classified as spam, because they added all their IP addresses to a DNS PTR black list. They want me to upgrade to a business account ($150 to set up and $ 95 per month) plus a static IP ($ 18 per month) plus DNS setup fees ($50 per record). Now I wonder, is this to reduce spam or free speech.",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1481719019",
+			"date_added": 1481719659
 		}
 	],
 	"follow": [

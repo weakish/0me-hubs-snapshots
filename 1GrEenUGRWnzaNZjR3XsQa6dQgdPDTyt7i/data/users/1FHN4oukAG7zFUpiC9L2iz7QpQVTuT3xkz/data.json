@@ -1,5 +1,5 @@
 {
-	"next_post_id": 136,
+	"next_post_id": 137,
 	"next_comment_id": 410,
 	"next_follow_id": 69,
 	"avatar": "jpg",
@@ -681,6 +681,11 @@
 			"post_id": 1481689724,
 			"body": "在zeroblog中插入flash失败。本来想建个flash小游戏怀旧网站的（很多优秀的小游戏4399上都找不着了）",
 			"date_added": 1481689589
+		},
+		{
+			"post_id": 1481718970,
+			"body": "[flash小游戏怀旧论坛](http://127.0.0.1:43110/1KNMtbcaDhKXaU96MeU57BawDD9KX9xqkn)\n目前实现的功能： \n1.图片和swf储存为optional  \n2.贴图  \n暂时未实现的功能： \n1.新用户的content.json创建时就拥有发布optional文件的功能 \n2.一键上传  \n3.图片的相对链接（自动把地址从127.0.0.1转为代理地址）",
+			"date_added": 1481718834
 		}
 	],
 	"post_like": {
