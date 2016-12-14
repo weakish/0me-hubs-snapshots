@@ -1,5 +1,5 @@
 {
-	"next_post_id": 156,
+	"next_post_id": 158,
 	"next_comment_id": 170,
 	"next_follow_id": 32,
 	"avatar": "jpg",
@@ -561,6 +561,16 @@
 			"post_id": 1481275816,
 			"body": "Question: How to use Zeronet to write huge text?\nZeroMe is good: you post a little message, people can read it and comment it. And what if I want to be in process of writing and editing something bigger. For example I have idea of writing about \"The Stupidity\", this phenomena has many interesting sides. Sometimes ideas pop up in my mind which are in this direction, and I do not want just post fragments, I want to try collect those pieces into whole text to see if something good will happen out of it. I imagine it like writing a program - you adding new fragments of code, compile, run, see what happens, correcting errors, testing, editing existing code, remove some parts or rewrite some parts, et cetera. I know I can do this purely offline using text editor (I love FAR), but how about allow other people to see and comment during this process? Is there appropriate tool in ZeroNet for it? What is ZeroBlog? Can I use it for that purpose? And I do not want to spend months to become website designer for this simple purpose, so do not tell me to learn html/java and create my own zerosite.",
 			"date_added": 1481275661
+		},
+		{
+			"post_id": 1481711468,
+			"body": "Youtube Fun: Another reason why to not watch TV.\nIt's \"laugh-orb-ics\" cartoon episode n.29: https://www.youtube.com/watch?v=tYwRboTdqcw&list=ELz1kTQoPdsrA&index=29",
+			"date_added": 1481711312
+		},
+		{
+			"post_id": 1481713288,
+			"body": "HTML is just txt with some commands <bla-bla>.\nI decided to look inside of some books (in html format) recently, and what I have found? Html is just plain as txt with some commands like <this is paragraph> or <this is head>. And most of those commands tell browser to activate something until same command with symbol \"/\" (or maybe it is \"\\\") like </this is paragraph> appears to tell browser to stop. So HTML is simple. You just need to have some \"dictionary\"-book of commands and thats it - you know HTML! So I do not need to clone someone's blog for purpose to public big text. Next step is to create some test html zeronet site and ask people can they see it.",
+			"date_added": 1481713131
 		}
 	],
 	"post_like": {

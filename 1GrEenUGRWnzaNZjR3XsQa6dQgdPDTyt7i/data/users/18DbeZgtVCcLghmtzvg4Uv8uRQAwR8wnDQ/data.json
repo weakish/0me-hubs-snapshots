@@ -1,11 +1,11 @@
 {
-	"next_post_id": 15,
-	"next_comment_id": 30,
-	"next_follow_id": 16,
+	"next_post_id": 20,
+	"next_comment_id": 31,
+	"next_follow_id": 17,
 	"avatar": "jpg",
-	"user_name": "Jro",
+	"user_name": "jro",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"intro": "Dev comp. & alternative money\n\nZite http://127.0.0.1:43110/1JeHa67QEvrrFpsSow82fLypw8LoRcmCXk/\nNot finished but can be used for encrypted chat",
+	"intro": "Money Network dev.\n\nhttp://127.0.0.1:43110/1JeHa67QEvrrFpsSow82fLypw8LoRcmCXk/\nNot finished but can be used for encrypted chat\n\nPM: Not ready but will be using Money Network for chat messages",
 	"post": [
 		{
 			"post_id": 1475426574,
@@ -43,13 +43,31 @@
 			"body": "Money Network\nhttp://127.0.0.1:43110/1JeHa67QEvrrFpsSow82fLypw8LoRcmCXk\n\nOnly minor changes in the UI. Fixed some css problems and added more hits how to use the private chat part of the site. Including hits how to start a private group chat.\n\nInternal many changes. Now keeping track of received and not received messages. Trying to keep data.json small for fast chat and must sometime delete messages that maybe have not been received. Added a message lost in cyberspace function to fix this problem.\n\nWill finish the chat part of the project and maybe split the site in two. One site with private chat alone and this site with Money Network and chat as a integrated function.\n\nPic with a private group chat from a \"message lost in cyberspace\" test",
 			"date_added": 1480789471,
 			"meta": "{\"img\":\"626,700,eeecccfffeddddccdfddddb7dc9fd8eb9bdeacdacedef,00000000000110002030455555503155000006002277811622299A331BB0220003CDB22000355EE00006555500\"}"
+		},
+		{
+			"post_id": 1481045653,
+			"body": "Money Network\nhttp://127.0.0.1:43110/1JeHa67QEvrrFpsSow82fLypw8LoRcmCXk\n\n- Added keysize - JSEncrypt - to login page. Takes some time to generate private keys > 2048 bits ...\n- Added ZeroNet cryptMessage plugin encryption to Money Network. Now it is possible to use JSEncrypt and ZeroNet's build-in encryption in private chat.\n\nChanges a lot of JS code today. Will test tomorrow. \n\npicture: Guest login page (select keysize) and Account page (change preferred encryption) \n",
+			"date_added": 1481045637,
+			"meta": "{\"img\":\"463,700,eeefffdddcccbbbbabaa9b99,0000000000111122222200000000223233244456432270010000001000000100000111\"}"
+		},
+		{
+			"post_id": 1481103546,
+			"body": "http://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:98:Changelog:+December+5,+2016",
+			"date_added": 1481103529
+		},
+		{
+			"post_id": 1481134787,
+			"body": "Money Network minor update. Added deep links. They can be used for personal chat and for group chats. Chat with me on:\n\nhttp://127.0.0.1:43110/1JeHa67QEvrrFpsSow82fLypw8LoRcmCXk/?path=/chat/aa7719e6f2ec986c58a823acdf49a3dcc84c8779e278640108d7897c1e59e1a6",
+			"date_added": 1481134769
 		}
 	],
 	"post_like": {
 		"16dVbybDseQBQnxdJDuQhCzYAij8iR8YEc_1474633058": 1474647400,
 		"1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1475844491": 1475851245,
 		"1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476010594": 1476175470,
-		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1480857311": 1480927577
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1480857311": 1480927577,
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481134045": 1481135207,
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481220347": 1481270500
 	},
 	"comment": [
 		{
@@ -201,6 +219,12 @@
 			"body": "A more FB like social network would be nice. I am looking forward to see how you will implement privacy on ZeroNet. ",
 			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1480857311",
 			"date_added": 1480927754
+		},
+		{
+			"comment_id": 30,
+			"body": "Will do that. Just an idea. Make tags clickable in your search results. And maybe a tag cloud. Could be nice to see the most popular tags.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481220347",
+			"date_added": 1481270908
 		}
 	],
 	"follow": [
@@ -280,13 +304,6 @@
 			"auth_address": "1889tLMuZze7YMshhe8u5h4NT4SSiA4PVB",
 			"user_name": "Zanity",
 			"date_added": 1479959268
-		},
-		{
-			"follow_id": 15,
-			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-			"auth_address": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L",
-			"user_name": "Alex",
-			"date_added": 1480927768
 		}
 	],
 	"settings": {

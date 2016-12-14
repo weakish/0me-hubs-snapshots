@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 70,
+	"next_comment_id": 71,
 	"user_name": "Generate",
 	"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
 	"post_like": {
@@ -419,6 +419,12 @@
 			"body": "@Lmath: 原理差不多。。嗯。。实际上实现方法不唯一，有抛弃一部分背景图像信息（如最左侧图像）来实现的方法，也有对图像信息进行锐化之后从中再筛选数据进行合并，也有在链接后面加上一长串hash tag来控制图像数据并求出最优解，等等",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481546460",
 			"date_added": 1481628720
+		},
+		{
+			"comment_id": 70,
+			"body": "@Rainlime: 并不是被爬才Ban的，而是悟空系统自动Ban掉任何来自tor出口的流量",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481702982",
+			"date_added": 1481712479
 		}
 	]
 }
