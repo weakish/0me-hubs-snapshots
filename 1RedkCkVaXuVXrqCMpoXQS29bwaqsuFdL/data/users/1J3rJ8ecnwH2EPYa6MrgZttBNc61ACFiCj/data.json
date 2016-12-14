@@ -1,6 +1,6 @@
 {
-	"next_post_id": 22,
-	"next_comment_id": 129,
+	"next_post_id": 23,
+	"next_comment_id": 130,
 	"next_follow_id": 31,
 	"avatar": "png",
 	"user_name": "Nofish",
@@ -109,6 +109,12 @@
 			"body": "Internet freedom around the world declined in 2016 for the sixth consecutive year.\nhttps://freedomhouse.org/report/freedom-net/freedom-net-2016\n\nTwo-thirds of all internet users – 67 percent – live in countries where criticism of the government, military, or ruling family are subject to censorship.",
 			"date_added": 1480340143,
 			"meta": "{\"img\":\"900,446,fffded9dbdddeeecccbdd4ba7cbbbc78a67a9aceedddbcca,0123444540678149ABCD0620D55910004E4F446000411DD410\"}"
+		},
+		{
+			"post_id": 1481673938,
+			"body": "Coffeescript-less and simplified rework of the ZeroChat tutorial:\nhttp://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:99:ZeroChat+tutorial+(new)\nPlus now you can create new site using ZeroHello, so you need no to open command line for the tutorial!\n(If you going to do it, please update to Rev1785)",
+			"date_added": 1481673916,
+			"meta": "{\"img\":\"900,530,eeefeedddfffdde,000011120000000000000003333131444200333333333333333333333333\"}"
 		}
 	],
 	"post_like": {
@@ -878,6 +884,12 @@
 			"body": "The network distribute the user's json files. The .db downloaded from other users, but automatically generated from the json files (so its just a cache for faster and easier data access)",
 			"post_uri": "1A2pTbDfU7P1JLSw3SZTiA1Lf7SRSu4Nn9_1480539305",
 			"date_added": 1480541591
+		},
+		{
+			"comment_id": 129,
+			"body": "I'm planning to do a level2 version of the chat tutorial with Merger sites feature (channels), Newsfeed, and maybe image uploading",
+			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1481673938",
+			"date_added": 1481674860
 		}
 	],
 	"follow": [
