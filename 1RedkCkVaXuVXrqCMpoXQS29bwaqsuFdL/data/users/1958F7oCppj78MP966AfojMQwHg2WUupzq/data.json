@@ -1,6 +1,6 @@
 {
 	"next_post_id": 58,
-	"next_comment_id": 225,
+	"next_comment_id": 226,
 	"next_follow_id": 234,
 	"avatar": "png",
 	"user_name": "Lmath",
@@ -1567,9 +1567,15 @@
 		},
 		{
 			"comment_id": 224,
-			"body": "@Generate: 然而我这里挂 Tor 访问正常，难道我们用的不是一个 Tor 。",
+			"body": "@Generate: ~~然而我这里挂 Tor 访问正常，难道我们用的不是一个 Tor ？或许是平台不同？我目前是 Windows 平台。经过测试似乎无法登录。~~换用新线路后成功登录。",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481702982",
 			"date_added": 1481713097
+		},
+		{
+			"comment_id": 225,
+			"body": "@Rainlime: 我也遇到了同样的问题，被 403 了。换用新线路以后就又可以用了，至今还没被继续 ban 。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481702982",
+			"date_added": 1481713395
 		}
 	],
 	"follow": [

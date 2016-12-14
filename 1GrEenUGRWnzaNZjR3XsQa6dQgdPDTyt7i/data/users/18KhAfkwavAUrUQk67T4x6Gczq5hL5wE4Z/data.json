@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 130,
+	"next_comment_id": 145,
 	"user_name": "Generate",
 	"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
 	"post_like": {
@@ -761,6 +761,96 @@
 			"body": "@P2P: +1，或者利用ipfs来做个跳转",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481689724",
 			"date_added": 1481712574
+		},
+		{
+			"comment_id": 130,
+			"body": "@Rainlime: +1，和这个毫无关联",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481689724",
+			"date_added": 1481713657
+		},
+		{
+			"comment_id": 131,
+			"body": "在ipfs上传一个游戏加载网页，从页面query中加载就行了",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481689724",
+			"date_added": 1481713734
+		},
+		{
+			"comment_id": 132,
+			"body": "然而并不稳定。。msf框架被我搞崩好几回了。。。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481713826",
+			"date_added": 1481713803
+		},
+		{
+			"comment_id": 133,
+			"body": "@Rainlime: wikipad搬上来得有几百G。。很艰巨的一个任务",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481713892
+		},
+		{
+			"comment_id": 134,
+			"body": "@Rainlime: 单搬中文精简压缩版都有60多G，在zn解压json存储。。BOOM",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481713939
+		},
+		{
+			"comment_id": 135,
+			"body": "@Rainlime: fedora稳定性不错，可以试试",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481713826",
+			"date_added": 1481714184
+		},
+		{
+			"comment_id": 136,
+			"body": "@Rainlime: 我的数据源是kiwix压缩版的（带多媒体数据完整版）另外。。好像弄错了，英文原版才是53.00GB（5142295art，4256768medi），中文的只有2.45GB，880293art，85214media",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481714482
+		},
+		{
+			"comment_id": 137,
+			"body": "@Rainlime: 这也是现阶段没办法的事了。。",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481714500
+		},
+		{
+			"comment_id": 138,
+			"body": "@Rainlime: 嗯^_^",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481713826",
+			"date_added": 1481714601
+		},
+		{
+			"comment_id": 139,
+			"body": "@Rainlime: 不过。。我有个算法可以在网页上使用lzma算法的压缩，把文字直接压缩成bytes，但是不知道允不允许这么存。。",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481714724
+		},
+		{
+			"comment_id": 140,
+			"body": "@Rainlime: 应该也是可以的把，我先把压缩算法应用到的那个demo放上来",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481714764
+		},
+		{
+			"comment_id": 141,
+			"body": "@Rainlime: 尽量原生化吧。。用户使用成本越低越好",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481714911
+		},
+		{
+			"comment_id": 142,
+			"body": "@Rainlime: OK，已发布，大概等十分钟就能看到",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481715349
+		},
+		{
+			"comment_id": 143,
+			"body": "@Rainlime: ~~https://bit.no.com:43110/1AKTPjiwmMGUgpyBHgLKntGGzXUFUtqcUi/CryptoStego/example/canvas_copy_to_imgsrc_example/index.html~~",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481715490
+		},
+		{
+			"comment_id": 144,
+			"body": "貌似因为frame的安全设置而崩溃，正在fix",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481715658
 		}
 	]
 }

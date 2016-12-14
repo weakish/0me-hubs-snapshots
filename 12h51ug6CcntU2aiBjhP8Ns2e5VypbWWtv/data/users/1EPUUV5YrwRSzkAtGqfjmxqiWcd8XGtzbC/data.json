@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
 	"next_comment_id": 2,
-	"next_follow_id": 1,
+	"next_follow_id": 3,
 	"avatar": "generate",
 	"settings": {
 		"comment_order": false,
@@ -21,7 +21,11 @@
 	],
 	"post_like": {
 		"1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_1481628573": 1481632917,
-		"17z9bkjwGkCNEGCJ9E6TUu1kEs5V1f7zYL_1481632982": 1481633022
+		"17z9bkjwGkCNEGCJ9E6TUu1kEs5V1f7zYL_1481632982": 1481633022,
+		"1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_1481559929": 1481713812,
+		"1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_1481615450": 1481713825,
+		"1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_1481662686": 1481713838,
+		"1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_1480076666": 1481714114
 	},
 	"comment": [
 		{
@@ -31,7 +35,22 @@
 			"date_added": 1481633055
 		}
 	],
-	"follow": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92",
+			"user_name": "fre3net",
+			"date_added": 1481713796
+		},
+		{
+			"follow_id": 2,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1NXas4VQNUb9Vgd6zW7E1xGPUCfcxSXBF5",
+			"user_name": "Xiku Francesc",
+			"date_added": 1481713864
+		}
+	],
 	"flags": {},
 	"blocked": [],
 	"comment_like": {}

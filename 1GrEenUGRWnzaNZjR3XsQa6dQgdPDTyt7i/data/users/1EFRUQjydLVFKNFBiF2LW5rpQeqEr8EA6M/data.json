@@ -1,6 +1,6 @@
 {
-	"next_post_id": 97,
-	"next_comment_id": 254,
+	"next_post_id": 98,
+	"next_comment_id": 261,
 	"next_follow_id": 147,
 	"avatar": "jpg",
 	"user_name": "Rainlime",
@@ -467,6 +467,11 @@
 			"post_id": 1481622555,
 			"body": "果然...还是把博客和技术贴分开吧...",
 			"date_added": 1481622459
+		},
+		{
+			"post_id": 1481713826,
+			"body": "想了一下我到底需要一个什么样的工作环境 \n包不要太老 有活跃的社区开发和支持\n能够相对稳定的运行 使用 deb 包\n好吧 我需要的是 Kali Linux...\n",
+			"date_added": 1481713729
 		}
 	],
 	"post_like": {
@@ -1997,6 +2002,48 @@
 			"body": "@Lmath: 我觉得不如想办法把 Wikipedia 搬上来，比如用 Btsync 什么的... 毕竟这个 Wiki 功能太少了 另外你可以找管理员申请一个不受 IP 限制的帐号（此外听说给 Wikipedia 捐款后收到回执邮件中的注册链接不受此限制）",
 			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
 			"date_added": 1481712762
+		},
+		{
+			"comment_id": 254,
+			"body": "@Lmath: 这个好象是过滤 Markdown 贴图的吧？另外这个是 ZeroTalk...",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481689724",
+			"date_added": 1481713575
+		},
+		{
+			"comment_id": 255,
+			"body": "@Generate: 但就是 Debian Stable 在我这里也经常崩.... 说不定 Kali 会好 毕竟包更新",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481713826",
+			"date_added": 1481714009
+		},
+		{
+			"comment_id": 256,
+			"body": "@Generate: 我当时打包的纯数据（包括图片）中英文加起来不超过 30 G .... 可以直接放在 U 盘里... 然而现在找不到了 隔几天再去研究一下吧...",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481714110
+		},
+		{
+			"comment_id": 257,
+			"body": "@Generate: 然而不适应 RPM 的.. 如果 Kali 也会崩的话就去试试",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481713826",
+			"date_added": 1481714267
+		},
+		{
+			"comment_id": 258,
+			"body": "@Generate: Json 储存空间利用率是个坑啊...",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481714317
+		},
+		{
+			"comment_id": 259,
+			"body": "@Generate: 不用纠结现有的架构呀 只要使用体验够好就行 大文件什么的还可以上 BTsync / Syncthing / IPFS",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481714822
+		},
+		{
+			"comment_id": 260,
+			"body": "@Generate: OK  那我就先去折腾 Kali 了～",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481714919
 		}
 	],
 	"follow": [
