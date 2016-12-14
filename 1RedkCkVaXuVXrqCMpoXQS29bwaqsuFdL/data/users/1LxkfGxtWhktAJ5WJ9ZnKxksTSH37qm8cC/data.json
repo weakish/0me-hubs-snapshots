@@ -1,5 +1,5 @@
 {
-	"next_post_id": 70,
+	"next_post_id": 73,
 	"next_comment_id": 55,
 	"next_follow_id": 14,
 	"avatar": "generate",
@@ -270,11 +270,6 @@
 			"date_added": 1479539252
 		},
 		{
-			"post_id": 1479544886,
-			"body": "~~For those who are using ZeroMux Bundle:~~\n~~You may have noticed that, you can't delete files, yet,~~\n~~because I am still writing this. I guess it will come out next week.~~\n\n~~For this week, you can make a temporary Trash folder for your unwanted files.~~",
-			"date_added": 1479544830
-		},
-		{
 			"post_id": 1479546563,
 			"body": "## ZeroMux Bundle needs more testers\nI have tested ZeroMux Bundle on my own machine, but I don't have access to an Mac computer or a Linux computer. Could someone help me test [ZeroMux Bundle](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/docs/) on his or her computer?",
 			"date_added": 1479546506
@@ -298,11 +293,6 @@
 			"post_id": 1480035058,
 			"body": "## Mozilla\n**[Bug 1313268](https://bugzilla.mozilla.org/show_bug.cgi?id=1313268) - Iframe renders a remote xul error**\nReported:  2016-10-26 19:07 PDT\n\nLoic 2016-10-28 01:10:57 PDT\nMaybe a dupe of ~~bug 1203813~~.\n\n**[Bug 1203813](https://bugzilla.mozilla.org/show_bug.cgi?id=1203813) - iframe requires allow-popups to download**\nReported:  2015-09-10 19:45 PDT\nStatus:  RESOLVED FIXED\n\nBug report got investigated in a day; bug being actively fixed.\n- - -\n\n## Chromium\n**[Issue 379206](https://bugs.chromium.org/p/chromium/issues/detail?id=379206) - Not allowed to load local resource: blob:null/d9d5f7c1-493c-4d8c-a986-3e3135da5da3**\nReported by dirk.cit...@gmail.com, May 30 **2014**\n\nComment 4 by tnakamura@chromium.org, Jun 27 2014\n**Status: WontFix**\n\nThere hasn't been a response from the reporter to comment #1 for nearly a month, so I'm closing this bug.\n\nComment 5 by Deleted ...@, Aug 14 2014\n\nI have same problem and \"--allow-file-access-from-files\" doesn't help\n\nComment 6 by tnakamura@chromium.org, Aug 14 2014\n\nalex@ - please file a new bug, and if possible, attach the test html page that triggers the problem. Thanks!\n\nAlex did not respond, and this bug remains in Chrome for two years. You can still reproduce this bug in ZeroNet's iframe using the latest Google Chrome.\n\nThis famous bug was also found, mentioned and cited in:\n[WebTorrent Gitter Archive](https://gitter.im/feross/webtorrent/archives/2015/12/27)\n> solidkim @solidkim\n> Dec 27 2015 03:11\n> Not allowed to load local resource: blob:null ???\n\n[WebTorrent issue #537](https://github.com/feross/webtorrent/issues/537)\n> Feross:\n> Because `https://webtorrent.io` is not served over `file://`. If you look in your location bar, you'll see that you are loading the site directly from your filesystem, which Chrome doesn't like.\n\n[WebTorrent issue #783](https://github.com/feross/webtorrent/issues/783)\n> ndm13:\n> Just came across this while doing local development. Apparently it's a long-standing Chromium bug that people run into every few months. I don't know a workaround, although one StackOverflow user worked around it by passing the data as an array (which obviously won't be feasible for WebTorrent.\n",
 			"date_added": 1480034997
-		},
-		{
-			"post_id": 1480054147,
-			"body": "People read through the documentation and feel overwhelmed. Probably I have to make a simpler API for video streaming as well...",
-			"date_added": 1480054085
 		},
 		{
 			"post_id": 1480491237,
@@ -340,6 +330,17 @@
 			"post_id": 1481600368,
 			"body": "Tried Tor Always mode. \n`--tor always --disable_udp --tor_proxy 127.0.0.1:9150 --tor_controller 127.0.0.1:9151`\nUnable get my content published. Switched to `--tor disable --proxy 127.0.0.1:9150 --disable_udp`, not being a good seeder.",
 			"date_added": 1481600299
+		},
+		{
+			"post_id": 1481692571,
+			"body": "Trying to make video streaming work with ZeroMux. I made it load \"lazily\" to allow longer videos. (As long as we have enough seeders, who cares about size? :)\n\n### A Video Streamer videos for ZeroMux  \nthat doesn't depend on WebRTC or IPFS\n\nProgress Report\n`[+]` \"Lazy load\" algorithm\n`[ ]` Make a well-wrapped API\n`[ ]` Support seeking\n`[ ]` Make it into ZeroMux Bundle\n\nWorking demos:\n[OreGairu](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/?type=video/mp4&codecs=avc1.640028,mp4a.40.2&json=files/yrc_ed_mp4/file.json&moov=files/yrc_ed_mp4/yrcedmoov.dat&poster=files/yrc_ed_mp4/poster.jpg) (Use Firefox) [Another OreGairu video](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/?type=video/mp4&codecs=avc1.640028,mp4a.40.2&json=files/yrc_op_mp4/file.json&poster=files/yrc_op_mp4/poster.png) (Use Firefox)",
+			"date_added": 1481692500,
+			"meta": "{\"img\":\"706,700,dddcbbdcbeaad88aa9988ca9a88766755977eeeb99644333,01021002201334556110744489991744828ABAB0344796069C3A91662DE626ABAE67A57BE9699D9E6E6E99ABAE5B9E9BA9EF\"}"
+		},
+		{
+			"post_id": 1481692874,
+			"body": "@nofish: I can't drag the 0 button in the latest Firefox.",
+			"date_added": 1481692802
 		}
 	],
 	"post_like": {
