@@ -1,6 +1,6 @@
 {
 	"next_post_id": 23,
-	"next_comment_id": 130,
+	"next_comment_id": 131,
 	"next_follow_id": 31,
 	"avatar": "png",
 	"user_name": "Nofish",
@@ -890,6 +890,12 @@
 			"body": "I'm planning to do a level2 version of the chat tutorial with Merger sites feature (channels), Newsfeed, and maybe image uploading",
 			"post_uri": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1481673938",
 			"date_added": 1481674860
+		},
+		{
+			"comment_id": 130,
+			"body": "Thanks for reporting, fixed in Rev1786",
+			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1481692874",
+			"date_added": 1481707807
 		}
 	],
 	"follow": [
