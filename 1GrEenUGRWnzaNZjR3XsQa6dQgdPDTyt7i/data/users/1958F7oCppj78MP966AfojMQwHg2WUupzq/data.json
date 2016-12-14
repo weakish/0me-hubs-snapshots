@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 529,
+	"next_comment_id": 531,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -3176,6 +3176,18 @@
 			"body": "@Generate: @猫叉酱: @Rainlime: 实际上点击链接后不是在浏览器中打开而是下载这个确实是一个 Feature 而不是 Bug ，以前并不是这样的。但是目前由于 Google 希望尽快淘汰 Flash ，所以最近几个版本对 Flash 做了很多限制。",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481718970",
 			"date_added": 1481727284
+		},
+		{
+			"comment_id": 529,
+			"body": "@Rainlime: @Generate: 实际上，在 Flash 开发的那个年代，确实哪家都不怎么注意安全的（那时主流的个人操作系统都没啥权限控制）。不过其他有一些软件经过了架构改动和不兼容的阵痛以后安全性变得好了，而 Flash 之前虽然也做过一些大改动，但是看起来不是很彻底，可以看出投入是不够的（据说 PPAPI 版本的 Flash 还是当年 Google 要了源码以后帮它们做的）。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481718970",
+			"date_added": 1481727644
+		},
+		{
+			"comment_id": 530,
+			"body": "@猫叉酱: 在我看来，目前 Flash 很大的问题就是与浏览器内置的权限等机制格格不入然后再造了一套，而且由于不明原因（架构问题？） CPU 占用总是很高。另外就是 swf 自带了一些闭源属性。\n另外，貌似甲骨文对干儿子们也没怎么好过。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481718970",
+			"date_added": 1481728833
 		}
 	],
 	"flags": {},
