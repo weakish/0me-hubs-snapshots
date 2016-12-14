@@ -1,9 +1,9 @@
 {
-	"next_post_id": 3,
-	"next_comment_id": 1,
+	"next_post_id": 4,
+	"next_comment_id": 5,
 	"next_follow_id": 1,
 	"avatar": "jpg",
-	"user_name": "<h1><Green>Generate</Green></h1>",
+	"user_name": " Generate <--假装是绿色",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"intro": "新 ZeroNet 用户",
 	"post": [
@@ -16,9 +16,33 @@
 			"post_id": 1481723581,
 			"body": "有啥办法可以更改自己名字的颜色吗？",
 			"date_added": 1481723579
+		},
+		{
+			"post_id": 1481724014,
+			"body": "推荐一个博客以及zeronet上最早的游戏：\nhttp://127.0.0.1:43110/eroz.bit/\nhttp://127.0.0.1:43110/eroz.bit/tanker.html",
+			"date_added": 1481724011
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "咦~你也换到这边来了？",
+			"post_uri": "1Q3xYc3P8i2WDj621HvSbfEqTP4aMLpKYU_1481725966",
+			"date_added": 1481726315
+		},
+		{
+			"comment_id": 3,
+			"body": "@Rainlime: ^_^",
+			"post_uri": "1Q3xYc3P8i2WDj621HvSbfEqTP4aMLpKYU_1481725966",
+			"date_added": 1481726714
+		},
+		{
+			"comment_id": 4,
+			"body": "@Rainlime: 晚安~",
+			"post_uri": "1Q3xYc3P8i2WDj621HvSbfEqTP4aMLpKYU_1481725966",
+			"date_added": 1481726740
+		}
+	],
 	"follow": []
 }
