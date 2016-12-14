@@ -1,0 +1,17 @@
+{
+ "address": "1JUDmCT4UCSdnPsJAHBoXNkDS61Y31Ue52",
+ "cert_auth_type": "web",
+ "cert_sign": "G0lfTjFYnaqzSfMNj1f9AVpoiEAVQ7lmZXIdAedIIVM02mtvoIG5vyEXK6RNeDQQtv3Fdwugk6522iTVlAiaZRQ=",
+ "cert_user_id": "bezdna@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "10a4b164f24ac3cbb4bb2532f4d914d16557cfe660140d10db354ce862904d0a",
+   "size": 338
+  }
+ },
+ "inner_path": "data/users/1KGjw62VbKqGtehKJ1MA6cF6s8KmAQY8ha/content.json",
+ "modified": 1481696336.662,
+ "signs": {
+  "1KGjw62VbKqGtehKJ1MA6cF6s8KmAQY8ha": "GwSDQ3GzfaBbKxdEA7AsyNAzqic2TBaLJxgnDN/Qgn+czUYA+QSIRs49baswXdNLbcHErc/6ighv2dUq3qMO37o="
+ }
+}
