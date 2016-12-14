@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 516,
+	"next_comment_id": 518,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -3098,6 +3098,18 @@
 			"body": "@Generate: 是的，但是这样做出来的看起来确实相对靠谱，如果想不定向折腾那些玩意儿成本会相当大。不反对云备份，但是一定要自己加密过的东西才能扔上去。",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481622555",
 			"date_added": 1481625609
+		},
+		{
+			"comment_id": 516,
+			"body": "被 Sandbox 卡住了？",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481689724",
+			"date_added": 1481689642
+		},
+		{
+			"comment_id": 517,
+			"body": "@猫叉酱: 就是这样的。出于安全考虑，带 sandbox 属性的 <iframe> 禁止加载 Flash ，直接访问 Flash 的地址是没 sandbox 的，应该可以。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481689724",
+			"date_added": 1481689824
 		}
 	],
 	"flags": {},
