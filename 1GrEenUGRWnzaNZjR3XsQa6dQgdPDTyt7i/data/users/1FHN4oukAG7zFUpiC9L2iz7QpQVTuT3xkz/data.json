@@ -1,6 +1,6 @@
 {
 	"next_post_id": 137,
-	"next_comment_id": 410,
+	"next_comment_id": 415,
 	"next_follow_id": 69,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
@@ -684,7 +684,7 @@
 		},
 		{
 			"post_id": 1481718970,
-			"body": "[flash小游戏怀旧论坛](http://127.0.0.1:43110/1KNMtbcaDhKXaU96MeU57BawDD9KX9xqkn)\n目前实现的功能： \n1.图片和swf储存为optional  \n2.贴图  \n暂时未实现的功能： \n1.新用户的content.json创建时就拥有发布optional文件的功能 \n2.一键上传  \n3.图片的相对链接（自动把地址从127.0.0.1转为代理地址）",
+			"body": "[flash小游戏怀旧论坛](http://127.0.0.1:43110/1KNMtbcaDhKXaU96MeU57BawDD9KX9xqkn)\n目前实现的功能： \n1.图片和swf储存为optional  \n2.贴图  \n暂时未实现的功能： \n1.新用户的content.json创建时就拥有发布optional文件的功能 \n2.一键上传  \n3.图片的相对链接（自动把地址从127.0.0.1转为代理地址）\nBug:\n1.文件名不能带空格\n2.某些浏览器必须右键打开新窗口",
 			"date_added": 1481718834
 		}
 	],
@@ -3149,6 +3149,36 @@
 			"body": "@莱文倩: 都说是怀旧了",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481689724",
 			"date_added": 1481701675
+		},
+		{
+			"comment_id": 410,
+			"body": "大家帮忙测试一下",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481718970",
+			"date_added": 1481720443
+		},
+		{
+			"comment_id": 411,
+			"body": "@Generate: 我的chrome也遇到相同问题，但是国产的chrome内核浏览器反而能正常运行",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481718970",
+			"date_added": 1481720922
+		},
+		{
+			"comment_id": 412,
+			"body": "@Rainlime: 看来下载速度差不多只有34k",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481718970",
+			"date_added": 1481721103
+		},
+		{
+			"comment_id": 413,
+			"body": "@Generate: 所以加上怀旧二字，有些flash小游戏确实很有意思",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481718970",
+			"date_added": 1481721245
+		},
+		{
+			"comment_id": 414,
+			"body": "@Generate: 这是浏览器的锅，zeronet已经下载好了",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481718970",
+			"date_added": 1481721321
 		}
 	],
 	"follow": [
