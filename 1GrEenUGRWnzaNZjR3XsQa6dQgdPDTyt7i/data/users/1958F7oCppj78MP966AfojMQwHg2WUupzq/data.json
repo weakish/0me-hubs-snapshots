@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 531,
+	"next_comment_id": 535,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -36,7 +36,8 @@
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481434522": 1481434595,
 		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481452400": 1481464304,
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481545869": 1481595202,
-		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481621229": 1481621852
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481621229": 1481621852,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481773087": 1481789649
 	},
 	"comment": [
 		{
@@ -3188,6 +3189,30 @@
 			"body": "@猫叉酱: 在我看来，目前 Flash 很大的问题就是与浏览器内置的权限等机制格格不入然后再造了一套，而且由于不明原因（架构问题？） CPU 占用总是很高。另外就是 swf 自带了一些闭源属性。\n另外，貌似甲骨文对干儿子们也没怎么好过。",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481718970",
 			"date_added": 1481728833
+		},
+		{
+			"comment_id": 531,
+			"body": "@Generate: 那么为啥我这里其他工具都很好使，但是 Hotspot Shield 老断？还有你说的“公共代理”是什么意思？很多人说用天行被盗号，而且感觉一个国产又不开源的捆绑浏览器的东西做了什么很难说啊！",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481783287",
+			"date_added": 1481789812
+		},
+		{
+			"comment_id": 532,
+			"body": "@莱文倩: @Rainlime: 然而 fg 以前还出了个封包管理器什么的，看起来黑科技多，但是我这里经常断线或者找不到服务器，倒是无界浏览无论是速度还是稳定性都比较好。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481783287",
+			"date_added": 1481790053
+		},
+		{
+			"comment_id": 533,
+			"body": "@12hstudy: 没有半点吵架的意思！这种完全无中生有的东西，你编造谣言说一遍，你等于……你也有责任吧。但是 HS 是公用的不是更容易被封么？服务器地址太好找了，而且它还特意宣传是用来访问被封的网络的……",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481783287",
+			"date_added": 1481791169
+		},
+		{
+			"comment_id": 534,
+			"body": "@12hstudy <--假装是蓝色: 所以从原理上说为啥你说它不容易被打死？它也没用类似于 meek 那种如果想封就必须与许多正常内容一起封来增加代价的方法啊！",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481783287",
+			"date_added": 1481791591
 		}
 	],
 	"flags": {},

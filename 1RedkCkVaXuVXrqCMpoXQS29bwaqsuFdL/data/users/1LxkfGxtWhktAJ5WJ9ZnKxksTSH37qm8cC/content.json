@@ -5,8 +5,8 @@
  "cert_user_id": "waterrabbit@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "dd16abb046cc49aa072ea6c9a2705b9404b85897524e29e9801b3dc583fc0fad",
-   "size": 53185
+   "sha512": "46b33acf3bbf9dbdb4a4636cf55a7a8324fd1a871f772e5a08faa6ea92d84b48",
+   "size": 53416
   }
  },
  "files_optional": {
@@ -32,9 +32,9 @@
   }
  },
  "inner_path": "data/users/1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC/content.json",
- "modified": 1481750757.233,
+ "modified": 1481791438.685,
  "optional": "(?!avatar).*jpg",
  "signs": {
-  "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC": "G4k0h+Tj1Nm/XpiEzWul+rl5VvBa7JVAulQU69x7VCZjT8M1GgPRTYXnYE9jS7u6L38UqeJpi1Z1JNR46MitaOg="
+  "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC": "GxMMJfWzQscJyWh2Bc2SJ5+w49dp2P8LVS9CKB+t6ewXDSO5bAESOmoCJE+N/mlYyVnBoQWf2nwh4ioIrbpSDVI="
  }
 }
