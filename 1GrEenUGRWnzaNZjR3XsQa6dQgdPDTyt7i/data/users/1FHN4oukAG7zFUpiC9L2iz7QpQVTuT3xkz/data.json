@@ -1,67 +1,12 @@
 {
-	"next_post_id": 138,
-	"next_comment_id": 418,
+	"next_post_id": 140,
+	"next_comment_id": 419,
 	"next_follow_id": 70,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"intro": "天朝伪娘兼伪娘控一只\n[自己汉化并搭建的图站](http://127.0.0.1:43110/nekox.bit)",
 	"post": [
-		{
-			"post_id": 1,
-			"date_added": 1474945025,
-			"body": "Hello ZeroMe!"
-		},
-		{
-			"post_id": 1475083212,
-			"body": "Nyan~",
-			"date_added": 1475083210
-		},
-		{
-			"post_id": 1476962038,
-			"body": "求zerome plus的地址",
-			"date_added": 1476962035
-		},
-		{
-			"post_id": 1476967829,
-			"body": "什么时候zerome能上传图片就好了",
-			"date_added": 1476967825
-		},
-		{
-			"post_id": 1477149962,
-			"body": "我把NullChan给汉化了一下，但是板块标题仍然用不了中文。\nhttps://github.com/saber28/nullchan\nhttp://127.0.0.1:43110/1fu1iNKkkCZRwD37N6oB6mv1oHWiPVUCf\n我认为还是Zerotalk with img比较有前途。",
-			"date_added": 1477149957
-		},
-		{
-			"post_id": 1477151239,
-			"body": "@P2P 你认为汉化对于发展Zeronet中文社区的意义大吗",
-			"date_added": 1477151232
-		},
-		{
-			"post_id": 1477195460,
-			"body": "第一次知道js和html能互相转换",
-			"date_added": 1477195452
-		},
-		{
-			"post_id": 1477286940,
-			"body": "Optional files是大势所趋",
-			"date_added": 1477286931
-		},
-		{
-			"post_id": 1477306348,
-			"body": "\\#吃喝拉撒 今天晚饭吃的是干丝和蒸鱼，还喝了一杯奶茶",
-			"date_added": 1477306338
-		},
-		{
-			"post_id": 1477315006,
-			"body": "大家的头像全部都保存在Hub里面，全部都压成50*50的大小，大小约为2KB。然而由于文件系统的原因，4kb以下的文件都要占4KB。我的头像大小：1.95 KB (1,998 字节)。占用空间：4.00 KB (4,096 字节)。希望以后能用optional files的方式储存高清头像，起码256x256。最好只储存关注人的头像。",
-			"date_added": 1477314995
-		},
-		{
-			"post_id": 1477318475,
-			"body": "/#ZeroNetDev nullchan.js用记事本编辑比UltraEdit快多了，两百多kb的东西没几个空行，能卡死任何一种编辑器",
-			"date_added": 1477318463
-		},
 		{
 			"post_id": 1477321847,
 			"body": "小站建好了，欢迎大家前来参观\nhttp://127.0.0.1:43110/1fu1iNKkkCZRwD37N6oB6mv1oHWiPVUCf",
@@ -283,12 +228,6 @@
 			"body": "@36 @p2pwave @43110 你们在女装子福利上传图片时，是怎么让节点那么多的？我的图片用了5个代理做种才有6个节点。（别问我怎么知道的，这玩意的匿名是坑爹的）",
 			"date_added": 1478619194,
 			"meta": "{\"img\":\"557,700,fffeeeededddcccdeeefe,01230110000100000044051000000000000100000000000000000000011306000000000002240610\"}"
-		},
-		{
-			"post_id": 1478620259,
-			"body": "事实证明，那种超长的刷屏图是发不出来的，如果有人能看到，请留言",
-			"date_added": 1478620201,
-			"meta": "{\"img\":\"\"}"
 		},
 		{
 			"post_id": 1478620932,
@@ -691,6 +630,16 @@
 			"post_id": 1481773087,
 			"body": "小粉红称呼来源:就是公知想去那年那兔那些事（一部爱国动漫）的贴吧骂人 结果跑到晋江兔吧（一个妹子吐槽聚集地）去了 那个贴吧背景颜色是粉红色 公知上去就骂人家小粉红结果被妹子们骂跑了 然后不愿意承认自己智商低跑错贴吧骂错人 就非得说“小粉红”的意思是红卫兵二代他们并没有找错贴吧\n这就是所谓的“公共知识分子”靠不住的原因。反共是一项技术活，没脑子的人是干不了的。",
 			"date_added": 1481772950
+		},
+		{
+			"post_id": 1481818045,
+			"body": "flash小游戏怀旧论坛更新了\n[盒子人打僵尸](http://127.0.0.1:43110/1KNMtbcaDhKXaU96MeU57BawDD9KX9xqkn/?Topic:2_1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz/+TPS+BoxHead)",
+			"date_added": 1481817907
+		},
+		{
+			"post_id": 1481818361,
+			"body": "我手贱给当服务器的手机升级到安卓7.1，结果SAMBA Droid用不了了，可维护性差了一大截，SMB可以直接在电脑或者手机上修改文件，ftp只能下载→修改→删除→上传",
+			"date_added": 1481818222
 		}
 	],
 	"post_like": {
@@ -701,12 +650,6 @@
 		"1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1480995948": 1481009944
 	},
 	"comment": [
-		{
-			"comment_id": 1,
-			"body": "是啊是啊，非常炫酷",
-			"post_uri": "1AuXf8vz9sdxYkmTQRqUC4AQEwJHhxqN5M_1476089686",
-			"date_added": 1476194769
-		},
 		{
 			"comment_id": 2,
 			"body": "我刚才访问时，返回错误凭据。几分钟后恢复正常",
@@ -750,34 +693,10 @@
 			"date_added": 1476847609
 		},
 		{
-			"comment_id": 9,
-			"body": "@海德拉: 谢谢，我现在就在用zerome plus回复",
-			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1476962038",
-			"date_added": 1476967717
-		},
-		{
 			"comment_id": 10,
 			"body": "Press button “everyone”，and you'll see all the posts",
 			"post_uri": "1JbbLwRjvoa3WnK9dp8DJuiLG4ywkeuuLx_2",
 			"date_added": 1476967960
-		},
-		{
-			"comment_id": 11,
-			"body": "@Woodsfirezyj: 移动版有三条思路：1.手机本地运行、2.用户自己搭建代理、3.云端代理。三个思路各有利弊。手机本地运行Zeronet客户端最方便，但流量、电量、性能、储存空间都得省着点。在移动网络下肯定不能总是加载比较大的资源。用户自己搭建代理要足够易用，包里面除了zerobundle之外还要集成nginx和ddns，最好能有个向导。云端代理可能对去中心化不利，并且要解决多用户问题。",
-			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477151239",
-			"date_added": 1477187156
-		},
-		{
-			"comment_id": 12,
-			"body": "@Woodsfirezyj: 移动端目前两个问题最突出，一个是Python环境，二是站点没有移动页面。希望有大神能搞定",
-			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477151239",
-			"date_added": 1477207737
-		},
-		{
-			"comment_id": 13,
-			"body": "@Chenlefu: 你是程序员吗",
-			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477286940",
-			"date_added": 1477288640
 		},
 		{
 			"comment_id": 14,
@@ -786,22 +705,10 @@
 			"date_added": 1477327722
 		},
 		{
-			"comment_id": 15,
-			"body": "@Rainlime: 可以有",
-			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477321847",
-			"date_added": 1477391222
-		},
-		{
 			"comment_id": 16,
 			"body": "@Annehome: 网站还在调整，首先要把板块的标题改了。现在的标题是为了测试瞎写的",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477321847",
 			"date_added": 1477391277
-		},
-		{
-			"comment_id": 17,
-			"body": "@weakish: 可以减少更新频率，禁止下载optional files",
-			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477151239",
-			"date_added": 1477400702
 		},
 		{
 			"comment_id": 18,
@@ -840,28 +747,10 @@
 			"date_added": 1477408793
 		},
 		{
-			"comment_id": 24,
-			"body": "@weakish: 也许是我的UE设置有问题，打个字好花好几秒，还经常无响应",
-			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477318475",
-			"date_added": 1477411304
-		},
-		{
-			"comment_id": 25,
-			"body": "@weakish: 难道是js/下的那三个文件夹里面的东西编译出来的？那么我是不是应该修改那些文件，然后编译成nullchan.js？",
-			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477318475",
-			"date_added": 1477411929
-		},
-		{
 			"comment_id": 26,
 			"body": "@weakish: 另外，还有个问题：最新（0.4.1）版本的[0chan](127.0.0.1:43110/0chan.bit)不兼容chrome50及以下的版本，这给众多只用手机或者国产浏览器的小白带来了非常大的麻烦",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477321847",
 			"date_added": 1477412194
-		},
-		{
-			"comment_id": 27,
-			"body": "@weakish: 这有点超出我目前的能力范围了，我还得学习一个",
-			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477318475",
-			"date_added": 1477412521
 		},
 		{
 			"comment_id": 28,
@@ -892,12 +781,6 @@
 			"body": "@Treegb: 其实你可以建立你自己的Hub，只要别人下载了那个Hub就可以在这个网站看到Hub里面的信息",
 			"post_uri": "12zuieLqnfp1kB3iGZmThs8FJhTqDaMWyk_1477435952",
 			"date_added": 1477478346
-		},
-		{
-			"comment_id": 33,
-			"body": "@Cxgreat2014: jet脑袋是什么",
-			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477318475",
-			"date_added": 1477478661
 		},
 		{
 			"comment_id": 34,
@@ -988,12 +871,6 @@
 			"body": "@weakish: 代理也没有开15441，因为SSR是随机出口端口",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477649849",
 			"date_added": 1477659643
-		},
-		{
-			"comment_id": 49,
-			"body": "@weakish: 看了下文档，发现原来世界上有这么方便的东西，程序员真牛逼",
-			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477318475",
-			"date_added": 1477659763
 		},
 		{
 			"comment_id": 50,
@@ -3202,6 +3079,12 @@
 			"body": "@P2pwave: 比如1,000,000个页面存储在1,000个节点上，每个节点储存1,000个页面。搜索时把指令发送到这1,000个节点上，分别开始搜索，然后把结果发送回来不就行了？",
 			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481812500",
 			"date_added": 1481816658
+		},
+		{
+			"comment_id": 418,
+			"body": "而且FTP还会莫名其妙地掉线，SAMBA Droid能稳定地开一个星期。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
+			"date_added": 1481818276
 		}
 	],
 	"follow": [
