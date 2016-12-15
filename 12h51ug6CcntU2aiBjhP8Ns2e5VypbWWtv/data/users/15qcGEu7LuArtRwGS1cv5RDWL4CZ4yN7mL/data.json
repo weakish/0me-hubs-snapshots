@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 2,
+	"next_comment_id": 4,
 	"user_name": "12hstudy",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {},
@@ -9,6 +9,18 @@
 			"body": "@Lmath: 可能是hub的原因。。是不是有的hub不允许kaffie的id评论？",
 			"post_uri": "16acoaokZHGVQxE7h4Js6wumHTdtiVogBn_1481787589",
 			"date_added": 1481791028
+		},
+		{
+			"comment_id": 2,
+			"body": "@Lmath: \n@猫叉酱: 看我的这一贴：http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Post/1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i/15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL/1481793370    hash之后通过hsl颜色显示，不会出现那样的情况",
+			"post_uri": "1Q3xYc3P8i2WDj621HvSbfEqTP4aMLpKYU_1481725966",
+			"date_added": 1481793856
+		},
+		{
+			"comment_id": 3,
+			"body": "color: hsl(255,30%,50%)是蓝色 color: hsl(0,30%,50%)是红色，color: hsl(128,30%,50%)是绿色",
+			"post_uri": "1Q3xYc3P8i2WDj621HvSbfEqTP4aMLpKYU_1481725966",
+			"date_added": 1481793979
 		}
 	]
 }

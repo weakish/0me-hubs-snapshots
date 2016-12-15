@@ -1,6 +1,6 @@
 {
-	"next_post_id": 5,
-	"next_comment_id": 6,
+	"next_post_id": 6,
+	"next_comment_id": 11,
 	"next_follow_id": 3,
 	"avatar": "jpg",
 	"user_name": "12hstudy <--假装是蓝色",
@@ -26,6 +26,11 @@
 			"post_id": 1481791179,
 			"body": "虽然好了。。但是。。为啥连续三个号都是紫色ID？难道证明了我是史诗外科医生？",
 			"date_added": 1481791175
+		},
+		{
+			"post_id": 1481793370,
+			"body": "总算找出来ID颜色的算法了，All.js2245-2349：\n```\n    Text.prototype.toColor = function(text, saturation, lightness) {\n      var hash, i, _i, _ref;\n      if (saturation == null) {\n        saturation = 30;\n      }\n      if (lightness == null) {\n        lightness = 50;\n      }\n      hash = 0;\n      for (i = _i = 0, _ref = text.length - 1; 0 <= _ref ? _i <= _ref : _i >= _ref; i = 0 <= _ref ? ++_i : --_i) {\n        hash += text.charCodeAt(i) * i;\n        hash = hash % 1777;\n      }\n      return \"hsl(\" + (hash % 360) + (\",\" + saturation + \"%,\" + lightness + \"%)\");\n    }\n```",
+			"date_added": 1481793365
 		}
 	],
 	"post_like": {},
@@ -59,6 +64,36 @@
 			"body": "@Lmath: 但是，这样打不死的小强才是最好的",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481783287",
 			"date_added": 1481791204
+		},
+		{
+			"comment_id": 6,
+			"body": "@Lmath: 他的服务器多啊，以及对抗GFW有他的方法，你可以逆向去分析一下（至少在75期间所有公共翻墙软件都失效时这一个依然坚挺）",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481783287",
+			"date_added": 1481793068
+		},
+		{
+			"comment_id": 7,
+			"body": "@Apuar: 很重要，好不好看是一个大问题",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481791179",
+			"date_added": 1481793093
+		},
+		{
+			"comment_id": 8,
+			"body": "将自己的比特币地址丢进去就能算出来，如我的地址是15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL，结果便是hsl(307,30%,50%)~~果然这么随机的东西我都能污染~~(逃",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481793370",
+			"date_added": 1481793702
+		},
+		{
+			"comment_id": 9,
+			"body": "@Rainlime: 2333，的确如此",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481793370",
+			"date_added": 1481794034
+		},
+		{
+			"comment_id": 10,
+			"body": "@Lmath: 不知道。。不过那是禁网最严厉的一段时期，比64还严",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481783287",
+			"date_added": 1481794110
 		}
 	],
 	"follow": [
