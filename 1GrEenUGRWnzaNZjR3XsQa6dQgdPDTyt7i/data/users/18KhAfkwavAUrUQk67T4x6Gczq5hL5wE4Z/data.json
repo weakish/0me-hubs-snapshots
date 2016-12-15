@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 155,
+	"next_comment_id": 156,
 	"user_name": "Generate",
 	"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
 	"post_like": {
@@ -911,6 +911,12 @@
 			"body": "@P2P: 我觉得是不是可以让zn在电脑上注册个伪协议？要不把浏览器的原生API全部重写一遍，不然在Frame里很多应用都跑不起来，移植难度大大提高",
 			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
 			"date_added": 1481769902
+		},
+		{
+			"comment_id": 155,
+			"body": "@莱文倩: 是的，这个问题是我一直在推动解决的，目前所能想到的最好的现有开源解决方式是YaCy，但其也有着不少不足的地方。。（运行缓慢，连接不到足够的节点就无法检索到完整的信息，这些都不说了）",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481774064
 		}
 	]
 }
