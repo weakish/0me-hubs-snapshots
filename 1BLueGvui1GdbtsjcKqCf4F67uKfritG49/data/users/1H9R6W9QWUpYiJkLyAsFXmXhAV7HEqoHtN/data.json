@@ -1,6 +1,6 @@
 {
-	"next_post_id": 158,
-	"next_comment_id": 173,
+	"next_post_id": 159,
+	"next_comment_id": 174,
 	"next_follow_id": 32,
 	"avatar": "jpg",
 	"user_name": "Flyman",
@@ -571,6 +571,11 @@
 			"post_id": 1481713288,
 			"body": "HTML is just txt with some commands <bla-bla>.\nI decided to look inside of some books (in html format) recently, and what I have found? Html is just plain as txt with some commands like <this is paragraph> or <this is head>. And most of those commands tell browser to activate something until same command with symbol \"/\" (or maybe it is \"\\\") like </this is paragraph> appears to tell browser to stop. So HTML is simple. You just need to have some \"dictionary\"-book of commands and thats it - you know HTML! So I do not need to clone someone's blog for purpose to public big text. Next step is to create some test html zeronet site and ask people can they see it.",
 			"date_added": 1481713131
+		},
+		{
+			"post_id": 1481797835,
+			"body": "How to learn HTML almost instantly!\n.1. HTML is just txt file with some commands in pointy brackets.\n.2. Here is chart of those commands: https://www.fing.edu.uy/tecnoinf/mvd/cursos/ria/material/teorico/html-tags-chart.pdf\n.3. Here is basics (few pages and you do not need to read them all): https://www.austincc.edu/hr/profdev/eworkshops/docs/HTML_Basics.pdf\nP.S. and look inside your html books (as if they are txt). Reverse engineering is good thing.",
+			"date_added": 1481797677
 		}
 	],
 	"post_like": {
@@ -1433,6 +1438,12 @@
 			"body": "@ZAlex: You asked me something like \"in general, what is reason of (not wanting) to clone someone's blog?\". I am not reason guided person, I am purpose guided person. It works something like that. I want something in the future, and this creates possibility for me to do something in the present. That is why I want anything. Reason is a lie. Especially when you create reason for something you do not want to do. Purpose is a driver of activity. Reason is justification, way to convince other people that you are good/right guy and doing right/good thing, I think it is useless.",
 			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1481713288",
 			"date_added": 1481794651
+		},
+		{
+			"comment_id": 173,
+			"body": "\"Стоить, вроде!\" - реплика крестьянина из русифицированного \"WarCraft 2\".",
+			"post_uri": "16jQ6KNsJ7uZ3Fh4x3s1bkBBteaHcitAgd_1481733454",
+			"date_added": 1481796018
 		}
 	],
 	"follow": [

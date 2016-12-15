@@ -1,6 +1,6 @@
 {
-	"next_post_id": 5,
-	"next_comment_id": 5,
+	"next_post_id": 8,
+	"next_comment_id": 6,
 	"next_follow_id": 1,
 	"avatar": "jpg",
 	"user_name": " Generate <--假装是绿色",
@@ -26,6 +26,21 @@
 			"post_id": 1481774390,
 			"body": "我发现每天ZeroMe都有大概12小时的休息时间，在上面见不到中文的新帖：）",
 			"date_added": 1481774386
+		},
+		{
+			"post_id": 1481787252,
+			"body": "https://github.com/zeruniverse/CryptoStego 图片隐写术，可以将文字存储到图片中还抗压缩，虽然我修改过后的版本虽然能够进行lzma文本压缩再进行存储，但在文本压缩后接近图片存储极限值时存储将会变得很慢很慢，希望专业前端工程师能帮忙查错",
+			"date_added": 1481787247
+		},
+		{
+			"post_id": 1481787589,
+			"body": "发现一个问题，同一用户两个ID换着用A ID到B ID的帖子下是无法进行评论的（提示内容签名失败）",
+			"date_added": 1481787583
+		},
+		{
+			"post_id": 1481787655,
+			"body": "看来得换bundle了。。等会下个ID见",
+			"date_added": 1481787648
 		}
 	],
 	"post_like": {},
@@ -47,6 +62,12 @@
 			"body": "@Rainlime: 晚安~",
 			"post_uri": "1Q3xYc3P8i2WDj621HvSbfEqTP4aMLpKYU_1481725966",
 			"date_added": 1481726740
+		},
+		{
+			"comment_id": 5,
+			"body": "@Rainlime : 2333",
+			"post_uri": "16acoaokZHGVQxE7h4Js6wumHTdtiVogBn_1481774390",
+			"date_added": 1481782265
 		}
 	],
 	"follow": []

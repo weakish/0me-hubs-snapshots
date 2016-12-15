@@ -1,0 +1,21 @@
+{
+ "address": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+ "cert_auth_type": "web",
+ "cert_sign": "IBrmARbzVWwXpOdXeQmyf098s11JgHrDNzdy8KDh6F0YdqM+TcyaF515766U7KHDuEKtNy3zETbvZcQbmdV9XMo=",
+ "cert_user_id": "12hstudy@kaffie.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "232d2cc53e6dbab735cd284c9bcd7791fc3941c0ee0a2ff27b1d539ad9633660",
+   "size": 1784
+  },
+  "data.json": {
+   "sha512": "5b91adfb5bae82897b423e456bd6aca88d6d09975674cd924ed5acdac4adcd50",
+   "size": 1900
+  }
+ },
+ "inner_path": "data/users/1741bZqRC9p9qtEGaqnfVtRhWt2rQCpWD5/content.json",
+ "modified": 1481789337.644,
+ "signs": {
+  "1741bZqRC9p9qtEGaqnfVtRhWt2rQCpWD5": "HNcQahZYAMINLrNq4wEkqZh5sUmVTM23Nu2TLPkoc4BhlkY4llNFx9hH+wwCFUzPXh61Q64ymw7tOzC6onl4Y3o="
+ }
+}

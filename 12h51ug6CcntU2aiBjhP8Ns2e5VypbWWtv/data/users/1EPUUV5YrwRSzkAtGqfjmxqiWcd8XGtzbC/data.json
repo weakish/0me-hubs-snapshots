@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
 	"next_comment_id": 2,
-	"next_follow_id": 3,
+	"next_follow_id": 4,
 	"avatar": "generate",
 	"settings": {
 		"comment_order": false,
@@ -25,7 +25,8 @@
 		"1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_1481559929": 1481713812,
 		"1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_1481615450": 1481713825,
 		"1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_1481662686": 1481713838,
-		"1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_1480076666": 1481714114
+		"1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_1480076666": 1481714114,
+		"1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_1481748296": 1481749201
 	},
 	"comment": [
 		{
@@ -49,6 +50,13 @@
 			"auth_address": "1NXas4VQNUb9Vgd6zW7E1xGPUCfcxSXBF5",
 			"user_name": "Xiku Francesc",
 			"date_added": 1481713864
+		},
+		{
+			"follow_id": 3,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1GNUSJaJc3sCUPYaGSEGYuMyFPp3GWYugB",
+			"user_name": "Puppetmaster",
+			"date_added": 1481749212
 		}
 	],
 	"flags": {},

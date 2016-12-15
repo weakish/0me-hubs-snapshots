@@ -333,7 +333,7 @@
 		},
 		{
 			"post_id": 1481692571,
-			"body": "Trying to make video streaming work with ZeroMux. I made it load \"lazily\" to allow longer videos. (As long as we like to seed them, who cares about size? :)\n\n### A Video Streamer videos for ZeroMux  \nthat doesn't depend on WebRTC or IPFS\n\nProgress Report\n`[+]` \"Lazy load\" algorithm\n`[ ]` Make a well-wrapped API\n`[ ]` Support seeking\n`[ ]` Make it into ZeroMux Bundle\n\nWorking demos:\n[OreGairu](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/?type=video/mp4&codecs=avc1.640028,mp4a.40.2&json=files/yrc_ed_mp4/file.json&moov=files/yrc_ed_mp4/yrcedmoov.dat&poster=files/yrc_ed_mp4/poster.jpg) (Use Firefox) [Another OreGairu video](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/?type=video/mp4&codecs=avc1.640028,mp4a.40.2&json=files/yrc_op_mp4/file.json&poster=files/yrc_op_mp4/poster.png) (Use Firefox)",
+			"body": "Trying to make video streaming work with ZeroMux. I made it load \"lazily\" to allow longer videos. (As long as we like to seed them, who cares about size? :)\n\n### A Video Streamer for ZeroMux  \nthat doesn't depend on WebRTC or IPFS\n\nProgress Report\n`[+]` \"Lazy load\" algorithm\n`[ ]` Make a well-wrapped API\n`[ ]` Support seeking\n`[ ]` Make it into ZeroMux Bundle\n\nWorking demos:\n[OreGairu](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/?type=video/mp4&codecs=avc1.640028,mp4a.40.2&json=files/yrc_ed_mp4/file.json&moov=files/yrc_ed_mp4/yrcedmoov.dat&poster=files/yrc_ed_mp4/poster.jpg) (Use Firefox) [Another OreGairu video](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/?type=video/mp4&codecs=avc1.640028,mp4a.40.2&json=files/yrc_op_mp4/file.json&poster=files/yrc_op_mp4/poster.png) (Use Firefox)",
 			"date_added": 1481692500,
 			"meta": "{\"img\":\"706,700,dddcbbdcbeaad88aa9988ca9a88766755977eeeb99644333,01021002201334556110744489991744828ABAB0344796069C3A91662DE626ABAE67A57BE9699D9E6E6E99ABAE5B9E9BA9EF\"}"
 		},
@@ -344,7 +344,7 @@
 		},
 		{
 			"post_id": 1481791386,
-			"body": "ZeroMux: [Source code of mp4builder.js](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/code/view.html?url=../big/js/mp4builder.js) (803 lines)",
+			"body": "ZeroMux is an MP4 multiplexer written in JavaScript. ZeroMux has more than 2000 lines of code! I made a web page to show the code I wrote.\n[Source code of mp4parser.js](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/code/view.html?url=../big/js/mp4parser.js) (470 lines)\n[Source code of mp4builder.js](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/code/view.html?url=../big/js/mp4builder.js) (803 lines)\n[Source code of mp4worker.js](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/code/view.html?url=../big/js/mp4worker.js) (555 lines)\n\n",
 			"date_added": 1481791313
 		}
 	],
