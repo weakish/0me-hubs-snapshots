@@ -1,11 +1,11 @@
 {
-	"next_post_id": 76,
+	"next_post_id": 77,
 	"next_comment_id": 61,
-	"next_follow_id": 217,
+	"next_follow_id": 218,
 	"avatar": "png",
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
-	"intro": "a vigorously lazy deadbeat with matured immaturity\n\n**Zites**\n- [SetupList](/1Mbwaw4Uxp1sq5GzWo3SCmYFTk7mgSWNmw)\n\n**License**\nPermission to use, copy, modify, and/or distribute all my posts and comments at ZeroMe for any purpose with or without fee is hereby granted.",
+	"intro": "a vigorously lazy deadbeat with matured immaturity\n\n**Zites**\n- [SetupList](/setuplist.0web.bit/)\n\n**License**\nPermission to use, copy, modify, and/or distribute all my posts and comments at ZeroMe for any purpose with or without fee is hereby granted.",
 	"post": [
 		{
 			"post_id": 1,
@@ -381,6 +381,11 @@
 			"post_id": 1481719019,
 			"body": "Yandex mail smtp refuses to send a GPG encrypted mail saying it looks like spam...",
 			"date_added": 1481718944
+		},
+		{
+			"post_id": 1481815905,
+			"body": "[SetupList](/setuplist.0web.bit/) now has its .bit domain [setuplist.0web.bit](/setuplist.0web.bit/).\n\nP.S. If you want to register a .bit domain, but do not want to setup a full namecoin node on your machine, you may get a .bit domain for your zeronet site at [0web.bit](/0web.bit/) for 0.001BTC/0.1XMR.",
+			"date_added": 1481815829
 		}
 	],
 	"post_like": {
@@ -2236,6 +2241,13 @@
 			"auth_address": "1PuEpLmGzwDtWzVn96wr8iyzyubM5YFQoX",
 			"user_name": "Fogfrog",
 			"date_added": 1481718377
+		},
+		{
+			"follow_id": 217,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1PbPtbrRNGenhMsgQo5f1S1GVpPaom7PvQ",
+			"user_name": "Nope",
+			"date_added": 1481814909
 		}
 	]
 }
