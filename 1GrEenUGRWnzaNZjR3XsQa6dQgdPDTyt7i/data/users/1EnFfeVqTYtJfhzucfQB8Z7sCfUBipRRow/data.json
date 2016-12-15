@@ -1,7 +1,7 @@
 {
-	"next_post_id": 39,
-	"next_comment_id": 129,
-	"next_follow_id": 20,
+	"next_post_id": 40,
+	"next_comment_id": 130,
+	"next_follow_id": 21,
 	"avatar": "jpg",
 	"user_name": "MilitaryRiotLab",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -178,6 +178,11 @@
 			"post_id": 1479313244,
 			"body": "Rest in peace, Romeo and Juliet \nhttp://www.dailymail.co.uk/news/article-3939424/Did-Russian-police-KILL-15-year-olds-went-run-livestreamed-shootout-cops-Final-messages-Russian-teens-suggest-UNARMED-died.html",
 			"date_added": 1479313206
+		},
+		{
+			"post_id": 1481023118,
+			"body": "Help! My ZeroNet can't start up properly.\nAfter I install gevent, msgpack-python using pip, it threw this error\n`DatabaseError: database disk image is malformed`\nuser@onlyzero:~/ZeroBundle/ZeroNet$ ./zeronet.py  --ui_port 43120 --fileserver_port 15114 --size_limit 30 --connected_limit 30\n- Starting ZeroNet...\n[05:56:28] - OpenSSL loaded, version: 01000207F\n[05:56:28] - Version: 0.5.1 r1766, Python 2.7.6 (default, Oct 26 2016, 20:30:19)\n[GCC 4.8.4], Gevent: 1.1.2\n[05:56:28] - Creating FileServer....\n[05:56:28] - Creating UiServer....\n[05:56:28] Site:1GoaKY..Fku8 Content.json parse error: IntegrityError: UNIQUE constraint failed: content.content_id in ContentManager.py line 213 > ContentDbDict.py line 61 > ContentDbPlugin.py line 198 > ContentDb.py line 88 > Db.py line 83 > DbCursor.py line 80 > DbCursor.py line 49\n[05:56:28] Site:1GoaKY..Fku8 Content.json parse error: IntegrityError: UNIQUE constraint failed: content.content_id in ContentManager.py line 213 > ContentDbDict.py line 61 > ContentDbPlugin.py line 198 > ContentDb.py line 88 > Db.py line 83 > DbCursor.py line 80 > DbCursor.py line 49\n[05:56:28] Site:1HuYcP..BamP Content.json parse error: IntegrityError: UNIQUE constraint failed: content.content_id in ContentManager.py line 213 > ContentDbDict.py line 61 > ContentDbPlugin.py line 198 > ContentDb.py line 88 > Db.py line 83 > DbCursor.py line 80 > DbCursor.py line 49\n[05:56:28] Site:1HuYcP..BamP Content.json parse error: IntegrityError: UNIQUE constraint failed: content.content_id in ContentManager.py line 213 > ContentDbDict.py line 61 > ContentDbPlugin.py line 198 > ContentDb.py line 88 > Db.py line 83 > DbCursor.py line 80 > DbCursor.py line 49\n[05:56:28] Site:1HuYcP..BamP Content.json parse error: IntegrityError: UNIQUE constraint failed: content.content_id in ContentManager.py line 213 > ContentDbDict.py line 61 > ContentDbPlugin.py line 198 > ContentDb.py line 88 > Db.py line 83 > DbCursor.py line 80 > DbCursor.py line 49\nTraceback (most recent call last):\n  File \"./zeronet.py\", line 18, in main\n    main.start()\n  File \"/home/user/ZeroBundle/ZeroNet/src/main.py\", line 450, in start\n    actions.call(config.action, action_kwargs)\n  File \"/home/user/ZeroBundle/ZeroNet/src/main.py\", line 129, in call\n    func(**kwargs)\n  File \"/home/user/ZeroBundle/ZeroNet/src/main.py\", line 139, in main\n    ui_server = UiServer()\n  File \"/home/user/ZeroBundle/ZeroNet/src/Ui/UiServer.py\", line 61, in __init__\n    self.sites = SiteManager.site_manager.list()\n  File \"/home/user/ZeroBundle/ZeroNet/src/Site/SiteManager.py\", line 146, in list\n    self.load()\n  File \"plugins/Zeroname/SiteManagerPlugin.py\", line 20, in load\n    super(SiteManagerPlugin, self).load(*args, **kwargs)\n  File \"plugins/MergerSite/MergerSitePlugin.py\", line 325, in load\n    super(SiteManagerPlugin, self).load(*args, **kwags)\n  File \"/home/user/ZeroBundle/ZeroNet/src/Site/SiteManager.py\", line 39, in load\n    self.sites[address] = Site(address, settings=settings)\n  File \"/home/user/ZeroBundle/ZeroNet/src/Site/Site.py\", line 58, in __init__\n    self.content_manager.loadContents()  # Load content.json files\n  File \"/home/user/ZeroBundle/ZeroNet/src/Content/ContentManager.py\", line 32, in loadContents\n    self.site.settings[\"size\"] = self.getTotalSize()\n  File \"/home/user/ZeroBundle/ZeroNet/src/Content/ContentManager.py\", line 265, in getTotalSize\n    size = self.contents.db.getTotalSize(self.site, ignore)\n  File \"/home/user/ZeroBundle/ZeroNet/src/Content/ContentDb.py\", line 110, in getTotalSize\n    res = self.execute(\"SELECT SUM(size) + SUM(size_files) AS size FROM content WHERE ?\", params)\n  File \"/home/user/ZeroBundle/ZeroNet/src/Db/Db.py\", line 77, in execute\n    return self.cur.execute(query, params)\n  File \"/home/user/ZeroBundle/ZeroNet/src/Db/DbCursor.py\", line 49, in execute\n    res = self.cursor.execute(query, params)\nDatabaseError: database disk image is malformed",
+			"date_added": 1481023079
 		}
 	],
 	"post_like": {
@@ -945,6 +950,12 @@
 			"body": "@Waterrabbit: Try me, try me",
 			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479796357",
 			"date_added": 1479828599
+		},
+		{
+			"comment_id": 129,
+			"body": "@Lmath: That's working, thx a lot. Just wonder that why the database corrupts itself",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1481023118",
+			"date_added": 1481024277
 		}
 	],
 	"follow": [
@@ -1073,6 +1084,13 @@
 			"auth_address": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC",
 			"user_name": "Firebox",
 			"date_added": 1479207598
+		},
+		{
+			"follow_id": 20,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1FzZsDQdh8wk71bDLxURPzmAt2FXehoNAB",
+			"user_name": "Nekololi",
+			"date_added": 1481780360
 		}
 	],
 	"settings": {
