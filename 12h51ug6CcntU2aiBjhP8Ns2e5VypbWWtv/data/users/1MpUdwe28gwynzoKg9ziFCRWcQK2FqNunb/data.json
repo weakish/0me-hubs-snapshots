@@ -1,6 +1,6 @@
 {
-	"next_post_id": 33,
-	"next_comment_id": 33,
+	"next_post_id": 34,
+	"next_comment_id": 36,
 	"next_follow_id": 18,
 	"avatar": "jpg",
 	"user_name": "火犬",
@@ -175,6 +175,11 @@
 			"body": "这个会有点夸张吗？",
 			"date_added": 1481884581,
 			"meta": "{\"img\":\"900,523,334344333444545555,000102222221331011022200222222234554522223433011222222222222\"}"
+		},
+		{
+			"post_id": 1481898445,
+			"body": "求教----->windows如何更改IPFS数据块默认存储位置？？？？",
+			"date_added": 1481898412
 		}
 	],
 	"post_like": {},
@@ -370,6 +375,24 @@
 			"body": "@Lmath: 这图是新闻的漫画图哦，是漫画图。。",
 			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481863363",
 			"date_added": 1481886170
+		},
+		{
+			"comment_id": 33,
+			"body": "@12hstudy: 这是什么意思？？\n>DESCRIPTION\n  Initializes IPFS configuration files and generates a new keypair.\n  ipfs uses a repository in the local file system. By default, the repo is\n  located at ~/.ipfs. To change the repo location, set the $IPFS_PATH\n  environment variable:\n      export IPFS_PATH=/path/to/ipfsrepo",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481898445",
+			"date_added": 1481898955
+		},
+		{
+			"comment_id": 34,
+			"body": "@12hstudy: `IPFS_PATH=/path/to/ipfsrepo`这句怎么操作？",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481898445",
+			"date_added": 1481899158
+		},
+		{
+			"comment_id": 35,
+			"body": "@12hstudy: 我刚下好go-ipfs，已经把路径放到环境变量的path里了，ipfs help能正常了，还没ipfs init。怎么修改数据块默认保存路径。`IPFS_PATH=/path/to/ipfsrepo`这句不知道怎么玩了。",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481898445",
+			"date_added": 1481899228
 		}
 	],
 	"follow": [
