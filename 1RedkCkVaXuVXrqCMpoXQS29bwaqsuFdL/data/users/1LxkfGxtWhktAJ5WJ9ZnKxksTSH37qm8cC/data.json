@@ -1,5 +1,5 @@
 {
-	"next_post_id": 74,
+	"next_post_id": 75,
 	"next_comment_id": 55,
 	"next_follow_id": 14,
 	"avatar": "generate",
@@ -346,6 +346,12 @@
 			"post_id": 1481791386,
 			"body": "ZeroMux is an MP4 multiplexer written in JavaScript. ZeroMux has more than 2000 lines of code! I made a web page to show the code I wrote.\n[Source code of mp4parser.js](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/code/view.html?url=../big/js/mp4parser.js) (470 lines)\n[Source code of mp4builder.js](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/code/view.html?url=../big/js/mp4builder.js) (803 lines)\n[Source code of mp4worker.js](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/code/view.html?url=../big/js/mp4worker.js) (555 lines)\n\n",
 			"date_added": 1481791313
+		},
+		{
+			"post_id": 1481846699,
+			"body": "To help you understand how complicated it is to stream videos over ZeroNet, I made a diagram to demonstrate what happens if you seek a video.\n\nFrom top to bottom:\n- A big file is reassembled from file chunks.\n- A simulated stream is made to provide an abstraction layer between chunks and offsets.\n- An MP4 remuxer is made to load video and audio frames.\n\nFrom bottom to top:\n- An event is dispatched, with the time stamp to seek to.\n- Time stamp is converted into offset.\n- Offset is then converted into chunk index\n- The downloader will then download that chunk.",
+			"date_added": 1481846625,
+			"meta": "{\"img\":\"394,700,fffdddeeeddeeef,011120003000004200002000022000000000042200022000020000020000\"}"
 		}
 	],
 	"post_like": {

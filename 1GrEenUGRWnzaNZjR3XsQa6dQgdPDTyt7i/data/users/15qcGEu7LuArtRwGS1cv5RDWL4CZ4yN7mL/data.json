@@ -1,6 +1,6 @@
 {
-	"next_post_id": 9,
-	"next_comment_id": 15,
+	"next_post_id": 10,
+	"next_comment_id": 18,
 	"next_follow_id": 6,
 	"avatar": "jpg",
 	"user_name": "12hstudy <--假装是蓝色",
@@ -47,6 +47,11 @@
 			"post_id": 1481812500,
 			"body": "按照三角形来算，第一年的数据总量10M，第二年就会达到40M。。而若是按照用户膨胀曲线，这个值还会更高。。希望在这之前zeronet能解决好如何处理旧数据以及搜索的问题吧",
 			"date_added": 1481812492
+		},
+		{
+			"post_id": 1481848273,
+			"body": "早安，zeronet",
+			"date_added": 1481848264
 		}
 	],
 	"post_like": {},
@@ -134,6 +139,24 @@
 			"body": "这个项目你看如何？",
 			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481812500",
 			"date_added": 1481813485
+		},
+		{
+			"comment_id": 15,
+			"body": "可以在手机上再跑个php服务器什么的，用kodexplorer管理",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
+			"date_added": 1481848083
+		},
+		{
+			"comment_id": 16,
+			"body": "@猫叉酱: +1，但是如何做好分布以及亢余是个问题，毕竟要在一些节点无法连接时依然能返回完整的搜索结果，而不是一个节点下线整个网络崩溃",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481812500",
+			"date_added": 1481848189
+		},
+		{
+			"comment_id": 17,
+			"body": "@P2pwave: 所以要个分布式的P2P数据库",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481812500",
+			"date_added": 1481848237
 		}
 	],
 	"follow": [
