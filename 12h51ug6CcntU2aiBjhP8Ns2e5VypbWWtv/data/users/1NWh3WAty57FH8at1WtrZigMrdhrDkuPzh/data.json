@@ -1,5 +1,5 @@
 {
-	"next_post_id": 46,
+	"next_post_id": 47,
 	"next_comment_id": 78,
 	"next_follow_id": 30,
 	"avatar": "jpg",
@@ -206,6 +206,12 @@
 			"post_id": 1481874072,
 			"body": "I noticed the ZeroSearch domain had expired and bought up by dotbit.me and was listed for sale. So I spent the 10 namecoin to snatch it. It'll soon be pointing to Kaffiene, the proper ZeroNet search engine :P. Perhaps I should pick up other search-related domains?",
 			"date_added": 1481874027
+		},
+		{
+			"post_id": 1481885651,
+			"body": "ZeroSearch.bit is now safely a part of my namecoin wallet. It *should* be pointing to Kaffiene (and does in my tests). Hopefully this will help make it a bit easier to find Kaffiene for the ZeroNet newbies. Any existing links pointing to ZeroSearch (even the actual address itself, which simply redirects to ZeroSearch.bit as of now) will now point to Kaffiene.\n\nI also went ahead and threw my blog onto blog.zerosearch.bit, because why not?",
+			"date_added": 1481885605,
+			"meta": "{\"img\":\"900,173,bcccccabbbbbbbcddcddddeeeeeddefff,0111231415678988AA88\"}"
 		}
 	],
 	"post_like": {

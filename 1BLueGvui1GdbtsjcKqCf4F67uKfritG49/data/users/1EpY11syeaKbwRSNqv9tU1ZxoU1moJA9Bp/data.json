@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 4,
+	"next_comment_id": 5,
 	"user_name": "Loligod",
 	"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
 	"post_like": {
@@ -20,9 +20,15 @@
 		},
 		{
 			"comment_id": 3,
-			"body": "IPFS also has a good API so you can easily make an one button press to do certain functions (such as file pinning and peer lookup). On a site, that isn't sandboxed, it would be easy to do communication with IPFS without user interaction. I think the best part about IPFS is how exponential the file is.   ",
+			"body": "IPFS also has a good API so you can easily make an one button press to do certain functions (such as file pinning and peer lookup). On a site, that isn't sandboxed, it would be easy to do communication with IPFS without user interaction.\n\nI personally think the best part about IPFS is how it scales in a round cluster. Almost every person who has the file contributes to the file's completion when requested. It's a near exponential speed growth.",
 			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481880549",
 			"date_added": 1481882100
+		},
+		{
+			"comment_id": 4,
+			"body": "@西木野真姬: IPFS is made to support large files. It does it by splitting up the file into multiple blocks inside a merkle tree for easy sharing. Now the resolve time to find the file does take some time. It's not going to be an instant action. But the moment you get connected to a peer who has the file it will start loading. ",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481880549",
+			"date_added": 1481883987
 		}
 	]
 }
