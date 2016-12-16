@@ -4,14 +4,18 @@
  "cert_sign": "G5KNx0L6Ukp0bMMMDhV50kEDoqqgo72sJHi3ZX3g41PP3VhW2Qzo5L/7orQCB7Bg0b0n1P9nftf6Il3qLutLObc=",
  "cert_user_id": "jtree@zeroid.bit",
  "files": {
+  "avatar.png": {
+   "sha512": "ab392e8adadf410c3f11f6c724e6631ed6703811652ae7d647dbc66a41871ff1",
+   "size": 1458
+  },
   "data.json": {
-   "sha512": "74cf7cdce5676aa85df12cc84a47f9cffa1702a79e2c9ee032835fc7b62cb6b2",
-   "size": 337
+   "sha512": "717c7e6e1c6626d24b1d087fd57913a74b97974f30fac2c0c80ec76faed4cbd7",
+   "size": 341
   }
  },
  "inner_path": "data/users/1Ni6LMewr5Cbc9fuKvdkSpS5bNm12vAKe4/content.json",
- "modified": 1481873046.515,
+ "modified": 1481875748.301,
  "signs": {
-  "1Ni6LMewr5Cbc9fuKvdkSpS5bNm12vAKe4": "GzPZLGsmLUOXh0y3HF7dWlR4Becw7ApgbGo4qNhj79hk9mCnoGYEFEGTWTpyDi324Y/MBT/50A6ls15xszgzPbw="
+  "1Ni6LMewr5Cbc9fuKvdkSpS5bNm12vAKe4": "G2hE0aAyxsDoneC8RezpxtYE5cULNtahJUW10kg4djusvR6B8cWuaYeNu/wMcfNcZ5zlqBngenoFDAY7XQdbGm0="
  }
 }

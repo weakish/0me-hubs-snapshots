@@ -1,5 +1,5 @@
 {
-	"next_post_id": 75,
+	"next_post_id": 76,
 	"next_comment_id": 55,
 	"next_follow_id": 14,
 	"avatar": "generate",
@@ -352,6 +352,11 @@
 			"body": "To help you understand how complicated it is to stream videos over ZeroNet, I made a diagram to demonstrate what happens if you seek a video.\n\nFrom top to bottom:\n- A big file is reassembled from file chunks.\n- A simulated stream is made to provide an abstraction layer between chunks and offsets.\n- An MP4 remuxer is made to load video and audio frames.\n\nFrom bottom to top:\n- An event is dispatched, with the time stamp to seek to.\n- Time stamp is converted into offset.\n- Offset is then converted into chunk index\n- The downloader will then download that chunk.",
 			"date_added": 1481846625,
 			"meta": "{\"img\":\"394,700,fffdddeeeddeeef,011120003000004200002000022000000000042200022000020000020000\"}"
+		},
+		{
+			"post_id": 1481876335,
+			"body": "## Are the Shadow Brokers selling NSA tools on ZeroNet?\n\n[A Medium article](https://medium.com/@CleetusBocefus/are-the-shadow-brokers-selling-nsa-tools-on-zeronet-6c335891d62a#.llvtdwigk) by Boceffus Cleetus 2 days ago\n\nhttps://motherboard.vice.com/read/newly-uncovered-site-suggests-nsa-exploits-for-direct-sale\nThe NSA did not respond to a request for comment.\n\nhttps://thehackernews.com/2016/12/nsa-hack-shadow-brokers.html\nEach of the items (NSA hacking tools) on the site is categorized into a type — like \"exploits,\" \"Trojans,\" and \"implant\" — each of which is ranged from 1 to 100 Bitcoins (from $780 to $78,000). ",
+			"date_added": 1481876260
 		}
 	],
 	"post_like": {
