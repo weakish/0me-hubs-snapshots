@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 2,
+	"next_comment_id": 4,
 	"user_name": "Loligod",
 	"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
 	"post_like": {
@@ -11,6 +11,18 @@
 			"body": "#teamfelix",
 			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481537318",
 			"date_added": 1481537292
+		},
+		{
+			"comment_id": 2,
+			"body": "The hookup is exactly the same to regular video websites. But instead of pointing the video source to a file on your site you point it to the IPFS link. Detecting IPFS is pretty simple too just requiring an ajax request to the IPFS webui. ",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481880549",
+			"date_added": 1481881617
+		},
+		{
+			"comment_id": 3,
+			"body": "IPFS also has a good API so you can easily make an one button press to do certain functions (such as file pinning and peer lookup). On a site, that isn't sandboxed, it would be easy to do communication with IPFS without user interaction. I think the best part about IPFS is how exponential the file is.   ",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481880549",
+			"date_added": 1481882100
 		}
 	]
 }
