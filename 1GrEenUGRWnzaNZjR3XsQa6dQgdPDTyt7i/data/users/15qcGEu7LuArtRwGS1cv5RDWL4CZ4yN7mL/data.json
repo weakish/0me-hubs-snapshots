@@ -1,6 +1,6 @@
 {
 	"next_post_id": 10,
-	"next_comment_id": 18,
+	"next_comment_id": 24,
 	"next_follow_id": 6,
 	"avatar": "jpg",
 	"user_name": "12hstudy <--假装是蓝色",
@@ -157,6 +157,42 @@
 			"body": "@P2pwave: 所以要个分布式的P2P数据库",
 			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481812500",
 			"date_added": 1481848237
+		},
+		{
+			"comment_id": 18,
+			"body": "@莱文倩: 哈哈，谢谢<--假装是绿色",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481848273",
+			"date_added": 1481853860
+		},
+		{
+			"comment_id": 19,
+			"body": "@莱文倩: →_→",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481784741",
+			"date_added": 1481853913
+		},
+		{
+			"comment_id": 20,
+			"body": "@猫叉酱: 2333, 不过这个软件的作者很傲娇，对于一些功能需求硬是不愿意做=_=...",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
+			"date_added": 1481856270
+		},
+		{
+			"comment_id": 21,
+			"body": "@猫叉酱: 那个已经是一种完善型的了。。我说的是一般的分布式数据库那样的结构，若其中那个存储index的下线了。。嘿嘿。。全部垮掉",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481812500",
+			"date_added": 1481856433
+		},
+		{
+			"comment_id": 22,
+			"body": "@猫叉酱: 的确如此。。zn的碎片化特别伤磁盘，站点多了在任务管理器里可以看到每秒都有数k的读写，刚启动时甚至能把磁盘队列占满。。我都不敢为了启动速度把zn装到固态硬盘了。。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
+			"date_added": 1481856832
+		},
+		{
+			"comment_id": 23,
+			"body": "@猫叉酱: 其次得有电。。。",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481855922",
+			"date_added": 1481856898
 		}
 	],
 	"follow": [

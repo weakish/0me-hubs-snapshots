@@ -1,6 +1,6 @@
 {
 	"next_post_id": 12,
-	"next_comment_id": 20,
+	"next_comment_id": 21,
 	"next_follow_id": 61,
 	"avatar": "jpg",
 	"user_name": "Mylifewaiting",
@@ -189,6 +189,12 @@
 			"body": "apt-get install msgpack-python python-gevent\nwget https://github.com/HelloZeroNet/ZeroNet/archive/master.tar.gz\ntar xvpfz master.tar.gz\ncd ZeroNet-master",
 			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1480435051",
 			"date_added": 1480509887
+		},
+		{
+			"comment_id": 20,
+			"body": "7.1权限有变更导致的吧",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
+			"date_added": 1481855525
 		}
 	],
 	"follow": [
