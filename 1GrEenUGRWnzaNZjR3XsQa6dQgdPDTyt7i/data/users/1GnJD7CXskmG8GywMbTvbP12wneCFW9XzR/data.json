@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 88,
+	"next_comment_id": 90,
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -565,6 +565,18 @@
 			"body": "@P2P: 可能需要收集大量个人用户的数据才行（不知道360之类是否上传这类数据？）企业数据的问题是：1) 大部分大量买硬盘的企业买的都是企业级硬盘，只有一小撮买消费级硬盘 2) 往往是 7*24 跑，也很少碰到突然断电或震动之类的情况，甚至温度和湿度变化也不大。3) 为了节省维护成本，往往S.M.A.R.T.报错，甚至某些指标略高就把盘撤下来报废。",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
 			"date_added": 1481902254
+		},
+		{
+			"comment_id": 88,
+			"body": "gpg 是没为这个优化吧（貌似不改源码最多8096？）ssh 生成 rsa-16384并不怎么吃内存，倒是很慢。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481886808",
+			"date_added": 1481908719
+		},
+		{
+			"comment_id": 89,
+			"body": "@12hstudy <--假装是蓝色: 「过度优化是万恶之源」;-)",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
+			"date_added": 1481909202
 		}
 	]
 }
