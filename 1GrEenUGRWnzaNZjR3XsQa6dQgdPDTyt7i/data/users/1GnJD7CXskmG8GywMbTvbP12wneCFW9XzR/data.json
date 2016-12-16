@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 86,
+	"next_comment_id": 88,
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -553,6 +553,18 @@
 			"body": "防游戏防沉迷",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481431835",
 			"date_added": 1481445335
+		},
+		{
+			"comment_id": 86,
+			"body": "@12hstudy <--假装是蓝色: 其实tlc寿命并不短。三星840 250GB (tlc) 写入 100TB 才出现坏块，然后一直[撑到900TB才挂掉](http://techreport.com/review/27909/the-ssd-endurance-experiment-theyre-all-dead)。非tlc的固态盘600TB开始出现坏块，但是最终挂掉的写入量大部分和tlc盘差不多。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
+			"date_added": 1481901946
+		},
+		{
+			"comment_id": 87,
+			"body": "@P2P: 可能需要收集大量个人用户的数据才行（不知道360之类是否上传这类数据？）企业数据的问题是：1) 大部分大量买硬盘的企业买的都是企业级硬盘，只有一小撮买消费级硬盘 2) 往往是 7*24 跑，也很少碰到突然断电或震动之类的情况，甚至温度和湿度变化也不大。3) 为了节省维护成本，往往S.M.A.R.T.报错，甚至某些指标略高就把盘撤下来报废。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
+			"date_added": 1481902254
 		}
 	]
 }

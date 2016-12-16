@@ -1,6 +1,6 @@
 {
 	"next_post_id": 77,
-	"next_comment_id": 61,
+	"next_comment_id": 62,
 	"next_follow_id": 218,
 	"avatar": "png",
 	"user_name": "weakish",
@@ -783,6 +783,12 @@
 			"body": "@frog: \n\n> and if you mean to operate\n\nYes. I mean \"to operate\".\nJust storing does not make much sense.\nWith proper encoding, I can store image and audio in `char *`.\n\n> string is meant to be human-readable.\n\nBut C's type system does not enforce it.\n\n> now you mean string literals,\n\nNo. I mean literally byte, or buffer.\nFor example data passed to and by sockets.",
 			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1481203573",
 			"date_added": 1481457698
+		},
+		{
+			"comment_id": 61,
+			"body": "`0search.bit` has expired.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1481874072",
+			"date_added": 1481903165
 		}
 	],
 	"follow": [
