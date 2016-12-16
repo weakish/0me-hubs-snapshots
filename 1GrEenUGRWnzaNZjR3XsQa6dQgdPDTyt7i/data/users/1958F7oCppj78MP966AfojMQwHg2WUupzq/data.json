@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 544,
+	"next_comment_id": 561,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -3268,6 +3268,108 @@
 			"body": "@猫叉酱: 没有可比性，PHP 不是一个资源管理器。但是 PHP 作为解释性语言的性能一直高于其他解释性语言。",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
 			"date_added": 1481866779
+		},
+		{
+			"comment_id": 544,
+			"body": "@12hstudy <--假装是蓝色: 以后应该在生成比特币地址的时候用“虚荣颜色生成器”？",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481793370",
+			"date_added": 1481872214
+		},
+		{
+			"comment_id": 545,
+			"body": "@12hstudy <--假装是蓝色: 表示日写入量 200G 左右，没什么事，当然我的是 MLC 的固态硬盘。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
+			"date_added": 1481872322
+		},
+		{
+			"comment_id": 546,
+			"body": "@12hstudy <--假装是蓝色: 机械硬盘挂掉的原因纯粹看脸，相信我。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
+			"date_added": 1481872410
+		},
+		{
+			"comment_id": 547,
+			"body": "@P2P: 其实机械硬盘磁头臂还是有寿命限制的。另外固态硬盘相比写入来说，读取对寿命的影响很小。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
+			"date_added": 1481872517
+		},
+		{
+			"comment_id": 548,
+			"body": "@P2P: 手头已经有西数三星日立希捷的挂掉的机械硬盘的说，貌似确实有一定关系。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
+			"date_added": 1481872601
+		},
+		{
+			"comment_id": 549,
+			"body": "@莱文倩: 有的，而且很多硬盘挂掉其实就是控制相关的模块挂了。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
+			"date_added": 1481872752
+		},
+		{
+			"comment_id": 550,
+			"body": "@P2P: 我说的是遇到很短命的情况看脸，当然我的重要私密文件都是备份的，其他一些就传给朋友保存了。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
+			"date_added": 1481872849
+		},
+		{
+			"comment_id": 551,
+			"body": "@12hstudy <--假装是蓝色: 你用的硬盘少。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
+			"date_added": 1481872887
+		},
+		{
+			"comment_id": 552,
+			"body": "@12hstudy <--假装是蓝色: 还有一个思路就是搞个代理的方式。就像 Tor I2P MaidSafe 的使用一样，需要一个代理，这个也就不需要和浏览器厂商配合或者定制浏览器了。",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481873082
+		},
+		{
+			"comment_id": 553,
+			"body": "@P2P: 然后用了它就不能用 SwitchyOmega 了。另外如果不是每个人使用它的话还是要考虑兼容性，不然就不让不安装这个扩展程序的用户正常使用了？",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481873336
+		},
+		{
+			"comment_id": 554,
+			"body": "@P2P: 你看目前的翻墙软件不是也是自动设置代理么？如果高级用户对自动配置的代理不满意还可以进行一些配置。另外其实这个方法也有一个问题，以后侧边栏怎么办？用单独的程序还是强行注入？",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481873423
+		},
+		{
+			"comment_id": 555,
+			"body": "@P2P: 搞一个自动生成 PAC 的功能，新生成的 PAC 包含原 PAC 规则啊！",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481874158
+		},
+		{
+			"comment_id": 556,
+			"body": "@12hstudy <--假装是蓝色: 但是又对公共代理的使用造成了障碍，要不在 ZeroFrame 里把原生的 localStorage 重写一遍？",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481874244
+		},
+		{
+			"comment_id": 557,
+			"body": "@12hstudy <--假装是蓝色: 对对对！目前这个要改变，回复内容要能关联起来。",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481874329
+		},
+		{
+			"comment_id": 558,
+			"body": "@12hstudy <--假装是蓝色: 要注册伪协议就要在计算机上动点东西，就不是“绿色”的了。那么，既然公共代理还要下点东西，为啥不直接下个客户端？",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481874482
+		},
+		{
+			"comment_id": 559,
+			"body": "@P2P: 另一种方案是允许楼中楼中楼中楼，当然貌似并不优雅。",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481874551
+		},
+		{
+			"comment_id": 560,
+			"body": "@12hstudy <--假装是蓝色: @P2P: 好了！评论又刷不出来了。但是我发现在个人资料页直接刷可以刷出来，在帖子页就刷不出了。",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481874613
 		}
 	],
 	"flags": {},
@@ -3306,6 +3408,7 @@
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_401": 1481538500,
 		"18KhAfkwavAUrUQk67T4x6Gczq5hL5wE4Z_96": 1481539135,
 		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_234": 1481544445,
-		"1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA_28": 1481815184
+		"1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA_28": 1481815184,
+		"1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_218": 1481874064
 	}
 }

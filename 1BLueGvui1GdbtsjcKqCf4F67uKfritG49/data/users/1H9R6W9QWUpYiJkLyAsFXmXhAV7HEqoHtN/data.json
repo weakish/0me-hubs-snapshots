@@ -1,6 +1,6 @@
 {
-	"next_post_id": 160,
-	"next_comment_id": 174,
+	"next_post_id": 166,
+	"next_comment_id": 176,
 	"next_follow_id": 32,
 	"avatar": "jpg",
 	"user_name": "Flyman",
@@ -579,8 +579,18 @@
 		},
 		{
 			"post_id": 1481816732,
-			"body": "Experimenting with ZeroNet create new site.\nI do not know what I am doing. Can you see this? http://127.0.0.1:43110/1A6jARMdi9f7cUn6Q8RvoXqwhw2x7nDTfR/",
+			"body": "Experimenting with ZeroNet create new site function.\nI do not know what I am doing. Can you see this? http://127.0.0.1:43110/1A6jARMdi9f7cUn6Q8RvoXqwhw2x7nDTfR/\nAnd why font is so bold? And why it is some other font (not \"lucida console\")? Aaah. Looks like failure. And this is in best case scenario. Thing is most likely nobody can see this zite, because I do not sure I \"created\" it properly. :-[ Jeez.",
 			"date_added": 1481816573
+		},
+		{
+			"post_id": 1481873999,
+			"body": "Can anybody see it? http://127.0.0.1:43110/1A6jARMdi9f7cUn6Q8RvoXqwhw2x7nDTfR/\nIt already has 16 peers. But still, does it work? What is color of background? What are names of two links? Can you go by those links? What can you see there? Is assembler example messed up (it shouldn't be auto-formatted) or is it seems like assembler code?",
+			"date_added": 1481873835
+		},
+		{
+			"post_id": 1481874979,
+			"body": "Fake Question: How can you call person you do not like?\n<A> Sun of a beach. <B> Son of a beach. <C> Sun of a bitch. <D> Son of a bitch.",
+			"date_added": 1481874814
 		}
 	],
 	"post_like": {
@@ -1449,6 +1459,18 @@
 			"body": "\"Стоить, вроде!\" - реплика крестьянина из русифицированного \"WarCraft 2\".",
 			"post_uri": "16jQ6KNsJ7uZ3Fh4x3s1bkBBteaHcitAgd_1481733454",
 			"date_added": 1481796018
+		},
+		{
+			"comment_id": 174,
+			"body": "I intend to delete this comment before I go offline. Now I am online. Please, check my site, and tell me do you see anything?",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1481816732",
+			"date_added": 1481873085
+		},
+		{
+			"comment_id": 175,
+			"body": "@Ekodjtal: thank you.",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1481873999",
+			"date_added": 1481875006
 		}
 	],
 	"follow": [
