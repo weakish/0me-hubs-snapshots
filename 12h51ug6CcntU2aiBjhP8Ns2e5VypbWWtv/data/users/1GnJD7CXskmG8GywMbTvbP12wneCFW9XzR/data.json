@@ -1,6 +1,6 @@
 {
 	"next_post_id": 77,
-	"next_comment_id": 62,
+	"next_comment_id": 63,
 	"next_follow_id": 218,
 	"avatar": "png",
 	"user_name": "weakish",
@@ -789,6 +789,12 @@
 			"body": "`0search.bit` has expired.",
 			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1481874072",
 			"date_added": 1481903165
+		},
+		{
+			"comment_id": 62,
+			"body": "@火犬: 似乎没有62个数字字母。BIP32 用的是 Base58 （排除一些看起来太相似的字母数字,避免手工抄写的时候抄错。）还有你的算法是当随机字符串来破解的，实际上破解者已经知道是BIP32。BIP32是256位强度，天河二号需2^48年（假设浮点运算和一次解密操作的成本差不多）。2^48比十亿大多了。估计是把全世界的超算联合起来？（另外今年夏天开始天河二号真的成二号了，最快的是太湖之光",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481884613",
+			"date_added": 1481906945
 		}
 	],
 	"follow": [
