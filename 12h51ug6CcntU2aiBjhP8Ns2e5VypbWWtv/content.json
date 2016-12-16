@@ -16,8 +16,8 @@
    "size": 735
   },
   "index.html": {
-   "sha512": "f4c58cbbc652117a5bc6849b854071e48a875136e532c0f9cc3c4d34097035ee",
-   "size": 2599
+   "sha512": "f3cf8c3c7a98b642e787414813da812c087dd7f41c8e8c9d8d15bf6dfc5e23cb",
+   "size": 2569
   }
  },
  "ignore": "((js|css)/(?!all.(js|css))|data/.*db|data/users/.*/.*)",
@@ -29,17 +29,17 @@
  },
  "inner_path": "content.json",
  "merged_type": "ZeroMe",
- "modified": 1471931953.729186,
+ "modified": 1481887758.924159,
  "postmessage_nonce_security": true,
  "sign": [
-  44994190960038978336515401961787459888028939141271652459559929795024211561464,
-  104995455682934554648123458196996029210778388403067263508992782651677097739933
+  47992088836929284158007396200298711870727683266999882096271366262055702765783,
+  109192547277027753293755115610848736500171336986189115645177312160792448847894
  ],
  "signers_sign": "G79TJy2Yl6Cz0AL505hRkN6USfpINceGcUx0R9ekPNzM4/P8W+vrRkZgIZyVoq9JGF0YxSlD7UuEn0ybbRf5ADw=",
  "signs": {
-  "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv": "HF5Owo8xfAxJjX+Tsua03KmcQFttJIkmczl5tWXCrEyKYXtJ0d/HRGTJFxuB3jRsgFe5HAqZyapcRrkE8BTBZH0="
+  "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv": "G3yGBjZtKz+DZvRv8dPJNrfo0P2bPMyET7vPXd1KC0PsUb2bWXUhgREbgjgiEHOfA2K65XB10NY7XGdW9E1TvJc="
  },
  "signs_required": 1,
  "title": "KaffieHub",
- "zeronet_version": "0.4.0"
+ "zeronet_version": "0.5.1"
 }

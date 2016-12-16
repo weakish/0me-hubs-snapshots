@@ -1,6 +1,6 @@
 {
 	"next_post_id": 74,
-	"next_comment_id": 86,
+	"next_comment_id": 88,
 	"next_follow_id": 33,
 	"avatar": "jpg",
 	"user_name": "西木野真姬",
@@ -851,6 +851,18 @@
 			"body": "@Loligod: Is IPFS don't support big file? i add the mp4 file but there's no any ipfs address Be generated",
 			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481880549",
 			"date_added": 1481883370
+		},
+		{
+			"comment_id": 86,
+			"body": "@Loligod: try again？now It has been fixed，Remember to update the site",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481884667",
+			"date_added": 1481886667
+		},
+		{
+			"comment_id": 87,
+			"body": "@Loligod: btw if webUI can't upload large file just try (command) ipfs add <your file address>",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481884667",
+			"date_added": 1481888008
 		}
 	],
 	"follow": [
