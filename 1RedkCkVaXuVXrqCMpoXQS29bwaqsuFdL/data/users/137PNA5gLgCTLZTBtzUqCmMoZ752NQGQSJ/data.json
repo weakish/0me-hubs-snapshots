@@ -1,6 +1,6 @@
 {
 	"next_post_id": 8,
-	"next_comment_id": 13,
+	"next_comment_id": 14,
 	"next_follow_id": 36,
 	"avatar": "jpg",
 	"user_name": "Arsene Lupin",
@@ -110,6 +110,12 @@
 			"body": "A good example of integrating the best of 2 worlds is [Antilibrary.bit](/antilibrary.bit)\nThe books database and site front-end is on ZeroNet.\nThe ebooks files are on IPFS.",
 			"post_uri": "1A2pTbDfU7P1JLSw3SZTiA1Lf7SRSu4Nn9_1480537659",
 			"date_added": 1480703187
+		},
+		{
+			"comment_id": 13,
+			"body": "@Grahf: After you add the databases you must wait some time until ZeroNet rebuild your local DB.\nYou can force the rebuild by dragging the 'Zero' Icon that is on the top-right of Antilibrary.bit and select the option to Rebuild the database.",
+			"post_uri": "137PNA5gLgCTLZTBtzUqCmMoZ752NQGQSJ_1479939652",
+			"date_added": 1482004325
 		}
 	],
 	"follow": [

@@ -1,6 +1,6 @@
 {
-	"next_post_id": 3,
-	"next_comment_id": 10,
+	"next_post_id": 4,
+	"next_comment_id": 26,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "frog",
@@ -16,6 +16,11 @@
 			"post_id": 1480265560,
 			"body": "The perception of time is discrete\nhttps://actu.epfl.ch/news/how-the-brain-produces-consciousness-in-time-slice/",
 			"date_added": 1480265558
+		},
+		{
+			"post_id": 1481281579,
+			"body": "有关如何安全地在网上从事作死活动，我设想如下：到人多的地方使用公共网络，比如餐厅，为了防止被摄像头拍到，可以先到商场，混入公厕，换隐蔽的着装，并用东西堵住厕所门，再来到餐厅使用公共网络，用完后，再使用同样方式换回之前的衣服，记得把隐蔽着装扔进厕所冲掉，再回家。如果厕所外有摄像头，则可以根据时间大致推测可能的几个人，如查找比隐蔽着装人更早进入厕所，并在隐蔽着装人进入后不久出来的目标，对于这个可以在第二次换装后在厕所多呆一会，另外要注意整个行动的时间要大致与一次大厕的时间一致。另外记得，在行动前修改hostname，在行动后删除保存的网络信息。 依各位看来，有没有漏洞呢？",
+			"date_added": 1481281576
 		}
 	],
 	"post_like": {
@@ -76,6 +81,102 @@
 			"body": "感谢国家应该是媒体加的，我不信这话会从亲生父母口中说出",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1480666462",
 			"date_added": 1480704268
+		},
+		{
+			"comment_id": 10,
+			"body": "@Lmath: 那也可以带回去再销毁。有关隐蔽着装的携带有两个选择，一个是穿到里面，另一个是带个袋子，在商场买几件衣服，放到一起再行动。",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1481281579",
+			"date_added": 1481281882
+		},
+		{
+			"comment_id": 11,
+			"body": "@Lmath: 换装此事本身可疑，但是无法锁定目标是关键。餐厅的wifi很多都是不需要验证的。去农村。。。成本太大。",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1481281579",
+			"date_added": 1481282267
+		},
+		{
+			"comment_id": 12,
+			"body": "@Lmath: 通过单纯的技术手段，无法做到绝对安全，比如有可能你使用的tor时的流量被伪装的节点捕捉到，虽然可能性很低，但是也存在。",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1481281579",
+			"date_added": 1481282533
+		},
+		{
+			"comment_id": 13,
+			"body": "@Lmath: 我对tor不是很清楚，但我想，你所连接的节点至少应该知道你的ip地址吧，我的意思就是，万一你连接到了一个伪装节点，那么就可以根据时间和位置来判断",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1481281579",
+			"date_added": 1481282855
+		},
+		{
+			"comment_id": 14,
+			"body": "@Lmath: 内容本身是加密的没问题，但是根据时间与位置可以缩小目标范围，如果一次连续有多条记录的话，存在决定唯一目标的可能。",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1481281579",
+			"date_added": 1481283101
+		},
+		{
+			"comment_id": 15,
+			"body": "@Lmath: 这样考虑，比如一条留言就会有一条记录，那么你通过tor连续发了10条留言，那样同时满足10条留言的时间的记录应该会很少，就像内存搜索一样。 \n@Lmath: 的确，不间断连接并不断产生流量会有帮助，但是前提是要很多用户都这样做。",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1481281579",
+			"date_added": 1481283426
+		},
+		{
+			"comment_id": 16,
+			"body": "@Rainlime: 其他程序的流量应该是可以根据端口排除的吧。挂前置代理，还是可以通过全局搜索与代理连接的ip来锁定。",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1481281579",
+			"date_added": 1481283603
+		},
+		{
+			"comment_id": 17,
+			"body": "@Lmath: 哦，如此的确没有那个问题。",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1481281579",
+			"date_added": 1481283862
+		},
+		{
+			"comment_id": 18,
+			"body": "@Rainlime: 无视那条回复吧，那个前提是可以通过时间缩小目标，与这个配合。",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1481281579",
+			"date_added": 1481284567
+		},
+		{
+			"comment_id": 19,
+			"body": "@Lmath: i2p不错，为何需要专为匿名设计的浏览器，有何区别吗？是怕有流量漏掉？",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1481281579",
+			"date_added": 1481285216
+		},
+		{
+			"comment_id": 20,
+			"body": "另外，手机也是绝对不安全的，os内部肯定有后门。电脑不知道ms是否在跟ZF合作，有很大可能也是靠不住的，所以还是用linux安全。",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1481281579",
+			"date_added": 1481286111
+		},
+		{
+			"comment_id": 21,
+			"body": "@Lmath: 我只用open source的，浏览器是chromium，都是重新编译的，应该是不存在这类问题的。",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1481281579",
+			"date_added": 1481286363
+		},
+		{
+			"comment_id": 22,
+			"body": "@Lmath: 我喜欢foss,但是不喜欢gnu.我在用的就是linux",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1481281579",
+			"date_added": 1481286553
+		},
+		{
+			"comment_id": 23,
+			"body": "@Lmath: 我以为这是一个成语。。。",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1481281579",
+			"date_added": 1481287556
+		},
+		{
+			"comment_id": 24,
+			"body": "@Lmath: 如此：在不同的环境下用不同的身份，永远不用真实身份。",
+			"post_uri": "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1481281579",
+			"date_added": 1481287974
+		},
+		{
+			"comment_id": 25,
+			"body": "@Lmath: 站点拥有者禁言是通过向所有节点推送<site-hash>/data/users/content.json实现的，这个json是属于站点拥有者的，里面有所有修改过限额的用户的信息（默认的在<site-hash>/data-default/users/content-default.json），所有用户都是在本地依据这个来选择是否接收某用户的消息的，即禁言某人相当于告诉所有用户不要接收这个用户的信息，我想用户自己可以通过修改这个文件来接收某禁言用户后续的信息？所以这里并不是子签名。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1482003867
 		}
 	],
 	"follow": []
