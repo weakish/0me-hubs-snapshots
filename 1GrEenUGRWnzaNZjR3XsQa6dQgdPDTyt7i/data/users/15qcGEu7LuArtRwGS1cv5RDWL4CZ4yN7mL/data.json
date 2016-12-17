@@ -1,6 +1,6 @@
 {
 	"next_post_id": 16,
-	"next_comment_id": 79,
+	"next_comment_id": 87,
 	"next_follow_id": 6,
 	"avatar": "jpg",
 	"user_name": "12hstudy <--假装是蓝色",
@@ -84,7 +84,9 @@
 			"date_added": 1481948220
 		}
 	],
-	"post_like": {},
+	"post_like": {
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481952946": 1481953748
+	},
 	"comment": [
 		{
 			"comment_id": 1,
@@ -535,6 +537,54 @@
 			"body": "@Firedog: 2333",
 			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481948235",
 			"date_added": 1481950075
+		},
+		{
+			"comment_id": 79,
+			"body": "@Rainlime: 嗯。。。那样还能设置板块？",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481948235",
+			"date_added": 1481951005
+		},
+		{
+			"comment_id": 80,
+			"body": "@Rainlime: 不过那样要看的代码实在是太多了TAT，时间开销太大",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481948235",
+			"date_added": 1481951038
+		},
+		{
+			"comment_id": 81,
+			"body": "@Rainlime: 嗯。。我试试吧，不然没有板块也是个问题，但更多的我觉得应该让更多的人参与这个项目，毕竟我并非专业前端^_^而且众人拾柴火焰高嘛，多些人多些力量和建议^&#95;^",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481948235",
+			"date_added": 1481951100
+		},
+		{
+			"comment_id": 82,
+			"body": "期待新希望项目能开发出新的便捷加密方案：）",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481886808",
+			"date_added": 1481951454
+		},
+		{
+			"comment_id": 83,
+			"body": "@Rainlime: 嗯^_^",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481948235",
+			"date_added": 1481952452
+		},
+		{
+			"comment_id": 84,
+			"body": "@Rainlime: 视频只能用IPFS，毕竟太大了。。不过IPFS的速度实在是问题，因此起步就要发展出用户群，并且多鼓励用户pin文件/板块。。It's a hard work.",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481948235",
+			"date_added": 1481953166
+		},
+		{
+			"comment_id": 85,
+			"body": "@Rainlime: Option File机制在这里得灵活运用，但是。。具体的弹幕设计还是一头雾水，毕竟不能让人才发几条弹幕就没空间了。。multi 文件读写在现有的znAPI限制下还是个很大的问题，不知道其他人有没有什么好的解决方案",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481948235",
+			"date_added": 1481953694
+		},
+		{
+			"comment_id": 86,
+			"body": "@莱文倩: 是的，大文件传输一直是zn的痛点",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481946791",
+			"date_added": 1481954030
 		}
 	],
 	"follow": [

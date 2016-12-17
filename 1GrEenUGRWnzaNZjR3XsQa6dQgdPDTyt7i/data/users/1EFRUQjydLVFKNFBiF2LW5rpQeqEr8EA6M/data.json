@@ -1,6 +1,6 @@
 {
-	"next_post_id": 104,
-	"next_comment_id": 289,
+	"next_post_id": 105,
+	"next_comment_id": 293,
 	"next_follow_id": 154,
 	"avatar": "jpg",
 	"user_name": "Rainlime",
@@ -502,6 +502,11 @@
 			"post_id": 1481886808,
 			"body": "我刚才尝试生成一个 16384 位的 GPG 密钥\n失败了...\n看起来我需要更多的内存",
 			"date_added": 1481886705
+		},
+		{
+			"post_id": 1481952946,
+			"body": "跟着新的聊天室教程走了一遍，感觉比以前更容易搞懂了\n",
+			"date_added": 1481952842
 		}
 	],
 	"post_like": {
@@ -2235,6 +2240,30 @@
 			"body": "为什么不用 ZeroTalk 魔改呢？",
 			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481948235",
 			"date_added": 1481950664
+		},
+		{
+			"comment_id": 289,
+			"body": "@12hstudy <--假装是蓝色: 对",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481948235",
+			"date_added": 1481952328
+		},
+		{
+			"comment_id": 290,
+			"body": "@12hstudy <--假装是蓝色: 代码量倒不是很大... 我之前看过 或许应该去其他社区拉点程序员？",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481948235",
+			"date_added": 1481952371
+		},
+		{
+			"comment_id": 291,
+			"body": "@12hstudy <--假装是蓝色: 不过...还是先等做出一个初始版本再说吧...另外你是打算用 Optional File 还是 IPFS ?",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481948235",
+			"date_added": 1481952571
+		},
+		{
+			"comment_id": 292,
+			"body": "@12hstudy <--假装是蓝色: 新希望项目是什么呢？",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481886808",
+			"date_added": 1481952643
 		}
 	],
 	"follow": [

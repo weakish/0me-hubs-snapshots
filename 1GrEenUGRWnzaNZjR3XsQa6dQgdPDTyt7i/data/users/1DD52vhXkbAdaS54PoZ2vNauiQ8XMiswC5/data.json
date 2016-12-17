@@ -1,7 +1,7 @@
 {
 	"next_post_id": 45,
-	"next_comment_id": 223,
-	"next_follow_id": 186,
+	"next_comment_id": 224,
+	"next_follow_id": 187,
 	"avatar": "jpg",
 	"user_name": "莱文倩",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -1539,6 +1539,12 @@
 			"body": "真是个很棒的发明，若是能上传文件就真的是C2C了。",
 			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481897861",
 			"date_added": 1481937423
+		},
+		{
+			"comment_id": 223,
+			"body": "@12hstudy <--假装是蓝色: 要是作者能把ipfs集成进主框架就好办多了。",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481946791",
+			"date_added": 1481953864
 		}
 	],
 	"follow": [
@@ -2780,6 +2786,13 @@
 			"auth_address": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL",
 			"user_name": "12hstudy",
 			"date_added": 1481791113
+		},
+		{
+			"follow_id": 186,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "13zWkqwCxJ9i7bbgBEW2D2HEoovzmgoivR",
+			"user_name": "Johnbyte1221",
+			"date_added": 1481953799
 		}
 	]
 }
