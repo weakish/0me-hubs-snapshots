@@ -1,6 +1,6 @@
 {
-	"next_post_id": 140,
-	"next_comment_id": 427,
+	"next_post_id": 143,
+	"next_comment_id": 428,
 	"next_follow_id": 70,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
@@ -640,6 +640,21 @@
 			"post_id": 1481818361,
 			"body": "我手贱给当服务器的手机升级到安卓7.1，结果SAMBA Droid用不了了，可维护性差了一大截，SMB可以直接在电脑或者手机上修改文件，ftp只能下载→修改→删除→上传",
 			"date_added": 1481818222
+		},
+		{
+			"post_id": 1481977209,
+			"body": "[flash小游戏怀旧论坛](http://127.0.0.1:43110/1KNMtbcaDhKXaU96MeU57BawDD9KX9xqkn)\n进度： \n √ 图片和swf储存为optional  \n √ 贴图  \n √ 图片的相对链接（自动把地址从127.0.0.1转为代理地址）\n-新用户的content.json创建时就拥有发布optional文件的功能 \n-一键上传  ",
+			"date_added": 1481977069
+		},
+		{
+			"post_id": 1481978469,
+			"body": "ZeroNet去中心化的道路还很长，tracker只是其中一部分。其他的部分包括：端口检查、域名解析、tor的目录服务器",
+			"date_added": 1481978328
+		},
+		{
+			"post_id": 1481979464,
+			"body": "接下来让网站自动给用户的content.json添加`optional`字段，目测网站会挂掉很多次，还是换到PC上的试验平台搞好了在复制到服务器上吧",
+			"date_added": 1481979322
 		}
 	],
 	"post_like": {
@@ -3133,6 +3148,12 @@
 			"body": "@Firedog: 封zn=封bt，迅雷第一个不答应",
 			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481963469",
 			"date_added": 1481971149
+		},
+		{
+			"comment_id": 427,
+			"body": "现在图片的链接已经能自动换为代理的地址了",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481977209",
+			"date_added": 1481977146
 		}
 	],
 	"follow": [
