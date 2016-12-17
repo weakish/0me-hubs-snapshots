@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 23,
+	"next_comment_id": 26,
 	"user_name": "Firedog",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -139,6 +139,24 @@
 			"body": "@12hstudy <--假装是蓝色: windows如何更改IPFS数据块默认存储位置？？？？",
 			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481897861",
 			"date_added": 1481898629
+		},
+		{
+			"comment_id": 23,
+			"body": "很好。能做到用户添加自己的ipfs哈希值吗？想传自己视频上去",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481897861",
+			"date_added": 1481938111
+		},
+		{
+			"comment_id": 24,
+			"body": "让我们都来使用IPFS吧\n1.下好go-ipfs\n2.解压出来，随你喜欢放到哪里。复制好所放的路径。\n3.进[环境变量设置](http://jingyan.baidu.com/article/3ea51489e1c2b752e61bbad0.html)。在系统变量找到path，点编辑，在最后面添加`;go-ipfs路径`（注意是英文的`;`分号），保存。\n4.修改默认数据保存路径：在系统变量新建一个`IPFS_PATH`系统变量，变量值为你想要保存的位置。保存。\n5.cmd窗口输入`ipfs init`,再输入`ipfs daemon`。\n6.然后，开心地玩起IPFS吧，骚年。\n7.以后开机后，想用IPFS就在cmd窗口输入`ipfs daemon`就又可以玩了。注意：`ipfs daemon`后出现小黑窗不能关掉，缩小就行了。\nIPFS的图形UI是：`127.0.0.1:5001/webui`,这有点另类啊",
+			"post_uri": "1JVxDWmnkRf72L1z5EfJofptZYodRw7R2h_1481938488",
+			"date_added": 1481938633
+		},
+		{
+			"comment_id": 25,
+			"body": "@简单翻墙: 就几步：windows版\n1.下好[go-ipfs](https://ipfs.io)\n2.解压出来，随你喜欢放到哪里。复制好所放的路径。\n3.进[环境变量设置](http://jingyan.baidu.com/article/3ea51489e1c2b752e61bbad0.html)。在系统变量找到path，点编辑，在最后面添加`;go-ipfs路径`（注意是英文的`;`分号），保存。\n4.修改默认数据保存路径：在系统变量新建一个`IPFS_PATH`系统变量，变量值为你想要保存的位置。保存。\n5.cmd窗口输入`ipfs init`,再输入`ipfs daemon`。\n6.然后，开心地玩起IPFS吧，骚年。\n7.以后开机后，想用IPFS就在cmd窗口输入`ipfs daemon`就又可以玩了。注意：`ipfs daemon`后出现小黑窗不能关掉，缩小就行了。",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481897861",
+			"date_added": 1481939719
 		}
 	]
 }
