@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 70,
+	"next_comment_id": 73,
 	"user_name": "Ysc3839",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -28,7 +28,9 @@
 		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1480555820": 1480567395,
 		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1480516438": 1480569042,
 		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1480580471": 1480585364,
-		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1480719795": 1480762173
+		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1480719795": 1480762173,
+		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1481300353": 1481367179,
+		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1481673938": 1481988792
 	},
 	"comment": [
 		{
@@ -444,6 +446,24 @@
 			"body": "@Firebox: You can set GRUB as first in firmware settings. In my computer I set Clover as first.",
 			"post_uri": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1480648650",
 			"date_added": 1480671813
+		},
+		{
+			"comment_id": 70,
+			"body": "我不知道有什么文档，看现成的代码吧",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481173038",
+			"date_added": 1481260471
+		},
+		{
+			"comment_id": 71,
+			"body": "https://sourceforge.net/p/freedownload/code/HEAD/tree/",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481215286",
+			"date_added": 1481260619
+		},
+		{
+			"comment_id": 72,
+			"body": "@Lmath: 那应该是没有了",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481215286",
+			"date_added": 1481279752
 		}
 	],
 	"flags": {},

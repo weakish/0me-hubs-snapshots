@@ -8,6 +8,10 @@
    "sha512": "4e37699bd5336b9c33ce86a3eb73b82e87460535793401874a653afeddefee59",
    "size": 735
   },
+  "data/users/check.py": {
+   "sha512": "ef85b38832c4b01c67a18a43333e6d1a2e4cb62b4b43e2c8be0ea3280e882525",
+   "size": 454
+  },
   "index.html": {
    "sha512": "087c6ae46aacc5661f7da99ce10dacc0428dbd48aa7bbdc1df9c2da6e81b1d93",
    "size": 466
@@ -22,17 +26,17 @@
  },
  "inner_path": "content.json",
  "merged_type": "ZeroMe",
- "modified": 1471217919.348,
+ "modified": 1481138891.83,
  "postmessage_nonce_security": true,
  "sign": [
-  30135278827070428637530086328718846671666227276187504985348909725344191546397,
-  5785171360398940273423632220374344634880760782147233874520271618417436159662
+  30349124604725975666833887005096520876513938452216755393766835665996216227611,
+  39232210683605796153918035869589506049642052253711805012726659467895633885683
  ],
  "signers_sign": "HDdeLdSwB+sZyGDNE86pci5XwYDIhZ84/H3UPXAukHSSay0Mmz68k+n/zOK5E87qBSpv7YYlw6idvzGgff0tBk8=",
  "signs": {
-  "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i": "HAgEc0XE5kHFpIs31hj9UqjQMC8xoFF5or7vbQ1lMTEs267H0krE7TLJNVKkqyU+vU+t+Hk0JhhD4bFas3kvXD4="
+  "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i": "HPxDUEiZRGiH8emmw4f7aJRfiNkEqA6AxQxruYWHBS4UtHGoZ5AIc/efMc1ipOrzCi3uosr1E4Se8k9k3ThvOPQ="
  },
  "signs_required": 1,
  "title": "GreenHub",
- "zeronet_version": "0.4.0"
+ "zeronet_version": "0.5.1"
 }

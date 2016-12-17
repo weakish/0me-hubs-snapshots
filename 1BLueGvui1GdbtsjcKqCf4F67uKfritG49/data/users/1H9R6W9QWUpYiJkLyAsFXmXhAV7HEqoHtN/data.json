@@ -1,6 +1,6 @@
 {
-	"next_post_id": 169,
-	"next_comment_id": 183,
+	"next_post_id": 171,
+	"next_comment_id": 184,
 	"next_follow_id": 32,
 	"avatar": "jpg",
 	"user_name": "Flyman",
@@ -606,6 +606,11 @@
 			"post_id": 1481984263,
 			"body": "Question: Is it possible to have different background colors for different paragraphs in html/css? Simple \"yes\" will be enough. :-]",
 			"date_added": 1481984095
+		},
+		{
+			"post_id": 1481992767,
+			"body": "Question: Why font is so bold?\nJust updated my site http://127.0.0.1:43110/1A6jARMdi9f7cUn6Q8RvoXqwhw2x7nDTfR/ One thing left to figure out. It looks like my favorite font \"Lucida console\" successfully set up, but some letters are different, and all letters are very bold. I didn't tell anywhere to be them bold. Is it because it is wrong font, or font has (along with \"size\") parameters like heigh-boldness, horizontal-boldness?",
+			"date_added": 1481992597
 		}
 	],
 	"post_like": {
@@ -1522,6 +1527,12 @@
 			"body": "@ks: good!",
 			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1481984263",
 			"date_added": 1481985147
+		},
+		{
+			"comment_id": 183,
+			"body": "Ahh, I am tired a little. Will try something next time. Everybody, thanks for testing. :-] If you see this message, it means Flyman goes offline. :-] See you later.",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1481992767",
+			"date_added": 1481993432
 		}
 	],
 	"follow": [

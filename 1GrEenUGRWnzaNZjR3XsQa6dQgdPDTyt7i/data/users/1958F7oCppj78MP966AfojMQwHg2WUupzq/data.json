@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 580,
+	"next_comment_id": 591,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -3483,9 +3483,75 @@
 		},
 		{
 			"comment_id": 579,
-			"body": "@猫叉酱: 貌似用域名的站点还是会记录比特币公钥，所以应该还是能上。相比之下还没有黑客把 ZeroName 换成假地址更有效。",
+			"body": "@猫叉酱: 貌似用域名的站点还是会记录比特币公钥，所以应该还是能上。相比之下还没有黑客把 ZeroName 换成假地址更有效。\n你说的应该是 ZeroName 的私钥被盗而不是 NameCoin 的私钥被盗吧！",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
 			"date_added": 1481986773
+		},
+		{
+			"comment_id": 580,
+			"body": "@猫叉酱: Nofish 给站点私钥被盗造成的破坏给了一个解决方案，就是搞个版本控制插件，用户感觉站点发生破坏后可回滚到上一个版本。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1481986910
+		},
+		{
+			"comment_id": 581,
+			"body": "@猫叉酱: @Ysc3839: 还有一个避免私钥被盗的方法，就是用主私钥签名信任子密钥对，并使用子私钥进行常规签名，当发现常规签名的私钥丢失后使用主私钥吊销这个子私钥，并使用生成一个新的子私钥来恢复。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1481987227
+		},
+		{
+			"comment_id": 582,
+			"body": "@猫叉酱: 域名解析站被挂马不应该除了域名解析异常外有非常严重的后果，因为浏览器会作为一道屏障，倒是 ZeroUpdate 被挂马后吃瓜群众一旦升级可以造成很大破坏。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1481987357
+		},
+		{
+			"comment_id": 583,
+			"body": "@Ysc3839: 我记得有一篇多重签名刺探还是什么的讨论帖。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1481987393
+		},
+		{
+			"comment_id": 584,
+			"body": "@Ysc3839: 你可以把目前的允许用户数据的站点就看成一种子签名类型啊！用户只能改变自己的数据但是不能改变站点拥有者发布的数据，必要时站点拥有者可以删除指定用户的数据并禁止指定用户在此站点发布用户数据。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1481987629
+		},
+		{
+			"comment_id": 585,
+			"body": "点开所有人就能看到很多啦！如果多加几个 Hub 效果更佳。",
+			"post_uri": "1JVxDWmnkRf72L1z5EfJofptZYodRw7R2h_1481985819",
+			"date_added": 1481987715
+		},
+		{
+			"comment_id": 586,
+			"body": "@Ysc3839: 所以呢？我没有明白你的意思。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1481988881
+		},
+		{
+			"comment_id": 587,
+			"body": "然而，ZeroMe 加个 Block 功能明明是行的（可以直接去 ZeroMePlus 扒）也没人去做啊！",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481990300",
+			"date_added": 1481990569
+		},
+		{
+			"comment_id": 588,
+			"body": "@12hstudy <--假装是白色: 只是转换封装格式，怎么就变成转码了呢 ？理论上转码也是可行的，不过效率可能就不怎么好了。",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481963198",
+			"date_added": 1481991079
+		},
+		{
+			"comment_id": 589,
+			"body": "@12hstudy <--假装是白色: 貌似 flv.js 只是为了过渡搞的一种手段，既然要从头再来，为何要去用 flv ？",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481963198",
+			"date_added": 1481991263
+		},
+		{
+			"comment_id": 590,
+			"body": "@12hstudy <--假装是白色: 我一直觉得多次压缩不是啥好事，另外清晰度方面还是可以调码率的吧！",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481963198",
+			"date_added": 1481992501
 		}
 	],
 	"flags": {},
@@ -3525,6 +3591,7 @@
 		"18KhAfkwavAUrUQk67T4x6Gczq5hL5wE4Z_96": 1481539135,
 		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_234": 1481544445,
 		"1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA_28": 1481815184,
-		"1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_218": 1481874064
+		"1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_218": 1481874064,
+		"13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_79": 1481987654
 	}
 }

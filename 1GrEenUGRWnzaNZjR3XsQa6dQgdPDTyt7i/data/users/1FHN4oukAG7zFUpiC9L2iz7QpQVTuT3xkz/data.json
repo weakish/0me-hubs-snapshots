@@ -1,6 +1,6 @@
 {
 	"next_post_id": 143,
-	"next_comment_id": 441,
+	"next_comment_id": 444,
 	"next_follow_id": 72,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
@@ -3217,7 +3217,7 @@
 		},
 		{
 			"comment_id": 438,
-			"body": "@Ysc3839: zerome可以有多个hub同时工作，我认为也可以搞好几个解析站同时工作。一方面要有多个一级域名，.bit还是靠zeroname解析，用户还可以自行设定其他一级域名和对应的解析站。另一方面，一个一级域名要有主解析站和备用解析站，以防namecoin瘫痪的情况下你连该去哪里找备用解析站都不知道",
+			"body": "@Ysc3839: zerome可以有多个hub同时工作，我认为也可以搞好几个解析站同时工作。一方面要有多个一级域名，.bit还是靠zeroname解析，用户还可以自行设定其他一级域名和对应的解析站。另一方面，一个一级域名要有主解析站和备用解析站，以防zeroname瘫痪的情况下你连该去哪里找备用解析站都不知道",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
 			"date_added": 1481986193
 		},
@@ -3232,6 +3232,24 @@
 			"body": "@Ysc3839: 因为绝大多数zeronet的用户都没装namecoin，而是用zeroname解析域名的。万一namecoin的私钥被盗就会发生这种情况",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
 			"date_added": 1481986711
+		},
+		{
+			"comment_id": 441,
+			"body": "@Lmath: 是 ZeroName 的私钥被盗",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1481986839
+		},
+		{
+			"comment_id": 442,
+			"body": "@Lmath: 但是那样就要找个新的地址发布了",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1481987012
+		},
+		{
+			"comment_id": 443,
+			"body": "@Ysc3839: 要是全都换成黑客的网站，网站里面挂满了木马，那后果更严重了。一个一级域名要有两个解析站，客户端发现两边地址不一样就要让用户选择一个",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1481987167
 		}
 	],
 	"follow": [
