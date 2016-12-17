@@ -1,6 +1,6 @@
 {
-	"next_post_id": 13,
-	"next_comment_id": 60,
+	"next_post_id": 14,
+	"next_comment_id": 71,
 	"next_follow_id": 6,
 	"avatar": "jpg",
 	"user_name": "12hstudy <--假装是蓝色",
@@ -67,6 +67,11 @@
 			"post_id": 1481901512,
 			"body": "I just work a [cinema online](/1FdEWyVHmhbwRZ3u3LmkVGQ9ei7HTcdzU7/) this night..thanks @Loligod help with some function",
 			"date_added": 1481901500
+		},
+		{
+			"post_id": 1481941511,
+			"body": "[在线影院](/1FdEWyVHmhbwRZ3u3LmkVGQ9ei7HTcdzU7/) 项目已开源，欢迎大家添砖加瓦^_^\n地址：[GitHub](https://github.com/cxgreat2014/IPFS_MovieOnline)\n另外，**求PIN！！！**，pin的人越多播放速度越快",
+			"date_added": 1481941498
 		}
 	],
 	"post_like": {},
@@ -424,6 +429,72 @@
 			"body": "@weakish: 这个我也看过，但是用东西爱惜的毛病是改不掉的。。",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
 			"date_added": 1481902406
+		},
+		{
+			"comment_id": 60,
+			"body": "@简单翻墙: \n@Firedog: \n@莱文倩: \n@Apuar: \n项目已开源，欢迎大家添砖加瓦^_^",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481897861",
+			"date_added": 1481941436
+		},
+		{
+			"comment_id": 61,
+			"body": "@Rainlime: wow~速度好快，^_^谢谢",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481897861",
+			"date_added": 1481941591
+		},
+		{
+			"comment_id": 62,
+			"body": "@Loligod: ^_^",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481901512",
+			"date_added": 1481941805
+		},
+		{
+			"comment_id": 63,
+			"body": "@Rainlime: ipfs在本地运行的话会自动把通过gateway访问的文件缓存下来（默认最多cache10GB文件），在第二次访问时就相当于从本地读取，自然就很快了^_^",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481897861",
+			"date_added": 1481941921
+		},
+		{
+			"comment_id": 64,
+			"body": "@Firedog: 我这一直都在线的，但是因为pin我的视频的人不多，因此放起来就会很慢很慢。。因此，求PIN",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481897861",
+			"date_added": 1481941991
+		},
+		{
+			"comment_id": 65,
+			"body": "@莱文倩: 上传文件得配合ipfs，目前要加个文件夹把视频放到底下然后批量添加。。额。。也就是说普通用户使用起来的确挺麻烦啦，不过上传hash如果加入了zn的API支持那就不一样了，到时就和发条消息一样把几个字段在网页上选择填写一下就好^_^，另外，这套系统使用的是bilibili开源的flv.js，因此在线播放flv格式的视频也是可以的哟XD",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481897861",
+			"date_added": 1481942252
+		},
+		{
+			"comment_id": 66,
+			"body": "@Rainlime: 哈哈~^_^嗯，~",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481897861",
+			"date_added": 1481942280
+		},
+		{
+			"comment_id": 67,
+			"body": "@Rainlime: 最好先设置IPFS_PATH系统变量，不然默认占用的是C盘空间^&#95;^",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481897861",
+			"date_added": 1481942504
+		},
+		{
+			"comment_id": 68,
+			"body": "@Rainlime: qaq主要是第一次使用时它要从互联网上同步数据，因此的确会比较慢",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481897861",
+			"date_added": 1481943049
+		},
+		{
+			"comment_id": 69,
+			"body": "@Rainlime: IPFS是一个越用越快的东西，访问频次高的或者pin的文件都会在本地留存，下次观看时就是秒开了，但是第一次使用时的确会很慢",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481897861",
+			"date_added": 1481943112
+		},
+		{
+			"comment_id": 70,
+			"body": "@Rainlime: 嗯！平时我也在用^_^",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481897861",
+			"date_added": 1481943545
 		}
 	],
 	"follow": [

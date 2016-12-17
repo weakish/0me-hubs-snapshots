@@ -5,13 +5,20 @@
  "cert_user_id": "zhufree2008@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "575a29ffd49085997313ae527e7da6dd1aab32f3f301543fbf1ec925e71b19cb",
-   "size": 342
+   "sha512": "ceb94a8b50a88b3497df59ca0bbc7ba3572a2321bc6fd5888c896cda1fe940a9",
+   "size": 596
+  }
+ },
+ "files_optional": {
+  "1481941138.jpg": {
+   "sha512": "4fc52d291dae5eb7ae1320477d7262a6b2a50e83358876895ca541465f6fb799",
+   "size": 59966
   }
  },
  "inner_path": "data/users/1NQcHbm6AAd3Q9vSWSnC3mDCwof5SnpEK9/content.json",
- "modified": 1481936302.157,
+ "modified": 1481941136.987,
+ "optional": "(?!avatar).*jpg",
  "signs": {
-  "1NQcHbm6AAd3Q9vSWSnC3mDCwof5SnpEK9": "GyTNkcZkh8ZjP3+3J+QKnQlt/CtKNJemgMBynfnFHmnSp+ad3n2kUuWRga5cJXBKIK4cMHhcAd0kIrb3Vcq+T7k="
+  "1NQcHbm6AAd3Q9vSWSnC3mDCwof5SnpEK9": "HIBH4TbrAbTpSATWq07cPVhrI8zDRthvpEIn6OtKATKATssf++YeaeYtLJcTn17jf9WJAIGchd/v8TJbYryH5XA="
  }
 }
