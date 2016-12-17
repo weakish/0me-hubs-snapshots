@@ -1,9 +1,9 @@
 {
-	"next_post_id": 17,
-	"next_comment_id": 94,
+	"next_post_id": 18,
+	"next_comment_id": 97,
 	"next_follow_id": 6,
 	"avatar": "jpg",
-	"user_name": "12hstudy <--假装是绿色",
+	"user_name": "12hstudy <--假装是黄色",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"intro": "新 ZeroNet 用户",
 	"post": [
@@ -87,6 +87,11 @@
 			"post_id": 1481963198,
 			"body": "flv.js只支持H.264视频编码和AAC音频编码的flv文件=_=也就是说格式工厂转换出来的flv文件无法使用。正在安装ffmpeg中。。",
 			"date_added": 1481963182
+		},
+		{
+			"post_id": 1481967347,
+			"body": "转了一圈回到原点，发现原来是ffmpeg自身对flv的支持不够好而导致的转码出错bug。。。",
+			"date_added": 1481967330
 		}
 	],
 	"post_like": {
@@ -632,6 +637,24 @@
 			"body": "@莱文倩: 传了之后不能播放一样懵逼",
 			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481946791",
 			"date_added": 1481965156
+		},
+		{
+			"comment_id": 94,
+			"body": "@莱文倩: mp4实在是太大了，而且在chrome内核一揽子浏览器上不支持流式播放，必须得加载完才能看，你能想象你点开新番之后还得等二十多分钟等到下完了才能看吗?",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481946791",
+			"date_added": 1481965370
+		},
+		{
+			"comment_id": 95,
+			"body": "@莱文倩: =_=....flv.js可以实现免flash在线播放flv视频，它是在浏览器中转码的。demo：http://www.bilibili.com",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481946791",
+			"date_added": 1481965451
+		},
+		{
+			"comment_id": 96,
+			"body": "webtorrent在我这因bt协议和udp announce被封堵而导致无法使用，抗墙能力-999",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481963469",
+			"date_added": 1481967436
 		}
 	],
 	"follow": [

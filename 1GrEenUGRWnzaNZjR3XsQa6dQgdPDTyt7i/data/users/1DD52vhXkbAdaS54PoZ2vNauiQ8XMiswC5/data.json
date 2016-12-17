@@ -1,6 +1,6 @@
 {
 	"next_post_id": 46,
-	"next_comment_id": 225,
+	"next_comment_id": 226,
 	"next_follow_id": 188,
 	"avatar": "jpg",
 	"user_name": "莱文倩",
@@ -1556,6 +1556,12 @@
 			"body": "系统原生的那个用于分享图片的option file功能可以用来传视频吗",
 			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481946791",
 			"date_added": 1481963214
+		},
+		{
+			"comment_id": 225,
+			"body": "@12hstudy <--假装是绿色: 初步时期可以先限制上传格式呀，只允许mp4的。要实现转码的话依靠js恐怕是不行的，需要改动python里面的东西。",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481946791",
+			"date_added": 1481965278
 		}
 	],
 	"follow": [
