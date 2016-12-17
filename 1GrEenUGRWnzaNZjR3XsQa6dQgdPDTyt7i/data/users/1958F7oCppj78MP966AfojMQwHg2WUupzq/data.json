@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 567,
+	"next_comment_id": 571,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -3408,6 +3408,30 @@
 			"body": "已进行点赞之助。",
 			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481946791",
 			"date_added": 1481947619
+		},
+		{
+			"comment_id": 567,
+			"body": "@12hstudy <--假装是蓝色: 目前 ZeroMe 的所有消息都保存在 data.json 里啊！传输时有差分传输性能应该不会很差，但是貌似在签名时需要完全重新签名一遍？文件分片的话，ZeroMux 里有解决方案，限制是在 Chrome 下必须下完整个视频才能开始播放，这是极其蛋疼的。另外，在文件管理器里会看见一堆 1.dat 2.dat 这样的东西。",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481948235",
+			"date_added": 1481954789
+		},
+		{
+			"comment_id": 568,
+			"body": "@Linker: 出厂坏块是比较正常的现象，你更应该关注坏块是否持续增加。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
+			"date_added": 1481955100
+		},
+		{
+			"comment_id": 569,
+			"body": "@Linker: 但是没有 Tor 不匿名，对于没有开放端口的用户来说，发布新站点都成问题，没有开放端口的用户发布失败的实在太多了。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481783287",
+			"date_added": 1481955267
+		},
+		{
+			"comment_id": 570,
+			"body": "@12hstudy <--假装是蓝色: flv 貌似在很多浏览器并不原生支持吧！bilibili 搞了个 flv.js ，但是我感觉在 sandbox 的 <iframe> 下可能又是不能用。",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481948235",
+			"date_added": 1481955434
 		}
 	],
 	"flags": {},
