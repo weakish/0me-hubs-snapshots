@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 3,
+	"next_comment_id": 5,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Loligod",
@@ -26,6 +26,18 @@
 			"body": "@Lmath: The sandbox is completely understandable. It just makes it very hard for developers to make applications for zeronet. There are multiple ways to skin a cat though. Trying to get FLV working in browsers might not be worth the hassle. 12hstudy maybe re-encoding the video via handbreak? ",
 			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481970788",
 			"date_added": 1481971971
+		},
+		{
+			"comment_id": 3,
+			"body": "@12hstudy <--假装是白色: I would have to disagree. MP4 is a format that is standardized by the MPEG-4 family. It's compatible on practically any device without any hacks or plugins. FLV doesn't defaultly support subtitles, menus, chaptering, H.264, or H.265. It's an old standard from the Adobe Flash player days. If you were going to use an Abobe format I would recommend using F4V because it actually has some compression with H.264. ",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481970788",
+			"date_added": 1481974938
+		},
+		{
+			"comment_id": 4,
+			"body": "@12hstudy <--假装是白色: Webm is great. It has support for the VP9 video codec which is slightly superior to the H.265. If you want the fastest streaming time for your users converting it to a VP9 webm would definitely speed up the response time. ",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481970788",
+			"date_added": 1481975275
 		}
 	],
 	"follow": []
