@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 75,
+	"next_comment_id": 80,
 	"user_name": "Ysc3839",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -481,6 +481,36 @@
 			"body": "flv只是个封装格式，实际上还是受限于浏览器支持的编码格式",
 			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481963198",
 			"date_added": 1481971078
+		},
+		{
+			"comment_id": 75,
+			"body": "@猫叉酱: 你说的是ZeroName吗？这是一个中心化的服务器维护的，检测Namecoin更新然后更新ZeroName数据。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1481984618
+		},
+		{
+			"comment_id": 76,
+			"body": "@12hstudy <--假装是白色: 早就看过了，之前B站刚出HTML5播放器，我看了一下视频文件还是flv，结果发现了这个。网络上的技术分析(我自己没能力分析)称其实靠的还是浏览器对编码格式的支持，flv只是封装格式。如果你不服的话不要简单地叫我去看，我也看不懂，拿出具体分析才有说服力。",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481963198",
+			"date_added": 1481984815
+		},
+		{
+			"comment_id": 77,
+			"body": "@猫叉酱: 被窃取了那就换一个站点",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1481985887
+		},
+		{
+			"comment_id": 78,
+			"body": "@猫叉酱: 有可能清空？那比特币不是损失惨重？",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1481986623
+		},
+		{
+			"comment_id": 79,
+			"body": "应该是Python 2吧",
+			"post_uri": "1CogrjsFiTL3nHH74BXnAcM1S3KsNaLtEx_1481985993",
+			"date_added": 1481986691
 		}
 	],
 	"flags": {},

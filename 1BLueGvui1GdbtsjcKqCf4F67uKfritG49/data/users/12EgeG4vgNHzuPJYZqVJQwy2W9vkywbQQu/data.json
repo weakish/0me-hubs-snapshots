@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 14,
+	"next_comment_id": 15,
 	"user_name": "PaintNinja",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -105,6 +105,12 @@
 			"body": "The HTML5 equivalent using embedded CSS would be something like: <p style=\"font-family: 'Lucida Console'; font-size: 4; color: #e0e0e0;\"></p>",
 			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1481973527",
 			"date_added": 1481975142
+		},
+		{
+			"comment_id": 14,
+			"body": "@Flyman: No, not at all. It's not much longer than the HTML4 version. Ideally you would just make a new css file caled \"styles\" along with your HTML, reference it using <link rel=\"stylesheet\" href=\"styles.css\"> and then in your css put in the font declarations and stuff with an ID or class name for each element you want them styles to apply to.",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1481973527",
+			"date_added": 1481984889
 		}
 	],
 	"flags": {},

@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 70,
+	"next_comment_id": 72,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -425,6 +425,18 @@
 			"body": "@火犬: 是这个做的，但是一般来说毒品的体积不可能做到太小，而目前 200G 的闪存卡的大小下要严格得多的安检才能查出来。",
 			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481981308",
 			"date_added": 1481983145
+		},
+		{
+			"comment_id": 70,
+			"body": "@猫叉酱: @火犬: 戴 Tor 的限制是你把新疆内的消息带出去应该不存在太大问题，带进来的时候由于 Tor 在新疆一定没节点，而且对外部的节点也不通，根本就无法使用 Tor 。但是如果以后 I2P 支持做好了，由于 I2P 是节点发现和内网去中心化的，所以应该还是可以用。",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481981308",
+			"date_added": 1481983335
+		},
+		{
+			"comment_id": 71,
+			"body": "@火犬: 那时候貌似 3G 都没……或者可以做一个机制，先用随机选取的节点公钥加密扩散到若干个节点，但是这些节点没有私钥，直到扩散到那些节点时才会解密扩散，必要时还可以来多重的，这样如果要追踪，要记录很长时间的数据，限于经济因素很难做到。",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481981308",
+			"date_added": 1481983439
 		}
 	],
 	"flags": {},

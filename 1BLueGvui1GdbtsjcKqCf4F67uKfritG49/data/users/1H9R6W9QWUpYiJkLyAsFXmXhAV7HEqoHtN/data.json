@@ -1,6 +1,6 @@
 {
-	"next_post_id": 168,
-	"next_comment_id": 180,
+	"next_post_id": 169,
+	"next_comment_id": 183,
 	"next_follow_id": 32,
 	"avatar": "jpg",
 	"user_name": "Flyman",
@@ -601,6 +601,11 @@
 			"post_id": 1481973527,
 			"body": "Question: Why font doesn't work?\nWhy does my page ignores my \"command\" to use font I like? I used <font face=\"Lucida Console\" size=\"4\" color=\"#e0e0e0\">. So what is wrong? Why my page uses some random/bold/ugly/unreadable font? Is it possible to set specific (or any other) font in HTML? http://127.0.0.1:43110/1A6jARMdi9f7cUn6Q8RvoXqwhw2x7nDTfR/\n",
 			"date_added": 1481973360
+		},
+		{
+			"post_id": 1481984263,
+			"body": "Question: Is it possible to have different background colors for different paragraphs in html/css? Simple \"yes\" will be enough. :-]",
+			"date_added": 1481984095
 		}
 	],
 	"post_like": {
@@ -1499,6 +1504,24 @@
 			"body": "@Lovelychian: Oh, I guess, you found it! :-] So creating simple sites and then updating them is working for me. Thank you for testing.",
 			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1481873999",
 			"date_added": 1481878237
+		},
+		{
+			"comment_id": 180,
+			"body": "@Jro: thank you. Great link. I feel deja vu. I think someone gave me same link before, but I was not ready (maybe it was you). :-] Maybe I am not ready even now, so maybe someone will give me same link in the future. Anyway thanks. So now I need to figure out and make css file and change html file so it will somehow \"include\" css file, correct?",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1481973527",
+			"date_added": 1481983584
+		},
+		{
+			"comment_id": 181,
+			"body": "@PaintNinja: am I understand it right? You propose me to use this huge tag on every paragraph instead of <p> and </p>? In that case I want to find how to set font once and for all. :-]",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1481973527",
+			"date_added": 1481983820
+		},
+		{
+			"comment_id": 182,
+			"body": "@ks: good!",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1481984263",
+			"date_added": 1481985147
 		}
 	],
 	"follow": [

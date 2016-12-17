@@ -1,7 +1,7 @@
 {
 	"next_post_id": 143,
-	"next_comment_id": 436,
-	"next_follow_id": 70,
+	"next_comment_id": 441,
+	"next_follow_id": 72,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -3202,6 +3202,36 @@
 			"body": "@Firedog: 我当然不是想走freenet的路。有些中心化的部分实际上会降低维护性和可靠性，例如靠一个节点从namecoin上更新的zeroname。假如nofish的电脑被黑了。。。。。",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
 			"date_added": 1481982446
+		},
+		{
+			"comment_id": 436,
+			"body": "@Firedog: 要是哪天私钥被窃取了，那么就会让没有安装namecoin的节点失去域名解析能力",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1481985593
+		},
+		{
+			"comment_id": 437,
+			"body": "安装tor即可",
+			"post_uri": "1GMNmr2bDPbT4c8yVnyCoDHke52CNCdqAa_1481514442",
+			"date_added": 1481985633
+		},
+		{
+			"comment_id": 438,
+			"body": "@Ysc3839: zerome可以有多个hub同时工作，我认为也可以搞好几个解析站同时工作。一方面要有多个一级域名，.bit还是靠zeroname解析，用户还可以自行设定其他一级域名和对应的解析站。另一方面，一个一级域名要有主解析站和备用解析站，以防namecoin瘫痪的情况下你连该去哪里找备用解析站都不知道",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1481986193
+		},
+		{
+			"comment_id": 439,
+			"body": "@Firedog: 你设想一下，有一天黑客清空了namecoin里面所有的数据，你要恢复首先要找到一个备用的站点，然而me上不去了，zerotalk上不去了，GFWTalk上不去了，用域名的博客都上不去了。。。。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1481986379
+		},
+		{
+			"comment_id": 440,
+			"body": "@Ysc3839: 因为绝大多数zeronet的用户都没装namecoin，而是用zeroname解析域名的。万一namecoin的私钥被盗就会发生这种情况",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1481986711
 		}
 	],
 	"follow": [
@@ -3666,6 +3696,20 @@
 			"auth_address": "1JNvvUHnhof7b1XugUNhi6ne1ReU5yrEro",
 			"user_name": "Banshouren",
 			"date_added": 1481795788
+		},
+		{
+			"follow_id": 70,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "15hF1DBiHeojVM8PRf3Kjvv8bZxCK9AQMC",
+			"user_name": "Sakuramirai",
+			"date_added": 1481985608
+		},
+		{
+			"follow_id": 71,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1GMNmr2bDPbT4c8yVnyCoDHke52CNCdqAa",
+			"user_name": "Apuar",
+			"date_added": 1481985615
 		}
 	],
 	"settings": {
