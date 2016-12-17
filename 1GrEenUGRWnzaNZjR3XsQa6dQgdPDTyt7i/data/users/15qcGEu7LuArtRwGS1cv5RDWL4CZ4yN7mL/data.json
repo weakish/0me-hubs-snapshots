@@ -1,6 +1,6 @@
 {
 	"next_post_id": 16,
-	"next_comment_id": 91,
+	"next_comment_id": 92,
 	"next_follow_id": 6,
 	"avatar": "jpg",
 	"user_name": "12hstudy <--假装是蓝色",
@@ -609,6 +609,12 @@
 			"body": "@Rainlime: 正在测试^_^等会就好",
 			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481948235",
 			"date_added": 1481957937
+		},
+		{
+			"comment_id": 91,
+			"body": "@Lmath: \n@Rainlime: 出现错误：\n```\nNot allowed to load local resource: blob:null/f43fc17b-b7e8-4590-8cc1-aca2b28334dc\nUncaught (in promise) DOMException: Failed to load because no supported source was found.\n```\n经查错，发现错误出现在下面两行：\n```\n        this._mediaSourceObjectURL = window.URL.createObjectURL(this._mediaSource);\n        mediaElement.src = this._mediaSourceObjectURL;\n```\n正在对比校正",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481948235",
+			"date_added": 1481958622
 		}
 	],
 	"follow": [
