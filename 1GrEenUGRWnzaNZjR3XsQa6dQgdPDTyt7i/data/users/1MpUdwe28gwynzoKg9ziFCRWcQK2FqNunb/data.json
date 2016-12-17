@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 29,
+	"next_comment_id": 32,
 	"user_name": "Firedog",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -8,7 +8,8 @@
 		"1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481785251": 1481863065,
 		"15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481946791": 1481947881,
 		"15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481948235": 1481948540,
-		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481952946": 1481955537
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481952946": 1481955537,
+		"15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481970788": 1481970826
 	},
 	"comment": [
 		{
@@ -178,6 +179,24 @@
 			"body": "@12hstudy <--假装是黄色: 你是怎么使用zeronet的？难道ZN不是通过bt协议传输的？",
 			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481963469",
 			"date_added": 1481968523
+		},
+		{
+			"comment_id": 29,
+			"body": "@12hstudy <--假装是白色: 封了bt协议，只是影响到找peers而已吗？",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481963469",
+			"date_added": 1481969611
+		},
+		{
+			"comment_id": 30,
+			"body": "@12hstudy <--假装是白色: 原来如此。我一直以为只要GFW封了bt协议，ZN就死了呢。看来不是啊。作者不搞DHT支持了麽？",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481963469",
+			"date_added": 1481969899
+		},
+		{
+			"comment_id": 31,
+			"body": "@12hstudy <--假装是白色: 那，如果要封ZN，极端情况是什么呢？\n\nDHT支持的话，这是要捐助进度条跑满啊",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481963469",
+			"date_added": 1481970149
 		}
 	]
 }

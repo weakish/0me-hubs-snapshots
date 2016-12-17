@@ -1,9 +1,9 @@
 {
-	"next_post_id": 18,
-	"next_comment_id": 97,
+	"next_post_id": 20,
+	"next_comment_id": 105,
 	"next_follow_id": 6,
 	"avatar": "jpg",
-	"user_name": "12hstudy <--假装是黄色",
+	"user_name": "12hstudy <--假装是白色",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"intro": "新 ZeroNet 用户",
 	"post": [
@@ -92,10 +92,21 @@
 			"post_id": 1481967347,
 			"body": "转了一圈回到原点，发现原来是ffmpeg自身对flv的支持不够好而导致的转码出错bug。。。",
 			"date_added": 1481967330
+		},
+		{
+			"post_id": 1481967495,
+			"body": "等待转码好无聊。。<--假装是彩色",
+			"date_added": 1481967477
+		},
+		{
+			"post_id": 1481970788,
+			"body": "已找到无法播放flv的BUG出在哪了，等待作者回复中。。\nhttps://github.com/HelloZeroNet/ZeroNet/issues/707",
+			"date_added": 1481970769
 		}
 	],
 	"post_like": {
-		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481952946": 1481953748
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481952946": 1481953748,
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481968367": 1481968946
 	},
 	"comment": [
 		{
@@ -655,6 +666,54 @@
 			"body": "webtorrent在我这因bt协议和udp announce被封堵而导致无法使用，抗墙能力-999",
 			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481963469",
 			"date_added": 1481967436
+		},
+		{
+			"comment_id": 97,
+			"body": "@Firedog: 首先第一次使用连上vpn，然后访问http announce，之后得到节点列表保存在本地，启动时直连不用再翻墙了",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481963469",
+			"date_added": 1481969038
+		},
+		{
+			"comment_id": 98,
+			"body": "@猫叉酱: 公司网",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481963469",
+			"date_added": 1481969048
+		},
+		{
+			"comment_id": 99,
+			"body": "@Rainlime: \n@莱文倩: 找到无法播放flv的原因了，是zn的js对浏览器进行的魔改所导致的，已提交issue https://github.com/HelloZeroNet/ZeroNet/issues/707",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481946791",
+			"date_added": 1481969141
+		},
+		{
+			"comment_id": 100,
+			"body": "@Firedog: 是啊，下一步作者计划加入节点交换，也就是说就算连不上announce只连上一个peer，只要那个peer连上了其他peer我也一样能连上整个网络",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481963469",
+			"date_added": 1481969808
+		},
+		{
+			"comment_id": 101,
+			"body": "@Firedog: 正在搞",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481963469",
+			"date_added": 1481970011
+		},
+		{
+			"comment_id": 102,
+			"body": "@Firedog: 进度看这里：https://zeronet.readthedocs.io/en/latest/help_zeronet/donate/#dht-support",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481963469",
+			"date_added": 1481970136
+		},
+		{
+			"comment_id": 103,
+			"body": "@Ysc3839: 并非如此，你看下这个项目再来 https://github.com/bilibili/flv.js",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481963198",
+			"date_added": 1481971189
+		},
+		{
+			"comment_id": 104,
+			"body": "@猫叉酱: 不一样，迅雷有自己的通道",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481963469",
+			"date_added": 1481971220
 		}
 	],
 	"follow": [

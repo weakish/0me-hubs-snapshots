@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 571,
+	"next_comment_id": 572,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -3432,6 +3432,12 @@
 			"body": "@12hstudy <--假装是蓝色: flv 貌似在很多浏览器并不原生支持吧！bilibili 搞了个 flv.js ，但是我感觉在 sandbox 的 <iframe> 下可能又是不能用。",
 			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481948235",
 			"date_added": 1481955434
+		},
+		{
+			"comment_id": 571,
+			"body": "> It's the sandboxed iframe's limitation and I don't know any workaround for it.\n看来这个 sandbox 限制还真是多啊！",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481970788",
+			"date_added": 1481971374
 		}
 	],
 	"flags": {},

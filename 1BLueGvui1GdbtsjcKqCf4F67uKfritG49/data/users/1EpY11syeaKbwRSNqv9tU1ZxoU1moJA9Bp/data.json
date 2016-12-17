@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 6,
+	"next_comment_id": 8,
 	"user_name": "Loligod",
 	"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
 	"post_like": {
@@ -35,6 +35,18 @@
 			"body": "That's quite the large video file. School idol project... never watched it.  Stuck at 52.5MB download out of the 795MB it will take. Your poster link has a space in it making a bad request error. Seems that you got the idea though.",
 			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481884667",
 			"date_added": 1481886132
+		},
+		{
+			"comment_id": 6,
+			"body": "@西木野真姬: I know. That is how I uploaded my other ones. You can't upload a whole folder using the webUI but with ipfs add -r you can do a whole directory. ",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481884667",
+			"date_added": 1481925423
+		},
+		{
+			"comment_id": 7,
+			"body": "@西木野真姬: For example see: http://localhost:8080/ipfs/QmNdHUsgbi6RsT8vH4mg7gvCbKq925DYXf3cyvwAVZ6mkN/hardcode",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481884667",
+			"date_added": 1481925639
 		}
 	]
 }
