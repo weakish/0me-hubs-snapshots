@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 572,
+	"next_comment_id": 579,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -3438,6 +3438,48 @@
 			"body": "> It's the sandboxed iframe's limitation and I don't know any workaround for it.\n看来这个 sandbox 限制还真是多啊！",
 			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481970788",
 			"date_added": 1481971374
+		},
+		{
+			"comment_id": 572,
+			"body": "去中心化域名解析是出了解决方案的，但是你需要装一个 NameCoin 客户端并下载一大堆数据，这并不是一件非常优雅的事。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1481979675
+		},
+		{
+			"comment_id": 573,
+			"body": "@猫叉酱: 你的意思是像搞 DNS 递归服务器那样允许用户在多个中心化解析服务之间选择？",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1481980131
+		},
+		{
+			"comment_id": 574,
+			"body": "@Firedog: 还不算很大，但是 NameCoin 数据包不会缩小，只会越来越大。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1481981166
+		},
+		{
+			"comment_id": 575,
+			"body": "@12hstudy <--假装是白色: 看来我这里依然是传统的证书，需要我经过特殊设置才能使用这个证书吗？",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481886808",
+			"date_added": 1481981316
+		},
+		{
+			"comment_id": 576,
+			"body": "@猫叉酱: 除了这个原因，貌似区块链只会增长？而且不下载整个数据包就查询 ZeroNet 的域名貌似如果不依赖相对中心化的服务很难做到。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1481981632
+		},
+		{
+			"comment_id": 577,
+			"body": "@Firedog: 毁掉了就永远是当时的那个状态了。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1481981826
+		},
+		{
+			"comment_id": 578,
+			"body": "What's this?",
+			"post_uri": "152kdpXWPevMLNm7755GKuzQPsu71bs13t_1481956578",
+			"date_added": 1481981971
 		}
 	],
 	"flags": {},

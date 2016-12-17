@@ -1,6 +1,6 @@
 {
-	"next_post_id": 36,
-	"next_comment_id": 37,
+	"next_post_id": 37,
+	"next_comment_id": 44,
 	"next_follow_id": 18,
 	"avatar": "jpg",
 	"user_name": "火犬",
@@ -190,6 +190,11 @@
 			"post_id": 1481948100,
 			"body": "开工建设完全分布式的聊天室吧：http://127.0.0.1:43110/1Ao2w61hpihHgCb44Tjbv7dCE3ifbaiscK\n\n作者教程：[聊天室教程](http://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:99:ZeroChat+tutorial+(new)",
 			"date_added": 1481948065
+		},
+		{
+			"post_id": 1481981308,
+			"body": "发现ZeroMe这里，有消息突然从消息与消息之间蹦出来的。这些消息是不是经历了在局域网里发完，然后他们局域网里有peer连上了互联网，之后才出现在我们面前的呢？",
+			"date_added": 1481981272
 		}
 	],
 	"post_like": {},
@@ -409,6 +414,48 @@
 			"body": "@12hstudy: 已解决，谢谢。么么哒",
 			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481898445",
 			"date_added": 1481900500
+		},
+		{
+			"comment_id": 37,
+			"body": "@Lmath: 如果真是这样，那就证明ZN挺强大的，能自成网络，连上互联网后，还能把消息扩散开来。",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481981308",
+			"date_added": 1481981510
+		},
+		{
+			"comment_id": 38,
+			"body": "这是路由器里使用直接贴过来的网址吗？",
+			"post_uri": "14cURi3RYbm45wt2CBWrkEVXmG2WZPECBn_1481981971",
+			"date_added": 1481982114
+		},
+		{
+			"comment_id": 39,
+			"body": "@猫叉酱: 真到搜查U盘的地步，那就只能不允许使用电子产品了。回到解放前，哈哈",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481981308",
+			"date_added": 1481982438
+		},
+		{
+			"comment_id": 40,
+			"body": "@Lmath: 人民的智慧还是无穷的。",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481981308",
+			"date_added": 1481982773
+		},
+		{
+			"comment_id": 41,
+			"body": "@火犬: 我一直很好奇，那些走私毒品的是不是也是把毒品压缩进一些常带的东西里面呢？",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481981308",
+			"date_added": 1481982829
+		},
+		{
+			"comment_id": 42,
+			"body": "@猫叉酱: 戴Tor",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481981308",
+			"date_added": 1481982861
+		},
+		{
+			"comment_id": 43,
+			"body": "@Kha: 不玩Tox",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481948100",
+			"date_added": 1481983066
 		}
 	],
 	"follow": [

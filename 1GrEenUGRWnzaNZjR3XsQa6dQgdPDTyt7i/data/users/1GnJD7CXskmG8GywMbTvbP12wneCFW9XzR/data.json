@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 90,
+	"next_comment_id": 92,
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -577,6 +577,18 @@
 			"body": "@12hstudy <--假装是蓝色: 「过度优化是万恶之源」;-)",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
 			"date_added": 1481909202
+		},
+		{
+			"comment_id": 90,
+			"body": "@Linker: 那是AES加密。RSA现在推荐4096，最少2048.",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481886808",
+			"date_added": 1481980058
+		},
+		{
+			"comment_id": 91,
+			"body": "@Rainlime: 你的gpg版本太老啦。刚查了下现在的gpg限制是rsa 8192.",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481886808",
+			"date_added": 1481980283
 		}
 	]
 }

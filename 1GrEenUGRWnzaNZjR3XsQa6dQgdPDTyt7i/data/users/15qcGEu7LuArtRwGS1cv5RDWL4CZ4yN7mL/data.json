@@ -1,6 +1,6 @@
 {
 	"next_post_id": 20,
-	"next_comment_id": 109,
+	"next_comment_id": 111,
 	"next_follow_id": 6,
 	"avatar": "jpg",
 	"user_name": "12hstudy <--假装是白色",
@@ -738,6 +738,18 @@
 			"body": "@Loligod: Ok, Thanks for your suggestion^_^",
 			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481970788",
 			"date_added": 1481975426
+		},
+		{
+			"comment_id": 109,
+			"body": "@Rainlime: 谷歌的一个专门研发加密算法的项目，项目名称“New Hope”，或者“Post Quantum Cryptography”（后量子密码学）意在开发出能够对抗量子计算机的新算法，现行加密算法无论是RSA还是DSA都能迅速被量子计算机破解，因此对新的高强度加密算法需求十分紧迫。目前该项目的算法已试验性的在Chrome上部署，在与[Play 市场](https://play.google.com/store)进行通讯时若在加密证书那看见算法为`CECPQ1`那就是了。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481886808",
+			"date_added": 1481980974
+		},
+		{
+			"comment_id": 110,
+			"body": "@Lmath: @Firedog: @猫叉酱: 原博在这里：\nhttps://security.googleblog.com/2016/07/experimenting-with-post-quantum.html\n今年七月就开始测试了",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481886808",
+			"date_added": 1481983082
 		}
 	],
 	"follow": [

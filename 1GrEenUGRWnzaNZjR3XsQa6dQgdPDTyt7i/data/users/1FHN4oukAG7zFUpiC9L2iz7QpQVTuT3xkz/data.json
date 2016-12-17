@@ -1,6 +1,6 @@
 {
 	"next_post_id": 143,
-	"next_comment_id": 428,
+	"next_comment_id": 436,
 	"next_follow_id": 70,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
@@ -643,7 +643,7 @@
 		},
 		{
 			"post_id": 1481977209,
-			"body": "[flash小游戏怀旧论坛](http://127.0.0.1:43110/1KNMtbcaDhKXaU96MeU57BawDD9KX9xqkn)\n进度： \n √ 图片和swf储存为optional  \n √ 贴图  \n √ 图片的相对链接（自动把地址从127.0.0.1转为代理地址）\n-新用户的content.json创建时就拥有发布optional文件的功能 \n-一键上传  ",
+			"body": "[flash小游戏怀旧论坛](http://127.0.0.1:43110/1KNMtbcaDhKXaU96MeU57BawDD9KX9xqkn)\n进度： \n✔图片和swf储存为optional  \n✔贴图  \n✔图片的相对链接（自动把地址从127.0.0.1转为代理地址）\n✏新用户的content.json创建时就拥有发布optional文件的功能 \n✏一键上传  ",
 			"date_added": 1481977069
 		},
 		{
@@ -3154,6 +3154,54 @@
 			"body": "现在图片的链接已经能自动换为代理的地址了",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481977209",
 			"date_added": 1481977146
+		},
+		{
+			"comment_id": 428,
+			"body": "@Lmath: 我知道，让zeronet直接连接Namecoin客户端。我的设想是让zeronet客户端对不同的一级域名使用不同的zeronet内部的域名站进行解析，一级域名和域名站的对应关系用户可以自行设定",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1481980024
+		},
+		{
+			"comment_id": 429,
+			"body": "@Lmath: 只不过第一次查询在本地，而且只跳转一次。跳转规则由用户自己设定",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1481980638
+		},
+		{
+			"comment_id": 430,
+			"body": "@Lmath: 因为namecoin包含了一大堆非zeronet的域名",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1481981462
+		},
+		{
+			"comment_id": 431,
+			"body": "@Lmath: 其实zeronet内部的域名解析不需要用到区块链，一个json就够了。出了问题换一个解析站就是了。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1481981733
+		},
+		{
+			"comment_id": 432,
+			"body": "@Firedog: 那ZeroName怎么更新？",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1481981794
+		},
+		{
+			"comment_id": 433,
+			"body": "@12hstudy <--假装是白色: Googe这么叼？",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481886808",
+			"date_added": 1481981943
+		},
+		{
+			"comment_id": 434,
+			"body": "@Firedog: 那zeronet还要不要发展壮大了？",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1481982063
+		},
+		{
+			"comment_id": 435,
+			"body": "@Firedog: 我当然不是想走freenet的路。有些中心化的部分实际上会降低维护性和可靠性，例如靠一个节点从namecoin上更新的zeroname。假如nofish的电脑被黑了。。。。。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1481982446
 		}
 	],
 	"follow": [
