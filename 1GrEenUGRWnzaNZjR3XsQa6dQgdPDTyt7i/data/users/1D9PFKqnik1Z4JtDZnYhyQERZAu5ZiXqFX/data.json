@@ -1,6 +1,6 @@
 {
 	"next_post_id": 4,
-	"next_comment_id": 26,
+	"next_comment_id": 27,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "frog",
@@ -177,6 +177,12 @@
 			"body": "@Lmath: 站点拥有者禁言是通过向所有节点推送<site-hash>/data/users/content.json实现的，这个json是属于站点拥有者的，里面有所有修改过限额的用户的信息（默认的在<site-hash>/data-default/users/content-default.json），所有用户都是在本地依据这个来选择是否接收某用户的消息的，即禁言某人相当于告诉所有用户不要接收这个用户的信息，我想用户自己可以通过修改这个文件来接收某禁言用户后续的信息？所以这里并不是子签名。",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
 			"date_added": 1482003867
+		},
+		{
+			"comment_id": 26,
+			"body": "连续多次调用you-get/youtube-dl获得多个链接，然后用axel，如果没有限制连接数，那可以满速。",
+			"post_uri": "1VU4YuLth4bBcRtxtGatSwBbQuLXNzgVk_1482043059",
+			"date_added": 1482044278
 		}
 	],
 	"follow": []

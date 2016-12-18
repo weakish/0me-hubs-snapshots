@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 92,
+	"next_comment_id": 94,
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -41,7 +41,8 @@
 		"1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP_1480910138": 1480945439,
 		"1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP_1480910154": 1480945497,
 		"1V7usnfmabQXPSNC2zrCpF2ed2jDZaujS_1480911438": 1480945519,
-		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481386818": 1481445205
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481386818": 1481445205,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481977209": 1482047052
 	},
 	"comment": [
 		{
@@ -589,6 +590,18 @@
 			"body": "@Rainlime: 你的gpg版本太老啦。刚查了下现在的gpg限制是rsa 8192.",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481886808",
 			"date_added": 1481980283
+		},
+		{
+			"comment_id": 92,
+			"body": "感觉这代码有点CoffeeScript 转过来的感觉，不是从头写的。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481952946",
+			"date_added": 1482046955
+		},
+		{
+			"comment_id": 93,
+			"body": "自教。自干。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482026217",
+			"date_added": 1482047749
 		}
 	]
 }

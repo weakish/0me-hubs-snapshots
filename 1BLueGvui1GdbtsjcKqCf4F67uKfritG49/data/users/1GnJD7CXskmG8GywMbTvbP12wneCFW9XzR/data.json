@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 84,
+	"next_comment_id": 85,
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -62,7 +62,9 @@
 		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1480177371": 1480241938,
 		"17AMQVbBa12XB3xFWKDnP2dCEx92TaiY7X_1480232276": 1480246766,
 		"1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481572066": 1481717671,
-		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1481840330": 1481902456
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1481840330": 1481902456,
+		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1482029846": 1482047828,
+		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1482029913": 1482047874
 	},
 	"comment": [
 		{
@@ -562,6 +564,12 @@
 			"body": "I can see the site. I like the 90s website style, except some `<h2>` uses a color too similar to the background.",
 			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1481816732",
 			"date_added": 1481901424
+		},
+		{
+			"comment_id": 84,
+			"body": "`<p class=\"_bg-colorName\">...</p>`  Then in CSS `._bg-black { background: colorName }`. ",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1481984263",
+			"date_added": 1482047545
 		}
 	]
 }

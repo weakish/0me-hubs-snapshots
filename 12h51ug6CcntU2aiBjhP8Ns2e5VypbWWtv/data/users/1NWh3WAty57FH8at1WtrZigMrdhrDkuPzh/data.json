@@ -1,7 +1,7 @@
 {
-	"next_post_id": 47,
+	"next_post_id": 48,
 	"next_comment_id": 80,
-	"next_follow_id": 30,
+	"next_follow_id": 31,
 	"avatar": "jpg",
 	"user_name": "Kaffie",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -212,6 +212,11 @@
 			"body": "ZeroSearch.bit is now safely a part of my namecoin wallet. It *should* be pointing to Kaffiene (and does in my tests). Hopefully this will help make it a bit easier to find Kaffiene for the ZeroNet newbies. Any existing links pointing to ZeroSearch (even the actual address itself, which simply redirects to ZeroSearch.bit as of now) will now point to Kaffiene.\n\nI also went ahead and threw my blog onto blog.zerosearch.bit, because why not?",
 			"date_added": 1481885605,
 			"meta": "{\"img\":\"900,173,bcccccabbbbbbbcddcddddeeeeeddefff,0111231415678988AA88\"}"
+		},
+		{
+			"post_id": 1482038462,
+			"body": "Looks like the Erkan domains just expired. Now's a great time to pick up some good domain names. See the list [here.](http://127.0.0.1:43110/kaffiene.bit/?q=15GAu5QYg34TLzD4b2WMpZSid9S2K6M54h&i=ZeroName)\n\nI'm looking forward to seeing what people register and create.",
+			"date_added": 1482038415
 		}
 	],
 	"post_like": {
@@ -867,6 +872,13 @@
 			"auth_address": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC",
 			"user_name": "Firebox",
 			"date_added": 1479299612
+		},
+		{
+			"follow_id": 30,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1482038813
 		}
 	],
 	"settings": {

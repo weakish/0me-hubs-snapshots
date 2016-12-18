@@ -1,5 +1,5 @@
 {
-	"next_post_id": 9,
+	"next_post_id": 11,
 	"next_comment_id": 5,
 	"next_follow_id": 82,
 	"avatar": "generate",
@@ -36,6 +36,16 @@
 			"post_id": 1481299418,
 			"body": "想问下，换台机器登录，怎么登陆原来的用户？\n",
 			"date_added": 1481299410
+		},
+		{
+			"post_id": 1482042541,
+			"body": "IPFS是什么？可以简单解释下吗？\n",
+			"date_added": 1482042532
+		},
+		{
+			"post_id": 1482043059,
+			"body": "在国外看youku视频太卡了，这里推荐一个比较好的解决方法，可以满速下载youku视频。Step1：使用you-get解析视频地址，获得直链，you-get -u www.youku.XXXXXX ，像火星情报局解析出来有30个分段URL  Step2: 复制以上的URL，使用IDM批量下载。  最后，享受满速的快感吧！   \n有没有大神有更快更方便的方法，欢迎留言。",
+			"date_added": 1482043049
 		}
 	],
 	"post_like": {

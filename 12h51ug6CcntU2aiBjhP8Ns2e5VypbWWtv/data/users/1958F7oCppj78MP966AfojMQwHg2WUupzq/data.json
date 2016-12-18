@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 72,
+	"next_comment_id": 79,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -437,6 +437,48 @@
 			"body": "@火犬: 那时候貌似 3G 都没……或者可以做一个机制，先用随机选取的节点公钥加密扩散到若干个节点，但是这些节点没有私钥，直到扩散到那些节点时才会解密扩散，必要时还可以来多重的，这样如果要追踪，要记录很长时间的数据，限于经济因素很难做到。",
 			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481981308",
 			"date_added": 1481983439
+		},
+		{
+			"comment_id": 72,
+			"body": "@Ddjj: 所以你的意思是像 Freenet 那样提供个“紧急”按钮，一按就销毁密钥？",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481884613",
+			"date_added": 1482043636
+		},
+		{
+			"comment_id": 73,
+			"body": "@Ddjj: 那 5 个点是会尽快同步到更多的点的。",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481862680",
+			"date_added": 1482043818
+		},
+		{
+			"comment_id": 74,
+			"body": "@Ddjj: 微信这东西发送的消息连弱加密都没，感觉更不靠谱。",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481883279",
+			"date_added": 1482043865
+		},
+		{
+			"comment_id": 75,
+			"body": "@Ddjj: 很多军方的设施就是这么搞的啊！密钥存储在晶片里感觉遇到危险就炸毁。",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481884613",
+			"date_added": 1482043969
+		},
+		{
+			"comment_id": 76,
+			"body": "@Ddjj: 那你现在要注意哦！看看是不是不登录 QQ 的时候有个叫 QPCore 的东西还在运行。如果是，干掉它！",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481883279",
+			"date_added": 1482044041
+		},
+		{
+			"comment_id": 77,
+			"body": "@Ddjj: 你要小心部分地区在部分时间给你捏造一个莫须有的罪名。",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481884613",
+			"date_added": 1482044603
+		},
+		{
+			"comment_id": 78,
+			"body": "@Ddjj: 没法做到硬实时，因为这样实际性能会变得很差，只能说“尽快”。",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481862680",
+			"date_added": 1482044658
 		}
 	],
 	"flags": {},

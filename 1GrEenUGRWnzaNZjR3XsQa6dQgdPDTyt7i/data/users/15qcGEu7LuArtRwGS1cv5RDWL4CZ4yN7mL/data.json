@@ -1,6 +1,6 @@
 {
-	"next_post_id": 26,
-	"next_comment_id": 123,
+	"next_post_id": 27,
+	"next_comment_id": 124,
 	"next_follow_id": 10,
 	"avatar": "jpg",
 	"user_name": "12hstudy <--假装是白色",
@@ -128,6 +128,11 @@
 			"post_id": 1482038367,
 			"body": "刚刚看了一下，zerome和zerotalk的颜色算法是不一样的，但是我的用户名都是紫色...",
 			"date_added": 1482038342
+		},
+		{
+			"post_id": 1482041770,
+			"body": "成功将ZeroMe的ID颜色算法给Python化，可以使用虚荣比特币地址生成器自己去修改自己的ID颜色了\n```\ndef getTextColor(text, saturation=30, lightness=50):\n    i = 0\n    textLen = len(text) - 1\n    textHash = 0\n    while i <= textLen if 0 <= textLen else i >= textLen:\n        textHash += ord(text[i]) * i\n        textHash = textHash % 1777\n        if i <= textLen:\n            i += 1\n        else:\n            i -= 1\n    return f\"hsl({textHash % 360}, {saturation}%, {lightness}%)\"\n\n\nprint(getTextColor('15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL')) #将会得到我的ID颜色值 hsl(307, 30%, 50%)\n\n```",
+			"date_added": 1482041744
 		}
 	],
 	"post_like": {
@@ -848,6 +853,12 @@
 			"body": "@Lmath: 最后一个选择那还移植个毛web APP啊、、",
 			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482036937",
 			"date_added": 1482039564
+		},
+		{
+			"comment_id": 123,
+			"body": "另一种可以用来分发大文件的p2p网络 官网 ipfs.io",
+			"post_uri": "1VU4YuLth4bBcRtxtGatSwBbQuLXNzgVk_1482042541",
+			"date_added": 1482042943
 		}
 	],
 	"follow": [
