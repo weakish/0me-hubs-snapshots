@@ -1,11 +1,11 @@
 {
-	"next_post_id": 78,
-	"next_comment_id": 64,
+	"next_post_id": 79,
+	"next_comment_id": 67,
 	"next_follow_id": 223,
 	"avatar": "png",
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
-	"intro": "a vigorously lazy deadbeat with matured immaturity\n\n**Zites**\n- [SetupList](/setuplist.0web.bit/)\n\n**License**\nPermission to use, copy, modify, and/or distribute all my posts and comments at ZeroMe for any purpose with or without fee is hereby granted.",
+	"intro": "a vigorously lazy deadbeat with matured immaturity\n\n**Zites**\n- [SetupList](/setuplist.0web.bit)\n- [0git](/0git.bit)\n\n**License**\nPermission to use, copy, modify, and/or distribute all my posts and comments at ZeroMe for any purpose with or without fee is hereby granted.",
 	"post": [
 		{
 			"post_id": 1,
@@ -391,6 +391,11 @@
 			"post_id": 1481907978,
 			"body": "Currently FaceBook Message and Google Allo has optional end to end encryption. And WhatsApp has end to end encryption enabled for all messages. On the other hand, WeChat still uses http.  #ThisIsChina",
 			"date_added": 1481907901
+		},
+		{
+			"post_id": 1482056825,
+			"body": "Just launched [0git.bit](/0git.bit), a list of git repositories on ZeroNet.\n\nI wrote it based on [the ZeroChat tutorial on ZeroBlog](/Blog.ZeroNetwork.bit/). \n\nFeatures:\n\n- Also supports Kaffie ID.\n- Responsive card based layout.\n- Minimal design.\n- Under 200 lines of code.\n- Licensed under 0BSD.\n\nIts source code is hosted at ZeroNet, [browsable and cloneable](http://192.168.1.10:43110/0git.0git.bit).\n\nP.S. editing posts is not implemented yet.\n\n",
+			"date_added": 1482056747
 		}
 	],
 	"post_like": {
@@ -807,6 +812,24 @@
 			"body": "@一二三木头人: 可以用Tor实现匿名。",
 			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481884613",
 			"date_added": 1482046113
+		},
+		{
+			"comment_id": 64,
+			"body": "I got [0git.bit](/0git.bit). It's a list of git repositories. And it supports kaffee id. ^_^",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1482038462",
+			"date_added": 1482055409
+		},
+		{
+			"comment_id": 65,
+			"body": "@Kaffie: I do not know. I just think `0search` is short and cool (one advantage of ZeroNet is we can use domains starting with number, unlike regular domains).",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1481874072",
+			"date_added": 1482056050
+		},
+		{
+			"comment_id": 66,
+			"body": "@ks:  I think it is fine if the domain is only intended to use with ZeroNet.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1481874072",
+			"date_added": 1482058740
 		}
 	],
 	"follow": [

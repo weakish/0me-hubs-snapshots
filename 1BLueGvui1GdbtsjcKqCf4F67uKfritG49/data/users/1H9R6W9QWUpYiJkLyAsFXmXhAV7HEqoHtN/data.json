@@ -1,6 +1,6 @@
 {
-	"next_post_id": 171,
-	"next_comment_id": 184,
+	"next_post_id": 172,
+	"next_comment_id": 186,
 	"next_follow_id": 32,
 	"avatar": "jpg",
 	"user_name": "Flyman",
@@ -611,6 +611,11 @@
 			"post_id": 1481992767,
 			"body": "Question: Why font is so bold?\nJust updated my site http://127.0.0.1:43110/1A6jARMdi9f7cUn6Q8RvoXqwhw2x7nDTfR/ One thing left to figure out. It looks like my favorite font \"Lucida console\" successfully set up, but some letters are different, and all letters are very bold. I didn't tell anywhere to be them bold. Is it because it is wrong font, or font has (along with \"size\") parameters like heigh-boldness, horizontal-boldness?",
 			"date_added": 1481992597
+		},
+		{
+			"post_id": 1482058334,
+			"body": "Question: Is it possible to \"include\" lucon.ttf file into html/css?\nI found exact file which **is** exact \"lucida concole\" font. Is there some way to \"tell\" webpage to use font from ttf file?",
+			"date_added": 1482058163
 		}
 	],
 	"post_like": {
@@ -1529,10 +1534,16 @@
 			"date_added": 1481985147
 		},
 		{
-			"comment_id": 183,
-			"body": "Ahh, I am tired a little. Will try something next time. Everybody, thanks for testing. :-] If you see this message, it means Flyman goes offline. :-] See you later.",
+			"comment_id": 184,
+			"body": "@PaintNinja: doesn't work for me. Tried font-weight: 200, then 50 - no visible result.",
 			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1481992767",
-			"date_added": 1481993432
+			"date_added": 1482058334
+		},
+		{
+			"comment_id": 185,
+			"body": "@Awdhax: no, this is not the case. Font is definitely different: letter \"R\", \"i\", tried to compare another few letters, they all differs. I tried to observe font I want to be in different sizes and in all sizes I like it, but this is not same font - in all sizes it is ugly, bold, not that font I want.",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1481992767",
+			"date_added": 1482058571
 		}
 	],
 	"follow": [

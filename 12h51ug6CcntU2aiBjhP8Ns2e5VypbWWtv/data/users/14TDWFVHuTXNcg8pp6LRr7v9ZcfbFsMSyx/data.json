@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 38,
+	"next_comment_id": 39,
 	"user_name": "ks",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {
@@ -253,6 +253,12 @@
 			"body": "@Kaffie: That's fine, I was just worried you'd been had.",
 			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1481874072",
 			"date_added": 1481967945
+		},
+		{
+			"comment_id": 38,
+			"body": "@weakish: We can, but should we? The [Namecoin Domain Name Specification](https://wiki.namecoin.org/index.php?title=Domain_Name_Specification#Valid_Domains) reads:\n\n> [Valid domain names] must start with a letter, end with a letter or digit, and have as interior characters only letters, digits, and hyphen.\n> There are also some restrictions on the length. Labels must be 63 characters or less.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1481874072",
+			"date_added": 1482057914
 		}
 	]
 }
