@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 594,
+	"next_comment_id": 603,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -3570,6 +3570,60 @@
 			"body": "@简单翻墙: 以前有人发布过列表，而加更多 Hub 是为了看到更多人的信息。",
 			"post_uri": "1JVxDWmnkRf72L1z5EfJofptZYodRw7R2h_1481985819",
 			"date_added": 1482039705
+		},
+		{
+			"comment_id": 594,
+			"body": "@Ysc3839: 他那些视频本来就是 mp4 的，然后他非说不好，非要转成 flv 或者 webm 。",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482032714",
+			"date_added": 1482048382
+		},
+		{
+			"comment_id": 595,
+			"body": "@Ysc3839: 反向推导很困难，实际上比特币虚荣地址生成器也是正向的，然后从生成的一堆比特币地址里选一个符合要求的。",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482041770",
+			"date_added": 1482048484
+		},
+		{
+			"comment_id": 596,
+			"body": "@Ddjj: 所谓的多少位的密钥是指二进制位数，使用中文的“位数”基本等同于做了一个单位转换，并无实际意义。另外，不对称密钥很难定向生成，强行找几个在字符集里面是中文的东西困难且无多大意义。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481886808",
+			"date_added": 1482048733
+		},
+		{
+			"comment_id": 597,
+			"body": "@Ysc3839: 这么说，flv 能节省空间？还是说 B 站必须考虑到老旧浏览器而使用 Flash 而必须保留两个版本浪费空间？",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482032714",
+			"date_added": 1482049802
+		},
+		{
+			"comment_id": 598,
+			"body": "@Ysc3839: Python 作为解释性语言也不算快的。有谁去搞个 ZeroNet-PHP ？这样不仅性能好一些，还得到了在常规虚拟主机上运行的加成。",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482041770",
+			"date_added": 1482049929
+		},
+		{
+			"comment_id": 599,
+			"body": "@Ysc3839: 目前连 360 都使用 Chromium 内核自带常规 HTML5 视频支持了，所以 Flash 还这么重要么？干脆砍掉好了。",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482032714",
+			"date_added": 1482050035
+		},
+		{
+			"comment_id": 600,
+			"body": "@Ysc3839: 因为 Python 解决了许多基础性的问题，而 C 语言要自己写吧！你说 WebSocket 支持不了是常规的虚拟主机都没 socket 扩展的原因？还是许多都不是独立 IP 的原因？",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482041770",
+			"date_added": 1482050371
+		},
+		{
+			"comment_id": 601,
+			"body": "@Ysc3839: 然而其他的国内视频网站在电脑上依然是万年 Flash ，貌似不能直接 DOM 操作所以自认为广告过滤困难。结果很多人开始在用插在网络底层的直接拦截广告连接的玩意儿了（当然多数软件是自己刷流量的玩意）。",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482032714",
+			"date_added": 1482050593
+		},
+		{
+			"comment_id": 602,
+			"body": "@Ysc3839: 啥？是前置反向代理的？我一直以为是直接分配了一个目录并设置好权限。另外 PHP 代码是可以改超时的（亲测，多数虚拟主机都可以改，但是长连接有可能被防火墙一类的干掉），这样每次到时间时重设超时就可以无限续。",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482041770",
+			"date_added": 1482051374
 		}
 	],
 	"flags": {},
@@ -3610,6 +3664,7 @@
 		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_234": 1481544445,
 		"1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA_28": 1481815184,
 		"1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_218": 1481874064,
-		"13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_79": 1481987654
+		"13RFJdsXQGN5cfMK8GctB6nQZ5xwLmjcfB_79": 1481987654,
+		"1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_26": 1482048279
 	}
 }

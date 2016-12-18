@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 84,
+	"next_comment_id": 94,
 	"user_name": "Ysc3839",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -535,6 +535,66 @@
 			"body": "@Lmath: 密钥是不联网的",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
 			"date_added": 1481988707
+		},
+		{
+			"comment_id": 84,
+			"body": "修改ID颜色应该是反向推导，而你这个是正向的，不能修改",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482041770",
+			"date_added": 1482046372
+		},
+		{
+			"comment_id": 85,
+			"body": "flv转mp4",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482032714",
+			"date_added": 1482046399
+		},
+		{
+			"comment_id": 86,
+			"body": "@Lmath: 虚荣地址生成器可能不是简单地正向生成吧？我之前找到了个Python写的虚荣地址生成器，代码是简单地正向生成，结果很慢，用C语言写的则快很多。",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482041770",
+			"date_added": 1482049422
+		},
+		{
+			"comment_id": 87,
+			"body": "@Lmath: 这不是多此一举吗？B站用flv.js是为了节省服务器空间，在ZeroNet根本没必要搞那么复杂，上传前转码就好了",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482032714",
+			"date_added": 1482049478
+		},
+		{
+			"comment_id": 88,
+			"body": "@12hstudy <--假装是白色: flv是封装格式，封装了经过编码的视频数据和音频数据，这个js是提取出视频数据和音频数据并构造成mp4的封装格式，然后让浏览器播放。我说的“编码格式”就是编码“视频数据和音频数据”的格式。所谓“转码”如果严格来说是转换“编码格式”，而这个过程没有转换“编码格式”，只是转换了封装格式。",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481963198",
+			"date_added": 1482049683
+		},
+		{
+			"comment_id": 89,
+			"body": "@frog: 修改是可以的，但是其他节点都不接收，你很难收得到。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1482049771
+		},
+		{
+			"comment_id": 90,
+			"body": "@Lmath: 转成mp4的话服务器就有flv+mp4两份文件，浪费了空间，我估计Flash不支持mp4所以这么做。即使Flash支持mp4那转码(转格式)也要费电。",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482032714",
+			"date_added": 1482049856
+		},
+		{
+			"comment_id": 91,
+			"body": "@Lmath: 我没去做过测试，说不准是不是Python本身的问题，但是两个代码量相差都很大，我猜测是算法的问题。",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482041770",
+			"date_added": 1482050017
+		},
+		{
+			"comment_id": 92,
+			"body": "@Lmath: 用PHP写也不可能在常规的虚拟主机上运行，连WebSocket都支持不了",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482041770",
+			"date_added": 1482050117
+		},
+		{
+			"comment_id": 93,
+			"body": "@Lmath: 我觉得不太重要了",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482032714",
+			"date_added": 1482050259
 		}
 	],
 	"flags": {},

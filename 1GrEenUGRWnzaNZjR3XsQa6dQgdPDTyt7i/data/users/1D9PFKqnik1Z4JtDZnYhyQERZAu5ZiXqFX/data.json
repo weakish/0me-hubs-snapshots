@@ -1,6 +1,6 @@
 {
 	"next_post_id": 4,
-	"next_comment_id": 27,
+	"next_comment_id": 28,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "frog",
@@ -183,6 +183,12 @@
 			"body": "连续多次调用you-get/youtube-dl获得多个链接，然后用axel，如果没有限制连接数，那可以满速。",
 			"post_uri": "1VU4YuLth4bBcRtxtGatSwBbQuLXNzgVk_1482043059",
 			"date_added": 1482044278
+		},
+		{
+			"comment_id": 27,
+			"body": "@Ysc3839: 的确，如果不是直接连接的节点的话。而且站点拥有者下次push时修改会被覆盖。不过用户应该可以通过改这个文件来自定义暂时禁言某些用户。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1482050101
 		}
 	],
 	"follow": []
