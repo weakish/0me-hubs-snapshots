@@ -1,5 +1,5 @@
 {
-	"next_post_id": 2,
+	"next_post_id": 3,
 	"next_comment_id": 1,
 	"next_follow_id": 2,
 	"avatar": "generate",
@@ -11,9 +11,23 @@
 			"post_id": 1,
 			"date_added": 1471760898,
 			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1482070622,
+			"body": "有木有人知道ssr最新版密码。。。能告知一下吗？",
+			"date_added": 1482070620
 		}
 	],
 	"post_like": {},
 	"comment": [],
-	"follow": []
+	"follow": [],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {}
 }
