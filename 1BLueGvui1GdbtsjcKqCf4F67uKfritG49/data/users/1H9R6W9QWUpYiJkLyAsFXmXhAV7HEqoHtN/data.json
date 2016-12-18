@@ -1,5 +1,5 @@
 {
-	"next_post_id": 173,
+	"next_post_id": 174,
 	"next_comment_id": 199,
 	"next_follow_id": 32,
 	"avatar": "jpg",
@@ -621,6 +621,11 @@
 			"post_id": 1482061700,
 			"body": "What the hell? Tried to switch font into \"Courier New\" and picture didn't change. It doesn't matter! It insists on it's ugly font no matter I tell it \"Lucida Console\" or \"Courier New\". So I need to find how to address my font properly, because 'font-family: \"Lucida Console\";' line (in css) is not enough!",
 			"date_added": 1482061528
+		},
+		{
+			"post_id": 1482083740,
+			"body": "HTML struggle.\nThats it for today. Looks like I successfully forced browser to use \"Lucida Console\". But it is bold everywhere. And it shows rhomb \"?\" instead of any russian language character. But this for the next time. Thanks, Arkre and everyone who tried to helped me.\nP.S. I feel like a dog biting tank. Tired, spend hours of time almost for nothing. Freaking glitch-o-drome those browsers and html/css are! Time to rest in peace for a while. See you next time.",
+			"date_added": 1482083567
 		}
 	],
 	"post_like": {
