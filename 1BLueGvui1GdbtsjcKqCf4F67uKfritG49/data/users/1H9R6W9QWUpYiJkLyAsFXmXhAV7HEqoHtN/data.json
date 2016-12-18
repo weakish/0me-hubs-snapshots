@@ -1,6 +1,6 @@
 {
-	"next_post_id": 172,
-	"next_comment_id": 186,
+	"next_post_id": 173,
+	"next_comment_id": 188,
 	"next_follow_id": 32,
 	"avatar": "jpg",
 	"user_name": "Flyman",
@@ -616,6 +616,11 @@
 			"post_id": 1482058334,
 			"body": "Question: Is it possible to \"include\" lucon.ttf file into html/css?\nI found exact file which **is** exact \"lucida concole\" font. Is there some way to \"tell\" webpage to use font from ttf file?",
 			"date_added": 1482058163
+		},
+		{
+			"post_id": 1482061700,
+			"body": "What the hell? Tried to switch font into \"Courier New\" and picture didn't change. It doesn't matter! It insists on it's ugly font no matter I tell it \"Lucida Console\" or \"Courier New\". So I need to find how to address my font properly, because 'font-family: \"Lucida Console\";' line (in css) is not enough!",
+			"date_added": 1482061528
 		}
 	],
 	"post_like": {
@@ -1544,6 +1549,12 @@
 			"body": "@Awdhax: no, this is not the case. Font is definitely different: letter \"R\", \"i\", tried to compare another few letters, they all differs. I tried to observe font I want to be in different sizes and in all sizes I like it, but this is not same font - in all sizes it is ugly, bold, not that font I want.",
 			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1481992767",
 			"date_added": 1482058571
+		},
+		{
+			"comment_id": 187,
+			"body": "@Awdhax: Oh, and recently I found out, this font does not \"know\" russian letters! So this font is definitely not the one I want.",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1481992767",
+			"date_added": 1482061169
 		}
 	],
 	"follow": [

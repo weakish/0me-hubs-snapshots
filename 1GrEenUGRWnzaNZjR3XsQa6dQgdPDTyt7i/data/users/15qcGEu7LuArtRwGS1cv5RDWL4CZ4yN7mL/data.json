@@ -1,5 +1,5 @@
 {
-	"next_post_id": 27,
+	"next_post_id": 28,
 	"next_comment_id": 129,
 	"next_follow_id": 10,
 	"avatar": "jpg",
@@ -133,6 +133,11 @@
 			"post_id": 1482041770,
 			"body": "成功将ZeroMe的ID颜色算法给Python化，可以使用虚荣比特币地址生成器自己去修改自己的ID颜色了\n```\ndef getTextColor(text, saturation=30, lightness=50):\n    i = 0\n    textLen = len(text) - 1\n    textHash = 0\n    while i <= textLen if 0 <= textLen else i >= textLen:\n        textHash += ord(text[i]) * i\n        textHash = textHash % 1777\n        if i <= textLen:\n            i += 1\n        else:\n            i -= 1\n    return f\"hsl({textHash % 360}, {saturation}%, {lightness}%)\"\n\n\nprint(getTextColor('15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL')) #将会得到我的ID颜色值 hsl(307, 30%, 50%)\n\n```",
 			"date_added": 1482041744
+		},
+		{
+			"post_id": 1482061079,
+			"body": "找到终极解决办法，视频站不久重新上线（和视频流播放）",
+			"date_added": 1482061052
 		}
 	],
 	"post_like": {
