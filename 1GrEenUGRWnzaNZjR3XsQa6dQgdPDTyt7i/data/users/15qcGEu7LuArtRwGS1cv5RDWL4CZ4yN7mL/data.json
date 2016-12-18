@@ -1,6 +1,6 @@
 {
-	"next_post_id": 25,
-	"next_comment_id": 121,
+	"next_post_id": 26,
+	"next_comment_id": 123,
 	"next_follow_id": 10,
 	"avatar": "jpg",
 	"user_name": "12hstudy <--假装是白色",
@@ -123,6 +123,11 @@
 			"post_id": 1482036937,
 			"body": "在没有新技术支持的情况下，或许只能期待zn将ipfs融合进来，否则想在zn上看高清影视就没有其他更好的办法了。",
 			"date_added": 1482036913
+		},
+		{
+			"post_id": 1482038367,
+			"body": "刚刚看了一下，zerome和zerotalk的颜色算法是不一样的，但是我的用户名都是紫色...",
+			"date_added": 1482038342
 		}
 	],
 	"post_like": {
@@ -828,9 +833,21 @@
 		},
 		{
 			"comment_id": 120,
-			"body": "@Lmath: 可见https://github.com/HelloZeroNet/ZeroNet/issues/707#issuecomment-267801351",
+			"body": "@Lmath: 可见https://github.com/HelloZeroNet/ZeroNet/issues/707#issuecomment-267801351 作者还没回复",
 			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482036937",
 			"date_added": 1482037184
+		},
+		{
+			"comment_id": 121,
+			"body": "@Lmath: 如果add allow-same-origin to zeronet iframe，window.URL.createObjectURL(new window.MediaSource())就可以使用了，但这样的话zn其实根本没必要再加个iframe sandbox，若是没有这层frame一堆应用直接就能移植过来了",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482036937",
+			"date_added": 1482037481
+		},
+		{
+			"comment_id": 122,
+			"body": "@Lmath: 最后一个选择那还移植个毛web APP啊、、",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482036937",
+			"date_added": 1482039564
 		}
 	],
 	"follow": [

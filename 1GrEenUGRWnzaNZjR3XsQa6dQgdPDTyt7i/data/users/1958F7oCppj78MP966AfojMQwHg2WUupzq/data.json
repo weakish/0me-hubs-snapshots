@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 592,
+	"next_comment_id": 594,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -3558,6 +3558,18 @@
 			"body": "包装一个 API 并放在 sandbox 外的 wrapper 下运行，不过要处理好安全问题。",
 			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482036937",
 			"date_added": 1482037090
+		},
+		{
+			"comment_id": 592,
+			"body": "@12hstudy <--假装是白色: `allow-same-origin` 那么就产生了跨域问题。这样的话你要么代理，要么伪协议，要么~~学习 Freenet 干脆过滤掉 Javascript~~ 。",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482036937",
+			"date_added": 1482038387
+		},
+		{
+			"comment_id": 593,
+			"body": "@简单翻墙: 以前有人发布过列表，而加更多 Hub 是为了看到更多人的信息。",
+			"post_uri": "1JVxDWmnkRf72L1z5EfJofptZYodRw7R2h_1481985819",
+			"date_added": 1482039705
 		}
 	],
 	"flags": {},
