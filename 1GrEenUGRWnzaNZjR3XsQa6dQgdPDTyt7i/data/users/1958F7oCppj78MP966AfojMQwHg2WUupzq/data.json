@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 608,
+	"next_comment_id": 613,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -40,7 +40,8 @@
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481773087": 1481789649,
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361": 1481822823,
 		"15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481897861": 1481898247,
-		"15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481946791": 1481947594
+		"15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481946791": 1481947594,
+		"15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482075573": 1482076377
 	},
 	"comment": [
 		{
@@ -3654,6 +3655,36 @@
 			"body": "为啥我感觉这图是图像处理软件处理过的？不像是你改了主页啊！",
 			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1482059008",
 			"date_added": 1482073120
+		},
+		{
+			"comment_id": 608,
+			"body": "@12hstudy <--假装是彩色: 依照这个理论，Tor 已经被攻击了不知道多少次了（虽然确实有一些攻击）。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482071677",
+			"date_added": 1482073246
+		},
+		{
+			"comment_id": 609,
+			"body": "@12hstudy <--假装是彩色: 被攻击并不奇怪，很多游戏私服还经常被 DDoS 攻击呢！根据 Nofish 的说法，ZeroNet 会被攻击但是影响稍微小一些（只影响新访客和原有访客的数据更新）。要说抗 DDoS 攻击，Freenet 倒是做了一些防护措施（主要是攻击的过程会使得相关数据被传播到更多的节点，这使得数据要在大多数 Freenet 节点瘫痪时才变得可用性很差）。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482071677",
+			"date_added": 1482073718
+		},
+		{
+			"comment_id": 610,
+			"body": "@Firedog: 不一定要进度条跑满，但是会优先开发进度条跑得快的。",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481963469",
+			"date_added": 1482073800
+		},
+		{
+			"comment_id": 611,
+			"body": "@12hstudy <--假装是彩色: 离线掉整个互联网一直是自称，谷歌也没敢这么说，而且我确实遇到很多冷门资源依然下不动的情况。但是根据二八定律，只要离线掉 20% 的内容应该就可以满足 80% 的人的需求了吧！（实际可能比例更小）",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481963469",
+			"date_added": 1482073884
+		},
+		{
+			"comment_id": 612,
+			"body": "为啥上午总是没什么人？",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482075573",
+			"date_added": 1482076396
 		}
 	],
 	"flags": {},

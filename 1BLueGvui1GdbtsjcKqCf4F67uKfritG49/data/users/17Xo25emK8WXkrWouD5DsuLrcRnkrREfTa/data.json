@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 5,
+	"next_comment_id": 6,
 	"user_name": "Arkre",
 	"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
 	"post_like": {
@@ -34,6 +34,12 @@
 			"body": "@Flyman: http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Profile/1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v/17Xo25emK8WXkrWouD5DsuLrcRnkrREfTa/arkre@zeroid.bit",
 			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1482061700",
 			"date_added": 1482071537
+		},
+		{
+			"comment_id": 5,
+			"body": "@Flyman: Previous time I opened your site from start it was \"Courier New\". When I open it now it's \"Lucida Console\". To switch fonts I've opened developer tools (F12, right on the screenshot), found CSS rule and changed it, and then done screenshots with 3 different fonts (Lucida, Courier and default). It's really weird it's rendered correctly for everyone except you. Maybe some cache issue?",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1482061700",
+			"date_added": 1482074602
 		}
 	]
 }
