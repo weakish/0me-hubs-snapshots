@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 5,
+	"next_comment_id": 6,
 	"user_name": "Zerg",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {
@@ -9,7 +9,8 @@
 		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1479211113": 1479214648,
 		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1479222139": 1479239191,
 		"1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_1479923346": 1479925198,
-		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1480595719": 1480619521
+		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1480595719": 1480619521,
+		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1482056825": 1482062470
 	},
 	"comment": [
 		{
@@ -35,6 +36,12 @@
 			"body": "for an $5 VPS, ok, it's cheap. But if you need more resources, it's expensive as hell! just check out https://www.nocix.net/dedicated/ - 120GB SSD + 2TB disk, 4core CPU, 16GB DDR3 - for $25 .... so it turns out, or even see GCE, it's still much more expensive, but not nearly as much as those 'cheap VPS' things like DO / Vultr / arubecloud / etc...",
 			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1480426322",
 			"date_added": 1480434818
+		},
+		{
+			"comment_id": 5,
+			"body": "I can't reach http://192.168.1.10:43110/0git.0git.bit :(",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1482056825",
+			"date_added": 1482062500
 		}
 	]
 }

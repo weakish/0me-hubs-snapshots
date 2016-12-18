@@ -1,6 +1,6 @@
 {
 	"next_post_id": 79,
-	"next_comment_id": 67,
+	"next_comment_id": 68,
 	"next_follow_id": 223,
 	"avatar": "png",
 	"user_name": "weakish",
@@ -394,7 +394,7 @@
 		},
 		{
 			"post_id": 1482056825,
-			"body": "Just launched [0git.bit](/0git.bit), a list of git repositories on ZeroNet.\n\nI wrote it based on [the ZeroChat tutorial on ZeroBlog](/Blog.ZeroNetwork.bit/). \n\nFeatures:\n\n- Also supports Kaffie ID.\n- Responsive card based layout.\n- Minimal design.\n- Under 200 lines of code.\n- Licensed under 0BSD.\n\nIts source code is hosted at ZeroNet, [browsable and cloneable](http://192.168.1.10:43110/0git.0git.bit).\n\nP.S. editing posts is not implemented yet.\n\n",
+			"body": "Just launched [0git.bit](/0git.bit), a list of git repositories on ZeroNet.\n\nI wrote it based on [the ZeroChat tutorial on ZeroBlog](/Blog.ZeroNetwork.bit/). \n\nFeatures:\n\n- Also supports Kaffie ID.\n- Responsive card based layout.\n- Minimal design.\n- Under 200 lines of code.\n- Licensed under 0BSD.\n\nIts source code is hosted at ZeroNet, [browsable and cloneable](/0git.0git.bit).\n\nP.S. editing posts is not implemented yet.\n\n",
 			"date_added": 1482056747
 		}
 	],
@@ -830,6 +830,12 @@
 			"body": "@ks:  I think it is fine if the domain is only intended to use with ZeroNet.",
 			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1481874072",
 			"date_added": 1482058740
+		},
+		{
+			"comment_id": 67,
+			"body": "@Zerg: Sorry I made a typo. Link fixed now. Thanks.",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1482056825",
+			"date_added": 1482064196
 		}
 	],
 	"follow": [
