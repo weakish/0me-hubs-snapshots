@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 6,
+	"next_comment_id": 8,
 	"user_name": "Arkre",
 	"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
 	"post_like": {
@@ -40,6 +40,18 @@
 			"body": "@Flyman: Previous time I opened your site from start it was \"Courier New\". When I open it now it's \"Lucida Console\". To switch fonts I've opened developer tools (F12, right on the screenshot), found CSS rule and changed it, and then done screenshots with 3 different fonts (Lucida, Courier and default). It's really weird it's rendered correctly for everyone except you. Maybe some cache issue?",
 			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1482061700",
 			"date_added": 1482074602
+		},
+		{
+			"comment_id": 6,
+			"body": "@Flyman: Check this https://jsfiddle.net/urk5u9xa/ Does it work for you or all 3 lines are the same font? If it's ok, then it's not problem with browser, only with one page. Otherwise, I'd try to google something like \"fonts .. not working in ..\".",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1482061700",
+			"date_added": 1482077309
+		},
+		{
+			"comment_id": 7,
+			"body": "@Flyman: I'd try to reset chrome settings, or probably start new user profile.",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1482061700",
+			"date_added": 1482079778
 		}
 	]
 }

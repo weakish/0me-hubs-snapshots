@@ -1,6 +1,6 @@
 {
 	"next_post_id": 173,
-	"next_comment_id": 195,
+	"next_comment_id": 199,
 	"next_follow_id": 32,
 	"avatar": "jpg",
 	"user_name": "Flyman",
@@ -1597,6 +1597,24 @@
 			"body": "@Arkre: killed the cache. Problem is still there. It looks like I am stuck with default font.",
 			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1482061700",
 			"date_added": 1482076321
+		},
+		{
+			"comment_id": 195,
+			"body": "@Arkre: 1st and 2nd line looks same - default font; 3rd is different.",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1482061700",
+			"date_added": 1482077645
+		},
+		{
+			"comment_id": 197,
+			"body": "@Arkre: what the hell? I found \"font settings\" in configuration. I can select 4 fonts. And this setting affect what font browser use in some (not all) places, including my page and your 3-line example. And there is no option to unselect font.",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1482061700",
+			"date_added": 1482078816
+		},
+		{
+			"comment_id": 198,
+			"body": "@Arkre: I use Chrome under MacOS, and Firefox shows same thing: 1st and 2nd line the same, 3rd is different but wrong.",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1482061700",
+			"date_added": 1482079067
 		}
 	],
 	"follow": [
