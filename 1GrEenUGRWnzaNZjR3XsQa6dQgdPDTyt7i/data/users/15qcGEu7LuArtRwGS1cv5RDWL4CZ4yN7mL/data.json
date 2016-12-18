@@ -1,6 +1,6 @@
 {
-	"next_post_id": 24,
-	"next_comment_id": 120,
+	"next_post_id": 25,
+	"next_comment_id": 121,
 	"next_follow_id": 10,
 	"avatar": "jpg",
 	"user_name": "12hstudy <--假装是白色",
@@ -118,6 +118,11 @@
 			"post_id": 1482032714,
 			"body": "视频站在建立时遇到了困难，flv格式因为flv.js采用的核心方法因zeronet的iframe没有allow-same-origin 属性而导致window.URL.createObjectURL(new window.MediaSource())得到的url无法播放，因此在chromium内核一揽子浏览器上通过flv.js来实现视频流式播放（免加载完成等待）基本失败，而webm格式的视频清晰度实在是令人抓鸡，mp4无损转webm马赛克成板出现，因此求更好的解决方法",
 			"date_added": 1482032691
+		},
+		{
+			"post_id": 1482036937,
+			"body": "在没有新技术支持的情况下，或许只能期待zn将ipfs融合进来，否则想在zn上看高清影视就没有其他更好的办法了。",
+			"date_added": 1482036913
 		}
 	],
 	"post_like": {
@@ -820,6 +825,12 @@
 			"body": "@Rainlime: 这张图不是太好，雾霾太重，我删掉了",
 			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482031333",
 			"date_added": 1482032075
+		},
+		{
+			"comment_id": 120,
+			"body": "@Lmath: 可见https://github.com/HelloZeroNet/ZeroNet/issues/707#issuecomment-267801351",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482036937",
+			"date_added": 1482037184
 		}
 	],
 	"follow": [
