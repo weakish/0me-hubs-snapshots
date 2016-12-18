@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 94,
+	"next_comment_id": 96,
 	"user_name": "Ysc3839",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -595,6 +595,18 @@
 			"body": "@Lmath: 我觉得不太重要了",
 			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482032714",
 			"date_added": 1482050259
+		},
+		{
+			"comment_id": 94,
+			"body": "@Lmath: 常规的虚拟主机都是有个前置HTTP服务器，用户访问的时候执行php脚本，脚本返回数据给HTTP服务器，服务器再返回给用户。这样的话根本不可能处理WebSocket，同时PHP代码不能一直在后台运行。",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482041770",
+			"date_added": 1482051158
+		},
+		{
+			"comment_id": 95,
+			"body": "@Lmath: 都是这样的，你没配置过nginx+PHP环境？PHP可以设置超时时间，但是HTTP服务器不可以，超时了就返回错误。",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482041770",
+			"date_added": 1482054142
 		}
 	],
 	"flags": {},

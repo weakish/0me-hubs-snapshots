@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 603,
+	"next_comment_id": 606,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -3624,6 +3624,24 @@
 			"body": "@Ysc3839: 啥？是前置反向代理的？我一直以为是直接分配了一个目录并设置好权限。另外 PHP 代码是可以改超时的（亲测，多数虚拟主机都可以改，但是长连接有可能被防火墙一类的干掉），这样每次到时间时重设超时就可以无限续。",
 			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482041770",
 			"date_added": 1482051374
+		},
+		{
+			"comment_id": 603,
+			"body": "@12hstudy <--假装是白色: 很早以前我就测试过，格式正确的是可以流式播放的。但是在 ZeroNet 上能不能流式播放我并不清楚。",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482032714",
+			"date_added": 1482053967
+		},
+		{
+			"comment_id": 604,
+			"body": "@Ysc3839: 啊！我测试的基本都是 Apache 环境，用 nginx 的貌似不多，但是目前的啥“云主机”都喜欢用 nginx 。",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482041770",
+			"date_added": 1482054276
+		},
+		{
+			"comment_id": 605,
+			"body": "@12hstudy <--假装是白色: 发现格式不对的转码。",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482032714",
+			"date_added": 1482054902
 		}
 	],
 	"flags": {},
