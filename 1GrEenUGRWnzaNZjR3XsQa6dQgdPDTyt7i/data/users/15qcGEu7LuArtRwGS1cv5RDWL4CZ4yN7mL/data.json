@@ -1,9 +1,9 @@
 {
-	"next_post_id": 29,
-	"next_comment_id": 130,
+	"next_post_id": 31,
+	"next_comment_id": 143,
 	"next_follow_id": 10,
 	"avatar": "jpg",
-	"user_name": "12hstudy <--假装是白色",
+	"user_name": "12hstudy <--假装是彩色",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"intro": "新 ZeroNet 用户",
 	"post": [
@@ -141,13 +141,26 @@
 		},
 		{
 			"post_id": 1482064971,
-			"body": "为啥我故意把新的zerobundle放到一个特别小的盘上然后浏览很多带option file的帖子，在超出限制之后无任何警告也没有删除？\n这样我弄个特别大的option file然后设置个图片加载这一文件，不随随便便坑死人\n最重要的是，**超出限制也无任何警告，超出限制也无任何警告，超出限制也无任何警告，重要的话说三遍！！！**\n@p2p，我觉得这是一个比较严重的问题，\n讨论地址：[gfwtalk.bit](/?Topic:1_15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL/+zerobundle+option+file)",
+			"body": "为啥我故意把新的zerobundle放到一个特别小的盘上然后浏览很多带option file的帖子，在超出限制之后无任何警告也没有删除？\n这样我弄个特别大的option file然后设置个图片加载这一文件，不随随便便坑死人\n最重要的是，**超出限制也无任何警告，超出限制也无任何警告，超出限制也无任何警告，重要的话说三遍！！！**\n@p2p，我觉得这是一个比较严重的问题，\n讨论地址：[gfwtalk.bit](/gfwtalk.bit/?Topic:1_15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL/+zerobundle+option+file)",
 			"date_added": 1482064943
+		},
+		{
+			"post_id": 1482066082,
+			"body": "我认为option file设计可以这样改进，用户设置默认缓存大小，当超出时自动检索本地缓存的文件，然后向网络请求获取拥有这一文件的用户，然后看看有多少能够连接，连接之后随机请求文件一部分做比对校验，如果校验通过的小于20则保留这份文件，大于20则删除这个文件，如果空间还不够就查看下一个可选文件，伪代码：\n```\n\ndef rm_enough_file():\n    for file_id in get_option_file_list():\n        if check_file_real_have(file_id) >20:\n            rm_option_file(file_id)\n            if check_option_files_diskuseage()<option_files_diskuseage_limit:\n                break\n\n\nif check_option_files_diskuseage()>option_files_diskuseage_limit:\n    rm_enough_file()\n\n```",
+			"date_added": 1482066053
+		},
+		{
+			"post_id": 1482066226,
+			"body": "咦。。今天人好少诶。。半天见不到人更新一贴，卖个萌先~\n#      喵~",
+			"date_added": 1482066196,
+			"meta": "{\"img\":\"900,563,dcccbb999677555889765434235bbb888a87876224b98113,001234443300567748449A46BC688D373BE667FD933AA674390000101000\"}"
 		}
 	],
 	"post_like": {
 		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481952946": 1481953748,
-		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481968367": 1481968946
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481968367": 1481968946,
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482067467": 1482067631,
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482068007": 1482067906
 	},
 	"comment": [
 		{
@@ -905,6 +918,84 @@
 			"body": "@Ddjj: 我得去问问P2P",
 			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482061079",
 			"date_added": 1482064594
+		},
+		{
+			"comment_id": 130,
+			"body": "当微博用啊，2333",
+			"post_uri": "1JVxDWmnkRf72L1z5EfJofptZYodRw7R2h_1482064864",
+			"date_added": 1482066106
+		},
+		{
+			"comment_id": 131,
+			"body": "@Ddjj: 档次？。。。目前还没有出现太严重的阶级分化，随意啦",
+			"post_uri": "1JVxDWmnkRf72L1z5EfJofptZYodRw7R2h_1482064864",
+			"date_added": 1482066251
+		},
+		{
+			"comment_id": 132,
+			"body": "@Rainlime: 嗯嗯，链接已修复",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482064971",
+			"date_added": 1482067691
+		},
+		{
+			"comment_id": 133,
+			"body": "@Rainlime: 233，握爪",
+			"post_uri": "1JVxDWmnkRf72L1z5EfJofptZYodRw7R2h_1482064864",
+			"date_added": 1482067844
+		},
+		{
+			"comment_id": 134,
+			"body": "@Rainlime: ^_^~/",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482061079",
+			"date_added": 1482067895
+		},
+		{
+			"comment_id": 135,
+			"body": "嗯？：）我去看看",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482068007",
+			"date_added": 1482067926
+		},
+		{
+			"comment_id": 136,
+			"body": "@Rainlime: 好的^_^",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482066226",
+			"date_added": 1482067958
+		},
+		{
+			"comment_id": 137,
+			"body": "@Rainlime: 1984.city这个网站好久之前就知道的了，不过我没怎么去上面看，233",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482068007",
+			"date_added": 1482068066
+		},
+		{
+			"comment_id": 138,
+			"body": "@Rainlime: 这个问题可以通过iptables设置来处理，不过做起来比较麻烦，为了局域网网络通畅，我一般在路由器上就做好翻墙设置了2333",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482068007",
+			"date_added": 1482068167
+		},
+		{
+			"comment_id": 139,
+			"body": "@Rainlime: 具体的教程等会回你",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482068007",
+			"date_added": 1482068189
+		},
+		{
+			"comment_id": 140,
+			"body": "@Rainlime: 使用ss-redir配合Linux的iptable来实现全局代理.\nUbuntu 14.04环境下通过， Qubes OS未测试\n```bash\n# cat juli-start-iptables.sh   \n#!/bin/sh  \n#创建一个叫SOCKS的链  \n   \niptables -t nat -N SOCKS  \n   \n#忽略本地地址以及服务器的地址,服务器地址如果不属于内网IP的话一定要注意加上.    \n   \niptables -t nat -A SOCKS -d 0.0.0.0/8 -j RETURN  \n   \niptables -t nat -A SOCKS -d 10.0.0.0/8 -j RETURN  \n   \niptables -t nat -A SOCKS -d 127.0.0.0/8 -j RETURN  \n   \niptables -t nat -A SOCKS -d 169.254.0.0/16 -j RETURN  \n   \niptables -t nat -A SOCKS -d 172.16.0.0/12 -j RETURN  \n   \niptables -t nat -A SOCKS -d 192.168.0.0/16 -j RETURN  \n   \niptables -t nat -A SOCKS -d 224.0.0.0/4 -j RETURN  \n   \niptables -t nat -A SOCKS -d 240.0.0.0/4 -j RETURN  \n   \n# Anything else should be redirected to shadowsocks's local port  \n   \n#除上面之外的所有流量都跳转到socks的本地端口(local_port),这里使用shadosock默认端口1080  \n   \niptables -t nat -A SOCKS -p tcp -j REDIRECT --to-ports 1080  \n# 重点\n# 最后是应用上面的规则,将OUTPUT出去的tcp流量全部经过SOCKS链  \n   \n#如果是在openwrt上实现透明代理的话,使用下面被注释了的规则  \n   \niptables -t nat -A PREROUTING -p tcp -j SOCKS  \niptables -t nat -A PREROUTING -p udp -j SOCKS  \niptables -t nat -A PREROUTING -p icmp -j SOCKS  \n   \n#iptables -t nat -A OUTPUT -p tcp -j SOCKS  \n```\n将防火墙规则加入系统后,启动ss-redir,其实两者顺序调换了也无所谓\n\n#ss-redir -c /etc/shadosocks.json\n\nshadosocks.json的内容和设置ss-local是一致的",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482068007",
+			"date_added": 1482068272
+		},
+		{
+			"comment_id": 141,
+			"body": "@Rainlime: 不知道能否运行是吗？。。。或许你需要一个自动前置代理（路由器）",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482068007",
+			"date_added": 1482069217
+		},
+		{
+			"comment_id": 142,
+			"body": "@Rainlime: 如果你家的路由器是mt7620芯片（小米mini，迅雷下载宝，优酷路由宝，斐讯k1k2等大部分2015-2016年市面上的廉价家用智能路由器）可以到[这里](http://www.right.com.cn/forum/thread-161324-1-1.html)下载开源魔改路由器固件，自动把局域网所有流量按智能代理shadowsocks。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482068007",
+			"date_added": 1482069459
 		}
 	],
 	"follow": [
