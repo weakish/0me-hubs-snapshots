@@ -1,16 +1,16 @@
 {
 	"next_post_id": 2,
 	"next_comment_id": 1,
-	"next_follow_id": 8,
-	"avatar": "generate",
-	"user_name": "Arkimedes",
+	"next_follow_id": 18,
+	"avatar": "png",
+	"user_name": "ark",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
-	"intro": "Random ZeroNet user",
+	"intro": "art's recyclable knowledge\n",
 	"post": [
 		{
 			"post_id": 1,
 			"date_added": 1480865633,
-			"body": "Hello ZeroMe!"
+			"body": "Hello Wired"
 		}
 	],
 	"post_like": {},
@@ -64,6 +64,69 @@
 			"auth_address": "1D242AyQghFqqQTwo1f1csP5kRQe588BUm",
 			"user_name": "Francis Brunelle",
 			"date_added": 1480865996
+		},
+		{
+			"follow_id": 8,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1481244057
+		},
+		{
+			"follow_id": 9,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u",
+			"user_name": "Lola",
+			"date_added": 1481247220
+		},
+		{
+			"follow_id": 10,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1481330820
+		},
+		{
+			"follow_id": 11,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ",
+			"user_name": "Musickiller",
+			"date_added": 1481330821
+		},
+		{
+			"follow_id": 12,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1481330829
+		},
+		{
+			"follow_id": 13,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx",
+			"user_name": "ks",
+			"date_added": 1481330831
+		},
+		{
+			"follow_id": 14,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9",
+			"user_name": "Shellbound",
+			"date_added": 1481330836
+		},
+		{
+			"follow_id": 15,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t",
+			"user_name": "tkarita",
+			"date_added": 1481330838
+		},
+		{
+			"follow_id": 17,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NZbgDUpFDLLFfy3BFN6No2RVQYvcwstrn",
+			"user_name": "ark",
+			"date_added": 1482090577
 		}
 	]
 }
