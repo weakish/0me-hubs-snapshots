@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 4,
+	"next_comment_id": 5,
 	"user_name": "Arkre",
 	"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
 	"post_like": {
@@ -26,6 +26,12 @@
 			"body": "@weakish: I don't get the idea with x. Variable shadowing works quite intuitively like in almost every language: https://ideone.com/gDS3rK Memory management and all that \"borrowing\" issues are indeed complicated in Rust, it requires your program to be memory safe by construction via type system (which is inspired by region types and linear type systems in general), but in some cases you will need to give up and turn unsafe mode.",
 			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1481203573",
 			"date_added": 1481291109
+		},
+		{
+			"comment_id": 4,
+			"body": "@Kaffie: Would be interesting to see browser-based full-text search. For example, a robot can build index once in a week and embed it in zite files, and then every user can enter the zite and perform any searches inside that index.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1482102099",
+			"date_added": 1482142572
 		}
 	]
 }
