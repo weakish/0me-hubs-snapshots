@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 327,
+	"next_comment_id": 328,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -1964,6 +1964,12 @@
 			"body": "@12hstudy <--假装是蓝色: 根据测试，应该与超时无关。我把超时改成了 150ms 并禁用缓存重新加载还是这样。",
 			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1482073007",
 			"date_added": 1482135057
+		},
+		{
+			"comment_id": 327,
+			"body": "http://127.0.0.1:43110/1UPDatEDxnvHDo7TXvq6AEBARfNkyfxsp/\n其实你可以在 `zeronet.py --help` 的输出信息里看到。",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1482149524",
+			"date_added": 1482150310
 		}
 	],
 	"flags": {

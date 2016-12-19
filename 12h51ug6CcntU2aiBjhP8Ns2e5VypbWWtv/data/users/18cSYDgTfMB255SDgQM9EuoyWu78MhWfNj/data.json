@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 3,
+	"next_comment_id": 4,
 	"user_name": "Martinv",
 	"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
 	"post_like": {
@@ -18,6 +18,12 @@
 			"body": "Sería un buen hack, pero si no se implementa algo en el propio ZN esto va a ser un caos inusable en poco tiempo...",
 			"post_uri": "1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_1479140308",
 			"date_added": 1481987474
+		},
+		{
+			"comment_id": 3,
+			"body": "Perdón, estaba pensando en ejemplos muy concretos. Más que a nivel de ZN me refería por ejemplo en ZeroMe, donde tenemos un stream en donde vemos las publicaciones de **todos** los usuarios. En ese caso pensaba que sería muy útil definir nuestro idioma a nivel de perfil o a nivel de publicación para que nuestras publicaciones automáticamente salgan ya tageadas y de essa forma también podamos elegir qué publicaciones queremos ver en el stream.\nSi dependemos de una organización informal como la que proponés, usando un tag o lo que sea, el resultado va a ser muy pobre, la gente nueva no va a saber que lo tiene que hacer o se va a olvidar de hacerlo, etc. Por eso digo que es un buen hack, por ahora, pero que necesitamos alguna otra solución \"oficial\" para que el filtrado por idiomas se haga de manera más nativa.",
+			"post_uri": "1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_1479140308",
+			"date_added": 1482149504
 		}
 	],
 	"flags": {},

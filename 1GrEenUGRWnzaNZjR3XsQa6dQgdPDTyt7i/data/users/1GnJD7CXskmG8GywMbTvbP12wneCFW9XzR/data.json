@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 94,
+	"next_comment_id": 95,
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -42,7 +42,9 @@
 		"1NZsz5ugkzg27d9jmc8qrT9GxcLZdiuBGP_1480910154": 1480945497,
 		"1V7usnfmabQXPSNC2zrCpF2ed2jDZaujS_1480911438": 1480945519,
 		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481386818": 1481445205,
-		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481977209": 1482047052
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481977209": 1482047052,
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482067467": 1482149953,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482125837": 1482151856
 	},
 	"comment": [
 		{
@@ -602,6 +604,12 @@
 			"body": "自教。自干。",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482026217",
 			"date_added": 1482047749
+		},
+		{
+			"comment_id": 94,
+			"body": "Qubes OS dom0 用的是半年一更的Fedora，搞不懂为啥他们不用长支持周期的debian给自己减轻负担？音频后端用的是PulseAudio，感觉不太靠谱的样子。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482067467",
+			"date_added": 1482151251
 		}
 	]
 }

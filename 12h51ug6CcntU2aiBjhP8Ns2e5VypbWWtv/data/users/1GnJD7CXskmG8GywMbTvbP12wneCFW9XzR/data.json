@@ -1,7 +1,7 @@
 {
-	"next_post_id": 79,
-	"next_comment_id": 70,
-	"next_follow_id": 226,
+	"next_post_id": 80,
+	"next_comment_id": 72,
+	"next_follow_id": 227,
 	"avatar": "png",
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -396,6 +396,11 @@
 			"post_id": 1482056825,
 			"body": "Just launched [0git.bit](/0git.bit), a list of git repositories on ZeroNet.\n\nI wrote it based on [the ZeroChat tutorial on ZeroBlog](/Blog.ZeroNetwork.bit/). \n\nFeatures:\n\n- Also supports Kaffie ID.\n- Responsive card based layout.\n- Minimal design.\n- Under 200 lines of code.\n- Licensed under 0BSD.\n\nIts source code is hosted at ZeroNet, [browsable and cloneable](/0git.0git.bit).\n\nP.S. editing posts is not implemented yet.\n\n",
 			"date_added": 1482056747
+		},
+		{
+			"post_id": 1482152140,
+			"body": "Problems of StorJ:\n\n- Semi-central: storage is distributed, but the abstract object layer and payment is central.\n- For every dollar a renter paid to StorJ, the host finally get 60 cents, StorJ keeps 40 cents.",
+			"date_added": 1482152061
 		}
 	],
 	"post_like": {
@@ -433,7 +438,8 @@
 		"1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1480687343": 1480767172,
 		"1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1481291249": 1481371611,
 		"12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1481904553": 1481907795,
-		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1482038462": 1482069538
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1482038462": 1482069538,
+		"1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1482089321": 1482151768
 	},
 	"comment": [
 		{
@@ -849,6 +855,18 @@
 			"body": "@Loligod: Or maybe DNS specs can evolve? In old days we cannot use unicode characters in domain name.",
 			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1481874072",
 			"date_added": 1482147323
+		},
+		{
+			"comment_id": 70,
+			"body": "@一二三木头人: 比特币并不为匿名优化。现在有一堆基于CryptoNote技术的匿名币。",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1482073137",
+			"date_added": 1482151493
+		},
+		{
+			"comment_id": 71,
+			"body": "@Lmath: 可以装轻钱包，验证交给服务器，牺牲部分分布性、安全性。",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1482076511",
+			"date_added": 1482151580
 		}
 	],
 	"follow": [
@@ -2363,6 +2381,13 @@
 			"auth_address": "1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9",
 			"user_name": "Shellbound",
 			"date_added": 1482145792
+		},
+		{
+			"follow_id": 226,
+			"hub": "1KNmG5rJUGhgUJGFbLkv2B5isaqu9PrZqi",
+			"auth_address": "1CwbqLCD6TdkinNNNb4GneZxbsoJ6Mw6oE",
+			"user_name": "12hlearn",
+			"date_added": 1482149427
 		}
 	]
 }
