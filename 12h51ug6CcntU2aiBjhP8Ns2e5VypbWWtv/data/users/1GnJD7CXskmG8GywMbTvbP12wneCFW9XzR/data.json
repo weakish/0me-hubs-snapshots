@@ -1,7 +1,7 @@
 {
 	"next_post_id": 79,
-	"next_comment_id": 69,
-	"next_follow_id": 224,
+	"next_comment_id": 70,
+	"next_follow_id": 226,
 	"avatar": "png",
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -843,6 +843,12 @@
 			"body": "@Nulc: He stopped using ZeroNet.",
 			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1482038462",
 			"date_added": 1482069395
+		},
+		{
+			"comment_id": 69,
+			"body": "@Loligod: Or maybe DNS specs can evolve? In old days we cannot use unicode characters in domain name.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1481874072",
+			"date_added": 1482147323
 		}
 	],
 	"follow": [
@@ -2343,6 +2349,20 @@
 			"auth_address": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka",
 			"user_name": "Kh A",
 			"date_added": 1482069353
+		},
+		{
+			"follow_id": 224,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h",
+			"user_name": "Binchan",
+			"date_added": 1482145765
+		},
+		{
+			"follow_id": 225,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9",
+			"user_name": "Shellbound",
+			"date_added": 1482145792
 		}
 	]
 }
