@@ -1,11 +1,11 @@
 {
-	"next_post_id": 143,
+	"next_post_id": 144,
 	"next_comment_id": 447,
 	"next_follow_id": 72,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"intro": "天朝伪娘兼伪娘控一只\n[自己汉化并搭建的图站](http://127.0.0.1:43110/nekox.bit)",
+	"intro": "天朝伪娘兼伪娘控一只\n项目：\nNullChan汉化 Demo:[女装子福利](http://127.0.0.1:43110/nekox.bit)\nZeroTalk贴图 Demo:[Flash小游戏怀旧](127.0.0.1:43110/1KNMtbcaDhKXaU96MeU57BawDD9KX9xqkn) ",
 	"post": [
 		{
 			"post_id": 1477321847,
@@ -655,6 +655,12 @@
 			"post_id": 1481979464,
 			"body": "接下来让网站自动给用户的content.json添加`optional`字段，目测网站会挂掉很多次，还是换到PC上的试验平台搞好了在复制到服务器上吧",
 			"date_added": 1481979322
+		},
+		{
+			"post_id": 1482125837,
+			"body": "ZeroTalk with optional images\n[Demo](127.0.0.1:43110/1KNMtbcaDhKXaU96MeU57BawDD9KX9xqkn) Caution:contains link to flash files(swf)\n[Github](https://github.com/saber28/ZeroTalk-Optional-Images)",
+			"date_added": 1482125694,
+			"meta": "{\"img\":\"900,546,c98dccccccba999332232dcdcbbbbb866222a77333aaa443,01232345661728394566772330A56B771880CD66777111E555771122455F\"}"
 		}
 	],
 	"post_like": {
