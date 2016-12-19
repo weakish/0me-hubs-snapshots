@@ -1,6 +1,6 @@
 {
-	"next_post_id": 33,
-	"next_comment_id": 154,
+	"next_post_id": 34,
+	"next_comment_id": 156,
 	"next_follow_id": 10,
 	"avatar": "jpg",
 	"user_name": "12hstudy <--假装是彩色",
@@ -8,35 +8,14 @@
 	"intro": "新 ZeroNet 用户",
 	"post": [
 		{
-			"post_id": 1,
-			"date_added": 1481790626,
-			"body": "你好 ZeroMe!"
-		},
-		{
-			"post_id": 1481790661,
-			"body": "希望这一次不要出问题。。",
-			"date_added": 1481790659
-		},
-		{
 			"post_id": 1481790905,
 			"body": "哈哈~没出问题了^_^，你好，zeronet",
 			"date_added": 1481790902
 		},
 		{
-			"post_id": 1481791179,
-			"body": "虽然好了。。但是。。为啥连续三个号都是紫色ID？难道证明了我是史诗外科医生？",
-			"date_added": 1481791175
-		},
-		{
 			"post_id": 1481793370,
 			"body": "总算找出来ID颜色的算法了，All.js2245-2349：\n```\n    Text.prototype.toColor = function(text, saturation, lightness) {\n      var hash, i, _i, _ref;\n      if (saturation == null) {\n        saturation = 30;\n      }\n      if (lightness == null) {\n        lightness = 50;\n      }\n      hash = 0;\n      for (i = _i = 0, _ref = text.length - 1; 0 <= _ref ? _i <= _ref : _i >= _ref; i = 0 <= _ref ? ++_i : --_i) {\n        hash += text.charCodeAt(i) * i;\n        hash = hash % 1777;\n      }\n      return \"hsl(\" + (hash % 360) + (\",\" + saturation + \"%,\" + lightness + \"%)\");\n    }\n```",
 			"date_added": 1481793365
-		},
-		{
-			"post_id": 1481808651,
-			"body": "继ZeroTalk之后，ZeroMail也到了要提限额的阶段",
-			"date_added": 1481808645,
-			"meta": "{\"img\":\"900,646,cbbcccccddddddebccbbb856b9affffedeee44688a336eec,01223425667899A999ABCD9999BB9BED999BB99BED9999FF9BED9999999BCD9999999B\"}"
 		},
 		{
 			"post_id": 1481809853,
@@ -164,6 +143,11 @@
 			"post_id": 1482107069,
 			"body": "早安，ZeroMe",
 			"date_added": 1482107037
+		},
+		{
+			"post_id": 1482112765,
+			"body": "hub空间又满了。。这咋办？。三天就要换一个ZeroID？",
+			"date_added": 1482112732
 		}
 	],
 	"post_like": {
@@ -211,12 +195,6 @@
 			"date_added": 1481793068
 		},
 		{
-			"comment_id": 7,
-			"body": "@Apuar: 很重要，好不好看是一个大问题",
-			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481791179",
-			"date_added": 1481793093
-		},
-		{
 			"comment_id": 8,
 			"body": "将自己的比特币地址丢进去就能算出来，如我的地址是15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL，结果便是hsl(307,30%,50%)~~果然这么随机的东西我都能污染~~(逃",
 			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481793370",
@@ -241,40 +219,10 @@
 			"date_added": 1481810361
 		},
 		{
-			"comment_id": 12,
-			"body": "@Lmath: +1",
-			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481812500",
-			"date_added": 1481813467
-		},
-		{
-			"comment_id": 13,
-			"body": "@Lmath: https://github.com/Tribler/dispersy",
-			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481812500",
-			"date_added": 1481813474
-		},
-		{
-			"comment_id": 14,
-			"body": "这个项目你看如何？",
-			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481812500",
-			"date_added": 1481813485
-		},
-		{
 			"comment_id": 15,
 			"body": "可以在手机上再跑个php服务器什么的，用kodexplorer管理",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
 			"date_added": 1481848083
-		},
-		{
-			"comment_id": 16,
-			"body": "@猫叉酱: +1，但是如何做好分布以及亢余是个问题，毕竟要在一些节点无法连接时依然能返回完整的搜索结果，而不是一个节点下线整个网络崩溃",
-			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481812500",
-			"date_added": 1481848189
-		},
-		{
-			"comment_id": 17,
-			"body": "@P2pwave: 所以要个分布式的P2P数据库",
-			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481812500",
-			"date_added": 1481848237
 		},
 		{
 			"comment_id": 18,
@@ -293,12 +241,6 @@
 			"body": "@猫叉酱: 2333, 不过这个软件的作者很傲娇，对于一些功能需求硬是不愿意做=_=...",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
 			"date_added": 1481856270
-		},
-		{
-			"comment_id": 21,
-			"body": "@猫叉酱: 那个已经是一种完善型的了。。我说的是一般的分布式数据库那样的结构，若其中那个存储index的下线了。。嘿嘿。。全部垮掉",
-			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481812500",
-			"date_added": 1481856433
 		},
 		{
 			"comment_id": 22,
@@ -467,12 +409,6 @@
 			"body": "@P2P: 刚刚在做项目，还没做完呢",
 			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
 			"date_added": 1481877407
-		},
-		{
-			"comment_id": 50,
-			"body": "@Lmath: +1",
-			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481812500",
-			"date_added": 1481877517
 		},
 		{
 			"comment_id": 51,
@@ -1073,6 +1009,18 @@
 			"body": "@Lmath: 谁大早上的来。。说明这里空闲的人很少",
 			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482075573",
 			"date_added": 1482076625
+		},
+		{
+			"comment_id": 154,
+			"body": "@莱文倩: webtorrent做种时间等于浏览器打开时间，不但增加浏览器开销还影响网速，得不偿失",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481963469",
+			"date_added": 1482110619
+		},
+		{
+			"comment_id": 155,
+			"body": "@莱文倩: 把历史数据打包丢到option file里去。。另外。。我去，空间又满了",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482107069",
+			"date_added": 1482112508
 		}
 	],
 	"follow": [

@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 19,
+	"next_comment_id": 21,
 	"user_name": "12hstudy <--假装是蓝色",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {
@@ -113,6 +113,18 @@
 			"body": "@Lmath: 这个问题以前我在别的号不是发过代码了吗？查询数据库时间超过之后都会直接返回",
 			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1482073007",
 			"date_added": 1482106906
+		},
+		{
+			"comment_id": 19,
+			"body": "@Lmath: 除非你的单核性能好到爆炸，否则都是3GHZ左右",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1482073007",
+			"date_added": 1482110415
+		},
+		{
+			"comment_id": 20,
+			"body": "@Lmath: all.js 1077-1091\n```\n        var doRender = function () {\n            scheduled = undefined;\n            if (!renderCompleted) {\n                return;    // The last render threw an error, it should be logged in the browser console.\n            }\n            var s = Date.now()\n            renderCompleted = false;\n            for (var i = 0; i < projections.length; i++) {\n                var updatedVnode = renderFunctions[i]();\n                projections[i].update(updatedVnode);\n            }\n            if (Date.now()-s > 15)\n                console.log(\"Render time:\", Date.now()-s, \"ms\")\n            renderCompleted = true;\n        };\n```\n超过15ms直接返回，2333",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1482073007",
+			"date_added": 1482110513
 		}
 	]
 }
