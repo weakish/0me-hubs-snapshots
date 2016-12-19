@@ -1,11 +1,11 @@
 {
 	"next_post_id": 144,
-	"next_comment_id": 447,
+	"next_comment_id": 452,
 	"next_follow_id": 72,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"intro": "天朝伪娘兼伪娘控一只\n项目：\nNullChan汉化 Demo:[女装子福利](http://127.0.0.1:43110/nekox.bit)\nZeroTalk贴图 Demo:[Flash小游戏怀旧](127.0.0.1:43110/1KNMtbcaDhKXaU96MeU57BawDD9KX9xqkn) ",
+	"intro": "天朝伪娘兼伪娘控一只\n项目：\nNullChan汉化 Demo:[女装子福利](http://127.0.0.1:43110/nekox.bit)\nZeroTalk贴图 Demo:[Flash小游戏怀旧](http://127.0.0.1:43110/1KNMtbcaDhKXaU96MeU57BawDD9KX9xqkn) ",
 	"post": [
 		{
 			"post_id": 1477321847,
@@ -658,7 +658,7 @@
 		},
 		{
 			"post_id": 1482125837,
-			"body": "ZeroTalk with optional images\n[Demo](127.0.0.1:43110/1KNMtbcaDhKXaU96MeU57BawDD9KX9xqkn) Caution:contains link to flash files(swf)\n[Github](https://github.com/saber28/ZeroTalk-Optional-Images)",
+			"body": "ZeroTalk with optional images\n[Demo](http://127.0.0.1:43110/1KNMtbcaDhKXaU96MeU57BawDD9KX9xqkn) Caution:contains link to flash files(swf)\n[Github](https://github.com/saber28/ZeroTalk-Optional-Images)",
 			"date_added": 1482125694,
 			"meta": "{\"img\":\"900,546,c98dccccccba999332232dcdcbbbbb866222a77333aaa443,01232345661728394566772330A56B771880CD66777111E555771122455F\"}"
 		}
@@ -3274,6 +3274,36 @@
 			"body": "@12hstudy <--假装是彩色: 那迅雷的硬盘得多大",
 			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481963469",
 			"date_added": 1482073142
+		},
+		{
+			"comment_id": 447,
+			"body": "@12hlearn: 已修复",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482125837",
+			"date_added": 1482133547
+		},
+		{
+			"comment_id": 448,
+			"body": "@Rainlime: 就如zeronet一样，namecoin也是有公网代理的。bit.no.com也是一个namecoin代理",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1482134518
+		},
+		{
+			"comment_id": 449,
+			"body": "@Lmath: 还没做呢。你需要先发个帖创建你自己的文件夹，然后照着我文件夹(FHN4ouk开头的那个)里面的content.json添加optional字段，然后把要上传的附件拷进去，再发帖",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482125837",
+			"date_added": 1482134684
+		},
+		{
+			"comment_id": 450,
+			"body": "@12hlearn: 主要是自动为新用户添加optional字段的功能出了点问题(我从zerome抄来的代码不能直接用在zerotalk里面)",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482125837",
+			"date_added": 1482134774
+		},
+		{
+			"comment_id": 451,
+			"body": "@12hlearn: 其实你还可以贴外链的",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482125837",
+			"date_added": 1482134837
 		}
 	],
 	"follow": [

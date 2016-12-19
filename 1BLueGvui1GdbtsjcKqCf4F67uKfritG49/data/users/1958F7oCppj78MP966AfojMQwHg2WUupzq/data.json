@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 326,
+	"next_comment_id": 327,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -1958,6 +1958,12 @@
 			"body": "@12hstudy <--假装是蓝色: 不过有一点很奇怪：大家的机器配置各不相同，为什么看起来几乎是在同样的地方刷不出来？",
 			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1482073007",
 			"date_added": 1482109245
+		},
+		{
+			"comment_id": 326,
+			"body": "@12hstudy <--假装是蓝色: 根据测试，应该与超时无关。我把超时改成了 150ms 并禁用缓存重新加载还是这样。",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1482073007",
+			"date_added": 1482135057
 		}
 	],
 	"flags": {

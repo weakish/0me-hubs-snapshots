@@ -1,6 +1,6 @@
 {
 	"next_post_id": 49,
-	"next_comment_id": 84,
+	"next_comment_id": 85,
 	"next_follow_id": 31,
 	"avatar": "jpg",
 	"user_name": "Kaffie",
@@ -738,6 +738,12 @@
 			"body": "@ks: ZeroName doesn't have a bug though. It's working exactly as expected. I [literally have the 0search domain registered on namecoin.](https://namecha.in/name/d/0search) The quoted section is for regular DNSs, which I suppose namecoin tries to emulate. But the bug would be with namecoin, not ZeroNet.",
 			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1481874072",
 			"date_added": 1482131552
+		},
+		{
+			"comment_id": 84,
+			"body": "@ks: So then I don't see the issue. If it works, why limit it?",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1481874072",
+			"date_added": 1482137171
 		}
 	],
 	"follow": [

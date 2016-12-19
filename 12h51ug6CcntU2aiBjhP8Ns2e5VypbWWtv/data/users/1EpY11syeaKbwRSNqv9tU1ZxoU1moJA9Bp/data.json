@@ -1,6 +1,6 @@
 {
 	"next_post_id": 4,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"user_name": "Loligod",
@@ -14,6 +14,13 @@
 		}
 	],
 	"post_like": {},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Kaffie: If Zeronet is not following Namecoin's specification than the fault relies on the Zeronet's integration not namecoin itself. Of course if there isn't any enforcement of the specification right now it won't make any difference, but the question is then 'when are they going to enforce it?' ",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1481874072",
+			"date_added": 1482135828
+		}
+	],
 	"follow": []
 }

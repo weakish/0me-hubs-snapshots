@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 40,
+	"next_comment_id": 42,
 	"user_name": "ks",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {
@@ -266,6 +266,18 @@
 			"body": "@Kaffie: I'm aware of that. I've been discussion with myself for a long time whether I should submit a pull-request for ZeroName so that domain names are checked for validity.",
 			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1481874072",
 			"date_added": 1482130591
+		},
+		{
+			"comment_id": 40,
+			"body": "@Kaffie: I beg to differ.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1481874072",
+			"date_added": 1482135085
+		},
+		{
+			"comment_id": 41,
+			"body": "@Loligod: The Namecoin database is free-form: You can enter any string. d/something is used for domains, id/something is used for identities, and so on, but if you want, you can enter xyz/something and use it for you own purpose. That's fine and how it should be. Now, the d/ namespace has a certain specification (mentioned in a comment further down) on a “please use this format” basis, but namecoin ain't gonna check that people are doing it right. And that's fine and how it should be.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1481874072",
+			"date_added": 1482136686
 		}
 	]
 }
