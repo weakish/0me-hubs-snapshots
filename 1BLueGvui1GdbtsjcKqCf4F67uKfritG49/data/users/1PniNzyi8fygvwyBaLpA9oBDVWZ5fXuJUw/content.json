@@ -9,28 +9,14 @@
    "size": 1700
   },
   "data.json": {
-   "sha512": "f24dd070a678041e3b3b4a869d4ba51e1f98f0ccf51c059956460d12d24d75b9",
-   "size": 29691
-  }
- },
- "files_optional": {
-  "1482029846.jpg": {
-   "sha512": "0900fa8d372d2145ac17bf0e603f2af2f093d795f7f7185be83fabd2d181bc94",
-   "size": 85336
-  },
-  "1482029913.jpg": {
-   "sha512": "aab851adb06780ef21e57e7796721ee16fca4d4a8ffa4f473e780f57a132910f",
-   "size": 136727
-  },
-  "1482038517.jpg": {
-   "sha512": "af2d2361a9753030cf9bc670afcf35c092d5c4685642df1b470a0fac1615791d",
-   "size": 47698
+   "sha512": "b3b361bf4b4d0f4f4a4f5a71053923a295b864d7d166fd3ff6ff06e805d0dc25",
+   "size": 29883
   }
  },
  "inner_path": "data/users/1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw/content.json",
- "modified": 1482083702.247386,
+ "modified": 1482155794.718387,
  "optional": "(?!avatar).*jpg",
  "signs": {
-  "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw": "G6gNklr1sIzU7T68hCmalwLc2mkfzIGyZZCcgRRAr93XvWix+WZvCYhGc3qbDmugtbjO8qo5dQWFluvehIIWaDc="
+  "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw": "G/6tCLbtyGjOvM1P1VF74mIzochx9reSzmXc28WKKEm+KYClmKZwv10vwtQJzl0Q/92nUO4h7hmPx/gXYJOCHyU="
  }
 }
