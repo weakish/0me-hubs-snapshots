@@ -1,6 +1,6 @@
 {
 	"next_post_id": 49,
-	"next_comment_id": 82,
+	"next_comment_id": 84,
 	"next_follow_id": 31,
 	"avatar": "jpg",
 	"user_name": "Kaffie",
@@ -726,6 +726,18 @@
 			"body": "@ks: Well if that's the specification, it isn't enforced. 0search.bit points to Kaffiene just fine.",
 			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1481874072",
 			"date_added": 1482105658
+		},
+		{
+			"comment_id": 82,
+			"body": "@Elspru: I want to avoid spam and duplicate submissions. 0list has both of those problems. I know ZeroSearch had a thing where you could submit it for review, but that still clogs up site space. I've been striving to keep Kaffiene as small as possible so that it can quickly load. I'm not sure what the proper solution is yet. But pulling from the new site seed list and 0list are definitely on the agenda. I already have a script that fetches new sites from the seed list.\n\nI also feel like the current search method (just looking at tags) isn't really all that great. It's excellent when there's only a few sites, and they're easily categorizeable. But when searching for particular information or quotes it doesn't work that great. But perhaps it's the best solution we have, since we very well can't just store every page like google does.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1482102099",
+			"date_added": 1482131208
+		},
+		{
+			"comment_id": 83,
+			"body": "@ks: ZeroName doesn't have a bug though. It's working exactly as expected. I [literally have the 0search domain registered on namecoin.](https://namecha.in/name/d/0search) The quoted section is for regular DNSs, which I suppose namecoin tries to emulate. But the bug would be with namecoin, not ZeroNet.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1481874072",
+			"date_added": 1482131552
 		}
 	],
 	"follow": [
