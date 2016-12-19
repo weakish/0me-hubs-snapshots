@@ -1,11 +1,11 @@
 {
-	"next_post_id": 122,
-	"next_comment_id": 90,
+	"next_post_id": 124,
+	"next_comment_id": 93,
 	"next_follow_id": 28,
 	"avatar": "jpg",
 	"user_name": "Alex",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"intro": "##[Bwoi](http://127.0.0.1:43110/bwoi.bit)##\n----\n- Gamedev (C#/C++) \n- Webdev\n- 15 y/o from britlands\n- Stalk me:\n    @fourkbytes on Twitter\n    @LetsRaceBwoi on GitHub\n    @Bwoi on BwoiMusic\n    @SovietWomble on Instagram\n- Wrench?\n---",
+	"intro": "##[Bwoi](http://127.0.0.1:43110/bwoi.bit)##\n----\n- Gamedev (C#/C++) \n- Webdev\n- 15 y/o from britlands\n- Stalk me:\n    @fourkbytes on Twitter\n    @LetsRaceBwoi on GitHub\n    @Bwoi on BwoiMusic\n    @SovietWomble on Instagram\n- Wrench?\n- I play too much Watch Dogs 2\n---",
 	"post": [
 		{
 			"post_id": 2,
@@ -523,6 +523,16 @@
 			"post_id": 1482180332,
 			"body": "(Insert overreaction where I claim I will leave ZeroNet because of reasons here)",
 			"date_added": 1482180211
+		},
+		{
+			"post_id": 1482181550,
+			"body": "Well, I'm off to redesign Bwoi from scratch to see if I can make it a little bit different, a little more spicier and hopefully something that'll generally just catch the eye more.  See you all soon.",
+			"date_added": 1482181428
+		},
+		{
+			"post_id": 1482184324,
+			"body": "Pushed a version of Bwoi with an updated look and feel, general optimisations and an important bugfix which allows you to see how many pages there are available with accuracy.  Hopefully should fix some problems? Don't know whether to completely redesign or see what I can add to Bwoi, but it'll probably be the latter since that's easier.",
+			"date_added": 1482184201
 		}
 	],
 	"post_like": {
@@ -1039,6 +1049,24 @@
 			"body": "@Martinv: But that's exactly what I did like a week after using DDG? Results were better, the site felt generally smoother, and everything felt more familiar over at Google, which is what I fear people will say but with Bwoi and Kaffiene in their respective places.",
 			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1482180332",
 			"date_added": 1482181131
+		},
+		{
+			"comment_id": 90,
+			"body": "@Martinv: But if nobody uses the alternatives, then they are just left without purpose.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1482180332",
+			"date_added": 1482181331
+		},
+		{
+			"comment_id": 91,
+			"body": "@Martinv: I'm seeing a huge link to Bwoi in my profile... weird.  Are you seeing me as Alex or Bwoi?",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1482180332",
+			"date_added": 1482181596
+		},
+		{
+			"comment_id": 92,
+			"body": "@Martinv: ZeroMe broke when I started using it on my laptop.  Dunno what happened but it was probably something along the lines of me registering on a different hub by accident and screwing things up.  Basically sometimes I'm Alex, others I'm Bwoi, and it's only actually accurate on my laptop.  Which I'm not on at the moment, so everything's messy...",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1482180332",
+			"date_added": 1482182445
 		}
 	],
 	"follow": [
