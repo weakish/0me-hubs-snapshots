@@ -1,10 +1,11 @@
 {
-	"next_comment_id": 3,
+	"next_comment_id": 4,
 	"user_name": "Nextbit",
 	"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
 	"post_like": {
 		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1481108612": 1481199767,
-		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1481288760": 1481294395
+		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1481288760": 1481294395,
+		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1482152140": 1482153815
 	},
 	"comment": [
 		{
@@ -18,6 +19,12 @@
 			"body": "I'm doing the same, probably because of the same reasons.",
 			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1481288760",
 			"date_added": 1481294454
+		},
+		{
+			"comment_id": 3,
+			"body": "yeah, the system is just not distributed if any of the parts can be a SPOF.",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1482152140",
+			"date_added": 1482153897
 		}
 	]
 }

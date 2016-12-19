@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 8,
+	"next_comment_id": 13,
 	"user_name": "12hlearn",
 	"hub": "1KNmG5rJUGhgUJGFbLkv2B5isaqu9PrZqi",
 	"post_like": {
@@ -47,6 +47,36 @@
 			"body": "@Lmath: 教程远比代码重要",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482124522",
 			"date_added": 1482139150
+		},
+		{
+			"comment_id": 8,
+			"body": "@P2P: 实际上fmp4已经证明失败了，比原生MP4+quickstart性能要差，新版的准备使用h.264压缩以及AAC存储以及将moov box前置来支持快速播放",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482113542",
+			"date_added": 1482154843
+		},
+		{
+			"comment_id": 9,
+			"body": "@P2P: fmp4实际上更适合直播，若是在点播环境中使用必须得确定好box大小才行，而那需要大量的适配和试验，否则都会造成性能耗损。。相反MP4 with quiscstart在一定的性能耗损下配合ipfs的流式点播设计支持效果其实要比fmp4还要好。。我走弯路了/笑cry",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482113542",
+			"date_added": 1482154984
+		},
+		{
+			"comment_id": 10,
+			"body": "@P2P: 两天你干嘛不来，2333",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482113542",
+			"date_added": 1482155259
+		},
+		{
+			"comment_id": 11,
+			"body": "@Ddjj: 。。。。ipfs没装从公共代理获取，装了从本地获取则按你自己设置的缓存大小占用磁盘空间",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482113542",
+			"date_added": 1482155348
+		},
+		{
+			"comment_id": 12,
+			"body": "@P2P: 现在ipfs已经支持socks代理上tor",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482113542",
+			"date_added": 1482155371
 		}
 	]
 }
