@@ -5,13 +5,20 @@
  "cert_user_id": "ddjj@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "159bcd23a98c64e1e20db707ff81f083a7d2809f5af3a1659e396a6fe5b7a9c1",
-   "size": 14792
+   "sha512": "0c559407f11c983479e3b1e262c2beec2823e0e235208219b2509b84ed5a16d8",
+   "size": 17376
+  }
+ },
+ "files_optional": {
+  "1482215867.jpg": {
+   "sha512": "6b73aac45b46c10c532c2aab8973ee341153ec3bbc95fcbb35bd6d9dbc505c54",
+   "size": 64911
   }
  },
  "inner_path": "data/users/1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y/content.json",
- "modified": 1482164005.023,
+ "modified": 1482216262.289,
+ "optional": "(?!avatar).*jpg",
  "signs": {
-  "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y": "HH++dPnE3+fm9Jh65a/vROG5sHCMevjimSG4F5ZZoZuhmR2RP8PGvqMjVwEWkdkqJ0VIskXQWoQVXVmas7APedM="
+  "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y": "G9U0XIvrJ5g1gYBuonGpP5m38l7rRAnxbeZbm7bfJzja7idHZwyEROZNLC0BrQNBYCIQPAYQxxrhbl0tMt53kdQ="
  }
 }
