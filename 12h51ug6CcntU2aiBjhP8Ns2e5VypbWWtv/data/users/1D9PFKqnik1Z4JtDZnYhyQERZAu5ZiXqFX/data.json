@@ -1,6 +1,6 @@
 {
 	"next_post_id": 6,
-	"next_comment_id": 28,
+	"next_comment_id": 30,
 	"avatar": "generate",
 	"user_name": "frog",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -195,6 +195,18 @@
 			"body": "@一二三木头人: start.py就是帮你打开浏览器，没什么用",
 			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482234293",
 			"date_added": 1482240229
+		},
+		{
+			"comment_id": 28,
+			"body": "~~~ s.close()这行应该在os.system上面，另外我很奇怪为何这样也可以正常运行~~~\n其实无所谓，因为没有listen",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482242208",
+			"date_added": 1482242793
+		},
+		{
+			"comment_id": 29,
+			"body": "@一二三木头人: 然而，http://127.0.0.1:43110/Stats",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482242208",
+			"date_added": 1482243250
 		}
 	]
 }

@@ -1,6 +1,6 @@
 {
 	"next_post_id": 13,
-	"next_comment_id": 65,
+	"next_comment_id": 69,
 	"next_follow_id": 42,
 	"avatar": "generate",
 	"user_name": "一二三木头人",
@@ -55,7 +55,7 @@
 		},
 		{
 			"post_id": 1482242208,
-			"body": "修改Zerone15441t固定端口！首先新建一个TXT文件，把以下复制粘贴\n import socket\n    import os\n    from random import randint\n\n    try: \n        while 1:\n            port = randint(32768, 61000)\n            s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n            result = s.connect_ex((\"localhost\", port))\n            if result != 0:\n                os.system(\"E:\\p2p网站备份\\Zeronet\\Zeronet-v0.1.1\\Zeronet-v0.1.1\\Python\\python.exe zeronet.py --fileserver-port {}\".format(port))\n                s.close()\n                break\n            s.close()\n    except KeyboardInterrupt:\n        sys.exit()\n\n另存为runzp.py，记得把文本中python.exe修改成本地存放程序文件！\n然后把runzn.py放到ZeroNet这个文件夹外面，然后刚才你发的那个改成：\n然后修改鼠标右键编辑登陆zeronet文档成以下模样，就是复制粘贴就行！\n@echo off\nif \"%1\" == \"\" (\nPython\\python.exe -m zerobundle.run https://github.com/HelloZeroNet/ZeroNet;https://gitlab.com/HelloZeroNet/ZeroNet;https://try.gogs.io/ZeroNet/ZeroNet start.py\n) else (\nif not exist ZeroNet (\nPython\\python.exe -m zerobundle.run https://github.com/HelloZeroNet/ZeroNet;https://gitlab.com/HelloZeroNet/ZeroNet;https://try.gogs.io/ZeroNet/ZeroNet runzn.py %\n) else (\ncd ZeroNet\n..\\Python\\python.exe ..\\runzn.py %\ncd ..\n)\n)\n\n\n保存登陆即可！本地端口不再固定！谢谢大神的帮助\n",
+			"body": "win版修改Zerone15441t固定端口！首先新建一个TXT文件，把以下复制粘贴\n import socket\n    import os\n    from random import randint\n\n    try: \n        while 1:\n            port = randint(32768, 61000)\n            s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n            result = s.connect_ex((\"localhost\", port))\n            if result != 0:\n                os.system(\"E:\\p2p网站备份\\Zeronet\\Zeronet-v0.1.1\\Zeronet-v0.1.1\\Python\\python.exe zeronet.py --fileserver-port {}\".format(port))\n                s.close()\n                break\n            s.close()\n    except KeyboardInterrupt:\n        sys.exit()\n\n另存为runzp.py，记得把文本中python.exe修改成本地存放程序文件！\n然后把runzn.py放到ZeroNet这个文件夹外面，然后刚才你发的那个改成：\n然后修改鼠标右键编辑登陆zeronet文档成以下模样，就是复制粘贴就行！\n@echo off\nif \"%1\" == \"\" (\nPython\\python.exe -m zerobundle.run https://github.com/HelloZeroNet/ZeroNet;https://gitlab.com/HelloZeroNet/ZeroNet;https://try.gogs.io/ZeroNet/ZeroNet start.py\n) else (\nif not exist ZeroNet (\nPython\\python.exe -m zerobundle.run https://github.com/HelloZeroNet/ZeroNet;https://gitlab.com/HelloZeroNet/ZeroNet;https://try.gogs.io/ZeroNet/ZeroNet runzn.py %\n) else (\ncd ZeroNet\n..\\Python\\python.exe ..\\runzn.py %\ncd ..\n)\n)\n\n\n保存登陆即可！本地端口不再固定！谢谢大神的帮助\n",
 			"date_added": 1482242196
 		}
 	],
@@ -446,6 +446,30 @@
 			"body": "收到没",
 			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482234293",
 			"date_added": 1482241000
+		},
+		{
+			"comment_id": 65,
+			"body": "@frog: 关键已经运行！",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482242208",
+			"date_added": 1482242898
+		},
+		{
+			"comment_id": 66,
+			"body": "我已经在这里和中文最大论坛分享，只要端口不固定就行！GFW也只能认为我们在p2p种子传输",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482242208",
+			"date_added": 1482243139
+		},
+		{
+			"comment_id": 67,
+			"body": "@frog: 我本地端口没问题。哎，谁认识作者叫他更新一下版本",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482242208",
+			"date_added": 1482243385
+		},
+		{
+			"comment_id": 68,
+			"body": "@猫叉酱: 里面有",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482242208",
+			"date_added": 1482244119
 		}
 	],
 	"follow": [
