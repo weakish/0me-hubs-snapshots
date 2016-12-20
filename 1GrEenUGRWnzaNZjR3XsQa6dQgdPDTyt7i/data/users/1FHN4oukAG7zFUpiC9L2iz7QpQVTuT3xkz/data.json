@@ -1,11 +1,11 @@
 {
-	"next_post_id": 145,
-	"next_comment_id": 453,
+	"next_post_id": 148,
+	"next_comment_id": 459,
 	"next_follow_id": 72,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"intro": "天朝伪娘兼伪娘控一只\n项目：\nNullChan汉化 Demo:[女装子福利](http://127.0.0.1:43110/nekox.bit)\nZeroTalk贴图 Demo:[Flash小游戏怀旧](http://127.0.0.1:43110/1KNMtbcaDhKXaU96MeU57BawDD9KX9xqkn) ",
+	"intro": "天朝伪娘兼伪娘控一只\n项目：\nNullChan汉化 Demo:[女装子福利](http://127.0.0.1:43110/nekox.bit)\n[ZeroTalk贴图](https://github.com/saber28/ZeroTalk-Optional-Images) Demo:[Flash小游戏怀旧](http://127.0.0.1:43110/1KNMtbcaDhKXaU96MeU57BawDD9KX9xqkn) ",
 	"post": [
 		{
 			"post_id": 1477321847,
@@ -666,6 +666,21 @@
 			"post_id": 1482208224,
 			"body": "很多五六七十年代的知识分子幡然醒悟，投入反共大潮中。然而他们虽然在立场上反共，但思维模式还是离不开以前被洗脑的那一套。其中之一便是分不清党，政府和国家之间的区别，症状表现为逢中必反。例如中国某地出现了好人好事，就千方百计抹黑，强行转进到反共上，引起围观群众233333。这种人往往和满嘴“正能量”的爱国青年同时出现，常常在评论区掀起一场大战。",
 			"date_added": 1482208080
+		},
+		{
+			"post_id": 1482219559,
+			"body": "最近研究了一下matrix，家庭服务器在matrix中占了很重要的地位。zeronet的移动端也可以借鉴matrix。用户在家里搭建私有代理，在外访问家里的代理就行了。",
+			"date_added": 1482219414
+		},
+		{
+			"post_id": 1482224803,
+			"body": "~~忽然意识到，贴图的话最好把外链给过滤掉，只允许127.0.0.1的图片~~\n管他呢，反正需要匿名的人会自己阉割浏览器",
+			"date_added": 1482224657
+		},
+		{
+			"post_id": 1482229930,
+			"body": "给新用户添加上传optional文件权限的功能暂时搞不定了（因为我根本不会coffee script，抄zerome的代码总是搞不好），代码在[这里](https://github.com/saber28/ZeroTalk-Optional-Images/blob/master/js/User.coffee)的第91行。\n如果有人想去[Flash小游戏怀旧](http://127.0.0.1:43110/1KNMtbcaDhKXaU96MeU57BawDD9KX9xqkn) 体验一下上传optional的文件和贴图，步骤如下\n1.随便发个帖（为了创建文件夹和content.json）\n2.打开你的文件夹里面的content.json\n3.添加`\"optional\": \".*\\\\.(png|jpg|gif|txt|swf|bak)\",`（推荐在`signs`上面）\n4.把你的文件复制进文件夹（仅限上面限定的类型）\n5.贴图在帖子里插入`![图片描述](http://127.0.0.1/1KNMtbcaDhKXaU96MeU57BawDD9KX9xqkn/data/users/你的用户地址/文件名)`\n例如`http://127.0.0.1:43110/1KNMtbcaDhKXaU96MeU57BawDD9KX9xqkn/data/users/1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz/002boxhead1.jpg`\n附件链接同理",
+			"date_added": 1482229783
 		}
 	],
 	"post_like": {
@@ -3303,6 +3318,42 @@
 			"body": "我信老子就是神教",
 			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1482161283",
 			"date_added": 1482164055
+		},
+		{
+			"comment_id": 453,
+			"body": "@Ddjj: 用nginx做个反向代理",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482219559",
+			"date_added": 1482223522
+		},
+		{
+			"comment_id": 454,
+			"body": "@12hlearn: 一个去中心化的聊天应用",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482219559",
+			"date_added": 1482223572
+		},
+		{
+			"comment_id": 455,
+			"body": "@12hlearn: 那样自己这边就不能上了",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482219559",
+			"date_added": 1482223904
+		},
+		{
+			"comment_id": 456,
+			"body": "@12hlearn: 如果设置为局域网IP地址，那么本机127.0.0.1就访问不了了",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482219559",
+			"date_added": 1482224339
+		},
+		{
+			"comment_id": 457,
+			"body": "@12hlearn: 下次重启的时候试试看灵不灵",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482219559",
+			"date_added": 1482224507
+		},
+		{
+			"comment_id": 458,
+			"body": "@Lmath: 这个过程放在将127.0.0.1地址转为公共代理前面咯",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482224803",
+			"date_added": 1482226326
 		}
 	],
 	"follow": [
