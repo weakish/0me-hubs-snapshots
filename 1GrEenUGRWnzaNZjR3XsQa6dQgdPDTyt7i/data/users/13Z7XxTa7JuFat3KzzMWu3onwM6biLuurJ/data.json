@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 249,
+	"next_comment_id": 250,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -1567,6 +1567,12 @@
 			"body": "@Lmath: 多重签名的帖子在这（zerohello搜索出来的） http://127.0.0.1:43110/gfwtalk.bit/?Topic:31_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ 虽然我当时提到zeronet的多重签名的实现存在bug，但是理论上的确可以设置另一个私钥来修改站点，终极私钥平时冷存储，必要的时候拿出来可以把另一个私钥的对应公钥地址从根content.json里删了，就相当于吊销之。 @Ysc3839",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
 			"date_added": 1482248461
+		},
+		{
+			"comment_id": 249,
+			"body": "@Lmath: @12hlearn: @猫叉酱: Allows more than one `--ui_restrict` ip address 可以列举多个允许访问的IP。好像支持通配符192.168.0.* 但是不大确定",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482219559",
+			"date_added": 1482253989
 		}
 	],
 	"flags": {},

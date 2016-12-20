@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 43,
+	"next_comment_id": 44,
 	"user_name": "PaintNinja",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -273,6 +273,12 @@
 			"body": "@Alex: To me it sounds difficult on paper and in practice :P",
 			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1480857311",
 			"date_added": 1481015761
+		},
+		{
+			"comment_id": 43,
+			"body": "Feature suggestion: Sentence and word categorisation - currently both Kaffiene and Bwoi search for tags and site names afaik, but it would be cooler if a search engine could have an understanding of what I was looking for without needing to use the exact same wording on file.\n\nFor example, if I ask the question \"where can I share music with others?\" on Kaffiene or Bwoi, I get no results. But with sentence categorisation, the search engine would understand that I'm looking for sites with the tags *music* and *sharing* or something like that, and show NinjaBeats in the search results, along with Bwoi Music and any other service that allows sharing music, ranked by certainty of how suitable each result is to the question.\nHere's something you could use to achieve this: https://github.com/NaturalNode/natural",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1482253243",
+			"date_added": 1482256139
 		}
 	],
 	"flags": {},
