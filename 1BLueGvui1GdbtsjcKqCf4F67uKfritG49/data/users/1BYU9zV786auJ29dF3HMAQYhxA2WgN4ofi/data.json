@@ -1,6 +1,6 @@
 {
-	"next_post_id": 51,
-	"next_comment_id": 84,
+	"next_post_id": 52,
+	"next_comment_id": 85,
 	"next_follow_id": 31,
 	"avatar": "jpg",
 	"user_name": "Eibriel",
@@ -268,6 +268,12 @@
 			"post_id": 1482136273,
 			"body": "Prueba de concepto de Chatbot:\nhttp://127.0.0.1:43110/1AeCt2VSk9NR1nGvegkunUpDvHtgsJ5dNj",
 			"date_added": 1482136223
+		},
+		{
+			"post_id": 1482204277,
+			"body": "Algunas mejoras al Chatbot, agregando campos para poder ingresar mas info sobre la conversación: http://127.0.0.1:43110/1AeCt2VSk9NR1nGvegkunUpDvHtgsJ5dNj",
+			"date_added": 1482204226,
+			"meta": "{\"img\":\"900,672,cccdddfffa99bbaeeedde,0122222222342222222256652222222222222222222222222255152222225222222222\"}"
 		}
 	],
 	"post_like": {
@@ -812,6 +818,12 @@
 			"body": "@Flyman: That is the way",
 			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1482058334",
 			"date_added": 1482076799
+		},
+		{
+			"comment_id": 84,
+			"body": "Si lo prueban háganme saber en los mensajes si les funciona!",
+			"post_uri": "1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1482204277",
+			"date_added": 1482205669
 		}
 	],
 	"follow": [
