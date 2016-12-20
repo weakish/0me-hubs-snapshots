@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 247,
+	"next_comment_id": 249,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -76,7 +76,8 @@
 		"15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482066082": 1482152692,
 		"15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482113542": 1482152824,
 		"15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482113742": 1482152873,
-		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482125837": 1482153285
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482125837": 1482153285,
+		"1JVxDWmnkRf72L1z5EfJofptZYodRw7R2h_1482240893": 1482246955
 	},
 	"comment": [
 		{
@@ -1554,6 +1555,18 @@
 			"body": "@12hstudy <--假装是彩色: `评论又刷不出来了。但是我发现在个人资料页直接刷可以刷出来，在帖子页就刷不出了。` 这个问题 @12hlearn",
 			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
 			"date_added": 1482166384
+		},
+		{
+			"comment_id": 247,
+			"body": "@12hlearn: 有点进步了，但是还是希望IPFS尽快支持.onion地址通信，像zeronet一样",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482113542",
+			"date_added": 1482221159
+		},
+		{
+			"comment_id": 248,
+			"body": "@Lmath: 多重签名的帖子在这（zerohello搜索出来的） http://127.0.0.1:43110/gfwtalk.bit/?Topic:31_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ 虽然我当时提到zeronet的多重签名的实现存在bug，但是理论上的确可以设置另一个私钥来修改站点，终极私钥平时冷存储，必要的时候拿出来可以把另一个私钥的对应公钥地址从根content.json里删了，就相当于吊销之。 @Ysc3839",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1482248461
 		}
 	],
 	"flags": {},

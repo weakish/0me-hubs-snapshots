@@ -1,6 +1,6 @@
 {
 	"next_post_id": 149,
-	"next_comment_id": 462,
+	"next_comment_id": 464,
 	"next_follow_id": 73,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
@@ -3378,6 +3378,18 @@
 			"body": "一个flac将近40M，在zeronet支持分块传输之前还是用BTSync好了",
 			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1482237332",
 			"date_added": 1482238296
+		},
+		{
+			"comment_id": 462,
+			"body": "@Lmath: 监听地址的意思是看到收货地址是该地址的数据包，程序就给捞起来处理。填该设备在局域网的地址就行。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482219559",
+			"date_added": 1482247370
+		},
+		{
+			"comment_id": 463,
+			"body": "@12hlearn: 如果监听了局域网ip，那对127.0.0.1就没反应了。似乎不能同时监听两个地址",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482219559",
+			"date_added": 1482247513
 		}
 	],
 	"follow": [
