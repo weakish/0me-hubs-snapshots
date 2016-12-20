@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 95,
+	"next_comment_id": 98,
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -610,6 +610,24 @@
 			"body": "Qubes OS dom0 用的是半年一更的Fedora，搞不懂为啥他们不用长支持周期的debian给自己减轻负担？音频后端用的是PulseAudio，感觉不太靠谱的样子。",
 			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482067467",
 			"date_added": 1482151251
+		},
+		{
+			"comment_id": 95,
+			"body": "Both Bwoi and Kaffiene do not work on my machine. Bwoi:\"XMLHttpRequest cannot load http://127.0.0.1:43110/bwoi.bit/data.json. No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'null' is therefore not allowed access.\" Kaffiene:\"Uncaught TypeError: Cannot read property 'length' of undefined\".",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1482180332",
+			"date_added": 1482231700
+		},
+		{
+			"comment_id": 96,
+			"body": "折衷一下可以图片默认不显示，外链的点显示警告下，多点一次。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482224803",
+			"date_added": 1482232246
+		},
+		{
+			"comment_id": 97,
+			"body": "npm装个`coffee-script`，把相关coffee代码编译成javascript（coffee编译的javascript还是比较可读的）。或者WebStorm里打开coffee文件，右键选择「Preview Compiled CoffeeScript File」，可以显示coffee和js的左右对比（这是通过WebStorm静态分析转换的，不依赖coffee编译器）。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482229930",
+			"date_added": 1482232881
 		}
 	]
 }

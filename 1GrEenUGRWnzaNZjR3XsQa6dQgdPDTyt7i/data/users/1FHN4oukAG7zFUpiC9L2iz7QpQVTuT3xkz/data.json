@@ -1,7 +1,7 @@
 {
 	"next_post_id": 148,
-	"next_comment_id": 459,
-	"next_follow_id": 72,
+	"next_comment_id": 460,
+	"next_follow_id": 73,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -679,7 +679,7 @@
 		},
 		{
 			"post_id": 1482229930,
-			"body": "给新用户添加上传optional文件权限的功能暂时搞不定了（因为我根本不会coffee script，抄zerome的代码总是搞不好），代码在[这里](https://github.com/saber28/ZeroTalk-Optional-Images/blob/master/js/User.coffee)的第91行。\n如果有人想去[Flash小游戏怀旧](http://127.0.0.1:43110/1KNMtbcaDhKXaU96MeU57BawDD9KX9xqkn) 体验一下上传optional的文件和贴图，步骤如下\n1.随便发个帖（为了创建文件夹和content.json）\n2.打开你的文件夹里面的content.json\n3.添加`\"optional\": \".*\\\\.(png|jpg|gif|txt|swf|bak)\",`（推荐在`signs`上面）\n4.把你的文件复制进文件夹（仅限上面限定的类型）\n5.贴图在帖子里插入`![图片描述](http://127.0.0.1/1KNMtbcaDhKXaU96MeU57BawDD9KX9xqkn/data/users/你的用户地址/文件名)`\n例如`http://127.0.0.1:43110/1KNMtbcaDhKXaU96MeU57BawDD9KX9xqkn/data/users/1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz/002boxhead1.jpg`\n附件链接同理",
+			"body": "给新用户添加上传optional文件权限的功能暂时搞不定了（因为我根本不会coffee script，抄zerome的代码总是搞不好），代码在[这里](https://github.com/saber28/ZeroTalk-Optional-Images/blob/master/js/User.coffee)的第91行。\n如果有人想去[Flash小游戏怀旧](http://127.0.0.1:43110/1KNMtbcaDhKXaU96MeU57BawDD9KX9xqkn) 体验一下上传optional的文件和贴图，步骤如下\n1.随便发个帖（为了创建文件夹和content.json）\n2.打开你的文件夹里面的content.json\n3.添加`\"optional\": \".*\\\\.(png|jpg|gif|txt|swf|bak)\",`（推荐在`signs`上面）\n4.把你的文件复制进文件夹（仅限上面限定的类型）\n5.贴图在帖子里插入`![图片描述](http://127.0.0.1/1KNMtbcaDhKXaU96MeU57BawDD9KX9xqkn/data/users/你的用户地址/文件名)`\n例如`![图片描述](http://127.0.0.1:43110/1KNMtbcaDhKXaU96MeU57BawDD9KX9xqkn/data/users/1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz/002boxhead1.jpg)`\n附件链接同理",
 			"date_added": 1482229783
 		}
 	],
@@ -3354,6 +3354,12 @@
 			"body": "@Lmath: 这个过程放在将127.0.0.1地址转为公共代理前面咯",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482224803",
 			"date_added": 1482226326
+		},
+		{
+			"comment_id": 459,
+			"body": "@weakish: \n@Kilva: 哦哦哦谢谢。其实并不完全是不会coffee script，整个zerotalk的代码太多还没来得及读完，debug完全没有头绪",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482229930",
+			"date_added": 1482234577
 		}
 	],
 	"follow": [
@@ -3825,6 +3831,13 @@
 			"auth_address": "1GMNmr2bDPbT4c8yVnyCoDHke52CNCdqAa",
 			"user_name": "Apuar",
 			"date_added": 1481985615
+		},
+		{
+			"follow_id": 72,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1FzZsDQdh8wk71bDLxURPzmAt2FXehoNAB",
+			"user_name": "Nekololi",
+			"date_added": 1482232860
 		}
 	],
 	"settings": {
