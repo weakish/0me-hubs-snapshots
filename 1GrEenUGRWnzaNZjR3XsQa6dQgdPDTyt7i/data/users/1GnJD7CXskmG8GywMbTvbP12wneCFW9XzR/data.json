@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 98,
+	"next_comment_id": 99,
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -628,6 +628,12 @@
 			"body": "npm装个`coffee-script`，把相关coffee代码编译成javascript（coffee编译的javascript还是比较可读的）。或者WebStorm里打开coffee文件，右键选择「Preview Compiled CoffeeScript File」，可以显示coffee和js的左右对比（这是通过WebStorm静态分析转换的，不依赖coffee编译器）。",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482229930",
 			"date_added": 1482232881
+		},
+		{
+			"comment_id": 98,
+			"body": "@猫叉酱: 除了ZeroChat有教程，其他都匮乏文档。。。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482229930",
+			"date_added": 1482236397
 		}
 	]
 }

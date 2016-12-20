@@ -1,5 +1,5 @@
 {
-	"next_post_id": 80,
+	"next_post_id": 81,
 	"next_comment_id": 73,
 	"next_follow_id": 227,
 	"avatar": "png",
@@ -401,6 +401,11 @@
 			"post_id": 1482152140,
 			"body": "Problems of StorJ:\n\n- Semi-central: storage is distributed, but the abstract object layer and payment is central.\n- For every dollar a renter paid to StorJ, the host finally get 60 cents, StorJ keeps 40 cents.",
 			"date_added": 1482152061
+		},
+		{
+			"post_id": 1482236560,
+			"body": "Problems of Sia:\n\n1. It supports proof of storage but not proof of bandwidth.\n2. The Sia developers mined the first 100 blocks of Sia.\n3. 3.9% of all successful storage contract payouts go to Siafund, of which 87.5% is owned by Sia's parent company.",
+			"date_added": 1482236480
 		}
 	],
 	"post_like": {

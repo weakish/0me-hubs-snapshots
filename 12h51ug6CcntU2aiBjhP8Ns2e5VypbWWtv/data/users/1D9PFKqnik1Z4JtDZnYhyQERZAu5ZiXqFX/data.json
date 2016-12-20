@@ -1,6 +1,6 @@
 {
 	"next_post_id": 6,
-	"next_comment_id": 14,
+	"next_comment_id": 21,
 	"avatar": "generate",
 	"user_name": "frog",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -111,6 +111,48 @@
 			"body": "@weakish: \n>Just storing does not make much sense.\n>With proper encoding, I can store image and audio in char *.\nlibraries enable you to do that, or you may roll your own.\n>No. I mean literally byte, or buffer.\n>For example data passed to and by sockets.\nthe c language does not prohibit you from putting '\\0' into buffers.\nit's  just a convention which most c programmers agree upon that to treat \\0 as the end of a string.  you absolutely can make up a string without the trailling zero, but you have to make adjustments on the string when it comes to calling library functions, as most library writters follow that convention.\n>But C's type system does not enforce it.\nc doesn't have to, who knows if  someone might find this \"feature\" useful. I guess that's the way the language was designed, enables you to do more than you could think of, even to shoot yourself in the foot.",
 			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1481203573",
 			"date_added": 1481548400
+		},
+		{
+			"comment_id": 14,
+			"body": "python zeronet.py --fileserver_port $(random_port)，至于random_port，见：https://www.commandlinefu.com/commands/view/7299/find-an-unused-unprivileged-tcp-port",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482234293",
+			"date_added": 1482235517
+		},
+		{
+			"comment_id": 15,
+			"body": "@一二三木头人: 是启动zeronet的时候生成一个随机的没有被占用的端口，通过参数传给zeronet.py",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482234293",
+			"date_added": 1482236194
+		},
+		{
+			"comment_id": 16,
+			"body": "试试这个，\n        #!/bin/bash\n        \n        read lower upper </proc/sys/net/ipv4/ip_local_port_range\n        while :; do\n\t        p=$(($lower + $RANDOM))\n        \t[ $p -gt $upper ] && continue\n\t        nc -z localhost \"$p\" || break\n        done\n        python zeronet.py --fileserver_port \"$p\"\n\n貌似可行，nc是netcat，需要bash来生成随机数",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482234293",
+			"date_added": 1482236868
+		},
+		{
+			"comment_id": 17,
+			"body": "@Lmath: 可以考虑装个cygwin",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482234293",
+			"date_added": 1482237023
+		},
+		{
+			"comment_id": 18,
+			"body": "@Lmath: 的确可以",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482234293",
+			"date_added": 1482237105
+		},
+		{
+			"comment_id": 19,
+			"body": "试试这个，保存成runzn.py，\n\n    import socket\n    import os\n    from random import randint\n        \n    try: \n        while 1:\n            port = randint(32768, 61000)\n            s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n            result = s.connect_ex((\"localhost\", port))\n            if result != 0:\n                s.close()\n                os.system(\"python zeronet.py --fileserver-port {}\".format(port))\n                break\n            s.close()\n    except KeyboardInterrupt:\n        sys.exit()\n",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482234293",
+			"date_added": 1482238135
+		},
+		{
+			"comment_id": 20,
+			"body": "@一二三木头人: 保存完了，试试看能不能连接上，我不知道windows下是如何使用zeronet的，python是否在PATH里？不是的话需要把里面`os.system`那行的python改成正确的路径",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482234293",
+			"date_added": 1482238679
 		}
 	]
 }
