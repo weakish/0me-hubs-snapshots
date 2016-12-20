@@ -1,6 +1,6 @@
 {
-	"next_post_id": 13,
-	"next_comment_id": 69,
+	"next_post_id": 14,
+	"next_comment_id": 76,
 	"next_follow_id": 42,
 	"avatar": "generate",
 	"user_name": "一二三木头人",
@@ -57,6 +57,11 @@
 			"post_id": 1482242208,
 			"body": "win版修改Zerone15441t固定端口！首先新建一个TXT文件，把以下复制粘贴\n import socket\n    import os\n    from random import randint\n\n    try: \n        while 1:\n            port = randint(32768, 61000)\n            s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n            result = s.connect_ex((\"localhost\", port))\n            if result != 0:\n                os.system(\"E:\\p2p网站备份\\Zeronet\\Zeronet-v0.1.1\\Zeronet-v0.1.1\\Python\\python.exe zeronet.py --fileserver-port {}\".format(port))\n                s.close()\n                break\n            s.close()\n    except KeyboardInterrupt:\n        sys.exit()\n\n另存为runzp.py，记得把文本中python.exe修改成本地存放程序文件！\n然后把runzn.py放到ZeroNet这个文件夹外面，然后刚才你发的那个改成：\n然后修改鼠标右键编辑登陆zeronet文档成以下模样，就是复制粘贴就行！\n@echo off\nif \"%1\" == \"\" (\nPython\\python.exe -m zerobundle.run https://github.com/HelloZeroNet/ZeroNet;https://gitlab.com/HelloZeroNet/ZeroNet;https://try.gogs.io/ZeroNet/ZeroNet start.py\n) else (\nif not exist ZeroNet (\nPython\\python.exe -m zerobundle.run https://github.com/HelloZeroNet/ZeroNet;https://gitlab.com/HelloZeroNet/ZeroNet;https://try.gogs.io/ZeroNet/ZeroNet runzn.py %\n) else (\ncd ZeroNet\n..\\Python\\python.exe ..\\runzn.py %\ncd ..\n)\n)\n\n\n保存登陆即可！本地端口不再固定！谢谢大神的帮助\n",
 			"date_added": 1482242196
+		},
+		{
+			"post_id": 1482251180,
+			"body": "下呢！大家晚安。\n",
+			"date_added": 1482251167
 		}
 	],
 	"post_like": {
@@ -470,6 +475,48 @@
 			"body": "@猫叉酱: 里面有",
 			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482242208",
 			"date_added": 1482244119
+		},
+		{
+			"comment_id": 69,
+			"body": "@猫叉酱: 看到上面数字没有，可以自行更改区间端口和固定端口",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482242208",
+			"date_added": 1482249699
+		},
+		{
+			"comment_id": 70,
+			"body": "@猫叉酱: 32768, 61000",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482242208",
+			"date_added": 1482249726
+		},
+		{
+			"comment_id": 71,
+			"body": "@猫叉酱: 现在端口不固定，政府只有直接断网一个方法23333",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482242208",
+			"date_added": 1482250123
+		},
+		{
+			"comment_id": 72,
+			"body": "@猫叉酱: 只要有一个梯子，就可以在墙内开花结果",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482242208",
+			"date_added": 1482250382
+		},
+		{
+			"comment_id": 73,
+			"body": "@Linkerlin: 什么东西",
+			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1482209236",
+			"date_added": 1482250656
+		},
+		{
+			"comment_id": 74,
+			"body": "@猫叉酱: 反正不做亏心事，不怕党敲门！",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482242208",
+			"date_added": 1482250875
+		},
+		{
+			"comment_id": 75,
+			"body": "又要把ip还给联通公司",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482251180",
+			"date_added": 1482251214
 		}
 	],
 	"follow": [
