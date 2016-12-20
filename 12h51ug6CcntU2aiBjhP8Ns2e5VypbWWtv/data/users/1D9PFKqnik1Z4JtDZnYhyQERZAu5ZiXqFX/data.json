@@ -1,6 +1,6 @@
 {
 	"next_post_id": 6,
-	"next_comment_id": 21,
+	"next_comment_id": 28,
 	"avatar": "generate",
 	"user_name": "frog",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -153,6 +153,48 @@
 			"body": "@一二三木头人: 保存完了，试试看能不能连接上，我不知道windows下是如何使用zeronet的，python是否在PATH里？不是的话需要把里面`os.system`那行的python改成正确的路径",
 			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482234293",
 			"date_added": 1482238679
+		},
+		{
+			"comment_id": 21,
+			"body": "@Lmath: 哦，那就应该可以",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482234293",
+			"date_added": 1482238973
+		},
+		{
+			"comment_id": 22,
+			"body": "@一二三木头人: 把这里的zeronet.py替换成runzn.py，把runzn.py里的python改成Python\\python.exe",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482234293",
+			"date_added": 1482239367
+		},
+		{
+			"comment_id": 23,
+			"body": "@一二三木头人: 把runzn.py放到ZeroNet这个文件夹外面，然后刚才你发的那个改成：\n        @echo off\n        if \"%1\" == \"\" (\n        Python\\python.exe -m zerobundle.run https://github.com/HelloZeroNet/ZeroNet;https://gitlab.com/HelloZeroNet/ZeroNet;https://try.gogs.io/ZeroNet/ZeroNet start.py\n        ) else (\n        if not exist ZeroNet (\n        Python\\python.exe -m zerobundle.run https://github.com/HelloZeroNet/ZeroNet;https://gitlab.com/HelloZeroNet/ZeroNet;https://try.gogs.io/ZeroNet/ZeroNet runzn.py %\n        ) else (\n        cd ZeroNet\n        ..\\Python\\python.exe ..\\runzn.py %\n        cd ..\n        )\n        )\n",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482234293",
+			"date_added": 1482239822
+		},
+		{
+			"comment_id": 24,
+			"body": "@一二三木头人: 把runzn.py里的python改成Python\\python.exe",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482234293",
+			"date_added": 1482239934
+		},
+		{
+			"comment_id": 25,
+			"body": "@一二三木头人: 等下，貌似start.py也要改",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482234293",
+			"date_added": 1482240024
+		},
+		{
+			"comment_id": 26,
+			"body": "@一二三木头人:         \n貌似start.py没什么用，你试试这个行不行\n@echo off\n        if not exist ZeroNet (\n        Python\\python.exe -m zerobundle.run https://github.com/HelloZeroNet/ZeroNet;https://gitlab.com/HelloZeroNet/ZeroNet;https://try.gogs.io/ZeroNet/ZeroNet runzn.py %\n        ) else (\n        cd ZeroNet\n        ..\\Python\\python.exe ..\\runzn.py %\n        cd ..\n        )\n        )\n",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482234293",
+			"date_added": 1482240143
+		},
+		{
+			"comment_id": 27,
+			"body": "@一二三木头人: start.py就是帮你打开浏览器，没什么用",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482234293",
+			"date_added": 1482240229
 		}
 	]
 }
