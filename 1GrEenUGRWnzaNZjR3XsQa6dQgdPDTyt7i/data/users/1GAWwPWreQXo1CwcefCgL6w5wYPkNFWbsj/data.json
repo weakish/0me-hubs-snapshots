@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 40,
+	"next_comment_id": 41,
 	"user_name": "西木野真姬",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {
@@ -236,9 +236,15 @@
 		},
 		{
 			"comment_id": 39,
-			"body": "@Lmath: 那我这里开着tor用zeronet能连接到45个节点是怎么回事 难道这些是墙内用户的？",
+			"body": "@Lmath: 那我这里开着tor用zeronet能连接到45个节点是怎么回事 难道这些是墙内用户的？而且我现在还是zeronet流量全走tor的模式",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482282395",
 			"date_added": 1482321516
+		},
+		{
+			"comment_id": 40,
+			"body": "@Lmath: ~~不知道为什么 我用tor浏览器连网桥就是连不上 但是独立版tor就可以连接节点~~ 额 我刚刚用tor浏览器试了下obfs4连接方式 居然连上了只是网速辣眼睛QwQ",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482282395",
+			"date_added": 1482322165
 		}
 	],
 	"flags": {},
