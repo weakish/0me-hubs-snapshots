@@ -1,11 +1,11 @@
 {
-	"next_post_id": 126,
-	"next_comment_id": 101,
+	"next_post_id": 127,
+	"next_comment_id": 103,
 	"next_follow_id": 28,
 	"avatar": "png",
 	"user_name": "Alex",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"intro": "##[Bwoi](http://127.0.0.1:43110/bwoi.bit)##\n----\n- Gamedev (C#/C++) \n- Webdev\n- probably given up\n- 15 y/o from britlands\n- Stalk me:\n    @fourkbytes on Twitter\n    @LetsRaceBwoi on GitHub\n    @Bwoi on BwoiMusic\n    @SovietWomble on Instagram\n- Wrench?\n- I play too much Watch Dogs 2\n---",
+	"intro": "##[Bwoi](http://127.0.0.1:43110/bwoi.bit)##\n----\n- Gamedev (C#/C++) \n- Webdev\n- probably given up\n- 15 y/o from britlands\n- Stalk me:\n    @fourkbytes on Twitter\n    @LetsRaceBwoi on GitHub\n    @Bwoi on BwoiMusic\n    @SovietWomble on Instagram\n- Wrench?\n- I have now finished Watch Dogs 2...\n---",
 	"post": [
 		{
 			"post_id": 2,
@@ -543,6 +543,12 @@
 			"post_id": 1482253243,
 			"body": "So apparently what everyone wants is something along the lines of:\n\n- .bit domain searching, instead of the traditional searching - which can be done, and I could start that right now.\n- Some method of submitting sites without a middle man? How that would work I don't know...\n- A way of ranking content (automatically), so that good zites appear before others, though I think that personally this should not be the case and that all zites should have the chance to appear; not just the popular ones\n- Full-text search\n- New design!\n- Some new layout too; preferably one that is unique to Bwoi and not used anywhere else.  I have a few ideas for this :)\n\nI'm going to be working full-time on Bwoi (unless I'm playing CSGO or Watch Dogs 2, which are the only two ways I feel like relaxing) which means that if you have ideas now is a good time to get them out and to get your name on the credits list I'll be compiling. :)\n",
 			"date_added": 1482253118
+		},
+		{
+			"post_id": 1482355536,
+			"body": "Doing some work on omnibox for the new Bwoi engine, everything's going pretty nicely, now just need to order by Levenshtein distance and display on page.",
+			"date_added": 1482355410,
+			"meta": "{\"img\":\"334,700,eeedddfffccc,01112111021111210102000022222233310101022222200002\"}"
 		}
 	],
 	"post_like": {
@@ -1119,6 +1125,18 @@
 			"body": "@Sirenyc: Alright, check now.  You should see your zite and the keywords + \"trusted\" at the end since I'm sure I can trust your site, and otherwise it'd be flagged up as untrusted.",
 			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1482253243",
 			"date_added": 1482271432
+		},
+		{
+			"comment_id": 101,
+			"body": "@Sirenyc: That might be because of several reasons, I'll sort that out at v4 but I don't think anyone else is experiencing this problem, so try updating.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1482253243",
+			"date_added": 1482344107
+		},
+		{
+			"comment_id": 102,
+			"body": "@PaintNinja: Okay I see the problem now too on kindlyfire's proxy, I'll try fixing it in a moment.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1482253243",
+			"date_added": 1482350879
 		}
 	],
 	"follow": [
