@@ -1,6 +1,6 @@
 {
 	"next_post_id": 52,
-	"next_comment_id": 85,
+	"next_comment_id": 89,
 	"next_follow_id": 31,
 	"avatar": "jpg",
 	"user_name": "Eibriel",
@@ -324,7 +324,8 @@
 		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1481713288": 1481791976,
 		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1482029913": 1482035731,
 		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1482029846": 1482035742,
-		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1482004235": 1482035767
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1482004235": 1482035767,
+		"1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1482253303": 1482289167
 	},
 	"comment": [
 		{
@@ -824,6 +825,30 @@
 			"body": "Si lo prueban háganme saber en los mensajes si les funciona!",
 			"post_uri": "1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1482204277",
 			"date_added": 1482205669
+		},
+		{
+			"comment_id": 85,
+			"body": "@Xeers2: La idea es que responda lo mas rápido posible, pero puede tardar. Voy a ver de hacer algunas mejoras para achicar ese tiempo lo mas posible",
+			"post_uri": "1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1482204277",
+			"date_added": 1482262444
+		},
+		{
+			"comment_id": 86,
+			"body": "@Juansantiago: Que extraño, eso indicaría que hay un error, intenté desde un Proxy y puedo iniciar sesión con Zeroid.\nQuizás debas esperar unos segundos luego de que cargue el sitio para darle tiempo a que haga conexión con la API de ZeroNet",
+			"post_uri": "1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1482204277",
+			"date_added": 1482264825
+		},
+		{
+			"comment_id": 87,
+			"body": "@Juansantiago: Ahí agregué un mensaje de espera mientras inicia la conexión con la AIP",
+			"post_uri": "1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1482204277",
+			"date_added": 1482265031
+		},
+		{
+			"comment_id": 88,
+			"body": "Congratulations!",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1482253303",
+			"date_added": 1482289177
 		}
 	],
 	"follow": [

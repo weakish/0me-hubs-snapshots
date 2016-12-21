@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 637,
+	"next_comment_id": 646,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -46,7 +46,8 @@
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482208224": 1482209190,
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482224803": 1482228861,
 		"1JVxDWmnkRf72L1z5EfJofptZYodRw7R2h_1482240893": 1482246363,
-		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482250266": 1482253374
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482250266": 1482253374,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482291537": 1482292786
 	},
 	"comment": [
 		{
@@ -3834,6 +3835,60 @@
 			"body": "@Ddjj: 不不不！港澳台地区目前并不需要。",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482250266",
 			"date_added": 1482253760
+		},
+		{
+			"comment_id": 637,
+			"body": "@Zerocatty: 下没版权问题的内容应该问题不大（比如 Linux ISO 什么的）。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482250266",
+			"date_added": 1482260809
+		},
+		{
+			"comment_id": 638,
+			"body": "@Zerocatty: 在我看来不算优雅，但是短时间内也找不到另外一个去中心化的域名解决方案。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481978469",
+			"date_added": 1482292733
+		},
+		{
+			"comment_id": 639,
+			"body": "果然还是做不到很好地识别这玩意儿。",
+			"post_uri": "1CogrjsFiTL3nHH74BXnAcM1S3KsNaLtEx_1482307725",
+			"date_added": 1482308214
+		},
+		{
+			"comment_id": 640,
+			"body": "@TCP: 以前我这里 Shadowsocks 确实抽风过几天，然后我用了几天 ShadowsocksR 。",
+			"post_uri": "1CogrjsFiTL3nHH74BXnAcM1S3KsNaLtEx_1482307725",
+			"date_added": 1482308763
+		},
+		{
+			"comment_id": 641,
+			"body": "@莱文倩: 伪装成中石化和银行间的网络感觉纯粹是脑洞大开而实际效果很难保证的东西了。首先只有少数人需要使用中石化和银行间的网络，搞个白名单地址都行；第二这种网络即使不拉专线也都会搞个 VPN 来传吧！",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482282395",
+			"date_added": 1482311863
+		},
+		{
+			"comment_id": 642,
+			"body": "@12hlearn: GFW 应该不会对无特征数据包下手，倒是二级运营商和企业的网关比较喜欢做这种事情，即使不屏蔽掉也给你来个 QoS 。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482282395",
+			"date_added": 1482311974
+		},
+		{
+			"comment_id": 643,
+			"body": "@12hlearn: Tor 流量早就被识别了（我是说能知道在用 Tor ，而不是里面的内容和地址），不然为啥要网桥才能连？目前暂时没什么报告说 obfs4 与 meek 的流量被识别，貌似还是用最传统的找 IP 封掉的手段。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482282395",
+			"date_added": 1482312236
+		},
+		{
+			"comment_id": 644,
+			"body": "@12hlearn: Tor 并不是去中心化设计的，所有公开中继是在一张表上的，所以最初就是直接封掉访问这个中继的表就行。后来由于表有缓存，就开始封公开的中继，然后 Tor 提供网桥（不公开的中继），然后 Tor 就直接由于握手特征太明显被识别。再后来就出现了各种混淆插件，最开始的目标是消除特征和伪装特征，后来墙搞了主动探测以后又搞了防主动探测的东西……\n可以说，已经斗争过好几个回合了。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482282395",
+			"date_added": 1482312503
+		},
+		{
+			"comment_id": 645,
+			"body": "@猫叉酱: 其实也不能说搞定……是直接往上加了个插件。裸 Tor 并没有在这方面动作。",
+			"post_uri": "1CogrjsFiTL3nHH74BXnAcM1S3KsNaLtEx_1482307725",
+			"date_added": 1482321346
 		}
 	],
 	"flags": {},

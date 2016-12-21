@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
 	"next_comment_id": 1,
-	"next_follow_id": 3,
+	"next_follow_id": 4,
 	"avatar": "generate",
 	"user_name": "Voland",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -13,7 +13,9 @@
 			"body": "Hello ZeroMe!"
 		}
 	],
-	"post_like": {},
+	"post_like": {
+		"1NHR4Gdv1dVLZS5HRwY6aJWfngk9jCLF87_1479033972": 1482220773
+	},
 	"comment": [],
 	"follow": [
 		{
@@ -29,6 +31,13 @@
 			"auth_address": "1KRXEX6oD4HH4xwybvxnTBPW4DQm2HPdgj",
 			"user_name": "Splinterk",
 			"date_added": 1477537430
+		},
+		{
+			"follow_id": 3,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1NHR4Gdv1dVLZS5HRwY6aJWfngk9jCLF87",
+			"user_name": "Brom",
+			"date_added": 1482220732
 		}
 	]
 }

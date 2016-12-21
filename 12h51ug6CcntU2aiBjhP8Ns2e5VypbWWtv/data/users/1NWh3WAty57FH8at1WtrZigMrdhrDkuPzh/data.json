@@ -1,6 +1,6 @@
 {
 	"next_post_id": 49,
-	"next_comment_id": 85,
+	"next_comment_id": 86,
 	"next_follow_id": 31,
 	"avatar": "jpg",
 	"user_name": "Kaffie",
@@ -744,6 +744,12 @@
 			"body": "@ks: So then I don't see the issue. If it works, why limit it?",
 			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1481874072",
 			"date_added": 1482137171
+		},
+		{
+			"comment_id": 85,
+			"body": "@Arkre: I'm not sure what you're asking for. It sounds like you're just describing Kaffiene, but with a full-text index (instead of tags), and using a bot to build it. If you were going to do full caching/indexing, you'd want to use actual search algorithms, rather than just a raw text search. The issue with that is filesize. [OneSearch](http://127.0.0.1:43110/17SyG68UgnCATwbmnmf7pvRmQVej8ZnWUe/) has already tried this method.\n\nAs for the bot... Hopefully I can write one soon and have it run for Kaffiene. But we'll see.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1482102099",
+			"date_added": 1482209417
 		}
 	],
 	"follow": [

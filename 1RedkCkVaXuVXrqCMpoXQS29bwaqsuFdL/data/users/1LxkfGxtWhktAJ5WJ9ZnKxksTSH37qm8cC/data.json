@@ -1,5 +1,5 @@
 {
-	"next_post_id": 76,
+	"next_post_id": 79,
 	"next_comment_id": 55,
 	"next_follow_id": 14,
 	"avatar": "generate",
@@ -357,6 +357,21 @@
 			"post_id": 1481876335,
 			"body": "## Are the Shadow Brokers selling NSA tools on ZeroNet?\n\n[A Medium article](https://medium.com/@CleetusBocefus/are-the-shadow-brokers-selling-nsa-tools-on-zeronet-6c335891d62a#.llvtdwigk) by Boceffus Cleetus 2 days ago\n\nhttps://motherboard.vice.com/read/newly-uncovered-site-suggests-nsa-exploits-for-direct-sale\nThe NSA did not respond to a request for comment.\n\nhttps://thehackernews.com/2016/12/nsa-hack-shadow-brokers.html\nEach of the items (NSA hacking tools) on the site is categorized into a type — like \"exploits,\" \"Trojans,\" and \"implant\" — each of which is ranged from 1 to 100 Bitcoins (from $780 to $78,000). ",
 			"date_added": 1481876260
+		},
+		{
+			"post_id": 1482275563,
+			"body": "> Surveillance = Oppression\n> Tor is the heart of Internet freedom\n> **Donate Now >**\n\nLet's change it:\n> Centralization = ~~Oppression~~ Censorship\n> ZeroNet is the heart of Information liberty\n> [**Donate Now >**](https://zeronet.readthedocs.org/en/latest/help_zeronet/donate/)",
+			"date_added": 1482275487
+		},
+		{
+			"post_id": 1482288237,
+			"body": "The Tor Project is working very hard implementing the next generation of Tor Onion Services.\n\nhttps://blog.torproject.org/blog/whats-new-tor-0298\n\n### Shared Randomness\n\nWe've talked about this before but now it is a reality. At midnight UTC every day, directory authorities collectively generate a global random value that cannot be predicted in advance. This daily fresh random value is the foundation of our next generation onion service work coming soon to a Tor near you.\n\nIn the consensus file, they will look like this; if all goes well, at 00:00 UTC, consensus will have a new one:\n\n\n    shared-rand-current-value Hq+hGlzwAVetJ2zkO70riH/SEMNri+c7Ps8xERZ3a0o=\n    shared-rand-previous-value CY5TncVAltDpkBKZUBYT1canvqmVoNuweiKVZIilHfs= \n\n\nThanks to atagar, the Stem Library version 1.5.0 supports parsing the shared random values from the consensus. See here for more information!\n\nVoluntarily, we haven't exposed those values to the control port yet and will wait for a full stable release cycle in order to make sure it's stable enough for a third party application to use them (https://trac.torproject.org/19925).",
+			"date_added": 1482288160
+		},
+		{
+			"post_id": 1482293590,
+			"body": "### reddit is down\n### for emergency maintenance\nI wonder what happened. :- ]",
+			"date_added": 1482293512
 		}
 	],
 	"post_like": {

@@ -1,11 +1,11 @@
 {
 	"next_post_id": 22,
-	"next_comment_id": 33,
-	"next_follow_id": 18,
+	"next_comment_id": 34,
+	"next_follow_id": 21,
 	"avatar": "jpg",
 	"user_name": "jro",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"intro": "Money Network dev.\n\nhttp://127.0.0.1:43110/moneynetwork/\nNot finished but can be used for encrypted chat\n\nPM: http://127.0.0.1:43110/moneynetwork/?path=/chat2/16R2WrLv3rRrx@moneynetwork",
+	"intro": "[Money Network](/moneynetwork.bit)\nComp. and alternative money. Not finished but can be used for chat. Public chat or encrypted chat. \n\nChat: [jro](/moneynetwork.bit?path=/chat2/16R2WrLv3rRrx@moneynetwork)",
 	"post": [
 		{
 			"post_id": 1475426574,
@@ -67,7 +67,8 @@
 		"1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476010594": 1476175470,
 		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1480857311": 1480927577,
 		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481134045": 1481135207,
-		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481220347": 1481270500
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1481220347": 1481270500,
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1482253243": 1482304595
 	},
 	"comment": [
 		{
@@ -237,6 +238,12 @@
 			"body": "Error 503 Service Unavailable\n\nService Unavailable\nGuru Meditation:\n\nXID: 264502236\n\nVarnish cache server",
 			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1481023118",
 			"date_added": 1481966106
+		},
+		{
+			"comment_id": 33,
+			"body": "@Elspru: Good idea with some scripts to load sites into zeronet search engines. I do not like the idea of sending mails to alex or kaffeine to get my site indexed. ",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1482185008",
+			"date_added": 1482225350
 		}
 	],
 	"follow": [
@@ -323,6 +330,20 @@
 			"auth_address": "18KhAfkwavAUrUQk67T4x6Gczq5hL5wE4Z",
 			"user_name": "Generate",
 			"date_added": 1481728281
+		},
+		{
+			"follow_id": 18,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1482224210
+		},
+		{
+			"follow_id": 20,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L",
+			"user_name": "Alex",
+			"date_added": 1482304745
 		}
 	],
 	"settings": {

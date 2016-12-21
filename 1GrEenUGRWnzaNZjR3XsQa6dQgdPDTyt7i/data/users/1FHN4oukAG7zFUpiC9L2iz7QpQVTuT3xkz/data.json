@@ -1,7 +1,7 @@
 {
-	"next_post_id": 150,
-	"next_comment_id": 465,
-	"next_follow_id": 73,
+	"next_post_id": 152,
+	"next_comment_id": 473,
+	"next_follow_id": 74,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -692,6 +692,16 @@
 			"post_id": 1482250266,
 			"body": "http://blog.csdn.net/skyremember/article/details/3265366\n这篇文章分析了迅雷的协议，以后可以给zeronet加个混淆插件，伪装成迅雷的流量",
 			"date_added": 1482250117
+		},
+		{
+			"post_id": 1482282395,
+			"body": "[bt协议规范](http://m.blog.chinaunix.net/uid-14408083-id-2814554.html)\n握手：handshake:\npstrlen: 的字符串长度，单个字节。\npstr: 协议的标识符，字符串类型。\nreserved: 8个保留字节。当前的所有实现都使用全0.这些字节里面的每一个字节都可以用来改变协议的行为。来自Bram的邮件建议应该首先使用后面的位，以便可以使用前面的位来改变后面位的意义。\ninfo_hash: 元信息文件中info键(key)对应值的20字节SHA1哈希。这个info_hash和在tracker请求中info_hash是同一个。\npeer_id: 用于唯一标识客户端的20字节字符串。这个peer_id通常跟在tracker请求中传送的peer_id相同(但也不尽然，例如在Azureus，就有一个匿名选项)。\n在BitTorrent协议1.0版本，pstrlen = 19, pstr = “BitTorrent protocol”。",
+			"date_added": 1482282245
+		},
+		{
+			"post_id": 1482291537,
+			"body": "zeronet的特征明显的原因:\n1.bt的流量套了个tls的壳，在防火墙看来很变扭\n2.tls的证书还是example company，看起来更变扭\n  \n使用zeronet客户端时，防火墙会看到如下场景:\n- 某个用户访问了tracker，看起来像是要bt下载\n- 这个用户没有发送任何bt特征的包，反而访问了10个左右的网站，这些网站不在数据中心，而是分散在各地\n- 这个用户和这些网站互相发送了一大堆tls的包，但流量特征很像bt\n- 这些tls的包的证书居然是example company，这是什么鬼公司？\n  \n因此，一旦zeronet进入xx部门的视野，将很容易被封杀。",
+			"date_added": 1482291386
 		}
 	],
 	"post_like": {
@@ -3401,6 +3411,54 @@
 			"body": "北美五大湖到现在都没恢复，里面的鱼也不能吃。中国的很多湖泊也这样了",
 			"post_uri": "1JVxDWmnkRf72L1z5EfJofptZYodRw7R2h_1482240893",
 			"date_added": 1482249837
+		},
+		{
+			"comment_id": 465,
+			"body": "看起来zeronet把bt的包封进tls里面了，这就解释了为什么公司网封了tracker却封不掉传输。其实只需要把内容加密一下就行了。tls的特征反而比bt强得多。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482282395",
+			"date_added": 1482282331
+		},
+		{
+			"comment_id": 466,
+			"body": "@Lmath: 可以多搞几种混淆方案",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482250266",
+			"date_added": 1482282424
+		},
+		{
+			"comment_id": 467,
+			"body": "@TCP: 也就是说证书上面的地址是example company？那你截个bt下载的图看看",
+			"post_uri": "1CogrjsFiTL3nHH74BXnAcM1S3KsNaLtEx_1482289940",
+			"date_added": 1482290611
+		},
+		{
+			"comment_id": 468,
+			"body": "@12hlearn: ssr能抗时序和长度分析，有一定效果，但最好还是假装自己是迅雷",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482282395",
+			"date_added": 1482291468
+		},
+		{
+			"comment_id": 469,
+			"body": "一般的BT就是这种，使用UDP。这是某种BT软件还是ZeroNet的UDP包？",
+			"post_uri": "1CogrjsFiTL3nHH74BXnAcM1S3KsNaLtEx_1482291037",
+			"date_added": 1482295982
+		},
+		{
+			"comment_id": 470,
+			"body": "@莱文倩: 包的特征是一方面，流量特征也很重要。流量特征包括长度，时序，源，目的地",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482282395",
+			"date_added": 1482297467
+		},
+		{
+			"comment_id": 471,
+			"body": "@Ddjj: 不只有中国有GFW，ZeroNet需要对付的不仅仅是GFW，还有西方国家的版权审查（ZeroNet给数据包套上tls就是为了防这个），监听。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482291537",
+			"date_added": 1482297594
+		},
+		{
+			"comment_id": 472,
+			"body": "@12hlearn: 曾经因为心跳包被识别过，不过后来tor搞定了这个问题",
+			"post_uri": "1CogrjsFiTL3nHH74BXnAcM1S3KsNaLtEx_1482307725",
+			"date_added": 1482318741
 		}
 	],
 	"follow": [
@@ -3879,6 +3937,13 @@
 			"auth_address": "1FzZsDQdh8wk71bDLxURPzmAt2FXehoNAB",
 			"user_name": "Nekololi",
 			"date_added": 1482232860
+		},
+		{
+			"follow_id": 73,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1CogrjsFiTL3nHH74BXnAcM1S3KsNaLtEx",
+			"user_name": "TCP",
+			"date_added": 1482307300
 		}
 	],
 	"settings": {
