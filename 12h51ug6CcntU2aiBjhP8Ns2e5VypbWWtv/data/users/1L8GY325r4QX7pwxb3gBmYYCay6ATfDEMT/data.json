@@ -1,7 +1,7 @@
 {
 	"next_post_id": 2,
 	"next_comment_id": 4,
-	"next_follow_id": 1,
+	"next_follow_id": 2,
 	"avatar": "generate",
 	"settings": {
 		"comment_order": false,
@@ -47,7 +47,15 @@
 			"date_added": 1482324027
 		}
 	],
-	"follow": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1CtXM9gSE1bdV6yXKZGHzSLbCJheBub33k",
+			"user_name": "espectalll",
+			"date_added": 1482334382
+		}
+	],
 	"flags": {},
 	"blocked": [],
 	"comment_like": {}

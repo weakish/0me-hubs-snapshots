@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 62,
+	"next_comment_id": 64,
 	"next_follow_id": 455,
 	"avatar": "generate",
 	"user_name": "Linkerlin",
@@ -91,7 +91,14 @@
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482219559": 1482250400,
 		"15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482113542": 1482251729,
 		"15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482112765": 1482251763,
-		"15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482075573": 1482251921
+		"15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482075573": 1482251921,
+		"1CogrjsFiTL3nHH74BXnAcM1S3KsNaLtEx_1482307725": 1482333618,
+		"1CogrjsFiTL3nHH74BXnAcM1S3KsNaLtEx_1482307700": 1482333647,
+		"1CogrjsFiTL3nHH74BXnAcM1S3KsNaLtEx_1482307519": 1482333709,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482291537": 1482333899,
+		"1CogrjsFiTL3nHH74BXnAcM1S3KsNaLtEx_1482291037": 1482334039,
+		"1CogrjsFiTL3nHH74BXnAcM1S3KsNaLtEx_1482289940": 1482334174,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482250266": 1482334565
 	},
 	"comment": [
 		{
@@ -453,6 +460,18 @@
 			"body": "其实既得利益集团才是最阻碍改革的，美国的犹太财团也是。",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482208224",
 			"date_added": 1482250653
+		},
+		{
+			"comment_id": 62,
+			"body": "可以用混淆技术。不是加密，比如用Base64的变种编码，然后再用gz压缩下传输。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482291537",
+			"date_added": 1482334002
+		},
+		{
+			"comment_id": 63,
+			"body": "有个办法，就是分两个包传输，第一个包传输奇数字节，第二包传输偶数字节。",
+			"post_uri": "1CogrjsFiTL3nHH74BXnAcM1S3KsNaLtEx_1482291037",
+			"date_added": 1482334100
 		}
 	],
 	"follow": [
