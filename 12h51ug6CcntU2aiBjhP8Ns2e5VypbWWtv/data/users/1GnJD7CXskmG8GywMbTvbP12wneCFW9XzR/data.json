@@ -1,7 +1,7 @@
 {
-	"next_post_id": 81,
+	"next_post_id": 82,
 	"next_comment_id": 73,
-	"next_follow_id": 228,
+	"next_follow_id": 229,
 	"avatar": "png",
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -406,6 +406,11 @@
 			"post_id": 1482236560,
 			"body": "Problems of Sia:\n\n1. It supports proof of storage but not proof of bandwidth.\n2. The Sia developers mined the first 100 blocks of Sia.\n3. 3.9% of all successful storage contract payouts go to Siafund, of which 87.5% is owned by Sia's parent company.",
 			"date_added": 1482236480
+		},
+		{
+			"post_id": 1482325419,
+			"body": "[Beaker](https://beakerbrowser.com/) is similar to ZeroNet. Their difference:\n\n- Beaker does not host visited sites.  (You can enable it manually.)\n- Beaker sites support versioning.\n- Beaker API is much simpler than ZeroNet, no select user (id), no optional file, no encryption, etc. So dynamic sites are easier to create via ZeroNet.\n- ZeroNet uses namecoin `.bit`. Beaker uses regular domain names (via `TXT` record. It's experimental, not man-in-the-middle attack proof ).\n\nAlso, because Beaker requires  a customized browser:\n\n- it uses `dat://` schema.\n- Beaker sites need to ask user permission to access clearnet.\n\n(These are not substantial differences since anyone can make a customized browser for Zeronet.)\n\nOther differences are technical details, like ZeroNet is written in Python, while Beaker is written in JavaScript, and ZeroNet uses base85 encoded site address (compatible with bitcoin), while Beaker uses hex encoded address.",
+			"date_added": 1482325338
 		}
 	],
 	"post_like": {
@@ -2406,6 +2411,13 @@
 			"auth_address": "1DcMmKhgdfkR1GDA6zhWhoFRreaej4wLmW",
 			"user_name": "Zerocatty",
 			"date_added": 1482321372
+		},
+		{
+			"follow_id": 228,
+			"hub": "1KNmG5rJUGhgUJGFbLkv2B5isaqu9PrZqi",
+			"auth_address": "1JdznhagMQN9gDuWM5YDtmdAXzEiZ6vm72",
+			"user_name": "Zerosuperdev",
+			"date_added": 1482327228
 		}
 	]
 }
