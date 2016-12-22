@@ -1,7 +1,7 @@
 {
-	"next_post_id": 127,
-	"next_comment_id": 103,
-	"next_follow_id": 28,
+	"next_post_id": 128,
+	"next_comment_id": 104,
+	"next_follow_id": 29,
 	"avatar": "png",
 	"user_name": "Alex",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -549,6 +549,12 @@
 			"body": "Doing some work on omnibox for the new Bwoi engine, everything's going pretty nicely, now just need to order by Levenshtein distance and display on page.",
 			"date_added": 1482355410,
 			"meta": "{\"img\":\"334,700,eeedddfffccc,01112111021111210102000022222233310101022222200002\"}"
+		},
+		{
+			"post_id": 1482432384,
+			"body": "Wrote a quick C# application that is much faster than the Python one; everything is nicely threaded and it takes less than a second per site, with a timeout of 10s, and I've worked out a new layout for Zite indexing in which there are 3 square brackets (\"[\"s) which are laid out like so:\nZite Name [ Zite Description [ Zite Tags\nPretty simple, but works nicely and now allows you to search through Zite descriptions, too.  Indexing is done through a proxy which means that most Zites are already downloaded and ready to be used.  There are 1440 Zites available but most of these are duplicates as you can see; might have to work something out for these, but they all point to the same place; a dropdown box containing the different domain names would perhaps be the best solution.",
+			"date_added": 1482432257,
+			"meta": "{\"img\":\"900,517,ddcedccccfffeeeeddddd,011111111022233333442223333344225444446622033333452204444402\"}"
 		}
 	],
 	"post_like": {
@@ -1137,6 +1143,12 @@
 			"body": "@PaintNinja: Okay I see the problem now too on kindlyfire's proxy, I'll try fixing it in a moment.",
 			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1482253243",
 			"date_added": 1482350879
+		},
+		{
+			"comment_id": 103,
+			"body": "@Kaffie: That makes things an issue though - without tags or proper contexts, it's really difficult to find what you're looking for, which is a gap I'm hoping to fill.  \nAlso, does the ZeroFrame API not require some sort of middleman for signing/publishing?  Last time I tried setting up a chat Zite, that threw me off and stopped me completely IIRC.  \nRanking will be difficult because without it, people will find it difficult to get what they're looking for, but with it, new Zites might find it difficult to start gaining peers, and when it's hard to keep up-to-date then it's definitely something that needs solving.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1482253243",
+			"date_added": 1482432457
 		}
 	],
 	"follow": [
@@ -1300,6 +1312,13 @@
 			"auth_address": "133PfjoNP94oHC3GczL9e7SCKoeKEMyCDJ",
 			"user_name": "G1tich",
 			"date_added": 1481396684
+		},
+		{
+			"follow_id": 28,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1DZiH4sE9ynRAFbAUjYhZtsjFNhe1wrooW",
+			"user_name": "Dotcom",
+			"date_added": 1482432908
 		}
 	],
 	"settings": {
