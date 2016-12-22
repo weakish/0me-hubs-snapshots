@@ -1,7 +1,7 @@
 {
 	"next_post_id": 19,
 	"next_comment_id": 18,
-	"next_follow_id": 22,
+	"next_follow_id": 23,
 	"avatar": "png",
 	"user_name": "Emeraude",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -51,10 +51,6 @@
 			"post_id": 1472116229,
 			"body": "I just canceled my contract with EDF (the major electricity provider in France),  their website is incredibly... Waouh.\nI started with a password reset. You can simply reset it using a \"security question\". You know, a question that looks like \"where are you born ?\". Yes. **I can cancel electricity to anyone by knowing its email adress and its bornplace.**\nThen, I get a password reset link by email. But there were two links: _\"reset password using a computer or a tablet\"_ and _\"reset password using a smartphone\"_. I guess they never heard about responsive design.\nAfter that, I had to reset my password. I tried _QBDojuq06RSAB0aibAZy_. But it was just a \"correct password\". Because, for \"security reason\", I must add a special character. Yes, they are talking about security but I can steal the account of anyone I want, and I can't have a password longer than 20 chars.\n\nI make a small aside, but... Why some website restrict password length? Ok, forbid small passwords can be cool to avoid bruteforce, but what about long passwords ? Anyway, it is hashed so it has a fixed size in database. So the **only** difference between a 20 chars password and a 128 chars password is that the 128 one is more secure.\n\nThis form was also awful. It violates about 4 rules explained [here (clearnet link)](https://uxdesign.cc/design-better-forms-96fadca0f49c), even if it contains only 2 inputs.\n\nSo, when I finally get into my account, I clicked the relocation link and then I... had to signin again.\n\nWell, it's impressive to see how an enterprise that have a great impact on the life of its customers can do such mistakes",
 			"date_added": 1472116217
-		},
-		{
-			"post_id": 1472676561,
-			"date_added": 1472676548
 		},
 		{
 			"post_id": 1476783681,
@@ -205,13 +201,6 @@
 			"date_added": 1470871136
 		},
 		{
-			"follow_id": 5,
-			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
-			"auth_address": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N",
-			"user_name": "Quadrangle",
-			"date_added": 1470871572
-		},
-		{
 			"follow_id": 6,
 			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 			"auth_address": "1D6Pn4487L8QyFtVSU14nxxtnfEgEs2Ny1",
@@ -294,6 +283,13 @@
 			"auth_address": "1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9",
 			"user_name": "Shellbound",
 			"date_added": 1481939834
+		},
+		{
+			"follow_id": 22,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1FzZsDQdh8wk71bDLxURPzmAt2FXehoNAB",
+			"user_name": "Nekololi",
+			"date_added": 1482367084
 		}
 	],
 	"settings": {
