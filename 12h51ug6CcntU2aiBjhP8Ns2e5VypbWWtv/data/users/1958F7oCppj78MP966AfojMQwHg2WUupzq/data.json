@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 104,
+	"next_comment_id": 109,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -633,6 +633,36 @@
 			"body": "@Zeronet2: 是 DNS 污染还是 IP 阻止？哪个运营商？",
 			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482242208",
 			"date_added": 1482417007
+		},
+		{
+			"comment_id": 104,
+			"body": "@Woodsfirezyj: 目前大多数国外的 VPS 都有了，目前中国 IPv4 资源严重不足，迟早要上。不过我感觉还是消除专有的流量特征更紧迫。",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482421423",
+			"date_added": 1482424062
+		},
+		{
+			"comment_id": 105,
+			"body": "@简单翻墙: @一二三木头人: 仔细看看目前各大新闻网站的评论区就知道谷歌落后了（不过我怀疑还是使用了大量的人力）。\nhttp://changyan.kuaizhan.com/",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482375962",
+			"date_added": 1482424232
+		},
+		{
+			"comment_id": 106,
+			"body": "@Woodsfirezyj: 是的，毕竟目前开发人员紧张，但是我担心的一件事就是一旦 ZeroNet 被墙过一次，消除了流量特征或者添加了一些混淆插件继续正常运行后，再向别人推荐的时候总是会提到：“什么？不是早就被墙了么？”“现在改进过了，又可以用了”“谁知道哪天是不是又被墙了呢？”。如此表示不信任并拒绝使用。",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482421423",
+			"date_added": 1482424705
+		},
+		{
+			"comment_id": 107,
+			"body": "@P2P: 是的。由于 Tor 和 Freenet 都被墙认证过而且一搜论文也很多的，给了我很大的信任感（说明我能想到的东西几乎别人也考虑过了）。",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482421423",
+			"date_added": 1482425481
+		},
+		{
+			"comment_id": 108,
+			"body": "@Zeronet2: \n```\nnslookup github.com\nnslookup github.com 202.141.162.123\nping github.com\n```\n这三条执行下看看！如果前面解析出来的地址确实属于 GitHub 的并且 ping 不通，那么就是 IP 的阻止了。",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482242208",
+			"date_added": 1482425548
 		}
 	],
 	"flags": {},
