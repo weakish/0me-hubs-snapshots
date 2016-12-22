@@ -1,7 +1,7 @@
 {
-	"next_post_id": 152,
-	"next_comment_id": 474,
-	"next_follow_id": 75,
+	"next_post_id": 153,
+	"next_comment_id": 481,
+	"next_follow_id": 76,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -702,6 +702,11 @@
 			"post_id": 1482291537,
 			"body": "zeronet的特征明显的原因:\n1.bt的流量套了个tls的壳，在防火墙看来很变扭\n2.tls的证书还是example company，看起来更变扭\n  \n使用zeronet客户端时，防火墙会看到如下场景:\n- 某个用户访问了tracker，看起来像是要bt下载\n- 这个用户没有发送任何bt特征的包，反而访问了10个左右的网站，这些网站不在数据中心，而是分散在各地\n- 这个用户和这些网站互相发送了一大堆tls的包，但流量特征很像bt\n- 这些tls的包的证书居然是example company，这是什么鬼公司？\n  \n因此，一旦zeronet进入xx部门的视野，将很容易被封杀。",
 			"date_added": 1482291386
+		},
+		{
+			"post_id": 1482415510,
+			"body": "我发现很多tor连接的节点端口都是开着的，其实在没开tor always的情况下可以让对方直接告诉明网ip地址，优先通过明网访问的，以提高访问速度。",
+			"date_added": 1482415358
 		}
 	],
 	"post_like": {
@@ -3465,6 +3470,48 @@
 			"body": "@简单翻墙: 稍微改一下就行，在tls外面再套一层迅雷的壳",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482291537",
 			"date_added": 1482322299
+		},
+		{
+			"comment_id": 474,
+			"body": "@Ddjj: 15441端口的替代品",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482415510",
+			"date_added": 1482417099
+		},
+		{
+			"comment_id": 475,
+			"body": "@Ddjj: 有的网络中无法端口映射，换哪个端口都没用",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482415510",
+			"date_added": 1482417373
+		},
+		{
+			"comment_id": 476,
+			"body": "@Ddjj: 而我在这就不行，端口映射和tor至少要有一个，否则体验不太好",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482415510",
+			"date_added": 1482417551
+		},
+		{
+			"comment_id": 477,
+			"body": "@Lmath: 好主意，不过请务必告诉他们不要去封example company的证书，可以说是测试用的证书，实际情况下证书是可变的",
+			"post_uri": "1CogrjsFiTL3nHH74BXnAcM1S3KsNaLtEx_1482307534",
+			"date_added": 1482417669
+		},
+		{
+			"comment_id": 478,
+			"body": "@Ddjj: 电信的校园网，没有独立IP，也没有端口映射",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482415510",
+			"date_added": 1482417706
+		},
+		{
+			"comment_id": 479,
+			"body": "@Lmath: 贵",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482415510",
+			"date_added": 1482417825
+		},
+		{
+			"comment_id": 480,
+			"body": "@Lmath: VPS比梯子贵多了，自家宽带上行太低",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482415510",
+			"date_added": 1482418094
 		}
 	],
 	"follow": [
@@ -3957,6 +4004,13 @@
 			"auth_address": "1Lc8VmhPm4UjmhxLX1VDYotGphXz6Yh2ST",
 			"user_name": "贤猫",
 			"date_added": 1482404553
+		},
+		{
+			"follow_id": 75,
+			"hub": "1KNmG5rJUGhgUJGFbLkv2B5isaqu9PrZqi",
+			"auth_address": "1JdznhagMQN9gDuWM5YDtmdAXzEiZ6vm72",
+			"user_name": "ZeroSuperDev",
+			"date_added": 1482417777
 		}
 	],
 	"settings": {

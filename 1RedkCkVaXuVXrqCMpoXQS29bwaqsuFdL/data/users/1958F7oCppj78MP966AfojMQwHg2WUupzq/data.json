@@ -1,7 +1,7 @@
 {
 	"next_post_id": 61,
-	"next_comment_id": 239,
-	"next_follow_id": 252,
+	"next_comment_id": 240,
+	"next_follow_id": 253,
 	"avatar": "png",
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -1661,6 +1661,12 @@
 			"body": "@Zerocatty: Taiwan",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481557859",
 			"date_added": 1482350809
+		},
+		{
+			"comment_id": 239,
+			"body": "@Nekocross: 限于 DHT 性能与商业因素，许多商业公司并不会加入 DHT 。你看看快播和百度影音出来的时候已经有 DHT 了，但是也没有加入。不然这两个估计现在还能 P2P 点播。",
+			"post_uri": "1CmUmoAfG7UdLBNtELeWG8dffHV6rYBy7A_1482237300",
+			"date_added": 1482416938
 		}
 	],
 	"follow": [
@@ -3392,6 +3398,13 @@
 			"auth_address": "1Jc48RC8TwoRx9Lfx3Cp96M5vDfNCnSKDT",
 			"user_name": "Zeronet2",
 			"date_added": 1482350678
+		},
+		{
+			"follow_id": 252,
+			"hub": "1KNmG5rJUGhgUJGFbLkv2B5isaqu9PrZqi",
+			"auth_address": "1JdznhagMQN9gDuWM5YDtmdAXzEiZ6vm72",
+			"user_name": "ZeroSuperDev",
+			"date_added": 1482417555
 		}
 	],
 	"settings": {
