@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 13,
+	"next_comment_id": 15,
 	"user_name": "Kaffie",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -8,7 +8,9 @@
 		"1DMBWEfQdEaRtsWEwZLY98b9t1ZcoG2ECM_1472248656": 1472208935,
 		"17gEFavobc7RsKNGbSzZwoSZ6jNB7hT2KN_1472745017": 1472772476,
 		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1472766375": 1472789398,
-		"1H4xoahmzZ8UNyXLNogcDu39NhNENaEyJk_1473729852": 1473737098
+		"1H4xoahmzZ8UNyXLNogcDu39NhNENaEyJk_1473729852": 1473737098,
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1482253243": 1482378045,
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1482355536": 1482379198
 	},
 	"comment": [
 		{
@@ -82,6 +84,18 @@
 			"body": "Well if it's any consolation, *I'm* a fan of your stuff. You're one of the few developers here who actually want to try and improve ZeroNet. I think everyone's just stepping on each other's toes right now, since there's still a lot of groundwork to be laid out. Remember, I basically just crushed ZeroSearch >_<. My whole intention with Kaffiene was to fix a frustration I had: that there wasn't a good way to search for sites.\n\nI'm really lazy at dev work, which is kind of why I've been gone for a long time (I wasn't gone, just fighting depression :\\\\). I try to share my code in hopes that stuff like Bwoi *will* pop up and perhaps become even better. Maybe you'll repurpose it into something else, like CensoredSearch did.\n\nTBH, I really have no idea what I'm doing. I'm just playing around with ZeroNet, and trying to make it a cool place. I'll support whatever you decide to come up with, whether it's a search engine, a video site, a music site, or something else. As of now, I really like seeing the competition between stuff like, say, KopyKate and ZeroTube. ZeroTube started out better and had my support, but it's dev has been slow, and KopyKate surpassed it.\n\nI see lots of opportunities here to make real cool stuff. But I don't see that many developers going at it. I'd love to do all that stuff, but I'm only one person and already have problems getting myself to work on my existing stuff. So I say just go do what you want to do. Just ignore me. If you want to make a real cool search engine, do that. \n\nBut whatever you do, be sure you stick around. I think you're a good person to have here.",
 			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1482180332",
 			"date_added": 1482210156
+		},
+		{
+			"comment_id": 13,
+			"body": "Just an FYI, Kaffiene can search through the .bit domain names that are registered for ZeroNet. Just set it to use the ZeroName index. No tags/context though, just raw searching of names. Reverse searching also works, you can punch in an address and see what domains point to it.\n\nManually submitting sites should work just fine, once you apply the ZeroFrame API. ZeroTorrent and other similar sites allow you to search through user submissions.\n\nAs for ranking... The peers/seeds was a quick idea I had for Kaffiene, but it's quickly becoming a mess. It works better than just unranked, but it's hard to keep everything updated. Definitely an on-going problem.\n\n@PaintNinja: Parsing natural language is pretty difficult as a whole, and is something even google struggles with. Though Kaffiene and Bwoi can both definitely use a lot of work in this area.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1482253243",
+			"date_added": 1482378441
+		},
+		{
+			"comment_id": 14,
+			"body": "@weakish: Can you mail me with more details about the Kaffiene error? Like browser, os, etc?",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1482180332",
+			"date_added": 1482378490
 		}
 	]
 }

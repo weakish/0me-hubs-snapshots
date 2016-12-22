@@ -1,0 +1,17 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "HKaiOshMcR9F1EYUIPMVWTc1+4AzUR4O1LybsqtqyNGyFNNShTg5AHdMokwvJ6cB2SF6iNMvxHRSjDyE7So8XMY=",
+ "cert_user_id": "lichee@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e5b1f18d02c896dbd82f40275bad03b3d46e64c62b46321b6c8e48fc65103a60",
+   "size": 526
+  }
+ },
+ "inner_path": "data/users/1BUq3uYmQYrtvKUZL2X5Cbr2MyWdPuLyoz/content.json",
+ "modified": 1482409332.567,
+ "signs": {
+  "1BUq3uYmQYrtvKUZL2X5Cbr2MyWdPuLyoz": "HL8ObUKSkzcjUat04VwYfEIAtPnOBsrzPT6CJkhHN/aiBKpC9mrFIk5V4b3S0KvpZ/2vMt4oDqzQxGf0fjW38Lk="
+ }
+}

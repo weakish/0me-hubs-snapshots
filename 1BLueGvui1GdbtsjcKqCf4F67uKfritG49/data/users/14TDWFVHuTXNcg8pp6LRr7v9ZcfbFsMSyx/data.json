@@ -1,5 +1,5 @@
 {
-	"next_post_id": 113,
+	"next_post_id": 115,
 	"next_comment_id": 156,
 	"next_follow_id": 229,
 	"avatar": "jpg",
@@ -498,6 +498,16 @@
 			"post_id": 1482155574,
 			"body": "Excellent guides from [The Third Wave](https://thethirdwave.co/):\n* [Microdosing LSD Guide](https://thethirdwave.co/blog/microdosinglsd)\n* [Microdosing Mushrooms Guide](https://thethirdwave.co/blog/microdosingmushrooms)\n",
 			"date_added": 1482155462
+		},
+		{
+			"post_id": 1482396756,
+			"body": "The Little Book of #Python Anti-Patterns ⌘ http://docs.quantifiedcode.com/python-anti-patterns/",
+			"date_added": 1482396643
+		},
+		{
+			"post_id": 1482403870,
+			"body": "Easy ad blocker blocker blocker for Chromium:\n\n1. Ad “--enable-dom-distiller” to `~/.config/chromium-flags.conf`.\n2. On any ad blocker blocker blocked page choose “Distill page” from menu.\n3. …\n4. Profit!",
+			"date_added": 1482403756
 		}
 	],
 	"post_like": {
