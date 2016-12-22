@@ -1,6 +1,6 @@
 {
 	"next_post_id": 82,
-	"next_comment_id": 73,
+	"next_comment_id": 74,
 	"next_follow_id": 229,
 	"avatar": "png",
 	"user_name": "weakish",
@@ -409,7 +409,7 @@
 		},
 		{
 			"post_id": 1482325419,
-			"body": "[Beaker](https://beakerbrowser.com/) is similar to ZeroNet. Their difference:\n\n- Beaker does not host visited sites.  (You can enable it manually.)\n- Beaker sites support versioning.\n- Beaker API is much simpler than ZeroNet, no select user (id), no optional file, no encryption, etc. So dynamic sites are easier to create via ZeroNet.\n- ZeroNet uses namecoin `.bit`. Beaker uses regular domain names (via `TXT` record. It's experimental, not man-in-the-middle attack proof ).\n\nAlso, because Beaker requires  a customized browser:\n\n- it uses `dat://` schema.\n- Beaker sites need to ask user permission to access clearnet.\n\n(These are not substantial differences since anyone can make a customized browser for Zeronet.)\n\nOther differences are technical details, like ZeroNet is written in Python, while Beaker is written in JavaScript, and ZeroNet uses base85 encoded site address (compatible with bitcoin), while Beaker uses hex encoded address.",
+			"body": "[Beaker](https://beakerbrowser.com/) is similar to ZeroNet. Their difference:\n\n- Beaker does not host visited sites.  (You can enable it manually.)\n- Beaker sites support versioning.\n- Beaker API is much simpler than ZeroNet, no select user (id), no optional file, no encryption, etc. So dynamic sites are easier to create via ZeroNet.\n- ZeroNet uses namecoin `.bit`. Beaker uses regular domain names (via `TXT` record. It's experimental, not man-in-the-middle attack proof ).\n\nAlso, because Beaker requires  a customized browser:\n\n- it uses `dat://` schema.\n- Beaker sites need to ask user permission to access clearnet.\n\n(These are not substantial differences since anyone can make a customized browser for Zeronet.)\n\nOther differences are technical details, like ZeroNet is written in Python, while Beaker is written in JavaScript, and ZeroNet uses base58 encoded site address (compatible with bitcoin), while Beaker uses hex encoded address.",
 			"date_added": 1482325338
 		}
 	],
@@ -883,6 +883,12 @@
 			"body": "@火犬: 可以装插件欺骗视频网站（国内主流视频网站基本都有html版本，只是特供iPad/iPhone",
 			"post_uri": "1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1482158948",
 			"date_added": 1482231217
+		},
+		{
+			"comment_id": 73,
+			"body": "@Linkerlin: Thanks. Fixed.",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1482325419",
+			"date_added": 1482414214
 		}
 	],
 	"follow": [
