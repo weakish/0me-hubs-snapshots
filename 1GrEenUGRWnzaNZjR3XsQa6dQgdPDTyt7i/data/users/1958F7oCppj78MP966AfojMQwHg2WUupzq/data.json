@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 655,
+	"next_comment_id": 659,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -3943,6 +3943,30 @@
 			"body": "@Ddjj: 就怕开出来的还是没公网 IP 而且墙高、上行小的东西。",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482415510",
 			"date_added": 1482418496
+		},
+		{
+			"comment_id": 655,
+			"body": "@Ddjj: 可是我一直觉得这上行还是很低啊！",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482415510",
+			"date_added": 1482419030
+		},
+		{
+			"comment_id": 656,
+			"body": "@weakish: 应该你说的是没公网 IPv4 地址吧！如果不能连接 IPv4 地址的话连 ZeroNet 目前都没法跑。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482415510",
+			"date_added": 1482419777
+		},
+		{
+			"comment_id": 657,
+			"body": "@weakish: @Ddjj: 移动用户表示无论是在家还是在学校，都是可以分配到公网 IPv4 的，但是手机不行。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482415510",
+			"date_added": 1482419832
+		},
+		{
+			"comment_id": 658,
+			"body": "@Ddjj: 抱歉，ZeroNet 目前并不支持 IPv6 ，但是 Freenet 是支持的（纯 IPv6 也可以），你可以跑跑看。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482415510",
+			"date_added": 1482419911
 		}
 	],
 	"flags": {},
