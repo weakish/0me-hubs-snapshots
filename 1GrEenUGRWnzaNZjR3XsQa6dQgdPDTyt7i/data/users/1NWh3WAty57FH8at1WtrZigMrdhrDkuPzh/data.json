@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 16,
+	"next_comment_id": 17,
 	"user_name": "Kaffie",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -103,6 +103,12 @@
 			"body": "@Eibriel: I think he means that there's multiple domains pointing to a single address. Like: search.kaffie.bit, kaffiene.bit, zerosearch.bit, and 0search.bit all point to the same Kaffiene address. ZeroName indexes each of these domain names so you know where they point and can follow them. Erkan had a ton (like 200) of domains pointing all to the same splash page.",
 			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1482432384",
 			"date_added": 1482465451
+		},
+		{
+			"comment_id": 16,
+			"body": "@Alex: Yeah, obviously the ZeroName implementation in Kaffiene is just real quick. You can obviously do a lot of work there.\n\nYou can definitely have user submissions for sites. Again, ZeroTorrent does something similar (searches through user posts). KopyKate is another site that allows you to submit things and search them. TBH, I haven't messed around with the ZeroFrame stuff, which is why Kaffiene doesn't have any user submitted things, haha. But no, no middleman is required. Users have permission to write whatever they want in their particular folder of your site. Using the content.json you can manually configure what they are and aren't allowed to upload.\n\nAs for ranking, yeah, it's really tricky. The goal for Kaffiene was to be able to find active sites for whatever you wanted, and what's popular in ZeroNet. Sort of like an organized 0List. Not necessarily to help new sites get peers. There's already sites to help do that, which I have written tools to pull from ( see [Kaffiene's newsitesdb.py](/kaffiene.bit/newsitesdb.py) ).\n\nPersonally, to solve the peers issue, I think it's fine to inform people to have them visit their site through a couple proxies, so that those can act as a 'dedicated' host while the site is still unknown. Once you have maybe 10 or 20 people hosting it, you're good to go. And if it's a useful site, it'll gain peers pretty quick if you share it somewhere.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1482253243",
+			"date_added": 1482496410
 		}
 	]
 }
