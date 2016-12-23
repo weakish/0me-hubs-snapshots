@@ -1,6 +1,6 @@
 {
 	"next_post_id": 19,
-	"next_comment_id": 19,
+	"next_comment_id": 20,
 	"next_follow_id": 23,
 	"avatar": "png",
 	"user_name": "Emeraude",
@@ -183,6 +183,12 @@
 			"body": "Is there an equivalent for firefox ?",
 			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1482403870",
 			"date_added": 1482425030
+		},
+		{
+			"comment_id": 19,
+			"body": "Why are you using charset window-1251 ? It's awful, utf-8 is ways better.",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1482491965",
+			"date_added": 1482510826
 		}
 	],
 	"follow": [

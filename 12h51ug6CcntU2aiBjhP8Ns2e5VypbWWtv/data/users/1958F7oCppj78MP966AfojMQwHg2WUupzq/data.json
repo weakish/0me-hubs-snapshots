@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 111,
+	"next_comment_id": 114,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -675,6 +675,24 @@
 			"body": "@莱文倩: 一个问题是如果补贴传统平台较长的时间，那么对于这种中心化的市场会形成依赖，结果就没多少人用去中心化的市场了。\n即时通讯领域已经有 QQ 和微信的例子了。虽然你因为它太流氓而想抛弃它，但是你迁移过去容易，把里面的人迁移过去就比较难了。",
 			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482334335",
 			"date_added": 1482481090
+		},
+		{
+			"comment_id": 111,
+			"body": "@一二三木头人: 如果还是可以自建授权服务器另搞一个体系的话，那还差不多可行。如果是只有这一个体系的话，那还搞什么 P2P ？集中服务还有管理方便结构简单效率高的优势。不要搞到最后搞成一个像出租车公司那样既不管理（遇到拒载什么的不负责）、又不保障（出事保险公司赔付）、还不提供生产资料（自行购车挂靠到出租车公司），但是又要缴纳份子钱的奇葩组织，那么就比中心化服务更遭人唾弃了。",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482334335",
+			"date_added": 1482488654
+		},
+		{
+			"comment_id": 112,
+			"body": "@一二三木头人: 既然你都知道平台没有能力查了，但是还是要弄出个授权服务器来，这让我很纠结啊！你说说这个授权服务器是什么性质的吧！如果授权服务器是强制性的，那么，搞 P2P 的优势在哪里？授权服务器不是成为了一个新的，更大的中心了么？然后顺便还把商家只需要专注于销售和服务的优势丢了，变成了每个商家都要维护节点（小飞者花了钱还要帮你维护一个中心化控制的节点？Excuse me?）如果有点像是一个证书颁发机构的性质，那么想要交易毒品和枪支的人自然就不会信任这个授权服务器，实际就对交易毒品和枪支没啥大的影响了，顶多就是避免不想交易的人无意中看到产生不安。",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482334335",
+			"date_added": 1482509671
+		},
+		{
+			"comment_id": 113,
+			"body": "@一二三木头人: 问题就在这里，如何保证“大家都不会干预”？你现在搞了一个中心化的授权服务器，该由谁来管理？如何保证管理~~按照基本法~~公平公正？即使你目前找到了一个管理极度出色又令人满意的人，它一直能干下去么？以后该换谁管理才能保证继续维持这种管理水平？",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482334335",
+			"date_added": 1482510878
 		}
 	],
 	"flags": {},
@@ -683,6 +701,8 @@
 		"1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_40": 1482216785,
 		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_80": 1482228655,
 		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_81": 1482228671,
-		"1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_19": 1482238445
+		"1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX_19": 1482238445,
+		"12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_6": 1482492355,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_42": 1482492367
 	}
 }
