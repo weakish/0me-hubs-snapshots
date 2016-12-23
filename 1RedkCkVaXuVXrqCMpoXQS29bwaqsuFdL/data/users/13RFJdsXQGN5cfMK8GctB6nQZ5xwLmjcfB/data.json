@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 73,
+	"next_comment_id": 77,
 	"user_name": "Ysc3839",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -464,6 +464,30 @@
 			"body": "@Lmath: 那应该是没有了",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481215286",
 			"date_added": 1481279752
+		},
+		{
+			"comment_id": 73,
+			"body": "这是深信服的防火墙吗？我们学校就在用这个，有很严重的漏洞，如果HTTP协议中没有`Host: `或者被拆成两个数据包的话就检测不到。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1482253773",
+			"date_added": 1482486630
+		},
+		{
+			"comment_id": 74,
+			"body": "@cnwfjsw: 我在[这里](http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Post/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/1958F7oCppj78MP966AfojMQwHg2WUupzq/1482253773)说了:“\n这是深信服的防火墙吗？我们学校就在用这个，有很严重的漏洞，如果HTTP协议中没有`Host: `或者被拆成两个数据包的话就检测不到。”",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1482506537",
+			"date_added": 1482507678
+		},
+		{
+			"comment_id": 75,
+			"body": "我认为不大可能这么做，如果真要禁网，当初为何还要连接国际互联网呢？如果说现在的话，禁了危险更大。我倒希望全面禁网，自己为自己的坟墓“~~添砖加瓦~~掘坑挖土”。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1482506537",
+			"date_added": 1482508038
+		},
+		{
+			"comment_id": 76,
+			"body": "@Alipay: 是的",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1482506537",
+			"date_added": 1482508046
 		}
 	],
 	"flags": {},

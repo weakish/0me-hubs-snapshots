@@ -1,7 +1,7 @@
 {
-	"next_post_id": 62,
-	"next_comment_id": 240,
-	"next_follow_id": 253,
+	"next_post_id": 63,
+	"next_comment_id": 251,
+	"next_follow_id": 254,
 	"avatar": "png",
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -274,6 +274,11 @@
 			"post_id": 1482425365,
 			"body": "现在连亲吻男孩都有这么大风险了……\nhttps://view.inews.qq.com/a/CDC2016122203050506\n后续：http://scnews.newssc.org/system/20161222/000734475.htm",
 			"date_added": 1482425304
+		},
+		{
+			"post_id": 1482506537,
+			"body": "脑洞大开！为审查者提供思路。禁止未经审查的 P2P 流量的脑洞大开的方法：\n1. 所有 P2P 应用需要备案并加入内容过滤系统；\n2. P2P 流量数据包需要经过签名；\n3. 未经签名的数据包只能发到专门备案的服务器，签名错误的数据包直接丢弃；\n4. 流经境外的流量需要安装专门的安全网络连接工具（自带计算机审查功能）\n\n那么问题来了，这方法真被审查者采用了该怎么办？（我不说出来审查者应该还是能想到，所以不要怪我说出来了）\n@P2P: @猫叉酱: @12hlearn: @西木野真姬: @TCP: @Kh A: @莱文倩: 谈谈这个方案的可行性与应对措施。",
+			"date_added": 1482506475
 		}
 	],
 	"post_like": {
@@ -1672,6 +1677,72 @@
 			"body": "@Nekocross: 限于 DHT 性能与商业因素，许多商业公司并不会加入 DHT 。你看看快播和百度影音出来的时候已经有 DHT 了，但是也没有加入。不然这两个估计现在还能 P2P 点播。",
 			"post_uri": "1CmUmoAfG7UdLBNtELeWG8dffHV6rYBy7A_1482237300",
 			"date_added": 1482416938
+		},
+		{
+			"comment_id": 240,
+			"body": "@cnwfjsw: @Alipay: 反正花的是屁民的钱，乘机提供一波网费即可。当然，各大新网网站上要雇佣一波水军表示支持，或者说弊大于利。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1482506537",
+			"date_added": 1482506906
+		},
+		{
+			"comment_id": 241,
+			"body": "@Alipay: 直接封禁 P2P 流量会遭到更多的人反感，而且 P2P 流量依然是许多基础网络应用运行的保证（现在很多软件的更新也是 P2P 的）。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1482506537",
+			"date_added": 1482507219
+		},
+		{
+			"comment_id": 242,
+			"body": "@cnwfjsw: 我没说要 GFW 管，到时候强迫运营商管。当然在干这个之前还要找一些证据说明这么搞是有必要的，比如暴恐音视频培养恐怖份子啊！比如儿童色情导致性侵儿童案件大幅度增加啊！",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1482506537",
+			"date_added": 1482507351
+		},
+		{
+			"comment_id": 243,
+			"body": "@cnwfjsw: FPGA 从来不是廉价的代表。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1482506537",
+			"date_added": 1482507542
+		},
+		{
+			"comment_id": 244,
+			"body": "@cnwfjsw: 最现实的一个就是像目前部分垃圾校园网和广电网络那样，专用拨号器（自带监控）或者专用设备，反正到时候还是屁民买单，顺便回收一波人民币。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1482506537",
+			"date_added": 1482507663
+		},
+		{
+			"comment_id": 245,
+			"body": "@Alipay: GPS 是美国军方的吧！Google 位置服务主要搞的是 Wi-Fi 定位吧！",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1482506537",
+			"date_added": 1482507728
+		},
+		{
+			"comment_id": 246,
+			"body": "@Alipay: 真到那一步真该考虑离开中国的，但是我的正太控身份就对我很不利了。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1482506537",
+			"date_added": 1482507862
+		},
+		{
+			"comment_id": 247,
+			"body": "@cnwfjsw: 所以目前开始搞一个可被动可主动的北斗系统啊！",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1482506537",
+			"date_added": 1482507891
+		},
+		{
+			"comment_id": 248,
+			"body": "@KhA: 即使检查签名过于昂贵，但是安装专用的自带审查的拨号工具可不是很昂贵（反正占用的是使用者的资源），当然用久了一定会被人破解协议，然后破解协议后再更新什么的。这样折腾几次后有的人不愿意折腾就会被迫接受这个拨号器。顺便还可以像以前腾讯搞珊瑚虫 QQ 那样给搞破解协议的人定个啥破坏计算机系统安全罪的，这样搞的人就会减少，或者搞出来了也只在小范围内流通了。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1482506537",
+			"date_added": 1482508144
+		},
+		{
+			"comment_id": 249,
+			"body": "@Ysc3839: 所以我提的这个方案不是要全面禁网，而是要全面进行审查。要是全民禁网还不是要上街了？如果啥色情方面的东西审查实际并不严的话，也许跳出来的并不多。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1482506537",
+			"date_added": 1482508193
+		},
+		{
+			"comment_id": 250,
+			"body": "@西木野真姬: 其实我这样的人国安局应该是看不上的，但是越是基层越是怕，就怕附近的人下手。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1482506537",
+			"date_added": 1482508497
 		}
 	],
 	"follow": [
@@ -3410,6 +3481,13 @@
 			"auth_address": "1JdznhagMQN9gDuWM5YDtmdAXzEiZ6vm72",
 			"user_name": "ZeroSuperDev",
 			"date_added": 1482417555
+		},
+		{
+			"follow_id": 253,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1Gh5YshmQdQSvEgj1Dm8twQCjMuJBEVGuC",
+			"user_name": "吴越独立",
+			"date_added": 1482488714
 		}
 	],
 	"settings": {
