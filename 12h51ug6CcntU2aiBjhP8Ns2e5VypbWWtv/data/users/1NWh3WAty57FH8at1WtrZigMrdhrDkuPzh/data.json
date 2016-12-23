@@ -1,6 +1,6 @@
 {
 	"next_post_id": 50,
-	"next_comment_id": 86,
+	"next_comment_id": 88,
 	"next_follow_id": 32,
 	"avatar": "jpg",
 	"user_name": "Kaffie",
@@ -755,6 +755,18 @@
 			"body": "@Arkre: I'm not sure what you're asking for. It sounds like you're just describing Kaffiene, but with a full-text index (instead of tags), and using a bot to build it. If you were going to do full caching/indexing, you'd want to use actual search algorithms, rather than just a raw text search. The issue with that is filesize. [OneSearch](http://127.0.0.1:43110/17SyG68UgnCATwbmnmf7pvRmQVej8ZnWUe/) has already tried this method.\n\nAs for the bot... Hopefully I can write one soon and have it run for Kaffiene. But we'll see.",
 			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1482102099",
 			"date_added": 1482209417
+		},
+		{
+			"comment_id": 86,
+			"body": "@ulrichard: [Tag Mobile](https://tagmobile.com/) works with the US phone lifeline thing. So basically if you have one of the many government handouts, you can snag a free phone. For most states it's just a dumb phone with limited talk and no data. But california is awesome and has a free smartphone and free data.\n\nFrom the looks of it, the actual phone itself they're sending is garbage ($30 blu phone). So instead I'm gonna be getting an unlocked Moto G4 to use with the free plan.\n\nThe plan itself goes through T-Mobile's network. Good shit. I don't know why no one's talking about this stuff.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1482463645",
+			"date_added": 1482495538
+		},
+		{
+			"comment_id": 87,
+			"body": "Yeah, I'm gonna get unlimited 3g with 500mb lte. Which is pretty damn good for free. Other providers/states/etc. have worse offers (a competing one I saw here in CA offered 500mb of 3g)",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1482463645",
+			"date_added": 1482503338
 		}
 	],
 	"follow": [

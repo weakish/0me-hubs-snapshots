@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 52,
+	"next_comment_id": 57,
 	"user_name": "Ysc3839",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -18,7 +18,12 @@
 		"1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1479117651": 1479131530,
 		"1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1479834184": 1479834791,
 		"17AMQVbBa12XB3xFWKDnP2dCEx92TaiY7X_1480232276": 1480236421,
-		"1KUBcGBxautCfBVt91sQ3HSJUAYJb2ahYu_1480568810": 1480569050
+		"1KUBcGBxautCfBVt91sQ3HSJUAYJb2ahYu_1480568810": 1480569050,
+		"1KUBcGBxautCfBVt91sQ3HSJUAYJb2ahYu_1481165451": 1481260669,
+		"1KUBcGBxautCfBVt91sQ3HSJUAYJb2ahYu_1481164136": 1481260671,
+		"1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1481107555": 1481260711,
+		"1KUBcGBxautCfBVt91sQ3HSJUAYJb2ahYu_1481083048": 1481260913,
+		"1KUBcGBxautCfBVt91sQ3HSJUAYJb2ahYu_1481008087": 1481261346
 	},
 	"comment": [
 		{
@@ -326,6 +331,36 @@
 			"body": "@frog: 有道理。审查的话主要是政治方面吧？",
 			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1480682967",
 			"date_added": 1480780666
+		},
+		{
+			"comment_id": 52,
+			"body": "@Lmath: NameCoin 挖矿不划算，要挖矿都是挖别的币然后换。我是购买比特币然后换成Namecoin的",
+			"post_uri": "1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1481107555",
+			"date_added": 1481260854
+		},
+		{
+			"comment_id": 53,
+			"body": "生物课上有说，自然的基因突变是不定向的，是否好坏也不确定的。这用激光照射或者拿到太空只是提高了突变率。按照现在的生物进化理论，新性状的产生最根本是靠基因突变。",
+			"post_uri": "12kcMDfKMos1marvnhfduW5aBbwXcPV2ka_1481267589",
+			"date_added": 1481280619
+		},
+		{
+			"comment_id": 54,
+			"body": "@Tolstoevsky: Me too. Also try `<meta charset='windows-1251'>`",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1482491965",
+			"date_added": 1482492579
+		},
+		{
+			"comment_id": 55,
+			"body": "Please convert to utf-8. Because ZeroNet sets utf-8 encoding in HTTP header. The browser will ignore \"meta charset\".",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1482491965",
+			"date_added": 1482493297
+		},
+		{
+			"comment_id": 56,
+			"body": "@Flyman: I don't know...",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1482491965",
+			"date_added": 1482503682
 		}
 	],
 	"flags": {},
