@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 19,
+	"next_comment_id": 23,
 	"user_name": "Linker",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {
@@ -121,6 +121,30 @@
 			"body": "这个片子比较有趣",
 			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1481930243",
 			"date_added": 1481954037
+		},
+		{
+			"comment_id": 19,
+			"body": "@Ysc3839: 你发现这个漏洞不错啊。我想到，如果要对抗过滤，可以在多个TCP链接上发送不同的bit,比如8个链接，分别发送0~7位。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1482506537",
+			"date_added": 1482512439
+		},
+		{
+			"comment_id": 20,
+			"body": "@Lmath: 你的身份應該早就暴露了。因爲你做了太多可以用社會工程學分析行爲的事情。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1482506537",
+			"date_added": 1482512715
+		},
+		{
+			"comment_id": 21,
+			"body": "@西木野真姬: RFID植入應該是最佳選擇。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1482506537",
+			"date_added": 1482512845
+		},
+		{
+			"comment_id": 22,
+			"body": "@Lmath: 居然在線",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1482506537",
+			"date_added": 1482513031
 		}
 	],
 	"flags": {},
