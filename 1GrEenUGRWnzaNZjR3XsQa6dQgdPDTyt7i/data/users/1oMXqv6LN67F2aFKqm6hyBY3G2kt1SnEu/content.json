@@ -4,14 +4,18 @@
  "cert_sign": "HOD7plDxBtHIIFal6NtzDTJO9SXvoNe5hZRJMY2slmYABxUnZf8XG18Xzv6xbsOOrjxY414/Bz27RdSHUdOBrdA=",
  "cert_user_id": "sickgamer@zeroid.bit",
  "files": {
+  "avatar.jpg": {
+   "sha512": "ca8d575a72f17b3a90aa661b949b03502fd67d3c453c78e7b9c07de7cd726ed8",
+   "size": 1554
+  },
   "data.json": {
-   "sha512": "be14f9ab653193b2d4804610c3b44d059df770e2f809da8b65d849becae57429",
-   "size": 3039
+   "sha512": "40a4af019a50d58011b1db0975e5954a69bae10985447fc254b65ab289a95f2b",
+   "size": 3606
   }
  },
  "inner_path": "data/users/1oMXqv6LN67F2aFKqm6hyBY3G2kt1SnEu/content.json",
- "modified": 1481923993.92,
+ "modified": 1482483351.079,
  "signs": {
-  "1oMXqv6LN67F2aFKqm6hyBY3G2kt1SnEu": "HGm+//sA/oN+weLbZ9vxES1yb1IXfH7TBJROHFLIIX/sCn5OrnJVzBjDFqwrWTGptqxN913bvDVfarDIyNsBlCw="
+  "1oMXqv6LN67F2aFKqm6hyBY3G2kt1SnEu": "HFEaGnPTzDUgo/aoNc/oIX66up+6G/Hol1uUddpqb5NyyoOE+BGSij47yaYX9c7H3wJ+LyAwkib4hSEQwtNo/4E="
  }
 }

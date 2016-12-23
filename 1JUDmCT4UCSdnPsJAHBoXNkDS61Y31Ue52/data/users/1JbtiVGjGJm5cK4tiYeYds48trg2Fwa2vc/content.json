@@ -1,0 +1,21 @@
+{
+ "address": "1JUDmCT4UCSdnPsJAHBoXNkDS61Y31Ue52",
+ "cert_auth_type": "web",
+ "cert_sign": "G5CeTrRXqCIA3IjLjGBbupvMeBmvwk1NLo5Q2nUZUF9+HXiEKuZkWqQ0xnLaeQx0UQ7smqLGShJedvRAxxms4XE=",
+ "cert_user_id": "correapabloivan@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "7395577cc3ebfb3346651a529e060c35f2472f8d6712fe3ae3c398c0a7a1af1d",
+   "size": 1572
+  },
+  "data.json": {
+   "sha512": "60e730abdb23adb91dbcd4437834e49d1b604f4703b641109c83f2d3bd6fe9f1",
+   "size": 595
+  }
+ },
+ "inner_path": "data/users/1JbtiVGjGJm5cK4tiYeYds48trg2Fwa2vc/content.json",
+ "modified": 1482444336.760218,
+ "signs": {
+  "1JbtiVGjGJm5cK4tiYeYds48trg2Fwa2vc": "Gye/7IGpz5Irv3pNFy5+yTprss4Lrn7OI1LTXxQ1enbAnVDwksuAcitJS4dq2JDJgqBFkfR9ksMcPuO8YVs4SMo="
+ }
+}

@@ -1,5 +1,5 @@
 {
-	"next_post_id": 13,
+	"next_post_id": 17,
 	"next_comment_id": 21,
 	"next_follow_id": 16,
 	"avatar": "generate",
@@ -17,6 +17,12 @@
 			"post_id": 1481427124,
 			"body": "好几天没冒泡了，其实是有发言过的，只是都发布失败了。tor显示always模式，更新的时候却得关闭tor，网站才能更新，今天，偶然点开torrc文件，哎哟，我去，原来是torrc被默认配置覆盖了，于是把以前备份好的torrc甩进去覆盖掉，哟西，又恢复正常了，站点更新了。",
 			"date_added": 1481427113
+		},
+		{
+			"post_id": 1482483832,
+			"body": "\n更新了Virtualbox",
+			"date_added": 1482483816,
+			"meta": "{\"img\":\"900,676,cccdddeeefffdcd568aaafdd888abc68a767a8a99afcdcdb,011111111012023333344056277774089A004110488B0CC9D014DD2E0FE412413333340444000006\"}"
 		}
 	],
 	"post_like": {},
