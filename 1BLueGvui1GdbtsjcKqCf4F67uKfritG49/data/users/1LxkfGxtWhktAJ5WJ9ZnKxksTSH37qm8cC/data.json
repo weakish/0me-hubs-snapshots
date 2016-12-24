@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 21,
+	"next_comment_id": 22,
 	"user_name": "Firebox",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -127,6 +127,12 @@
 			"body": "Do you run a ZeroNet gateway?",
 			"post_uri": "1BsBRAymoTQ5qbXBLeGj3EFVkZz98kCbfh_1",
 			"date_added": 1481435185
+		},
+		{
+			"comment_id": 21,
+			"body": "You should always use UTF-8. Save your page in UTF-8 and then add `<meta charset=\"UTF-8\">` to your web page.",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1482491965",
+			"date_added": 1482539143
 		}
 	]
 }
