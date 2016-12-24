@@ -1,7 +1,7 @@
 {
-	"next_post_id": 64,
+	"next_post_id": 65,
 	"next_comment_id": 253,
-	"next_follow_id": 254,
+	"next_follow_id": 255,
 	"avatar": "png",
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -279,6 +279,11 @@
 			"post_id": 1482506537,
 			"body": "脑洞大开！为审查者提供思路。禁止未经审查的 P2P 流量的脑洞大开的方法：\n1. 所有 P2P 应用需要备案并加入内容过滤系统；\n2. P2P 流量数据包需要经过签名；\n3. 未经签名的数据包只能发到专门备案的服务器，签名错误的数据包直接丢弃；\n4. 流经境外的流量需要安装专门的安全网络连接工具（自带计算机审查功能）\n\n那么问题来了，这方法真被审查者采用了该怎么办？（我不说出来审查者应该还是能想到，所以不要怪我说出来了）\n@P2P: @猫叉酱: @12hlearn: @西木野真姬: @TCP: @Kh A: @莱文倩: 谈谈这个方案的可行性与应对措施。",
 			"date_added": 1482506475
+		},
+		{
+			"post_id": 1482566935,
+			"body": "Sadly, ObscuredFiles has been down.\nhttps://blog.obscuredfiles.com/the-fall-of-an-empire/",
+			"date_added": 1482566871
 		}
 	],
 	"post_like": {
@@ -3500,6 +3505,13 @@
 			"auth_address": "1Gh5YshmQdQSvEgj1Dm8twQCjMuJBEVGuC",
 			"user_name": "吴越独立",
 			"date_added": 1482488714
+		},
+		{
+			"follow_id": 254,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "156FWdaveQmHk183zwn3VasY56CAQMzT5j",
+			"user_name": "Chn",
+			"date_added": 1482568970
 		}
 	],
 	"settings": {
