@@ -1,7 +1,7 @@
 {
 	"next_post_id": 65,
-	"next_comment_id": 254,
-	"next_follow_id": 255,
+	"next_comment_id": 255,
+	"next_follow_id": 257,
 	"avatar": "png",
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -1766,6 +1766,12 @@
 			"body": "@weakish: 手机和机顶盒强制装监控的应用才能被接入服务器验证并接入啊！所以目前他们才那么想把“国产操作系统”搞出来啊！P2P 应用里面内置被混淆的私钥，这样就可以签名了，当然过不就就会有人像破解软件付费功能一样进行逆向并提取出来，但是这时候只要换一个密钥和混淆就又可以顶一阵了，反复这么搞就可以把非授权的 P2P 应用搞得稳定性很差。当然配合给进行逆向工程的人加上点破坏软件著作权和破坏计算机系统安全的罪名效果更佳。",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1482506537",
 			"date_added": 1482576901
+		},
+		{
+			"comment_id": 254,
+			"body": "@简单翻墙: 后来看见了后续，居然在男孩面前打飞机，这就很恶心了。如果是帮男孩打飞机，不一定会成这样。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1482425365",
+			"date_added": 1482589274
 		}
 	],
 	"follow": [
@@ -3518,6 +3524,20 @@
 			"auth_address": "156FWdaveQmHk183zwn3VasY56CAQMzT5j",
 			"user_name": "Chn",
 			"date_added": 1482568970
+		},
+		{
+			"follow_id": 255,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1BA2fUtT5cqyWHx4p3caoEYo2YFGU5dnn4",
+			"user_name": "编程狗的博客",
+			"date_added": 1482589392
+		},
+		{
+			"follow_id": 256,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1MDDjtDGSbmpZtVVgsp2JhvmHfPaJBM6TH",
+			"user_name": "Duckhere",
+			"date_added": 1482589943
 		}
 	],
 	"settings": {
