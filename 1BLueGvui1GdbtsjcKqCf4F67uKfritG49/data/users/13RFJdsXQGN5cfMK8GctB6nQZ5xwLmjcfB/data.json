@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 57,
+	"next_comment_id": 58,
 	"user_name": "Ysc3839",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -361,6 +361,12 @@
 			"body": "@Flyman: I don't know...",
 			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1482491965",
 			"date_added": 1482503682
+		},
+		{
+			"comment_id": 57,
+			"body": "@Firebox: You don't need to add `<meta charset=\"UTF-8\">` because ZeroNet sets utf-8 encoding in HTTP header.",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1482491965",
+			"date_added": 1482556385
 		}
 	],
 	"flags": {},
