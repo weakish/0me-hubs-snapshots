@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 114,
+	"next_comment_id": 124,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -13,7 +13,8 @@
 		"1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1482144891": 1482147155,
 		"1MpUdwe28gwynzoKg9ziFCRWcQK2FqNunb_1482209236": 1482209834,
 		"1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482242208": 1482253449,
-		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1482325419": 1482338520
+		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1482325419": 1482338520,
+		"1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1482592852": 1482593181
 	},
 	"comment": [
 		{
@@ -693,6 +694,66 @@
 			"body": "@一二三木头人: 问题就在这里，如何保证“大家都不会干预”？你现在搞了一个中心化的授权服务器，该由谁来管理？如何保证管理~~按照基本法~~公平公正？即使你目前找到了一个管理极度出色又令人满意的人，它一直能干下去么？以后该换谁管理才能保证继续维持这种管理水平？",
 			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482334335",
 			"date_added": 1482510878
+		},
+		{
+			"comment_id": 114,
+			"body": "@Jabasukuriputo Wang: 为啥你们就认为 Freenet 就是看 Child Porn 的地方啊！上面基本上都是比较老的资源，而且也不能在线播放，就是保种比较好……",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482590759",
+			"date_added": 1482593903
+		},
+		{
+			"comment_id": 115,
+			"body": "Lantern 的意思是如果包月付费的话，对 GFW 来说骗 IP 的成本太低。",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482569172",
+			"date_added": 1482593998
+		},
+		{
+			"comment_id": 116,
+			"body": "@一二三木头人: 貌似打开以后不需要特殊配置吧！",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482590759",
+			"date_added": 1482594115
+		},
+		{
+			"comment_id": 117,
+			"body": "@一二三木头人: 设计理念不同，通常去中心化程度高，匿名性好的东西都很难用。",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482590759",
+			"date_added": 1482594246
+		},
+		{
+			"comment_id": 118,
+			"body": "@一二三木头人: 如果这个像 Freenet 一样数据不能直接传送，而需要多次中转；又屏蔽 JavaScript 的话，你会感觉这个也不好用了。",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482590759",
+			"date_added": 1482594429
+		},
+		{
+			"comment_id": 119,
+			"body": "@Jabasukuriputo Wang: Freenet 还有一个看似隐秘性很好的暗网模式，需要若干个信任的朋友，鬼知道有几个人用。（官方解释所以 Freenet 至今版本号不到 1.0）",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482590759",
+			"date_added": 1482594538
+		},
+		{
+			"comment_id": 120,
+			"body": "@一二三木头人: 但是这个没有多次中转啊！你去看看 Freenet 的原理就知道为什么性能不会好了。",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482590759",
+			"date_added": 1482594607
+		},
+		{
+			"comment_id": 121,
+			"body": "@一二三木头人: 目前 ZeroNet 的做法是已连接的站点一旦检测到更新就同步过来让你以后看，我发布内容后在公共代理上看依然有几秒延迟（但是你依然可以在几秒钟内看更新前的内容）。而 Freenet 是你去访问才去查找并下载页面，而且每个数据块根据热门程度的不同还会经过多次中转（几秒一下可能就变成几十秒了），性能必然不会好。",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482590759",
+			"date_added": 1482594964
+		},
+		{
+			"comment_id": 122,
+			"body": "@一二三木头人: 我不挂代理表示可以上 Twister 啊！",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482590759",
+			"date_added": 1482594996
+		},
+		{
+			"comment_id": 123,
+			"body": "@一二三木头人: 我在多个运营商下都测试成功了。块链不能更新还是怎样的？要不你先挂上代理等待发现一些节点后看看能不能直连？如果可以就是初始节点被封，不可以就是被 DPI 了。",
+			"post_uri": "1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_1482590759",
+			"date_added": 1482595144
 		}
 	],
 	"flags": {},

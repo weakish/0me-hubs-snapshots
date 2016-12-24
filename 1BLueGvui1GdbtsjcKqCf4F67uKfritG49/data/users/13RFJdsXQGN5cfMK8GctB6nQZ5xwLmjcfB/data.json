@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 58,
+	"next_comment_id": 59,
 	"user_name": "Ysc3839",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -367,6 +367,12 @@
 			"body": "@Firebox: You don't need to add `<meta charset=\"UTF-8\">` because ZeroNet sets utf-8 encoding in HTTP header.",
 			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1482491965",
 			"date_added": 1482556385
+		},
+		{
+			"comment_id": 58,
+			"body": "ZeroNet不知道网站链接的人也不能访问啊，不过在公共代理访问过后就等于公开了……",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1482587114",
+			"date_added": 1482591966
 		}
 	],
 	"flags": {},
