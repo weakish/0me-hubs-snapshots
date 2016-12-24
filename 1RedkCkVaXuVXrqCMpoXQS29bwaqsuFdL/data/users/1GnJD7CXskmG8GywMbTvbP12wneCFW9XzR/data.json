@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 87,
+	"next_comment_id": 90,
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -92,7 +92,8 @@
 		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1481377438": 1481445178,
 		"1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj_1481673938": 1481717993,
 		"1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC_1481846699": 1481902512,
-		"1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd_1481873453": 1481902872
+		"1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd_1481873453": 1481902872,
+		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1482566935": 1482572057
 	},
 	"comment": [
 		{
@@ -610,6 +611,24 @@
 			"body": "@Lmath: 本来就是朋友圈。同时签所有好友的公钥，或者对称加密一帮人共享一个密钥。",
 			"post_uri": "1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd_1481873453",
 			"date_added": 1481902865
+		},
+		{
+			"comment_id": 87,
+			"body": "What happened to those two missing operators? There was not enough operators so two missing operators will cause the services to shutdown?",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1482566935",
+			"date_added": 1482572116
+		},
+		{
+			"comment_id": 88,
+			"body": "@Lmath: 拨号工具现在搞不太现实吧。现在普通家里的上网设备，手机和机顶盒应该超过电脑。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1482506537",
+			"date_added": 1482572464
+		},
+		{
+			"comment_id": 89,
+			"body": "还有不太明白P2P流量数据包签名是什么意思？如果强制签名的话岂不是必须通过服务器中转？否则两个节点直接传数据包怎么签名？",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1482506537",
+			"date_added": 1482572844
 		}
 	]
 }
