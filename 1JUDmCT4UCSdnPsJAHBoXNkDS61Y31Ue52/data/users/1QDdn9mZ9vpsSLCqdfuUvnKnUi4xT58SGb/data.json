@@ -1,0 +1,53 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 5,
+	"avatar": "generate",
+	"user_name": "Begica",
+	"hub": "1JUDmCT4UCSdnPsJAHBoXNkDS61Y31Ue52",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1482528839,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1482528871,
+			"body": "WAOO LA VERDAD QUE ESTE LENGUAJE PHITON ES MUY INTERESANTE!!!",
+			"date_added": 1482528869
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1QH1h9gnRwqziSpPAv8xJJpRqwX5ypwtyv",
+			"user_name": "Flock",
+			"date_added": 1482529326
+		},
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ",
+			"user_name": "Sirenyc",
+			"date_added": 1482529333
+		},
+		{
+			"follow_id": 3,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1BwGNVyjmbqbuofH5WbwHgPUBtxZBvLQ7K",
+			"user_name": "PORN2PEER",
+			"date_added": 1482530468
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1482530663
+		}
+	]
+}

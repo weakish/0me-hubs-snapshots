@@ -1,6 +1,6 @@
 {
-	"next_post_id": 175,
-	"next_comment_id": 200,
+	"next_post_id": 178,
+	"next_comment_id": 203,
 	"next_follow_id": 32,
 	"avatar": "jpg",
 	"user_name": "Flyman",
@@ -631,6 +631,11 @@
 			"post_id": 1482319660,
 			"body": "Joke: Dinosaurs extinct cause.\nDinosaurs extinct because of overtaxation (~ Simpsons).",
 			"date_added": 1482319486
+		},
+		{
+			"post_id": 1482491965,
+			"body": "HTML struggle.\nTried this line {\n<META content=\"text/html; charset=windows-1251\" http-equiv=\"Content-Type\">\n} on my test site. http://127.0.0.1:43110/1A6jARMdi9f7cUn6Q8RvoXqwhw2x7nDTfR/_Testing/index.html\nStill doesn't work for me. Can you see russian alphabet under english one?",
+			"date_added": 1482491790
 		}
 	],
 	"post_like": {
@@ -669,7 +674,8 @@
 		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1480526431": 1480578412,
 		"18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6_1480696388": 1480753051,
 		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1480675240": 1480754358,
-		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1481494216": 1481529001
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1481494216": 1481529001,
+		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1482491990": 1482491833
 	},
 	"comment": [
 		{
@@ -1631,6 +1637,18 @@
 			"body": "@Eibriel: That's the way, um-hum, um-hum, I like it!\nThat's the way, um-hum, um-hum, I like it!\nhttps://youtu.be/q3svW8PM_jc?t=17",
 			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1482058334",
 			"date_added": 1482320110
+		},
+		{
+			"comment_id": 200,
+			"body": "maybe editing my site before it has been propagated is bad idea. Sorry. How about now?",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1482491965",
+			"date_added": 1482492716
+		},
+		{
+			"comment_id": 202,
+			"body": "@Ysc3839: Is ZeroNet sets to be all letters bold? It looks like I managed to \"tell\" browser to use font from file, but still... all letters are too bolt, and I do not know why.",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1482491965",
+			"date_added": 1482493875
 		}
 	],
 	"follow": [

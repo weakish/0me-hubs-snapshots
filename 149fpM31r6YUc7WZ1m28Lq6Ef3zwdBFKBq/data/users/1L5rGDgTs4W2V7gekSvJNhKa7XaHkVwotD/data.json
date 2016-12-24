@@ -1,5 +1,5 @@
 {
-	"next_post_id": 15,
+	"next_post_id": 16,
 	"next_comment_id": 12,
 	"next_follow_id": 34,
 	"avatar": "generate",
@@ -61,6 +61,11 @@
 			"post_id": 1480178406,
 			"body": "Zaktualizowałem forum. Korzysta teraz głównie z tłumaczenia z osobnego pliku (korzysta więc z nowości z ZeroNet 0.5.1), ale parę rzeczy nadal musiałem zmienić w index.html.",
 			"date_added": 1480178392
+		},
+		{
+			"post_id": 1482534790,
+			"body": "Mamy przetłumaczone na język polski forum, ZeroHello oraz komunikaty z ZeroNet. Pozostało do przetłumaczenia ZeroMe oraz w mniejszym stopniu ZeroID. Tłumaczenie jest trochę sztywne. Problemem jest poniekąd to, że nie byłem pewien jak odpowiednio je przetłumaczyć, a po drugie to to, że przy dłuższym tłumaczeniu (jakieś słowo w języku angielskim ma ze dwie, trzy litery, u nas parę więcej) jest problem z tym że \"rozjeżdża\" wszystko i by wyglądało wszystko w miarę schludniej to trzeba je skracać, co czasami sprawia, że traci na odpowiednim wydźwięku (chyba że ktoś umiałby zrobić krótko a odpowiednio - ja nie umiem :P).",
+			"date_added": 1482534775
 		}
 	],
 	"post_like": {
