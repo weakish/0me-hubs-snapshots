@@ -1,6 +1,6 @@
 {
 	"next_post_id": 156,
-	"next_comment_id": 485,
+	"next_comment_id": 490,
 	"next_follow_id": 76,
 	"avatar": "jpg",
 	"user_name": "猫叉酱",
@@ -3551,6 +3551,36 @@
 			"body": "@P2P: \n@Lmath: 更多人只是希望自己发布的东西和自己想看的东西不要动不动就被和谐。这些内容还没到查水表的高度",
 			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482113542",
 			"date_added": 1482561671
+		},
+		{
+			"comment_id": 485,
+			"body": "@Lmath: meek,obfs4,前置代理，这些特征都不明显。况且出口也可以加代理。zeronet用的是hidden service，流量并不需要从出口跑到明网",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482113542",
+			"date_added": 1482563273
+		},
+		{
+			"comment_id": 486,
+			"body": "@Lmath: 显然不能，否则所有无线网都这么干了。现在一般是高密度区域ac用以太网连接ap，低密度区域用大功率无线网桥",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482513373",
+			"date_added": 1482563532
+		},
+		{
+			"comment_id": 487,
+			"body": "@Lmath: 正因为tor里面的用户大部分都不是这样，才会有很多人为之提供方便。否则前置代理的提供者和meek的云平台早就把数据交给警方了。",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482113542",
+			"date_added": 1482563681
+		},
+		{
+			"comment_id": 488,
+			"body": "@Lmath: 但是云平台和代理并非为tor而生，这种掩护并不是大家都用tor来实现的，而是tor隐藏在了非tor流量之中。另外高度匿名需求的人士也不会用tor去访问高带宽需求的东西。",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482113542",
+			"date_added": 1482564273
+		},
+		{
+			"comment_id": 489,
+			"body": "@Lmath: shadowsocksR的混淆应该还是很给力的不会比网桥和meek差",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482113542",
+			"date_added": 1482565172
 		}
 	],
 	"follow": [

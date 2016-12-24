@@ -1,5 +1,5 @@
 {
-	"next_post_id": 11,
+	"next_post_id": 13,
 	"next_comment_id": 5,
 	"next_follow_id": 82,
 	"avatar": "generate",
@@ -46,6 +46,16 @@
 			"post_id": 1482043059,
 			"body": "在国外看youku视频太卡了，这里推荐一个比较好的解决方法，可以满速下载youku视频。Step1：使用you-get解析视频地址，获得直链，you-get -u www.youku.XXXXXX ，像火星情报局解析出来有30个分段URL  Step2: 复制以上的URL，使用IDM批量下载。  最后，享受满速的快感吧！   \n有没有大神有更快更方便的方法，欢迎留言。",
 			"date_added": 1482043049
+		},
+		{
+			"post_id": 1482564331,
+			"body": "How to make more people join into this network? ",
+			"date_added": 1482564320
+		},
+		{
+			"post_id": 1482565046,
+			"body": "\u001b[0;37m15:30:56.162 \u001b[31mERROR \u001b[0;34mcore/serve: \u001b[0mPath Resolve error: Failed\n to get block for QmPEjPkZTzCoMRQDMPr8k3vaeDWbEUma9AJ96H4pnHLv4H: context cancel\ned \u001b[0;37mgateway_handler.go:509\u001b[0m\nCan anyone help me on this error code ? when I start ipfs service to see a movie, it always show me this error ? how to solve this ? \n每次我打开ipfs看视频，都会报这个错，是咋回事呢？ ",
+			"date_added": 1482565034
 		}
 	],
 	"post_like": {

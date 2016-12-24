@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 661,
+	"next_comment_id": 668,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -3979,6 +3979,48 @@
 			"body": "目前大家对局域网的热情还不是很高。要不？你们社区搞个 PT ？",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482513373",
 			"date_added": 1482513344
+		},
+		{
+			"comment_id": 661,
+			"body": "@P2P: 但是高度匿名需求的人士是需要低度匿名或者不需要匿名需求的人来“掩护”的。比如你们镇子上出了个什么事，然后被传上网了，发现传上来的 IP 发现是 Tor 的出口节点，再仔细一查这个镇子上那段时间只有你一个人使用 Tor ，你说可疑不可疑？",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482113542",
+			"date_added": 1482563209
+		},
+		{
+			"comment_id": 662,
+			"body": "@猫叉酱: 一个问题是如果 WDS 中的 AP 数足够多，那么 AP 直接还能高效协调么？",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482513373",
+			"date_added": 1482563309
+		},
+		{
+			"comment_id": 663,
+			"body": "@猫叉酱: 我这个例子举得可能不确切。比如使用 Tor 的每个人都是杀人走私虐待的那种，你说是不是一定在世界范围内都希望把这些人揪出来？",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482113542",
+			"date_added": 1482563462
+		},
+		{
+			"comment_id": 664,
+			"body": "@猫叉酱: 所以看起来 mushnet 目前有着关键的技术问题还没得到解决。估计也就特殊时期能在较大范围内发发文字信息。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482513373",
+			"date_added": 1482563731
+		},
+		{
+			"comment_id": 665,
+			"body": "@猫叉酱: 所以我才说：\n> 高度匿名需求的人士是需要低度匿名或者不需要匿名需求的人来“掩护”的。",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482113542",
+			"date_added": 1482563842
+		},
+		{
+			"comment_id": 666,
+			"body": "@猫叉酱: 在不使用网桥的情况下，貌似裸 Tor 的握手特征挺明显的，所以可以说没有隐藏到云平台下面（meek 就是设计来糊弄 GFW 的）。另外编程随想倒是多次说过高带宽需求容易被流量分析。",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482113542",
+			"date_added": 1482564669
+		},
+		{
+			"comment_id": 667,
+			"body": "@猫叉酱: 国外多数国家没有墙 Tor ，所以多数人用的就是裸 Tor 。",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482113542",
+			"date_added": 1482565492
 		}
 	],
 	"flags": {},
