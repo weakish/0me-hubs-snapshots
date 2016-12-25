@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 680,
+	"next_comment_id": 682,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -48,7 +48,8 @@
 		"1JVxDWmnkRf72L1z5EfJofptZYodRw7R2h_1482240893": 1482246363,
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482250266": 1482253374,
 		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482291537": 1482292786,
-		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482574596": 1482577234
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482574596": 1482577234,
+		"15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1482684887": 1482687610
 	},
 	"comment": [
 		{
@@ -4094,6 +4095,18 @@
 			"body": "@编程狗的博客:没事，你不继续换的话，问题应该不大。",
 			"post_uri": "1BA2fUtT5cqyWHx4p3caoEYo2YFGU5dnn4_1",
 			"date_added": 1482594152
+		},
+		{
+			"comment_id": 680,
+			"body": "@12hlearn: 默认不 pin 的情况下是怎么存储和做种的？只有在访问时做种？还是说超过最大大小后覆盖掉？",
+			"post_uri": "14MrxSzhaSXiFwsAbyhwtipmU3Lh55Xcrr_1482682822",
+			"date_added": 1482687835
+		},
+		{
+			"comment_id": 681,
+			"body": "@Ddjj: FreenetInstaller 只是一个 Freenet 的安装程序吧！",
+			"post_uri": "14MrxSzhaSXiFwsAbyhwtipmU3Lh55Xcrr_1482682822",
+			"date_added": 1482687916
 		}
 	],
 	"flags": {},
