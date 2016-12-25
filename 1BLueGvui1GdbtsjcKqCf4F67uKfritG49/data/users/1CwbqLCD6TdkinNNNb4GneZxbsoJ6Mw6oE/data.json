@@ -1,9 +1,10 @@
 {
-	"next_comment_id": 2,
+	"next_comment_id": 5,
 	"user_name": "12hlearn",
 	"hub": "1KNmG5rJUGhgUJGFbLkv2B5isaqu9PrZqi",
 	"post_like": {
-		"1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1482176741": 1482195612
+		"1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1482176741": 1482195612,
+		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1482656869": 1482659056
 	},
 	"comment": [
 		{
@@ -11,6 +12,24 @@
 			"body": "搞事搞事搞事",
 			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1482176741",
 			"date_added": 1482195641
+		},
+		{
+			"comment_id": 2,
+			"body": "@Lmath: =_=....",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1478230744",
+			"date_added": 1482624664
+		},
+		{
+			"comment_id": 3,
+			"body": "可以呀，全站加密，只有输入正确私钥才能正确解密浏览内容，知道地址啥用没有。",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1482587114",
+			"date_added": 1482624797
+		},
+		{
+			"comment_id": 4,
+			"body": "或者私钥可以加在链接里，如http://127.0.0.1:43110/Me.ZeroNetwork.bit/?私钥/xxx页面知道地址不知道私钥也是白搭",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1482587114",
+			"date_added": 1482624857
 		}
 	]
 }

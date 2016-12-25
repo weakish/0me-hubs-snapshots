@@ -1,187 +1,33 @@
 {
-	"next_post_id": 2,
-	"next_comment_id": 3,
-	"next_follow_id": 24,
-	"avatar": "jpg",
-	"user_name": "编程狗@kaffie",
+	"next_comment_id": 5,
+	"user_name": "编程狗的博客",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"intro": "让入门编程更简单\n[@编程狗的博客](http://127.0.0.1:43110/1Ld63vNnfm5SEUTbsYxB7XGo7kHQVUGghU/)\nWhich live in kaffie",
-	"post": [
-		{
-			"post_id": 1,
-			"date_added": 1482591737,
-			"body": "[【如何用zeronet写博文】之《写作方式的革命：markdown与html》](http://127.0.0.1:43110/1Ld63vNnfm5SEUTbsYxB7XGo7kHQVUGghU/?Post:4:%E5%86%99%E4%BD%9C%E6%96%B9%E5%BC%8F%E7%9A%84%E9%9D%A9%E5%91%BD%EF%BC%9Amarkdown%E4%B8%8Ehtml)"
-		}
-	],
 	"post_like": {},
 	"comment": [
 		{
 			"comment_id": 1,
-			"body": "@Lmath: 貌似已经混乱了，开始分不清自己是谁了...",
+			"body": "@Lmath: 突然发现不能发新消息了悲催啊",
 			"post_uri": "1BA2fUtT5cqyWHx4p3caoEYo2YFGU5dnn4_1",
-			"date_added": 1482594092
+			"date_added": 1482638170
 		},
 		{
 			"comment_id": 2,
-			"body": "@Lmath: 已经解决，改个名字就可以区分了",
-			"post_uri": "1BA2fUtT5cqyWHx4p3caoEYo2YFGU5dnn4_1",
-			"date_added": 1482594589
+			"body": "@简单翻墙: hehe",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482574596",
+			"date_added": 1482638675
+		},
+		{
+			"comment_id": 3,
+			"body": "我重复的用户加入hub的那个数据删除了，现在处于既在hub里面又不在hub里面的中间状态...",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482680485",
+			"date_added": 1482683555
+		},
+		{
+			"comment_id": 4,
+			"body": "能评论不能发新消息...有时间看源码咋回事...",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482680485",
+			"date_added": 1482683604
 		}
 	],
-	"follow": [
-		{
-			"follow_id": 1,
-			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
-			"auth_address": "1958F7oCppj78MP966AfojMQwHg2WUupzq",
-			"user_name": "Lmath",
-			"date_added": 1482592724
-		},
-		{
-			"follow_id": 2,
-			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
-			"auth_address": "1Ns2K86ZvbDZcpUio6KBxYfp8Y1Jc3RKiA",
-			"user_name": "老哥",
-			"date_added": 1482592758
-		},
-		{
-			"follow_id": 3,
-			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-			"auth_address": "1A8rNYWzWnhugyMV1284zgLkcfFxvwqjw7",
-			"user_name": "Bullseye",
-			"date_added": 1482593091
-		},
-		{
-			"follow_id": 4,
-			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
-			"auth_address": "1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA",
-			"user_name": "自由之潮 P2pwave",
-			"date_added": 1482593123
-		},
-		{
-			"follow_id": 5,
-			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
-			"auth_address": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ",
-			"user_name": "P2P",
-			"date_added": 1482593141
-		},
-		{
-			"follow_id": 6,
-			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
-			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
-			"user_name": "Nofish",
-			"date_added": 1482593269
-		},
-		{
-			"follow_id": 7,
-			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-			"auth_address": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL",
-			"user_name": "12hstudy <--假装是彩色",
-			"date_added": 1482593335
-		},
-		{
-			"follow_id": 8,
-			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-			"auth_address": "1JVxDWmnkRf72L1z5EfJofptZYodRw7R2h",
-			"user_name": "简单翻墙",
-			"date_added": 1482593495
-		},
-		{
-			"follow_id": 10,
-			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-			"auth_address": "1BA2fUtT5cqyWHx4p3caoEYo2YFGU5dnn4",
-			"user_name": "编程狗@kaffie",
-			"date_added": 1482595118
-		},
-		{
-			"follow_id": 11,
-			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-			"auth_address": "1BA2fUtT5cqyWHx4p3caoEYo2YFGU5dnn4",
-			"user_name": "编程狗@kaffie",
-			"date_added": 1482595315
-		},
-		{
-			"follow_id": 12,
-			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
-			"auth_address": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ",
-			"user_name": "P2P",
-			"date_added": 1482602976
-		},
-		{
-			"follow_id": 13,
-			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
-			"auth_address": "1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA",
-			"user_name": "自由之潮 P2pwave",
-			"date_added": 1482602983
-		},
-		{
-			"follow_id": 14,
-			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-			"auth_address": "1VU4YuLth4bBcRtxtGatSwBbQuLXNzgVk",
-			"user_name": "Freedomer",
-			"date_added": 1482603194
-		},
-		{
-			"follow_id": 15,
-			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
-			"auth_address": "1DtjWKsMRBqtbSJSxRUJbeaVMhxoBxsRF8",
-			"user_name": "meek",
-			"date_added": 1482603209
-		},
-		{
-			"follow_id": 16,
-			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-			"auth_address": "14Uu69Rsj5RcsSRSJvxtuGbFPCHyrNyC8Y",
-			"user_name": "人生输家",
-			"date_added": 1482603287
-		},
-		{
-			"follow_id": 17,
-			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
-			"auth_address": "17wD81Tgg4Tr1heE3b35rNfrXYwhnJRsP5",
-			"user_name": "Alien",
-			"date_added": 1482609240
-		},
-		{
-			"follow_id": 18,
-			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
-			"auth_address": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ",
-			"user_name": "P2P",
-			"date_added": 1482609284
-		},
-		{
-			"follow_id": 19,
-			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
-			"auth_address": "1MZ6f3V1cBuhNwzajMVPu8vb1wRt1p6dpt",
-			"user_name": "ChinaNet",
-			"date_added": 1482609290
-		},
-		{
-			"follow_id": 20,
-			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
-			"auth_address": "1DtjWKsMRBqtbSJSxRUJbeaVMhxoBxsRF8",
-			"user_name": "meek",
-			"date_added": 1482609298
-		},
-		{
-			"follow_id": 21,
-			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
-			"auth_address": "1MZ6f3V1cBuhNwzajMVPu8vb1wRt1p6dpt",
-			"user_name": "ChinaNet",
-			"date_added": 1482609310
-		},
-		{
-			"follow_id": 22,
-			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
-			"auth_address": "12yaKkoqVKBUi66uB5pYXamWguKFaWdDnx",
-			"user_name": "狗蛋",
-			"date_added": 1482609331
-		},
-		{
-			"follow_id": 23,
-			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
-			"auth_address": "12yaKkoqVKBUi66uB5pYXamWguKFaWdDnx",
-			"user_name": "狗蛋",
-			"date_added": 1482611194
-		}
-	]
+	"intro": "Programming Getting Started is easier\n让入门编程更简单\n[@编程狗的博客](http://127.0.0.1:43110/1Ld63vNnfm5SEUTbsYxB7XGo7kHQVUGghU/)\nI have joined 2 hubs,can not add new message again,who can help me ? Or See my blog ."
 }

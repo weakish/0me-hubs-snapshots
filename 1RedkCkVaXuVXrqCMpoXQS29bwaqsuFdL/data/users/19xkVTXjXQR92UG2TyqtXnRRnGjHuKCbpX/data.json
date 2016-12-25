@@ -1,6 +1,6 @@
 {
-	"next_post_id": 5,
-	"next_comment_id": 4,
+	"next_post_id": 6,
+	"next_comment_id": 5,
 	"next_follow_id": 19,
 	"avatar": "jpg",
 	"user_name": "Nulc",
@@ -26,6 +26,11 @@
 			"post_id": 1482064946,
 			"body": "Кто-нибудь знает почему @Erkan ушел из Zeronet?",
 			"date_added": 1482064942
+		},
+		{
+			"post_id": 1482663262,
+			"body": "Актуальные ZeroNet proxy:\nhttps://bit.no.com:43110\nhttps://onlyzero.net\nhttps://proxy1.zn.kindlyfire.me\nhttps://zero.btnova.org\nhttps://zeronet.iikb.org\nhttps://www.zerogate.tk\n",
+			"date_added": 1482663257
 		}
 	],
 	"post_like": {
@@ -50,6 +55,12 @@
 			"body": "@Zerro: 0.12.99 beta с сайта [https://www.namecoin.org/download/betas/](https://www.namecoin.org/download/betas/) windows 64-bit installer при попытке создать новое имя говорит что все деньги потрачены и обнуляет кошелек ничего не создав. Копирование ранее сохраненного кошелька в версию 0.3.80 восстанавливает монеты и создает имена нормально. Сейчас скачал версию 0.13.99 [https://www.reddit.com/r/Namecoin/comments/4hj8pn/namecoin_core_manage_names_tab_testing_binaries/](https://www.reddit.com/r/Namecoin/comments/4hj8pn/namecoin_core_manage_names_tab_testing_binaries/), синхронизируется очень медленно. С нуля закачивает blockchain уже второй день. После синхронизации буду пробовать создание имен.",
 			"post_uri": "19xkVTXjXQR92UG2TyqtXnRRnGjHuKCbpX_1472495900",
 			"date_added": 1472697899
+		},
+		{
+			"comment_id": 4,
+			"body": "@Alipay: Thanks",
+			"post_uri": "19xkVTXjXQR92UG2TyqtXnRRnGjHuKCbpX_1482663262",
+			"date_added": 1482664179
 		}
 	],
 	"follow": [
