@@ -1,5 +1,5 @@
 {
-	"next_post_id": 22,
+	"next_post_id": 23,
 	"next_comment_id": 34,
 	"next_follow_id": 21,
 	"avatar": "jpg",
@@ -59,6 +59,11 @@
 			"post_id": 1481794104,
 			"body": "Money Network update. Still only private chat. Added support for deep link to chat using ZeroId, nanasi or moneynetwork certificates. Example with my moneynetwork cert. Same cert technique as in nanasi text board.\n\nPM: http://127.0.0.1:43110/moneynetwork/?path=/chat2/16R2WrLv3rRrx@moneynetwork",
 			"date_added": 1481794083
+		},
+		{
+			"post_id": 1482764485,
+			"body": "[Money Network](/moneynetwork.bit)\nProject update. Added optional files and public chat. Now encrypted private and group chat and unencrypted public chat including deep links. Added kaffie Id.",
+			"date_added": 1482764463
 		}
 	],
 	"post_like": {
