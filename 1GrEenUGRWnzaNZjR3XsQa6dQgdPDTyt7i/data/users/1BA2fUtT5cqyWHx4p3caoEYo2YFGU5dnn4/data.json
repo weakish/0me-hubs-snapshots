@@ -1,8 +1,10 @@
 {
-	"next_comment_id": 5,
+	"next_comment_id": 6,
 	"user_name": "编程狗的博客",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"post_like": {},
+	"post_like": {
+		"1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1480995948": 1482760061
+	},
 	"comment": [
 		{
 			"comment_id": 1,
@@ -27,6 +29,12 @@
 			"body": "能评论不能发新消息...有时间看源码咋回事...",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482680485",
 			"date_added": 1482683604
+		},
+		{
+			"comment_id": 5,
+			"body": "还得开启dehub模式...",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481527750",
+			"date_added": 1482760003
 		}
 	],
 	"intro": "Programming Getting Started is easier\n让入门编程更简单\n[@编程狗的博客](http://127.0.0.1:43110/1Ld63vNnfm5SEUTbsYxB7XGo7kHQVUGghU/)\nI have joined 2 hubs,can not add new message again,who can help me ? Or See my blog ."
