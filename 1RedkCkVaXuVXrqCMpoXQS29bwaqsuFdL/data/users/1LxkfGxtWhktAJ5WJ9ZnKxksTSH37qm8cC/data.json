@@ -1,7 +1,7 @@
 {
-	"next_post_id": 80,
+	"next_post_id": 81,
 	"next_comment_id": 56,
-	"next_follow_id": 14,
+	"next_follow_id": 15,
 	"avatar": "generate",
 	"user_name": "Firebox",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -377,6 +377,11 @@
 			"post_id": 1482741699,
 			"body": "Finally I have ZeroNet running on Ubuntu. I will set up a GitHub repo for ZeroMux Bundle to allow collaboration and review, but the original ZeroMux Bundle will always be hosted on ZeroNet.\n\nIt took me half an hour to download every file of my site.",
 			"date_added": 1482741620
+		},
+		{
+			"post_id": 1482746972,
+			"body": "The sound card driver in Ubuntu made my computer speaker into an analog radio.\n\nFrom the Internet, ways to fix that problem include turning down the volume in PulseAudio mixer, in ALSA mixer and preventing them from merging volumes by editing a config file, but none of them works. I switched back to Windows and turned off all audio enhancing software, but the sound quality was still better than Ubuntu.\n\nI asked my friends and none of them had ever encountered such problem. Perhaps I just couldn't find an appropriate driver.",
+			"date_added": 1482746892
 		}
 	],
 	"post_like": {
@@ -804,6 +809,13 @@
 			"auth_address": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6",
 			"user_name": "Emeraude",
 			"date_added": 1479029769
+		},
+		{
+			"follow_id": 14,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1BNmjz9tBLY3M1tq2z7DKvA1LjFXYsmLd9",
+			"user_name": "sthetz",
+			"date_added": 1482747638
 		}
 	],
 	"settings": {
