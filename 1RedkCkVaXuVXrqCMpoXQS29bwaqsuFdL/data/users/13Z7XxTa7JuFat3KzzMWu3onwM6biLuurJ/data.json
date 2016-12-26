@@ -1,7 +1,7 @@
 {
-	"next_post_id": 51,
+	"next_post_id": 52,
 	"next_comment_id": 295,
-	"next_follow_id": 229,
+	"next_follow_id": 231,
 	"avatar": "jpg",
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -252,6 +252,11 @@
 			"post_id": 1481557962,
 			"body": "\nGo版的ZeroNet实验版的linux版已经可以下载，为了避免跟原版UI（浏览器）端口冲突，可以用--port 参数指定另一个端口 \n http://127.0.0.1:43110/g1itch.bit/ZeroGo-lin-0.0.1.run",
 			"date_added": 1481557912
+		},
+		{
+			"post_id": 1482761239,
+			"body": "http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1_1BNmjz9tBLY3M1tq2z7DKvA1LjFXYsmLd9 0chan.bit 原作者现身更新，支持真正匿名发帖，但是不防spam",
+			"date_added": 1482761188
 		}
 	],
 	"post_like": {
@@ -3621,6 +3626,20 @@
 			"auth_address": "15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5",
 			"user_name": "公共",
 			"date_added": 1482760685
+		},
+		{
+			"follow_id": 229,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1KojMUSr1fBEwwTJAa1kTH9tqmnAhjFwRp",
+			"user_name": "Cyan",
+			"date_added": 1482762763
+		},
+		{
+			"follow_id": 230,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "12vNNA9QZKJfaTi3uJ5X6ZegCKw3X4TKR6",
+			"user_name": "Wawawa",
+			"date_added": 1482764177
 		}
 	],
 	"settings": {
