@@ -1,5 +1,5 @@
 {
-	"next_post_id": 85,
+	"next_post_id": 86,
 	"next_comment_id": 54,
 	"next_follow_id": 28,
 	"avatar": "png",
@@ -383,6 +383,11 @@
 			"post_id": 1482799785,
 			"body": "**github** is not social network\nit's for me an development network or development platform.\nAnd You?",
 			"date_added": 1482799701
+		},
+		{
+			"post_id": 1482849096,
+			"body": "créer vos question c'est bien mais comment savoire le niveaux des question ?\n\n1. Executé Gephi\n2. Créer 5 Column A B C D Résponse\n3. metter vos question dans label ainsi que les 5 column\n4. en même temps que l'etape prècedant il faut lié une question du nom propre vers une question qui est en rapport plus le rapport est haut plus vous monté le poid du lien\n5. une fois un max de question allez dans statistique et executé pagerank et coché prendre en compte les poid des liens\n6. voila vous avez les niveau des question bien sur plus c'est bas plus la queston est difficile mais plus y a de question plus c'est précis",
+			"date_added": 1482849011
 		}
 	],
 	"post_like": {
