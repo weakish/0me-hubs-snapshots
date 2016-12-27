@@ -1,7 +1,7 @@
 {
-	"next_post_id": 2,
+	"next_post_id": 3,
 	"next_comment_id": 1,
-	"next_follow_id": 1,
+	"next_follow_id": 2,
 	"avatar": "generate",
 	"user_name": "Andriy",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -11,9 +11,22 @@
 			"post_id": 1,
 			"date_added": 1471945029,
 			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1482827141,
+			"body": "test",
+			"date_added": 1482827139
 		}
 	],
 	"post_like": {},
 	"comment": [],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1338k4e6RTWYSCKj2Vp9TtqGMJG4X3C9NZ",
+			"user_name": "Andriy",
+			"date_added": 1482827105
+		}
+	]
 }
