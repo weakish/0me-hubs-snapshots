@@ -1,6 +1,6 @@
 {
 	"next_post_id": 71,
-	"next_comment_id": 261,
+	"next_comment_id": 262,
 	"next_follow_id": 268,
 	"avatar": "png",
 	"user_name": "Lmath",
@@ -1819,6 +1819,12 @@
 			"body": "`cd /d \"%~dp0\"`",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1482853966",
 			"date_added": 1482856649
+		},
+		{
+			"comment_id": 261,
+			"body": "@weakish: \n> 那每块硬盘、每块键盘、每块显示器都会自带一个足够强力的系统，监测、记录、传输不在话下。\n未来芯片成本进一步下降，移动网络足够高速以后，机器的主体计算性能与存储，处理能力是否也会大副上升？这样的话，还是不够深度监控。\n由于每个厂商都加入了心跳包机制，那么能否严格管理防止伪造心跳包？\n另外以后能否实施，一定程度上也就看开源硬件体系能否正常运作了，如果地毯货随处可见而不带监控，实际上这个体系也就运行不下去了。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1482506537",
+			"date_added": 1482860938
 		}
 	],
 	"follow": [
@@ -3678,6 +3684,8 @@
 		"1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_41": 1481877108,
 		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_107": 1481878022,
 		"1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_6": 1482155692,
-		"1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd_17": 1482208601
+		"1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd_17": 1482208601,
+		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_90": 1482860799,
+		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_91": 1482860856
 	}
 }

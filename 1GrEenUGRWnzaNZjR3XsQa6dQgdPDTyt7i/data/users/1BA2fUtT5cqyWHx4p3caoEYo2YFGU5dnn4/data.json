@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 10,
+	"next_comment_id": 12,
 	"user_name": "编程狗的博客",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {
@@ -59,6 +59,18 @@
 			"body": "@Firedog: 可以用别的域名",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481605839",
 			"date_added": 1482842401
+		},
+		{
+			"comment_id": 10,
+			"body": "[zero域名解析原理](https://www.reddit.com/r/zeronet/comments/30vgtr/namecoin_bit_domains_support_added_in_latest/)他们只解析ziroid.bit签发的用户。解析方式是本地域名名单。所以，如果你自己的域名签发的用户，你可以自由解析他们的域名，你可以造一个tib的域名出来，或者任何你想要的...",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481626236",
+			"date_added": 1482859658
+		},
+		{
+			"comment_id": 11,
+			"body": "貌似这个网站做到了-> http://127.0.0.1:43110/0chan.bit",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481626236",
+			"date_added": 1482860008
 		}
 	],
 	"intro": "Programming Getting Started is easier\n让入门编程更简单\n[@编程狗的博客](http://127.0.0.1:43110/1Ld63vNnfm5SEUTbsYxB7XGo7kHQVUGghU/)\nI have joined 2 hubs,can not add new message again,who can help me ? Or See my blog ."
