@@ -1,5 +1,5 @@
 {
-	"next_post_id": 85,
+	"next_post_id": 86,
 	"next_comment_id": 74,
 	"next_follow_id": 229,
 	"avatar": "png",
@@ -426,6 +426,11 @@
 			"post_id": 1482573118,
 			"body": "Just fried some peanuts, which increased the PM 2.5 by 8 ug/m^3 in kitchen. So frying will not be a source of local air pollution  if you have extractor hood opened and keep the oil temperature low. ",
 			"date_added": 1482573034
+		},
+		{
+			"post_id": 1482853313,
+			"body": "The confusing^W smarty Kotlin\n\nWhat would be the type of `f` in the following line?\n\n```kotlin\nval s: Int = f(1, 2, 3)\n```\n\nNot considering subtyping and generic,\nthe type f may be one of:\n\n1. `(Int, Int, Int) -> Int`, the most  intuitive one\n2. `(IntArray) -> Int`, a variadic function\n3. `f`, an object named `f` with an `invoke` method",
+			"date_added": 1482853228
 		}
 	],
 	"post_like": {

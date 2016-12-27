@@ -1,5 +1,5 @@
 {
-	"next_post_id": 69,
+	"next_post_id": 70,
 	"next_comment_id": 259,
 	"next_follow_id": 265,
 	"avatar": "png",
@@ -289,6 +289,11 @@
 			"post_id": 1482695697,
 			"body": "Sadly, Cyanogenmod has been gone.\nhttps://www.cyanogenmod.org/",
 			"date_added": 1482695629
+		},
+		{
+			"post_id": 1482853966,
+			"body": "最近，有一些新用户反映 ZeroBundle 运行后闪退的情况。经过查证，这个问题是该用户使用了管理员权限（关闭 UAC 或者使用 Administrator 帐户）来运行 zeronet.cmd 所引起，在管理员权限的情况下默认的工作目录是 `%SystemRoot%\\System32` 而不是当前目录，所以造成了找不到文件的现象。\n之后我去看了下 GitHub ，发现 https://github.com/HelloZeroNet/ZeroBundle/blob/master/zeronet.cmd 里面有切换到当前目录的命令。再仔细一看，https://github.com/HelloZeroNet/ZeroBundle/blob/master/dist/ZeroBundle-win.zip 里面的 `zeronet.cmd` 没有更新，导致了这个问题长期存在。",
+			"date_added": 1482853897
 		}
 	],
 	"post_like": {
