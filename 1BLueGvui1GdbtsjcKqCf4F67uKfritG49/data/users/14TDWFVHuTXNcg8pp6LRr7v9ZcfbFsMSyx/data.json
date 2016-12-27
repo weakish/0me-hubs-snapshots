@@ -1,5 +1,5 @@
 {
-	"next_post_id": 122,
+	"next_post_id": 123,
 	"next_comment_id": 158,
 	"next_follow_id": 231,
 	"avatar": "jpg",
@@ -544,6 +544,11 @@
 			"post_id": 1482789803,
 			"body": "Find Out Your 2017 Horoscope! ⌘ http://www.sadanduseless.com/2016/12/2017-horoscope/",
 			"date_added": 1482789682
+		},
+		{
+			"post_id": 1482833592,
+			"body": "**Update**: Issue fixed in [#1791](https://github.com/HelloZeroNet/ZeroNet/commit/9a1735f37dfc7f9a2f734783f38ca5c8a4e9cbc3).\n\nWarning: Don't upgrade Python2's `gevent` module from 1.1.2 to 1.2.0. If you do, Zeronet won't start.\n\n\nhttps://github.com/HelloZeroNet/ZeroNet/issues/720\n",
+			"date_added": 1482833470
 		}
 	],
 	"post_like": {

@@ -1,5 +1,5 @@
 {
-	"next_post_id": 81,
+	"next_post_id": 82,
 	"next_comment_id": 56,
 	"next_follow_id": 15,
 	"avatar": "generate",
@@ -382,6 +382,11 @@
 			"post_id": 1482746972,
 			"body": "The sound card driver in Ubuntu made my computer speaker into an analog radio.\n\nFrom the Internet, ways to fix that problem include turning down the volume in PulseAudio mixer, in ALSA mixer and preventing them from merging volumes by editing a config file, but none of them works. I switched back to Windows and turned off all audio enhancing software, but the sound quality was still better than Ubuntu.\n\nI asked my friends and none of them had ever encountered such problem. Perhaps I just couldn't find an appropriate driver.",
 			"date_added": 1482746892
+		},
+		{
+			"post_id": 1482833691,
+			"body": "### ZeroMux Bundle GitHub mirror\nhttps://github.com/MuxZeroNet/ZeroMux\nNow you can open issues and submit pull requests.\n\nIf you want to submit issues anonymously, send me a ZeroMail.",
+			"date_added": 1482833610
 		}
 	],
 	"post_like": {
