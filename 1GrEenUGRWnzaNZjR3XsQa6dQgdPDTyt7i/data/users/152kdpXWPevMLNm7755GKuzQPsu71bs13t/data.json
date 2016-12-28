@@ -1,6 +1,6 @@
 {
 	"next_post_id": 88,
-	"next_comment_id": 54,
+	"next_comment_id": 55,
 	"next_follow_id": 28,
 	"avatar": "png",
 	"user_name": "Great Sick",
@@ -20,7 +20,7 @@
 		},
 		{
 			"post_id": 1479561150,
-			"body": "how to make 3D/Stereo Image\n\n1. Open Image With GIMP\n2. add layout black\n3. using scissors select tool and select object from far in black to close in white\n4. export image depth map\n5. and use ImageMagick and type from command `composite depthmap.png baseimage.png -displace -10x0 left.png` and `composite depthmap.png baseimage.png -displace 10x0 right.png`\n6. and with bino you select left and right good movie!",
+			"body": "how to make 3D/Stereo Image\n\n1. Open Image With GIMP\n2. add layout black\n3. using scissors tool and select object from far in black to close in white\n4. export image depth map\n5. and use ImageMagick and type from command `composite depthmap.png baseimage.png -displace -10x0 left.png` and `composite depthmap.png baseimage.png -displace 10x0 right.png`\n6. and with bino you select left and right good movie! or `composite -stereo 0 right.png left.png stereo.png`",
 			"date_added": 1479561147
 		},
 		{
@@ -57,7 +57,7 @@
 		},
 		{
 			"post_id": 1479592358,
-			"body": "how to encode/decode file/text in morse :::\n`base32 -w 0 < youfile | morse -s > file.morse`\nand decode ...\n`morse -d < file.morse | base32 -d > yourfile`\nNext :: how to encrypted communication use OpenSSL Command!\nUsed :::\n1. base32 (not work for qubes os)\n2. morse (require bsdgames)",
+			"body": "how to encode/decode file/text in morse :::\n`base32 -w 0 < youfile | morse -s > file.morse`\nand decode ...\n`morse -d < file.morse | base32 -d > yourfile`\nNext :: how to encrypted communication use OpenSSL Command!\nUsed :::\n1. base32 (not work for qubes os and debian)\n2. morse (require bsdgames)",
 			"date_added": 1479592347
 		},
 		{
@@ -454,7 +454,7 @@
 		},
 		{
 			"comment_id": 8,
-			"body": "@Durand: i do not use gmic for 3d, i go to website of author is dead (404) it's sad, this tuto is good.",
+			"body": "@Durand: i do not use gmic for 3d, i go to website of author is dead (404) it's sad, my tuto is good.",
 			"post_uri": "152kdpXWPevMLNm7755GKuzQPsu71bs13t_1479561150",
 			"date_added": 1479583279
 		},
@@ -724,9 +724,15 @@
 		},
 		{
 			"comment_id": 53,
-			"body": "all :: OK\nbut no random on github / mais rien au hasard sur github",
+			"body": "all :: OK\nbut there no random on github / mais y a rien au hasard sur github",
 			"post_uri": "152kdpXWPevMLNm7755GKuzQPsu71bs13t_1482799785",
 			"date_added": 1482831608
+		},
+		{
+			"comment_id": 54,
+			"body": "the like repo is star",
+			"post_uri": "152kdpXWPevMLNm7755GKuzQPsu71bs13t_1482799785",
+			"date_added": 1482934439
 		}
 	],
 	"follow": [
