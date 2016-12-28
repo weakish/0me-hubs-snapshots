@@ -1,5 +1,5 @@
 {
-	"next_post_id": 82,
+	"next_post_id": 83,
 	"next_comment_id": 56,
 	"next_follow_id": 15,
 	"avatar": "generate",
@@ -193,11 +193,6 @@
 			"date_added": 1478569304
 		},
 		{
-			"post_id": 1478581931,
-			"body": "Does ZeroNet has an API on optional file peer numbers?",
-			"date_added": 1478581891
-		},
-		{
 			"post_id": 1478658543,
 			"body": "For optional files hosted on my computer before ZeroNet v0.5 is released, there is no record I can see in the file manager UI, but they are on the disk. For optional files published later on today, I can see their records, though. @Nofish: ??",
 			"date_added": 1478658502
@@ -251,7 +246,7 @@
 		},
 		{
 			"post_id": 1479458357,
-			"body": "The only thing left on my ZeroMux [Big File Sharing](/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/sample-loader/) Program is to write a very simple tutorial on how to download Python 2.7.\n\n~~If you can't wait, you can download the program anyway. Go to [this page](/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/bundle/), download the bundle, and run **wizard.py** instead.~~ Once you have uploaded your files, place the `loader` folder onto your site.\n\nUnfinished features:\n- Delete folders and files\n\nWarning:\nZeroMux is **experimental** software. You should always keep the original copy of your files securely, and should not rely on ZeroMux to store your data.\n\nTo avoid running malicious code, Please download ZeroMux from my site only! **Bookmark my site!**",
+			"body": "The only thing left on my ZeroMux [Big File Sharing](/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/sample-loader/) Program is to write a very simple tutorial on how to download Python 2.7.\n\nOnce you have uploaded your files, place the `loader` folder onto your site.\n\n\nWarning:\nZeroMux is **experimental** software. You should always keep the original copy of your files securely, and should not rely on ZeroMux to store your data.\n\nTo avoid running malicious code, Please download ZeroMux from my site only! **Bookmark my site!**",
 			"date_added": 1479458305
 		},
 		{
@@ -278,11 +273,6 @@
 			"post_id": 1479625936,
 			"body": "@Nofish: Does ZeroNet refuse to save files that have `[]` in their names?",
 			"date_added": 1479625878
-		},
-		{
-			"post_id": 1479927982,
-			"body": "Minimized JavaScript programs try to request source map files `.map`. How can I disable these requests?",
-			"date_added": 1479927923
 		},
 		{
 			"post_id": 1479967047,
@@ -313,7 +303,7 @@
 			"post_id": 1481269974,
 			"date_added": 1481269908,
 			"meta": "{\"img\":\"900,600,fffeeeddecceccfeefddfbbf,0111111110020000000013445656501153747731110000000001000000000010110100\"}",
-			"body": "Choosing chunk size"
+			"body": "A better chunk size algorithm"
 		},
 		{
 			"post_id": 1481435226,
@@ -344,7 +334,7 @@
 		},
 		{
 			"post_id": 1481791386,
-			"body": "ZeroMux is an MP4 multiplexer written in JavaScript. ZeroMux has more than 2000 lines of code! I made a web page to show the code I wrote.\n[Source code of mp4parser.js](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/code/view.html?url=../big/js/mp4parser.js) (470 lines)\n[Source code of mp4builder.js](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/code/view.html?url=../big/js/mp4builder.js) (803 lines)\n[Source code of mp4worker.js](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/code/view.html?url=../big/js/mp4worker.js) (555 lines)\n\n",
+			"body": "ZeroMux is an MP4 multiplexer written in JavaScript. ZeroMux has more than 2000 lines of code! I made a web page to show the code I wrote.\n[Source code of mp4parser.js](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/code/view.html?url=../big/js/mp4parser.js) (470 lines)\n[Source code of mp4builder.js](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/code/view.html?url=../big/js/mp4builder.js) (803 lines)\n[Source code of mp4worker.js](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/code/view.html?url=../big/js/mp4worker.js) (555 lines)\n\n### ZeroMux Bundle GitHub mirror\nhttps://github.com/MuxZeroNet/ZeroMux\nNow you can open issues and submit pull requests.\n\nIf you want to submit issues anonymously, send me a ZeroMail.\n\n",
 			"date_added": 1481791313
 		},
 		{
@@ -387,6 +377,11 @@
 			"post_id": 1482833691,
 			"body": "### ZeroMux Bundle GitHub mirror\nhttps://github.com/MuxZeroNet/ZeroMux\nNow you can open issues and submit pull requests.\n\nIf you want to submit issues anonymously, send me a ZeroMail.",
 			"date_added": 1482833610
+		},
+		{
+			"post_id": 1482913659,
+			"body": "### ZeroMux Bundle v0.1.3\nThe new ZeroMux Bundle comes with some minor improvements. [GitHub commit](https://github.com/MuxZeroNet/ZeroMux/commit/b269147d9bc53ac7ac3d4497a4184bbb8c96bb70)\n\n- Adopted a better chunk size algorithm, avoiding small remainders when cutting files apart.\n- Fixed sorting algorithm in file viewer.\n- Fixed missing `files` folder bug, and\n- Improved coding style.\n\n[Download](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/bundle/) ZeroMux Bundle from ZeroNet (Make sure it says `v0.1.3`)",
+			"date_added": 1482913577
 		}
 	],
 	"post_like": {
