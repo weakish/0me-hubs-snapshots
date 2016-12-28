@@ -1,5 +1,5 @@
 {
-	"next_post_id": 83,
+	"next_post_id": 85,
 	"next_comment_id": 56,
 	"next_follow_id": 15,
 	"avatar": "generate",
@@ -382,6 +382,16 @@
 			"post_id": 1482913659,
 			"body": "### ZeroMux Bundle v0.1.3\nThe new ZeroMux Bundle comes with some minor improvements. [GitHub commit](https://github.com/MuxZeroNet/ZeroMux/commit/b269147d9bc53ac7ac3d4497a4184bbb8c96bb70)\n\n- Adopted a better chunk size algorithm, avoiding small remainders when cutting files apart.\n- Fixed sorting algorithm in file viewer.\n- Fixed missing `files` folder bug, and\n- Improved coding style.\n\n[Download](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/bundle/) ZeroMux Bundle from ZeroNet (Make sure it says `v0.1.3`)",
 			"date_added": 1482913577
+		},
+		{
+			"post_id": 1482916361,
+			"body": "[This site](https://proxy1.zn.kindlyfire.me/1GP4i6xvZmGWWL2ABLBhwWrULUkyAApLyV/content.json) has only one file, but KindlyFire says it has 908MB of optional files. The file names indicate that the site owner pulled videos out of his camera and uploaded them, as if ZeroNet was a free unlimited backup service. They were created on Dec. 9th and were removed very soon, but the orphan record was not cleaned up.\n\n### Reminder, again:\nZeroNet does **not** keep any part of your site **private.** Please use ZeroMux, and ZeroNet, to write, to share, and to give, not to abuse bandwidth or host personal files.",
+			"date_added": 1482916278
+		},
+		{
+			"post_id": 1482917954,
+			"body": "Interesting [issues](https://github.com/HelloZeroNet/ZeroNet/issues) of ZeroNet\n\n[#399](https://github.com/HelloZeroNet/ZeroNet/issues/399) Entirely useless!\n[#459](https://github.com/HelloZeroNet/ZeroNet/issues/459) Perl?\n[#519](https://github.com/HelloZeroNet/ZeroNet/issues/519) PHP support\n[#522](https://github.com/HelloZeroNet/ZeroNet/issues/522) ZeroNet, click and stop\n[#492](https://github.com/HelloZeroNet/ZeroNet/issues/492) [#625](https://github.com/HelloZeroNet/ZeroNet/issues/625) Don't want to seed!\n[#709](https://github.com/HelloZeroNet/ZeroNet/issues/709) For those who likes to write: used up 48kb in 3 days.\n[#717](https://github.com/HelloZeroNet/ZeroNet/issues/717) Tor mode doesn't work when Tor doesn't work",
+			"date_added": 1482917870
 		}
 	],
 	"post_like": {
