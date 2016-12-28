@@ -260,7 +260,7 @@
 		},
 		{
 			"post_id": 1482896228,
-			"body": "我在PC上试过python2.7.2和老版本依赖，也试过禁用openssl和encryption，无问题。所以[之前的android APK打包尝试（已更新）](http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Post/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ/1479740084)并不是python2.7.2的锅。也就没有必要等python2.7.12的移植，和GO版的开发了（貌似都已经停滞）。大家可以试试，确定是哪的问题，也可以反馈给python-for-android，毕竟它的维护挺活跃的，也有很多成功案例。希望大家能继续折腾（我的水平有限，时间有限） @ysc3839 @weakish @lmath @nekocross @linker @rainlime @cxgreat2014 @cnwfjswr01 @12hlearn @Secreat @Strawing @编程狗的博客  @Duckhere（有@遗漏的请见谅）",
+			"body": "我在PC上试过python2.7.2和老版本依赖，也试过禁用openssl和encryption，无问题。所以[之前的android APK打包尝试（已更新）](http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Post/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ/1479740084)并不是python2.7.2的锅。也就没有必要等python2.7.12的移植，和GO版的开发了（貌似都已经停滞）。大家可以试试，确定是哪的问题，可以反馈给python-for-android，毕竟它的维护挺活跃的，也有很多成功案例。希望大家能继续折腾（我的水平有限，时间有限） @ysc3839 @weakish @lmath @nekocross @linker @rainlime @cxgreat2014 @cnwfjswr01 @12hlearn @Secreat @Strawing @编程狗的博客  @Duckhere（有@遗漏的请见谅）",
 			"date_added": 1482896176
 		}
 	],
@@ -2111,7 +2111,7 @@
 		},
 		{
 			"comment_id": 298,
-			"body": "@Nekocross: Web Server Gateway Interface ？旧版toolchain上不像，因为一部分网站能显示。而新版toolchain直接闪退，不知为何。",
+			"body": "@Nekocross: Web Server Gateway Interface ？旧版toolchain上不像，因为一部分网站能显示，不能显示的网站后端log是hash failed。而新版toolchain直接闪退（目测python都没运行起来），不知为何。",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1482896228",
 			"date_added": 1482904142
 		}

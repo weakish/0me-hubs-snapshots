@@ -1,7 +1,7 @@
 {
 	"next_post_id": 5,
 	"next_comment_id": 1,
-	"next_follow_id": 2,
+	"next_follow_id": 3,
 	"avatar": "jpg",
 	"user_name": "Chenshaoju",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
@@ -31,5 +31,13 @@
 	],
 	"post_like": {},
 	"comment": [],
-	"follow": []
+	"follow": [
+		{
+			"follow_id": 2,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GqNvyASzGygkFEbzp42RWucNprVdkcQzq",
+			"user_name": "Chenshaoju",
+			"date_added": 1482907722
+		}
+	]
 }
