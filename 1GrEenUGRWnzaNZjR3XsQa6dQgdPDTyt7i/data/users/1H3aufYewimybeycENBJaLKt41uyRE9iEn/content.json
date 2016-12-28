@@ -4,14 +4,18 @@
  "cert_sign": "HABSpUJNcGLw+VtoBXD4cDQVqMlXsccP3IG9XVXYIqKAhASVOwWOjy5hyWq4S1wWMjDwyidGvMX2FiXgFGI7Dfo=",
  "cert_user_id": "tedx@zeroid.bit",
  "files": {
+  "avatar.png": {
+   "sha512": "a9f67dcf57505a7d35d99490098f6329fd9ede2dcc2b5c33db17171d05fae7e2",
+   "size": 1241
+  },
   "data.json": {
-   "sha512": "7ee08174857eb2f638c1624c22086c9ac454172889169227c39541ef6a064430",
-   "size": 688
+   "sha512": "ea896940018b213dcf5a047ae074c0a359f549d569f685870c962f34edc177ec",
+   "size": 683
   }
  },
  "inner_path": "data/users/1H3aufYewimybeycENBJaLKt41uyRE9iEn/content.json",
- "modified": 1482944196.415,
+ "modified": 1482944508.062,
  "signs": {
-  "1H3aufYewimybeycENBJaLKt41uyRE9iEn": "G/NASFvbmGpK4+UsFwAVGfOTTVzpPonDnpiTa6ModOVbZ72zgNxMsuE3Un0DsPULUCatYHVhElKlM5+x3jVep7w="
+  "1H3aufYewimybeycENBJaLKt41uyRE9iEn": "G7UcB9WSjVmOS4OCSn28QbUYM9tLIRnWBlODmddoXWwcUTnJpFZGYfoUWcgMye+31MbisHfojyj4h2m/6/q7BiM="
  }
 }
