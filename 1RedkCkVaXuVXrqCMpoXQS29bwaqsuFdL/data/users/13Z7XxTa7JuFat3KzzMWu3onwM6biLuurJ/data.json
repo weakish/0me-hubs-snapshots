@@ -1,6 +1,6 @@
 {
 	"next_post_id": 53,
-	"next_comment_id": 299,
+	"next_comment_id": 301,
 	"next_follow_id": 234,
 	"avatar": "jpg",
 	"user_name": "P2P",
@@ -2114,6 +2114,18 @@
 			"body": "@Nekocross: Web Server Gateway Interface ？旧版toolchain上不像，因为一部分网站能显示，不能显示的网站后端log是hash failed。而新版toolchain直接闪退（目测python都没运行起来），不知为何。",
 			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1482896228",
 			"date_added": 1482904142
+		},
+		{
+			"comment_id": 299,
+			"body": "@Secreat: 已经发了，剩下的看你们的了 http://127.0.0.1:43110/gfwtalk.bit/?Topic:52_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ/+ZeroNet+APK",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1482896228",
+			"date_added": 1482911438
+		},
+		{
+			"comment_id": 300,
+			"body": "@Secreat: 好像最早是python-for-android，然后慢慢发展需要一套触控的UI，同时想搞定iOS，整个大项目就命名为kivy。现在python-for-android就负责kivy在androidi下的打包",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1482896228",
+			"date_added": 1482911699
 		}
 	],
 	"follow": [
