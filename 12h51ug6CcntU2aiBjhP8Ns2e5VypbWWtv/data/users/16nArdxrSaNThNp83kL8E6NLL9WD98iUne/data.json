@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 26,
+	"next_comment_id": 28,
 	"user_name": "Jayofthezero",
 	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
 	"post_like": {
@@ -163,6 +163,18 @@
 			"body": "@ExeciN: That doesn't work very well if you modified code. For example, blindly merging `all.js` or `all.css` with an updated version could cause things to break if you made a decent amount of changes. Writing a script that would be able to account for changes you made would probably involve more work than just skimming through things real quick with WinMerge. \n\nOf course if the source for whatever you're cloning is available on GitHub(Like all the main Zero* sites are) you could just fork it that way and use git to help you manage merges instead.",
 			"post_uri": "15znkmFgxeY8XM7nXD7JHUxJyR19AX1VKa_1473328126",
 			"date_added": 1473519509
+		},
+		{
+			"comment_id": 26,
+			"body": "That's a bug in Windows Guests. There's a fix for it, but I can't remember off the top of my head. I'll look for it. ",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1482929926",
+			"date_added": 1482959827
+		},
+		{
+			"comment_id": 27,
+			"body": "Found it: http://www.virtualbox.org/manual/ch12.html#idm10208",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1482929926",
+			"date_added": 1482962378
 		}
 	]
 }
