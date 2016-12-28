@@ -1,7 +1,7 @@
 {
-	"next_post_id": 86,
-	"next_comment_id": 74,
-	"next_follow_id": 229,
+	"next_post_id": 87,
+	"next_comment_id": 75,
+	"next_follow_id": 242,
 	"avatar": "png",
 	"user_name": "weakish",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -431,6 +431,11 @@
 			"post_id": 1482853313,
 			"body": "The confusing^W smarty Kotlin\n\nWhat would be the type of `f` in the following line?\n\n```kotlin\nval s: Int = f(1, 2, 3)\n```\n\nNot considering subtyping and generic,\nthe type f may be one of:\n\n1. `(Int, Int, Int) -> Int`, the most  intuitive one\n2. `(IntArray) -> Int`, a variadic function\n3. `f`, an object named `f` with an `invoke` method",
 			"date_added": 1482853228
+		},
+		{
+			"post_id": 1482929926,
+			"body": "USB 3 external disks are 10-20% slower on VirtualBox.",
+			"date_added": 1482929840
 		}
 	],
 	"post_like": {
@@ -911,6 +916,12 @@
 			"body": "@Linkerlin: Thanks. Fixed.",
 			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1482325419",
 			"date_added": 1482414214
+		},
+		{
+			"comment_id": 74,
+			"body": "@Arkre: I think Scala is an experimental language, somehow like Haskell. Full of experimental academic features. ",
+			"post_uri": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_1482853313",
+			"date_added": 1482927890
 		}
 	],
 	"follow": [
@@ -2446,6 +2457,97 @@
 			"auth_address": "1JdznhagMQN9gDuWM5YDtmdAXzEiZ6vm72",
 			"user_name": "Zerosuperdev",
 			"date_added": 1482327228
+		},
+		{
+			"follow_id": 229,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "18WuQsUbszu95sZDiKvrfswRnEpuB5WEQh",
+			"user_name": "Kaishen",
+			"date_added": 1482926475
+		},
+		{
+			"follow_id": 230,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1MV7xCutG4Jd3bk3Qtt88RWVDTTWHs1yYQ",
+			"user_name": "Zzz8307",
+			"date_added": 1482926972
+		},
+		{
+			"follow_id": 231,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "13dUD5qbY6LaXH9pfh5iDgXHgKjCZPxvZV",
+			"user_name": "Cyrax",
+			"date_added": 1482926974
+		},
+		{
+			"follow_id": 232,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1NmwA9EFPu94QaN7yMYpzu2iSg1dGAYV6n",
+			"user_name": "Alvin 獨財者",
+			"date_added": 1482926977
+		},
+		{
+			"follow_id": 233,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1E3RUB7iYoArcet78WAtCS6bXs2xQKKw6R",
+			"user_name": "404error",
+			"date_added": 1482926979
+		},
+		{
+			"follow_id": 234,
+			"hub": "1KNmG5rJUGhgUJGFbLkv2B5isaqu9PrZqi",
+			"auth_address": "1Lc8VmhPm4UjmhxLX1VDYotGphXz6Yh2ST",
+			"user_name": "贤猫",
+			"date_added": 1482926981
+		},
+		{
+			"follow_id": 235,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1LQKphbpsZXEA6toDE9BCJLcNg8Yn4Vg1S",
+			"user_name": "黑心药店老板",
+			"date_added": 1482927401
+		},
+		{
+			"follow_id": 236,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1HBqD9ntd2YYj5JBZa5Wv59W5fU482YD1e",
+			"user_name": "Ujin",
+			"date_added": 1482927410
+		},
+		{
+			"follow_id": 237,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1LKkEXGKuTSNMWxb3bJRxiLUAGDUSMZ1yg",
+			"user_name": "Helloword",
+			"date_added": 1482927411
+		},
+		{
+			"follow_id": 238,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1FqFwXSATEMsvPsxnTCM9W55uHxkYnSfHU",
+			"user_name": "A7ic7",
+			"date_added": 1482927419
+		},
+		{
+			"follow_id": 239,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "19BHxREFyyDejQPMrmhz2FgE2djzjWSLgm",
+			"user_name": "marksane",
+			"date_added": 1482928354
+		},
+		{
+			"follow_id": 240,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1A5BYwgSzG8svVZGyWG5PzXafxbcsL5uUP",
+			"user_name": "北京晚报",
+			"date_added": 1482929584
+		},
+		{
+			"follow_id": 241,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1AGVA4J3Gq43u4pdudot73SxDuy1yabzjU",
+			"user_name": "Suntrian",
+			"date_added": 1482929887
 		}
 	]
 }
