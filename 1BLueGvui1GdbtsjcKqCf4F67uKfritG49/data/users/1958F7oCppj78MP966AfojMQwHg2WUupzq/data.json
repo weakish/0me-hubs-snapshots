@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 343,
+	"next_comment_id": 344,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -2062,6 +2062,12 @@
 			"body": "@12hlearn: 还有一个问题就是私钥被泄露不容易被发现而且一旦泄漏几乎控制不了传播了。",
 			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1482587114",
 			"date_added": 1482863444
+		},
+		{
+			"comment_id": 343,
+			"body": "没有，目测是你还没同步好或者签名问题导致以前的文件没被签名进去。",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1482872129",
+			"date_added": 1482892057
 		}
 	],
 	"flags": {

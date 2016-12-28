@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 256,
+	"next_comment_id": 257,
 	"user_name": "P2P",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -1613,6 +1613,12 @@
 			"body": "@12hlearn: 是不是有参数可以设置默认pin的？我猜",
 			"post_uri": "14MrxSzhaSXiFwsAbyhwtipmU3Lh55Xcrr_1482682822",
 			"date_added": 1482760984
+		},
+		{
+			"comment_id": 256,
+			"body": "index.html 56 行\n<a href=\"#New+topic\" class=\"topic-new-link nolink\"> + 新主题</a>\n\n修改为\n<a href=\"#New+topic\" class=\"topic-new-link nolink\" style=\"display: none;\"> + 新主题</a>\n\njs/all.js 2091 和 2094 两行\n$(\"body\").addClass(\"page-topic\");\n在这两行后面都添加\n$(\".topic-new-link\").show();\n修改后\n$(\"body\").addClass(\"page-topic\");\n$(\".topic-new-link\").show();",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482890973",
+			"date_added": 1482893972
 		}
 	],
 	"flags": {},
