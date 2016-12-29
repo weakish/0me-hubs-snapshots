@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 8,
+	"next_comment_id": 11,
 	"user_name": "Alex (Bwoi)",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {
@@ -7,7 +7,8 @@
 		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_22": 1471512680,
 		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472698422": 1472758321,
 		"193hYj3sLhGPzy9AaJZWrEtRuJPzWT7D75_1": 1472769062,
-		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1474786070": 1475094079
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1474786070": 1475094079,
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1482992008": 1483007219
 	},
 	"comment": [
 		{
@@ -39,6 +40,18 @@
 			"body": "Now, implement emojis?\nSexy desktop :ok_hand:",
 			"post_uri": "1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9_1476555262",
 			"date_added": 1477084835
+		},
+		{
+			"comment_id": 9,
+			"body": "I was considering buying a CHIP Pro the other day, but decided against it since the project I wanted it for could just be replaced with my Pi instead.  PocketCHIP, however, looks like a really nice way to play PICO games, and the only problem I would have with it would be the design... though I'm pretty sure I could fix that ;)",
+			"post_uri": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ_1481315347",
+			"date_added": 1481316357
+		},
+		{
+			"comment_id": 10,
+			"body": "@sthetz: Probably, keyboard swiping isn't in iPhone, and she's on Mac so I'd say the chances are high.\n\n\nRooting isn't possible on the Amazon devices (see this: http://forum.xda-developers.com/moto-g4/how-to/how-to-root-g4-fix-bootable-attempted-t3417592) since the bootloader can't be unlocked - it's a shame, but I'd imagine someone will find their way around Amazon's lock sooner or later.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1482992008",
+			"date_added": 1483007049
 		}
 	],
 	"flags": {},
