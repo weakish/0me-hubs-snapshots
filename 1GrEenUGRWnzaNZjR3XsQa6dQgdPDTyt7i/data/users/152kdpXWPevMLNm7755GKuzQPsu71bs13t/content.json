@@ -4,13 +4,13 @@
  "cert_sign": "HMp0IERj/AnMFBk9iTmExPdEpifnjOmcfP5NtGdCajBafMkywHDOxreHt5lCtvo7mEIBgkECNoRPxvd4chhKUrk=",
  "cert_user_id": "greatsick@zeroid.bit",
  "files": {
-  "avatar.png": {
-   "sha512": "ac5526db2c105c1653eb0f45230617cd23be610658edf106bba1e72181a22f0d",
-   "size": 124
+  "avatar.jpg": {
+   "sha512": "0d109622b86d64c629ce902617f9c5e716e4d855477a3f2c2e95baad51d6dd1c",
+   "size": 1842
   },
   "data.json": {
-   "sha512": "18bed494801f0426fd97cfdb8328a3fec2c2e43298470b0751f29932139c91d0",
-   "size": 46238
+   "sha512": "98bdd0c6eb2def183ba970032b336f67b93afc6a11b4f24fcbba5cf207f866f7",
+   "size": 46586
   }
  },
  "files_optional": {
@@ -61,12 +61,16 @@
   "1482952607.jpg": {
    "sha512": "9836bca79007bf4803bb2d4edae9c37397bea6b522deff06bd6722f2495e164a",
    "size": 51358
+  },
+  "1483051303.jpg": {
+   "sha512": "cdf9a6cae4464b0da1b295b07ad8e3dd877f6bb40674b5bfc7dece44b64218f9",
+   "size": 88039
   }
  },
  "inner_path": "data/users/152kdpXWPevMLNm7755GKuzQPsu71bs13t/content.json",
- "modified": 1483047899.736523,
+ "modified": 1483052298.163998,
  "optional": "(?!avatar).*jpg",
  "signs": {
-  "152kdpXWPevMLNm7755GKuzQPsu71bs13t": "GzI8fHS/0AnjrT4UOpKmD0qGzUSGzBKVYAcUsigNsXuPk/MS/cz14EP9+/eMx8J13L2YZj/RcGhIatkWvFxs0Hg="
+  "152kdpXWPevMLNm7755GKuzQPsu71bs13t": "HHGTGZRLpRUoUMaFR4HosoRv0q0axq40W/sCVRx1xFF0U2RcWXC6nS9AM8JILpTaRmJ23JFcjlqipeKGG0Ktcgc="
  }
 }
