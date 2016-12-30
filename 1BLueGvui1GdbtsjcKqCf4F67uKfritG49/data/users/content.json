@@ -3,9 +3,9 @@
  "files": {},
  "ignore": ".*",
  "inner_path": "data/users/content.json",
- "modified": 1481764666.781,
+ "modified": 1483114296.392,
  "signs": {
-  "1BLueGvui1GdbtsjcKqCf4F67uKfritG49": "HJlguXF2q22+kB7yrohflZSgY5kRzAAPa3Qlw4SvTAyU/eUbKdVrv0Xbz7lyk8qOy9lgHx0LcDbtHXYRClMIj6Q="
+  "1BLueGvui1GdbtsjcKqCf4F67uKfritG49": "HOdhC6G4f4IgmvnzEruMebUzwUoQbnEH83ZAiU+J5ryDvPJsB31XJkLaUtgy9/4utgnWHzeJJPb+Si8S/NeLWhc="
  },
  "user_contents": {
   "archived": {
@@ -26,13 +26,15 @@
    "bitmsg/.*@zeroid.bit": {"max_size": 60000}
   },
   "permissions": {
+   "3f3f@zeroid.bit": {"max_size": 100000},
+   "anonymouslogin@zeroid.bit": {"max_size": 100000},
    "banexample@zeroid.bit": false,
    "cxgreat2014@zeroid.bit": {"max_size": 200000},
    "doom1@zeroid.bit": false,
    "doom1b@zeroid.bit": false,
    "eibriel@zeroid.bit": {"max_size": 100000},
    "erotic@zeroid.bit": {"max_size": 100000},
-   "flyman@zeroid.bit": {"max_size": 168750},
+   "flyman@zeroid.bit": {"max_size": 337500},
    "gimli@zeroid.bit": {"max_size": 100000},
    "jayofthezero@zeroid.bit": {"max_size": 100000},
    "jb@zeroid.bit": {"max_size": 100000},
