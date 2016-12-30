@@ -1,17 +1,17 @@
 {
 	"next_post_id": 3,
 	"next_comment_id": 4,
-	"next_follow_id": 2,
+	"next_follow_id": 3,
 	"avatar": "generate",
 	"settings": {
 		"comment_order": false,
 		"mute_ugly": false,
 		"mute_spam": false,
-		"mute_blocked": false
+		"mute_blocked": true
 	},
-	"user_name": "Jdoe",
+	"user_name": "an0nymo",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
-	"intro": "Random ZeroNet user",
+	"intro": "Usuario 0me+",
 	"post": [
 		{
 			"post_id": 1,
@@ -59,9 +59,19 @@
 			"auth_address": "1CtXM9gSE1bdV6yXKZGHzSLbCJheBub33k",
 			"user_name": "espectalll",
 			"date_added": 1482334382
+		},
+		{
+			"follow_id": 2,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1L8GY325r4QX7pwxb3gBmYYCay6ATfDEMT",
+			"user_name": "Jdoe",
+			"date_added": 1483099834
 		}
 	],
 	"flags": {},
-	"blocked": [],
+	"blocked": [
+		"1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y",
+		"17z9bkjwGkCNEGCJ9E6TUu1kEs5V1f7zYL"
+	],
 	"comment_like": {}
 }
