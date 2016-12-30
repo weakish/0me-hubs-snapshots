@@ -1,12 +1,20 @@
 {
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"user_name": "Jop",
 	"hub": "15mV5T1R1wxg3E1FPsvZw19bw6QzvRREfn",
 	"post_like": {
 		"1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh_1477634750": 1483084946,
-		"1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh_1483077359": 1483091112
+		"1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh_1483077359": 1483091112,
+		"1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh_1483077455": 1483111698
 	},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Buen punto",
+			"post_uri": "1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh_1483077455",
+			"date_added": 1483111695
+		}
+	],
 	"flags": {},
 	"comment_like": {}
 }
