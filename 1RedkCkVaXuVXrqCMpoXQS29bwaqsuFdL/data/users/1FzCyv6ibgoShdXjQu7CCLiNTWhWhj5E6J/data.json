@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 14,
+	"next_comment_id": 19,
 	"user_name": "Mbp374",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {
@@ -9,7 +9,13 @@
 		"1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd_1476342222": 1479905394,
 		"137PNA5gLgCTLZTBtzUqCmMoZ752NQGQSJ_1479939652": 1479956080,
 		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1480618836": 1480650087,
-		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1480308738": 1480672063
+		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1480308738": 1480672063,
+		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1481096224": 1481167733,
+		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1481036576": 1481167736,
+		"19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1481168620": 1481190580,
+		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1483070047": 1483105465,
+		"1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd_1482914204": 1483105674,
+		"1958F7oCppj78MP966AfojMQwHg2WUupzq_1482853966": 1483105913
 	},
 	"comment": [
 		{
@@ -89,6 +95,36 @@
 			"body": "非常好👌！",
 			"post_uri": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ_1480308738",
 			"date_added": 1480672081
+		},
+		{
+			"comment_id": 14,
+			"body": "@Nekocross: 从技术层面看，ZeroNet支持大文件传输并没有什么难的。问题是，大文件带来大的磁盘占用，很多人可能会不乐意。怎么设计来方便用户控制大文件的磁盘占用是关键。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481036576",
+			"date_added": 1481167824
+		},
+		{
+			"comment_id": 15,
+			"body": "用的是 generator",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1481173038",
+			"date_added": 1481190665
+		},
+		{
+			"comment_id": 16,
+			"body": "@Woodsfirezyj: 黄金还是要靠谱点。直接买实物放家里最简单。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1483070047",
+			"date_added": 1483105501
+		},
+		{
+			"comment_id": 17,
+			"body": "讲真，GO语言可能是真确的选择。Python的平台适应性太差了。",
+			"post_uri": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_1482896228",
+			"date_added": 1483105825
+		},
+		{
+			"comment_id": 18,
+			"body": "还有这个问题，幸好我不用Windows",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1482853966",
+			"date_added": 1483105930
 		}
 	]
 }
