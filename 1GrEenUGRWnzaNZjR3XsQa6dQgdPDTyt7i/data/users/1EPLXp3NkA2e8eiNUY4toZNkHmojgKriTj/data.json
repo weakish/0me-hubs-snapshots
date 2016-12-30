@@ -1,27 +1,12 @@
 {
-	"next_post_id": 2,
 	"next_comment_id": 1,
-	"next_follow_id": 1,
-	"avatar": "generate",
-	"settings": {
-		"comment_order": false,
-		"mute_ugly": false,
-		"mute_spam": false,
-		"mute_blocked": false
-	},
 	"user_name": "Johndark",
-	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"intro": "Random ZeroNet user",
-	"post": [
-		{
-			"post_id": 1,
-			"date_added": 1477468568,
-			"body": "Hello ZeroMe!"
-		}
-	],
-	"post_like": {},
+	"hub": "12cm58PYhaSaHUkKgsbf62Rg9Db5DukWYd",
+	"post_like": {
+		"1QFcL2PapA8NuvNWeHCafHaMPJcXgmb55i_1483042511": 1483078651,
+		"1QFcL2PapA8NuvNWeHCafHaMPJcXgmb55i_1482617977": 1483079967
+	},
 	"comment": [],
-	"follow": [],
 	"flags": {},
-	"blocked": []
+	"comment_like": {}
 }
