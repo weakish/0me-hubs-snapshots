@@ -1115,9 +1115,9 @@
 	],
 	"settings": {
 		"reverse_comment_order": true,
-		"mute_ugly": true,
+		"mute_ugly": false,
 		"mute_spam": false,
-		"mute_blocked": true
+		"mute_blocked": false
 	},
 	"blocked": [
 		"1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk",
