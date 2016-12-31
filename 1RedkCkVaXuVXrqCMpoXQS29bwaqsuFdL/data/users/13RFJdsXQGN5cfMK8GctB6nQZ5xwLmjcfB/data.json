@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 84,
+	"next_comment_id": 85,
 	"user_name": "Ysc3839",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
 	"post_like": {
@@ -531,6 +531,12 @@
 			"body": "\n@编程狗的博客: 我试过某不知名的联机游戏（UDP协议），没被屏蔽。TCP的话我试过乱发一堆随机数据给HTTP服务器，也没被屏蔽，对面服务器返回Bad Request了。HTTPS（TLS）直接重置连接。",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1483190334",
 			"date_added": 1483215216
+		},
+		{
+			"comment_id": 84,
+			"body": "@编程狗的博客: 学校防火墙，目前我用的是SSR+http_simple混淆。UDP应该没被禁，HTTP的话不会检测端口，只会检测协议，而且还有漏洞，如果Host:被拆成两个包发送的话就不会屏蔽，没有Host:也不会屏蔽。\n另外还想说的是，前几天老师看监控发现我玩电脑了（没发现我上网），以后不敢再搞了。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1483190334",
+			"date_added": 1483218601
 		}
 	],
 	"flags": {},

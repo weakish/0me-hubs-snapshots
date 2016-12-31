@@ -60,7 +60,7 @@
 		},
 		{
 			"comment_id": 10,
-			"body": "@Ysc3839: 你是说你尝试的你们学校的防火墙还是gfw？如果是前者的话说明你们学校对udp友好，你可以试试tcp over udp。tcp给http发数据没有被屏蔽，说明防火墙没有检测header而是端口。tls重置的话就很奇怪了，难道防火墙连https都不允许？有点变态。不过既然http放过，那么可以试试tcp over http 或者http over http。",
+			"body": "@Ysc3839: 你是说你尝试的你们学校的防火墙还是gfw？如果是前者的话说明你们学校对udp友好，你可以试试tcp over udp。tcp给http发数据没有被屏蔽，说明防火墙没有检测header而是端口。tls重置的话就很奇怪了，难道防火墙连https都不允许？有点变态。不过既然http放过，那么可以试试tcp over http 或者http over http，不想被防火墙知道你在做什么（八成他们在偷窥，否则没理由不允许https）的话，可以tls over http。",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1483190334",
 			"date_added": 1483217933
 		}
