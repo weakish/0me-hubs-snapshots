@@ -1,6 +1,6 @@
 {
 	"next_post_id": 73,
-	"next_comment_id": 267,
+	"next_comment_id": 269,
 	"next_follow_id": 274,
 	"avatar": "png",
 	"user_name": "Lmath",
@@ -1864,6 +1864,18 @@
 			"body": "@12hlearn: 等等！\n```\n--stream_downloads {True,False}\n                      Stream download directly to files (experimental)\n                      (default: False)\n```\n我在 `zeronet.py --help` 里看到了这个。",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1483142736",
 			"date_added": 1483153547
+		},
+		{
+			"comment_id": 267,
+			"body": "@Ysc3839: 这样实现的“屏蔽”，对其他小众应用是否误杀很严重？",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1483190334",
+			"date_added": 1483204067
+		},
+		{
+			"comment_id": 268,
+			"body": "@Nekocross: 以“没有特征是最大的特征”来屏蔽实际上是一个很危险的信号，说明墙进入了协议上的白名单模式。但是我已经在比较敏感的时期观察到了这种现象，甚至于为了阻止 meek 而在敏感时期让一些国外的云计算平台抽风。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1483190334",
+			"date_added": 1483204256
 		}
 	],
 	"follow": [
@@ -3767,6 +3779,8 @@
 		"1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y_6": 1482155692,
 		"1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd_17": 1482208601,
 		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_90": 1482860799,
-		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_91": 1482860856
+		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_91": 1482860856,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_70": 1483194373,
+		"1KNe8oqdHjEAYSEZByAikQi66GjZB1rSxL_4": 1483203973
 	}
 }

@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 691,
+	"next_comment_id": 692,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -4162,6 +4162,12 @@
 			"body": "@Ysc3839: 然而 `master_seed` 成为了一个灵活性更低的“密码”，直接放在网盘里需要自己解决加密和添加证书，不是很方便。",
 			"post_uri": "15NJmt3tLne5aYizwMuB3ggACviSTJ7jyj_1483174844",
 			"date_added": 1483180147
+		},
+		{
+			"comment_id": 691,
+			"body": "@Apuar: 这是正常现象，如果你要把一个节点作为公共代理，建议一开始就启用 Multiuser 插件。\n如果你想要换号用 ZeroNet ，建议你看看：http://127.0.0.1:43110/1JjHyLeEDidHyyN33Y8f8cQKVEzWCEPnW7/\n这里的 UserSwitcher 插件，但是我也没搞清楚怎么用。",
+			"post_uri": "1GMNmr2bDPbT4c8yVnyCoDHke52CNCdqAa_1483193039",
+			"date_added": 1483204386
 		}
 	],
 	"flags": {},
