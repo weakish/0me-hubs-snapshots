@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"settings": {
@@ -21,9 +21,17 @@
 	],
 	"post_like": {
 		"1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh_1483077455": 1483077718,
-		"1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh_1483077359": 1483077724
+		"1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh_1483077359": 1483077724,
+		"1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh_1483127603": 1483168166
 	},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Muy buena noticia",
+			"post_uri": "1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh_1483127603",
+			"date_added": 1483168213
+		}
+	],
 	"follow": [],
 	"flags": {},
 	"blocked": [],

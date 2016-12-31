@@ -1,6 +1,6 @@
 {
 	"next_post_id": 2,
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"next_follow_id": 1,
 	"avatar": "generate",
 	"settings": {
@@ -22,9 +22,17 @@
 	"post_like": {
 		"1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_1482321410": 1483080345,
 		"1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_1482951553": 1483122123,
-		"1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_1482833078": 1483122135
+		"1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_1482833078": 1483122135,
+		"1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_1483123682": 1483168237
 	},
-	"comment": [],
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Ya conocia ese documental... brutal",
+			"post_uri": "1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_1483123682",
+			"date_added": 1483168344
+		}
+	],
 	"follow": [],
 	"flags": {},
 	"blocked": [],
