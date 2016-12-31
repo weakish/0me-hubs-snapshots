@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 688,
+	"next_comment_id": 691,
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
 	"post_like": {
@@ -4144,6 +4144,24 @@
 			"body": "@Mbp374: 所以你的意思是这个方法也只能短期内解决问题？好吧！我老老实实说我也不太了解比特币。",
 			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1482684887",
 			"date_added": 1483106707
+		},
+		{
+			"comment_id": 688,
+			"body": "带走 `users.json` 。",
+			"post_uri": "15NJmt3tLne5aYizwMuB3ggACviSTJ7jyj_1483174844",
+			"date_added": 1483176957
+		},
+		{
+			"comment_id": 689,
+			"body": "@Ysc3839: 我认为应该可以搞个私钥托管服务，具体实现就是使用用户指定的 AES 密钥对 `master_seed` 进行加密后发布，这样对于安全要求不高的用户就可以在新机器上直接输入密码来完成添加证书，十分方便。",
+			"post_uri": "15NJmt3tLne5aYizwMuB3ggACviSTJ7jyj_1483174844",
+			"date_added": 1483179703
+		},
+		{
+			"comment_id": 690,
+			"body": "@Ysc3839: 然而 `master_seed` 成为了一个灵活性更低的“密码”，直接放在网盘里需要自己解决加密和添加证书，不是很方便。",
+			"post_uri": "15NJmt3tLne5aYizwMuB3ggACviSTJ7jyj_1483174844",
+			"date_added": 1483180147
 		}
 	],
 	"flags": {},
