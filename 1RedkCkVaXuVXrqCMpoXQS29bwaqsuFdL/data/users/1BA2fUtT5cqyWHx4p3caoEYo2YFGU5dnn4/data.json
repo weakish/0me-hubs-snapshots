@@ -1,5 +1,5 @@
 {
-	"next_comment_id": 10,
+	"next_comment_id": 11,
 	"user_name": "编程狗的博客",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
 	"post_like": {},
@@ -57,6 +57,12 @@
 			"body": "@Lmath: 墙不能完全屏蔽国外云服务，但是对其丢包，用户会感到变慢。对于不知道内幕的人来说还以为人家服务质量差呢，此招甚阴。已经用了很多年了。",
 			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1483190334",
 			"date_added": 1483209228
+		},
+		{
+			"comment_id": 10,
+			"body": "@Ysc3839: 你是说你尝试的你们学校的防火墙还是gfw？如果是前者的话说明你们学校对udp友好，你可以试试tcp over udp。tcp给http发数据没有被屏蔽，说明防火墙没有检测header而是端口。tls重置的话就很奇怪了，难道防火墙连https都不允许？有点变态。不过既然http放过，那么可以试试tcp over http 或者http over http。",
+			"post_uri": "1958F7oCppj78MP966AfojMQwHg2WUupzq_1483190334",
+			"date_added": 1483217933
 		}
 	]
 }
