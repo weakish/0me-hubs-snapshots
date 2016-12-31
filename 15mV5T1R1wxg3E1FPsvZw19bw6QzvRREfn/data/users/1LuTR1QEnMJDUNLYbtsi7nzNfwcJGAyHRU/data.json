@@ -1,8 +1,8 @@
 {
-	"next_post_id": 3,
+	"next_post_id": 4,
 	"next_comment_id": 3,
 	"next_follow_id": 22,
-	"avatar": "generate",
+	"avatar": "jpg",
 	"settings": {
 		"comment_order": false,
 		"mute_ugly": false,
@@ -11,7 +11,7 @@
 	},
 	"user_name": "Poseid0n",
 	"hub": "15mV5T1R1wxg3E1FPsvZw19bw6QzvRREfn",
-	"intro": "Random ZeroNet user",
+	"intro": "Usuario ZeroNet",
 	"post": [
 		{
 			"post_id": 1,
@@ -22,6 +22,11 @@
 			"post_id": 1483091897,
 			"body": "Parece ser que http://barrapunto.com ha sido atacado... esta parcialmente offline",
 			"date_added": 1483091895
+		},
+		{
+			"post_id": 1483171765,
+			"body": "http://cnnespanol.cnn.com este no es un portal de noticias... sino solo de propaganda, pura mierda",
+			"date_added": 1483171762
 		}
 	],
 	"post_like": {},
