@@ -1,7 +1,7 @@
 {
-	"next_post_id": 150,
+	"next_post_id": 151,
 	"next_comment_id": 21,
-	"next_follow_id": 54,
+	"next_follow_id": 57,
 	"avatar": "jpg",
 	"user_name": "Fre3neT",
 	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
@@ -746,6 +746,11 @@
 			"post_id": 1482951553,
 			"body": "### ¿Crear Nuestra Propia Direccion?\n---\n\nPara quienes se interesen, con algo de esfuerzo pueden crear una direccion zeronet mas o menos personalizada  \n\n🔒 [Como crear nuestra direccion personalizada](../darkblog.bit/?Post:297)",
 			"date_added": 1482951404
+		},
+		{
+			"post_id": 1483123682,
+			"body": "## White Terror\n---\n\n( http://www.imdb.com/title/tt0477133 )\n\nUn film estremecedor, pues nos muestra una imagen del mundo, especialmente aterradora, en donde -casi- todos los paises toleran -y en muchos caso apoyan- a los movimientos neonazis y de extrema derecha.\n\nLo unico criticable en todo el trabajo es la estructura misma del film... dividido en 3 partes: Europa » USA » Rusia\n\nPara quien llega al final, se queda con la imagen de que en Rusia se encuentran los mas peligrosos... y lo curioso es que el propio documentalista reconoce que la cantidad y la peligrosidad de los radicales en USA es equivalente al menos a la suma de casi toda la Europa occidental... pero ya estamos acostumbrados a este estilo de presentarnos los hechos.",
+			"date_added": 1483123532
 		}
 	],
 	"post_like": {
@@ -756,7 +761,8 @@
 		"1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_1481296740": 1481558515,
 		"1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_1482834783": 1482834689,
 		"1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_1482833078": 1482901581,
-		"1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_1482831536": 1482951450
+		"1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92_1482831536": 1482951450,
+		"1L8GY325r4QX7pwxb3gBmYYCay6ATfDEMT_1483113111": 1483121163
 	},
 	"comment": [
 		{
@@ -1111,20 +1117,65 @@
 			"auth_address": "1EPUUV5YrwRSzkAtGqfjmxqiWcd8XGtzbC",
 			"user_name": "The0",
 			"date_added": 1483017410
+		},
+		{
+			"follow_id": 54,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1L8GY325r4QX7pwxb3gBmYYCay6ATfDEMT",
+			"user_name": "an0nymo",
+			"date_added": 1483121973
+		},
+		{
+			"follow_id": 55,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EPLXp3NkA2e8eiNUY4toZNkHmojgKriTj",
+			"user_name": "Johndark",
+			"date_added": 1483121982
+		},
+		{
+			"follow_id": 56,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "18NrcMdtcpfn5h4XcfQAfouCspstq1jcW6",
+			"user_name": "Edycop",
+			"date_added": 1483122002
 		}
 	],
 	"settings": {
 		"reverse_comment_order": true,
 		"mute_ugly": false,
 		"mute_spam": false,
-		"mute_blocked": false
+		"mute_blocked": true
 	},
 	"blocked": [
 		"1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk",
-		"19Mn6dCwtPj7NFsLTDWMuDK4jU5WKBkDdm"
+		"19Mn6dCwtPj7NFsLTDWMuDK4jU5WKBkDdm",
+		"1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj",
+		"17H6uxjm8hQK9Rk79yHkvQYQnTkJNroA3T",
+		"1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib",
+		"19ayk8E29EihqeEqZCXFpanBQm9Z63USEB",
+		"1Gh5YshmQdQSvEgj1Dm8twQCjMuJBEVGuC",
+		"1BA2fUtT5cqyWHx4p3caoEYo2YFGU5dnn4",
+		"1EuzC8fvqWjEbUF5XbSYaZye1BqV29Fe6y",
+		"1MDDjtDGSbmpZtVVgsp2JhvmHfPaJBM6TH",
+		"1CwbqLCD6TdkinNNNb4GneZxbsoJ6Mw6oE",
+		"18XzNXfDcBLkC6dNsxA5GY1b9doE762sQK",
+		"17eKk6mdR7bth2Fi8f74P5JV8AfHsERT4F",
+		"1M6mvowPpeYyegFe6byJKP1aoehgKk84d2",
+		"1DB5vzATvqvQykj1zjL2xdMtYSqXc8cmP3",
+		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ",
+		"1N2eNZ5w1dpoBcwatsSuTaeNzHgSLjyrpU",
+		"1958F7oCppj78MP966AfojMQwHg2WUupzq",
+		"1KFfvfaijSYfWZ67GE8D2rTkVs4X4u6s8H",
+		"157d61UG24B66Yw2qwEQWY7yFAWp1HoAST",
+		"12vNNA9QZKJfaTi3uJ5X6ZegCKw3X4TKR6",
+		"1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5",
+		"1E3RUB7iYoArcet78WAtCS6bXs2xQKKw6R",
+		"1NxmVocNdn42R5VMhNMfb1AoHR6qJ51He3",
+		"1LQKphbpsZXEA6toDE9BCJLcNg8Yn4Vg1S"
 	],
 	"flags": {},
 	"comment_like": {
-		"1PK7r15RmMdmdnUCYeQEwuydfediNVDtt2_6": 1479846481
+		"1PK7r15RmMdmdnUCYeQEwuydfediNVDtt2_6": 1479846481,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_43": 1483121168
 	}
 }

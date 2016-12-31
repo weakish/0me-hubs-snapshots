@@ -1,7 +1,7 @@
 {
-	"next_post_id": 71,
+	"next_post_id": 72,
 	"next_comment_id": 266,
-	"next_follow_id": 273,
+	"next_follow_id": 274,
 	"avatar": "png",
 	"user_name": "Lmath",
 	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
@@ -294,6 +294,11 @@
 			"post_id": 1482853966,
 			"body": "最近，有一些新用户反映 ZeroBundle 运行后闪退的情况。经过查证，这个问题是该用户使用了管理员权限（关闭 UAC 或者使用 Administrator 帐户）来运行 zeronet.cmd 所引起，在管理员权限的情况下默认的工作目录是 `%SystemRoot%\\System32` 而不是当前目录，所以造成了找不到文件的现象。\n之后我去看了下 GitHub ，发现 https://github.com/HelloZeroNet/ZeroBundle/blob/master/zeronet.cmd 里面有切换到当前目录的命令。再仔细一看，https://github.com/HelloZeroNet/ZeroBundle/blob/master/dist/ZeroBundle-win.zip 里面的 `zeronet.cmd` 没有更新，导致了这个问题长期存在。",
 			"date_added": 1482853897
+		},
+		{
+			"post_id": 1483142736,
+			"body": "@12hlearn: 你的 wrapperRequestFullscreen 做好了：https://github.com/HelloZeroNet/ZeroNet/commit/5103879471176fced494dc70d35e8384275f787e\n可以继续折腾视频站了。",
+			"date_added": 1483142665
 		}
 	],
 	"post_like": {
@@ -3712,6 +3717,13 @@
 			"auth_address": "1BG8WrV2VY1bNjQiKR4tcL52FAw6Y6BoJ8",
 			"user_name": "开平方",
 			"date_added": 1483006746
+		},
+		{
+			"follow_id": 273,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1N2eNZ5w1dpoBcwatsSuTaeNzHgSLjyrpU",
+			"user_name": "大家一起p2p",
+			"date_added": 1483120585
 		}
 	],
 	"settings": {

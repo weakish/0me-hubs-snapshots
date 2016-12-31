@@ -1,9 +1,9 @@
 {
-	"next_post_id": 24,
+	"next_post_id": 25,
 	"next_comment_id": 14,
-	"next_follow_id": 232,
+	"next_follow_id": 278,
 	"avatar": "jpg",
-	"user_name": "0",
+	"user_name": "null",
 	"hub": "185yXNL48LTZyKfNo6WgyKshtMgcV3mecL",
 	"intro": "Entusiasta de la #descentralizacion, #privacidad, #distribucion, el #GNU y el #español\n\n---\n\n* [0Talk-es](../165eqHdoQfyf7CVGqtVCGNDvMBZhwVSJBL)\n* [0Chat-es](../18nQPR4TCM4tQ8L7fm6dX6SGXLsj7wa8sv)\n* [0Paste](../1MgHVPCE1ve6QfKrgsqCURzRj72HrRWioz)\n* [0Wiki-es](../1FwbupJhHcnFWGXuu3bn5VxcRVW9tx2tDQ)\n* [KID](../id.kaffie.bit)\n* [KSearch](../kaffiene.bit)\n* [DarkbloG](../darkblog.bit/lab.html)\n* [PrivacyTools](../1Npv7cLAvU9u62ivgqhwwK5wHioM3wakgk)",
 	"post": [
@@ -116,11 +116,17 @@
 			"post_id": 1483077455,
 			"body": "Es curioso, a veces #zerome+ coloca el seudonimo en las publicaciones y en otras coloca el ID... ¿es un bug?",
 			"date_added": 1483077432
+		},
+		{
+			"post_id": 1483127603,
+			"body": "Tor browser se ha actualizado a la version 6.0.8 y firefox ha corregido un bug importante",
+			"date_added": 1483127579
 		}
 	],
 	"post_like": {
 		"1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh_1477215035": 1477234782,
-		"1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh_1477244040": 1477244059
+		"1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh_1477244040": 1477244059,
+		"1DLf7WXLCVK3VyLtV3gawnBjTynYeRyhgh_1483127603": 1483129393
 	},
 	"comment": [
 		{
@@ -1798,6 +1804,328 @@
 			"auth_address": "17AMQVbBa12XB3xFWKDnP2dCEx92TaiY7X",
 			"user_name": "Anonymous",
 			"date_added": 1483077650
+		},
+		{
+			"follow_id": 232,
+			"hub": "12cm58PYhaSaHUkKgsbf62Rg9Db5DukWYd",
+			"auth_address": "1EPLXp3NkA2e8eiNUY4toZNkHmojgKriTj",
+			"user_name": "JoudarK",
+			"date_added": 1483120773
+		},
+		{
+			"follow_id": 233,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1EPUUV5YrwRSzkAtGqfjmxqiWcd8XGtzbC",
+			"user_name": "The0",
+			"date_added": 1483120782
+		},
+		{
+			"follow_id": 234,
+			"hub": "185yXNL48LTZyKfNo6WgyKshtMgcV3mecL",
+			"auth_address": "1AGNzirDfkMGdVoVS3MeVg9iNd2fveqYdC",
+			"user_name": "1AGNzirDfkMGd",
+			"date_added": 1483126869
+		},
+		{
+			"follow_id": 235,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1TXy8Hmcyh3T4h6vW2VLxCrE4jVqkEjEi",
+			"user_name": "1TXy8Hmcyh3T4",
+			"date_added": 1483126881
+		},
+		{
+			"follow_id": 236,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "15rDwTWvkH2digEM8BSxWCUanhBJVXnKki",
+			"user_name": "Xikujaro",
+			"date_added": 1483127135
+		},
+		{
+			"follow_id": 237,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "121gfMsFtgVef47mbhgWE48M5zKk5Hf4Dc",
+			"user_name": "Anoni2p",
+			"date_added": 1483127138
+		},
+		{
+			"follow_id": 238,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "121gfMsFtgVef47mbhgWE48M5zKk5Hf4Dc",
+			"user_name": "darknet2",
+			"date_added": 1483127185
+		},
+		{
+			"follow_id": 239,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92",
+			"user_name": "Fre3neT",
+			"date_added": 1483127238
+		},
+		{
+			"follow_id": 240,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "18NrcMdtcpfn5h4XcfQAfouCspstq1jcW6",
+			"user_name": "Edycop",
+			"date_added": 1483127339
+		},
+		{
+			"follow_id": 241,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EPLXp3NkA2e8eiNUY4toZNkHmojgKriTj",
+			"user_name": "JoudarK",
+			"date_added": 1483127340
+		},
+		{
+			"follow_id": 242,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1EPUUV5YrwRSzkAtGqfjmxqiWcd8XGtzbC",
+			"user_name": "The0",
+			"date_added": 1483127341
+		},
+		{
+			"follow_id": 243,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1BBCbDdZtZ5ZJGhF2WcMRcn3FEKQ7PaoMS",
+			"user_name": "Drymer",
+			"date_added": 1483127343
+		},
+		{
+			"follow_id": 244,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1QFcL2PapA8NuvNWeHCafHaMPJcXgmb55i",
+			"user_name": "Juansantiago",
+			"date_added": 1483127345
+		},
+		{
+			"follow_id": 245,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi",
+			"user_name": "Eibriel",
+			"date_added": 1483127348
+		},
+		{
+			"follow_id": 246,
+			"hub": "12cm58PYhaSaHUkKgsbf62Rg9Db5DukWYd",
+			"auth_address": "1EPLXp3NkA2e8eiNUY4toZNkHmojgKriTj",
+			"user_name": "JoudarK",
+			"date_added": 1483127348
+		},
+		{
+			"follow_id": 247,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1HcK5Hw1rPZeYdgTmqJGrVG2tSyR9Ke2Gt",
+			"user_name": "Mama21mama",
+			"date_added": 1483127351
+		},
+		{
+			"follow_id": 248,
+			"hub": "185yXNL48LTZyKfNo6WgyKshtMgcV3mecL",
+			"auth_address": "1JARuoKjvXanUeKyPTXU9cus2jRzi4DZU5",
+			"user_name": "Icf20",
+			"date_added": 1483127353
+		},
+		{
+			"follow_id": 249,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1NXas4VQNUb9Vgd6zW7E1xGPUCfcxSXBF5",
+			"user_name": "Xiku Francesc",
+			"date_added": 1483127355
+		},
+		{
+			"follow_id": 250,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "15rDwTWvkH2digEM8BSxWCUanhBJVXnKki",
+			"user_name": "Xikujaro",
+			"date_added": 1483127359
+		},
+		{
+			"follow_id": 251,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1HcK5Hw1rPZeYdgTmqJGrVG2tSyR9Ke2Gt",
+			"user_name": "Mama21mama",
+			"date_added": 1483127361
+		},
+		{
+			"follow_id": 252,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1EPUUV5YrwRSzkAtGqfjmxqiWcd8XGtzbC",
+			"user_name": "The0",
+			"date_added": 1483129403
+		},
+		{
+			"follow_id": 253,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1EPLXp3NkA2e8eiNUY4toZNkHmojgKriTj",
+			"user_name": "JoudarK",
+			"date_added": 1483129412
+		},
+		{
+			"follow_id": 254,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EPLXp3NkA2e8eiNUY4toZNkHmojgKriTj",
+			"user_name": "JoudarK",
+			"date_added": 1483129413
+		},
+		{
+			"follow_id": 255,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "18NrcMdtcpfn5h4XcfQAfouCspstq1jcW6",
+			"user_name": "Edycop",
+			"date_added": 1483129414
+		},
+		{
+			"follow_id": 256,
+			"hub": "12cm58PYhaSaHUkKgsbf62Rg9Db5DukWYd",
+			"auth_address": "1EPLXp3NkA2e8eiNUY4toZNkHmojgKriTj",
+			"user_name": "JoudarK",
+			"date_added": 1483129415
+		},
+		{
+			"follow_id": 257,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi",
+			"user_name": "Eibriel",
+			"date_added": 1483129419
+		},
+		{
+			"follow_id": 258,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1QFcL2PapA8NuvNWeHCafHaMPJcXgmb55i",
+			"user_name": "Juansantiago",
+			"date_added": 1483129420
+		},
+		{
+			"follow_id": 259,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "15rDwTWvkH2digEM8BSxWCUanhBJVXnKki",
+			"user_name": "Xikujaro",
+			"date_added": 1483129422
+		},
+		{
+			"follow_id": 260,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "121gfMsFtgVef47mbhgWE48M5zKk5Hf4Dc",
+			"user_name": "darknet2",
+			"date_added": 1483129423
+		},
+		{
+			"follow_id": 261,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "18cSYDgTfMB255SDgQM9EuoyWu78MhWfNj",
+			"user_name": "Martinv",
+			"date_added": 1483129424
+		},
+		{
+			"follow_id": 262,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1NXas4VQNUb9Vgd6zW7E1xGPUCfcxSXBF5",
+			"user_name": "Xiku Francesc",
+			"date_added": 1483129429
+		},
+		{
+			"follow_id": 263,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92",
+			"user_name": "Fre3neT",
+			"date_added": 1483129430
+		},
+		{
+			"follow_id": 264,
+			"hub": "185yXNL48LTZyKfNo6WgyKshtMgcV3mecL",
+			"auth_address": "1AGNzirDfkMGdVoVS3MeVg9iNd2fveqYdC",
+			"user_name": "1AGNzirDfkMGd",
+			"date_added": 1483129475
+		},
+		{
+			"follow_id": 265,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1TXy8Hmcyh3T4h6vW2VLxCrE4jVqkEjEi",
+			"user_name": "1TXy8Hmcyh3T4",
+			"date_added": 1483129482
+		},
+		{
+			"follow_id": 266,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1EPUUV5YrwRSzkAtGqfjmxqiWcd8XGtzbC",
+			"user_name": "The0",
+			"date_added": 1483133429
+		},
+		{
+			"follow_id": 267,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1EPLXp3NkA2e8eiNUY4toZNkHmojgKriTj",
+			"user_name": "JoudarK",
+			"date_added": 1483133437
+		},
+		{
+			"follow_id": 268,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EPLXp3NkA2e8eiNUY4toZNkHmojgKriTj",
+			"user_name": "JoudarK",
+			"date_added": 1483133438
+		},
+		{
+			"follow_id": 269,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "18NrcMdtcpfn5h4XcfQAfouCspstq1jcW6",
+			"user_name": "Edycop",
+			"date_added": 1483133439
+		},
+		{
+			"follow_id": 270,
+			"hub": "12cm58PYhaSaHUkKgsbf62Rg9Db5DukWYd",
+			"auth_address": "1EPLXp3NkA2e8eiNUY4toZNkHmojgKriTj",
+			"user_name": "JoudarK",
+			"date_added": 1483133439
+		},
+		{
+			"follow_id": 271,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi",
+			"user_name": "Eibriel",
+			"date_added": 1483133440
+		},
+		{
+			"follow_id": 272,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1QFcL2PapA8NuvNWeHCafHaMPJcXgmb55i",
+			"user_name": "Juansantiago",
+			"date_added": 1483133441
+		},
+		{
+			"follow_id": 273,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "15rDwTWvkH2digEM8BSxWCUanhBJVXnKki",
+			"user_name": "Xikujaro",
+			"date_added": 1483133443
+		},
+		{
+			"follow_id": 274,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "121gfMsFtgVef47mbhgWE48M5zKk5Hf4Dc",
+			"user_name": "darknet2",
+			"date_added": 1483133445
+		},
+		{
+			"follow_id": 275,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "18cSYDgTfMB255SDgQM9EuoyWu78MhWfNj",
+			"user_name": "Martinv",
+			"date_added": 1483133445
+		},
+		{
+			"follow_id": 276,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1NXas4VQNUb9Vgd6zW7E1xGPUCfcxSXBF5",
+			"user_name": "Xiku Francesc",
+			"date_added": 1483133448
+		},
+		{
+			"follow_id": 277,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1JHQA9oFkFpFFRiscyT4N71AKLWg46pQ92",
+			"user_name": "Fre3neT",
+			"date_added": 1483133449
 		}
 	],
 	"settings": {
@@ -1825,7 +2153,10 @@
 		"1958F7oCppj78MP966AfojMQwHg2WUupzq",
 		"1N2eNZ5w1dpoBcwatsSuTaeNzHgSLjyrpU",
 		"1Lamw1Fk5CrdjwLNPfkDBJH8C2znRuCcBL",
-		"12vNNA9QZKJfaTi3uJ5X6ZegCKw3X4TKR6"
+		"12vNNA9QZKJfaTi3uJ5X6ZegCKw3X4TKR6",
+		"1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj",
+		"1Gh5YshmQdQSvEgj1Dm8twQCjMuJBEVGuC",
+		"17H6uxjm8hQK9Rk79yHkvQYQnTkJNroA3T"
 	],
 	"flags": {},
 	"comment_like": {
