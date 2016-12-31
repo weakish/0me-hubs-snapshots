@@ -1,12 +1,22 @@
 {
-	"next_comment_id": 1,
+	"next_comment_id": 2,
 	"user_name": "sthetz",
 	"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
 	"post_like": {
 		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1482690814": 1482703415,
 		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1482700432": 1482707244,
 		"1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1482253303": 1482778634,
-		"1CtXM9gSE1bdV6yXKZGHzSLbCJheBub33k_1482773202": 1482787705
+		"1CtXM9gSE1bdV6yXKZGHzSLbCJheBub33k_1482773202": 1482787705,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1482833592": 1482865124,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1483191005": 1483190887,
+		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1483185197": 1483190898
 	},
-	"comment": []
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Nice. I was encountering this exception a couple days ago when I was setting up ZeroNet on my server. I had to use ZeroBundle's python distribution instead of system one to get around this issue. It's good to see that devs are still active and react quickly to these things.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1482833592",
+			"date_added": 1482865282
+		}
+	]
 }
