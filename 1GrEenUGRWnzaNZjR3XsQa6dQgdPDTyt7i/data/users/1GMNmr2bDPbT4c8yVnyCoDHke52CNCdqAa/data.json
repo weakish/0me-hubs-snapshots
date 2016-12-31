@@ -1,7 +1,7 @@
 {
-	"next_post_id": 8,
-	"next_comment_id": 35,
-	"next_follow_id": 116,
+	"next_post_id": 9,
+	"next_comment_id": 38,
+	"next_follow_id": 117,
 	"avatar": "jpg",
 	"user_name": "Apuar",
 	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
@@ -42,6 +42,11 @@
 			"post_id": 1481514442,
 			"body": "怎么提高本地ZN节点数量？我的两台电脑，都是用的联通直连，节点差距近7倍，家里的最多的节点1200+，本机最多的节点180+",
 			"date_added": 1481514435
+		},
+		{
+			"post_id": 1483193039,
+			"body": "怎么取消`Multiuser` 插件，直接加`disabled-` ，ZeroNet无法正常连接，一直提示`连接丢失`，ZeroHello无法加载，但任务栏图标右键菜单显示`active`。",
+			"date_added": 1483193031
 		}
 	],
 	"post_like": {
@@ -247,6 +252,24 @@
 			"body": "@Dalao: `路的一个叉`  233333333 66666666666",
 			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482724181",
 			"date_added": 1482725151
+		},
+		{
+			"comment_id": 35,
+			"body": "@Alipay:  -_-`` 好暴力。。",
+			"post_uri": "1GMNmr2bDPbT4c8yVnyCoDHke52CNCdqAa_1483193039",
+			"date_added": 1483193516
+		},
+		{
+			"comment_id": 36,
+			"body": "@Alipay: 想弄明白怎么回事，看看有没有大神提供解决方案。",
+			"post_uri": "1GMNmr2bDPbT4c8yVnyCoDHke52CNCdqAa_1483193039",
+			"date_added": 1483193609
+		},
+		{
+			"comment_id": 37,
+			"body": "启用 `Multiuser` 插件后发现：\n- 所有连接网站的节点数重置了，现在都变成2位数了;\n- 无法通过ZeroHello页面的菜单更新ZeroNet，提示`This function is disabled on this proxy`;\n",
+			"post_uri": "1GMNmr2bDPbT4c8yVnyCoDHke52CNCdqAa_1483193039",
+			"date_added": 1483193931
 		}
 	],
 	"follow": [
@@ -1040,6 +1063,13 @@
 			"auth_address": "1MDDjtDGSbmpZtVVgsp2JhvmHfPaJBM6TH",
 			"user_name": "请叫我谬谬",
 			"date_added": 1482978043
+		},
+		{
+			"follow_id": 116,
+			"hub": "1KNmG5rJUGhgUJGFbLkv2B5isaqu9PrZqi",
+			"auth_address": "1KFfvfaijSYfWZ67GE8D2rTkVs4X4u6s8H",
+			"user_name": "Joke-Life",
+			"date_added": 1483194579
 		}
 	],
 	"settings": {
